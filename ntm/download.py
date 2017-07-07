@@ -72,9 +72,9 @@ def run():
    #       download(i)
    #       print('Downloading' + ' ' + i)
 
-  file_list = glob.glob("src/ntm/data/Chart" + "*" + "*.txt")
+  file_list = glob.glob("ntm/data/Chart" + "*" + "*.txt")
 
-  with open('src/ntm/data/' + 'NTM.txt', 'wb') as file:
+  with open('ntm/data/' + 'NTM.txt', 'wb') as file:
       file.write('Chart	Action	ItemName	ChartingLa	Latitude	Longitude	LatDD	LongDD	PublishedD	Kapp	RNCPanel	RNCPosted\n')
       for i in file_list:
           j = fileinput.input(i)
@@ -83,8 +83,8 @@ def run():
           file.writelines(j)
 
   # clean data
-  f1 = open('src/ntm/data/NTM.txt', 'r')
-  f2 = open('src/ntm/data/NTM_Clean.txt', 'w')
+  f1 = open('ntm/data/NTM.txt', 'r')
+  f2 = open('ntm/data/NTM_Clean.txt', 'w')
   for line in f1:
     f2.write(line.replace('&', 'and'))
   f1.close()
@@ -116,7 +116,7 @@ def run():
 
   counter = 1
 
-  with open('src/ntm/data/NTM_Clean.txt', 'rb') as f:
+  with open('ntm/data/NTM_Clean.txt', 'rb') as f:
       reader = csv.DictReader(f, delimiter='\t', quoting=csv.QUOTE_NONE)
       next(reader, None)
       for row in reader:
@@ -140,9 +140,9 @@ def run():
           print("Feature " + str(counter) + " added to Shapefile.")
           counter = counter + 1
 
-      ntm_shp.save("src/ntm/data/NTM")
+      ntm_shp.save("ntm/data/NTM")
 
-      prj = open("src/ntm/data/NTM.prj", "w")
+      prj = open("ntm/data/NTM.prj", "w")
       epsg = getWKT_PRJ("4326")
       prj.write(epsg)
       prj.close()
