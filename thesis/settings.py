@@ -29,7 +29,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'www.michaelrrushin.com',
-    'pacific-stream-85281.herokuapp.com',
+    'agile-castle-60343.herokuapp.com',
     'localhost',
 ]
 
