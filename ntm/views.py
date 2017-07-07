@@ -38,6 +38,6 @@ ntm_datasets = NTMDatasets.as_view()
 
 def downloadntm(request):
     NTM.objects.all().delete()
-    download.main()
+    download.run()
     load.run()
     return HttpResponseRedirect('/gis/')
