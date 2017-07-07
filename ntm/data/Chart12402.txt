@@ -1,0 +1,4 @@
+Chart: 12402, Current Edition: 13, Print Date: Sep. /2016, New York Lower Bay Northern part
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12402	Change	tabulation - LOWER BAY CHANNEL DEPTHS	tabulation - LOWER BAY CHANNEL DEPTHS	N 40 35' 46.000"	W 074 05' 52.000"	40.59611	-74.09778	LNM 10/17, 1st Dist	2247	12402_1	3/9/2017
+12402	Relocate	CONEY ISLAND CHANNEL BUOY 3	G C "3"	N 40 33' 54.317"	W 073 58' 25.648"	40.56509	-73.97379	LNM 04/17, 1st Dist	2247	12402_1	2/2/2017

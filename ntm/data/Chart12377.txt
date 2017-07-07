@@ -1,0 +1,23 @@
+Chart: 12377, Current Edition: 15, Print Date: Sep. /2012, Connecticut River Deep River to Bodkin Rock
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12377	Delete	Channel Limits PT 2 OF 4	Chart No. 1: I20	N 41 23' 12.880"	W 072 23' 10.340"	41.38691	-72.38621	Not Yet Published	2157	12377_1	4/9/2015
+12377	Delete	Channel Limits PT 4 OF 4	Chart No. 1: I20	N 41 23' 11.290"	W 072 23' 10.340"	41.38647	-72.38621	Not Yet Published	2157	12377_1	4/9/2015
+12377	Delete	Channel Limits PT 1 OF 4	Chart No. 1: I20	N 41 23' 14.770"	W 072 23' 18.700"	41.38744	-72.38853	Not Yet Published	2157	12377_1	12/18/2014
+12377	Delete	Channel Limits PT 3 OF 4	Chart No. 1: I20	N 41 23' 13.320"	W 072 23' 19.110"	41.38703	-72.38864	Not Yet Published	2157	12377_1	12/18/2014
+12377	Delete	Channel Limits PT 1 OF 6	Chart No. 1: I20	N 41 23' 15.280"	W 072 23' 19.130"	41.38758	-72.38865	Not Yet Published	2157	12377_1	12/18/2014
+12377	Delete	Channel Limits PT 4 OF 6	Chart No. 1: I20	N 41 23' 13.370"	W 072 23' 17.980"	41.38705	-72.38833	Not Yet Published	2157	12377_1	12/18/2014
+12377	Add	magenta channel reach separation line PT 1 OF 2	magenta channel reach separation line	N 41 33' 17.130"	W 072 33' 35.820"	41.55476	-72.55995	Not Yet Published	2158	12377_2	12/18/2014
+12377	Add	magenta channel reach separation line PT 2 OF 2	magenta channel reach separation line	N 41 33' 18.500"	W 072 33' 35.050"	41.55514	-72.55974	Not Yet Published	2158	12377_2	12/18/2014
+12377	Add	magenta channel reach separation line PT 1 OF 2	magenta channel reach separation line	N 41 31' 51.300"	W 072 33' 05.040"	41.53092	-72.5514	Not Yet Published	2158	12377_2	12/18/2014
+12377	Add	magenta channel reach separation line PT 2 OF 2	magenta channel reach separation line	N 41 31' 51.860"	W 072 33' 06.870"	41.53107	-72.55191	Not Yet Published	2158	12377_2	12/18/2014
+12377	Change	CONNECTICUT RIVER HADAM ISLAND LIGHT	Fl 2.5s 40ft	N 41 29' 36.590"	W 072 30' 48.260"	41.4935	-72.5134	LNM 47/14, 1st Dist	2157	12377_1	12/11/2014
+12377	Delete	CONNECTICUT RIVER RANGE B REAR LIGHT	F R 57ft	N 41 29' 35.888"	W 072 30' 45.729"	41.4933	-72.5127	LNM 47/14, 1st Dist	2157	12377_1	12/11/2014
+12377	Relocate	Straits Hill Light	Q 23ft 7M	N 41 33' 48.968"	W 072 36' 14.879"	41.5636	-72.60413	LNM 52/13, 1st Dist	2158	12377_2	1/9/2014
+12377	Relocate	Connecticut River Light 42	Fl R 4s 31ft 3M "42"	N 41 25' 44.790"	W 072 26' 11.362"	41.42911	-72.43649	LNM 47/13, 1st Dist	2157	12377_1	12/2/2013
+12377	Relocate	Connecticut River Light 36	Fl R 4s 21ft 3M "36"	N 41 23' 59.575"	W 072 25' 11.899"	41.39988	-72.41998	LNM 47/13, 1st Dist	2157	12377_1	12/2/2013
+12377	Relocate	Connecticut River Light 76	Fl R 4s 31ft 3M "76"	N 41 33' 32.246"	W 072 34' 36.317"	41.55896	-72.57675	LNM 41/13, 1st Dist	2158	12377_2	10/11/2013
+12377	Relocate	Connecticut River Light 80	Fl R 4s 31ft 3M "80"	N 41 33' 40.027"	W 072 36' 09.336"	41.56112	-72.60259	LNM 40/13, 1st Dist	2158	12377_2	10/7/2013
+12377	Relocate	Connecticut River Light 45	Fl G 4s 31ft 3M "45"	N 41 26' 12.519"	W 072 27' 31.856"	41.43681	-72.45885	LNM 40/13, 1st Dist	2157	12377_1	10/7/2013
+12377	Relocate	Connecticut River Light 48	Fl R 4s 36ft 3M "48"	N 41 27' 53.860"	W 072 27' 58.730"	41.46496	-72.46632	LNM 40/13, 1st Dist	2157	12377_1	10/7/2013
+12377	Relocate	Connecticut River Light 61	Fl G 4s 31ft 3M "61"	N 41 30' 04.427"	W 072 32' 59.596"	41.50123	-72.54989	LNM 40/13, 1st Dist	2157	12377_1	10/7/2013
+12377	Relocate	Connecticut River Light 61	Fl G 4s 31ft 3M "61"	N 41 30' 04.427"	W 072 32' 59.596"	41.50123	-72.54989	LNM 40/13, 1st Dist	2158	12377_2	10/7/2013

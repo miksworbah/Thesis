@@ -1,0 +1,12 @@
+Chart: 12346, Current Edition: 12, Print Date: Aug. /2013, Hudson River Yonkers to Piermont
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12346	Delete	UPPER HUDSON RIVER RESEARCH LTD BUOY B	Y "B" Fl Y 6s Priv	N 40 58' 53.878"	W 073 53' 17.112"	40.98163	-73.88808	LNM 31/16, 1st Dist	2227	12346_1	8/11/2016
+12346	Add	anchorage area PT 2 OF 4	None	N 40 56' 54.000"	W 073 54' 40.000"	40.94833	-73.91111	LNM 17/15, 1st Dist	2227	12346_1	4/23/2015
+12346	Add	anchorage area PT 3 OF 4	None	N 40 56' 51.000"	W 073 54' 24.000"	40.9475	-73.90667	LNM 17/15, 1st Dist	2227	12346_1	4/23/2015
+12346	Add	anchorage area label	ANCHORAGE AREA NO. 18 110.155 (see note A)	N 40 56' 46.400"	W 073 54' 35.400"	40.94622	-73.90984	LNM 17/15, 1st Dist	2227	12346_1	4/23/2015
+12346	Add	anchorage area PT 1 OF 4	None	N 40 56' 38.127"	W 073 54' 44.929"	40.94392	-73.91248	LNM 17/15, 1st Dist	2227	12346_1	4/23/2015
+12346	Add	anchorage area PT 4 OF 4	None	N 40 56' 38.127"	W 073 54' 27.551"	40.94392	-73.90765	LNM 17/15, 1st Dist	2227	12346_1	4/23/2015
+12346	Delete	Accurate Landmark	STACK   (Chart No. 1: E2)	N 40 56' 51.211"	W 073 54' 01.682"	40.94756	-73.90047	LNM 50/13, 1st Dist	2227	12346_1	12/16/2013
+12346	Delete	Important Building	(Chart No. 1: D6)	N 40 56' 50.752"	W 073 54' 00.547"	40.94743	-73.90015	LNM 50/13, 1st Dist	2227	12346_1	12/16/2013
+12346	Delete	Important Building	(Chart No. 1: D6)	N 40 56' 48.412"	W 073 54' 02.242"	40.94678	-73.90062	LNM 50/13, 1st Dist	2227	12346_1	12/16/2013
+12346	Delete	Important Building	(Chart No. 1: D6)	N 40 56' 46.898"	W 073 54' 03.391"	40.94636	-73.90094	LNM 50/13, 1st Dist	2227	12346_1	12/16/2013

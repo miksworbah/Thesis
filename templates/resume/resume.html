@@ -1,0 +1,52 @@
+{% extends 'blog/base.html' %}
+{% load static %}
+{% block content %}
+{% for profile in profiles %}
+<h1> {{ profile.name }} </h1>
+<p>{{ profile.address|linebreaksbr }}</p>
+<p>Phone: {{ profile.phone|linebreaksbr }}</p>
+<p>Email: {{ profile.email|linebreaksbr }}</p>
+<p>Website: <a href="//michaelrrushin.com/">{{ profile.website|linebreaksbr }}</a></p>
+<p>Citizenship: {{ profile.citizenship|linebreaksbr }}</p>
+<p>Veteran Status: {{ profile.veteran|linebreaksbr }}</p>
+<p>Security Clearance: {{ profile.sc|linebreaksbr }}</p>
+{% endfor %}
+<h1> Certifications </h1>
+{% for certification in certifications %}
+<p>{{ certification.group|linebreaksbr }}</p>
+<p>{{ certification.certification|linebreaksbr }}</p>
+{% endfor %}
+<h1> Computer Skills </h1>
+{% for skill in skills %}
+<p><strong>{{ skill.type|linebreaksbr }}</strong></p>
+<p>{{ skill.skill }}</p>
+{% endfor %}
+<h1> Education </h1>
+{% for education in educations %}
+<p><strong>{{ education.degree|linebreaksbr }}</strong></p>
+<p>{{ education.major|linebreaksbr }}</p>
+<p>{{ education.school|linebreaksbr }}</p>
+<p>{{ education.address|linebreaksbr }}</p>
+<p>DATE OF GRADUATION: {{ education.graduation|linebreaksbr }}</p>
+<p>GPA: {{ education.gpa }}</p>
+<p>RELEVANT COURSEWORK: {{ education.coursework }}</p>
+{% endfor %}
+<h1> Experience </h1>
+{% for experience in experiences %}
+<p><strong>{{ experience.position|linebreaksbr }}</strong></p>
+<p>{{ experience.company|linebreaksbr }}</p>
+<p>{{ experience.address|linebreaksbr }}</p>
+<p>{{ experience.startdate|linebreaksbr }}</p>
+<p>{{ experience.enddate|linebreaksbr }}</p>
+<p>{{ experience.time|linebreaksbr }}</p>
+<p>{{ experience.salary|linebreaksbr }}</p>
+<p>{{ experience.ksa1|linebreaksbr }}</p>
+<p>{{ experience.ksa2|linebreaksbr }}</p>
+<p>{{ experience.ksa3|linebreaksbr }}</p>
+<p>{{ experience.ksa4|linebreaksbr }}</p>
+<p>{{ experience.ksa5|linebreaksbr }}</p>
+<p>{{ experience.ksa6|linebreaksbr }}</p>
+<p>{{ experience.ksa7|linebreaksbr }}</p>
+<p>{{ experience.ksa8 }}</p>
+{% endfor %}
+{% endblock content %}

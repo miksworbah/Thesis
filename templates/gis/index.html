@@ -1,0 +1,83 @@
+{% extends 'blog/base.html' %}
+{% block content %}
+<div>
+{% load static %}
+{% load leaflet_tags %}
+{% leaflet_js %}
+{% leaflet_css %}
+<head>
+  <meta charset="utf-8">
+  <style type="text/css">
+  #gis {width:100%;height:700px;}
+  </style>
+  <script type="text/JavaScript" src="{% static 'dist/leaflet.ajax.js' %}"> </script>
+  <script type="text/JavaScript" src="{% static 'leaflet-groupedlayercontrol/leaflet.groupedlayercontrol.min.js' %}"> </script>
+  <script type="text/JavaScript" src="{% static 'leaflet-markercluster/leaflet.markercluster.js' %}"> </script>
+  <link rel="stylesheet" type="text/css" href="{% static 'leaflet-groupedlayercontrol/leaflet.groupedlayercontrol.min.css' %}">
+  <link rel="stylesheet" type="text/css" href="{% static 'leaflet-groupedlayercontrol/leaflet.groupedlayercontrol.min.css' %}">
+  <link rel="stylesheet" type="text/css" href="{% static 'leaflet-markercluster/MarkerCluster.css' %}">
+  <link rel="stylesheet" type="text/css" href="{% static 'leaflet-markercluster/MarkerCluster.Default.css' %}">
+</head>
+<body>
+  <script type="text/JavaScript">
+  function our_layers(map,options){
+    var markers = new L.MarkerClusterGroup({
+      showCoverageOnHover: false,
+      maxClusterRadius: 80
+    });
+    function getColor(status) {
+      if (status =='active'){return "#FF006F" }
+      else if (status =='closed'){return "#20679A" }
+      else if (status == "under construction"){return "#0FB248"}
+      else {return "#FCFF15"}
+    }
+    var osm = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'});
+    var otm = L.tileLayer('http://{s}.tile.opentopomap.org/{z}/{x}/{y}.png');
+    var rnc = L.tileLayer('http://tileservice.charts.noaa.gov/tiles/50000_1/{z}/{x}/{y}.png').addTo(map);
+    var points = new L.GeoJSON.AJAX("{% url 'ntm' %}",{
+        onEachFeature: function(feature, layer){
+          layer.bindPopup("<b> Chart: " + feature.properties.chart.toString() + "</b></br>" +
+          "<i> Action: " + feature.properties.action.toString() + "</i></br>" +
+          "<i> Item Name: " + feature.properties.itemname.toString() + "</i></br>" +
+          "<i> Charting Label: " + feature.properties.chartingla.toString() + "</i></br>" +
+          "<i> Latitude: " + feature.properties.latitude.toString() + "</i></br>" +
+          "<i> Longitude: " + feature.properties.longitude.toString() + "</i></br>" +
+          "<i> Latitude Decimal Degrees: " + feature.properties.latdd.toString() + "</i></br>" +
+          "<i> Longitude Decimal Degrees: " + feature.properties.longdd.toString() + "</i></br>" +
+          "<i> Published Date: " + feature.properties.publishedd.toString() + "</i></br>" +
+          "<i> KAPP: " + feature.properties.kapp.toString() + "</i></br>" +
+          "<i> RNC Panel: " + feature.properties.rncpanel.toString() + "</i></br>" +
+          "<i> RNC Posted Date: " + feature.properties.rncposted.toString() + "</i>");
+        }
+      });
+
+    points.on('data:loaded', function() {
+      markers.addLayer(points);
+      map.addLayer(markers).addTo(map);
+    });
+
+    var baseLayers = {
+        "OpenStreetMap": osm,
+        "OpenTopoMap": otm,
+        "RNC": rnc,
+      };
+
+    var groupedOverlays = {
+      "Layers": {
+        "NTM": points,
+        "Cluster": markers,
+      }
+    };
+
+    L.control.groupedLayers(baseLayers, groupedOverlays).addTo(map);
+
+  }
+  </script>
+  {% leaflet_map "gis" callback="window.our_layers" %}
+  <form action="/downloadntm/" method="GET">
+    <input type="submit" value="Download NTM">
+  </form>
+</body>
+</div>
+{% endblock content %}

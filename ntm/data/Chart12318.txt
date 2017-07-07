@@ -1,0 +1,98 @@
+Chart: 12318, Current Edition: 45, Print Date: Apr. /2010, Little Egg Inlet to Hereford Inlet;Absecon Inlet
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12318	Change	New Jersey Intracoastal Waterway Light 182	Q R 15ft 4M "182"	N 39 23' 24.234"	W 074 25' 57.416"	39.39006	-74.43262	LNM 30/16, 5th Dist	681	12318_2	8/11/2016
+12318	Relocate	Absecon Inlet Lighted Buoy 1	G "1" Fl G 4s	N 39 20' 47.393"	W 074 24' 01.337"	39.3465	-74.40037	LNM 20/16, 5th Dist	681	12318_2	5/26/2016
+12318	Relocate	Absecon Inlet Lighted Buoy 1	G "1" Fl G 4s	N 39 20' 47.393"	W 074 24' 01.337"	39.3465	-74.40037	LNM 20/16, 5th Dist	680	12318_1	5/26/2016
+12318	Relocate	Absecon Inlet Lighted Buoy 2	R "2" Fl R 2.5s	N 39 20' 51.336"	W 074 23' 48.860"	39.3476	-74.3969	LNM 20/16, 5th Dist	680	12318_1	5/26/2016
+12318	Change	Fixed Bridge PT 1 OF 3	Chart No. 1: D22	N 39 17' 53.260"	W 074 35' 23.740"	39.29813	-74.58993	LNM 04/16, 5th Dist	680	12318_1	1/21/2016
+12318	Change	Fixed Bridge PT 2 OF 3	Chart No. 1: D22	N 39 17' 15.330"	W 074 34' 54.910"	39.28759	-74.58192	LNM 04/16, 5th Dist	680	12318_1	1/21/2016
+12318	Change	Fixed Bridge PT 3 OF 3	Chart No. 1: D22	N 39 17' 09.380"	W 074 34' 53.590"	39.28594	-74.58155	LNM 04/16, 5th Dist	680	12318_1	1/21/2016
+12318	Change	Fixed Bridge PT 1 OF 3	Chart No. 1: D22	N 39 17' 10.060"	W 074 34' 54.820"	39.28613	-74.58189	LNM 04/16, 5th Dist	680	12318_1	1/21/2016
+12318	Change	Fixed Bridge PT 2 OF 3	Chart No. 1: D22	N 39 17' 15.950"	W 074 34' 56.450"	39.28777	-74.58234	LNM 04/16, 5th Dist	680	12318_1	1/21/2016
+12318	Change	Fixed Bridge PT 3 OF 3	Chart No. 1: D22	N 39 17' 52.640"	W 074 35' 24.600"	39.29795	-74.59016	LNM 04/16, 5th Dist	680	12318_1	1/21/2016
+12318	Change	Fixed Bridge PT 1 OF 3	Chart No. 1: D22	N 39 18' 11.210"	W 074 35' 37.000"	39.30311	-74.59361	LNM 04/16, 5th Dist	680	12318_1	1/21/2016
+12318	Change	Fixed Bridge PT 2 OF 3	Chart No. 1: D22	N 39 18' 08.840"	W 074 35' 34.680"	39.30246	-74.59296	LNM 04/16, 5th Dist	680	12318_1	1/21/2016
+12318	Change	Fixed Bridge PT 3 OF 3	Chart No. 1: D22	N 39 17' 53.260"	W 074 35' 23.740"	39.29813	-74.58993	LNM 04/16, 5th Dist	680	12318_1	1/21/2016
+12318	Change	Fixed Bridge PT 1 OF 3	Chart No. 1: D22	N 39 17' 52.640"	W 074 35' 24.600"	39.29795	-74.59016	LNM 04/16, 5th Dist	680	12318_1	1/21/2016
+12318	Change	Fixed Bridge PT 2 OF 3	Chart No. 1: D22	N 39 18' 09.440"	W 074 35' 36.610"	39.30262	-74.59351	LNM 04/16, 5th Dist	680	12318_1	1/21/2016
+12318	Change	Fixed Bridge PT 3 OF 3	Chart No. 1: D22	N 39 18' 10.660"	W 074 35' 37.900"	39.30296	-74.59386	LNM 04/16, 5th Dist	680	12318_1	1/21/2016
+12318	Add	Obstruction in Feet	16 Obstn       Chart No. 1: K41	N 39 23' 12.000"	W 074 25' 14.180"	39.38667	-74.42061	LNM 03/16, 5th Dist	681	12318_2	1/14/2016
+12318	Add	Obstruction	Obstn         Chart No. 1: K40	N 39 20' 34.040"	W 074 24' 57.350"	39.34279	-74.41593	LNM 03/16, 5th Dist	681	12318_2	1/14/2016
+12318	Add	Obstruction	Obstn         Chart No. 1: K40	N 39 20' 34.040"	W 074 24' 57.350"	39.34279	-74.41593	LNM 03/16, 5th Dist	680	12318_1	1/14/2016
+12318	Add	Obstruction in Feet	11 Obstn       Chart No. 1: K41	N 39 30' 04.910"	W 074 16' 32.400"	39.50137	-74.27567	LNM 03/16, 5th Dist	680	12318_1	1/14/2016
+12318	Substitute	Wreck in Feet	17 Wk for 19 Wk      Chart No. 1: K26	N 39 29' 35.750"	W 074 16' 18.880"	39.49326	-74.27191	LNM 03/16, 5th Dist	680	12318_1	1/14/2016
+12318	Substitute	Wreck in Feet	12 Wk for Wk PA      Chart No. 1: K26	N 39 30' 05.260"	W 074 16' 44.700"	39.50146	-74.27908	LNM 03/16, 5th Dist	680	12318_1	1/14/2016
+12318	Add	Wreck in Feet	9 Wk      Chart No. 1: K26	N 39 28' 39.560"	W 074 17' 13.100"	39.47766	-74.28697	LNM 03/16, 5th Dist	680	12318_1	1/14/2016
+12318	Add	Obstruction in Feet	14 Obstn       Chart No. 1: K41	N 39 30' 23.280"	W 074 16' 16.120"	39.50647	-74.27114	LNM 03/16, 5th Dist	680	12318_1	1/14/2016
+12318	Delete	Garden State Offshore Energy Lighted Data Buoy GS	Y "GS" Fl Y 2s RACON G (--.) Priv	N 39 04' 36.000"	W 074 18' 36.000"	39.07667	-74.31	LNM 43/15, 5th Dist	680	12318_1	10/29/2015
+12318	Add	Lighted yellow buoy	Y Fl Y Priv	N 39 28' 47.220"	W 074 12' 47.460"	39.47978	-74.21318	LNM 41/15, 5th Dist	680	12318_1	10/8/2015
+12318	Relocate	Little Egg Inlet Outer Lighted Whistle Buoy LE	RW "LE" Mo (A) WHIS	N 39 28' 12.390"	W 074 16' 08.941"	39.47011	-74.26915	LNM 30/15, 5th Dist	680	12318_1	8/6/2015
+12318	Relocate	New Jersey Intracoastal Waterway Light 182	Q R 15ft 3M "182"	N 39 23' 24.234"	W 074 25' 57.416"	39.39006	-74.43262	LNM 23/15, 5th Dist	681	12318_2	6/18/2015
+12318	Delete	Harrahs Marina Buoy B	W Or "B" Priv	N 39 23' 06.000"	W 074 25' 26.000"	39.385	-74.42389	LNM 19/15, 5th Dist	681	12318_2	5/21/2015
+12318	Delete	Harrahs Marina Buoy A	W Or "A" Priv	N 39 23' 08.500"	W 074 25' 31.500"	39.38569	-74.42542	LNM 19/15, 5th Dist	681	12318_2	5/21/2015
+12318	Relocate	Steel Pier Wreck Lighted Buoy WR2	R "WR2" Q R	N 39 21' 15.452"	W 074 25' 00.307"	39.35429	-74.41676	LNM 14/15, 5th Dist	681	12318_2	4/9/2015
+12318	Relocate	Steel Pier Wreck Lighted Buoy WR2	R "WR2" Q R	N 39 21' 15.452"	W 074 25' 00.307"	39.35429	-74.41676	LNM 14/15, 5th Dist	680	12318_1	4/9/2015
+12318	Relocate	Five Fathom Bank Northeast Lighted Bell Buoy 2FB	R "2FB" Fl R 4s BELL	N 38 58' 12.411"	W 074 31' 34.554"	38.97012	-74.52627	LNM 40/14, 5th Dist	680	12318_1	10/9/2014
+12318	Delete	Obstruction with Sounding in Feet	73 Obstn	N 39 13' 13.920"	W 074 17' 16.230"	39.22053	-74.28784	LNM 37/14, 5th Dist	680	12318_1	9/11/2014
+12318	Add	Wreck with Sounding in Feet	73 Wk  USCSS ROBERT J WALKER	N 39 13' 13.920"	W 074 17' 16.230"	39.22053	-74.28784	LNM 37/14, 5th Dist	680	12318_1	9/11/2014
+12318	Add	Sounding in Feet	11	N 39 16' 55.500"	W 074 31' 54.000"	39.28208	-74.53167	LNM 14/14, 5th Dist	680	12318_1	4/10/2014
+12318	Add	Sounding in Feet	15	N 39 17' 10.800"	W 074 31' 42.200"	39.28633	-74.52839	LNM 14/14, 5th Dist	680	12318_1	4/10/2014
+12318	Add	Sounding in Feet	7	N 39 17' 00.000"	W 074 32' 06.400"	39.28333	-74.53511	LNM 14/14, 5th Dist	680	12318_1	4/10/2014
+12318	Add	Sounding in Feet	5	N 39 17' 06.700"	W 074 32' 15.500"	39.28519	-74.53764	LNM 14/14, 5th Dist	680	12318_1	4/10/2014
+12318	Delete	Sounding in Feet	11	N 39 17' 23.700"	W 074 31' 08.600"	39.28992	-74.51906	LNM 14/14, 5th Dist	680	12318_1	4/10/2014
+12318	Delete	Sounding in Feet	7	N 39 17' 09.500"	W 074 31' 31.300"	39.28597	-74.52536	LNM 14/14, 5th Dist	680	12318_1	4/10/2014
+12318	Delete	Sounding in Feet	16	N 39 17' 02.700"	W 074 31' 27.900"	39.28408	-74.52441	LNM 14/14, 5th Dist	680	12318_1	4/10/2014
+12318	Delete	Sounding in Feet	15	N 39 17' 00.500"	W 074 32' 15.000"	39.28347	-74.5375	LNM 14/14, 5th Dist	680	12318_1	4/10/2014
+12318	Add	Obstruction in Feet	22 Obstn       Chart No. 1: K41	N 39 23' 08.696"	W 074 25' 20.723"	39.38575	-74.42242	LNM 12/14, 5th Dist	681	12318_2	3/20/2014
+12318	Add	Obstruction in Feet	17 Obstn       Chart No. 1: K41	N 39 21' 23.540"	W 074 24' 19.127"	39.35654	-74.40531	LNM 12/14, 5th Dist	681	12318_2	3/20/2014
+12318	Add	Obstruction in Feet	17 Obstn       Chart No. 1: K41	N 39 21' 23.540"	W 074 24' 19.127"	39.35654	-74.40531	LNM 12/14, 5th Dist	680	12318_1	3/20/2014
+12318	Delete	Sounding in Feet	29	N 39 23' 09.720"	W 074 25' 22.820"	39.38603	-74.423	LNM 12/14, 5th Dist	681	12318_2	3/20/2014
+12318	Delete	Sounding in Feet	20	N 39 21' 21.900"	W 074 24' 19.960"	39.35608	-74.40555	LNM 12/14, 5th Dist	681	12318_2	3/20/2014
+12318	Add	Obstruction in Feet	11 Obstn       Chart No. 1: K41	N 39 29' 09.080"	W 074 18' 22.190"	39.48586	-74.30617	LNM 11/14, 5th Dist	680	12318_1	3/13/2014
+12318	Add	Sounding in Feet	5	N 39 22' 45.340"	W 074 23' 14.880"	39.37926	-74.38747	LNM 07/14, 5th Dist	681	12318_2	2/20/2014
+12318	Add	Sounding in Feet	5	N 39 22' 45.340"	W 074 23' 14.880"	39.37926	-74.38747	LNM 07/14, 5th Dist	680	12318_1	2/20/2014
+12318	Add	Sounding in Feet	7	N 39 23' 44.940"	W 074 22' 09.640"	39.39582	-74.36935	LNM 07/14, 5th Dist	680	12318_1	2/20/2014
+12318	Add	Sounding in Feet	6	N 39 22' 45.700"	W 074 22' 43.950"	39.37936	-74.37888	LNM 07/14, 5th Dist	680	12318_1	2/20/2014
+12318	Delete	Sounding in Feet	13	N 39 22' 47.810"	W 074 23' 09.670"	39.37995	-74.38602	LNM 07/14, 5th Dist	681	12318_2	2/20/2014
+12318	Delete	Sounding in Feet	13	N 39 22' 47.810"	W 074 23' 09.670"	39.37995	-74.38602	LNM 07/14, 5th Dist	680	12318_1	2/20/2014
+12318	Change	Avalon Shoal Lighted Buoy 2	R "2" Fl R 6s	N 39 05' 23.412"	W 074 33' 56.559"	39.08984	-74.56571	LNM 51/13, 5th Dist	680	12318_1	12/23/2013
+12318	Add	chartlet -  revising hydrography	chartlet -  revising hydrography	N 39 30' 00.000"	W 074 20' 00.000"	39.5	-74.33334	LNM 51/13, 5th Dist	680	12318_1	12/13/2013
+12318	Add	Visible Wreck	(4) PA     Chart No. 1: K24	N 39 26' 00.500"	W 074 19' 56.400"	39.43347	-74.33234	LNM 40/13, 5th Dist	680	12318_1	9/30/2013
+12318	Add	Wreck in Feet	19 Wk      Chart No. 1: K26	N 39 29' 34.920"	W 074 16' 20.910"	39.49303	-74.27248	LNM 40/13, 5th Dist	680	12318_1	9/30/2013
+12318	Change	Fishermans Energy Lighted Data Buoy "FE-C"	Y "FE-C" Fl Y 4s Priv	N 39 18' 51.900"	W 074 24' 02.100"	39.31441	-74.40058	LNM 34/13, 5th Dist	680	12318_1	8/29/2013
+12318	Add	Wreck in Feet	24 Wk	N 39 06' 48.000"	W 074 32' 24.000"	39.11333	-74.54	WNM 21/13, NGA	680	12318_1	6/10/2013
+12318	Relocate	Fishermans Energy Research Lighted Data Buoy B	Y "B" Fl Y 2.5s Priv	N 39 10' 08.160"	W 074 23' 57.780"	39.16893	-74.39938	LNM 23/13, 5th Dist	680	12318_1	6/10/2013
+12318	Add	Submarine Cable  PT 3 OF 3	Chart No. 1: L30.1	N 39 27' 57.428"	W 073 56' 00.103"	39.46595	-73.93336	LNM 24/13, 5th Dist	680	12318_1	6/7/2013
+12318	Add	Submarine Cable  PT 1 OF 3	Chart No. 1: L30.1	N 39 30' 59.400"	W 074 07' 26.100"	39.5165	-74.12392	LNM 24/13, 5th Dist	680	12318_1	6/7/2013
+12318	Add	Submarine Cable  PT 2 OF 3	Chart No. 1: L30.1	N 39 30' 16.590"	W 074 04' 10.830"	39.50461	-74.06967	LNM 24/13, 5th Dist	680	12318_1	6/7/2013
+12318	Delete	Fishermans Energy Research Lighted Data Buoy B	Y "B" Fl Y 2.5s Priv	N 39 20' 56.750"	W 074 25' 10.380"	39.3491	-74.41955	LNM 22/13, 5th Dist	681	12318_2	5/30/2013
+12318	Delete	Fishermans Energy Research Lighted Data Buoy B	Y "B" Fl Y 2.5s Priv	N 39 20' 56.750"	W 074 25' 10.380"	39.3491	-74.41955	LNM 22/13, 5th Dist	680	12318_1	5/30/2013
+12318	Add	Fishermans Energy Research Lighted Data Buoy B	Y "B" Fl Y 2.5s Priv	N 39 10' 07.730"	W 074 23' 58.610"	39.16882	-74.39961	LNM 22/13, 5th Dist	680	12318_1	5/30/2013
+12318	Change	Garden State Offshore Energy Lighted Data Buoy GS	Y "GS" Fl Y 2s RACON G (--.) Priv	N 39 04' 36.000"	W 074 18' 36.000"	39.07667	-74.31	LNM 16/13, 5th Dist	680	12318_1	4/22/2013
+12318	Delete	Submarine Cable  PT 1 OF 6	Chart No. 1: L30.1	N 39 30' 59.400"	W 074 03' 03.100"	39.5165	-74.05086	LNM 14/13, 5th Dist	680	12318_1	4/2/2013
+12318	Delete	Submarine Cable  PT 2 OF 6	Chart No. 1: L30.1	N 39 24' 20.100"	W 074 00' 22.500"	39.40558	-74.00625	LNM 14/13, 5th Dist	680	12318_1	4/2/2013
+12318	Delete	Submarine Cable  PT 3 OF 6	Chart No. 1: L30.1	N 39 22' 56.200"	W 073 59' 35.100"	39.38228	-73.99308	LNM 14/13, 5th Dist	680	12318_1	4/2/2013
+12318	Delete	Submarine Cable  PT 4 OF 6	Chart No. 1: L30.1	N 39 17' 11.200"	W 073 57' 58.200"	39.28645	-73.96616	LNM 14/13, 5th Dist	680	12318_1	4/2/2013
+12318	Delete	Submarine Cable  PT 5 OF 6	Chart No. 1: L30.1	N 39 16' 50.200"	W 073 57' 44.000"	39.28061	-73.96222	LNM 14/13, 5th Dist	680	12318_1	4/2/2013
+12318	Delete	Submarine Cable  PT 6 OF 6	Chart No. 1: L30.1	N 39 11' 58.100"	W 073 55' 59.400"	39.19947	-73.93317	LNM 14/13, 5th Dist	680	12318_1	4/2/2013
+12318	Delete	Fishermens Energy Research Lighted Data Buoy B	Y "B" Fl Y 2.5s Priv	N 39 10' 07.730"	W 074 23' 58.610"	39.16882	-74.39961	LNM 11/13, 5th Dist	680	12318_1	3/18/2013
+12318	Add	Fishermens Energy Research Lighted Data Buoy B	Y "B" Fl Y 2.5s Priv	N 39 20' 56.750"	W 074 25' 10.380"	39.3491	-74.41955	LNM 11/13, 5th Dist	681	12318_2	3/18/2013
+12318	Add	Fishermens Energy Research Lighted Data Buoy B	Y "B" Fl Y 2.5s Priv	N 39 20' 56.750"	W 074 25' 10.380"	39.3491	-74.41955	LNM 11/13, 5th Dist	680	12318_1	3/18/2013
+12318	Add	Fishermans Energy Research Lighted Data Buoy B	Y "B" Fl Y 2.5s Priv	N 39 10' 07.730"	W 074 23' 58.610"	39.16882	-74.39961	LNM 05/13, 5th Dist	680	12318_1	1/31/2013
+12318	Add	HURRICANES AND TROPICAL STORMS NOTE	HURRICANES AND TROPICAL STORMS Note: Hurricanes, tropical storms and other major storms may cause considerable damage to marine structures, aids to navigation and moored vessels, resulting in submerged debris in unknown locations. Charted soundings, channel depths and shoreline may not reflect actual conditions following these storms. Fixed aids to navigation may have been damaged or destroyed. Buoys may have been moved from their charted positions, damaged, sunk, extinguished or otherwise made inoperative. Mariners should not rely upon the position or operation of an aid to navigation. Wrecks and submerged obstructions may have been displaced from charted locations. Pipelines may have become uncovered or moved. Mariners are urged to exercise extreme caution and are requested to report aids to navigation discrepancies and hazards to navigation to the nearest United States Coast Guard uni	N 39 07' 41.000"	W 074 49' 35.000"	39.12806	-74.82639	LNM 50/12, 5th Dist	680	12318_1	12/6/2012
+12318	Add	Submarine Cable  PT 1 OF 6	Chart No. 1: L30.1	N 39 30' 59.400"	W 074 03' 03.100"	39.5165	-74.05086	LNM 32/12, 5th Dist	680	12318_1	8/6/2012
+12318	Add	Submarine Cable  PT 2 OF 6	Chart No. 1: L30.1	N 39 24' 20.100"	W 074 00' 22.500"	39.40558	-74.00625	LNM 32/12, 5th Dist	680	12318_1	8/6/2012
+12318	Add	Submarine Cable  PT 3 OF 6	Chart No. 1: L30.1	N 39 22' 56.200"	W 073 59' 35.100"	39.38228	-73.99308	LNM 32/12, 5th Dist	680	12318_1	8/6/2012
+12318	Add	Submarine Cable  PT 4 OF 6	Chart No. 1: L30.1	N 39 17' 11.200"	W 073 57' 58.200"	39.28645	-73.96616	LNM 32/12, 5th Dist	680	12318_1	8/6/2012
+12318	Add	Submarine Cable  PT 5 OF 6	Chart No. 1: L30.1	N 39 16' 50.200"	W 073 57' 44.000"	39.28061	-73.96222	LNM 32/12, 5th Dist	680	12318_1	8/6/2012
+12318	Add	Submarine Cable  PT 6 OF 6	Chart No. 1: L30.1	N 39 11' 58.100"	W 073 55' 59.400"	39.19947	-73.93317	LNM 32/12, 5th Dist	680	12318_1	8/6/2012
+12318	Delete	Hereford Inlet Lighted Whistle Buoy H	RW "H" Mo (A) WHIS	N 38 59' 36.207"	W 074 45' 33.803"	38.99339	-74.75939	LNM 42/11, 5th Dist	680	12318_1	10/26/2011
+12318	Delete	 Ocean Power Technologies Lighted Data Buoy OPT	Y "OPT" Fl Y 6s Priv	N 39 28' 47.220"	W 074 12' 47.460"	39.47978	-74.21318	LNM 34/11, 5th Dist	680	12318_1	8/29/2011
+12318	Change	Absecon Inlet Lighted Buoy 1	G "1" Fl G 4s	N 39 20' 47.457"	W 074 24' 01.173"	39.34652	-74.40033	LNM 26/11, 5th Dist	681	12318_2	7/5/2011
+12318	Change	Absecon Inlet Lighted Buoy 1	G "1" Fl G 4s	N 39 20' 47.457"	W 074 24' 01.173"	39.34652	-74.40033	LNM 26/11, 5th Dist	680	12318_1	7/5/2011
+12318	Add	Garden State Offshore Energy Lighted Data Buoy GS	Y "GS" Fl Y 2s Priv	N 39 04' 36.000"	W 074 18' 36.000"	39.07667	-74.31	LNM 18/11, 5th Dist	680	12318_1	5/9/2011
+12318	Relocate	Townsends Inlet Shoals Lighted Bell Buoy 4A	R "4A" Fl R 4s BELL	N 39 07' 05.411"	W 074 40' 37.577"	39.11817	-74.6771	LNM 09/11, 5th Dist	680	12318_1	3/8/2011
+12318	Relocate	Hereford Inlet Lighted Whistle Buoy H	RW "H" Mo (A) WHIS	N 38 59' 36.207"	W 074 45' 33.803"	38.99339	-74.75939	LNM 08/11, 5th Dist	680	12318_1	3/8/2011
+12318	Relocate	Avalon Shoal Lighted Bell Buoy 2	R "2" Fl R 6s BELL	N 39 05' 23.412"	W 074 33' 56.559"	39.08984	-74.56571	LNM 24/10, 5th Dist	680	12318_1	6/23/2010
+12318	Relocate	Little Egg Inlet Outer Lighted Whistle Buoy LE	RW "LE" Mo (A) WHIS	N 39 27' 56.219"	W 074 16' 27.346"	39.46562	-74.27426	LNM 17/10, 5th Dist	680	12318_1	5/13/2010
+12318	Relocate	Fisherman's Energy Lighted Data Buoy A	Y "A" Fl Y 4s Priv	N 39 18' 51.900"	W 074 24' 02.100"	39.31441	-74.40058	LNM 17/10, 5th Dist	680	12318_1	5/13/2010
