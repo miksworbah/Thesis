@@ -1,0 +1,49 @@
+Chart: 13281, Current Edition: 19, Print Date: Oct. /2010, Gloucester Harbor and Annisquam River
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+13281	Relocate	Gloucester Inner Harbor Danger Daybeacon	W Bn	N 42 36' 47.196"	W 070 39' 17.064"	42.61311	-70.65474	LNM 37/13, 1st Dist	2066	13281_1	9/18/2013
+13281	Relocate	Annisquam River Channel Daybeacon 7	G "7"	N 42 39' 29.862"	W 070 40' 59.694"	42.65829	-70.68325	LNM 05/13, 1st Dist	2066	13281_1	2/14/2013
+13281	Relocate	Annisquam River Channel Daybeacon 7	G "7"	N 42 39' 29.868"	W 070 40' 59.694"	42.6583	-70.68325	LNM 43/12, 1st Dist	2066	13281_1	10/31/2012
+13281	Relocate	Annisquam River Channel Light 30	Fl R 4s 12ft 4M "30"	N 42 37' 46.218"	W 070 41' 31.170"	42.62951	-70.69199	LNM 43/12, 1st Dist	2066	13281_1	10/31/2012
+13281	Relocate	Annisquam River Channel Light 48	Fl R 4s 10ft 4M "48"	N 42 36' 47.358"	W 070 40' 44.814"	42.61316	-70.67912	LNM 43/12, 1st Dist	2066	13281_1	10/31/2012
+13281	Relocate	Gloucester Inner Harbor Danger Daybeacon	W Bn	N 42 36' 47.130"	W 070 39' 17.010"	42.61309	-70.65472	LNM 43/12, 1st Dist	2066	13281_1	10/31/2012
+13281	Change	Depth Legend - ENTRANCE CHANNEL to:	20 FT FOR A WIDTH OF 300 FT JUL 2010	N 42 36' 28.000"	W 070 39' 37.000"	42.60778	-70.66028	LNM 23/12, 1st Dist	2066	13281_1	6/5/2012
+13281	Change	Depth Legend - NORTH CHANNEL to:	17 FT FOR WIDTH OF 200 FT JUL 2010	N 42 36' 49.000"	W 070 39' 19.000"	42.61361	-70.65528	LNM 23/12, 1st Dist	2066	13281_1	6/5/2012
+13281	Change	Depth Legend - SOUTH CHANNEL to:	18 FT FOR WIDTH OF 200 FT JUL 2010	N 42 36' 42.000"	W 070 39' 09.000"	42.61167	-70.6525	LNM 23/12, 1st Dist	2066	13281_1	6/5/2012
+13281	Change	Depth Legend - SMITH COVE CHANNEL to:	15 FT JUL 2010	N 42 36' 33.000"	W 070 39' 15.000"	42.60917	-70.65417	LNM 23/12, 1st Dist	2066	13281_1	6/5/2012
+13281	Substitute	Sounding in Feet	17 for 15	N 42 36' 48.200"	W 070 39' 04.700"	42.61339	-70.65131	LNM 23/12, 1st Dist	2066	13281_1	6/5/2012
+13281	Add	Sounding in Feet	16	N 42 36' 51.000"	W 070 39' 01.900"	42.61417	-70.65053	LNM 23/12, 1st Dist	2066	13281_1	6/5/2012
+13281	Add	Sounding in Feet	16	N 42 36' 51.400"	W 070 39' 17.200"	42.61428	-70.65478	LNM 23/12, 1st Dist	2066	13281_1	6/5/2012
+13281	Add	Sounding in Feet	15	N 42 36' 38.500"	W 070 39' 49.900"	42.61069	-70.66386	LNM 23/12, 1st Dist	2066	13281_1	6/5/2012
+13281	Change	Depth Legend - INNER HARBOR ANCHORAGE to:	16 FT JUL 2010	N 42 36' 40.000"	W 070 39' 21.000"	42.61111	-70.65583	LNM 23/12, 1st Dist	2066	13281_1	6/5/2012
+13281	Change	Depth Legend - HARBOR COVE CHANNEL to:	17 FT JUL 2010	N 42 36' 27.000"	W 070 39' 46.000"	42.6075	-70.66278	LNM 23/12, 1st Dist	2066	13281_1	6/5/2012
+13281	Change	Depth Legend - HARBOR COVE CHANNEL to:	15 1/2 FT JUL 2010	N 42 36' 35.000"	W 070 39' 43.000"	42.60972	-70.66194	LNM 23/12, 1st Dist	2066	13281_1	6/5/2012
+13281	Change	Depth Legend - 15-FOOT ANCHORAGE to:	14 FT JUL 2010	N 42 36' 34.000"	W 070 39' 36.000"	42.60944	-70.66	LNM 23/12, 1st Dist	2066	13281_1	6/5/2012
+13281	Relocate	Annisquam River Channel Buoy 4	R N "4"	N 42 39' 57.526"	W 070 40' 57.800"	42.66598	-70.68272	LNM 10/12, 1st Dist	2066	13281_1	3/12/2012
+13281	Relocate	Annisquam River Channel Light 25	Fl G 2.5s 11ft 3M "25"	N 42 38' 07.728"	W 070 41' 06.606"	42.63548	-70.68517	LNM 43/11, 1st Dist	2066	13281_1	11/3/2011
+13281	Relocate	Annisquam River Channel Buoy 34	R N "34"	N 42 37' 23.996"	W 070 41' 18.871"	42.62333	-70.68858	LNM 42/11, 1st Dist	2066	13281_1	10/31/2011
+13281	Relocate	Annisquam River Channel Buoy 34	R N "34"	N 42 37' 23.996"	W 070 41' 18.871"	42.62333	-70.68858	LNM 41/11, 1st Dist	2066	13281_1	10/17/2011
+13281	Relocate	Annisquam River Channel Light 15	Fl G 2.5s 10ft 3M "15"	N 42 38' 55.866"	W 070 40' 40.152"	42.64885	-70.67782	LNM 37/11, 1st Dist	2066	13281_1	9/26/2011
+13281	Relocate	Annisquam River Channel Light 41	Fl G 4s 10ft 4M "41"	N 42 37' 11.748"	W 070 41' 07.428"	42.61993	-70.68539	LNM 37/11, 1st Dist	2066	13281_1	9/26/2011
+13281	Relocate	Annisquam River Channel Light 35	Fl G 2.5s 10ft 3M "35"	N 42 37' 19.920"	W 070 41' 19.740"	42.6222	-70.68882	LNM 37/11, 1st Dist	2066	13281_1	9/26/2011
+13281	Relocate	Annisquam River Channel Light 25	Fl G 2.5s 11ft 3M "25"	N 42 38' 07.728"	W 070 41' 09.606"	42.63548	-70.686	LNM 37/11, 1st Dist	2066	13281_1	9/26/2011
+13281	Relocate	Annisquam River Channel Light 19	Fl G 4s 10ft 4M "19"	N 42 38' 21.432"	W 070 41' 04.572"	42.63929	-70.6846	LNM 37/11, 1st Dist	2066	13281_1	9/26/2011
+13281	Relocate	Annisquam River South Entrance Daybeacon	W Bn	N 42 36' 32.124"	W 070 40' 19.662"	42.60892	-70.67213	LNM 37/11, 1st Dist	2066	13281_1	9/26/2011
+13281	Relocate	Barn Rocks Daybeacon BN	RW "BN"	N 42 39' 16.932"	W 070 41' 08.742"	42.65471	-70.68576	LNM 37/11, 1st Dist	2066	13281_1	9/26/2011
+13281	Delete	Rip Rap	(Chart No. 1: Pa)	N 42 38' 07.800"	W 070 41' 06.900"	42.6355	-70.68525	LNM 37/11, 1st Dist	2066	13281_1	9/26/2011
+13281	Add	Gloucester Inner Harbor Channel Lighted Buoy 9	G "9" Fl G 4s	N 42 36' 20.447"	W 070 39' 59.944"	42.60568	-70.66665	LNM 12/11, 1st Dist	2066	13281_1	3/28/2011
+13281	Delete	Gloucester Inner Harbor Channel Approach Lighted Buoy 11	G "11" Fl G 2.5s	N 42 36' 20.754"	W 070 39' 52.009"	42.60577	-70.66444	LNM 11/11, 1st Dist	2066	13281_1	3/23/2011
+13281	Delete	Babson Ledge Buoy 9	G C "9"	N 42 36' 20.464"	W 070 39' 59.899"	42.60569	-70.66664	LNM 11/11, 1st Dist	2066	13281_1	3/23/2011
+13281	Delete	Gloucester Inner Harbor Channel Buoy 13	G C "13"	N 42 36' 30.834"	W 070 39' 35.019"	42.60857	-70.65973	LNM 11/11, 1st Dist	2066	13281_1	3/23/2011
+13281	Add	Gloucester Inner Harbor Channel Lighted Buoy 12	R "12" Fl R 4s	N 42 36' 28.708"	W 070 39' 32.143"	42.60798	-70.65893	LNM 11/11, 1st Dist	2066	13281_1	3/23/2011
+13281	Add	Gloucester Inner Harbor Channel Lighted Buoy 10	R "10" Fl R 2.5s	N 42 36' 18.300"	W 070 39' 50.069"	42.60508	-70.66391	LNM 11/11, 1st Dist	2066	13281_1	3/23/2011
+13281	Change	Tenpound Island Ledge Lighted Buoy 6	R "6" Fl R 4s	N 42 35' 45.934"	W 070 40' 19.749"	42.59609	-70.67215	LNM 11/11, 1st Dist	2066	13281_1	3/23/2011
+13281	Change	Green Rock Danger Daybeacon	W Bn	N 42 36' 09.483"	W 070 39' 43.558"	42.60263	-70.6621	LNM 11/11, 1st Dist	2066	13281_1	3/23/2011
+13281	Change	Black Rock Danger Daybeacon	W Bn Ra Ref	N 42 36' 21.703"	W 070 39' 42.949"	42.60603	-70.66193	LNM 11/11, 1st Dist	2066	13281_1	3/23/2011
+13281	Relocate	Black Rock Danger Daybeacon	W Bn Ra Ref	N 42 36' 21.703"	W 070 39' 42.949"	42.60603	-70.66193	LNM 11/11, 1st Dist	2066	13281_1	3/23/2011
+13281	Relocate	Tenpound Island Ledge Lighted Buoy 6	R "6" Fl R 4s	N 42 35' 45.934"	W 070 40' 19.749"	42.59609	-70.67215	LNM 11/11, 1st Dist	2066	13281_1	3/23/2011
+13281	Relocate	Green Rock Danger Daybeacon	W Bn	N 42 36' 09.483"	W 070 39' 43.558"	42.60263	-70.6621	LNM 11/11, 1st Dist	2066	13281_1	3/23/2011
+13281	Add	NOTE Z NO-DISCHARGE ZONE, 40 CFR 140:	This chart falls entirely within the limits of a No-Discharge Zone (NDZ). Under the Clean Water Act, Section 312, all vessels operating within a No-Discharge Zone (NDZ) are completely prohibited from discharging any sewage, treated or untreated, into the waters.  All vessels with an installedmarine sanitation device (MSD) that are navigating, moored, anchored, or docked within a NDZ must have the MSD disabled to prevent the overboard discharge of sewage (treated or untreated) or install a holding tank.  Regulations for the NDZ are contained in the U.S. Coast Pilot.Additional information concerning the regulations and requirements may be obtained from the Environmental Protection Agency (EPA) website: http://www.epa.gov/owow/oceans/regulatory/vessel_sewage/.	N 42 38' 31.000"	W 070 42' 26.000"	42.64194	-70.70722	LNM 46/10, 1st Dist	2066	13281_1	11/12/2010
+13281	Add	No-Discharge Zone Label:	NO-DISCHARGE ZONE (see note Z)	N 42 34' 38.000"	W 070 38' 53.000"	42.57722	-70.64806	LNM 46/10, 1st Dist	2066	13281_1	11/12/2010
+13281	Add	No-Discharge Zone Label:	NO-DISCHARGE ZONE (see note Z)	N 42 34' 37.500"	W 070 40' 48.000"	42.57708	-70.68	LNM 46/10, 1st Dist	2066	13281_1	11/12/2010
+13281	Add	No-Discharge Zone Label:	NO-DISCHARGE ZONE (see note Z)	N 42 40' 12.000"	W 070 41' 32.700"	42.67	-70.69241	LNM 46/10, 1st Dist	2066	13281_1	11/12/2010
+13281	Change	Annisquam River Channel Light 48	Fl R 4s 10ft 4M "48"	N 42 36' 47.400"	W 070 40' 44.700"	42.61317	-70.67908	LNM 41/10, 1st Dist	2066	13281_1	10/20/2010

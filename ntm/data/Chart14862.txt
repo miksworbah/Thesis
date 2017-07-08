@@ -1,0 +1,22 @@
+Chart: 14862, Current Edition: 29, Print Date: May. /2016, Port Huron to Pte aux Barques;Port Sanilac;Harbor Beach
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14862	Relocate	Harbor Beach Buoy 7	G C "7"	N 43 51' 13.852"	W 082 38' 27.115"	43.85385	-82.64086	LNM 24/17, 9th Dist	1315	14862_3	6/15/2017
+14862	Relocate	Harbor Beach Buoy 9	G C "9"	N 43 51' 18.242"	W 082 38' 37.236"	43.85507	-82.64368	LNM 24/17, 9th Dist	1315	14862_3	6/15/2017
+14862	Change	Harbor Beach Lighted Buoy 4	R "4" Fl R 2.5s	N 43 50' 43.714"	W 082 37' 54.349"	43.84547	-82.63177	LNM 20/17, 9th Dist	1315	14862_3	5/18/2017
+14862	Change	Harbor Beach Light 2	Fl R 6s 20ft 8 St M HORN (MRASS)	N 43 50' 44.196"	W 082 37' 52.086"	43.84561	-82.63113	LNM 17/17, 9th Dist	1315	14862_3	5/4/2017
+14862	Delete	Harbor Beach Marina Lighted Buoy 1	G "1" Fl G 4s	N 43 51' 18.180"	W 082 38' 37.680"	43.85505	-82.6438	LNM 17/17, 9th Dist	1315	14862_3	5/4/2017
+14862	Delete	Harbor Beach Marina Lighted Buoy 3	G "3" Fl G 2.5s	N 43 51' 19.400"	W 082 38' 44.700"	43.85539	-82.64575	LNM 17/17, 9th Dist	1315	14862_3	5/4/2017
+14862	Relocate	Harbor Beach Buoy 3	G C "3"	N 43 50' 38.745"	W 082 38' 05.386"	43.8441	-82.63483	LNM 17/17, 9th Dist	1315	14862_3	5/4/2017
+14862	Relocate	Harbor Beach Buoy 4	R N "4"	N 43 50' 43.714"	W 082 37' 54.349"	43.84547	-82.63177	LNM 17/17, 9th Dist	1315	14862_3	5/4/2017
+14862	Relocate	Harbor Beach Buoy 5	G C "5"	N 43 51' 01.156"	W 082 38' 13.669"	43.85032	-82.63713	LNM 17/17, 9th Dist	1315	14862_3	5/4/2017
+14862	Add	Harbor Beach Buoy 7	G C "7"	N 43 51' 14.120"	W 082 38' 32.310"	43.85392	-82.64231	LNM 17/17, 9th Dist	1315	14862_3	5/4/2017
+14862	Add	Harbor Beach Buoy 9	G C "9"	N 43 51' 19.390"	W 082 38' 40.980"	43.85538	-82.64471	LNM 17/17, 9th Dist	1315	14862_3	5/4/2017
+14862	Add	Note: MARINER ACTIVATED SOUND SIGNALS	MARINER ACTIVATED SOUND SIGNAL: HARBOR BEACH LIGHT "2" (MRASS) Horn is activated by keying the mic 5 times on VHF-FM Ch 83A.	N 43 50' 44.196"	W 082 37' 52.086"	43.84561	-82.63113	LNM 17/17, 9th Dist	1315	14862_3	5/4/2017
+14862	Change	Lake Huron Cut Lighted Buoy 11 AIS	G "11" Fl G 4s AIS	N 43 05' 28.404"	W 082 24' 47.661"	43.09122	-82.41324	LNM 50/16, 9th Dist	1313	14862_1	1/19/2017
+14862	Change	Lake Huron Cut Lighted Buoy 12 AIS	R "12" Fl R 4s AIS	N 43 05' 27.934"	W 082 24' 37.127"	43.09109	-82.41032	LNM 50/16, 9th Dist	1313	14862_1	1/19/2017
+14862	Change	Lake Huron Cut Lighted Buoy 1 AIS	G "1" Q G AIS	N 43 00' 33.297"	W 082 25' 04.173"	43.00925	-82.41782	LNM 50/16, 9th Dist	1313	14862_1	1/19/2017
+14862	Change	Port Sanilac Light	Fl 2.5s 69ft 14 St M	N 43 25' 44.430"	W 082 32' 24.710"	43.42901	-82.5402	LNM 39/16, 9th Dist	1314	14862_2	10/6/2016
+14862	Change	Port Sanilac Light	Fl 2.5s 69ft 14 St M	N 43 25' 44.430"	W 082 32' 24.710"	43.42901	-82.5402	LNM 39/16, 9th Dist	1313	14862_1	10/6/2016
+14862	Change	Depth Note - LEXINGTON HARBOR 	LEXINGTON HARBOR to: The controlling depth in the channel was 6 feet. Apr 2016	N 43 17' 09.500"	W 082 33' 23.880"	43.28597	-82.55663	LNM 35/16, 9th Dist	1313	14862_1	7/7/2016
+14862	Change	Depth Legend - Port Sanilac 	5 1/2 FT APR 2016	N 43 25' 50.600"	W 082 32' 07.000"	43.43072	-82.53528	LNM 35/16, 9th Dist	1314	14862_2	7/7/2016
+14862	Add	Sounding in Feet	5	N 43 25' 50.440"	W 082 32' 07.900"	43.43068	-82.53553	LNM 35/16, 9th Dist	1314	14862_2	7/7/2016

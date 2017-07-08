@@ -1,45 +1,45 @@
-Chart: 12378, Current Edition: 15, Print Date: Feb. /2012, Connecticut River Bodkin Rock to Hartford
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-12378	Add	magenta channel reach separation line PT 1 OF 2	magenta channel reach separation line	N 41 44' 59.020"	W 072 38' 50.720"	41.74973	-72.64742	Not Yet Published	2159	12378_1	12/18/2014
-12378	Add	magenta channel reach separation line PT 2 OF 2	magenta channel reach separation line	N 41 45' 00.110"	W 072 38' 49.350"	41.75003	-72.64704	Not Yet Published	2159	12378_1	12/18/2014
-12378	Add	magenta channel reach separation line PT 1 OF 2	magenta channel reach separation line	N 41 40' 56.250"	W 072 36' 32.950"	41.68229	-72.60915	Not Yet Published	2159	12378_1	12/18/2014
-12378	Add	magenta channel reach separation line PT 2 OF 2	magenta channel reach separation line	N 41 40' 56.490"	W 072 36' 31.000"	41.68236	-72.60861	Not Yet Published	2159	12378_1	12/18/2014
-12378	Change	Depth Legend - Wethersfield Cove	6 FT APR 2014	N 41 43' 24.500"	W 072 39' 25.700"	41.72347	-72.65714	LNM 29/14, 1st Dist	2159	12378_1	7/17/2014
-12378	Add	Sounding in Feet	5	N 41 43' 27.400"	W 072 39' 24.940"	41.72428	-72.65693	LNM 29/14, 1st Dist	2159	12378_1	7/17/2014
-12378	Change	Depth Legend - Wethersfield Cove	3 FT APR 2014	N 41 43' 32.100"	W 072 39' 11.200"	41.72558	-72.65311	LNM 29/14, 1st Dist	2159	12378_1	7/17/2014
-12378	Delete	Sounding in Feet	5	N 41 43' 27.800"	W 072 39' 25.700"	41.72439	-72.65714	LNM 29/14, 1st Dist	2159	12378_1	7/17/2014
-12378	Relocate	Connecticut River Light 98	Fl R 2.5s 21ft 3M "98"	N 41 36' 00.089"	W 072 37' 30.538"	41.60003	-72.62515	LNM 52/13, 1st Dist	2160	12378_2	1/9/2014
-12378	Relocate	Connecticut River Light 125	Fl G 4s 26ft 3M "125"	N 41 41' 23.949"	W 072 38' 09.026"	41.68999	-72.63584	LNM 52/13, 1st Dist	2159	12378_1	1/9/2014
-12378	Relocate	Straits Hill Light	Q 23ft 7M	N 41 33' 48.968"	W 072 36' 14.879"	41.5636	-72.60413	LNM 52/13, 1st Dist	2160	12378_2	1/9/2014
-12378	Relocate	Wethersfield Cove Daybeacon 3	G "3"	N 41 43' 30.581"	W 072 39' 20.496"	41.72516	-72.65569	LNM 43/13, 1st Dist	2159	12378_1	10/28/2013
-12378	Relocate	Hartford Jetty Light 143	Fl G 4s 26ft 3M "143"	N 41 45' 03.657"	W 072 39' 02.752"	41.75101	-72.65076	LNM 43/13, 1st Dist	2159	12378_1	10/28/2013
-12378	Relocate	Connecticut River Light 100	Fl R 4s 36ft 3M "100"	N 41 36' 07.834"	W 072 36' 56.170"	41.60218	-72.6156	LNM 40/13, 1st Dist	2160	12378_2	10/7/2013
-12378	Relocate	Connecticut River Light 105	Fl G 4s 21ft 3M "105"	N 41 37' 09.622"	W 072 37' 39.029"	41.61934	-72.62751	LNM 40/13, 1st Dist	2160	12378_2	10/7/2013
-12378	Relocate	Connecticut River Light 107	Fl G 2.5s 21ft 3M "107"	N 41 37' 49.669"	W 072 37' 58.010"	41.63046	-72.63278	LNM 40/13, 1st Dist	2160	12378_2	10/7/2013
-12378	Relocate	Connecticut River Light 80	Fl R 4s 31ft 3M "80"	N 41 33' 40.027"	W 072 36' 09.336"	41.56112	-72.60259	LNM 40/13, 1st Dist	2160	12378_2	10/7/2013
-12378	Relocate	Connecticut River Light 95	Fl G 4s 21ft 3M "95"	N 41 35' 46.793"	W 072 38' 17.331"	41.59633	-72.63815	LNM 40/13, 1st Dist	2160	12378_2	10/7/2013
-12378	Relocate	Connecticut River Light 120	Fl R 4s 36ft 3M "120"	N 41 41' 07.789"	W 072 36' 36.071"	41.6855	-72.61002	LNM 36/13, 1st Dist	2159	12378_1	9/12/2013
-12378	Relocate	Connecticut River Light 140	Fl R 4s 36ft 3M "140"	N 41 44' 02.965"	W 072 38' 26.687"	41.73416	-72.64075	LNM 36/13, 1st Dist	2159	12378_1	9/12/2013
-12378	Relocate	Connecticut River Light 122	Fl R 4s 36ft 3M "122"	N 41 41' 18.847"	W 072 36' 53.201"	41.68857	-72.61478	LNM 36/13, 1st Dist	2159	12378_1	9/12/2013
-12378	Relocate	Connecticut River Range F Front Light 110	Fl R 2.5s 26ft "110"	N 41 38' 35.577"	W 072 37' 24.684"	41.64322	-72.62352	LNM 40/12, 1st Dist	2160	12378_2	10/10/2012
-12378	Relocate	Connecticut River Range F Rear Light	F R 53ft	N 41 38' 34.408"	W 072 37' 24.606"	41.64289	-72.6235	LNM 40/12, 1st Dist	2160	12378_2	10/10/2012
-12378	Change	Connecticut River Range F Front Light 110	Fl R 2.5s 26ft "110"	N 41 38' 35.577"	W 072 37' 24.684"	41.64322	-72.62352	LNM 40/12, 1st Dist	2160	12378_2	10/10/2012
-12378	Change	Connecticut River Range F Rear Light	F R 53ft	N 41 38' 34.408"	W 072 37' 24.606"	41.64289	-72.6235	LNM 40/12, 1st Dist	2160	12378_2	10/10/2012
-12378	Relocate	Connecticut River Range E Front Light 102	Fl R 2.5s 25ft "102"	N 41 36' 40.134"	W 072 36' 42.719"	41.61115	-72.61187	LNM 37/12, 1st Dist	2160	12378_2	9/17/2012
-12378	Change	Connecticut River Range E Front Light 102	Fl R 2.5s 25ft "102"	N 41 36' 40.134"	W 072 36' 42.719"	41.61115	-72.61187	LNM 37/12, 1st Dist	2160	12378_2	9/17/2012
-12378	Relocate	Connecticut River Range E Rear Light	F R 45ft	N 41 36' 38.076"	W 072 36' 39.038"	41.61058	-72.61085	LNM 37/12, 1st Dist	2160	12378_2	9/17/2012
-12378	Relocate	Connecticut River Range G Front Light 116	Fl R 2.5s 47ft "116"	N 41 40' 24.821"	W 072 36' 29.970"	41.67356	-72.60832	LNM 37/12, 1st Dist	2159	12378_1	9/17/2012
-12378	Relocate	Connecticut River Range G Front Light 116	Fl R 2.5s 47ft "116"	N 41 40' 24.821"	W 072 36' 29.970"	41.67356	-72.60832	LNM 37/12, 1st Dist	2160	12378_2	9/17/2012
-12378	Change	Connecticut River Range G Front Light 116	Fl R 2.5s 47ft "116"	N 41 40' 24.821"	W 072 36' 29.970"	41.67356	-72.60832	LNM 37/12, 1st Dist	2159	12378_1	9/17/2012
-12378	Change	Connecticut River Range G Front Light 116	Fl R 2.5s 47ft "116"	N 41 40' 24.821"	W 072 36' 29.970"	41.67356	-72.60832	LNM 37/12, 1st Dist	2160	12378_2	9/17/2012
-12378	Relocate	Connecticut River Range G Rear Light	F R 109ft	N 41 40' 25.524"	W 072 36' 27.326"	41.67376	-72.60759	LNM 37/12, 1st Dist	2159	12378_1	9/17/2012
-12378	Relocate	Connecticut River Range G Rear Light	F R 109ft	N 41 40' 25.524"	W 072 36' 27.326"	41.67376	-72.60759	LNM 37/12, 1st Dist	2160	12378_2	9/17/2012
-12378	Change	Connecticut River Range G Rear Light	F R 109ft	N 41 40' 25.524"	W 072 36' 27.326"	41.67376	-72.60759	LNM 37/12, 1st Dist	2159	12378_1	9/17/2012
-12378	Change	Connecticut River Range G Rear Light	F R 109ft	N 41 40' 25.524"	W 072 36' 27.326"	41.67376	-72.60759	LNM 37/12, 1st Dist	2160	12378_2	9/17/2012
-12378	Relocate	Connecticut River Range J Front Light	Fl G 2.5s 37ft 	N 41 41' 58.884"	W 072 38' 12.110"	41.69969	-72.6367	LNM 37/12, 1st Dist	2159	12378_1	9/17/2012
-12378	Change	Connecticut River Range J Front Light	Fl G 2.5s 37ft 	N 41 41' 58.884"	W 072 38' 12.110"	41.69969	-72.6367	LNM 37/12, 1st Dist	2159	12378_1	9/17/2012
-12378	Relocate	Connecticut River Range J Rear Light	F G 51ft	N 41 41' 58.549"	W 072 38' 14.680"	41.6996	-72.63741	LNM 37/12, 1st Dist	2159	12378_1	9/17/2012
-12378	Change	Connecticut River Range J Rear Light	F G 51ft	N 41 41' 58.549"	W 072 38' 14.680"	41.6996	-72.63741	LNM 37/12, 1st Dist	2159	12378_1	9/17/2012
-12378	Relocate	Straits Hill Light	Q 23ft 7M	N 41 33' 49.005"	W 072 36' 14.729"	41.56361	-72.60409	LNM 37/12, 1st Dist	2160	12378_2	9/17/2012
-12378	Relocate	Straits Hill Light	Q 23ft 7M	N 41 33' 48.968"	W 072 36' 14.879"	41.5636	-72.60413	LNM 33/12, 1st Dist	2160	12378_2	8/22/2012
-12378	Change	Tabulation - CONNECTICUT RIVER CHANNEL DEPTHS 	Tabulation - CONNECTICUT RIVER CHANNEL DEPTHS 	N 41 44' 24.000"	W 072 36' 25.000"	41.74	-72.60694	LNM 22/12, 1st Dist	2159	12378_1	5/24/2012
+Chart: 12378, Current Edition: 15, Print Date: Feb. /2012, Connecticut River Bodkin Rock to Hartford
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12378	Add	magenta channel reach separation line PT 1 OF 2	magenta channel reach separation line	N 41 44' 59.020"	W 072 38' 50.720"	41.74973	-72.64742	Not Yet Published	2159	12378_1	12/18/2014
+12378	Add	magenta channel reach separation line PT 2 OF 2	magenta channel reach separation line	N 41 45' 00.110"	W 072 38' 49.350"	41.75003	-72.64704	Not Yet Published	2159	12378_1	12/18/2014
+12378	Add	magenta channel reach separation line PT 1 OF 2	magenta channel reach separation line	N 41 40' 56.250"	W 072 36' 32.950"	41.68229	-72.60915	Not Yet Published	2159	12378_1	12/18/2014
+12378	Add	magenta channel reach separation line PT 2 OF 2	magenta channel reach separation line	N 41 40' 56.490"	W 072 36' 31.000"	41.68236	-72.60861	Not Yet Published	2159	12378_1	12/18/2014
+12378	Change	Depth Legend - Wethersfield Cove	6 FT APR 2014	N 41 43' 24.500"	W 072 39' 25.700"	41.72347	-72.65714	LNM 29/14, 1st Dist	2159	12378_1	7/17/2014
+12378	Add	Sounding in Feet	5	N 41 43' 27.400"	W 072 39' 24.940"	41.72428	-72.65693	LNM 29/14, 1st Dist	2159	12378_1	7/17/2014
+12378	Change	Depth Legend - Wethersfield Cove	3 FT APR 2014	N 41 43' 32.100"	W 072 39' 11.200"	41.72558	-72.65311	LNM 29/14, 1st Dist	2159	12378_1	7/17/2014
+12378	Delete	Sounding in Feet	5	N 41 43' 27.800"	W 072 39' 25.700"	41.72439	-72.65714	LNM 29/14, 1st Dist	2159	12378_1	7/17/2014
+12378	Relocate	Connecticut River Light 98	Fl R 2.5s 21ft 3M "98"	N 41 36' 00.089"	W 072 37' 30.538"	41.60003	-72.62515	LNM 52/13, 1st Dist	2160	12378_2	1/9/2014
+12378	Relocate	Connecticut River Light 125	Fl G 4s 26ft 3M "125"	N 41 41' 23.949"	W 072 38' 09.026"	41.68999	-72.63584	LNM 52/13, 1st Dist	2159	12378_1	1/9/2014
+12378	Relocate	Straits Hill Light	Q 23ft 7M	N 41 33' 48.968"	W 072 36' 14.879"	41.5636	-72.60413	LNM 52/13, 1st Dist	2160	12378_2	1/9/2014
+12378	Relocate	Wethersfield Cove Daybeacon 3	G "3"	N 41 43' 30.581"	W 072 39' 20.496"	41.72516	-72.65569	LNM 43/13, 1st Dist	2159	12378_1	10/28/2013
+12378	Relocate	Hartford Jetty Light 143	Fl G 4s 26ft 3M "143"	N 41 45' 03.657"	W 072 39' 02.752"	41.75101	-72.65076	LNM 43/13, 1st Dist	2159	12378_1	10/28/2013
+12378	Relocate	Connecticut River Light 100	Fl R 4s 36ft 3M "100"	N 41 36' 07.834"	W 072 36' 56.170"	41.60218	-72.6156	LNM 40/13, 1st Dist	2160	12378_2	10/7/2013
+12378	Relocate	Connecticut River Light 105	Fl G 4s 21ft 3M "105"	N 41 37' 09.622"	W 072 37' 39.029"	41.61934	-72.62751	LNM 40/13, 1st Dist	2160	12378_2	10/7/2013
+12378	Relocate	Connecticut River Light 107	Fl G 2.5s 21ft 3M "107"	N 41 37' 49.669"	W 072 37' 58.010"	41.63046	-72.63278	LNM 40/13, 1st Dist	2160	12378_2	10/7/2013
+12378	Relocate	Connecticut River Light 80	Fl R 4s 31ft 3M "80"	N 41 33' 40.027"	W 072 36' 09.336"	41.56112	-72.60259	LNM 40/13, 1st Dist	2160	12378_2	10/7/2013
+12378	Relocate	Connecticut River Light 95	Fl G 4s 21ft 3M "95"	N 41 35' 46.793"	W 072 38' 17.331"	41.59633	-72.63815	LNM 40/13, 1st Dist	2160	12378_2	10/7/2013
+12378	Relocate	Connecticut River Light 120	Fl R 4s 36ft 3M "120"	N 41 41' 07.789"	W 072 36' 36.071"	41.6855	-72.61002	LNM 36/13, 1st Dist	2159	12378_1	9/12/2013
+12378	Relocate	Connecticut River Light 140	Fl R 4s 36ft 3M "140"	N 41 44' 02.965"	W 072 38' 26.687"	41.73416	-72.64075	LNM 36/13, 1st Dist	2159	12378_1	9/12/2013
+12378	Relocate	Connecticut River Light 122	Fl R 4s 36ft 3M "122"	N 41 41' 18.847"	W 072 36' 53.201"	41.68857	-72.61478	LNM 36/13, 1st Dist	2159	12378_1	9/12/2013
+12378	Relocate	Connecticut River Range F Front Light 110	Fl R 2.5s 26ft "110"	N 41 38' 35.577"	W 072 37' 24.684"	41.64322	-72.62352	LNM 40/12, 1st Dist	2160	12378_2	10/10/2012
+12378	Relocate	Connecticut River Range F Rear Light	F R 53ft	N 41 38' 34.408"	W 072 37' 24.606"	41.64289	-72.6235	LNM 40/12, 1st Dist	2160	12378_2	10/10/2012
+12378	Change	Connecticut River Range F Front Light 110	Fl R 2.5s 26ft "110"	N 41 38' 35.577"	W 072 37' 24.684"	41.64322	-72.62352	LNM 40/12, 1st Dist	2160	12378_2	10/10/2012
+12378	Change	Connecticut River Range F Rear Light	F R 53ft	N 41 38' 34.408"	W 072 37' 24.606"	41.64289	-72.6235	LNM 40/12, 1st Dist	2160	12378_2	10/10/2012
+12378	Relocate	Connecticut River Range E Front Light 102	Fl R 2.5s 25ft "102"	N 41 36' 40.134"	W 072 36' 42.719"	41.61115	-72.61187	LNM 37/12, 1st Dist	2160	12378_2	9/17/2012
+12378	Change	Connecticut River Range E Front Light 102	Fl R 2.5s 25ft "102"	N 41 36' 40.134"	W 072 36' 42.719"	41.61115	-72.61187	LNM 37/12, 1st Dist	2160	12378_2	9/17/2012
+12378	Relocate	Connecticut River Range E Rear Light	F R 45ft	N 41 36' 38.076"	W 072 36' 39.038"	41.61058	-72.61085	LNM 37/12, 1st Dist	2160	12378_2	9/17/2012
+12378	Relocate	Connecticut River Range G Front Light 116	Fl R 2.5s 47ft "116"	N 41 40' 24.821"	W 072 36' 29.970"	41.67356	-72.60832	LNM 37/12, 1st Dist	2159	12378_1	9/17/2012
+12378	Relocate	Connecticut River Range G Front Light 116	Fl R 2.5s 47ft "116"	N 41 40' 24.821"	W 072 36' 29.970"	41.67356	-72.60832	LNM 37/12, 1st Dist	2160	12378_2	9/17/2012
+12378	Change	Connecticut River Range G Front Light 116	Fl R 2.5s 47ft "116"	N 41 40' 24.821"	W 072 36' 29.970"	41.67356	-72.60832	LNM 37/12, 1st Dist	2159	12378_1	9/17/2012
+12378	Change	Connecticut River Range G Front Light 116	Fl R 2.5s 47ft "116"	N 41 40' 24.821"	W 072 36' 29.970"	41.67356	-72.60832	LNM 37/12, 1st Dist	2160	12378_2	9/17/2012
+12378	Relocate	Connecticut River Range G Rear Light	F R 109ft	N 41 40' 25.524"	W 072 36' 27.326"	41.67376	-72.60759	LNM 37/12, 1st Dist	2159	12378_1	9/17/2012
+12378	Relocate	Connecticut River Range G Rear Light	F R 109ft	N 41 40' 25.524"	W 072 36' 27.326"	41.67376	-72.60759	LNM 37/12, 1st Dist	2160	12378_2	9/17/2012
+12378	Change	Connecticut River Range G Rear Light	F R 109ft	N 41 40' 25.524"	W 072 36' 27.326"	41.67376	-72.60759	LNM 37/12, 1st Dist	2159	12378_1	9/17/2012
+12378	Change	Connecticut River Range G Rear Light	F R 109ft	N 41 40' 25.524"	W 072 36' 27.326"	41.67376	-72.60759	LNM 37/12, 1st Dist	2160	12378_2	9/17/2012
+12378	Relocate	Connecticut River Range J Front Light	Fl G 2.5s 37ft 	N 41 41' 58.884"	W 072 38' 12.110"	41.69969	-72.6367	LNM 37/12, 1st Dist	2159	12378_1	9/17/2012
+12378	Change	Connecticut River Range J Front Light	Fl G 2.5s 37ft 	N 41 41' 58.884"	W 072 38' 12.110"	41.69969	-72.6367	LNM 37/12, 1st Dist	2159	12378_1	9/17/2012
+12378	Relocate	Connecticut River Range J Rear Light	F G 51ft	N 41 41' 58.549"	W 072 38' 14.680"	41.6996	-72.63741	LNM 37/12, 1st Dist	2159	12378_1	9/17/2012
+12378	Change	Connecticut River Range J Rear Light	F G 51ft	N 41 41' 58.549"	W 072 38' 14.680"	41.6996	-72.63741	LNM 37/12, 1st Dist	2159	12378_1	9/17/2012
+12378	Relocate	Straits Hill Light	Q 23ft 7M	N 41 33' 49.005"	W 072 36' 14.729"	41.56361	-72.60409	LNM 37/12, 1st Dist	2160	12378_2	9/17/2012
+12378	Relocate	Straits Hill Light	Q 23ft 7M	N 41 33' 48.968"	W 072 36' 14.879"	41.5636	-72.60413	LNM 33/12, 1st Dist	2160	12378_2	8/22/2012
+12378	Change	Tabulation - CONNECTICUT RIVER CHANNEL DEPTHS 	Tabulation - CONNECTICUT RIVER CHANNEL DEPTHS 	N 41 44' 24.000"	W 072 36' 25.000"	41.74	-72.60694	LNM 22/12, 1st Dist	2159	12378_1	5/24/2012

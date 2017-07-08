@@ -1,0 +1,59 @@
+Chart: 16304, Current Edition: 3, Print Date: Apr. /2013, Kuskokwim Bay to Bethel
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16304	Relocate	Kuskokwim River Buoy 50	R N "50"	N 60 30' 39.048"	W 162 17' 56.461"	60.51085	-162.299	LNM 43/16, 17th Dist	2934	16304_1	11/17/2016
+16304	Relocate	Kuskokwim River Buoy 32	R N "32"	N 60 19' 51.880"	W 162 30' 20.446"	60.33108	-162.5057	LNM 35/16, 17th Dist	2934	16304_1	9/15/2016
+16304	Relocate	Kuskokwim River Buoy 37	G C "37"	N 60 20' 54.423"	W 162 22' 21.892"	60.34845	-162.3727	LNM 35/16, 17th Dist	2934	16304_1	9/15/2016
+16304	Relocate	Kuskokwim River Buoy 60	R N "60"	N 60 35' 10.057"	W 162 14' 39.855"	60.58613	-162.2444	LNM 35/16, 17th Dist	2934	16304_1	9/15/2016
+16304	Relocate	Kuskokwim River Buoy 65	G C "54"	N 60 36' 01.339"	W 162 12' 44.807"	60.60037	-162.2124	LNM 35/16, 17th Dist	2934	16304_1	9/15/2016
+16304	Relocate	Kuskokwim River Buoy 15	G C "15"	N 59 58' 46.681"	W 162 23' 12.844"	59.97963	-162.3869	LNM 30/16, 17th Dist	2934	16304_1	8/4/2016
+16304	Relocate	Kuskokwim River Buoy 25	G C "25"	N 60 13' 19.039"	W 162 20' 50.968"	60.22195	-162.3475	LNM 30/16, 17th Dist	2934	16304_1	8/4/2016
+16304	Relocate	Kuskokwim River Buoy 66	R N "66"	N 60 37' 11.738"	W 162 11' 27.980"	60.61993	-162.1911	LNM 23/15, 17th Dist	2934	16304_1	6/18/2015
+16304	Relocate	Kuskokwim River Buoy 65	G C "65"	N 60 36' 04.833"	W 162 12' 42.547"	60.60134	-162.2118	LNM 23/15, 17th Dist	2934	16304_1	6/18/2015
+16304	Relocate	Kuskokwim River Buoy 56	R N "56"	N 60 31' 46.477"	W 162 16' 28.968"	60.52958	-162.2747	LNM 23/15, 17th Dist	2934	16304_1	6/18/2015
+16304	Relocate	Kuskokwim River Buoy 47	G C "47"	N 60 27' 48.252"	W 162 18' 29.170"	60.4634	-162.3081	LNM 23/15, 17th Dist	2934	16304_1	6/18/2015
+16304	Relocate	Kuskokwim River Buoy 46	R N "46"	N 60 26' 29.201"	W 162 20' 20.169"	60.44144	-162.3389	LNM 23/15, 17th Dist	2934	16304_1	6/18/2015
+16304	Relocate	Kuskokwim River Buoy 45	G C "45"	N 60 25' 30.862"	W 162 21' 35.658"	60.42524	-162.3599	LNM 23/15, 17th Dist	2934	16304_1	6/18/2015
+16304	Relocate	Kuskokwim River Buoy 44	R N "44"	N 60 24' 52.750"	W 162 21' 56.204"	60.41465	-162.3656	LNM 23/15, 17th Dist	2934	16304_1	6/18/2015
+16304	Relocate	Kuskokwim River Buoy 42	R N "42"	N 60 23' 37.920"	W 162 21' 13.809"	60.39387	-162.3538	LNM 23/15, 17th Dist	2934	16304_1	6/18/2015
+16304	Relocate	Kuskokwim River Buoy 37	G C "37"	N 60 21' 03.699"	W 162 22' 15.157"	60.35103	-162.3709	LNM 23/15, 17th Dist	2934	16304_1	6/18/2015
+16304	Relocate	Kuskokwim River Buoy 36	R N "36"	N 60 21' 09.136"	W 162 27' 49.717"	60.35254	-162.4638	LNM 23/15, 17th Dist	2934	16304_1	6/18/2015
+16304	Relocate	Kuskokwim River Buoy 16	R N "16"	N 60 03' 32.259"	W 162 28' 22.944"	60.05896	-162.473	LNM 23/15, 17th Dist	2934	16304_1	6/18/2015
+16304	Change	Kuskokwim Bay and River Note B	NOTE B - to: The Kuskokwim Bay and Kuskokwim River are known to undergo constant change from year to year. Depths on the chart reflect conditions surveyed in 2010. Extreme caution and continuous soundings are necessary to navigate these waters.	N 59 55' 33.000"	W 162 17' 11.000"	59.92583	-162.2864	LNM 33/14, 17th Dist	2934	16304_1	8/28/2014
+16304	Add	Kuskokwim River Buoy 13	G C "13"	N 59 57' 39.386"	W 162 20' 14.260"	59.96094	-162.3373	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 15	G C "15"	N 59 58' 45.018"	W 162 23' 20.101"	59.97917	-162.3889	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 16	R N "16"	N 60 03' 05.730"	W 162 28' 02.246"	60.05159	-162.4673	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 18	R N "18"	N 60 05' 12.869"	W 162 28' 27.706"	60.08691	-162.4744	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 20	R N "20"	N 60 07' 38.806"	W 162 26' 50.342"	60.12745	-162.4473	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 22	Genl rem: R N "22"	N 60 09' 13.174"	W 162 24' 19.127"	60.15366	-162.4053	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 23	G C "23"	N 60 11' 26.565"	W 162 21' 29.187"	60.19071	-162.3581	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 25	G C "25"	N 60 13' 17.015"	W 162 20' 51.928"	60.22139	-162.3478	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 27	G C "27"	N 60 14' 53.751"	W 162 23' 20.132"	60.24826	-162.3889	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 29	G C "29"	N 60 16' 51.558"	W 162 28' 33.096"	60.28099	-162.4759	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 30	R N "30"	N 60 18' 42.711"	W 162 30' 00.836"	60.31186	-162.5002	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 32	R N "32"	N 60 19' 59.994"	W 162 30' 09.532"	60.33333	-162.5027	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 34	R N "34"	N 60 20' 52.652"	W 162 28' 56.633"	60.34796	-162.4824	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 36	R N "36"	N 60 21' 09.108"	W 162 27' 49.218"	60.35253	-162.4637	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 37	G C "37"	N 60 21' 03.819"	W 162 22' 14.682"	60.35106	-162.3707	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 39	G C "39"	N 60 21' 29.507"	W 162 20' 46.352"	60.3582	-162.3462	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 41	G C "41"	N 60 22' 11.419"	W 162 19' 58.775"	60.36984	-162.333	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 42	R N "42"	N 60 23' 38.141"	W 162 21' 13.555"	60.39393	-162.3538	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 44	R N "44"	N 60 24' 53.160"	W 162 21' 55.839"	60.41477	-162.3655	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 45	G C "45"	N 60 25' 31.236"	W 162 21' 35.818"	60.42534	-162.36	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 46	R N "46"	N 60 26' 29.669"	W 162 20' 21.025"	60.44157	-162.3392	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 47	G C "47"	N 60 27' 48.120"	W 162 18' 28.363"	60.46337	-162.3079	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 49	G C "49"	N 60 28' 25.416"	W 162 17' 21.450"	60.47373	-162.2893	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 50	R N "50"	N 60 30' 40.068"	W 162 17' 54.396"	60.51113	-162.2984	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 51	G C "51"	N 60 29' 30.524"	W 162 17' 20.373"	60.49181	-162.289	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 52	R N "52"	N 60 31' 01.069"	W 162 17' 35.370"	60.51696	-162.2932	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 53	G C "53"	N 60 31' 19.626"	W 162 17' 42.294"	60.52212	-162.2951	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 55	G C "55"	N 60 31' 51.465"	W 162 16' 50.679"	60.53096	-162.2807	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 56	R N "56"	N 60 31' 46.391"	W 162 16' 28.745"	60.52955	-162.2747	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 57	G C "57"	N 60 32' 58.084"	W 162 15' 11.684"	60.54947	-162.2533	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 58	R N "58"	N 60 34' 12.380"	W 162 14' 08.989"	60.57011	-162.2358	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 60	R N "60"	N 60 35' 36.439"	W 162 14' 10.917"	60.59346	-162.2364	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 62	R N "62"	N 60 35' 46.635"	W 162 13' 52.363"	60.59629	-162.2312	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 63	G C "63"	N 60 35' 56.629"	W 162 14' 10.680"	60.59906	-162.2363	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 65	G C "65"	N 60 36' 08.818"	W 162 12' 43.549"	60.60245	-162.2121	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Add	Kuskokwim River Buoy 66	R N "66"	N 60 37' 11.802"	W 162 11' 28.516"	60.61995	-162.1913	LNM 32/14, 17th Dist	2934	16304_1	8/21/2014
+16304	Change	NOTE B	The Kuskokwim Bay and Kuskokwim River are known to undergo constant change from year to year.  Depths on this chart reflect conditions surveyed in 2010.  Extreme caution and continuous soundings are necessary to navigate these waters.The deep draft channel from Kuskokwim Bay Buoy 12 (59°53'41.6"N, 162°15'19.7"W) northward to Johnson River is marked by about 30 red or green foam buoys from June 1 through October 1 each year	N 59 54' 36.000"	W 161 55' 00.000"	59.91	-161.9167	LNM 35/13, 17th Dist	2934	16304_1	9/11/2013
+16304	Relocate	Kuskokwim Bay Buoy 12	R N "12"	N 59 53' 41.638"	W 162 15' 19.678"	59.8949	-162.2555	LNM 35/13, 17th Dist	2934	16304_1	9/11/2013

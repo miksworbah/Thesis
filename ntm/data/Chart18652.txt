@@ -1,0 +1,2 @@
+Chart: 18652, Current Edition: 36, Print Date: Feb. /2011, San Francisco Bay to Antioch
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

@@ -1,0 +1,2 @@
+Chart: 16648, Current Edition: 6, Print Date: Apr. /2015, Kamishak Bay;lliamna Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

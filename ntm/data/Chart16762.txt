@@ -1,0 +1,2 @@
+Chart: 16762, Current Edition: 10, Print Date: Jun. /2014, Lituya Bay;Lituya Bay Entrance
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

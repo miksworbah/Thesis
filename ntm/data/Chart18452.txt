@@ -1,0 +1,47 @@
+Chart: 18452, Current Edition: 17, Print Date: Oct. /2011, Sinclair Inlet
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18452	Relocate	NOAA Sea Lion Float Light B	Fl Y 4s "B" Priv	N 47 33' 13.320"	W 122 38' 17.040"	47.5537	-122.6381	LNM 44/14, 13th Dist	1715	18452_1	11/6/2014
+18452	Add	NOAA Sea Lion Float Light B	Fl Y 4s "B" Priv	N 47 33' 27.000"	W 122 37' 42.240"	47.5575	-122.6284	LNM 43/14, 13th Dist	1715	18452_1	11/6/2014
+18452	Delete	fixed bridge, (use Chart No. 1: D22)	fixed bridge, (use Chart No. 1: D22)	N 47 34' 14.110"	W 122 37' 24.730"	47.57059	-122.6235	LNM 12/14, 13th Dist	1715	18452_1	3/20/2014
+18452	Add	Fixed Bridge Label	MANETTE FIXED BRIDGE HOR CL 231 FT VERT CL 74 FT	N 47 34' 11.080"	W 122 37' 26.870"	47.56974	-122.6241	LNM 12/14, 13th Dist	1715	18452_1	3/20/2014
+18452	Delete	CAUTION note: Fixed and floating obstructions, some submerged, may exist within the magenta tinted bridge construction area. Mariners are advised to proceed with caution. 	CAUTION note: Fixed and floating obstructions, some submerged, may exist within the magenta tinted bridge construction area. Mariners are advised to proceed with caution. 	N 47 34' 09.360"	W 122 37' 47.480"	47.56927	-122.6299	LNM 12/14, 13th Dist	1715	18452_1	3/20/2014
+18452	Delete	Bridge Construction Label	Bridge under construction (see note)	N 47 34' 11.540"	W 122 37' 27.850"	47.56987	-122.6244	LNM 12/14, 13th Dist	1715	18452_1	3/20/2014
+18452	Delete	Bridge Construction	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 47 34' 12.050"	W 122 37' 12.660"	47.57001	-122.6202	LNM 12/14, 13th Dist	1715	18452_1	3/20/2014
+18452	Add	Bremerton Ferry Terminal Dolphin Light A	Fl Y 6s "A" Priv HORN: (Bl 10s)	N 47 33' 40.181"	W 122 37' 29.190"	47.56116	-122.6248	LNM 14/12, 13th Dist	1715	18452_1	4/19/2012
+18452	Add	Bremerton Ferry Terminal Dolphin Light B	Fl Y 6s "B" Priv	N 47 33' 40.573"	W 122 37' 27.221"	47.56127	-122.6242	LNM 14/12, 13th Dist	1715	18452_1	4/19/2012
+18452	Add	Bremerton Ferry Terminal Dolphin Light C	Fl Y 6s "C" Priv	N 47 33' 40.853"	W 122 37' 26.400"	47.56135	-122.624	LNM 14/12, 13th Dist	1715	18452_1	4/19/2012
+18452	Add	Bremerton Ferry Terminal Dolphin Light D	Fl Y 6s "D" Priv HORN: (2 Bl 15s) 	N 47 33' 41.675"	W 122 37' 25.048"	47.56158	-122.6236	LNM 14/12, 13th Dist	1715	18452_1	4/19/2012
+18452	Add	Bremerton Ferry Terminal Dolphin Light E	Fl Y 6s "E" Priv	N 47 33' 42.910"	W 122 37' 26.941"	47.56192	-122.6242	LNM 14/12, 13th Dist	1715	18452_1	4/19/2012
+18452	Change	Tidal Information box - Bremerton 	(47°34'N/122°37'W)	N 47 32' 57.600"	W 122 41' 30.300"	47.54933	-122.6917	LNM 14/12, 13th Dist	1715	18452_1	4/3/2012
+18452	Add	Chartlet - Added security barriers, labels, note D, and buoys	Chartlet	N 47 33' 18.000"	W 122 38' 24.000"	47.555	-122.64	LNM 08/12, 13th Dist	1715	18452_1	2/23/2012
+18452	Delete	Bremerton Buoy 1	Q Y "1" 	N 47 33' 00.700"	W 122 39' 09.600"	47.55019	-122.6527	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Delete	Bremerton Buoy 2	Q Y "2" 	N 47 33' 04.100"	W 122 39' 00.900"	47.55114	-122.6503	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Delete	Bremerton Buoy 3	Q Y "3" 	N 47 33' 05.100"	W 122 38' 51.400"	47.55142	-122.6476	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Delete	Bremerton Buoy 4	Q Y "4" 	N 47 33' 05.400"	W 122 38' 43.300"	47.5515	-122.6454	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Delete	Bremerton Buoy 5	Q Y "5" 	N 47 33' 07.000"	W 122 38' 34.100"	47.55194	-122.6428	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Delete	Bremerton Buoy 6	Q Y "6" 	N 47 33' 07.200"	W 122 38' 25.600"	47.552	-122.6404	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Delete	Bremerton Buoy 7	Q Y "7" 	N 47 33' 12.400"	W 122 38' 18.700"	47.55344	-122.6385	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Delete	Bremerton Buoy 8	Q Y "8" 	N 47 33' 18.200"	W 122 38' 14.900"	47.55505	-122.6375	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Delete	Bremerton Buoy 9	Q Y "9" 	N 47 33' 19.400"	W 122 38' 04.900"	47.55539	-122.6347	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Delete	Bremerton Buoy 10	Q Y "10" 	N 47 33' 21.500"	W 122 37' 58.400"	47.55597	-122.6329	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Delete	Bremerton Buoy 11	Q Y "11" 	N 47 33' 22.000"	W 122 37' 51.300"	47.55611	-122.6309	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Delete	Bremerton Buoy 12	Q Y "12" 	N 47 33' 26.100"	W 122 37' 45.100"	47.55725	-122.6292	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Add	Bremerton Lighted Buoy	Fl Y 2s Priv	N 47 33' 05.227"	W 122 39' 07.595"	47.55145	-122.6521	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Add	Bremerton Lighted Buoy	Fl Y 2s Priv	N 47 33' 04.626"	W 122 39' 07.337"	47.55128	-122.652	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Add	Bremerton Lighted Buoy	Fl Y 2s Priv	N 47 33' 07.599"	W 122 38' 59.071"	47.55211	-122.6497	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Add	Bremerton Lighted Buoy	Fl Y 2s Priv	N 47 33' 07.808"	W 122 38' 49.510"	47.55217	-122.6471	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Add	Bremerton Lighted Buoy	Fl Y 2s Priv	N 47 33' 08.017"	W 122 38' 40.067"	47.55223	-122.6445	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Add	Bremerton Lighted Buoy	Fl Y 2s Priv	N 47 33' 07.923"	W 122 38' 30.664"	47.5522	-122.6419	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Add	Bremerton Lighted Buoy	Fl Y 2s Priv	N 47 33' 09.359"	W 122 38' 22.376"	47.5526	-122.6395	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Add	Bremerton Lighted Buoy	Fl Y 2s Priv	N 47 33' 10.897"	W 122 38' 21.508"	47.55303	-122.6393	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Add	Bremerton Lighted Buoy	Fl Y 2s Priv	N 47 33' 14.533"	W 122 38' 16.835"	47.55404	-122.638	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Add	Bremerton Lighted Buoy	Fl Y 2s Priv	N 47 33' 19.695"	W 122 38' 12.646"	47.55547	-122.6368	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Add	Bremerton Lighted Buoy	Fl Y 2s Priv	N 47 33' 21.661"	W 122 38' 02.681"	47.55602	-122.6341	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Add	Bremerton Lighted Buoy	Fl Y 2s Priv	N 47 33' 22.392"	W 122 37' 54.663"	47.55622	-122.6319	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Add	Bremerton Lighted Buoy	Fl Y 2s Priv	N 47 33' 24.048"	W 122 37' 45.937"	47.55668	-122.6294	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Add	Bremerton Lighted Buoy	Fl Y 2s Priv	N 47 33' 29.206"	W 122 37' 40.238"	47.55811	-122.6278	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Add	Bremerton Lighted Buoy	Fl Y 2s Priv	N 47 33' 32.349"	W 122 37' 40.973"	47.55899	-122.6281	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Delete	Bremerton Security Barrier	Black Dashed Line	N 47 33' 07.700"	W 122 39' 08.800"	47.55214	-122.6524	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Delete	Bremerton Security Barrier	Black Dashed Line	N 47 33' 32.270"	W 122 37' 42.441"	47.55896	-122.6285	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Add	Bremerton Security Barrier	Black Dashed Line (Start Pt)	N 47 33' 07.300"	W 122 39' 07.315"	47.55203	-122.652	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011
+18452	Add	Bremerton Security Barrier	Black Dashed Line (End Pt)	N 47 33' 32.270"	W 122 37' 42.441"	47.55896	-122.6285	LNM 48/11, 13th Dist	1715	18452_1	12/20/2011

@@ -1,0 +1,2 @@
+Chart: 16603, Current Edition: 9, Print Date: Mar. /2015, Kukak Bay, Alaska Peninsula
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

@@ -1,0 +1,9 @@
+Chart: 17324, Current Edition: 16, Print Date: Mar. /2015, Sitka Sound to Salisbury Sound, Inside Passage;Neva Str.-Neva Pt. to Zeal Pt.
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+17324	Relocate	Olga Strait Light 9	Fl G 4s 30ft 4M "9"	N 57 12' 35.051"	W 135 29' 44.742"	57.20974	-135.4958	LNM 52/16, 17th Dist	2651	17324_1	1/5/2017
+17324	Add	Japonski Island Buoy 2	R "2"	N 57 03' 25.396"	W 135 22' 28.221"	57.05705	-135.3745	LNM 49/16, 17th Dist	2651	17324_1	12/15/2016
+17324	Delete	Japonski Island Daybeacon 2	R "2"	N 57 03' 25.386"	W 135 22' 27.282"	57.05705	-135.3743	LNM 49/16, 17th Dist	2651	17324_1	12/15/2016
+17324	Relocate	Crescent Harbor East Breakwater Light 4	Fl R 2.5s 19ft 4M "4"	N 57 02' 57.414"	W 135 19' 48.774"	57.04928	-135.3302	LNM 11/16, 17th Dist	2651	17324_1	3/31/2016
+17324	Relocate	Battery Island Light 6	Fl R 6s 16ft 4M "6"	N 57 03' 34.614"	W 135 22' 54.534"	57.05962	-135.3818	LNM 11/16, 17th Dist	2651	17324_1	3/31/2016
+17324	Change	Whitestone Point Light 14	Fl R 2.5s 11ft 5M "14"	N 57 14' 39.546"	W 135 33' 43.572"	57.24432	-135.5621	WNM 08/16, NGA	2652	17324_2	2/25/2016
+17324	Change	Whitestone Point Light 14	Fl R 2.5s 11ft 5M "14"	N 57 14' 39.546"	W 135 33' 43.572"	57.24432	-135.5621	WNM 08/16, NGA	2651	17324_1	2/25/2016

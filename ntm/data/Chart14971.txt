@@ -1,0 +1,6 @@
+Chart: 14971, Current Edition: 22, Print Date: Sep. /2014, Keweenaw Bay;L Anse and Baraga Harbors
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14971	Relocate	Sand Point Light	Fl 4s 40ft 6 St M	N 46 47' 00.246"	W 088 27' 59.310"	46.7834	-88.46648	LNM 45/16, 9th Dist	1530	14971_3	11/17/2016
+14971	Relocate	Sand Point Light	Fl 4s 40ft 6 St M	N 46 47' 00.246"	W 088 27' 59.310"	46.7834	-88.46648	LNM 45/16, 9th Dist	1528	14971_1	11/17/2016
+14971	Change	Keweenaw Waterway Lower Entrance Light	Fl 6s 68ft 9 St M HORN (MRASS)	N 46 58' 07.986"	W 088 25' 51.561"	46.96888	-88.43099	LNM 38/15, 9th Dist	1528	14971_1	12/3/2015
+14971	Add	Note: MARINER ACTIVATED SOUND SIGNAL: KEWEENAW WATERWAY LOWER ENTRANCE LIGHT (MRASS)	MARINER ACTIVATED SOUND SIGNAL: KEWEENAW WATERWAY LOWER ENTRANCE LIGHT (MRASS) Horn is activated by keying the mic 5 times on VHF-FM Ch 83A.	N 46 58' 07.986"	W 088 25' 51.561"	46.96888	-88.43099	LNM 38/15, 9th Dist	1528	14971_1	12/3/2015

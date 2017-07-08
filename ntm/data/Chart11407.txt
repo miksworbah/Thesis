@@ -1,0 +1,4 @@
+Chart: 11407, Current Edition: 20, Print Date: Apr. /2015, Horseshoe Point to Rock Islands;Horseshoe Beach
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11407	Change	Horseshoe Beach Approach Light 2	Fl R 4s 16ft 5M "2"	N 29 23' 16.188"	W 083 20' 24.430"	29.38783	-83.34012	LNM 23/16, 7th Dist	169	11407_1	6/16/2016
+11407	Add	Pile	Pile PA	N 29 40' 09.900"	W 083 22' 57.240"	29.66942	-83.38257	LNM 17/15, 7th Dist	169	11407_1	5/7/2015

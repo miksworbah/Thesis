@@ -1,0 +1,7 @@
+Chart: 17317, Current Edition: 21, Print Date: May. /2015, Lynn Canal-Point Sherman to Skagway;Lutak Inlet;Skagway and Nahku Bay;Portage Cove, Chilkoot Inlet
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+17317	Delete	Indian Rock Lighted Buoy	GR Fl G 2.5s	N 59 16' 22.060"	W 135 23' 51.465"	59.27279	-135.3976	LNM 08/17, 17th Dist	2634	17317_1	3/2/2017
+17317	Add	Gravel Slide **solid black line** PT 2 OF 2	Two Mile Gravel Slide	N 59 25' 09.700"	W 135 20' 18.600"	59.41936	-135.3385	LNM 35/16, 17th Dist	2634	17317_1	9/15/2016
+17317	Add	Gravel Slide **solid black line** PT 1 OF 2	Two Mile Gravel Slide	N 59 25' 10.420"	W 135 20' 21.390"	59.41956	-135.3393	LNM 35/16, 17th Dist	2634	17317_1	9/15/2016
+17317	Add	Gravel Slide Label	Two Mile Gravel Slide	N 59 25' 10.420"	W 135 20' 21.390"	59.41956	-135.3393	LNM 35/16, 17th Dist	2634	17317_1	9/15/2016
+17317	Add	Indian Rock Lighted Buoy	GR Fl G 2.5s	N 59 16' 22.060"	W 135 23' 51.465"	59.27279	-135.3976	WNM 08/16, NGA	2634	17317_1	2/25/2016

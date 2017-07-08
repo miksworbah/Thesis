@@ -1,0 +1,24 @@
+Chart: 25654, Current Edition: 13, Print Date: 6/17/2000, Ensenada Honda
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+25654	Relocate	Canal Del Este Buoy 2	R N "2"	N 18 16' 36.449"	W 065 15' 05.788"	18.27679	-65.25161	LNM 24/13, 7th Dist	388	25654_1	6/21/2013
+25654	Relocate	Bajo Snapper Lighted Buoy 8	R "8" Q R	N 18 17' 21.692"	W 065 16' 17.522"	18.28936	-65.27153	LNM 10/13, 7th Dist	388	25654_1	4/2/2013
+25654	Relocate	Isla de Culebra Inner Range Front Daybeacon	R W Bn	N 18 18' 26.477"	W 065 17' 14.891"	18.30735	-65.28747	LNM 08/12, 7th Dist	388	25654_1	3/12/2012
+25654	Relocate	Isla de Culebra Inner Range Rear Daybeacon	R W Bn	N 18 18' 54.268"	W 065 17' 37.137"	18.31507	-65.29365	LNM 08/12, 7th Dist	388	25654_1	3/12/2012
+25654	Relocate	Isla de Culebra Outer Range Front Daybeacon	R W Bn	N 18 17' 37.996"	W 065 16' 57.248"	18.29389	-65.28257	LNM 08/12, 7th Dist	388	25654_1	3/12/2012
+25654	Relocate	Isla de Culebra Outer Range Rear Daybeacon	R W Bn	N 18 17' 47.715"	W 065 17' 18.413"	18.29659	-65.28844	LNM 08/12, 7th Dist	388	25654_1	3/12/2012
+25654	Relocate	Punta Colorado Lighted Buoy 9	G "9" Fl G 4s	N 18 17' 35.352"	W 065 16' 34.868"	18.29315	-65.27635	LNM 47/10, 7th Dist	388	25654_1	12/1/2010
+25654	Add	Ferry Dock with Revised Shoreline PT 1 OF 6	**revise man made shoreline to show new dock**	N 18 18' 05.900"	W 065 18' 09.400"	18.30164	-65.30261	LNM 03/08, 7th Dist	388	25654_1	2/13/2008
+25654	Add	Ferry Dock with Revised Shoreline PT 2 OF 6	**revise man made shoreline to show new dock**	N 18 18' 05.540"	W 065 18' 09.970"	18.30154	-65.30277	LNM 03/08, 7th Dist	388	25654_1	2/13/2008
+25654	Add	Ferry Dock with Revised Shoreline PT 3 OF 6	**revise man made shoreline to show new dock**	N 18 18' 04.020"	W 065 18' 08.890"	18.30112	-65.30247	LNM 03/08, 7th Dist	388	25654_1	2/13/2008
+25654	Add	Ferry Dock with Revised Shoreline PT 4 OF 6	**revise man made shoreline to show new dock**	N 18 18' 03.570"	W 065 18' 09.320"	18.30099	-65.30259	LNM 03/08, 7th Dist	388	25654_1	2/13/2008
+25654	Add	Ferry Dock with Revised Shoreline PT 5 OF 6	**revise man made shoreline to show new dock**	N 18 18' 03.010"	W 065 18' 09.160"	18.30084	-65.30254	LNM 03/08, 7th Dist	388	25654_1	2/13/2008
+25654	Add	Ferry Dock with Revised Shoreline PT 6 OF 6	**revise man made shoreline to show new dock**	N 18 18' 03.300"	W 065 18' 08.700"	18.30092	-65.30241	LNM 03/08, 7th Dist	388	25654_1	2/13/2008
+25654	Relocate	Canal del Este Buoy 2	R N "2"	N 18 16' 36.112"	W 065 15' 05.604"	18.2767	-65.25156	LNM 27/06, 7th Dist	388	25654_1	2/13/2008
+25654	Add	HURRICANES AND TROPICAL STORMS NOTE	Hurricanes, tropical storms and other major storms may cause considerable damage to marine structures, aids to navigation and moored vessels, resulting in submerged debris in unknown locations. Charted soundings, channel depths and shoreline may not reflect actual conditions following these storms. Fixed aids to navigation may have been damaged or destroyed. Buoys may have been moved from charted positions, damaged, sunk extinguished or otherwise made inoperative. Mariners should not rely upon the position or operation of an aid to navigation. Wrecks and submerged obstructions may have been displaced from charted locations. Pipelines may have become uncovered or moved. Mariners are urged to exercise extreme caution and are requested to report aids to navigation discrepancies and hazards to navigation to the nearest United States Coast Guard unit.	N 18 18' 53.000"	W 065 15' 37.000"	18.31472	-65.26028	LNM 15/06, 7th Dist	388	25654_1	2/13/2008
+25654	Relocate	PUNTA CARENERO BY 10	R N "10"	N 18 17' 36.410"	W 065 16' 33.414"	18.29345	-65.27595	LNM 51/04, 7th Dist	388	25654_1	2/13/2008
+25654	Relocate	PUNTA DEL SOLDADO LT	Fl 2.5s 65ft 5M	N 18 16' 40.886"	W 065 17' 13.307"	18.27802	-65.28703	LNM 51/04, 7th Dist	388	25654_1	2/13/2008
+25654	Relocate	BAJO CAMARON BY 6	R N "6"	N 18 17' 08.198"	W 065 15' 47.391"	18.28561	-65.26316	LNM 23/04, 7th Dist	388	25654_1	2/13/2008
+25654	Revise	SEA TURTLES LABEL	SEA TURTLES CRITICAL HABITAT (protected area: 50 CFR 226.208; see note A	N 18 17' 12.000"	W 065 18' 10.900"	18.28667	-65.30302	LNM 14/04, 7th Dist	388	25654_1	2/13/2008
+25654	Revise	SEA TURTLES LABEL	SEA TURTLES CRITICAL HABITAT (protected area: 50 CFR 226.208; see note A	N 18 16' 21.000"	W 065 15' 22.700"	18.2725	-65.2563	LNM 14/04, 7th Dist	388	25654_1	2/13/2008
+25654	Relocate	PUNTA CABRAS BY 14	R N "14"	N 18 18' 00.730"	W 065 16' 51.110"	18.3002	-65.28086	LNM 03/04, 7th Dist	388	25654_1	2/13/2008
+25654	Relocate	PUNTA CABRAS BY 14	R N "14"	N 18 18' 00.730"	W 065 16' 51.110"	18.3002	-65.28086	LNM 02/04, 7th Dist	388	25654_1	2/13/2008

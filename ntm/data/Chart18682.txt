@@ -1,0 +1,2 @@
+Chart: 18682, Current Edition: 15, Print Date: Apr. /2016, Half Moon Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

@@ -1,0 +1,2 @@
+Chart: 17335, Current Edition: 9, Print Date: Mar. /2013, Patterson Bay and Deep Cove
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

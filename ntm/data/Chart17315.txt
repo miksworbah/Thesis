@@ -1,0 +1,20 @@
+Chart: 17315, Current Edition: 25, Print Date: Feb. /2013, Gastineau Channel and Taku Inlet;Juneau Harbor
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+17315	Delete	Manson Construction Lighted Buoy A	W "A" Fl 2.5s Priv	N 58 17' 42.000"	W 134 24' 49.320"	58.295	-134.4137	LNM 16/17, 17th Dist	2630	17315_2	4/27/2017
+17315	Delete	Manson Construction Lighted Buoy A	W "A" Fl 2.5s Priv	N 58 17' 42.000"	W 134 24' 49.320"	58.295	-134.4137	LNM 16/17, 17th Dist	2629	17315_1	4/27/2017
+17315	Delete	Manson Construction Lighted Buoy B	W "B" Q Priv	N 58 17' 39.000"	W 134 25' 14.160"	58.29417	-134.4206	LNM 16/17, 17th Dist	2630	17315_2	4/27/2017
+17315	Delete	Manson Construction Lighted Buoy B	W "B" Q Priv	N 58 17' 39.000"	W 134 25' 14.160"	58.29417	-134.4206	LNM 16/17, 17th Dist	2629	17315_1	4/27/2017
+17315	Add	Mendenhall Bar Channel Buoy 7A	G C "7A"	N 58 19' 27.966"	W 134 28' 02.922"	58.32444	-134.4675	LNM 15/17, 17th Dist	2629	17315_1	4/20/2017
+17315	Relocate	Gibby Rock Light	Fl R 6s 30ft 4M "2"	N 58 19' 36.372"	W 134 41' 19.020"	58.32677	-134.6886	LNM 50/16, 17th Dist	2629	17315_1	12/22/2016
+17315	Change	label to "Coast Guard Wharf"	Coast Guard Wharf	N 58 17' 55.910"	W 134 24' 47.550"	58.29886	-134.4132	LNM 16/16, 17th Dist	2630	17315_2	4/28/2016
+17315	Delete	Dangerous Wreck	PA	N 58 18' 21.325"	W 134 26' 43.593"	58.30592	-134.4454	LNM 09/16, 17th Dist	2629	17315_1	3/31/2016
+17315	Add	Manson Construction Lighted Buoy A	W "A" Fl 2.5s Priv	N 58 17' 42.000"	W 134 24' 49.320"	58.295	-134.4137	LNM 39/15, 17th Dist	2630	17315_2	10/8/2015
+17315	Add	Manson Construction Lighted Buoy A	W "A" Fl 2.5s Priv	N 58 17' 42.000"	W 134 24' 49.320"	58.295	-134.4137	LNM 39/15, 17th Dist	2629	17315_1	10/8/2015
+17315	Add	Manson Construction Lighted Buoy B	W "B" Q Priv	N 58 17' 39.000"	W 134 25' 14.160"	58.29417	-134.4206	LNM 39/15, 17th Dist	2630	17315_2	10/8/2015
+17315	Add	Manson Construction Lighted Buoy B	W "B" Q Priv	N 58 17' 39.000"	W 134 25' 14.160"	58.29417	-134.4206	LNM 39/15, 17th Dist	2629	17315_1	10/8/2015
+17315	Add	Dangerous Wreck	PA	N 58 18' 21.325"	W 134 26' 43.593"	58.30592	-134.4454	LNM 38/15, 17th Dist	2629	17315_1	10/1/2015
+17315	Change	Sheep Creek Light 2	Fl R 4s 12ft 6M "2"	N 58 15' 28.410"	W 134 19' 52.206"	58.25789	-134.3312	LNM 14/15, 17th Dist	2629	17315_1	4/30/2015
+17315	Change	Aurora Basin Light A	Fl 2.5s 25ft 5M "A"	N 58 18' 16.164"	W 134 25' 59.526"	58.30449	-134.4332	LNM 44/14, 17th Dist	2630	17315_2	11/20/2014
+17315	Change	Aurora Basin Light A	Fl 2.5s 25ft 5M "A"	N 58 18' 16.164"	W 134 25' 59.526"	58.30449	-134.4332	LNM 44/14, 17th Dist	2629	17315_1	11/20/2014
+17315	Change	Aurora Basin Light A	Fl G 2.5s 25ft 5M "1A"	N 58 18' 16.164"	W 134 25' 59.526"	58.30449	-134.4332	LNM 43/14, 17th Dist	2630	17315_2	11/13/2014
+17315	Change	Aurora Basin Light A	Fl G 2.5s 25ft 5M "1A"	N 58 18' 16.164"	W 134 25' 59.526"	58.30449	-134.4332	LNM 43/14, 17th Dist	2629	17315_1	11/13/2014

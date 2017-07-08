@@ -1,0 +1,126 @@
+Chart: 11349, Current Edition: 46, Print Date: Mar. /2014, Vermilion Bay and approaches
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11349	Delete	Platform (Union-132-0)	Chart No. 1: L10	N 29 25' 11.000"	W 092 22' 01.000"	29.41972	-92.36694	LNM 24/17, 8th Dist	64	11349_1	6/22/2017
+11349	Delete	Platform (Texaco-206-15)	Chart No. 1: L10	N 29 20' 49.000"	W 091 58' 43.000"	29.34694	-91.97861	LNM 22/17, 8th Dist	64	11349_1	6/8/2017
+11349	Delete	Platform (Texaco-206-2)	Chart No. 1: L10	N 29 18' 10.000"	W 091 59' 48.000"	29.30278	-91.99667	LNM 22/17, 8th Dist	64	11349_1	6/8/2017
+11349	Delete	Platform (Texaco-206-17)	Chart No. 1: L10	N 29 20' 23.000"	W 091 53' 53.000"	29.33972	-91.89806	LNM 22/17, 8th Dist	64	11349_1	6/8/2017
+11349	Delete	Platform (Texaco-206-21)	Chart No. 1: L10	N 29 17' 43.000"	W 091 53' 17.000"	29.29528	-91.88805	LNM 22/17, 8th Dist	64	11349_1	6/8/2017
+11349	Delete	Platform (Texaco-206-22)	Chart No. 1: L10	N 29 22' 23.000"	W 092 03' 23.000"	29.37306	-92.05639	LNM 22/17, 8th Dist	64	11349_1	6/8/2017
+11349	Delete	Platform (Texaco-206-7)	Chart No. 1: L10	N 29 17' 52.000"	W 091 58' 18.000"	29.29778	-91.97166	LNM 22/17, 8th Dist	64	11349_1	6/8/2017
+11349	Delete	Platform (Texaco-138-148)	Chart No. 1: L10	N 29 26' 49.000"	W 092 04' 50.000"	29.44695	-92.08056	LNM 20/17, 8th Dist	64	11349_1	6/1/2017
+11349	Delete	Platform (Texaco-138-155)	Chart No. 1: L10	N 29 26' 54.000"	W 092 04' 42.000"	29.44833	-92.07833	LNM 20/17, 8th Dist	64	11349_1	6/1/2017
+11349	Delete	Platform (Texaco-138-157)	Chart No. 1: L10	N 29 27' 02.000"	W 092 04' 50.000"	29.45056	-92.08056	LNM 20/17, 8th Dist	64	11349_1	6/1/2017
+11349	Delete	Platform (Texaco-138-227)	Chart No. 1: L10	N 29 26' 48.000"	W 092 04' 44.000"	29.44667	-92.07889	LNM 20/17, 8th Dist	64	11349_1	6/1/2017
+11349	Delete	Platform (Texaco-138-172)	Chart No. 1: L10	N 29 26' 42.000"	W 092 04' 51.000"	29.445	-92.08083	LNM 20/17, 8th Dist	64	11349_1	6/1/2017
+11349	Delete	Platform (Texaco-134-26)	Chart No. 1: L10	N 29 20' 23.190"	W 091 57' 43.250"	29.33978	-91.96201	LNM 20/17, 8th Dist	64	11349_1	6/1/2017
+11349	Delete	Platform (Texaco-134-28)	Chart No. 1: L10	N 29 19' 55.768"	W 091 52' 07.175"	29.33216	-91.86866	LNM 20/17, 8th Dist	64	11349_1	6/1/2017
+11349	Delete	Platform (Texaco-138-100)	Chart No. 1: L10	N 29 28' 14.000"	W 091 54' 57.000"	29.47056	-91.91583	LNM 19/17, 8th Dist	64	11349_1	5/18/2017
+11349	Delete	Platform (Chevron-182-7)	Chart No. 1: L10	N 29 29' 27.000"	W 092 27' 44.000"	29.49083	-92.46222	LNM 18/17, 8th Dist	64	11349_1	5/11/2017
+11349	Delete	Platform (Chevron-182-8)	Chart No. 1: L10	N 29 29' 15.000"	W 092 27' 46.000"	29.4875	-92.46278	LNM 18/17, 8th Dist	64	11349_1	5/11/2017
+11349	Delete	Platform (Chevron-182-9)	Chart No. 1: L10	N 29 29' 32.000"	W 092 27' 47.000"	29.49222	-92.46306	LNM 18/17, 8th Dist	64	11349_1	5/11/2017
+11349	Delete	Platform (Chevron-182-5)	Chart No. 1: L10	N 29 29' 32.000"	W 092 28' 41.000"	29.49222	-92.47806	LNM 18/17, 8th Dist	64	11349_1	5/11/2017
+11349	Delete	Platform (Chevron-182-6)	Chart No. 1: L10	N 29 29' 32.000"	W 092 27' 31.000"	29.49222	-92.45861	LNM 17/17, 8th Dist	64	11349_1	5/4/2017
+11349	Delete	Platform (Chevron-182-10)	Chart No. 1: L10	N 29 29' 21.400"	W 092 28' 01.150"	29.48928	-92.46699	LNM 15/17, 8th Dist	64	11349_1	4/20/2017
+11349	Delete	Platform (Chevron-182-11)	Chart No. 1: L10	N 29 29' 30.000"	W 092 28' 03.000"	29.49167	-92.4675	LNM 15/17, 8th Dist	64	11349_1	4/20/2017
+11349	Delete	Platform (Chevron-182-12)	Chart No. 1: L10	N 29 29' 05.000"	W 092 28' 21.000"	29.48472	-92.4725	LNM 15/17, 8th Dist	64	11349_1	4/20/2017
+11349	Delete	Platform (Texaco-138-110)	Chart No. 1: L10	N 29 26' 47.000"	W 092 04' 25.000"	29.44639	-92.07361	LNM 04/17, 8th Dist	64	11349_1	2/9/2017
+11349	Relocate	Intracoastal City Light 1	Fl G 4s 17ft 2M "1" Ra Ref	N 29 46' 33.222"	W 092 10' 42.026"	29.77589	-92.17834	LNM 51/16, 8th Dist	64	11349_1	1/12/2017
+11349	Relocate	Southwest Pass - Vermilion Bay Channel Light 10	Q R 17ft 3M "10"	N 29 34' 56.010"	W 092 02' 17.249"	29.58223	-92.03812	LNM 51/16, 8th Dist	64	11349_1	1/12/2017
+11349	Relocate	Southwest Pass - Vermilion Bay Channel Light 16	Fl R 6s 17ft 4M "16" Ra Ref	N 29 35' 26.038"	W 092 01' 04.973"	29.59057	-92.01805	LNM 51/16, 8th Dist	64	11349_1	1/12/2017
+11349	Add	Obstruction in Feet	29 Obstn       Chart No. 1: K41	N 29 05' 11.400"	W 091 53' 46.900"	29.0865	-91.89636	LNM 44/16, 8th Dist	64	11349_1	10/27/2016
+11349	Add	Platform:  (Cox-109-34)	Chart No. 1: L10	N 29 20' 39.922"	W 091 59' 49.479"	29.34442	-91.99708	LNM 37/16, 8th Dist	64	11349_1	9/22/2016
+11349	Delete	Platform:  (Apache-114-23)	Chart No 1: L-10	N 29 26' 42.265"	W 092 22' 22.111"	29.44507	-92.37281	LNM 32/16, 8th Dist	64	11349_1	8/18/2016
+11349	Delete	Platform:(Energy Partners-110-14)	Chart No. 1: L10	N 29 28' 30.263"	W 092 11' 07.091"	29.47507	-92.1853	LNM 16/16, 8th Dist	64	11349_1	4/28/2016
+11349	Delete	Platform: (Apache-114-31)	Chart No. 1: L10	N 29 27' 44.312"	W 092 23' 02.914"	29.46231	-92.38414	LNM 50/15, 8th Dist	64	11349_1	12/24/2015
+11349	Delete	Platform: (Apache-119-4)	Chart No. 1: L10	N 29 27' 31.942"	W 092 22' 00.002"	29.45887	-92.36667	LNM 50/15, 8th Dist	64	11349_1	12/24/2015
+11349	Delete	Platform	Chart No. 1: L10	N 29 21' 31.943"	W 092 21' 59.915"	29.35887	-92.36665	LNM 50/15, 8th Dist	64	11349_1	12/24/2015
+11349	Delete	Platform: (Apache-119-500)	Chart No. 1: L10	N 29 28' 02.184"	W 092 23' 34.065"	29.46727	-92.3928	LNM 49/15, 8th Dist	64	11349_1	12/17/2015
+11349	Delete	Platform: (Helis-102-10)	Chart No. 1: L10	N 29 14' 37.317"	W 091 49' 33.175"	29.2437	-91.82588	LNM 47/15, 8th Dist	64	11349_1	12/10/2015
+11349	Delete	Platform: (Apache-500-90)	Chart No. 1: L10	N 29 24' 55.602"	W 092 22' 26.457"	29.41545	-92.37402	LNM 43/15, 8th Dist	64	11349_1	11/12/2015
+11349	Add	Pipeline Area  PT 2 OF 4	Chart No. 1: L40.2	N 29 49' 28.200"	W 091 49' 16.510"	29.8245	-91.82125	LNM 44/15, 8th Dist	64	11349_1	11/12/2015
+11349	Add	Pipeline Area  PT 4 OF 4	Chart No. 1: L40.2	N 29 49' 24.990"	W 091 49' 15.140"	29.82361	-91.82087	LNM 44/15, 8th Dist	64	11349_1	11/12/2015
+11349	Delete	Platform (Stone Energy-101-18)	Chart No. 1: L10	N 29 31' 01.800"	W 092 13' 51.230"	29.51717	-92.2309	LNM 42/15, 8th Dist	64	11349_1	10/29/2015
+11349	Change	Depth Legend - FRESHWATER BAYOU to:	10 FT BY 125 FT JUN 2015	N 29 45' 46.400"	W 092 11' 27.000"	29.76289	-92.19083	LNM 42/15, 8th Dist	64	11349_1	10/22/2015
+11349	Change	Depth Legend - FRESHWATER BAYOU to:	7 FT BY 125 FT JUN 2015	N 29 30' 20.900"	W 092 18' 49.300"	29.50581	-92.3137	LNM 42/15, 8th Dist	64	11349_1	10/22/2015
+11349	Delete	Platform: (Energy Partners-500-1)	Chart No. 1: L10	N 29 20' 03.000"	W 091 53' 46.000"	29.33417	-91.89611	LNM 36/15, 8th Dist	64	11349_1	9/17/2015
+11349	Delete	Platform: (Energy Partners-110-13)	Chart No. 1: L10	N 29 28' 13.000"	W 092 10' 59.000"	29.47028	-92.18305	LNM 35/15, 8th Dist	64	11349_1	9/17/2015
+11349	Delete	Platform: (Energy Partners-110-12)	Chart No. 1: L10	N 29 28' 17.000"	W 092 10' 35.000"	29.47139	-92.17639	LNM 35/15, 8th Dist	64	11349_1	9/17/2015
+11349	Change	Depth Legend to:	6 FT APR 2015	N 29 43' 59.720"	W 092 06' 22.780"	29.73326	-92.10633	LNM 37/15, 8th Dist	64	11349_1	9/10/2015
+11349	Change	Depth Legend - Four Mile Cutoff to:	8 FT APR 2015	N 29 45' 46.950"	W 092 07' 38.630"	29.76304	-92.1274	LNM 37/15, 8th Dist	64	11349_1	9/10/2015
+11349	Change	Depth Note - VERMILION RIVER to:	The controlling depths were 9 feet on centerline from theIntracoastal Waterway to the Perry Bridge; thence 6 feet on centerline to the Broussard Bridge; thence 2 feet on centerline to the Ambassador Caffery Bridge; thence shoal to bare to the Pinhook Bridge. Use of local knowledge is recommended. Apr 2015	N 29 49' 45.240"	W 092 11' 38.590"	29.82923	-92.19405	LNM 37/15, 8th Dist	64	11349_1	9/10/2015
+11349	Change	Freshwater Bayou Light 3	Fl G 4s 17ft 4M "3" Ra Ref	N 29 29' 24.697"	W 092 19' 06.865"	29.49019	-92.31857	LNM 29/15, 8th Dist	64	11349_1	7/30/2015
+11349	Add	Visible Wreck	PA       Chart No. 1: K24	N 29 43' 14.400"	W 092 04' 27.600"	29.72067	-92.07433	LNM 24/15, 8th Dist	64	11349_1	6/25/2015
+11349	Change	Depth Legend - Freshwater Bayou Channel to:	8 FT BY 125 FT SEP 2014	N 29 30' 20.940"	W 092 18' 49.280"	29.50582	-92.31369	LNM 19/15, 8th Dist	64	11349_1	5/14/2015
+11349	Add	Channel Limits PT 4 OF 4	Chart No. 1: I20	N 29 31' 57.580"	W 092 18' 30.280"	29.53266	-92.30841	LNM 19/15, 8th Dist	64	11349_1	5/14/2015
+11349	Add	Channel Limits PT 3 OF 4	Chart No. 1: I20	N 29 28' 31.270"	W 092 19' 09.350"	29.47535	-92.31927	LNM 19/15, 8th Dist	64	11349_1	5/14/2015
+11349	Add	Channel Limits PT 2 OF 4	Chart No. 1: I20	N 29 31' 57.770"	W 092 18' 31.650"	29.53271	-92.30879	LNM 19/15, 8th Dist	64	11349_1	5/14/2015
+11349	Add	Channel Limits PT 1 OF 4	Chart No. 1: I20	N 29 28' 31.450"	W 092 19' 10.770"	29.4754	-92.31966	LNM 19/15, 8th Dist	64	11349_1	5/14/2015
+11349	Delete	Channel Limits PT 4 OF 4	Chart No. 1: I20	N 29 31' 59.890"	W 092 18' 27.370"	29.5333	-92.3076	LNM 19/15, 8th Dist	64	11349_1	5/14/2015
+11349	Delete	Channel Limits PT 2 OF 4	Chart No. 1: I20	N 29 31' 59.910"	W 092 18' 31.120"	29.53331	-92.30865	LNM 19/15, 8th Dist	64	11349_1	5/14/2015
+11349	Delete	Channel Limits PT 3 OF 4	Chart No. 1: I20	N 29 28' 20.000"	W 092 19' 10.600"	29.47222	-92.31961	LNM 19/15, 8th Dist	64	11349_1	5/14/2015
+11349	Delete	Channel Limits PT 1 OF 4	Chart No. 1: I20	N 29 28' 20.700"	W 092 19' 13.100"	29.47242	-92.3203	LNM 19/15, 8th Dist	64	11349_1	5/14/2015
+11349	Delete	Platform: (Apache-114-302)	Chart No. 1: L10	N 29 30' 32.249"	W 092 20' 27.402"	29.50896	-92.34094	LNM 08/15, 8th Dist	64	11349_1	3/5/2015
+11349	Delete	Platform: (Apache-114-300)	Chart No. 1: L10	N 29 30' 22.829"	W 092 21' 39.435"	29.50634	-92.36095	LNM 08/15, 8th Dist	64	11349_1	3/5/2015
+11349	Change	Depth Legend - Freshwater Bayou Canal to:	9 FT BY 250 FT SEP 2014	N 29 30' 21.000"	W 092 18' 48.000"	29.50583	-92.31333	LNM 49/14, 8th Dist	64	11349_1	12/4/2014
+11349	Change	Depth Legend - Freshwater Bayou Canal to:	6 FT BY 125 FT SEP 2014	N 29 36' 40.300"	W 092 16' 56.300"	29.61119	-92.2823	LNM 49/14, 8th Dist	64	11349_1	12/4/2014
+11349	Change	Depth Legend - Freshwater Bayou Canal to:	5 1/2 FT BY 125 FT SEP 2014	N 29 41' 38.500"	W 092 15' 00.600"	29.69403	-92.25017	LNM 49/14, 8th Dist	64	11349_1	12/4/2014
+11349	Change	Depth Legend - Freshwater Bayou Canal to:	8 1/2 FT BY 125 FT SEP 2014	N 29 45' 46.400"	W 092 11' 27.000"	29.76289	-92.19083	LNM 49/14, 8th Dist	64	11349_1	12/4/2014
+11349	Change	Depth Legend - Freshwater Bayou Canal to:	4 1/2 FT FOR A WIDTH OF 125 FT SEP 2014	N 29 34' 35.000"	W 092 18' 02.000"	29.57639	-92.30055	LNM 49/14, 8th Dist	64	11349_1	12/4/2014
+11349	Change	Depth Legend - Freshwater Bayou Canal to:	10 FT BY 125 FT SEP 2014	N 29 44' 16.600"	W 092 13' 53.300"	29.73794	-92.23148	LNM 49/14, 8th Dist	64	11349_1	12/4/2014
+11349	Delete	Platform: (Stone Energy-101-90)	Chart No 1: L-10	N 29 24' 41.072"	W 092 22' 00.980"	29.41141	-92.36694	LNM 46/14, 8th Dist	64	11349_1	11/27/2014
+11349	Delete	Platform: (Stone Energy-107-50)	Chart No 1: L-10	N 29 14' 56.165"	W 092 01' 58.133"	29.24893	-92.03281	LNM 45/14, 8th Dist	64	11349_1	11/20/2014
+11349	Delete	Platform: (Stone Energy-101-94)	Chart No 1: L-10	N 29 24' 45.547"	W 092 21' 58.288"	29.41265	-92.36619	LNM 45/14, 8th Dist	64	11349_1	11/20/2014
+11349	Delete	Platform: (Stone Energy-101-50)	Chart No 1: L-10	N 29 24' 47.502"	W 092 22' 26.576"	29.41319	-92.37405	LNM 43/14, 8th Dist	64	11349_1	11/6/2014
+11349	Delete	Platform: (Stone Energy-101-52)	Chart No 1: L-10	N 29 04' 22.854"	W 092 10' 07.611"	29.07302	-92.16878	LNM 43/14, 8th Dist	64	11349_1	11/6/2014
+11349	Delete	Platform: (Wa28-19639-1) (LLOG)	Chart No 1: L-10	N 29 45' 27.000"	W 092 08' 45.000"	29.7575	-92.14584	LNM 43/14, 8th Dist	64	11349_1	11/6/2014
+11349	Delete	Platform: (Apache-114-51)	Chart No 1: L-10	N 29 28' 00.012"	W 092 22' 07.067"	29.46667	-92.36863	LNM 39/14, 8th Dist	64	11349_1	10/9/2014
+11349	Delete	Platform: (Apache-114-8)	Chart No 1: L-10	N 29 29' 14.204"	W 092 21' 20.718"	29.48728	-92.35576	LNM 39/14, 8th Dist	64	11349_1	10/9/2014
+11349	Delete	Platform: (Apache-114-52)	Chart No 1: L-10	N 29 27' 07.013"	W 092 22' 22.367"	29.45195	-92.37288	LNM 39/14, 8th Dist	64	11349_1	10/9/2014
+11349	Delete	Platform: (Texaco-197-6)	Chart No 1: L-10	N 29 19' 04.000"	W 091 51' 06.000"	29.31778	-91.85167	LNM 38/14, 8th Dist	64	11349_1	10/2/2014
+11349	Delete	Platform:  (Texaco-221-1)	Chart No 1: L-10	N 29 20' 03.300"	W 091 56' 24.590"	29.33425	-91.94016	LNM 38/14, 8th Dist	64	11349_1	10/2/2014
+11349	Delete	Platform: (Apache-114-50)	Chart No 1 : L-10	N 29 28' 02.461"	W 092 22' 49.619"	29.46735	-92.38045	LNM 37/14, 8th Dist	64	11349_1	10/2/2014
+11349	Delete	Platform: (Texaco-138-173)	Chart No 1: L-10	N 29 26' 41.000"	W 092 03' 47.000"	29.44472	-92.06306	LNM 37/14, 8th Dist	64	11349_1	10/2/2014
+11349	Add	Platform	Chart no 1: L-10	N 29 41' 27.630"	W 091 49' 13.960"	29.69101	-91.82054	LNM 36/14, 8th Dist	64	11349_1	9/18/2014
+11349	Add	Submerged Obstruction 	PA: Chart No 1 K-40	N 29 46' 00.100"	W 092 11' 06.500"	29.7667	-92.18514	LNM 35/14, 8th Dist	64	11349_1	9/11/2014
+11349	Add	Submerged Obstruction 	PA; Chart No 1: K-40	N 29 45' 51.900"	W 092 11' 19.700"	29.76442	-92.1888	LNM 35/14, 8th Dist	64	11349_1	9/11/2014
+11349	Add	Submerged Obstruction  	PA; Chart No 1 K-40	N 29 45' 53.100"	W 092 11' 13.200"	29.76475	-92.187	LNM 35/14, 8th Dist	64	11349_1	9/11/2014
+11349	Add	Submerged Obstruction  	PA: Chart No 1: K-40	N 29 45' 58.300"	W 092 11' 05.100"	29.7662	-92.18475	LNM 35/14, 8th Dist	64	11349_1	9/11/2014
+11349	Relocate	Southwest Pass - Vermilion Bay Channel Light 7	Fl G 2.5s 17ft 3M "7"	N 29 34' 36.661"	W 092 02' 49.497"	29.57685	-92.04708	LNM 35/14, 8th Dist	64	11349_1	9/11/2014
+11349	Relocate	Freshwater Bayou Junction Light FW	Fl (2+1) R 6s 17ft 2M "FW"	N 29 46' 28.988"	W 092 10' 13.742"	29.77472	-92.17049	LNM 35/14, 8th Dist	64	11349_1	9/11/2014
+11349	Delete	Platform (Apache-114-1)	Chart No 1: L-10	N 29 28' 17.508"	W 092 21' 59.691"	29.47153	-92.36658	LNM 35/14, 8th Dist	64	11349_1	9/11/2014
+11349	Delete	Platform (Apache-114-2)	Chart No 1: L-10	N 29 28' 17.485"	W 092 21' 49.924"	29.47152	-92.36387	LNM 35/14, 8th Dist	64	11349_1	9/11/2014
+11349	Delete	Platform: (Helis-123-2)	Chart No 1: L-10	N 29 08' 53.951"	W 091 58' 25.529"	29.14832	-91.97375	LNM 34/14, 8th Dist	64	11349_1	9/4/2014
+11349	Delete	Platform (Apache-114-22)	Chart No 1: L-10	N 29 27' 26.759"	W 092 22' 29.359"	29.45743	-92.37482	LNM 33/14, 8th Dist	64	11349_1	8/28/2014
+11349	Delete	Platform: (Apache-114-17)	Chart No 1: L-10	N 29 27' 26.759"	W 092 22' 51.668"	29.45743	-92.38102	LNM 33/14, 8th Dist	64	11349_1	8/28/2014
+11349	Delete	Platform: (Chevron-134-109)	Chart No. 1: L10	N 29 26' 14.000"	W 092 03' 42.000"	29.43722	-92.06167	LNM 27/14, 8th Dist	64	11349_1	7/17/2014
+11349	Delete	Platform: (Chevron-134-110)	Chart No. 1: L10	N 29 27' 01.000"	W 092 03' 29.000"	29.45028	-92.05805	LNM 27/14, 8th Dist	64	11349_1	7/17/2014
+11349	Delete	Platform: (Chevron-134-111)	Chart No. 1: L10	N 29 26' 53.000"	W 092 03' 56.000"	29.44806	-92.06555	LNM 27/14, 8th Dist	64	11349_1	7/17/2014
+11349	Delete	Platform: (Chevron-134-112)	Chart No. 1: L10	N 29 27' 33.000"	W 092 04' 00.000"	29.45917	-92.06667	LNM 27/14, 8th Dist	64	11349_1	7/17/2014
+11349	Delete	Platform: (Chevron-134-114)	Chart No. 1: L10	N 29 25' 49.000"	W 092 04' 54.000"	29.43028	-92.08167	LNM 27/14, 8th Dist	64	11349_1	7/17/2014
+11349	Delete	Platform: (Chevron-134-115)	Chart No. 1: L10	N 29 25' 55.000"	W 092 04' 18.000"	29.43194	-92.07166	LNM 27/14, 8th Dist	64	11349_1	7/17/2014
+11349	Delete	Platform: (Chevron-134-116)	Chart No. 1: L10	N 29 20' 25.000"	W 091 59' 26.000"	29.34028	-91.99055	LNM 27/14, 8th Dist	64	11349_1	7/17/2014
+11349	Delete	Platform: (Chevron-182-13)	Chart No. 1: L10	N 29 29' 32.100"	W 092 28' 23.900"	29.49225	-92.4733	LNM 27/14, 8th Dist	64	11349_1	7/17/2014
+11349	Delete	Platform: (Chevron-134-100)	Chart No. 1: L10	N 29 25' 46.000"	W 092 04' 26.000"	29.42945	-92.07389	LNM 26/14, 8th Dist	64	11349_1	7/10/2014
+11349	Delete	Platform: (Chevron-134-13)	Chart No. 1: L10	N 29 26' 14.063"	W 092 02' 11.631"	29.43724	-92.03657	LNM 26/14, 8th Dist	64	11349_1	7/10/2014
+11349	Delete	Platform: (Chevron-134-101)	Chart No. 1: L10	N 29 26' 05.000"	W 092 05' 06.000"	29.43472	-92.085	LNM 26/14, 8th Dist	64	11349_1	7/10/2014
+11349	Delete	Platform: (Chevron-134-104)	Chart No. 1: L10	N 29 25' 19.000"	W 092 05' 18.000"	29.42194	-92.08833	LNM 26/14, 8th Dist	64	11349_1	7/10/2014
+11349	Delete	Platform: (Chevron-134-105)	Chart No. 1: L10	N 29 21' 09.941"	W 091 59' 54.365"	29.35276	-91.99844	LNM 26/14, 8th Dist	64	11349_1	7/10/2014
+11349	Delete	Platform: (Chevron-134-106)	Chart No. 1: L10	N 29 21' 53.000"	W 092 04' 26.000"	29.36472	-92.07389	LNM 26/14, 8th Dist	64	11349_1	7/10/2014
+11349	Delete	Platform: (Chevron-134-107)	Chart No. 1: L10	N 29 20' 19.000"	W 091 58' 48.000"	29.33861	-91.98	LNM 26/14, 8th Dist	64	11349_1	7/10/2014
+11349	Delete	Platform: (Chevron-134-108)	Chart No. 1: L10	N 29 19' 15.000"	W 091 59' 27.000"	29.32083	-91.99084	LNM 26/14, 8th Dist	64	11349_1	7/10/2014
+11349	Delete	Dangerous Wreck	PA      Chart No. 1: K28	N 29 32' 38.300"	W 092 18' 23.300"	29.54397	-92.30647	LNM 24/14, 8th Dist	64	11349_1	6/26/2014
+11349	Delete	Platform: (Energy Xxi-108-10)	Chart No. 1: L10	N 29 27' 57.779"	W 092 09' 07.030"	29.46605	-92.15195	LNM 24/14, 8th Dist	64	11349_1	6/26/2014
+11349	Add	Submerged Obstruction	Obstn PA      Chart No. 1: K40	N 29 25' 45.000"	W 092 08' 52.000"	29.42917	-92.14778	LNM 23/14, 8th Dist	64	11349_1	6/19/2014
+11349	Add	Dangerous Wreck	PA      Chart No. 1: K28	N 29 32' 38.300"	W 092 18' 23.300"	29.54397	-92.30647	LNM 20/14, 8th Dist	64	11349_1	6/5/2014
+11349	Delete	Platform: (McMoran-113-17)	Chart No. 1: L10	N 29 31' 06.654"	W 092 25' 58.670"	29.51851	-92.43296	LNM 19/14, 8th Dist	64	11349_1	5/22/2014
+11349	Delete	Platform	Chart No. 1: L10	N 29 31' 04.300"	W 092 25' 53.300"	29.51786	-92.43147	LNM 19/14, 8th Dist	64	11349_1	5/22/2014
+11349	Delete	Platform: (Mcmoran-113-7)	Chart No. 1: L10	N 29 30' 59.100"	W 092 25' 54.500"	29.51642	-92.43181	LNM 19/14, 8th Dist	64	11349_1	5/22/2014
+11349	Delete	Platform: (Mcmoran-100-5)	Chart No. 1: L10	N 29 18' 30.305"	W 091 50' 54.950"	29.30842	-91.84859	LNM 18/14, 8th Dist	64	11349_1	5/15/2014
+11349	Delete	Platform: (Apache-114-50)	Chart No. 1: L10	N 29 27' 31.712"	W 092 23' 30.498"	29.45881	-92.39181	LNM 18/14, 8th Dist	64	11349_1	5/15/2014
+11349	Add	Platform: (Chevron-134-20)	Chart No. 1: L10	N 29 26' 42.560"	W 092 03' 24.811"	29.44516	-92.05689	LNM 11/14, 8th Dist	64	11349_1	3/27/2014
+11349	Add	Vermilion Parish Tigre Point Danger Breakwater Light	Fl 2.5s Priv	N 29 32' 58.000"	W 092 14' 11.000"	29.54944	-92.23639	LNM 11/14, 8th Dist	64	11349_1	3/27/2014
+11349	Add	Vermilion Parish Tigre Point Danger Breakwater Light	Fl 2.5s Priv	N 29 32' 54.000"	W 092 14' 20.000"	29.54833	-92.23889	LNM 11/14, 8th Dist	64	11349_1	3/27/2014
+11349	Add	Vermilion Parish Tigre Point Danger Breakwater Light	Fl 2.5s Priv	N 29 32' 43.000"	W 092 14' 40.000"	29.54528	-92.24445	LNM 11/14, 8th Dist	64	11349_1	3/27/2014
+11349	Add	Vermilion Parish Tigre Point Danger Breakwater Light	Fl 2.5s Priv	N 29 32' 39.000"	W 092 14' 49.000"	29.54417	-92.24695	LNM 11/14, 8th Dist	64	11349_1	3/27/2014
+11349	Add	Vermilion Parish Tigre Point Danger Breakwater Light	Fl 2.5s Priv	N 29 32' 35.000"	W 092 14' 57.000"	29.54306	-92.24917	LNM 11/14, 8th Dist	64	11349_1	3/27/2014
+11349	Add	Vermilion Parish Tigre Point Danger Breakwater Light	Fl 2.5s Priv	N 29 32' 30.000"	W 092 15' 06.000"	29.54167	-92.25166	LNM 11/14, 8th Dist	64	11349_1	3/27/2014

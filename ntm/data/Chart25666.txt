@@ -1,0 +1,8 @@
+Chart: 25666, Current Edition: 18, Print Date: Jul. /2006, Ensenada Honda
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+25666	Delete	Roosevelt Roads Harbor Entrance Channel Range Rear Light	Iso 6s 69ft	N 18 13' 58.355"	W 065 38' 22.250"	18.23288	-65.63951	LNM 14/13, 7th Dist	394	25666_1	4/15/2013
+25666	Delete	Roosevelt Roads Harbor Entrance Channel Range Front Light	Q 39ft	N 18 13' 41.281"	W 065 38' 04.498"	18.22813	-65.63458	LNM 14/13, 7th Dist	394	25666_1	4/15/2013
+25666	Relocate	Roosevelt Roads Hbr Ch Ent Range Front Light	Q	N 18 13' 41.281"	W 065 38' 04.498"	18.22813	-65.63458	LNM 08/12, 7th Dist	394	25666_1	3/12/2012
+25666	Relocate	Roosevelt Roads Hbr Ch Ent Range Rear Light	Iso 6s	N 18 13' 58.355"	W 065 38' 22.250"	18.23288	-65.63951	LNM 08/12, 7th Dist	394	25666_1	3/12/2012
+25666	Change	Roosevelt Roads Hbr Ch Ent Range Front Light	Q 39ft	N 18 13' 41.281"	W 065 38' 04.498"	18.22813	-65.63458	LNM 08/12, 7th Dist	394	25666_1	3/12/2012
+25666	Change	Roosevelt Roads Hbr Ch Ent Range Rear Light	Iso 6s 69ft	N 18 13' 58.355"	W 065 38' 22.250"	18.23288	-65.63951	LNM 08/12, 7th Dist	394	25666_1	3/12/2012

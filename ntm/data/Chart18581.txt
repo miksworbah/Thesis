@@ -1,0 +1,60 @@
+Chart: 18581, Current Edition: 19, Print Date: Oct. /2011, Yaquina Bay and River;Continuation of Yaquina River
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18581	Change	Tabulation - Yaquina Bay and River Channel Depths	Tabulation - Yaquina Bay and River Channel Depths	N 44 38' 33.000"	W 124 02' 23.000"	44.6425	-124.0397	LNM 20/17, 13th Dist	1792	18581_1	5/11/2017
+18581	Change	Tabulation - YAQUINA BAY AND RIVER CHANNEL DEPTHS	Tabulation - YAQUINA BAY AND RIVER CHANNEL DEPTHS	N 44 38' 33.000"	W 124 02' 23.000"	44.6425	-124.0397	LNM 15/17, 13th Dist	1792	18581_1	4/6/2017
+18581	Change	Tabulation - YAQUINA BAY AND RIVER CHANNEL DEPTHS	Tabulation - YAQUINA BAY AND RIVER CHANNEL DEPTHS	N 44 38' 33.000"	W 124 02' 23.000"	44.6425	-124.0397	LNM 03/17, 13th Dist	1792	18581_1	1/19/2017
+18581	Change	Yaquina Bay Approach Lighted Whistle Buoy Y	RW "Y" Mo (A) WHIS AIS	N 44 35' 51.761"	W 124 06' 46.811"	44.59771	-124.113	LNM 49/16, 13th Dist	1792	18581_1	12/8/2016
+18581	Change	Yaquina Bay South Jetty Light 4	Fl R 2.5s 17ft 4M "4" AIS	N 44 36' 33.906"	W 124 04' 45.834"	44.60942	-124.0794	LNM 49/16, 13th Dist	1792	18581_1	12/8/2016
+18581	Relocate	Yaquina Bay South Jetty Light 4	Fl R 2.5s 17ft 4M "4" AIS	N 44 36' 33.906"	W 124 04' 45.834"	44.60942	-124.0794	LNM 49/16, 13th Dist	1792	18581_1	12/8/2016
+18581	Change	Tabulation - YAQUINA BAY AND RIVER CHANNEL DEPTHS	Tabulation - YAQUINA BAY AND RIVER CHANNEL DEPTHS	N 44 38' 33.000"	W 124 02' 23.000"	44.6425	-124.0397	LNM 43/16, 13th Dist	1792	18581_1	10/20/2016
+18581	Relocate	Yaquina Bay South Jetty Light 4	Fl R 2.5s 17ft 3M "4"	N 44 36' 33.900"	W 124 04' 45.830"	44.60942	-124.0794	LNM 37/16, 13th Dist	1792	18581_1	9/22/2016
+18581	Change	Yaquina Bay South Jetty Light 4	Fl R 2.5s 17ft 3M "4"	N 44 36' 33.900"	W 124 04' 45.830"	44.60942	-124.0794	LNM 37/16, 13th Dist	1792	18581_1	9/22/2016
+18581	Change	Tabulation - YAQUINA BAY AND RIVER CHANNEL DEPTHS	Tabulation - YAQUINA BAY AND RIVER CHANNEL DEPTHS	N 44 38' 33.000"	W 124 02' 23.000"	44.6425	-124.0397	LNM 38/16, 13th Dist	1792	18581_1	9/15/2016
+18581	Relocate	Yaquina Bay South Jetty Sound Signal	HORN (Maint May 20 to Oct 1)	N 44 36' 34.494"	W 124 04' 44.802"	44.60958	-124.0791	LNM 34/16, 13th Dist	1792	18581_1	9/1/2016
+18581	Add	Dangerous Wreck - Mast	Mast PA    Chart No. 1: K25	N 44 36' 28.722"	W 124 00' 54.211"	44.60798	-124.0151	LNM 36/16, 13th Dist	1792	18581_1	9/1/2016
+18581	Change	Tabulation - YAQUINA BAY AND RIVER CHANNEL DEPTHS	Tabulation - YAQUINA BAY AND RIVER CHANNEL DEPTHS	N 44 38' 33.000"	W 124 02' 33.000"	44.6425	-124.0425	LNM 31/16, 13th Dist	1792	18581_1	7/28/2016
+18581	Relocate	Yaquina River Light 17	Fl G 4s 15ft 4M "17"	N 44 36' 22.818"	W 124 00' 37.578"	44.60634	-124.0104	LNM 26/16, 13th Dist	1792	18581_1	6/30/2016
+18581	Relocate	Yaquina River Daybeacon 21	G "21" Ra Ref	N 44 35' 12.150"	W 124 01' 17.910"	44.58671	-124.0216	LNM 24/16, 13th Dist	1792	18581_1	6/16/2016
+18581	Change	Tabulation - Yaquina Bay and River Channel	Tabulation - Yaquina Bay and River Channel	N 44 38' 33.000"	W 124 02' 33.000"	44.6425	-124.0425	LNM 16/16, 13th Dist	1792	18581_1	4/14/2016
+18581	Change	Tabulation - YAQUINA BAY AND RIVER CHANNEL DEPTHS	Tabulation - YAQUINA BAY AND RIVER CHANNEL DEPTHS	N 44 38' 33.000"	W 124 02' 23.000"	44.6425	-124.0397	LNM 06/16, 13th Dist	1792	18581_1	2/4/2016
+18581	Relocate	Yaquina River Light 38	Fl R 2.5s 22ft 4M "38"	N 44 35' 03.987"	W 123 57' 29.185"	44.58444	-123.9581	LNM 41/15, 13th Dist	1793	18581_2	10/22/2015
+18581	Change	Yaquina River Light 38	Fl R 2.5s 22ft 4M "38"	N 44 35' 03.987"	W 123 57' 29.185"	44.58444	-123.9581	LNM 41/15, 13th Dist	1793	18581_2	10/22/2015
+18581	Change	tabulation - YAQUINA BAY AND RIVER CHANNEL DEPTHS	tabulation - YAQUINA BAY AND RIVER CHANNEL DEPTHS	N 44 38' 33.000"	W 124 02' 23.000"	44.6425	-124.0397	LNM 39/15, 13th Dist	1792	18581_1	9/24/2015
+18581	Change	tabulation - Yaquina Bay and River Channel	tabulation - Yaquina Bay and River Channel	N 44 38' 33.000"	W 124 02' 23.000"	44.6425	-124.0397	LNM 35/15, 13th Dist	1792	18581_1	8/27/2015
+18581	Relocate	Yaquina Bay Entrance Regulated Navigation Area Warning Sign	Sign (ltd occas)	N 44 37' 29.058"	W 124 03' 26.568"	44.62474	-124.0574	LNM 25/15, 13th Dist	1792	18581_1	7/2/2015
+18581	Change	tabulation - Yaquina Bay and River Channel	tabulation - Yaquina Bay and River Channel	N 44 38' 33.000"	W 124 02' 23.000"	44.6425	-124.0397	LNM 25/15, 13th Dist	1792	18581_1	6/18/2015
+18581	Change	tabulation - YAQUINA BAY AND RIVER CHANNEL DEPTHS	tabulation - YAQUINA BAY AND RIVER CHANNEL DEPTHS	N 44 38' 33.000"	W 124 02' 23.000"	44.6425	-124.0397	LNM 38/14, 13th Dist	1792	18581_1	9/18/2014
+18581	Change	tabulation - YAQUINA BAY AND RIVER CHANNEL DEPTHS	tabulation - YAQUINA BAY AND RIVER CHANNEL DEPTHS	N 44 38' 33.000"	W 124 02' 23.000"	44.6425	-124.0397	LNM 21/14, 13th Dist	1792	18581_1	5/22/2014
+18581	Change	tabulation - YAQUINA BAY AND RIVER CHANNEL DEPTHS 	tabulation - YAQUINA BAY AND RIVER CHANNEL DEPTHS 	N 44 38' 33.000"	W 124 02' 23.000"	44.6425	-124.0397	LNM 06/14, 13th Dist	1792	18581_1	2/6/2014
+18581	Change	tabulation - Yaquina Bay and River Channel Depths	tabulation - Yaquina Bay and River Channel Depths	N 44 38' 33.000"	W 124 02' 23.000"	44.6425	-124.0397	LNM 02/14, 13th Dist	1792	18581_1	1/16/2014
+18581	Change	tabulation - Yaquina Bay and River Channel Depths	tabulation - Yaquina Bay and River Channel Depths	N 44 38' 33.000"	W 124 02' 23.000"	44.6425	-124.0397	LNM 26/13, 13th Dist	1792	18581_1	6/20/2013
+18581	Relocate	Southbeach Marina Light 2 	Fl R 4s 14ft 3M "2"	N 44 37' 25.926"	W 124 03' 14.730"	44.62387	-124.0541	LNM 10/13, 13th Dist	1792	18581_1	4/3/2013
+18581	Relocate	Yaquina Bay Inner Range Front Light	Q R 17ft	N 44 37' 44.236"	W 124 02' 58.950"	44.62896	-124.0497	LNM 10/13, 13th Dist	1792	18581_1	4/3/2013
+18581	Relocate	Yaquina Bay Inner Range Rear Light	Iso R 6s 30ft	N 44 37' 47.277"	W 124 02' 55.271"	44.6298	-124.0487	LNM 10/13, 13th Dist	1792	18581_1	4/3/2013
+18581	Change	Yaquina Bay Inner Range Rear Light	Iso R 6s 30ft	N 44 37' 47.277"	W 124 02' 55.271"	44.6298	-124.0487	LNM 10/13, 13th Dist	1792	18581_1	4/3/2013
+18581	Change	tabulation - Yaquina Bay and River Channel Depths	tabulation - Yaquina Bay and River Channel Depths	N 44 38' 33.000"	W 124 02' 23.000"	44.6425	-124.0397	LNM 03/13, 13th Dist	1792	18581_1	1/11/2013
+18581	Add	Disposal Area PT 1 OF 5	Disposal Area (use Chart No. 1: N1.1)	N 44 38' 04.400"	W 124 07' 28.400"	44.63456	-124.1246	LNM 44/12, 13th Dist	1792	18581_1	10/24/2012
+18581	Add	Disposal Area PT 2 OF 5	Disposal Area (use Chart No. 1: N1.1)	N 44 38' 17.980"	W 124 07' 25.950"	44.63833	-124.1239	LNM 44/12, 13th Dist	1792	18581_1	10/24/2012
+18581	Add	Disposal Area PT 3 OF 5	Disposal Area (use Chart No. 1: N1.1)	N 44 38' 12.860"	W 124 06' 31.100"	44.63691	-124.1086	LNM 44/12, 13th Dist	1792	18581_1	10/24/2012
+18581	Add	Disposal Area PT 4 OF 5	Disposal Area (use Chart No. 1: N1.1)	N 44 37' 09.220"	W 124 06' 42.730"	44.61923	-124.1119	LNM 44/12, 13th Dist	1792	18581_1	10/24/2012
+18581	Add	Disposal Area PT 5 OF 5	Disposal Area (use Chart No. 1: N1.1)	N 44 37' 13.500"	W 124 07' 28.400"	44.62042	-124.1246	LNM 44/12, 13th Dist	1792	18581_1	10/24/2012
+18581	Add	Disposal Area PT 1 OF 4	Disposal Area (use Chart No. 1: N1.1)	N 44 36' 02.300"	W 124 07' 28.400"	44.60064	-124.1246	LNM 44/12, 13th Dist	1792	18581_1	10/24/2012
+18581	Add	Disposal Area PT 2 OF 4	Disposal Area (use Chart No. 1: N1.1)	N 44 35' 59.390"	W 124 06' 57.840"	44.59983	-124.1161	LNM 44/12, 13th Dist	1792	18581_1	10/24/2012
+18581	Add	Disposal Area PT 3 OF 4	Disposal Area (use Chart No. 1: N1.1)	N 44 34' 55.750"	W 124 07' 09.470"	44.58215	-124.1193	LNM 44/12, 13th Dist	1792	18581_1	10/24/2012
+18581	Add	Disposal Area PT 4 OF 4	Disposal Area (use Chart No. 1: N1.1)	N 44 34' 57.500"	W 124 07' 28.400"	44.58264	-124.1246	LNM 44/12, 13th Dist	1792	18581_1	10/24/2012
+18581	Add	Disposal area label	Disposal Area Depths from survey of 2012	N 44 37' 45.000"	W 124 07' 00.000"	44.62917	-124.1167	LNM 44/12, 13th Dist	1792	18581_1	10/24/2012
+18581	Add	Disposal area label	Disposal Area Depths from survey of 2012	N 44 35' 33.000"	W 124 07' 23.000"	44.5925	-124.1231	LNM 44/12, 13th Dist	1792	18581_1	10/24/2012
+18581	Add	Dangerous wreck, depth unknown	Chart No 1: K-28	N 44 36' 40.800"	W 124 04' 56.400"	44.61133	-124.0823	LNM 39/12, 13th Dist	1792	18581_1	10/1/2012
+18581	Change	tabulation - YAQUINA BAY AND RIVER CHANNEL DEPTHS	tabulation - YAQUINA BAY AND RIVER CHANNEL DEPTHS	N 44 38' 33.000"	W 124 02' 23.000"	44.6425	-124.0397	LNM 41/12, 13th Dist	1792	18581_1	10/1/2012
+18581	Change	Yaquina Bay Entrance Range Rear Light	Iso R 6s 52ft	N 44 37' 13.566"	W 124 03' 20.038"	44.62043	-124.0556	LNM 34/12, 13th Dist	1792	18581_1	8/23/2012
+18581	Change	tabulation - YAQUINA BAY AND RIVER CHANNEL DEPTHS	tabulation - YAQUINA BAY AND RIVER CHANNEL DEPTHS	N 44 38' 33.000"	W 124 02' 23.000"	44.6425	-124.0397	LNM 30/12, 13th Dist	1792	18581_1	7/19/2012
+18581	Add	Dangerous Submerged Wreck 	Chart No 1: K-28	N 44 36' 45.342"	W 124 04' 41.374"	44.61259	-124.0782	LNM 14/12, 13th Dist	1792	18581_1	4/19/2012
+18581	Relocate	Yaquina Bay Entrance Range Front Light	Q R 25ft	N 44 37' 08.018"	W 124 03' 34.052"	44.61889	-124.0595	LNM 13/12, 13th Dist	1792	18581_1	4/3/2012
+18581	Relocate	Yaquina Bay Entrance Range Rear Light	Iso R 6s 50ft	N 44 37' 13.566"	W 124 03' 20.038"	44.62043	-124.0556	LNM 13/12, 13th Dist	1792	18581_1	4/3/2012
+18581	Change	tabulation - Yaquina Bay and River Channel	tabulation - Yaquina Bay and River Channel	N 44 38' 33.000"	W 124 02' 23.000"	44.6425	-124.0397	LNM 14/12, 13th Dist	1792	18581_1	4/3/2012
+18581	Delete	NOTE	NOTE S	N 44 38' 17.800"	W 124 02' 23.500"	44.63828	-124.0399	LNM 52/11, 13th Dist	1792	18581_1	12/28/2011
+18581	Delete	Dump Site Legend and line PT 1 OF 5	black dashed line and label: Dump Site (discontinued) (dredged material) (see note S)         Depths from surveys of 2008-2010	N 44 36' 30.350"	W 124 05' 28.000"	44.60843	-124.0911	LNM 52/11, 13th Dist	1792	18581_1	12/28/2011
+18581	Delete	Dump Site Legend and line PT 2 OF 5	black dashed line and label: Dump Site (discontinued) (dredged material) (see note S)         Depths from surveys of 2008-2010	N 44 36' 30.350"	W 124 05' 20.450"	44.60843	-124.089	LNM 52/11, 13th Dist	1792	18581_1	12/28/2011
+18581	Delete	Dump Site Legend and line PT 3 OF 5	black dashed line and label: Dump Site (discontinued) (dredged material) (see note S)         Depths from surveys of 2008-2010	N 44 36' 16.500"	W 124 05' 20.450"	44.60458	-124.089	LNM 52/11, 13th Dist	1792	18581_1	12/28/2011
+18581	Delete	Dump Site Legend and line PT 4 OF 5	black dashed line and label: Dump Site (discontinued) (dredged material) (see note S)         Depths from surveys of 2008-2010	N 44 36' 16.500"	W 124 06' 08.500"	44.60458	-124.1024	LNM 52/11, 13th Dist	1792	18581_1	12/28/2011
+18581	Delete	Dump Site Legend and line PT 5 OF 5	black dashed line and label: Dump Site (discontinued) (dredged material) (see note S)         Depths from surveys of 2008-2010	N 44 36' 30.350"	W 124 06' 08.500"	44.60843	-124.1024	LNM 52/11, 13th Dist	1792	18581_1	12/28/2011

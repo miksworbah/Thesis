@@ -1,0 +1,2 @@
+Chart: 17377, Current Edition: 2, Print Date: May. /2014, Le Conte Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

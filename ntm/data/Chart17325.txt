@@ -1,0 +1,2 @@
+Chart: 17325, Current Edition: 10, Print Date: Mar. /2015, South and West Coasts of Kruzof Island
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

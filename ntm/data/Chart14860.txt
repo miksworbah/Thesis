@@ -1,0 +1,14 @@
+Chart: 14860, Current Edition: 37, Print Date: May. /2016, Lake Huron
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14860	Change	Charity Island Shoal Lighted Bell Buoy 1 AIS	G "1" Q G BELL AIS	N 44 06' 30.156"	W 083 29' 46.172"	44.10838	-83.49616	LNM 50/16, 9th Dist	1312	14860_1	1/19/2017
+14860	Change	Charity Island Shoal Lighted Buoy 3 AIS	G "3" Fl G 4s AIS	N 44 03' 25.005"	W 083 30' 43.833"	44.05695	-83.51218	LNM 50/16, 9th Dist	1312	14860_1	1/19/2017
+14860	Change	Alpena Junction Lighted Buoy AL AIS	RG "AL" Fl (2+1) R 6s AIS	N 45 02' 57.718"	W 083 24' 04.930"	45.04937	-83.40137	LNM 50/16, 9th Dist	1312	14860_1	1/19/2017
+14860	Change	Grays Reef Passage Channel Lighted Buoy 7 AIS	G "7" Fl G 4s AIS	N 45 45' 44.377"	W 085 08' 29.152"	45.76233	-85.14143	LNM 50/16, 9th Dist	1312	14860_1	1/19/2017
+14860	Change	Nordmeer Wreck Lighted Buoy WR1 AIS	G "WR1" Q G RACON (-.) AIS	N 45 08' 08.560"	W 083 09' 17.874"	45.13571	-83.15497	LNM 50/16, 9th Dist	1312	14860_1	1/19/2017
+14860	Change	New Shoal Lighted Buoy 1 AIS	G "1" Fl G 4s AIS	N 45 49' 16.280"	W 085 05' 16.788"	45.82119	-85.088	LNM 50/16, 9th Dist	1312	14860_1	1/19/2017
+14860	Change	New Shoal Lighted Bell Buoy 3 AIS	G "3" Fl G 2.5s BELL AIS	N 45 48' 53.619"	W 085 08' 00.517"	45.8149	-85.13348	LNM 50/16, 9th Dist	1312	14860_1	1/19/2017
+14860	Change	Tawas Light	Fl 4s 46ft 11 St M HORN (MRASS)	N 44 14' 54.012"	W 083 27' 32.947"	44.24834	-83.45915	Not Yet Published	1312	14860_1	11/10/2016
+14860	Relocate	Tawas Light	Oc 4s 70ft 12 St M	N 44 14' 54.012"	W 083 27' 32.947"	44.24834	-83.45915	LNM 42/16, 9th Dist	1312	14860_1	11/3/2016
+14860	Relocate	Tawas Light	Oc 4s 70ft 12 St M	N 44 14' 54.000"	W 083 27' 32.000"	44.24833	-83.45889	LNM 40/16, 9th Dist	1312	14860_1	10/20/2016
+14860	Change	Tawas Light	Fl 4s 46ft 11 St M HORN (MRASS)	N 44 14' 54.000"	W 083 27' 32.000"	44.24833	-83.45889	LNM 40/16, 9th Dist	1312	14860_1	10/20/2016
+14860	Change	Port Sanilac Light	Fl 2.5s 69ft 14 St M	N 43 25' 44.430"	W 082 32' 24.710"	43.42901	-82.5402	LNM 39/16, 9th Dist	1312	14860_1	10/6/2016

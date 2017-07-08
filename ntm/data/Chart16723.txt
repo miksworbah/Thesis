@@ -1,0 +1,4 @@
+Chart: 16723, Current Edition: 16, Print Date: Sep. /2014, Controller Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16723	Relocate	Softuk Bar Channel Light S	Oc (4) 30s 12ft 6M "S"	N 60 13' 13.788"	W 144 58' 58.818"	60.2205	-144.983	LNM 22/17, 17th Dist	2611	16723_1	6/1/2017
+16723	Relocate	Softuk Bar Channel Light S	Oc (4) 30s 12ft 6M "S"	N 60 13' 16.344"	W 144 59' 02.268"	60.22121	-144.984	LNM 26/15, 17th Dist	2611	16723_1	7/9/2015

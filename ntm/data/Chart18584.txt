@@ -1,0 +1,154 @@
+Chart: 18584, Current Edition: 48, Print Date: May. /2007, Umpqua River Pacific Ocean to Reedsport
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18584	Relocate	Umpqua River Light 20	Fl R 6s 15ft 4M "20"	N 43 44' 52.883"	W 124 08' 21.318"	43.74802	-124.1393	LNM 26/17, 13th Dist	1795	18584_1	7/6/2017
+18584	Change	Tabulation - Umpqua River Channel Depths	Tabulation - Umpqua River Channel Depths	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 24/17, 13th Dist	1795	18584_1	6/8/2017
+18584	Change	Tabulation - Umpqua River Channel Depths	Tabulation - Umpqua River Channel Depths	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 20/17, 13th Dist	1795	18584_1	5/11/2017
+18584	Change	Tabulation - UMPQUA RIVER CHANNEL DEPTHS	Tabulation - UMPQUA RIVER CHANNEL DEPTHS	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 16/17, 13th Dist	1795	18584_1	4/13/2017
+18584	Change	Tabulation - UMPQUA RIVER CHANNEL DEPTHS	Tabulation - UMPQUA RIVER CHANNEL DEPTHS	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 04/17, 13th Dist	1795	18584_1	1/19/2017
+18584	Change	Tabulation - UMPQUA RIVER CHANNEL DEPTHS	Tabulation - UMPQUA RIVER CHANNEL DEPTHS	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 43/16, 13th Dist	1795	18584_1	10/20/2016
+18584	Change	Tabulation - Umpqua River Channel Depths	Tabulation - Umpqua River Channel Depths	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 38/16, 13th Dist	1795	18584_1	9/15/2016
+18584	Change	Tabulation - Umpqua River Channel Depths	Tabulation - Umpqua River Channel Depths	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 32/16, 13th Dist	1795	18584_1	8/4/2016
+18584	Relocate	Salmon Harbor Entrance Light 2	Fl R 4s 15ft 3M "2"	N 43 41' 07.572"	W 124 10' 54.468"	43.68544	-124.1818	LNM 24/16, 13th Dist	1795	18584_1	6/16/2016
+18584	Relocate	Scholfield Creek Channel Daybeacon 2	R "2" Ra Ref	N 43 42' 36.446"	W 124 06' 23.548"	43.71012	-124.1065	LNM 24/16, 13th Dist	1795	18584_1	6/16/2016
+18584	Relocate	Scholfield Creek Channel Daybeacon 3	G "3"	N 43 42' 35.654"	W 124 06' 22.341"	43.7099	-124.1062	LNM 24/16, 13th Dist	1795	18584_1	6/16/2016
+18584	Change	Tabulation - Umpqua River	Tabulation - Umpqua River	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 06/16, 13th Dist	1795	18584_1	2/4/2016
+18584	Relocate	Umpqua River Channel Daybeacon 28	R "28"	N 43 43' 02.797"	W 124 07' 07.755"	43.71745	-124.1188	LNM 42/15, 13th Dist	1795	18584_1	10/29/2015
+18584	Change	tabulation - Umpqua River Channel	tabulation - Umpqua River Channel	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 43/15, 13th Dist	1795	18584_1	10/29/2015
+18584	Change	tabulation - UMPQUA RIVER CHANNEL DEPTHS	tabulation - UMPQUA RIVER CHANNEL DEPTHS	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 25/14, 13th Dist	1795	18584_1	6/18/2015
+18584	Change	Umpqua River Light 6	Fl R 4s 32ft 5M "6"	N 43 40' 10.584"	W 124 11' 55.836"	43.66961	-124.1988	LNM 09/15, 13th Dist	1795	18584_1	3/12/2015
+18584	Relocate	Umpqua River Light 6	Fl R 4s 32ft 5M "6"	N 43 40' 10.584"	W 124 11' 55.836"	43.66961	-124.1988	LNM 09/15, 13th Dist	1795	18584_1	3/12/2015
+18584	Relocate	Umpqua River Regulated Navigation Area Warning Sign	Q Y 16ft	N 43 40' 10.584"	W 124 11' 55.836"	43.66961	-124.1988	LNM 09/15, 13th Dist	1795	18584_1	3/12/2015
+18584	Change	Umpqua River Regulated Navigation Area Warning Sign	Q Y 16ft	N 43 40' 10.584"	W 124 11' 55.836"	43.66961	-124.1988	LNM 09/15, 13th Dist	1795	18584_1	3/12/2015
+18584	Change	Umpqua River Regulated Navigation Area Warning Sign	Sign (lighted occas)	N 43 40' 10.584"	W 124 11' 55.836"	43.66961	-124.1988	LNM 09/15, 13th Dist	1795	18584_1	3/12/2015
+18584	Change	tabulation - UMPQUA RIVER CHANNEL DEPTHS	tabulation - UMPQUA RIVER CHANNEL DEPTHS	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 21/14, 13th Dist	1795	18584_1	5/22/2014
+18584	Change	tabulation - UMPQUA RIVER CHANNEL DEPTHS	tabulation - UMPQUA RIVER CHANNEL DEPTHS	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 02/14, 13th Dist	1795	18584_1	1/16/2014
+18584	Change	tabulation - UMPQUA RIVER CHANNEL DEPTHS	tabulation - UMPQUA RIVER CHANNEL DEPTHS	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 02/14, 13th Dist	1795	18584_1	9/9/2013
+18584	Change	Salmon Harbor Entrance Light 1 	Fl G 4s 15ft 4M "1"	N 43 41' 09.030"	W 124 10' 49.878"	43.68584	-124.1805	LNM 34/13, 13th Dist	1795	18584_1	8/29/2013
+18584	Relocate	Salmon Harbor Entrance Light 1 	Fl G 4s 15ft 4M "1"	N 43 41' 09.030"	W 124 10' 49.878"	43.68584	-124.1805	LNM 34/13, 13th Dist	1795	18584_1	8/29/2013
+18584	Add	Pipeline Area  PT 1 OF 4	Chart No. 1: L40.2	N 43 44' 50.600"	W 124 10' 56.300"	43.74739	-124.1823	LNM 29/13, 13th Dist	1795	18584_1	7/9/2013
+18584	Add	Pipeline Area  PT 2 OF 4	Chart No. 1: L40.2	N 43 44' 55.100"	W 124 11' 31.000"	43.74864	-124.1919	LNM 29/13, 13th Dist	1795	18584_1	7/9/2013
+18584	Add	Pipeline Area  PT 3 OF 4	Chart No. 1: L40.2	N 43 45' 04.900"	W 124 11' 28.500"	43.75136	-124.1913	LNM 29/13, 13th Dist	1795	18584_1	7/9/2013
+18584	Add	Pipeline Area  PT 4 OF 4	Chart No. 1: L40.2	N 43 45' 00.400"	W 124 10' 54.400"	43.75011	-124.1818	LNM 29/13, 13th Dist	1795	18584_1	7/9/2013
+18584	Change	tabulation - Umpqua River Channel Depths	tabulation - Umpqua River Channel Depths	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 26/13, 13th Dist	1795	18584_1	6/20/2013
+18584	Change	Umpqua River Light 8 	Fl R 2.5s 22ft 4M "8"	N 43 40' 57.209"	W 124 11' 12.485"	43.68256	-124.1868	LNM 11/13, 13th Dist	1795	18584_1	4/9/2013
+18584	Add	Umpqua River Entrance Lighted Buoy 2	R "2" Fl R 4s 	N 43 39' 58.368"	W 124 13' 45.946"	43.66621	-124.2294	LNM 10/13, 13th Dist	1795	18584_1	4/3/2013
+18584	Delete	Umpqua River Entrance Buoy 2	R N "2" 	N 43 39' 58.419"	W 124 13' 31.543"	43.66623	-124.2254	LNM 10/13, 13th Dist	1795	18584_1	4/3/2013
+18584	Relocate	Barretts Range Front Light	Q 19ft	N 43 43' 51.998"	W 124 09' 58.797"	43.73111	-124.1663	LNM 07/13, 13th Dist	1795	18584_1	3/18/2013
+18584	Change	Barretts Range Front Light	Q 19ft	N 43 43' 51.998"	W 124 09' 58.797"	43.73111	-124.1663	LNM 07/13, 13th Dist	1795	18584_1	3/18/2013
+18584	Relocate	Barretts Range Rear Light	Iso 6s 40ft	N 43 43' 58.867"	W 124 10' 04.002"	43.73302	-124.1678	LNM 07/13, 13th Dist	1795	18584_1	3/18/2013
+18584	Change	Barretts Range Rear Light	Iso 6s 40ft	N 43 43' 58.867"	W 124 10' 04.002"	43.73302	-124.1678	LNM 07/13, 13th Dist	1795	18584_1	3/18/2013
+18584	Change	Smith River Light 2 	Fl R 4s 16ft 4M "2"	N 43 42' 22.602"	W 124 05' 12.852"	43.70628	-124.0869	LNM 05/13, 13th Dist	1795	18584_1	2/15/2013
+18584	Relocate	Umpqua River Channel Range Front Light	Q 24ft	N 43 41' 20.521"	W 124 11' 08.127"	43.68903	-124.1856	LNM 05/13, 13th Dist	1795	18584_1	2/15/2013
+18584	Change	Umpqua River Channel Range Front Light	Q 24ft	N 43 41' 20.521"	W 124 11' 08.127"	43.68903	-124.1856	LNM 05/13, 13th Dist	1795	18584_1	2/15/2013
+18584	Change	Umpqua River Channel Range Rear Light	Iso 6s 39ft	N 43 41' 30.946"	W 124 11' 00.905"	43.69193	-124.1836	LNM 05/13, 13th Dist	1795	18584_1	2/15/2013
+18584	Relocate	Umpqua River Channel Range Rear Light	Iso 6s 39ft	N 43 41' 30.946"	W 124 11' 00.905"	43.69193	-124.1836	LNM 05/13, 13th Dist	1795	18584_1	2/15/2013
+18584	Change	tabulation - Umpqua River Channel Depths	tabulation - Umpqua River Channel Depths	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 03/13, 13th Dist	1795	18584_1	1/11/2013
+18584	Relocate	Leeds Island Range Front Light	Q 21ft	N 43 43' 20.446"	W 124 07' 36.931"	43.72235	-124.1269	LNM 01/13, 13th Dist	1795	18584_1	1/10/2013
+18584	Change	Leeds Island Range Front Light	Q 21ft	N 43 43' 20.446"	W 124 07' 36.931"	43.72235	-124.1269	LNM 01/13, 13th Dist	1795	18584_1	1/10/2013
+18584	Relocate	Leeds Island Range Rear Light	Iso 6s 35ft	N 43 43' 08.684"	W 124 07' 34.818"	43.71908	-124.1263	LNM 01/13, 13th Dist	1795	18584_1	1/10/2013
+18584	Change	Leeds Island Range Rear Light	Iso 6s 35ft	N 43 43' 08.684"	W 124 07' 34.818"	43.71908	-124.1263	LNM 01/13, 13th Dist	1795	18584_1	1/10/2013
+18584	Relocate	Umpqua River Bar Range Front Light	Q R 24ft	N 43 40' 05.336"	W 124 12' 08.213"	43.66815	-124.2023	LNM 43/12, 13th Dist	1795	18584_1	10/31/2012
+18584	Change	Umpqua River Bar Range Front Light	Q R 24ft	N 43 40' 05.336"	W 124 12' 08.213"	43.66815	-124.2023	LNM 43/12, 13th Dist	1795	18584_1	10/31/2012
+18584	Relocate	Umpqua River Bar Range Rear Light	Iso R 6s 47ft	N 43 40' 05.933"	W 124 11' 56.311"	43.66832	-124.199	LNM 43/12, 13th Dist	1795	18584_1	10/31/2012
+18584	Change	Umpqua River Bar Range Rear Light	Iso R 6s 47ft	N 43 40' 05.933"	W 124 11' 56.311"	43.66832	-124.199	LNM 43/12, 13th Dist	1795	18584_1	10/31/2012
+18584	Change	tabulation - UMPQUA RIVER CHANNEL DEPTHS	tabulation - UMPQUA RIVER CHANNEL DEPTHS	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 42/12, 13th Dist	1795	18584_1	10/10/2012
+18584	Change	Tabulation - UMPQUA RIVER CHANNEL DEPTHS	Tabulation - UMPQUA RIVER CHANNEL DEPTHS	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 29/12, 13th Dist	1795	18584_1	7/13/2012
+18584	Change	Umpqua River Light	Al (2) WR 15s Priv	N 43 39' 44.258"	W 124 11' 54.719"	43.66229	-124.1985	LNM 17/12, 13th Dist	1795	18584_1	5/7/2012
+18584	Change	tabulation - UMPQUA RIVER CHANNEL DEPTHS	tabulation - UMPQUA RIVER CHANNEL DEPTHS	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 17/12, 13th Dist	1795	18584_1	4/24/2012
+18584	Change	Tabulation - UMPQUA RIVER CHANNEL DEPTHS	Tabulation - UMPQUA RIVER CHANNEL DEPTHS	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 50/11, 13th Dist	1795	18584_1	12/13/2011
+18584	Change	Tabulation - UMPQUA RIVER CHANNEL DEPTHS	Tabulation - UMPQUA RIVER CHANNEL DEPTHS	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 34/11, 13th Dist	1795	18584_1	8/24/2011
+18584	Change	Tabulation - UMPQUA RIVER CHANNEL DEPTHS	Tabulation - UMPQUA RIVER CHANNEL DEPTHS	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 22/11, 13th Dist	1795	18584_1	5/24/2011
+18584	Change	Tabulation - Umpqua River Channel Depths	Tabulation - Umpqua River Channel Depths	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 16/11, 13th Dist	1795	18584_1	4/13/2011
+18584	Relocate	Umpqua River Bar Range Front Light	Q R 31ft.	N 43 40' 05.329"	W 124 12' 08.278"	43.66815	-124.2023	LNM 13/11, 13th Dist	1795	18584_1	4/4/2011
+18584	Change	Umpqua River Bar Range Front Light	Q R 31ft	N 43 40' 05.329"	W 124 12' 08.278"	43.66815	-124.2023	LNM 13/11, 13th Dist	1795	18584_1	4/4/2011
+18584	Relocate	Umpqua River Bar Range Rear Light	Iso R 6s 54ft.	N 43 40' 05.999"	W 124 11' 56.367"	43.66833	-124.199	LNM 13/11, 13th Dist	1795	18584_1	4/4/2011
+18584	Change	Umpqua River Bar Range Rear Light	Iso R 6s 54ft.	N 43 40' 05.999"	W 124 11' 56.367"	43.66833	-124.199	LNM 13/11, 13th Dist	1795	18584_1	4/4/2011
+18584	Relocate	Leeds Island Range Front Light	Q 15ft	N 43 43' 20.469"	W 124 07' 36.993"	43.72235	-124.1269	LNM 13/11, 13th Dist	1795	18584_1	4/4/2011
+18584	Relocate	Leeds Island Range Rear Light	Iso 6s 30ft	N 43 43' 08.705"	W 124 07' 34.881"	43.71909	-124.1264	LNM 13/11, 13th Dist	1795	18584_1	4/4/2011
+18584	Change	Tabulation - UMPQUA RIVER CHANNEL DEPTHS	Tabulation - UMPQUA RIVER CHANNEL DEPTHS	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 06/11, 13th Dist	1795	18584_1	1/31/2011
+18584	Change	Tabulation - Umpqua River Channel Depths	Tabulation - Umpqua River Channel Depths	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 48/10, 13th Dist	1795	18584_1	11/29/2010
+18584	Change	Salmon Harbor Entrance Light 1	Fl G 4s 15ft 3M "1"	N 43 41' 09.030"	W 124 10' 49.878"	43.68584	-124.1805	LNM 37/10, 13th Dist	1795	18584_1	9/19/2010
+18584	Change	Tabulation - UMPQUA RIVER CHANNEL DEPTHS	Tabulation - UMPQUA RIVER CHANNEL DEPTHS	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 30/10, 13th Dist	1795	18584_1	7/22/2010
+18584	Add	label: REGULATED AREA	REGULATED AREA 165.1325 (see note A)	N 43 39' 54.100"	W 124 12' 59.300"	43.66503	-124.2165	LNM 29/10, 13th Dist	1795	18584_1	7/22/2010
+18584	Add	REGULATED AREA PT 1 OF 7	None	N 43 41' 20.000"	W 124 11' 58.000"	43.68889	-124.1994	LNM 29/10, 13th Dist	1795	18584_1	7/22/2010
+18584	Add	REGULATED AREA PT 2 OF 7	None	N 43 41' 20.000"	W 124 13' 32.000"	43.68889	-124.2256	LNM 29/10, 13th Dist	1795	18584_1	7/22/2010
+18584	Add	REGULATED AREA PT 3 OF 7	None	N 43 39' 00.100"	W 124 14' 16.900"	43.65003	-124.238	LNM 29/10, 13th Dist	1795	18584_1	7/22/2010
+18584	Add	REGULATED AREA PT 4 OF 7	None	N 43 40' 15.000"	W 124 11' 50.400"	43.67083	-124.1973	LNM 29/10, 13th Dist	1795	18584_1	7/22/2010
+18584	Add	REGULATED AREA PT 5 OF 7	None	N 43 40' 52.000"	W 124 11' 34.000"	43.68111	-124.1928	LNM 29/10, 13th Dist	1795	18584_1	7/22/2010
+18584	Add	REGULATED AREA PT 6 OF 7	None	N 43 40' 57.000"	W 124 11' 13.000"	43.6825	-124.1869	LNM 29/10, 13th Dist	1795	18584_1	7/22/2010
+18584	Add	REGULATED AREA PT 7 OF 7	None	N 43 41' 06.600"	W 124 11' 31.900"	43.68517	-124.1922	LNM 29/10, 13th Dist	1795	18584_1	7/22/2010
+18584	Change	Tabulation - Umpqua River Channel	Tabulation - Umpqua River Channel	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 21/10, 13th Dist	1795	18584_1	5/26/2010
+18584	Change	Tabulation - Umpqua River	Tabulation - Umpqua River	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 19/10, 13th Dist	1795	18584_1	5/13/2010
+18584	Change	Tabulation - Umpqua River Channel	Tabulation - Umpqua River Channel	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Delete	Depth Note - West Basin to:	Controlling depth at MLLW was 10 feet.  Mar 2009	N 43 40' 29.000"	W 124 11' 01.800"	43.67472	-124.1838	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Delete	Depth Note - East Basin to:	Controlling depth at MLLW was 13 feet for a width of 100 feet from the channel entrance to 43°40'41"N, 124°10'44"W; thence 7 feet for a width of 75 feet to the end of the project.   Mar 2009	N 43 40' 56.100"	W 124 10' 04.200"	43.68225	-124.1678	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Change	label to: 	(see tabulation)	N 43 40' 59.400"	W 124 11' 12.100"	43.68317	-124.1867	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Delete	Channel (11.0-11.8) reach	all soundings, depth curves and blue tint	N 43 42' 23.000"	W 124 05' 46.000"	43.70639	-124.0961	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Delete	channel reach separation	magenta line	N 43 44' 49.500"	W 124 07' 55.100"	43.74708	-124.132	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Add	channel reach separation PT 1 OF 2	magenta line	N 43 40' 07.700"	W 124 12' 20.400"	43.6688	-124.2057	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Add	channel reach separation PT 2 OF 2	magenta line	N 43 40' 05.800"	W 124 12' 19.500"	43.66828	-124.2054	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Add	channel reach separation PT 1 OF 2	magenta line	N 43 40' 57.600"	W 124 11' 25.700"	43.68267	-124.1905	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Add	channel reach separation PT 2 OF 2	magenta line	N 43 40' 56.700"	W 124 11' 23.200"	43.68242	-124.1898	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Add	channel reach separation PT 1 OF 2	magenta line	N 43 41' 00.400"	W 124 11' 20.700"	43.68344	-124.1891	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Add	channel reach separation PT 2 OF 2	magenta line	N 43 41' 01.300"	W 124 11' 20.100"	43.68369	-124.1889	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Add	channel reach separation PT 1 OF 2	magenta line	N 43 41' 12.100"	W 124 10' 59.400"	43.6867	-124.1832	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Add	channel reach separation PT 2 OF 2	magenta line	N 43 41' 14.900"	W 124 10' 51.500"	43.68747	-124.181	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Add	channel reach separation PT 1 OF 2	magenta line	N 43 42' 07.600"	W 124 09' 38.300"	43.70211	-124.1606	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Add	channel reach separation PT 2 OF 2	magenta line	N 43 42' 06.900"	W 124 09' 35.700"	43.70192	-124.1599	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Add	channel reach separation PT 1 OF 2	magenta line	N 43 44' 49.100"	W 124 07' 47.500"	43.74697	-124.1299	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Add	channel reach separation PT 2 OF 2	magenta line	N 43 44' 47.600"	W 124 07' 49.300"	43.74656	-124.1304	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Add	channel reach separation PT 1 OF 2	magenta line	N 43 43' 16.400"	W 124 07' 20.300"	43.72122	-124.1223	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Add	channel reach separation PT 2 OF 2	magenta line	N 43 43' 15.000"	W 124 07' 22.300"	43.72083	-124.1229	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Delete	Entrance Channel reach	all soundings	N 43 40' 03.000"	W 124 13' 03.000"	43.6675	-124.2175	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Delete	channel reach separation	magenta line	N 43 44' 52.800"	W 124 07' 58.900"	43.748	-124.133	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Add	channel reach separation  PT 1 OF 2	magenta line	N 43 43' 41.800"	W 124 09' 49.500"	43.72828	-124.1637	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Add	channel reach separation  PT 2 OF 2	magenta line	N 43 43' 41.900"	W 124 09' 46.700"	43.72831	-124.163	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Add	channel reach separation PT 1 OF 2	magenta line	N 43 44' 58.100"	W 124 08' 14.500"	43.74947	-124.1374	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Add	channel reach separation PT 2 OF 2	magenta line	N 43 44' 54.700"	W 124 08' 14.200"	43.74853	-124.1373	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Add	channel reach separation PT 1 OF 2	magenta line	N 43 44' 00.600"	W 124 06' 52.100"	43.7335	-124.1145	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Add	channel reach separation PT 2 OF 2	magenta line	N 43 44' 01.900"	W 124 06' 56.000"	43.73386	-124.1156	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Add	channel reach separation  PT 1 OF 2	magenta line	N 43 42' 35.900"	W 124 06' 06.800"	43.70997	-124.1019	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Add	channel reach separation  PT 2 OF 2	magenta line	N 43 42' 33.600"	W 124 06' 09.000"	43.70933	-124.1025	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Change	label to: 	(see tabulation)	N 43 41' 06.700"	W 124 10' 50.400"	43.6852	-124.1807	LNM 49/09, 13th Dist	1795	18584_1	12/10/2009
+18584	Delete	Marker	Or Marker	N 43 39' 36.900"	W 124 12' 06.500"	43.66025	-124.2018	LNM 39/09, 13th Dist	1795	18584_1	10/1/2009
+18584	Delete	RANGE LINE PT 1 OF 2	NONE	N 43 39' 36.900"	W 124 12' 06.500"	43.66025	-124.2018	LNM 39/09, 13th Dist	1795	18584_1	10/1/2009
+18584	Delete	RANGE LINE PT 2 OF 2	NONE	N 43 38' 59.600"	W 124 13' 39.500"	43.64989	-124.2276	LNM 39/09, 13th Dist	1795	18584_1	10/1/2009
+18584	Delete	Marker	Or Marker	N 43 39' 28.100"	W 124 12' 28.500"	43.65781	-124.2079	LNM 39/09, 13th Dist	1795	18584_1	10/1/2009
+18584	Add	Disposal Area PT 1 OF 4	Disposal Area	N 43 41' 23.090"	W 124 14' 20.280"	43.68975	-124.239	LNM 39/09, 13th Dist	1795	18584_1	10/1/2009
+18584	Add	Disposal Area PT 2 OF 4	Disposal Area	N 43 41' 25.860"	W 124 12' 54.610"	43.69052	-124.2152	LNM 39/09, 13th Dist	1795	18584_1	10/1/2009
+18584	Add	Disposal Area PT 3 OF 4	Disposal Area	N 43 40' 46.370"	W 124 12' 52.740"	43.67955	-124.2147	LNM 39/09, 13th Dist	1795	18584_1	10/1/2009
+18584	Add	Disposal Area PT 4 OF 4	Disposal Area	N 43 40' 43.620"	W 124 14' 17.850"	43.67878	-124.2383	LNM 39/09, 13th Dist	1795	18584_1	10/1/2009
+18584	Add	Disposal Area PT 1 OF 5	Disposal Area	N 43 39' 32.300"	W 124 14' 34.000"	43.65897	-124.2428	LNM 39/09, 13th Dist	1795	18584_1	10/1/2009
+18584	Add	Disposal Area PT 2 OF 5	Disposal Area	N 43 39' 35.230"	W 124 13' 11.010"	43.65979	-124.2197	LNM 39/09, 13th Dist	1795	18584_1	10/1/2009
+18584	Add	Disposal Area PT 3 OF 5	Disposal Area	N 43 38' 59.600"	W 124 13' 08.600"	43.64989	-124.2191	LNM 39/09, 13th Dist	1795	18584_1	10/1/2009
+18584	Add	Disposal Area PT 4 OF 5	Disposal Area	N 43 39' 11.000"	W 124 14' 34.100"	43.65306	-124.2428	LNM 39/09, 13th Dist	1795	18584_1	10/1/2009
+18584	Add	Disposal Area PT 5 OF 5	Disposal Area	N 43 38' 59.700"	W 124 14' 33.400"	43.64992	-124.2426	LNM 39/09, 13th Dist	1795	18584_1	10/1/2009
+18584	Change	Depth Note - depth note - Umpqua East Basin to: Controlling depth at MLLW was 13 feet for a width of 100 feet from the channel entrance to 43°40'41"N, 124°10'44"W; thence 7 feet for a width of 75 feet to the end of the project. Mar 2009	Depth Note - depth note - Umpqua East Basin to: Controlling depth at MLLW was 13 feet for a width of 100 feet from the channel entrance to 43°40'41"N, 124°10'44"W; thence 7 feet for a width of 75 feet to the end of the project. Mar 2009	N 43 40' 56.100"	W 124 10' 04.200"	43.68225	-124.1678	LNM 26/09, 13th Dist	1795	18584_1	6/24/2009
+18584	Change	Depth Note - Umpqua West Basin to: Controlling depth at MLLW was 10 feet. Mar 2009.	Depth Note - Umpqua West Basin to: Controlling depth at MLLW was 10 feet. Mar 2009.	N 43 40' 29.000"	W 124 11' 01.800"	43.67472	-124.1838	LNM 26/09, 13th Dist	1795	18584_1	6/24/2009
+18584	Change	Tabulation - Umpqua River	Tabulation - Umpqua River	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 18/09, 13th Dist	1795	18584_1	5/7/2009
+18584	Change	Tabulation - Umpqua River Channel Depths	Tabulation - Umpqua River Channel Depths	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 11/09, 13th Dist	1795	18584_1	3/19/2009
+18584	Change	Dump Site legend	Depths from survey of 1999-2008	N 43 39' 54.900"	W 124 14' 06.600"	43.66525	-124.2352	LNM 11/09, 13th Dist	1795	18584_1	3/19/2009
+18584	Change	Depth Note - EAST BASIN:	Controlling depth at MLLW was 12 feet for a width of 100 feet from the channel entrance to 43°40'41"N, 124°10'44"W; thence 7 feet for a width of 75 feet to the end of the project.  Nov 2008	N 43 40' 56.100"	W 124 10' 04.200"	43.68225	-124.1678	LNM 11/09, 13th Dist	1795	18584_1	3/19/2009
+18584	Change	Disposal Area legend	Disposal Area Depths from survey of 2008	N 43 40' 28.000"	W 124 14' 04.200"	43.67445	-124.2345	LNM 11/09, 13th Dist	1795	18584_1	3/19/2009
+18584	Change	Depth Note - EAST BASIN to:	Controlling depth at MLLW was 9 feet for a width of 100 feet from thechannel entrance to 43°40'41"N, 124°10'44"W; thence 7 feet for a width of 75 feet to the end of the project.  APR 2008	N 43 40' 58.200"	W 124 10' 07.400"	43.68283	-124.1687	LNM 32/08, 13th Dist	1795	18584_1	9/26/2008
+18584	Change	Depth Note - WEST BASIN to:	Controlling depth at MLLW was 11 feet. APR 2008	N 43 40' 27.800"	W 124 11' 02.000"	43.67439	-124.1839	LNM 32/08, 13th Dist	1795	18584_1	9/26/2008
+18584	Change	Tabulation - Umpqua River Channel Depths	NONE	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 32/08, 13th Dist	1795	18584_1	9/26/2008
+18584	Change	Umpqua River Regulated Boating Area Warning Sign (2)	Sign 2 Q Y (Occas)	N 43 40' 11.000"	W 124 11' 55.700"	43.66972	-124.1988	LNM 25/08, 13th Dist	1795	18584_1	9/26/2008
+18584	Change	Tabulation - Umpqua River Channel Depths	NONE	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 21/08, 13th Dist	1795	18584_1	5/21/2008
+18584	Change	Tabulation - UMPQUA RIVER CHANNEL DEPTHS	NONE	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 01/08, 13th Dist	1795	18584_1	2/13/2008
+18584	Change	Tabulation - Umpqua River Channel Depths	None	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 49/07, 13th Dist	1795	18584_1	2/13/2008
+18584	Change	Tabulation - Umpqua River Channel Depths	NONE	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 45/07, 13th Dist	1795	18584_1	2/13/2008
+18584	Change	Tabulation - UMPQUA RIVER	NONE	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 41/07, 13th Dist	1795	18584_1	2/13/2008
+18584	Change	Tabulation - Umpqua River	NONE	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 34/07, 13th Dist	1795	18584_1	2/13/2008
+18584	Add	Sounding in Feet	19	N 43 40' 06.200"	W 124 12' 36.200"	43.66839	-124.2101	LNM 26/07, 13th Dist	1795	18584_1	2/13/2008
+18584	Delete	Sounding in Feet	74	N 43 40' 50.400"	W 124 11' 32.200"	43.68067	-124.1923	LNM 26/07, 13th Dist	1795	18584_1	2/13/2008
+18584	Add	Sounding in Feet	62	N 43 40' 49.500"	W 124 11' 32.700"	43.68042	-124.1924	LNM 26/07, 13th Dist	1795	18584_1	2/13/2008
+18584	Add	Sounding in Feet	25	N 43 40' 02.900"	W 124 13' 24.100"	43.66747	-124.2234	LNM 26/07, 13th Dist	1795	18584_1	2/13/2008
+18584	Delete	Sounding in Feet	35	N 43 40' 03.100"	W 124 12' 50.400"	43.66753	-124.214	LNM 26/07, 13th Dist	1795	18584_1	2/13/2008
+18584	Delete	Sounding in Feet	32	N 43 40' 02.700"	W 124 13' 19.400"	43.66742	-124.2221	LNM 26/07, 13th Dist	1795	18584_1	2/13/2008
+18584	Delete	Sounding in Feet	23	N 43 40' 06.500"	W 124 12' 37.800"	43.66847	-124.2105	LNM 26/07, 13th Dist	1795	18584_1	2/13/2008
+18584	Add	Sounding in Feet	6	N 43 40' 59.500"	W 124 11' 09.100"	43.68319	-124.1859	LNM 26/07, 13th Dist	1795	18584_1	2/13/2008
+18584	Change	Depth Note - East Basin to:	Controlling depth at MLLW was 7 feet for a width of 100 feet from the channel entrance to 43°40'41"N, 124°10'44"W; thence 7 feet for a width of 75 feet to the end of the project.  MAR 2007	N 43 40' 58.200"	W 124 10' 07.400"	43.68283	-124.1687	LNM 26/07, 13th Dist	1795	18584_1	2/13/2008
+18584	Add	Sounding in Feet	27	N 43 40' 03.300"	W 124 12' 47.400"	43.66758	-124.2132	LNM 26/07, 13th Dist	1795	18584_1	2/13/2008
+18584	Change	Depth Legend - West Basin to:	Controlling depth at MLLW was 8 feet. MAR 2007	N 43 40' 27.800"	W 124 11' 02.000"	43.67439	-124.1839	LNM 26/07, 13th Dist	1795	18584_1	2/13/2008
+18584	Change	Tabulation - Umpqua River	NONE	N 43 39' 37.000"	W 124 07' 18.000"	43.66028	-124.1217	LNM 26/07, 13th Dist	1795	18584_1	2/13/2008

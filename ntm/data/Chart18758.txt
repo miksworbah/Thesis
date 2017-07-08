@@ -1,0 +1,2 @@
+Chart: 18758, Current Edition: 8, Print Date: Mar. /2017, Del Mar Boat Basin
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

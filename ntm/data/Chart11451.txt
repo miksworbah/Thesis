@@ -1,0 +1,16 @@
+Chart: 11451, Current Edition: 36, Print Date: Jan. /2017, Miami to Marathon and Florida Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11451	Relocate	Lummus Island Turning Basin Light E	Fl Y 4s 16ft 4M "E"	N 25 46' 02.589"	W 080 10' 14.014"	25.76739	-80.17056	LNM 25/17, 7th Dist	340	11451_8	6/29/2017
+11451	Relocate	Lummus Island Turning Basin Light E	Fl Y 4s 16ft 4M "E"	N 25 46' 02.554"	W 080 10' 13.523"	25.76738	-80.17043	LNM 22/17, 7th Dist	340	11451_8	6/22/2017
+11451	Relocate	Angelfish Creek Daybeacon 12	R "12"	N 25 20' 07.104"	W 080 16' 41.489"	25.33531	-80.27819	LNM 21/17, 7th Dist	337	11451_5	6/1/2017
+11451	Relocate	Angelfish Creek Daybeacon 12	R "12"	N 25 20' 07.104"	W 080 16' 41.489"	25.33531	-80.27819	LNM 21/17, 7th Dist	334	11451_2	6/1/2017
+11451	Relocate	Mosquito Bank Light 35	Fl G 4s 37ft 5M "35"	N 25 04' 22.931"	W 080 23' 34.184"	25.07304	-80.39283	LNM 21/17, 7th Dist	339	11451_7	6/1/2017
+11451	Relocate	Ocean Reef Harbor Entrance Light 2	Fl R 4s 16ft 5M "2"	N 25 18' 30.959"	W 080 16' 03.348"	25.3086	-80.26759	LNM 21/17, 7th Dist	337	11451_5	6/1/2017
+11451	Relocate	Ocean Reef Harbor Entrance Light 2	Fl R 4s 16ft 5M "2"	N 25 18' 30.959"	W 080 16' 03.348"	25.3086	-80.26759	LNM 21/17, 7th Dist	334	11451_2	6/1/2017
+11451	Relocate	Biscayne Flats Daybeacon 3	G "3"	N 25 39' 49.911"	W 080 11' 01.169"	25.66386	-80.18365	LNM 17/17, 7th Dist	333	11451_1	5/4/2017
+11451	Relocate	Lummus Island Turning Basin Light B	Fl Y 4s 16ft 4M "B"	N 25 45' 53.860"	W 080 09' 58.338"	25.76496	-80.16621	LNM 13/17, 7th Dist	340	11451_8	4/13/2017
+11451	Add	Bent Light	Fl 4s 25ft Priv	N 25 45' 11.048"	W 080 06' 28.821"	25.75307	-80.10801	LNM 13/17, 7th Dist	333	11451_1	4/13/2017
+11451	Add	Madeira Drive Canal Daybeacon 2	R "2" Priv	N 25 05' 10.740"	W 080 25' 06.940"	25.08632	-80.41859	LNM 05/17, 7th Dist	339	11451_7	2/9/2017
+11451	Change	Miami Main Channel Lighted Buoy 10	R "10" Fl R 2.5s	N 25 45' 34.904"	W 080 07' 16.078"	25.7597	-80.12113	LNM 04/17, 7th Dist	333	11451_1	2/2/2017
+11451	Change	Miami Main Channel Lighted Buoy 12	R "12" Q R	N 25 45' 39.563"	W 080 07' 28.837"	25.76099	-80.12468	LNM 04/17, 7th Dist	333	11451_1	2/2/2017
+11451	Change	Miami Main Channel Lighted Buoy 8	R "8" Q R	N 25 45' 30.958"	W 080 06' 58.262"	25.7586	-80.11618	LNM 04/17, 7th Dist	333	11451_1	2/2/2017

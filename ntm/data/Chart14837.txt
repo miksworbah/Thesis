@@ -1,0 +1,11 @@
+Chart: 14837, Current Edition: 29, Print Date: Oct. /2013, Fairport Harbor
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14837	Change	tabulation - FAIRPORT HARBOR AND GRAND RIVER	tabulation - FAIRPORT HARBOR AND GRAND RIVER	N 41 44' 52.000"	W 081 16' 13.000"	41.74778	-81.27028	LNM 23/17, 9th Dist	1160	14837_1	6/8/2017
+14837	Relocate	Fairport Harbor Breakwater Light A	Fl Y 2.5s 27ft 4 St M	N 41 45' 57.624"	W 081 16' 00.198"	41.76601	-81.26672	LNM 43/16, 9th Dist	1160	14837_1	11/10/2016
+14837	Relocate	Fairport Harbor Breakwater Light B	Fl Y 2.5s 27ft 4 St M	N 41 46' 00.102"	W 081 15' 43.278"	41.76669	-81.26202	LNM 43/16, 9th Dist	1160	14837_1	11/10/2016
+14837	Change	tabulation - FAIRPORT HARBOR AND GRAND RIVER	tabulation - FAIRPORT HARBOR AND GRAND RIVER	N 41 44' 52.000"	W 081 16' 13.000"	41.74778	-81.27028	LNM 41/16, 9th Dist	1160	14837_1	10/6/2016
+14837	Change	tabulation - FAIRPORT HARBOR AND GRAND RIVER	tabulation - FAIRPORT HARBOR AND GRAND RIVER	N 41 44' 52.000"	W 081 16' 13.000"	41.74778	-81.27028	LNM 41/16, 9th Dist	1160	14837_1	10/6/2016
+14837	Change	Fairport Harbor West Breakwater Light	Iso 6s 56ft 13 St M HORN (MRASS)	N 41 46' 04.300"	W 081 16' 52.200"	41.76786	-81.28117	LNM 38/15, 9th Dist	1160	14837_1	12/3/2015
+14837	Add	Note: MARINER ACTIVATED SOUND SIGNAL: FAIRPORT HARBOR WEST BREAKWATER LIGHT (MRASS) Horn is activated by keying the mic 5 times on VHF-FM Ch 83A.	MARINER ACTIVATED SOUND SIGNAL: FAIRPORT HARBOR WEST BREAKWATER LIGHT (MRASS) Horn is activated by keying mic 5 times on VHF-FM Ch 83A.	N 41 43' 58.000"	W 081 17' 30.000"	41.73278	-81.29166	LNM 38/15, 9th Dist	1160	14837_1	12/3/2015
+14837	Change	tabulation - Fairport Harbor and Grand River	tabulation - Fairport Harbor and Grand River	N 41 44' 52.000"	W 081 16' 13.000"	41.74778	-81.27028	LNM 23/16, 9th Dist	1160	14837_1	11/12/2015
+14837	Change	tabulation - Fairport Harbor and Grand River	tabulation - Fairport Harbor and Grand River	N 41 44' 52.000"	W 081 16' 13.000"	41.74778	-81.27028	LNM 32/13, 9th Dist	1160	14837_1	5/1/2014

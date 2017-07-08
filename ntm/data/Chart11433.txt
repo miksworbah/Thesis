@@ -1,0 +1,67 @@
+Chart: 11433, Current Edition: 14, Print Date: Mar. /2005, Everglades National Park Whitewater Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11433	Change	Little Shark River Entrance Light 1	Fl G 4s 16ft 5M "1"	N 25 19' 21.164"	W 081 09' 14.380"	25.32255	-81.15399	LNM 50/16, 7th Dist	352	11433_1	12/22/2016
+11433	Change	East Cape Light 5	Fl G 4s 16ft 5M "5"	N 25 05' 46.673"	W 081 01' 51.452"	25.0963	-81.03096	LNM 50/16, 7th Dist	352	11433_1	12/22/2016
+11433	Change	Flamingo Channel Light 15	Fl G 2.5s 16ft 4M "15"	N 25 08' 24.064"	W 080 55' 26.596"	25.14002	-80.92406	LNM 50/16, 7th Dist	352	11433_1	12/22/2016
+11433	Delete	Cormorant Pass Daybeacon 44	R "44"	N 25 19' 26.622"	W 081 02' 31.563"	25.32406	-81.0421	LNM 39/16, 7th Dist	352	11433_1	10/6/2016
+11433	Delete	Cormorant Pass Daybeacon 45	G "45"	N 25 19' 26.772"	W 081 02' 46.737"	25.3241	-81.04632	LNM 39/16, 7th Dist	352	11433_1	10/6/2016
+11433	Delete	Little Shark River Daybeacon 64	R "64"	N 25 20' 20.897"	W 081 06' 00.502"	25.33914	-81.10014	LNM 39/16, 7th Dist	352	11433_1	10/6/2016
+11433	Delete	Little Shark River Daybeacon 65	G "65"	N 25 20' 16.057"	W 081 06' 17.423"	25.33779	-81.10484	LNM 39/16, 7th Dist	352	11433_1	10/6/2016
+11433	Delete	Little Shark River Daybeacon 67	G "67"	N 25 20' 10.774"	W 081 06' 34.356"	25.33633	-81.10954	LNM 39/16, 7th Dist	352	11433_1	10/6/2016
+11433	Delete	Little Shark River Daybeacon 68	R "68"	N 25 20' 07.737"	W 081 06' 42.713"	25.33548	-81.11186	LNM 39/16, 7th Dist	352	11433_1	10/6/2016
+11433	Delete	Little Shark River Daybeacon 70	R "70" PA	N 25 19' 54.400"	W 081 07' 15.200"	25.33178	-81.12089	LNM 39/16, 7th Dist	352	11433_1	10/6/2016
+11433	Delete	Oyster Bay Daybeacon 50	R "50"	N 25 19' 57.287"	W 081 03' 41.918"	25.33258	-81.06165	LNM 39/16, 7th Dist	352	11433_1	10/6/2016
+11433	Delete	Oyster Bay Daybeacon 55	G "55"	N 25 19' 36.068"	W 081 05' 07.961"	25.32668	-81.08555	LNM 39/16, 7th Dist	352	11433_1	10/6/2016
+11433	Delete	Oyster Bay Daybeacon 57	G "57"	N 25 19' 47.838"	W 081 05' 22.711"	25.32995	-81.08965	LNM 39/16, 7th Dist	352	11433_1	10/6/2016
+11433	Delete	Oyster Bay Daybeacon 59	G "59"	N 25 20' 04.800"	W 081 05' 36.400"	25.33467	-81.09344	LNM 39/16, 7th Dist	352	11433_1	10/6/2016
+11433	Delete	Oyster Bay Daybeacon 62	R "62"	N 25 20' 14.357"	W 081 05' 45.687"	25.33732	-81.09602	LNM 39/16, 7th Dist	352	11433_1	10/6/2016
+11433	Delete	Cormorant Pass Buoy 47	G C "47"	N 25 19' 35.427"	W 081 03' 08.979"	25.32651	-81.0525	LNM 39/16, 7th Dist	352	11433_1	10/6/2016
+11433	Change	Flamingo Channel Light 9	Fl G 4s 16ft 5M "9"	N 25 07' 25.234"	W 080 55' 46.746"	25.12368	-80.92965	LNM 28/16, 7th Dist	352	11433_1	7/21/2016
+11433	Delete	Cormorant Pass Daybeacon 42	R "42"	N 25 19' 21.174"	W 081 02' 13.851"	25.32255	-81.03718	LNM 50/15, 7th Dist	352	11433_1	12/24/2015
+11433	Delete	Oyster Bay Daybeacon 61	G "61"	N 25 20' 09.457"	W 081 05' 45.222"	25.33596	-81.09589	LNM 50/15, 7th Dist	352	11433_1	12/24/2015
+11433	Delete	Coot Bay Buoy 1	G C "1"	N 25 11' 02.658"	W 080 54' 44.601"	25.18407	-80.91239	LNM 50/15, 7th Dist	352	11433_1	12/24/2015
+11433	Delete	Coot Bay Buoy 4	R N "4"	N 25 11' 39.736"	W 080 55' 12.244"	25.19437	-80.92007	LNM 50/15, 7th Dist	352	11433_1	12/24/2015
+11433	Delete	Coot Bay Daybeacon 5	G "5"	N 25 12' 03.648"	W 080 55' 33.009"	25.20101	-80.92583	LNM 50/15, 7th Dist	352	11433_1	12/24/2015
+11433	Delete	Coot Bay Daybeacon 6	R "6"	N 25 12' 04.362"	W 080 55' 32.211"	25.20121	-80.92561	LNM 50/15, 7th Dist	352	11433_1	12/24/2015
+11433	Delete	Flamingo Channel Daybeacon 10	R "10"	N 25 07' 24.735"	W 080 55' 44.838"	25.12354	-80.92912	LNM 50/15, 7th Dist	352	11433_1	12/24/2015
+11433	Delete	Flamingo Channel Daybeacon 11	G "11"	N 25 07' 38.981"	W 080 55' 43.122"	25.12749	-80.92864	LNM 50/15, 7th Dist	352	11433_1	12/24/2015
+11433	Delete	Flamingo Channel Daybeacon 13	G "13" PA	N 25 08' 01.450"	W 080 55' 35.256"	25.13374	-80.92646	LNM 50/15, 7th Dist	352	11433_1	12/24/2015
+11433	Delete	Whitewater Bay Buoy 32	R N "32"	N 25 17' 14.292"	W 080 59' 43.707"	25.2873	-80.99548	LNM 50/15, 7th Dist	352	11433_1	12/24/2015
+11433	Delete	Whitewater Bay Daybeacon 12	R "12"	N 25 13' 38.994"	W 080 56' 02.877"	25.2275	-80.93414	LNM 50/15, 7th Dist	352	11433_1	12/24/2015
+11433	Delete	Whitewater Bay Daybeacon 18	R "18"	N 25 14' 53.592"	W 080 56' 49.557"	25.24822	-80.9471	LNM 50/15, 7th Dist	352	11433_1	12/24/2015
+11433	Delete	Whitewater Bay Daybeacon 20	R "20"	N 25 15' 17.958"	W 080 57' 19.989"	25.25499	-80.95555	LNM 50/15, 7th Dist	352	11433_1	12/24/2015
+11433	Delete	Whitewater Bay Daybeacon 22	R "22"	N 25 15' 41.034"	W 080 57' 46.263"	25.2614	-80.96285	LNM 50/15, 7th Dist	352	11433_1	12/24/2015
+11433	Delete	Whitewater Bay Daybeacon 28	R "28"	N 25 16' 31.962"	W 080 58' 51.501"	25.27555	-80.98097	LNM 50/15, 7th Dist	352	11433_1	12/24/2015
+11433	Delete	Whitewater Bay Daybeacon 30	R "30"	N 25 16' 46.740"	W 080 59' 09.021"	25.27965	-80.98584	LNM 50/15, 7th Dist	352	11433_1	12/24/2015
+11433	Delete	Whitewater Bay Daybeacon 33	G "33"	N 25 17' 32.664"	W 081 00' 11.445"	25.29241	-81.00318	LNM 50/15, 7th Dist	352	11433_1	12/24/2015
+11433	Delete	Whitewater Bay Daybeacon 35	G "35"	N 25 17' 51.961"	W 081 00' 35.984"	25.29777	-81.00999	LNM 50/15, 7th Dist	352	11433_1	12/24/2015
+11433	Delete	Whitewater Bay Daybeacon 36	R "36"	N 25 18' 25.164"	W 081 01' 07.065"	25.30699	-81.01863	LNM 50/15, 7th Dist	352	11433_1	12/24/2015
+11433	Delete	Whitewater Bay Daybeacon 38	R "38"	N 25 18' 51.444"	W 081 01' 30.603"	25.31429	-81.02517	LNM 50/15, 7th Dist	352	11433_1	12/24/2015
+11433	Delete	Coot Bay Buoy 3	G C "3"	N 25 11' 20.352"	W 080 54' 58.527"	25.18899	-80.91626	LNM 45/15, 7th Dist	352	11433_1	11/19/2015
+11433	Delete	Oyster Bay Buoy 51	G C "51"	N 25 19' 50.614"	W 081 04' 21.802"	25.33073	-81.07272	LNM 45/15, 7th Dist	352	11433_1	11/19/2015
+11433	Relocate	Flamingo Channel Buoy 14	R N "14"	N 25 08' 12.603"	W 080 55' 32.087"	25.13684	-80.92558	LNM 23/14, 7th Dist	352	11433_1	6/19/2014
+11433	Delete	Flamingo Channel Daybeacon 14	R "14"	N 25 08' 12.509"	W 080 55' 31.531"	25.13681	-80.92542	LNM 29/11, 7th Dist	352	11433_1	5/24/2011
+11433	Add	Flamingo Channel Buoy 14	R N "14"	N 25 08' 12.509"	W 080 55' 31.531"	25.13681	-80.92542	LNM 29/11, 7th Dist	352	11433_1	5/24/2011
+11433	Relocate	Coot Bay Buoy 3	G C "3"	N 25 11' 20.352"	W 080 54' 58.527"	25.18899	-80.91626	LNM 16/11, 7th Dist	352	11433_1	4/20/2011
+11433	Relocate	Flamingo Channel Daybeacon 14	R "14"	N 25 08' 12.509"	W 080 55' 31.531"	25.13681	-80.92542	LNM 16/11, 7th Dist	352	11433_1	4/20/2011
+11433	Delete	Cormorant Pass Daybeacon 47	G "47"	N 25 19' 35.427"	W 081 03' 08.979"	25.32651	-81.0525	LNM 06/11, 7th Dist	352	11433_1	2/14/2011
+11433	Add	Cormorant Pass Buoy 47	G C "47"	N 25 19' 35.427"	W 081 03' 08.979"	25.32651	-81.0525	LNM 06/11, 7th Dist	352	11433_1	2/14/2011
+11433	Delete	Oyster Bay Daybeacon 51	G "51"	N 25 19' 50.614"	W 081 04' 21.802"	25.33073	-81.07272	LNM 06/11, 7th Dist	352	11433_1	2/14/2011
+11433	Add	Oyster Bay Buoy 51	G C "51"	N 25 19' 50.614"	W 081 04' 21.802"	25.33073	-81.07272	LNM 06/11, 7th Dist	352	11433_1	2/14/2011
+11433	Delete	Coot Bay Daybeacon 3	G "3"	N 25 11' 20.904"	W 080 54' 57.177"	25.18914	-80.91589	LNM 33/10, 7th Dist	352	11433_1	8/21/2010
+11433	Add	Coot Bay Buoy 3	G C "3"	N 25 11' 20.904"	W 080 54' 57.177"	25.18914	-80.91589	LNM 33/10, 7th Dist	352	11433_1	8/21/2010
+11433	Delete	Coot Bay Daybeacon 4	R "4"	N 25 11' 39.736"	W 080 55' 12.244"	25.19437	-80.92007	LNM 33/10, 7th Dist	352	11433_1	8/21/2010
+11433	Add	Coot Bay Buoy 4	R N  "4"	N 25 11' 39.736"	W 080 55' 12.244"	25.19437	-80.92007	LNM 33/10, 7th Dist	352	11433_1	8/21/2010
+11433	Delete	Whitewater Bay Daybeacon 32	R "32"	N 25 17' 14.292"	W 080 59' 43.707"	25.2873	-80.99548	LNM 33/10, 7th Dist	352	11433_1	8/21/2010
+11433	Add	Whitewater Bay Buoy 32	R N "32"	N 25 17' 14.292"	W 080 59' 43.707"	25.2873	-80.99548	LNM 33/10, 7th Dist	352	11433_1	8/21/2010
+11433	Add	HURRICANES AND TROPICAL STORMS STORM	Hurricanes, tropical storms and other major storms may cause considerable damage to marine structures, aids to navigation and moored vessels, resulting in submerged debris in unknown locations. Charted soundings, channel depths and shoreline may not reflect actual conditions following these storms. Fixed aids to navigation may have been damaged or destroyed. Buoys may have been moved from charted positions, damaged, sunk extinguished or otherwise made inoperative. Mariners should not rely upon the position or operation of an aid to navigation. Wrecks and submerged obstructions may have been displaced from charted locations. Pipelines may have become uncovered or moved. Mariners are urged to exercise extreme caution and are requested to report aids to navigation discrepancies and hazards to navigation to the nearest United States Coast Guard unit.	N 25 04' 05.000"	W 081 11' 38.000"	25.06806	-81.19389	LNM 15/06, 7th Dist	352	11433_1	2/13/2008
+11433	Relocate	Little Shark River Entrance DB 3	G "3"	N 25 19' 30.570"	W 081 08' 57.752"	25.32516	-81.14938	LNM 48/05, 7th Dist	352	11433_1	2/13/2008
+11433	Relocate	Little Shark River Entrance DB 4	R "4"	N 25 19' 38.026"	W 081 08' 43.296"	25.32723	-81.14536	LNM 48/05, 7th Dist	352	11433_1	2/13/2008
+11433	Relocate	Little Shark River Entrance LT 1	Fl G 4s 16ft 4M "1"	N 25 19' 21.164"	W 081 09' 14.380"	25.32255	-81.15399	LNM 48/05, 7th Dist	352	11433_1	2/13/2008
+11433	Relocate	Little Shark River DB 67	G "67"	N 25 20' 10.774"	W 081 06' 34.356"	25.33633	-81.10954	LNM 48/05, 7th Dist	352	11433_1	2/13/2008
+11433	Relocate	Little Shark River DB 69	G "69"	N 25 19' 52.763"	W 081 07' 14.906"	25.33132	-81.1208	LNM 48/05, 7th Dist	352	11433_1	2/13/2008
+11433	Relocate	Oyster Bay DB 62	R "62"	N 25 20' 14.357"	W 081 05' 45.687"	25.33732	-81.09602	LNM 48/05, 7th Dist	352	11433_1	2/13/2008
+11433	Relocate	Oyster Bay DB 63	G "63"	N 25 20' 16.912"	W 081 05' 53.700"	25.33803	-81.09825	LNM 48/05, 7th Dist	352	11433_1	2/13/2008
+11433	Relocate	Flamingo Channel Lt 9	Fl G 4s 16ft 4M "9"	N 25 07' 25.234"	W 080 55' 46.746"	25.12368	-80.92965	LNM 48/05, 7th Dist	352	11433_1	2/13/2008
+11433	Relocate	East Cape DB 1A	G "1A"	N 25 06' 30.932"	W 081 05' 08.391"	25.10859	-81.08566	LNM 48/05, 7th Dist	352	11433_1	2/13/2008
+11433	Relocate	East Cape Light 2	Fl R 4s 16ft 5M "2"	N 25 05' 00.014"	W 081 04' 57.793"	25.08334	-81.08272	LNM 47/05, 7th Dist	352	11433_1	2/13/2008

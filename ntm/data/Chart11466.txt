@@ -1,0 +1,26 @@
+Chart: 11466, Current Edition: 40, Print Date: Dec. /2016, Jupiter Inlet to Fowey Rocks;Lake Worth Inlet
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11466	Add	Channel Limits PT 1 OF 12	Chart No. 1: I20	N 26 05' 27.190"	W 080 06' 50.940"	26.09089	-80.11415	Not Yet Published	348	11466_1	7/6/2017
+11466	Add	Channel Limits PT 2 OF 12	Chart No. 1: I20	N 26 05' 10.380"	W 080 06' 45.750"	26.08622	-80.11271	Not Yet Published	348	11466_1	7/6/2017
+11466	Add	Channel Limits PT 3 OF 12	Chart No. 1: I20	N 26 04' 46.680"	W 080 06' 49.320"	26.07963	-80.1137	Not Yet Published	348	11466_1	7/6/2017
+11466	Add	Channel Limits PT 4 OF 12	Chart No. 1: I20	N 26 03' 53.890"	W 080 06' 50.610"	26.06497	-80.11406	Not Yet Published	348	11466_1	7/6/2017
+11466	Add	Channel Limits PT 5 OF 12	Chart No. 1: I20	N 26 03' 53.930"	W 080 06' 52.490"	26.06498	-80.11458	Not Yet Published	348	11466_1	7/6/2017
+11466	Add	Channel Limits PT 6 OF 12	Chart No. 1: I20	N 26 03' 53.970"	W 080 06' 54.710"	26.06499	-80.1152	Not Yet Published	348	11466_1	7/6/2017
+11466	Add	Channel Limits PT 7 OF 12	Chart No. 1: I20	N 26 04' 21.810"	W 080 06' 53.920"	26.07273	-80.11497	Not Yet Published	348	11466_1	7/6/2017
+11466	Add	Channel Limits PT 8 OF 12	Chart No. 1: I20	N 26 04' 21.810"	W 080 06' 54.270"	26.07273	-80.11507	Not Yet Published	348	11466_1	7/6/2017
+11466	Add	Channel Limits PT 9 OF 12	Chart No. 1: I20	N 26 04' 42.830"	W 080 06' 53.880"	26.07856	-80.11497	Not Yet Published	348	11466_1	7/6/2017
+11466	Add	Channel Limits PT 10 OF 12	Chart No. 1: I20	N 26 04' 42.830"	W 080 06' 54.490"	26.07856	-80.11514	Not Yet Published	348	11466_1	7/6/2017
+11466	Add	Channel Limits PT 11 OF 12	Chart No. 1: I20	N 26 05' 10.110"	W 080 06' 50.220"	26.08614	-80.11395	Not Yet Published	348	11466_1	7/6/2017
+11466	Add	Channel Limits PT 12 OF 12	Chart No. 1: I20	N 26 05' 24.130"	W 080 06' 54.580"	26.09004	-80.11516	Not Yet Published	348	11466_1	7/6/2017
+11466	Change	Depth Note - PORT EVERGLADES to:	The project depth is 42 to 45 feet. For controlling depths see chart 11470.	N 26 05' 10.000"	W 080 10' 00.000"	26.08611	-80.16666	Not Yet Published	348	11466_1	7/6/2017
+11466	Add	Channel Limits PT 1 OF 4	Chart No. 1: I20	N 26 04' 23.180"	W 080 06' 54.390"	26.0731	-80.1151	Not Yet Published	348	11466_1	7/6/2017
+11466	Add	Channel Limits PT 2 OF 4	Chart No. 1: I20	N 26 04' 23.090"	W 080 07' 05.340"	26.07308	-80.11815	Not Yet Published	348	11466_1	7/6/2017
+11466	Add	Channel Limits PT 3 OF 4	Chart No. 1: I20	N 26 04' 29.460"	W 080 07' 05.470"	26.07485	-80.11819	Not Yet Published	348	11466_1	7/6/2017
+11466	Add	Channel Limits PT 4 OF 4	Chart No. 1: I20	N 26 04' 29.550"	W 080 06' 54.240"	26.07487	-80.11507	Not Yet Published	348	11466_1	7/6/2017
+11466	Relocate	Biscayne Flats Daybeacon 3	G "3"	N 25 39' 49.911"	W 080 11' 01.169"	25.66386	-80.18365	LNM 17/17, 7th Dist	348	11466_1	5/4/2017
+11466	Add	Bent Light	Fl 4s 25ft Priv	N 25 45' 11.048"	W 080 06' 28.821"	25.75307	-80.10801	LNM 13/17, 7th Dist	348	11466_1	4/13/2017
+11466	Delete	tabulation - Lake Worth Inlet Channel Depths	tabulation - Lake Worth Inlet Channel Depths	N 26 17' 00.000"	W 080 16' 40.000"	26.28333	-80.27778	LNM 12/17, 7th Dist	348	11466_1	3/16/2017
+11466	Change	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn Fish Haven (auth min 40 ft), Chart No. 1 K46.2	N 25 59' 05.794"	W 080 05' 12.766"	25.98494	-80.08688	LNM 12/17, 7th Dist	348	11466_1	3/16/2017
+11466	Change	Miami Main Channel Lighted Buoy 10	R "10" Fl R 2.5s	N 25 45' 34.904"	W 080 07' 16.078"	25.7597	-80.12113	LNM 04/17, 7th Dist	348	11466_1	2/2/2017
+11466	Change	Miami Main Channel Lighted Buoy 12	R "12" Q R	N 25 45' 39.563"	W 080 07' 28.837"	25.76099	-80.12468	LNM 04/17, 7th Dist	348	11466_1	2/2/2017
+11466	Change	Miami Main Channel Lighted Buoy 8	R "8" Q R	N 25 45' 30.958"	W 080 06' 58.262"	25.7586	-80.11618	LNM 04/17, 7th Dist	348	11466_1	2/2/2017

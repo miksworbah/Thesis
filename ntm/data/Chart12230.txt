@@ -1,0 +1,20 @@
+Chart: 12230, Current Edition: 67, Print Date: Jan. /2017, Chesapeake Bay Smith Point to Cove Point
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12230	Relocate	Kedges Straits Buoy 2	R N "2"	N 38 03' 12.846"	W 076 03' 21.264"	38.05357	-76.05591	LNM 24/17, 5th Dist	567	12230_1	6/22/2017
+12230	Change	Big Thorofare West Warning Light A	Fl 2.5s 15ft 3M "A"	N 38 00' 05.286"	W 076 02' 54.192"	38.00147	-76.04839	LNM 18/17, 5th Dist	567	12230_1	5/11/2017
+12230	Relocate	Wicomico River Channel Buoy 15	G C "15"	N 38 14' 24.140"	W 075 51' 30.552"	38.24004	-75.85849	LNM 18/17, 5th Dist	567	12230_1	5/11/2017
+12230	Relocate	Wicomico River Channel Buoy 11	G C "11"	N 38 13' 48.640"	W 075 52' 22.553"	38.23018	-75.87293	LNM 18/17, 5th Dist	567	12230_1	5/11/2017
+12230	Relocate	Tar Bay Warning Buoy A	W Or C "A"	N 38 21' 06.891"	W 076 16' 20.094"	38.35191	-76.27225	LNM 14/17, 5th Dist	567	12230_1	4/13/2017
+12230	Add	Obstruction	Obstns         Chart No. 1: K40	N 38 10' 22.220"	W 076 05' 41.750"	38.17284	-76.09493	LNM 15/17, 5th Dist	567	12230_1	4/13/2017
+12230	Add	Obstruction	Obstns         Chart No. 1: K40	N 38 11' 25.120"	W 076 05' 24.070"	38.19031	-76.09002	LNM 15/17, 5th Dist	567	12230_1	4/13/2017
+12230	Add	Obstruction	Obstns         Chart No. 1: K40	N 38 10' 18.520"	W 076 05' 37.180"	38.17181	-76.09366	LNM 15/17, 5th Dist	567	12230_1	4/13/2017
+12230	Add	Obstruction	Obstns         Chart No. 1: K40	N 38 11' 25.690"	W 076 05' 24.040"	38.19047	-76.09001	LNM 15/17, 5th Dist	567	12230_1	4/13/2017
+12230	Add	Obstruction	Obstn         Chart No. 1: K40	N 38 11' 06.290"	W 076 05' 02.330"	38.18508	-76.08398	LNM 15/17, 5th Dist	567	12230_1	4/13/2017
+12230	Add	Obstruction	Obstns         Chart No. 1: K40	N 38 11' 25.010"	W 076 05' 23.750"	38.19028	-76.08993	LNM 15/17, 5th Dist	567	12230_1	4/13/2017
+12230	Add	Obstruction	Obstn         Chart No. 1: K40	N 38 10' 43.140"	W 076 05' 00.740"	38.17865	-76.08354	LNM 15/17, 5th Dist	567	12230_1	4/13/2017
+12230	Add	Obstruction	Obstns         Chart No. 1: K40	N 38 10' 25.900"	W 076 05' 46.320"	38.17386	-76.0962	LNM 15/17, 5th Dist	567	12230_1	4/13/2017
+12230	Relocate	Sharkfin Shoal Warning Buoy	W Or C	N 38 12' 09.385"	W 075 59' 12.674"	38.20261	-75.98685	LNM 13/17, 5th Dist	567	12230_1	4/6/2017
+12230	Delete	Little Wicomico River Buoy 14	R N "14"	N 37 53' 14.185"	W 076 16' 17.124"	37.88727	-76.27142	LNM 12/17, 5th Dist	567	12230_1	3/23/2017
+12230	Relocate	Big Thorofare Channel Light 1T	Fl G 2.5s 15ft 5M "1T"	N 37 57' 54.199"	W 075 58' 40.035"	37.96505	-75.97779	LNM 10/17, 5th Dist	567	12230_1	3/16/2017
+12230	Relocate	Nanticoke River Channel Light 6	Q R 23ft 4M "6"	N 38 15' 50.370"	W 075 55' 24.475"	38.26399	-75.92346	LNM 06/17, 5th Dist	567	12230_1	2/16/2017
+12230	Relocate	Nanticoke River Channel Buoy 10	R N "10"	N 38 19' 58.834"	W 075 53' 49.154"	38.33301	-75.89699	LNM 06/17, 5th Dist	567	12230_1	2/16/2017

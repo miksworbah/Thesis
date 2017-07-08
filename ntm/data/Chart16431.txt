@@ -1,0 +1,3 @@
+Chart: 16431, Current Edition: 8, Print Date: Feb. /2015, Temnac Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16431	Add	NOTE: AREA TO BE AVOIDED (ATBA) 	NOTE: AREA TO BE AVOIDED (ATBA) The entire area of this chart falls within an Area to be Avoided. All ships 400 gross tonnage and upwards solely in transit should avoid the Area. This Area is IMO-Adopted (MSC IMO SN.1/Circ.331); to be implemented at 0000 UTC, JAN 1, 2016.	N 52 47' 32.000"	E 172 55' 44.019"	52.79222	172.9289	LNM 50/15, 9th Dist	2471	16431_1	12/17/2015

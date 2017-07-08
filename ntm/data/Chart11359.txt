@@ -1,0 +1,43 @@
+Chart: 11359, Current Edition: 14, Print Date: Dec. /2009, Loop Deepwater Port Louisiana Offshore Oil Port
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11359	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 28 53' 19.740"	W 089 49' 39.960"	28.88882	-89.82777	LNM 37/16, 8th Dist	194	11359_1	9/8/2016
+11359	Delete	Platform: (Arena Offshore-102-3)	Chart No. 1: L10	N 28 43' 47.448"	W 089 55' 26.673"	28.72985	-89.92407	LNM 30/16, 8th Dist	194	11359_1	8/11/2016
+11359	Delete	Platform: (Arena Offshore-102-2)	Chart No. 1: L10	N 28 43' 17.581"	W 089 57' 55.883"	28.72155	-89.96552	LNM 01/16, 8th Dist	194	11359_1	1/14/2016
+11359	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 28 54' 00.720"	W 089 42' 19.600"	28.9002	-89.70544	LNM 43/14, 8th Dist	194	11359_1	10/30/2014
+11359	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 28 45' 07.200"	W 090 00' 09.400"	28.752	-90.00261	LNM 41/14, 8th Dist	194	11359_1	10/9/2014
+11359	Delete	Platform: (Apache-116-200)	Chart No 1: L-10	N 28 44' 09.592"	W 090 03' 05.453"	28.736	-90.05151	LNM 33/14, 8th Dist	194	11359_1	8/28/2014
+11359	Delete	Platform	Chart No. 1: L10	N 28 45' 13.300"	W 089 42' 55.500"	28.75369	-89.71542	LNM 11/14, 8th Dist	194	11359_1	3/27/2014
+11359	Add	Platform: (Fieldwood-115-5)	Chart No. 1: L10	N 28 45' 03.290"	W 089 42' 55.450"	28.75091	-89.7154	LNM 11/14, 8th Dist	194	11359_1	3/27/2014
+11359	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 28 44' 46.260"	W 090 04' 25.200"	28.74618	-90.07367	LNM 50/13, 8th Dist	194	11359_1	12/6/2013
+11359	Delete	Platform: (Apache-300-2)	Chart No. 1: L10	N 28 50' 22.029"	W 089 50' 19.003"	28.83945	-89.83862	LNM 40/13, 8th Dist	194	11359_1	10/4/2013
+11359	Add	Visible Pipe	Pipe PA      Chart No. 1: F22	N 28 47' 36.000"	W 090 03' 16.000"	28.79333	-90.05444	LNM 39/12, 8th Dist	194	11359_1	10/1/2012
+11359	Delete	Platform (Stone Energy-300-1)	Chart No. 1: L10	N 28 51' 35.000"	W 089 50' 41.000"	28.85972	-89.84472	LNM 31/12, 8th Dist	194	11359_1	8/13/2012
+11359	Delete	Platform (Stone Energy-300-5)	Chart No. 1: L10	N 28 52' 43.000"	W 089 49' 17.000"	28.87861	-89.82139	LNM 31/12, 8th Dist	194	11359_1	8/13/2012
+11359	Add	Submarine Pipeline  PT 1 OF 2	Chart No. 1: L40.1	N 28 46' 11.900"	W 089 58' 19.630"	28.76997	-89.97212	LNM 18/12, 8th Dist	194	11359_1	4/30/2012
+11359	Add	Submarine Pipeline  PT 2 OF 2	Chart No. 1: L40.1	N 28 43' 18.060"	W 089 57' 24.380"	28.72168	-89.95677	LNM 18/12, 8th Dist	194	11359_1	4/30/2012
+11359	Add	Submarine Pipeline  PT 1 OF 4	Chart No. 1: L40.1	N 28 56' 00.500"	W 089 45' 35.160"	28.93347	-89.75977	LNM 13/12, 8th Dist	194	11359_1	3/21/2012
+11359	Add	Submarine Pipeline  PT 2 OF 4	Chart No. 1: L40.1	N 28 55' 55.280"	W 089 45' 26.000"	28.93202	-89.75723	LNM 13/12, 8th Dist	194	11359_1	3/21/2012
+11359	Add	Submarine Pipeline  PT 3 OF 4	Chart No. 1: L40.1	N 28 55' 54.230"	W 089 45' 18.670"	28.93173	-89.75519	LNM 13/12, 8th Dist	194	11359_1	3/21/2012
+11359	Add	Submarine Pipeline  PT 4 OF 4	Chart No. 1: L40.1	N 28 56' 00.500"	W 089 44' 45.800"	28.93347	-89.74606	LNM 13/12, 8th Dist	194	11359_1	3/21/2012
+11359	Delete	Rooster-107-1 Lighted Buoy	W Or Fl 2.5s Priv	N 28 46' 11.485"	W 089 58' 19.434"	28.76986	-89.97207	LNM 38/11, 8th Dist	194	11359_1	9/26/2011
+11359	Delete	Submerged Well	Well (cov 138ft/23 fms)	N 28 46' 11.485"	W 089 58' 19.434"	28.76986	-89.97207	LNM 38/11, 8th Dist	194	11359_1	9/26/2011
+11359	Add	Platform: (Rooster-107-1)	Chart No. 1: L10	N 28 46' 11.659"	W 089 58' 19.931"	28.76991	-89.97221	LNM 38/11, 8th Dist	194	11359_1	9/26/2011
+11359	Relocate	Loop Lighted Mooring Buoy VM-1	"VM-1" Fl 4s Priv	N 28 53' 43.000"	W 090 01' 26.000"	28.89528	-90.02389	LNM 34/11, 8th Dist	194	11359_1	8/29/2011
+11359	Relocate	Loop Lighted Mooring Buoy VM-2	"VM-2" Fl 4s Priv	N 28 53' 23.000"	W 090 01' 58.000"	28.88972	-90.03278	LNM 34/11, 8th Dist	194	11359_1	8/29/2011
+11359	Relocate	Loop Lighted Mooring Buoy VM-3	"VM-3" Fl 4s Priv	N 28 53' 41.000"	W 090 03' 26.000"	28.89472	-90.05722	LNM 34/11, 8th Dist	194	11359_1	8/29/2011
+11359	Delete	Non-Dangerous Obstruction	Obstn (rep 2010) PA	N 28 47' 13.200"	W 090 00' 05.000"	28.787	-90.00139	WNM 10/11, NGA	194	11359_1	3/1/2011
+11359	Delete	Platform: (Sojitz-100-1)	Chart No. 1: L10	N 28 27' 21.000"	W 089 51' 08.000"	28.45583	-89.85222	LNM 08/11, 8th Dist	194	11359_1	2/25/2011
+11359	Add	Dashed Fish Haven Label	Fish Haven (auth min 29 fms)	N 28 27' 22.000"	W 089 51' 07.000"	28.45611	-89.85194	LNM 45/10, 8th Dist	194	11359_1	11/5/2010
+11359	Add	Dashed Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 28 27' 29.730"	W 089 51' 16.480"	28.45826	-89.85458	LNM 45/10, 8th Dist	194	11359_1	11/5/2010
+11359	Add	Dashed Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 28 27' 14.880"	W 089 51' 16.720"	28.45413	-89.85464	LNM 45/10, 8th Dist	194	11359_1	11/5/2010
+11359	Add	Dashed Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 28 27' 14.680"	W 089 50' 59.920"	28.45408	-89.84998	LNM 45/10, 8th Dist	194	11359_1	11/5/2010
+11359	Add	Dashed Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 28 27' 29.520"	W 089 50' 59.690"	28.4582	-89.84991	LNM 45/10, 8th Dist	194	11359_1	11/5/2010
+11359	Delete	Sounding in Fathoms 	93	N 28 27' 24.300"	W 089 51' 09.200"	28.45675	-89.85255	LNM 45/10, 8th Dist	194	11359_1	11/5/2010
+11359	Add	Non-Dangerous Obstruction	Obstn (rep 2010) PA	N 28 47' 13.200"	W 090 00' 05.000"	28.787	-90.00139	WNM 40/10, NGA	194	11359_1	9/29/2010
+11359	Add	Submarine Pipeline  PT 1 OF 2	Chart No. 1: L40.1	N 28 56' 00.470"	W 090 00' 51.580"	28.93346	-90.01433	LNM 17/10, 8th Dist	194	11359_1	4/27/2010
+11359	Add	Submarine Pipeline  PT 2 OF 2	Chart No. 1: L40.1	N 28 55' 20.250"	W 089 56' 22.490"	28.92229	-89.93958	LNM 17/10, 8th Dist	194	11359_1	4/27/2010
+11359	Add	Submarine Pipeline  PT 1 OF 4	Chart No. 1: L40.1	N 28 53' 06.010"	W 090 01' 29.950"	28.885	-90.02499	LNM 06/10, 8th Dist	194	11359_1	2/24/2010
+11359	Add	Submarine Pipeline  PT 2 OF 4	Chart No. 1: L40.1	N 28 53' 05.010"	W 090 01' 30.590"	28.88473	-90.02516	LNM 06/10, 8th Dist	194	11359_1	2/24/2010
+11359	Add	Submarine Pipeline  PT 3 OF 4	Chart No. 1: L40.1	N 28 55' 38.440"	W 090 03' 43.160"	28.92735	-90.06199	LNM 06/10, 8th Dist	194	11359_1	2/24/2010
+11359	Add	Submarine Pipeline  PT 4 OF 4	Chart No. 1: L40.1	N 28 56' 00.500"	W 090 04' 00.500"	28.93347	-90.0668	LNM 06/10, 8th Dist	194	11359_1	2/24/2010
+11359	Delete	Obstruction	Obstn PA         Chart No. 1: K40	N 28 42' 11.900"	W 089 49' 40.000"	28.70331	-89.82777	LNM 51/09, 8th Dist	194	11359_1	1/7/2010

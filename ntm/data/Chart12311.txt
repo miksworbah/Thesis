@@ -1,60 +1,60 @@
-Chart: 12311, Current Edition: 47, Print Date: Jan. /2017, Delaware River Smyrna River to Wilmington
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-12311	Change	Tabulation - DELAWARE RIVER CHANNEL DEPTHS	Tabulation - DELAWARE RIVER CHANNEL DEPTHS	N 39 29' 14.000"	W 075 21' 49.000"	39.48722	-75.36361	LNM 25/17, 5th Dist	668	12311_1	6/15/2017
-12311	Change	Tabulation - DELAWARE RIVER CHANNEL DEPTHS	Tabulation - DELAWARE RIVER CHANNEL DEPTHS	N 39 29' 14.000"	W 075 21' 49.000"	39.48722	-75.36361	LNM 16/17, 5th Dist	668	12311_1	4/20/2017
-12311	Delete	Anchorage Area 3 PT 1 OF 6	(Chart No. 1 N12.1)	N 39 33' 24.190"	W 075 32' 59.650"	39.55672	-75.5499	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
-12311	Delete	Anchorage Area 3 PT 2 OF 6	(Chart No. 1 N12.1)	N 39 33' 17.750"	W 075 32' 40.750"	39.55493	-75.54465	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
-12311	Delete	Anchorage Area 3 PT 3 OF 6	(Chart No. 1 N12.1)	N 39 33' 06.470"	W 075 32' 36.900"	39.5518	-75.54359	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
-12311	Delete	Anchorage Area 3 PT 4 OF 6	(Chart No. 1 N12.1)	N 39 32' 34.840"	W 075 32' 38.690"	39.54301	-75.54408	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
-12311	Delete	Anchorage Area 3 PT 5 OF 6	(Chart No. 1 N12.1)	N 39 31' 44.020"	W 075 32' 56.590"	39.5289	-75.54905	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
-12311	Delete	Anchorage Area 3 PT 6 OF 6	(Chart No. 1 N12.1)	N 39 32' 15.290"	W 075 33' 08.450"	39.53758	-75.55235	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
-12311	Add	Anchorage Area 3 PT 1 OF 6	(Chart No. 1 N12.1)	N 39 33' 09.000"	W 075 32' 38.000"	39.5525	-75.54389	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
-12311	Add	Anchorage Area 3 PT 2 OF 6	(Chart No. 1 N12.1)	N 39 32' 34.600"	W 075 32' 38.200"	39.54295	-75.54395	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
-12311	Add	Anchorage Area 3 PT 3 OF 6	(Chart No. 1 N12.1)	N 39 31' 29.000"	W 075 33' 01.000"	39.52472	-75.55028	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
-12311	Add	Anchorage Area 3 PT 4 OF 6	(Chart No. 1 N12.1)	N 39 31' 31.800"	W 075 33' 16.200"	39.5255	-75.5545	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
-12311	Add	Anchorage Area 3 PT 5 OF 6	(Chart No. 1 N12.1)	N 39 32' 14.600"	W 075 33' 08.300"	39.53739	-75.55231	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
-12311	Add	Anchorage Area 3 PT 6 OF 6	(Chart No. 1 N12.1)	N 39 33' 09.000"	W 075 33' 10.000"	39.5525	-75.55278	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
-12311	Add	Anchorage Area 6 PT 1 OF 6	(Chart No. 1 N12.1)	N 39 43' 00.000"	W 075 30' 20.000"	39.71667	-75.50555	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
-12311	Add	Anchorage Area 6 PT 2 OF 6	(Chart No. 1 N12.1)	N 39 42' 51.500"	W 075 29' 44.900"	39.71431	-75.4958	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
-12311	Add	Anchorage Area 6 PT 3 OF 6	(Chart No. 1 N12.1)	N 39 42' 05.400"	W 075 30' 25.200"	39.7015	-75.507	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
-12311	Add	Anchorage Area 6 PT 4 OF 6	(Chart No. 1 N12.1)	N 39 41' 47.300"	W 075 30' 37.500"	39.69647	-75.51041	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
-12311	Add	Anchorage Area 6 PT 5 OF 6	(Chart No. 1 N12.1)	N 39 41' 34.700"	W 075 30' 39.900"	39.69297	-75.51109	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
-12311	Add	Anchorage Area 6 PT 6 OF 6	(Chart No. 1 N12.1)	N 39 41' 36.600"	W 075 30' 51.100"	39.6935	-75.51419	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
-12311	Delete	Anchorage Area 6 PT 1 OF 6	(Chart No. 1 N12.1)	N 39 42' 50.540"	W 075 30' 23.380"	39.71404	-75.50649	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
-12311	Delete	Anchorage Area 6 PT 2 OF 6	(Chart No. 1 N12.1)	N 39 42' 40.710"	W 075 29' 52.550"	39.71131	-75.49793	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
-12311	Delete	Anchorage Area 6 PT 3 OF 6	(Chart No. 1 N12.1)	N 39 42' 05.490"	W 075 30' 24.800"	39.70153	-75.50689	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
-12311	Delete	Anchorage Area 6 PT 4 OF 6	(Chart No. 1 N12.1)	N 39 41' 42.880"	W 075 30' 36.940"	39.69524	-75.51026	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
-12311	Delete	Anchorage Area 6 PT 5 OF 6	(Chart No. 1 N12.1)	N 39 41' 29.130"	W 075 30' 38.100"	39.69143	-75.51058	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
-12311	Delete	Anchorage Area 6 PT 6 OF 6	(Chart No. 1 N12.1)	N 39 41' 32.380"	W 075 30' 53.240"	39.69233	-75.51479	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
-12311	Add	Bridge Construction Label	Bridge under construction (see note)	N 39 43' 06.000"	W 075 34' 40.000"	39.71833	-75.57777	LNM 09/17, 5th Dist	668	12311_1	3/2/2017
-12311	Add	Bridge Construction PT 1 OF 2	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 39 43' 04.160"	W 075 34' 40.360"	39.71782	-75.57788	LNM 09/17, 5th Dist	668	12311_1	3/2/2017
-12311	Add	Bridge Construction PT 2 OF 2	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 39 43' 07.410"	W 075 34' 39.740"	39.71872	-75.57771	LNM 09/17, 5th Dist	668	12311_1	3/2/2017
-12311	Add	Bridge Construction Note	CAUTION Fixed and floating obstructions, some submerged, may exist within the magenta tinted bridge construction area. Mariners are advised to proceed with caution.	N 39 30' 58.030"	W 075 23' 21.220"	39.51612	-75.38923	LNM 09/17, 5th Dist	668	12311_1	3/2/2017
-12311	Delete	Ruins PT 1 OF 2	Subm ruins    Chart No. 1: F33.1 \ F33.2	N 39 43' 04.290"	W 075 34' 40.670"	39.71786	-75.57796	LNM 09/17, 5th Dist	668	12311_1	3/2/2017
-12311	Delete	Ruins PT 2 OF 2	Subm ruins    Chart No. 1: F33.1 \ F33.2	N 39 43' 07.700"	W 075 34' 40.060"	39.71881	-75.5778	LNM 09/17, 5th Dist	668	12311_1	3/2/2017
-12311	Change	Tabulation - SALEM RIVER CHANNEL	Tabulation - SALEM RIVER CHANNEL	N 39 32' 10.000"	W 075 21' 35.000"	39.53611	-75.35973	LNM 09/17, 5th Dist	668	12311_1	3/2/2017
-12311	Change	Delaware River Lighted Buoy 27	G "27" Q G (delete BELL)	N 39 40' 29.287"	W 075 31' 38.010"	39.6748	-75.52722	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
-12311	Change	Delaware River Lighted Buoy 28	R "28" Fl R 2.5s	N 39 40' 22.407"	W 075 31' 21.717"	39.67289	-75.5227	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
-12311	Change	Delaware River Lighted Buoy 29	G "29" Fl G 4s	N 39 42' 10.658"	W 075 30' 53.214"	39.70296	-75.51478	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
-12311	Add	Delaware River Lighted Buoy 32	R "32" Q R	N 39 44' 09.000"	W 075 29' 53.770"	39.73583	-75.49827	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
-12311	Change	Delaware River Buoy 31	G C "31"	N 39 43' 12.009"	W 075 30' 28.412"	39.72	-75.50789	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
-12311	Change	Delaware River Buoy 33	G C "33"	N 39 43' 43.409"	W 075 30' 16.211"	39.72873	-75.5045	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
-12311	Change	Delaware River Buoy 35	G C "35"	N 39 44' 23.610"	W 075 30' 00.710"	39.73989	-75.5002	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
-12311	Add	Delaware River Lighted Buoy 36	R "36" Fl R 2.5s	N 39 44' 50.560"	W 075 29' 27.150"	39.74738	-75.49088	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
-12311	Relocate	Delaware River Lighted Buoy 29	G "29" Fl G 4s	N 39 42' 10.658"	W 075 30' 53.214"	39.70296	-75.51478	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
-12311	Relocate	Delaware River Buoy 31	G C "31"	N 39 43' 12.009"	W 075 30' 28.412"	39.72	-75.50789	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
-12311	Relocate	Delaware River Buoy 33	G C "33"	N 39 43' 43.409"	W 075 30' 16.211"	39.72873	-75.5045	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
-12311	Relocate	Delaware River Buoy 35	G C "35"	N 39 44' 23.610"	W 075 30' 00.710"	39.73989	-75.5002	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
-12311	Relocate	Cherry Island Range Junction Lighted Bell Buoy CR	RG "CR" Fl (2+1) R 6s BELL	N 39 43' 08.609"	W 075 30' 16.511"	39.71906	-75.50459	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
-12311	Delete	Cherry Island Range Buoy 4C	R N "4C"	N 39 43' 40.409"	W 075 30' 04.410"	39.72789	-75.50123	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
-12311	Delete	Bellevue Range Lighted Buoy 2B	R "2B" Q R	N 39 44' 29.909"	W 075 29' 38.708"	39.74164	-75.49409	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
-12311	Change	Delaware River Lighted Buoy 21	G "21" Fl G 2.5s	N 39 37' 44.105"	W 075 34' 39.530"	39.62892	-75.57764	LNM 06/17, 5th Dist	668	12311_1	2/16/2017
-12311	Change	Delaware River Lighted Buoy 22	R "22" Q R (delete BELL)	N 39 37' 45.405"	W 075 34' 22.029"	39.62928	-75.57278	LNM 06/17, 5th Dist	668	12311_1	2/16/2017
-12311	Change	Delaware River Lighted Buoy 24	R "24" Fl R 4s	N 39 38' 25.706"	W 075 33' 35.727"	39.64047	-75.55992	LNM 06/17, 5th Dist	668	12311_1	2/16/2017
-12311	Delete	New Castle Flats Buoy 29	G C "29"	N 39 40' 11.407"	W 075 32' 06.720"	39.66983	-75.5352	LNM 06/17, 5th Dist	668	12311_1	2/16/2017
-12311	Change	Delaware River Lighted Buoy 25	G "25" Fl G 4s	N 39 39' 21.907"	W 075 32' 49.724"	39.65609	-75.54714	LNM 06/17, 5th Dist	668	12311_1	2/16/2017
-12311	Change	Delaware River Lighted Buoy 26	R "26" Fl R 4s	N 39 39' 24.156"	W 075 32' 27.222"	39.65671	-75.54089	LNM 06/17, 5th Dist	668	12311_1	2/16/2017
-12311	Relocate	Delaware River Lighted Buoy 21	G "21" Fl G 2.5s	N 39 37' 44.105"	W 075 34' 39.530"	39.62892	-75.57764	LNM 06/17, 5th Dist	668	12311_1	2/16/2017
-12311	Relocate	Delaware River Lighted Buoy 24	R "24" Fl R 4s	N 39 38' 25.706"	W 075 33' 35.727"	39.64047	-75.55992	LNM 06/17, 5th Dist	668	12311_1	2/16/2017
-12311	Relocate	Delaware River Lighted Buoy 25	G "25" Fl G 4s	N 39 39' 21.907"	W 075 32' 49.724"	39.65609	-75.54714	LNM 06/17, 5th Dist	668	12311_1	2/16/2017
-12311	Relocate	Delaware River Lighted Buoy 26	R "26" Fl R 4s	N 39 39' 24.156"	W 075 32' 27.222"	39.65671	-75.54089	LNM 06/17, 5th Dist	668	12311_1	2/16/2017
+Chart: 12311, Current Edition: 47, Print Date: Jan. /2017, Delaware River Smyrna River to Wilmington
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12311	Change	Tabulation - DELAWARE RIVER CHANNEL DEPTHS	Tabulation - DELAWARE RIVER CHANNEL DEPTHS	N 39 29' 14.000"	W 075 21' 49.000"	39.48722	-75.36361	LNM 25/17, 5th Dist	668	12311_1	6/15/2017
+12311	Change	Tabulation - DELAWARE RIVER CHANNEL DEPTHS	Tabulation - DELAWARE RIVER CHANNEL DEPTHS	N 39 29' 14.000"	W 075 21' 49.000"	39.48722	-75.36361	LNM 16/17, 5th Dist	668	12311_1	4/20/2017
+12311	Delete	Anchorage Area 3 PT 1 OF 6	(Chart No. 1 N12.1)	N 39 33' 24.190"	W 075 32' 59.650"	39.55672	-75.5499	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
+12311	Delete	Anchorage Area 3 PT 2 OF 6	(Chart No. 1 N12.1)	N 39 33' 17.750"	W 075 32' 40.750"	39.55493	-75.54465	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
+12311	Delete	Anchorage Area 3 PT 3 OF 6	(Chart No. 1 N12.1)	N 39 33' 06.470"	W 075 32' 36.900"	39.5518	-75.54359	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
+12311	Delete	Anchorage Area 3 PT 4 OF 6	(Chart No. 1 N12.1)	N 39 32' 34.840"	W 075 32' 38.690"	39.54301	-75.54408	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
+12311	Delete	Anchorage Area 3 PT 5 OF 6	(Chart No. 1 N12.1)	N 39 31' 44.020"	W 075 32' 56.590"	39.5289	-75.54905	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
+12311	Delete	Anchorage Area 3 PT 6 OF 6	(Chart No. 1 N12.1)	N 39 32' 15.290"	W 075 33' 08.450"	39.53758	-75.55235	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
+12311	Add	Anchorage Area 3 PT 1 OF 6	(Chart No. 1 N12.1)	N 39 33' 09.000"	W 075 32' 38.000"	39.5525	-75.54389	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
+12311	Add	Anchorage Area 3 PT 2 OF 6	(Chart No. 1 N12.1)	N 39 32' 34.600"	W 075 32' 38.200"	39.54295	-75.54395	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
+12311	Add	Anchorage Area 3 PT 3 OF 6	(Chart No. 1 N12.1)	N 39 31' 29.000"	W 075 33' 01.000"	39.52472	-75.55028	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
+12311	Add	Anchorage Area 3 PT 4 OF 6	(Chart No. 1 N12.1)	N 39 31' 31.800"	W 075 33' 16.200"	39.5255	-75.5545	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
+12311	Add	Anchorage Area 3 PT 5 OF 6	(Chart No. 1 N12.1)	N 39 32' 14.600"	W 075 33' 08.300"	39.53739	-75.55231	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
+12311	Add	Anchorage Area 3 PT 6 OF 6	(Chart No. 1 N12.1)	N 39 33' 09.000"	W 075 33' 10.000"	39.5525	-75.55278	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
+12311	Add	Anchorage Area 6 PT 1 OF 6	(Chart No. 1 N12.1)	N 39 43' 00.000"	W 075 30' 20.000"	39.71667	-75.50555	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
+12311	Add	Anchorage Area 6 PT 2 OF 6	(Chart No. 1 N12.1)	N 39 42' 51.500"	W 075 29' 44.900"	39.71431	-75.4958	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
+12311	Add	Anchorage Area 6 PT 3 OF 6	(Chart No. 1 N12.1)	N 39 42' 05.400"	W 075 30' 25.200"	39.7015	-75.507	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
+12311	Add	Anchorage Area 6 PT 4 OF 6	(Chart No. 1 N12.1)	N 39 41' 47.300"	W 075 30' 37.500"	39.69647	-75.51041	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
+12311	Add	Anchorage Area 6 PT 5 OF 6	(Chart No. 1 N12.1)	N 39 41' 34.700"	W 075 30' 39.900"	39.69297	-75.51109	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
+12311	Add	Anchorage Area 6 PT 6 OF 6	(Chart No. 1 N12.1)	N 39 41' 36.600"	W 075 30' 51.100"	39.6935	-75.51419	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
+12311	Delete	Anchorage Area 6 PT 1 OF 6	(Chart No. 1 N12.1)	N 39 42' 50.540"	W 075 30' 23.380"	39.71404	-75.50649	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
+12311	Delete	Anchorage Area 6 PT 2 OF 6	(Chart No. 1 N12.1)	N 39 42' 40.710"	W 075 29' 52.550"	39.71131	-75.49793	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
+12311	Delete	Anchorage Area 6 PT 3 OF 6	(Chart No. 1 N12.1)	N 39 42' 05.490"	W 075 30' 24.800"	39.70153	-75.50689	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
+12311	Delete	Anchorage Area 6 PT 4 OF 6	(Chart No. 1 N12.1)	N 39 41' 42.880"	W 075 30' 36.940"	39.69524	-75.51026	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
+12311	Delete	Anchorage Area 6 PT 5 OF 6	(Chart No. 1 N12.1)	N 39 41' 29.130"	W 075 30' 38.100"	39.69143	-75.51058	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
+12311	Delete	Anchorage Area 6 PT 6 OF 6	(Chart No. 1 N12.1)	N 39 41' 32.380"	W 075 30' 53.240"	39.69233	-75.51479	LNM 13/17, 5th Dist	668	12311_1	3/23/2017
+12311	Add	Bridge Construction Label	Bridge under construction (see note)	N 39 43' 06.000"	W 075 34' 40.000"	39.71833	-75.57777	LNM 09/17, 5th Dist	668	12311_1	3/2/2017
+12311	Add	Bridge Construction PT 1 OF 2	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 39 43' 04.160"	W 075 34' 40.360"	39.71782	-75.57788	LNM 09/17, 5th Dist	668	12311_1	3/2/2017
+12311	Add	Bridge Construction PT 2 OF 2	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 39 43' 07.410"	W 075 34' 39.740"	39.71872	-75.57771	LNM 09/17, 5th Dist	668	12311_1	3/2/2017
+12311	Add	Bridge Construction Note	CAUTION Fixed and floating obstructions, some submerged, may exist within the magenta tinted bridge construction area. Mariners are advised to proceed with caution.	N 39 30' 58.030"	W 075 23' 21.220"	39.51612	-75.38923	LNM 09/17, 5th Dist	668	12311_1	3/2/2017
+12311	Delete	Ruins PT 1 OF 2	Subm ruins    Chart No. 1: F33.1 \ F33.2	N 39 43' 04.290"	W 075 34' 40.670"	39.71786	-75.57796	LNM 09/17, 5th Dist	668	12311_1	3/2/2017
+12311	Delete	Ruins PT 2 OF 2	Subm ruins    Chart No. 1: F33.1 \ F33.2	N 39 43' 07.700"	W 075 34' 40.060"	39.71881	-75.5778	LNM 09/17, 5th Dist	668	12311_1	3/2/2017
+12311	Change	Tabulation - SALEM RIVER CHANNEL	Tabulation - SALEM RIVER CHANNEL	N 39 32' 10.000"	W 075 21' 35.000"	39.53611	-75.35973	LNM 09/17, 5th Dist	668	12311_1	3/2/2017
+12311	Change	Delaware River Lighted Buoy 27	G "27" Q G (delete BELL)	N 39 40' 29.287"	W 075 31' 38.010"	39.6748	-75.52722	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
+12311	Change	Delaware River Lighted Buoy 28	R "28" Fl R 2.5s	N 39 40' 22.407"	W 075 31' 21.717"	39.67289	-75.5227	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
+12311	Change	Delaware River Lighted Buoy 29	G "29" Fl G 4s	N 39 42' 10.658"	W 075 30' 53.214"	39.70296	-75.51478	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
+12311	Add	Delaware River Lighted Buoy 32	R "32" Q R	N 39 44' 09.000"	W 075 29' 53.770"	39.73583	-75.49827	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
+12311	Change	Delaware River Buoy 31	G C "31"	N 39 43' 12.009"	W 075 30' 28.412"	39.72	-75.50789	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
+12311	Change	Delaware River Buoy 33	G C "33"	N 39 43' 43.409"	W 075 30' 16.211"	39.72873	-75.5045	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
+12311	Change	Delaware River Buoy 35	G C "35"	N 39 44' 23.610"	W 075 30' 00.710"	39.73989	-75.5002	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
+12311	Add	Delaware River Lighted Buoy 36	R "36" Fl R 2.5s	N 39 44' 50.560"	W 075 29' 27.150"	39.74738	-75.49088	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
+12311	Relocate	Delaware River Lighted Buoy 29	G "29" Fl G 4s	N 39 42' 10.658"	W 075 30' 53.214"	39.70296	-75.51478	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
+12311	Relocate	Delaware River Buoy 31	G C "31"	N 39 43' 12.009"	W 075 30' 28.412"	39.72	-75.50789	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
+12311	Relocate	Delaware River Buoy 33	G C "33"	N 39 43' 43.409"	W 075 30' 16.211"	39.72873	-75.5045	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
+12311	Relocate	Delaware River Buoy 35	G C "35"	N 39 44' 23.610"	W 075 30' 00.710"	39.73989	-75.5002	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
+12311	Relocate	Cherry Island Range Junction Lighted Bell Buoy CR	RG "CR" Fl (2+1) R 6s BELL	N 39 43' 08.609"	W 075 30' 16.511"	39.71906	-75.50459	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
+12311	Delete	Cherry Island Range Buoy 4C	R N "4C"	N 39 43' 40.409"	W 075 30' 04.410"	39.72789	-75.50123	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
+12311	Delete	Bellevue Range Lighted Buoy 2B	R "2B" Q R	N 39 44' 29.909"	W 075 29' 38.708"	39.74164	-75.49409	LNM 07/17, 5th Dist	668	12311_1	2/23/2017
+12311	Change	Delaware River Lighted Buoy 21	G "21" Fl G 2.5s	N 39 37' 44.105"	W 075 34' 39.530"	39.62892	-75.57764	LNM 06/17, 5th Dist	668	12311_1	2/16/2017
+12311	Change	Delaware River Lighted Buoy 22	R "22" Q R (delete BELL)	N 39 37' 45.405"	W 075 34' 22.029"	39.62928	-75.57278	LNM 06/17, 5th Dist	668	12311_1	2/16/2017
+12311	Change	Delaware River Lighted Buoy 24	R "24" Fl R 4s	N 39 38' 25.706"	W 075 33' 35.727"	39.64047	-75.55992	LNM 06/17, 5th Dist	668	12311_1	2/16/2017
+12311	Delete	New Castle Flats Buoy 29	G C "29"	N 39 40' 11.407"	W 075 32' 06.720"	39.66983	-75.5352	LNM 06/17, 5th Dist	668	12311_1	2/16/2017
+12311	Change	Delaware River Lighted Buoy 25	G "25" Fl G 4s	N 39 39' 21.907"	W 075 32' 49.724"	39.65609	-75.54714	LNM 06/17, 5th Dist	668	12311_1	2/16/2017
+12311	Change	Delaware River Lighted Buoy 26	R "26" Fl R 4s	N 39 39' 24.156"	W 075 32' 27.222"	39.65671	-75.54089	LNM 06/17, 5th Dist	668	12311_1	2/16/2017
+12311	Relocate	Delaware River Lighted Buoy 21	G "21" Fl G 2.5s	N 39 37' 44.105"	W 075 34' 39.530"	39.62892	-75.57764	LNM 06/17, 5th Dist	668	12311_1	2/16/2017
+12311	Relocate	Delaware River Lighted Buoy 24	R "24" Fl R 4s	N 39 38' 25.706"	W 075 33' 35.727"	39.64047	-75.55992	LNM 06/17, 5th Dist	668	12311_1	2/16/2017
+12311	Relocate	Delaware River Lighted Buoy 25	G "25" Fl G 4s	N 39 39' 21.907"	W 075 32' 49.724"	39.65609	-75.54714	LNM 06/17, 5th Dist	668	12311_1	2/16/2017
+12311	Relocate	Delaware River Lighted Buoy 26	R "26" Fl R 4s	N 39 39' 24.156"	W 075 32' 27.222"	39.65671	-75.54089	LNM 06/17, 5th Dist	668	12311_1	2/16/2017

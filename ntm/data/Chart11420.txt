@@ -1,0 +1,11 @@
+Chart: 11420, Current Edition: 31, Print Date: Jan. /2017, Havana to Tampa Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11420	Change	New Pass Entrance Light NP	Q 16ft 4M "NP"	N 27 18' 55.113"	W 082 35' 53.168"	27.31531	-82.5981	LNM 26/17, 7th Dist	374	11420_1	6/29/2017
+11420	Delete	Fort Jefferson Lighted Buoy C	Y "C" Fl Y 4s	N 24 34' 00.000"	W 082 58' 00.000"	24.56667	-82.96667	LNM 23/17, 7th Dist	374	11420_1	6/22/2017
+11420	Change	Harbor Key Bank Light 57	Fl G 4s 16ft 5M "57"	N 24 50' 24.030"	W 081 25' 44.595"	24.84001	-81.42905	LNM 11/17, 7th Dist	374	11420_1	3/16/2017
+11420	Relocate	Longboat Pass Danger Shoal Light	Q 16ft 4M	N 27 25' 50.877"	W 082 41' 50.851"	27.4308	-82.69746	LNM 10/17, 7th Dist	374	11420_1	3/16/2017
+11420	Change	New Pass Channel Light NP	Mo (A) 16ft 6M "NP"	N 27 18' 55.113"	W 082 35' 53.168"	27.31531	-82.5981	LNM 06/17, 7th Dist	374	11420_1	2/23/2017
+11420	Add	Obstruction	Obstn PA (rep 2 fms)         Chart No. 1: K40	N 26 18' 49.680"	W 082 01' 25.740"	26.3138	-82.02382	LNM 07/17, 7th Dist	374	11420_1	2/23/2017
+11420	Delete	Longboat Pass Approach Light LP	Mo (A) 16ft 6M "LP"	N 27 25' 50.747"	W 082 41' 40.341"	27.43076	-82.69454	LNM 05/17, 7th Dist	374	11420_1	2/9/2017
+11420	Add	Longboat Pass Channel Approach Lighted Buoy LP	RW "LP" Mo (A)	N 27 26' 06.005"	W 082 42' 10.046"	27.435	-82.70279	LNM 05/17, 7th Dist	374	11420_1	2/9/2017
+11420	Add	Longboat Pass Danger Shoal Light	Q 16ft 4M	N 27 25' 50.747"	W 082 41' 40.341"	27.43076	-82.69454	LNM 05/17, 7th Dist	374	11420_1	2/9/2017

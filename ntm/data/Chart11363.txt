@@ -1,0 +1,94 @@
+Chart: 11363, Current Edition: 45, Print Date: Jan. /2017, Chandeleur and Breton Sounds
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11363	Relocate	Baptiste Collette Bayou Light 3	Fl G 6s 17ft 4M "3" Ra Ref	N 29 23' 57.926"	W 089 18' 26.575"	29.39942	-89.30738	LNM 22/17, 8th Dist	55	11363_1	6/8/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light C	Fl 2.5s 17ft 5M "C" Ra Ref	N 29 44' 06.670"	W 089 03' 27.150"	29.73519	-89.05754	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light B	Fl 2.5s 17ft 5M "B" Ra Ref	N 29 48' 50.160"	W 089 01' 36.480"	29.81393	-89.0268	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light A	Fl 2.5s 17ft 5M "A" Ra Ref	N 29 56' 20.580"	W 088 59' 39.610"	29.93905	-88.99434	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 20, magenta circle Chart No. 1: S17.2, AIS label.	Fl R 2.5s 17ft 4M "20" Ra Ref AIS  Chart No. 1: S17.2  	N 30 01' 16.343"	W 088 59' 57.979"	30.02121	-88.99944	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 23	Fl G 4s 17ft 5M "23" Ra Ref AIS  Chart No. 1: S17.2 	N 29 59' 17.570"	W 089 00' 02.708"	29.98821	-89.00076	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 28	Fl R 4s 17ft 5M "28" Ra Ref AIS  Chart No. 1: S17.2,	N 29 57' 19.071"	W 089 00' 11.972"	29.9553	-89.00333	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 31	Fl G 6s 17ft 5M "31" Ra Ref AIS  Chart No. 1: S17.2	N 29 55' 20.331"	W 089 00' 16.692"	29.92231	-89.00464	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 36	Q R 17ft 5M "36" Ra Ref	N 29 53' 20.440"	W 089 00' 26.027"	29.88901	-89.00723	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 37	Fl G 2.5s 17ft 5M "37" Ra Ref	N 29 52' 34.528"	W 089 00' 41.707"	29.87626	-89.01159	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 42	Fl R 2.5s 17ft 5M "42" Ra Ref	N 29 50' 42.809"	W 089 01' 28.092"	29.84522	-89.02447	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 45	Fl G 4s 17ft 5M "45" Ra Ref	N 29 48' 49.795"	W 089 02' 10.154"	29.81383	-89.03616	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 50	Fl R 4s 17ft 5M "50" Ra Ref	N 29 46' 58.068"	W 089 02' 56.482"	29.7828	-89.04903	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 53	Fl G 6s 17ft 5M "53" Ra Ref	N 29 45' 05.049"	W 089 03' 38.490"	29.7514	-89.06069	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Buoy 56	R N "56"	N 29 44' 09.507"	W 089 04' 02.670"	29.73597	-89.06741	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 58	Fl R 6s 17ft 5M "58" Ra Ref	N 29 43' 13.313"	W 089 04' 24.760"	29.72037	-89.07355	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Buoy 59	G C "59"	N 29 42' 40.991"	W 089 04' 35.049"	29.71139	-89.0764	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 61	Fl G 2.5s 17ft 5M "61" Ra Ref	N 29 41' 20.283"	W 089 05' 06.715"	29.68897	-89.0852	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Buoy 63	G C "63"	N 29 40' 24.090"	W 089 05' 28.754"	29.67336	-89.09132	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 66	Q R 17ft 5M "66" Ra Ref AIS   Chart No. 1: S17.2	N 29 39' 33.567"	W 089 05' 50.959"	29.65932	-89.09749	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 67	Fl G 4s 17ft 5M "67" Ra Ref AIS  Chart No. 1: S17.2	N 29 38' 56.604"	W 089 06' 36.514"	29.64906	-89.11015	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Buoy 70	R N "70"	N 29 38' 19.291"	W 089 07' 29.470"	29.63869	-89.12486	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 72	Fl R 2.5s 17ft 5M "72" Ra Ref AIS  Chart No. 1: S17.2	N 29 37' 40.473"	W 089 08' 20.935"	29.62791	-89.13914	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Buoy 73	G C "73"	N 29 37' 00.106"	W 089 09' 10.967"	29.6167	-89.15305	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 75	Fl G 6s 17ft 5M "75" Ra Ref AIS  Chart No. 1: S17.2	N 29 36' 21.339"	W 089 10' 02.329"	29.60593	-89.16731	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Buoy 78	R N "78"	N 29 35' 43.996"	W 089 10' 55.249"	29.59555	-89.18201	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Buoy 82	R N "82"	N 29 34' 32.795"	W 089 12' 29.499"	29.57578	-89.20819	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 83	Fl G 2.5s 17ft 5M "83" Ra Ref AIS     Chart No. 1: S17.2 	N 29 33' 58.909"	W 089 13' 10.869"	29.56636	-89.21969	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 86	Q R 17ft 5M "86" Ra Ref AIS    Chart No. 1: S17.2	N 29 33' 46.145"	W 089 13' 31.215"	29.56282	-89.22533	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 87	Fl G 4s 17ft 5M "87" Ra Ref AIS    Chart No. 1: S17.2	N 29 33' 26.009"	W 089 13' 41.177"	29.55722	-89.2281	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Buoy 89	G C "89"	N 29 32' 54.475"	W 089 14' 00.810"	29.54847	-89.23356	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Buoy 93	G C "93"	N 29 31' 09.110"	W 089 15' 03.443"	29.5192	-89.25095	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 95	Fl G 6s 17ft 5M "95" Ra Ref AIS     Chart No. 1: S17.2	N 29 30' 16.123"	W 089 15' 34.084"	29.50448	-89.25947	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 92	Fl R 6s 17ft 5M "92" Ra Ref AIS     Chart No. 1: S17.2	N 29 32' 03.014"	W 089 14' 34.801"	29.53417	-89.243	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Buoy 97	G C "97"	N 29 29' 23.099"	W 089 16' 04.733"	29.48975	-89.26798	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 100	Fl R 2.5s 17ft 5M "100" Ra Ref AIS     Chart No. 1: S17.2	N 29 28' 30.995"	W 089 16' 37.377"	29.47528	-89.27705	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Buoy 101	G C "101"	N 29 27' 37.080"	W 089 17' 05.986"	29.4603	-89.285	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 103	Fl G 2.5s 17ft 5M "103" Ra Ref AIS     Chart No. 1: S17.2	N 29 26' 44.096"	W 089 17' 36.583"	29.44558	-89.2935	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 106	Q R 17ft 5M "106" Ra Ref AIS     Chart No. 1: S17.2	N 29 25' 51.948"	W 089 18' 09.220"	29.4311	-89.30256	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Lighted Buoy 108	R "108" Q R 	N 29 24' 58.627"	W 089 18' 38.205"	29.41628	-89.31062	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 16	V-AIS "16"    Chart No. 1: S18.2	N 30 03' 14.973"	W 088 59' 50.975"	30.05416	-88.99749	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 17	V-AIS "17"     Chart No. 1: S18.2	N 30 02' 15.579"	W 088 59' 52.204"	30.03766	-88.99783	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 19	V-AIS "19"     Chart No. 1: S18.2	N 30 01' 16.241"	W 088 59' 55.707"	30.02118	-88.99881	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 22	V-AIS "22"     Chart No. 1: S18.2	N 30 00' 17.023"	W 089 00' 01.479"	30.00473	-89.00041	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 24	V-AIS "24"     Chart No. 1: S18.2	N 29 59' 17.671"	W 089 00' 04.980"	29.98824	-89.00138	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 25	V-AIS "25"     Chart No. 1: S18.2	N 29 58' 18.249"	W 089 00' 06.207"	29.97174	-89.00172	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 30	V-AIS "30"     Chart No. 1: S18.2	N 29 56' 19.752"	W 089 00' 15.467"	29.93882	-89.0043	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 62	V-AIS "62"     Chart No. 1: S18.2	N 29 41' 20.925"	W 089 05' 08.860"	29.68915	-89.08579	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 65	V-AIS "65"     Chart No. 1: S18.2	N 29 39' 32.925"	W 089 05' 48.814"	29.65915	-89.09689	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 69	V-AIS "69"     Chart No. 1: S18.2	N 29 38' 17.792"	W 089 07' 27.989"	29.63828	-89.12444	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 71	V-AIS "71"     Chart No. 1: S18.2	N 29 37' 38.974"	W 089 08' 19.454"	29.62749	-89.13874	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 74	V-AIS "74"     Chart No. 1: S18.2	N 29 37' 01.604"	W 089 09' 12.449"	29.61711	-89.15346	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 76	V-AIS "76"     Chart No. 1: S18.2	N 29 36' 22.837"	W 089 10' 03.810"	29.60634	-89.16772	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 77	V-AIS "77"     Chart No. 1: S18.2	N 29 35' 42.498"	W 089 10' 53.768"	29.59514	-89.1816	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 79	V-AIS "79"     Chart No. 1: S18.2	N 29 35' 03.650"	W 089 11' 45.199"	29.58435	-89.19589	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 81	V-AIS "81"     Chart No. 1: S18.2	N 29 34' 31.297"	W 089 12' 28.017"	29.57536	-89.20778	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 84	V-AIS " 84"     Chart No. 1: S18.2	N 29 34' 00.406"	W 089 13' 12.350"	29.56678	-89.2201	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 88	V-AIS "88"     Chart No. 1: S18.2	N 29 33' 26.955"	W 089 13' 43.166"	29.55749	-89.22866	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 90	V-AIS "90"     Chart No. 1: S18.2	N 29 32' 55.421"	W 089 14' 02.799"	29.54873	-89.23411	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 91	V-AIS "91"     Chart No. 1: S18.2	N 29 32' 02.121"	W 089 14' 32.781"	29.53392	-89.24244	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 98	V-AIS "98"     Chart No. 1: S18.2	N 29 29' 23.992"	W 089 16' 06.752"	29.49	-89.26854	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 99	V-AIS "99"     Chart No. 1: S18.2	N 29 28' 30.102"	W 089 16' 35.357"	29.47503	-89.27649	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 102	V-AIS "102"     Chart No. 1: S18.2	N 29 27' 37.973"	W 089 17' 08.005"	29.46055	-89.28556	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 104	V-AIS "104"     Chart No. 1: S18.2	N 29 26' 44.989"	W 089 17' 38.601"	29.44583	-89.29405	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 105	V-AIS "105"     Chart No. 1: S18.2	N 29 25' 51.055"	W 089 18' 07.202"	29.43085	-89.302	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 94	V-AIS "94"     Chart No. 1: S18.2	N 29 31' 10.004"	W 089 15' 05.464"	29.51945	-89.25152	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 96	V-AIS "96"     Chart No. 1: S18.2	N 29 30' 17.016"	W 089 15' 36.103"	29.50473	-89.26003	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 83	Fl R 4s 17ft 5M "80" Ra RefAIS     Chart No. 1: S17.2 	N 29 35' 05.148"	W 089 11' 46.680"	29.58476	-89.1963	LNM 20/17, 8th Dist	55	11363_1	6/1/2017
+11363	Add	Dangerous Wreck	PA     Chart No. 1: K28	N 29 39' 25.200"	W 089 21' 43.200"	29.657	-89.362	LNM 19/17, 8th Dist	55	11363_1	5/18/2017
+11363	Delete	Platform (Chevron-155-3)	Chart No. 1: L10	N 29 26' 26.000"	W 088 52' 13.000"	29.44056	-88.87028	LNM 14/17, 8th Dist	55	11363_1	4/13/2017
+11363	Delete	Platform (Chevron-155-4)	Chart No. 1: L10	N 29 26' 48.000"	W 088 50' 50.000"	29.44667	-88.84722	LNM 14/17, 8th Dist	55	11363_1	4/13/2017
+11363	Delete	Platform (Chevron-120-9)	Chart No. 1: L10	N 29 29' 53.000"	W 088 40' 43.000"	29.49806	-88.67861	LNM 13/17, 8th Dist	55	11363_1	4/6/2017
+11363	Delete	Platform (Chevron-120-10)	Chart No. 1: L10	N 29 26' 49.000"	W 088 50' 28.000"	29.44695	-88.84111	LNM 13/17, 8th Dist	55	11363_1	4/6/2017
+11363	Delete	Platform (Chevron-120-11)	Chart No. 1: L10	N 29 26' 34.000"	W 088 51' 06.000"	29.44278	-88.85167	LNM 13/17, 8th Dist	55	11363_1	4/6/2017
+11363	Delete	Platform (W & T Offshore-114-15)	Chart No. 1: L10	N 29 38' 10.929"	W 088 45' 26.891"	29.63637	-88.75747	LNM 08/17, 8th Dist	55	11363_1	3/2/2017
+11363	Delete	Platform (W & T Offshore-114-22)	Chart No. 1: L10	N 29 37' 59.491"	W 088 45' 18.241"	29.63319	-88.75507	LNM 08/17, 8th Dist	55	11363_1	3/2/2017
+11363	Delete	Platform (W&T Offshore-114-16)	Chart No. 1: L10	N 29 37' 11.000"	W 088 47' 26.000"	29.61972	-88.79056	LNM 08/17, 8th Dist	55	11363_1	3/2/2017
+11363	Delete	Platform (W & T Offshore-114-8)	Chart No. 1: L10	N 29 36' 24.000"	W 088 47' 50.000"	29.60667	-88.79723	LNM 08/17, 8th Dist	55	11363_1	3/2/2017
+11363	Delete	Platform:  (Chevron-101-3)	Chart No. 1: L10	N 29 21' 02.000"	W 088 59' 00.000"	29.35056	-88.98333	LNM 05/17, 8th Dist	55	11363_1	2/16/2017
+11363	Delete	Platform:  (Chevron-101-54)	Chart No. 1: L10	N 29 24' 02.347"	W 088 58' 04.321"	29.40065	-88.96786	LNM 04/17, 8th Dist	55	11363_1	2/9/2017
+11363	Add	Platform:  (Chevron-101-102)	Chart No. 1: L10	N 29 21' 33.451"	W 088 56' 04.437"	29.35929	-88.93456	LNM 03/17, 8th Dist	55	11363_1	1/26/2017
+11363	Add	Platform:  (Chevron-101-101)	Chart No. 1: L10	N 29 21' 04.233"	W 088 58' 55.688"	29.35118	-88.98213	LNM 03/17, 8th Dist	55	11363_1	1/26/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Buoy 51	G C "51"	N 29 46' 01.240"	W 089 03' 16.415"	29.76701	-89.05456	LNM 02/17, 8th Dist	55	11363_1	1/26/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Buoy 48	R N "48"	N 29 47' 54.258"	W 089 02' 34.394"	29.7984	-89.04288	LNM 02/17, 8th Dist	55	11363_1	1/26/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Buoy 43	G C "43"	N 29 49' 45.984"	W 089 01' 48.051"	29.82944	-89.03001	LNM 02/17, 8th Dist	55	11363_1	1/26/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Buoy 40	R N "40"	N 29 51' 38.994"	W 089 01' 05.976"	29.86083	-89.01833	LNM 02/17, 8th Dist	55	11363_1	1/26/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Buoy 34	R N "34"	N 29 54' 21.110"	W 089 00' 22.455"	29.90586	-89.00624	LNM 02/17, 8th Dist	55	11363_1	1/26/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Buoy 29	G C "29"	N 29 56' 19.651"	W 089 00' 13.197"	29.93879	-89.00366	LNM 02/17, 8th Dist	55	11363_1	1/26/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Buoy 26	R N "26"	N 29 58' 18.351"	W 089 00' 08.478"	29.97176	-89.00236	LNM 02/17, 8th Dist	55	11363_1	1/26/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Buoy 21	G C "21"	N 30 00' 16.921"	W 088 59' 59.207"	30.0047	-88.99978	LNM 02/17, 8th Dist	55	11363_1	1/26/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Buoy 18	R N "18"	N 30 02' 15.680"	W 088 59' 54.476"	30.03769	-88.99847	LNM 02/17, 8th Dist	55	11363_1	1/26/2017
+11363	Delete	Breton/Chandeleur ICW Alternate Route Light 15	Fl G 2.5s 17ft 4M "15" Ra Ref	N 30 03' 14.871"	W 088 59' 48.702"	30.05413	-88.99686	LNM 02/17, 8th Dist	55	11363_1	1/26/2017

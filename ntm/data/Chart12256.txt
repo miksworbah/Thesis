@@ -1,0 +1,64 @@
+Chart: 12256, Current Edition: 18, Print Date: Jan. /2014, Chesapeake Bay Thimble Shoal Channel
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12256	Change	Little Creek Harbor Jetty Light 6	Fl R 2.5s 15ft 4M "6"	N 36 55' 44.799"	W 076 10' 41.793"	36.92911	-76.17828	LNM 25/17, 5th Dist	596	12256_1	6/29/2017
+12256	Add	Sounding in Feet	14	N 36 59' 27.600"	W 076 17' 38.300"	36.991	-76.29398	LNM 23/17, 5th Dist	596	12256_1	6/8/2017
+12256	Add	Sounding in Feet	30	N 36 59' 49.700"	W 076 18' 56.500"	36.99714	-76.3157	LNM 23/17, 5th Dist	596	12256_1	6/8/2017
+12256	Delete	Sounding in Feet	24	N 36 59' 26.800"	W 076 17' 40.400"	36.99078	-76.29456	LNM 23/17, 5th Dist	596	12256_1	6/8/2017
+12256	Delete	Sounding in Feet	48	N 36 59' 49.700"	W 076 18' 57.600"	36.99714	-76.316	LNM 23/17, 5th Dist	596	12256_1	6/8/2017
+12256	Relocate	Thimble Shoal Channel Lighted Buoy 14	R "14" Fl R 2.5s	N 36 59' 42.340"	W 076 11' 05.570"	36.99509	-76.18488	LNM 19/17, 5th Dist	596	12256_1	5/18/2017
+12256	Change	Depth Legend - Little River (Creek) to: 22 FT FOR A WIDTH OF 400 FT OCT 2016	22 FT FOR A WIDTH OF 400 FT OCT 2016	N 36 55' 44.210"	W 076 10' 38.260"	36.92895	-76.17729	LNM 15/17, 5th Dist	596	12256_1	4/13/2017
+12256	Change	Depth Legend - Little River (Creek) to: 22 FT FOR A WIDTH OF 400 FT OCT 2016	22 FT FOR A WIDTH OF 400 FT OCT 2016	N 36 57' 21.070"	W 076 10' 23.340"	36.95585	-76.17315	LNM 15/17, 5th Dist	596	12256_1	4/13/2017
+12256	Change	Depth Legend - Little River (Creek) Basin to: 22 FT OCT 2016	22 FT OCT 2016	N 36 54' 56.040"	W 076 10' 42.050"	36.91557	-76.17834	LNM 15/17, 5th Dist	596	12256_1	4/13/2017
+12256	Change	Little Creek Harbor Light 5	Fl G 2.5s 15ft 4M "5"	N 36 55' 41.796"	W 076 10' 34.369"	36.92828	-76.17622	LNM 07/17, 5th Dist	596	12256_1	2/23/2017
+12256	Change	Naval Boat Channel Light 8	Fl R 2.5s 15ft 4M "8"	N 36 57' 40.964"	W 076 18' 46.992"	36.96138	-76.31306	LNM 07/17, 5th Dist	596	12256_1	2/23/2017
+12256	Change	Tabulation - NORFOLK HARBOR AND APPROACHES	Tabulation - NORFOLK HARBOR AND APPROACHES	N 36 56' 21.000"	W 076 15' 18.000"	36.93917	-76.255	LNM 02/17, 5th Dist	596	12256_1	1/5/2017
+12256	Change	Tabulation - PHOEBUS AND WILLOUGHBY CHANNEL DEPTHS	Tabulation - PHOEBUS AND WILLOUGHBY CHANNEL DEPTHS	N 36 56' 21.000"	W 076 17' 00.000"	36.93917	-76.28333	LNM 02/17, 5th Dist	596	12256_1	1/5/2017
+12256	Change	Willoughby Bay Channel Light 2	Fl R 2.5s 15ft 4M "2"	N 36 58' 58.157"	W 076 18' 38.477"	36.98282	-76.31069	LNM 46/16, 5th Dist	596	12256_1	11/24/2016
+12256	Change	Hampton River Channel Light 6	Q R 15ft 4M "6"	N 37 00' 14.003"	W 076 19' 26.636"	37.00389	-76.32407	LNM 46/16, 5th Dist	596	12256_1	11/24/2016
+12256	Change	Phoebus Channel Entrance Light 1	Fl G 2.5s 15ft 4M "1"	N 36 59' 57.280"	W 076 18' 54.700"	36.99924	-76.31519	LNM 46/16, 5th Dist	596	12256_1	11/24/2016
+12256	Delete	Sounding in Feet	3	N 36 58' 53.380"	W 076 18' 34.690"	36.98149	-76.30964	LNM 36/16, 5th Dist	596	12256_1	9/1/2016
+12256	Add	Sounding in Feet	2	N 36 58' 52.833"	W 076 18' 36.085"	36.98134	-76.31002	LNM 36/16, 5th Dist	596	12256_1	9/1/2016
+12256	Delete	Sounding in Feet	11	N 36 59' 43.300"	W 076 15' 18.380"	36.99536	-76.2551	LNM 36/16, 5th Dist	596	12256_1	9/1/2016
+12256	Add	Sounding in Feet	5	N 36 59' 44.325"	W 076 15' 18.310"	36.99565	-76.25509	LNM 36/16, 5th Dist	596	12256_1	9/1/2016
+12256	Delete	Sounding in Feet	11	N 36 59' 45.400"	W 076 15' 08.780"	36.99594	-76.25244	LNM 36/16, 5th Dist	596	12256_1	9/1/2016
+12256	Add	Sounding in Feet	6	N 36 59' 45.491"	W 076 15' 10.230"	36.99597	-76.25284	LNM 36/16, 5th Dist	596	12256_1	9/1/2016
+12256	Change	Little Creek Harbor Jetty Light 3	Q G 25ft 5M "3"	N 36 55' 58.710"	W 076 10' 35.059"	36.93298	-76.17641	LNM 15/16, 5th Dist	596	12256_1	4/21/2016
+12256	Relocate	Little Creek Harbor Light 5	Fl G 2.5s 15ft 3M "5"	N 36 55' 41.796"	W 076 10' 34.369"	36.92828	-76.17622	LNM 11/16, 5th Dist	596	12256_1	3/24/2016
+12256	Relocate	Willoughby Bay Channel Warning Daybeacon A	W "A"	N 36 58' 55.523"	W 076 18' 34.744"	36.98209	-76.30965	LNM 11/16, 5th Dist	596	12256_1	3/24/2016
+12256	Change	Willoughby Bay Channel Warning Daybeacon A	W "A"	N 36 58' 55.523"	W 076 18' 34.744"	36.98209	-76.30965	LNM 11/16, 5th Dist	596	12256_1	3/24/2016
+12256	Add	Willoughby Bay Channel Daybeacon 4	R "4"	N 36 58' 44.002"	W 076 18' 40.418"	36.97889	-76.31123	LNM 11/16, 5th Dist	596	12256_1	3/24/2016
+12256	Change	Willoughby Bay Channel Daybeacon 11	G "11"	N 36 57' 45.603"	W 076 17' 47.453"	36.96267	-76.29652	LNM 07/16, 5th Dist	596	12256_1	2/25/2016
+12256	Delete	Fort Wool Light	Fl 4s 25ft 5M	N 36 59' 12.529"	W 076 18' 10.791"	36.98681	-76.30299	LNM 38/15, 5th Dist	596	12256_1	10/1/2015
+12256	Delete	Willoughby Bay Channel Buoy 1A	G C "1A"	N 36 58' 54.336"	W 076 18' 37.515"	36.98176	-76.31042	LNM 34/15, 5th Dist	596	12256_1	9/3/2015
+12256	Add	Willoughby Bay Channel Buoy 3	G C "3"	N 36 58' 52.147"	W 076 18' 38.368"	36.98115	-76.31066	LNM 34/15, 5th Dist	596	12256_1	9/3/2015
+12256	Relocate	Willoughby Bay Channel Light 2	Fl R 2.5s 15ft 3M "2"	N 36 58' 58.157"	W 076 18' 38.477"	36.98282	-76.31069	LNM 34/15, 5th Dist	596	12256_1	9/3/2015
+12256	Change	Willoughby Bay Channel Daybeacon 3A	G "3A"	N 36 58' 42.177"	W 076 18' 36.801"	36.97838	-76.31022	LNM 34/15, 5th Dist	596	12256_1	9/3/2015
+12256	Relocate	Willoughby Bay Channel Daybeacon 3A	G "3A"	N 36 58' 42.177"	W 076 18' 36.801"	36.97838	-76.31022	LNM 34/15, 5th Dist	596	12256_1	9/3/2015
+12256	Change	Naval Boat Channel Light 4	Fl R 6s 15ft 4M "4"	N 36 57' 48.736"	W 076 19' 14.089"	36.96354	-76.32058	LNM 27/15, 5th Dist	596	12256_1	7/16/2015
+12256	Change	Little Creek Harbor Jetty Light 4	Q R 25ft 5M "4"	N 36 55' 54.925"	W 076 10' 44.205"	36.93192	-76.17895	LNM 19/15, 5th Dist	596	12256_1	5/21/2015
+12256	Change	Willoughby Bay Channel Daybeacon 9	G "9"	N 36 57' 53.038"	W 076 18' 06.770"	36.96473	-76.30188	LNM 18/15, 5th Dist	596	12256_1	5/14/2015
+12256	Relocate	Thimble Shoal Channel Lighted Buoy 19	G "19" Q G	N 37 00' 22.727"	W 076 15' 30.984"	37.00631	-76.25861	LNM 04/15, 5th Dist	596	12256_1	1/29/2015
+12256	Change	Tabulation - Phoebus and Willoughby Channel Depths	Tabulation - Phoebus and Willoughby Channel Depths	N 36 56' 21.000"	W 076 17' 00.000"	36.93917	-76.28333	LNM 04/15, 5th Dist	596	12256_1	1/22/2015
+12256	Change	Phoebus Channel Wreck Light WR2	Q R 15ft 4M "WR2"	N 36 59' 57.941"	W 076 18' 43.217"	36.99943	-76.312	LNM 52/14, 5th Dist	596	12256_1	1/8/2015
+12256	Change	Willoughby Bay Channel Wreck Light WR13	Q G 15ft 4M "WR13"	N 36 57' 44.896"	W 076 17' 23.148"	36.96247	-76.28976	LNM 44/14, 5th Dist	596	12256_1	11/13/2014
+12256	Change	Depth Legend - Little River (Creek) to:	23 FEET FOR A WIDTH OF 400 FEET SEP 2013	N 36 55' 48.000"	W 076 10' 38.500"	36.93	-76.17736	LNM 37/14, 5th Dist	596	12256_1	9/11/2014
+12256	Change	Depth Legend - Little River (Creek) to:	23 FEET FOR A WIDTH OF 400 FEET SEP 2013	N 36 56' 46.000"	W 076 10' 35.000"	36.94611	-76.17639	LNM 37/14, 5th Dist	596	12256_1	9/11/2014
+12256	Relocate	Thimble Shoal Channel Lighted Buoy 15	G "15" Fl G 4s	N 36 59' 56.225"	W 076 12' 47.578"	36.99895	-76.21322	LNM 34/14, 5th Dist	596	12256_1	9/4/2014
+12256	Relocate	Thimble Shoal Channel Lighted Buoy 18	R "18" Q R	N 37 00' 39.985"	W 076 14' 56.399"	37.01111	-76.249	LNM 34/14, 5th Dist	596	12256_1	9/4/2014
+12256	Relocate	Thimble Shoal Channel Lighted Bell Buoy 9	G "9" Fl G 4s BELL	N 36 58' 40.929"	W 076 07' 55.243"	36.97803	-76.13201	LNM 34/14, 5th Dist	596	12256_1	9/4/2014
+12256	Change	Thimble Shoal Channel Lighted Buoy 13	G "13" Fl G 2.5s (delete BELL)	N 36 59' 31.149"	W 076 11' 10.115"	36.99199	-76.18614	LNM 34/14, 5th Dist	596	12256_1	9/4/2014
+12256	Relocate	Thimble Shoal Channel Lighted Buoy 11	G "11" Fl G 6s	N 36 59' 06.071"	W 076 09' 32.660"	36.98502	-76.15907	LNM 34/14, 5th Dist	596	12256_1	9/4/2014
+12256	Relocate	Thimble Shoal Channel Lighted Buoy 12	R "12" Fl R 6s	N 36 59' 15.532"	W 076 09' 28.927"	36.98765	-76.15804	LNM 34/14, 5th Dist	596	12256_1	9/4/2014
+12256	Relocate	Thimble Shoal Channel Lighted Buoy 13	G "13" Fl G 2.5s	N 36 59' 31.149"	W 076 11' 10.115"	36.99199	-76.18614	LNM 34/14, 5th Dist	596	12256_1	9/4/2014
+12256	Relocate	Thimble Shoal Channel Lighted Buoy 14	R "14" Fl R 2.5s	N 36 59' 40.639"	W 076 11' 06.345"	36.99462	-76.1851	LNM 34/14, 5th Dist	596	12256_1	9/4/2014
+12256	Relocate	Thimble Shoal Channel Lighted Buoy 16	R "16" Fl R 4s	N 37 00' 05.745"	W 076 12' 43.773"	37.00159	-76.21216	LNM 34/14, 5th Dist	596	12256_1	9/4/2014
+12256	Add	Sounding in Feet	77	N 37 00' 28.170"	W 076 15' 48.920"	37.00782	-76.26359	LNM 28/14, 5th Dist	596	12256_1	7/17/2014
+12256	Delete	Obstruction in Feet	55 Obstn       Chart No. 1: K41	N 37 00' 28.260"	W 076 15' 48.800"	37.00785	-76.26356	LNM 28/14, 5th Dist	596	12256_1	7/17/2014
+12256	Add	Obstruction in Feet	41 Obstn       Chart No. 1: K41	N 36 58' 30.610"	W 076 06' 30.100"	36.97517	-76.10836	LNM 28/14, 5th Dist	596	12256_1	7/17/2014
+12256	Change	Thimble Shoal Channel Lighted Buoy 12	R "12" Fl R 6s (delete GONG)	N 36 59' 17.362"	W 076 09' 28.160"	36.98816	-76.15782	LNM 26/14, 5th Dist	596	12256_1	7/10/2014
+12256	Relocate	Little Creek Harbor Jetty Light 3	Q G 25ft 6M "3"	N 36 55' 58.710"	W 076 10' 35.059"	36.93298	-76.17641	LNM 25/14, 5th Dist	596	12256_1	7/3/2014
+12256	Change	Little Creek Harbor Jetty Light 3	Q G 25ft 6M "3"	N 36 55' 58.710"	W 076 10' 35.059"	36.93298	-76.17641	LNM 25/14, 5th Dist	596	12256_1	7/3/2014
+12256	Change	Little Creek Harbor Jetty Light 4	Q R 25ft 6M "4"	N 36 55' 54.925"	W 076 10' 44.205"	36.93192	-76.17895	LNM 25/14, 5th Dist	596	12256_1	7/3/2014
+12256	Relocate	Little Creek Harbor Jetty Light 4	Q R 25ft 6M "4"	N 36 55' 54.925"	W 076 10' 44.205"	36.93192	-76.17895	LNM 25/14, 5th Dist	596	12256_1	7/3/2014
+12256	Delete	Little Creek Cove Range Front Daybeacon	WR Bn 21ft	N 36 54' 48.530"	W 076 09' 46.770"	36.91348	-76.16299	LNM 12/14, 5th Dist	596	12256_1	4/3/2014
+12256	Delete	Little Creek Cove Range Rear Daybeacon	WR Bn 29ft	N 36 54' 48.530"	W 076 09' 40.771"	36.91348	-76.16132	LNM 12/14, 5th Dist	596	12256_1	4/3/2014

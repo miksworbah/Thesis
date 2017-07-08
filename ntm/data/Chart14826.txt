@@ -1,0 +1,44 @@
+Chart: 14826, Current Edition: 28, Print Date: Sep. /2010, Moss Point to Vermilion;Beaver Creek;Vermilion Harbor;Rocky River
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14826	Change	Depth Note - NOTE C ROCKY RIVER CHANNEL	 Controlling depths from seaward in feet at Low Water Datum, 562.2 ft, referred to mean water level at Rimouski, Quebec, International Great Lakes Datum (1985). A. Entrance Channel……5.2 Feet B. Rocky River Channel …..5.3 Feet C. Anchorage Basin………..0.2 Feet D. River Channel …………..3.3 Feet E. River Channel……………3.5 Feet F. Upper Turning Basin…… 2.8 Feet Channel depths tabulated from surveys by the Corps of Engineers, Dec. 2016. For changes subsequent to the above information consult the Corp of Engineers.	N 41 29' 09.400"	W 081 50' 37.900"	41.48594	-81.84386	LNM 23/17, 9th Dist	1149	14826_3	6/8/2017
+14826	Change	tabulation - VERMILION HARBOR CHANNEL DEPTHS	tabulation - VERMILION HARBOR CHANNEL DEPTHS	N 41 25' 07.870"	W 082 22' 05.390"	41.41885	-82.36816	LNM 20/17, 9th Dist	1150	14826_4	5/11/2017
+14826	Relocate	Gordon Park Boat Basin Light 1	Fl G 2.5s 40ft 4 St M "1"	N 41 32' 33.576"	W 081 38' 17.514"	41.54266	-81.6382	LNM 08/17, 9th Dist	1147	14826_1	3/2/2017
+14826	Relocate	Gordon Park Disposal Light A	Fl 4s 40ft 7 St M "A"	N 41 32' 52.812"	W 081 38' 00.696"	41.548	-81.63353	LNM 08/17, 9th Dist	1147	14826_1	3/2/2017
+14826	Relocate	Vermilion Museum Lighthouse	F R 35ft Priv PA	N 41 25' 30.800"	W 082 22' 00.500"	41.42522	-82.36681	LNM 08/16, 9th Dist	1150	14826_4	3/10/2016
+14826	Change	Vermilion Museum Lighthouse	F 35ft Priv PA	N 41 25' 30.800"	W 082 22' 00.500"	41.42522	-82.36681	LNM 08/16, 9th Dist	1150	14826_4	3/10/2016
+14826	Change	Cleveland Harbor Main Entrance Light	Fl R 6s 63ft 11 St M HORN (MRASS) (Floodlighted) 	N 41 30' 32.210"	W 081 43' 04.350"	41.50895	-81.71787	LNM 38/15, 9th Dist	1147	14826_1	12/3/2015
+14826	Change	Lorain Harbor Light	Fl 6s 60ft 12 St M HORN (MRASS)	N 41 28' 51.620"	W 082 11' 43.290"	41.48101	-82.19536	LNM 38/15, 9th Dist	1147	14826_1	12/3/2015
+14826	Add	Note: MARINER ACTIVATED SOUND SIGNALS	MARINER ACTIVATED SOUND SIGNALS: Sound signals labeled with (MRASS) require user activation. See USCG Light List.	N 41 30' 32.210"	W 081 43' 04.350"	41.50895	-81.71787	LNM 38/15, 9th Dist	1147	14826_1	12/3/2015
+14826	Add	Limno Tech Cleveland A	Y "Cleveland A" Priv	N 41 35' 21.200"	W 081 47' 31.200"	41.58922	-81.792	LNM 34/15, 9th Dist	1147	14826_1	9/17/2015
+14826	Change	Depth Note - NOTE C: ROCKY RIVER CHANNEL 	NOTE C ROCKY RIVER CHANNEL to: Controlling depths from seaward in feet at Low Water Datum, 562.2 ft, referred to mean water level at Rimouski, Quebec, International Great Lakes Datum (1985). A. Entrance Channel...9.0 Feet B. Rocky River Channel ......5.0 Feet C. Anchorage Basin...1.0 Feet D. River Channel...5.3 Feet E. River Channel...4.8 Feet F. Upper Turning Basin...2.8 Feet Channel depths tabulated from surveys by the Corps of Engineers, May 2015. For changes subsequent to the above information, consult the Corps of Engineers.	N 41 29' 09.400"	W 081 50' 37.900"	41.48594	-81.84386	LNM 31/15, 9th Dist	1149	14826_3	7/30/2015
+14826	Change	tabulation - VERMILION HARBOR CHANNEL DEPTHS	tabulation - VERMILION HARBOR CHANNEL DEPTHS	N 41 25' 08.000"	W 082 22' 05.000"	41.41889	-82.36806	LNM 32/13, 9th Dist	1150	14826_4	5/15/2014
+14826	Change	Depth Note - NOTE C ROCKY RIVER CHANNEL	Controlling depths from seaward in feet at Low Water Datum, 562.2 ft, referred to mean water level at Rimouski, Quebec, International Great Lakes Datum (1985). A. Entrance Channel...6.6 Feet B. Rocky River Channel ......4.4 Feet C. Anchorage Basin...1.1 Feet D. River Channel...6.5 Feet E. River Channel...4.4 Feet F. Upper Turning Basin...3.1 Feet Channel depths tabulated from surveys by the Corps of Engineers, May 2013. For changes subsequent to the above information, consult the Corps of Engineers.	N 41 29' 09.400"	W 081 50' 37.900"	41.48594	-81.84386	LNM 17/14, 9th Dist	1149	14826_3	4/24/2014
+14826	Relocate	CLEVELAND HARBOR WEST BASIN CHNL LT 1	Q G 31ft 6 St M "1"	N 41 29' 45.900"	W 081 43' 45.670"	41.49608	-81.72935	LNM 49/12, 9th Dist	1147	14826_1	12/10/2012
+14826	Change	CLEVELAND HARBOR WEST BASIN CHNL LT 1	Q G 31ft 6 St M "1"	N 41 29' 45.900"	W 081 43' 45.670"	41.49608	-81.72935	LNM 49/12, 9th Dist	1147	14826_1	12/10/2012
+14826	Delete	MAST MOORING BUOY HICKORY STICK	Q "HICKORY STICK"	N 41 32' 18.060"	W 082 06' 15.780"	41.53835	-82.10439	LNM 48/12, 9th Dist	1147	14826_1	12/6/2012
+14826	Delete	MAST MOORING BUOY SULTAN	Q "SULTAN"	N 41 35' 41.100"	W 081 36' 51.160"	41.59475	-81.61421	LNM 48/12, 9th Dist	1147	14826_1	12/6/2012
+14826	Delete	MAST MOORING BUOY ADMIRAL	Q "ADMIRAL"	N 41 38' 14.640"	W 081 54' 11.820"	41.6374	-81.90328	LNM 48/12, 9th Dist	1147	14826_1	12/6/2012
+14826	Delete	MAST MOORING BUOY CRAFTSMAN	Q "CRAFTSMAN"	N 41 31' 56.540"	W 082 00' 22.500"	41.53237	-82.00625	LNM 48/12, 9th Dist	1147	14826_1	12/6/2012
+14826	Delete	MAST MOORING BUOY DUNDEE	Q "DUNDEE"	N 41 41' 19.800"	W 081 50' 38.040"	41.68884	-81.8439	LNM 48/12, 9th Dist	1147	14826_1	12/6/2012
+14826	Delete	MAST MOORING BUOY MORNING STAR	Q "MORNING STAR"	N 41 36' 48.780"	W 082 12' 31.860"	41.61355	-82.20885	LNM 48/12, 9th Dist	1147	14826_1	12/6/2012
+14826	Delete	MAST MOORING BUOY SAND MERCHANT	Q "SAND MERCHANT"	N 41 34' 25.680"	W 081 57' 31.440"	41.5738	-81.95873	LNM 48/12, 9th Dist	1147	14826_1	12/6/2012
+14826	Add	MAST MOORING BUOY DUNDEE	"Dundee" Q Priv	N 41 41' 19.800"	W 081 50' 38.040"	41.68884	-81.8439	LNM 33/12, 9th Dist	1147	14826_1	8/22/2012
+14826	Add	MAST MOORING BUOY SAND MERCHANT	"Sand Merchant" Q Priv	N 41 34' 25.680"	W 081 57' 31.440"	41.5738	-81.95873	LNM 33/12, 9th Dist	1147	14826_1	8/22/2012
+14826	Add	MAST MOORING BUOY CRAFTSMAN	"Craftsman" Q Priv	N 41 31' 56.540"	W 082 00' 22.500"	41.53237	-82.00625	LNM 33/12, 9th Dist	1147	14826_1	8/22/2012
+14826	Add	MAST MOORING BUOY MORNING STAR	"Morning Star" Q Priv	N 41 36' 48.780"	W 082 12' 31.860"	41.61355	-82.20885	LNM 33/12, 9th Dist	1147	14826_1	8/22/2012
+14826	Relocate	ROCKY RIVER LT 1	Fl G 2.5s 35ft 6 St M "1"	N 41 29' 30.700"	W 081 50' 19.300"	41.49186	-81.83869	LNM 17/12, 9th Dist	1149	14826_3	4/30/2012
+14826	Relocate	ROCKY RIVER LT 1	Fl G 2.5s 35ft 6 St M "1"	N 41 29' 30.700"	W 081 50' 19.300"	41.49186	-81.83869	LNM 17/12, 9th Dist	1147	14826_1	4/30/2012
+14826	Add	SHEFFIELD LAKE LIGHT 2	Fl R 4s 3 St M "2"	N 41 29' 27.484"	W 082 06' 49.042"	41.49097	-82.11362	LNM 12/12, 9th Dist	1147	14826_1	3/28/2012
+14826	Add	MAST MOORING BUOY SULTAN	Q Priv	N 41 35' 41.100"	W 081 36' 51.160"	41.59475	-81.61421	LNM 52/11, 9th Dist	1147	14826_1	1/5/2012
+14826	Change	Depth Note - NOTE C ROCKY RIVER CHANNEL	Controlling depths from seaward in feet at Low Water Datum, 173.5m, referred to mean water level at Rimouski, Quebec, International Great Lakes Datum (1985). A. Entrance Channel...4.3 Feet B. Rocky River Channel ......3.4 Feet C. Anchorage Basin...1.7 Feet (a) D. River Channel...4.8  E. River Channel...3.0 Feet F. Upper Turning Basin...2.2 Feet Channel depths tabulated from surveys by the Corps of Engineers, July 2010. For changes subsequent to the above information, consult the Corps of Engineers.(a). Except for shoal to bare outside quarter. 	N 41 29' 09.400"	W 081 50' 37.900"	41.48594	-81.84386	LNM 14/11, 9th Dist	1149	14826_3	3/30/2011
+14826	Add	reach label: B	B	N 41 29' 22.500"	W 081 50' 10.400"	41.48958	-81.83622	LNM 14/11, 9th Dist	1149	14826_3	3/30/2011
+14826	Change	reach label	C	N 41 29' 21.800"	W 081 50' 11.600"	41.48939	-81.83656	LNM 14/11, 9th Dist	1149	14826_3	3/30/2011
+14826	Delete	Sounding in Feet	2	N 41 29' 22.600"	W 081 50' 13.500"	41.48961	-81.83708	LNM 14/11, 9th Dist	1149	14826_3	3/30/2011
+14826	Delete	Sounding in Feet	1	N 41 29' 20.600"	W 081 50' 10.400"	41.48906	-81.83622	LNM 14/11, 9th Dist	1149	14826_3	3/30/2011
+14826	Delete	Sounding in Feet	2	N 41 29' 20.100"	W 081 50' 09.100"	41.48892	-81.83586	LNM 14/11, 9th Dist	1149	14826_3	3/30/2011
+14826	Change	reach label	D	N 41 29' 14.400"	W 081 49' 59.500"	41.48734	-81.83319	LNM 14/11, 9th Dist	1149	14826_3	3/30/2011
+14826	Change	reach label	E	N 41 29' 01.100"	W 081 49' 52.100"	41.48364	-81.83114	LNM 14/11, 9th Dist	1149	14826_3	3/30/2011
+14826	Change	reach label	F	N 41 28' 50.800"	W 081 49' 57.700"	41.48078	-81.8327	LNM 14/11, 9th Dist	1149	14826_3	3/30/2011
+14826	Add	magenta channel reach separation line PT 1 OF 2	None	N 41 29' 25.200"	W 081 50' 15.400"	41.49033	-81.83761	LNM 14/11, 9th Dist	1149	14826_3	3/30/2011
+14826	Add	magenta channel reach separation line PT 2 OF 2	None	N 41 29' 25.800"	W 081 50' 14.500"	41.4905	-81.83736	LNM 14/11, 9th Dist	1149	14826_3	3/30/2011
+14826	Delete	Sounding in Feet	2	N 41 29' 23.400"	W 081 50' 14.200"	41.48983	-81.83728	LNM 14/11, 9th Dist	1149	14826_3	3/30/2011

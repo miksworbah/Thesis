@@ -1,0 +1,2 @@
+Chart: 16041, Current Edition: 9, Print Date: Jan. /2015, Demarcation Bay and approaches
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

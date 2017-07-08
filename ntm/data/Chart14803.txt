@@ -1,0 +1,6 @@
+Chart: 14803, Current Edition: 28, Print Date: Feb. /2015, Six Miles south of Stony Point to Port Bay;North Pond;Little Sodus Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14803	Change	Depth Note - PORT ONTARIO HARBOR	The controlling depth was 6 feet for the mid-width of 40-50 feet. Oct 2016	N 43 34' 36.340"	W 076 12' 15.650"	43.57676	-76.20435	LNM 06/17, 9th Dist	1114	14803_1	Not Yet
+14803	Change	tabulation - Little Sodus Bay Harbor Channel Depths	tabulation - Little Sodus Bay Harbor Channel Depths	N 43 32' 33.000"	W 076 04' 59.000"	43.5425	-76.08305	LNM 47/16, 9th Dist	1114	14803_1	11/24/2016
+14803	Add	Note: MARINER ACTIVATED SOUND SIGNAL: OSWEGO HARBOR WEST PIERHEAD LIGHT	MARINER ACTIVATED SOUND SIGNAL: OSWEGO HARBOR WEST PIERHEAD LIGHT (MRASS) Horn is activated by keying the mic 5 times on VHF-FM Ch 83A.	N 43 28' 23.735"	W 076 31' 01.352"	43.47326	-76.51704	LNM 38/15, 9th Dist	1114	14803_1	12/3/2015
+14803	Change	Oswego Harbor West Pierhead Light	Fl R 10s 57ft 11 St M HORN (MRASS)	N 43 28' 23.735"	W 076 31' 01.352"	43.47326	-76.51704	LNM 38/15, 9th Dist	1114	14803_1	12/3/2015

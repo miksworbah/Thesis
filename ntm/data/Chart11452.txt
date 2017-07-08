@@ -1,0 +1,21 @@
+Chart: 11452, Current Edition: 23, Print Date: Sep. /2014, Intracoastal Waterway Alligator Reef to Sombrero Key
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11452	Delete	Duck Key Channel Daybeacon 12	R "12" Priv	N 24 46' 27.500"	W 080 55' 27.000"	24.77431	-80.92416	LNM 11/16, 7th Dist	354	11452_1	3/24/2016
+11452	Delete	Duck Key Channel Daybeacon 5	G "5" Priv	N 24 46' 04.100"	W 080 55' 27.300"	24.76781	-80.92425	LNM 11/16, 7th Dist	354	11452_1	3/24/2016
+11452	Delete	Duck Key Channel Daybeacon 8	R "8" Priv	N 24 46' 17.600"	W 080 55' 22.400"	24.77155	-80.92289	LNM 11/16, 7th Dist	354	11452_1	3/24/2016
+11452	Delete	Tennessee Reef East Lighted Buoy 18	R "18" Fl R 2.5s	N 24 47' 32.496"	W 080 41' 36.228"	24.79236	-80.6934	LNM 51/15, 7th Dist	354	11452_1	12/31/2015
+11452	Delete	Crocker Reef Buoy 16	R N "16"	N 24 54' 29.771"	W 080 31' 28.335"	24.90827	-80.52454	LNM 51/15, 7th Dist	354	11452_1	12/31/2015
+11452	Delete	Alligator Reef Light	Fl (4) 60s 136ft 13M RACON (__-)	N 24 51' 06.435"	W 080 37' 07.857"	24.85179	-80.61885	LNM 36/15, 7th Dist	354	11452_1	9/17/2015
+11452	Add	Abandoned Light House	TOWER (ABAND LT HO)	N 24 51' 06.435"	W 080 37' 07.857"	24.85179	-80.61885	LNM 36/15, 7th Dist	354	11452_1	9/17/2015
+11452	Add	Alligator Reef Light	Fl (4) 60s 16ft 7M	N 24 51' 04.754"	W 080 37' 03.754"	24.85132	-80.61771	LNM 36/15, 7th Dist	354	11452_1	9/17/2015
+11452	Relocate	Sombrero Key Light	Fl (5) 60s 19ft 7M	N 24 37' 39.900"	W 081 06' 30.841"	24.62775	-81.10857	LNM 33/15, 7th Dist	354	11452_1	8/20/2015
+11452	Delete	Sombrero Key Light	Fl (5) 60s 142ft 12M RACON (__)	N 24 37' 40.240"	W 081 06' 38.927"	24.62784	-81.11081	LNM 31/15, 7th Dist	354	11452_1	8/13/2015
+11452	Add	Abandoned Light House	TOWER (ABAND LT HO)	N 24 37' 40.240"	W 081 06' 38.927"	24.62784	-81.11081	LNM 31/15, 7th Dist	354	11452_1	8/13/2015
+11452	Add	Sombrero Key Light	Fl (5) 60s 19ft 7M	N 24 37' 40.080"	W 081 06' 31.260"	24.6278	-81.10868	LNM 31/15, 7th Dist	354	11452_1	8/13/2015
+11452	Relocate	Bowlegs Cut Daybeacon 92	R "92"	N 24 54' 25.020"	W 080 43' 44.317"	24.90695	-80.72897	LNM 21/15, 7th Dist	354	11452_1	6/4/2015
+11452	Change	Snake Creek Light 2	Fl R 4s 16ft 5M "2"	N 24 56' 28.948"	W 080 34' 51.876"	24.94137	-80.58108	LNM 17/15, 7th Dist	354	11452_1	5/7/2015
+11452	Add	Sounding in Feet	27 Co Hd	N 24 40' 12.300"	W 081 01' 59.600"	24.67008	-81.03323	LNM 13/15, 7th Dist	354	11452_1	3/26/2015
+11452	Change	Channel Five Light 2	Fl R 4s 16ft 5M "2"	N 24 48' 53.603"	W 080 46' 28.388"	24.81489	-80.77455	LNM 09/15, 7th Dist	354	11452_1	3/12/2015
+11452	Change	Bamboo Key Light 13	Fl G 6s 16ft 5M "13"	N 24 46' 20.984"	W 081 01' 50.233"	24.7725	-81.03062	LNM 51/14, 7th Dist	354	11452_1	1/1/2015
+11452	Change	East Turtle Shoal Light 45	Q G 20ft 4M "45"	N 24 43' 28.774"	W 080 55' 59.001"	24.72466	-80.93305	LNM 37/14, 7th Dist	354	11452_1	9/25/2014
+11452	Change	Arsenic Bank Light 1	Fl G 4s 16ft 5M "1"	N 24 52' 15.285"	W 080 53' 02.339"	24.87091	-80.88398	LNM 36/14, 7th Dist	354	11452_1	9/18/2014

@@ -1,0 +1,4 @@
+Chart: 1113A, Current Edition: 31, Print Date: Jun. /2017, Havana to Tampa Bay (Oil and Gas Leasing Areas)
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+1113A	Change	New Pass Entrance Light NP	Q 16ft 4M "NP"	N 27 18' 55.113"	W 082 35' 53.168"	27.31531	-82.5981	LNM 26/17, 7th Dist	2993	1113A_1	6/29/2017
+1113A	Delete	Fort Jefferson Lighted Buoy C	Y "C" Fl Y 4s	N 24 34' 00.000"	W 082 58' 00.000"	24.56667	-82.96667	LNM 23/17, 7th Dist	2993	1113A_1	6/22/2017

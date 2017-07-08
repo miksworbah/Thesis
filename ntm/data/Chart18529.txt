@@ -1,0 +1,9 @@
+Chart: 18529, Current Edition: 10, Print Date: Sep. /2002, Willamette River  Walnut Eddy To Newburg
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18529	Relocate	Rocky Reef Range Front Daybeacon	RB Bn	N 45 17' 39.098"	W 122 41' 02.692"	45.29419	-122.6841	LNM 29/13, 13th Dist	1748	18529_1	9/30/2013
+18529	Relocate	Rocky Reef Range Rear Daybeacon	RB Bn	N 45 17' 40.444"	W 122 41' 05.194"	45.29457	-122.6848	LNM 29/13, 13th Dist	1748	18529_1	9/30/2013
+18529	Change	Cable Ferry text	Cable Ferry (see note)	N 45 16' 19.000"	W 122 58' 57.000"	45.27195	-122.9825	LNM 38/08, 13th Dist	1749	18529_2	9/26/2008
+18529	Change	Cable Ferry text	Cable Ferry (see note)	N 45 16' 12.000"	W 122 58' 44.000"	45.27	-122.9789	LNM 38/08, 13th Dist	1749	18529_2	9/26/2008
+18529	Change	Cable Ferry text	Cable Ferry (see note)	N 45 18' 06.000"	W 122 41' 34.000"	45.30167	-122.6928	LNM 38/08, 13th Dist	1748	18529_1	9/26/2008
+18529	Change	Cable Ferry text	Cable Ferry (see note)	N 45 17' 54.000"	W 122 41' 38.000"	45.29833	-122.6939	LNM 38/08, 13th Dist	1748	18529_1	9/26/2008
+18529	Add	chartlet	chartlet	N 45 18' 59.000"	W 122 41' 42.000"	45.31639	-122.695	LNM 09/05, 13th Dist	1748	18529_1	2/13/2008

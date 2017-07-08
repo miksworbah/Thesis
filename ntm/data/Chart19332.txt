@@ -1,0 +1,2 @@
+Chart: 19332, Current Edition: 9, Print Date: Feb. /2016, Kealakekua Bay to Hönaunau Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

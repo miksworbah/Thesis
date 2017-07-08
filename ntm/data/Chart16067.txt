@@ -1,0 +1,2 @@
+Chart: 16067, Current Edition: 8, Print Date: Jan. /2015, Approaches to Smith  Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

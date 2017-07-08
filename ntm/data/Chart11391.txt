@@ -1,0 +1,23 @@
+Chart: 11391, Current Edition: 26, Print Date: Sep. /2015, St. Andrew Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11391	Change	Grand Lagoon Channel Light 5	Fl G 4s 17ft 4M "5" Ra Ref	N 30 08' 25.188"	W 085 44' 05.109"	30.14033	-85.73475	LNM 13/17, 8th Dist	140	11391_1	4/6/2017
+11391	Delete	Note	St. Andrew Bay east entrance channel is constantly shifting. Use new channel 7 mile NW.	N 30 03' 41.420"	W 085 37' 33.530"	30.06151	-85.62598	LNM 10/17, 8th Dist	140	11391_1	3/9/2017
+11391	Delete	COLREG Demarcation Line and label PT 1 OF 2	COLREGS DEMARCATION LINE 80.810d (see note A)	N 30 04' 07.000"	W 085 37' 33.050"	30.06861	-85.62585	LNM 10/17, 8th Dist	140	11391_1	3/9/2017
+11391	Delete	COLREG Demarcation Line and label PT 2 OF 2	COLREGS DEMARCATION LINE 80.810d (see note A)	N 30 03' 49.280"	W 085 36' 47.480"	30.06369	-85.61319	LNM 10/17, 8th Dist	140	11391_1	3/9/2017
+11391	Delete	TERRITORIAL SEA line and label PT 1 OF 2	TERRITORIAL SEA (see note X)	N 30 04' 07.960"	W 085 37' 24.050"	30.06888	-85.62334	LNM 10/17, 8th Dist	140	11391_1	3/9/2017
+11391	Delete	TERRITORIAL SEA line and label PT 2 OF 2	TERRITORIAL SEA (see note X)	N 30 04' 01.730"	W 085 36' 56.970"	30.06715	-85.61582	LNM 10/17, 8th Dist	140	11391_1	3/9/2017
+11391	Add	Dangerous Wreck	PA     Chart No. 1: K28	N 30 08' 00.000"	W 085 43' 42.000"	30.13333	-85.72833	LNM 48/16, 8th Dist	140	11391_1	12/8/2016
+11391	Change	tabulation - PANAMA CITY HARBOR CHANNEL DEPTHS	tabulation - PANAMA CITY HARBOR CHANNEL DEPTHS	N 30 11' 25.000"	W 085 48' 00.000"	30.19028	-85.8	LNM 50/16, 8th Dist	140	11391_1	12/8/2016
+11391	Change	Depth Note - GRAND LAGOON CHANNEL to:	The controlling depth was 7 1/2 feet for a width of 100 feet to daybeacon #11 (30°08'52.3"N 85°44'50.2"W), thence 6 1/2 feet for a width of 100 feet. Mar 2016	N 30 09' 18.000"	W 085 44' 20.000"	30.155	-85.73889	LNM 50/16, 8th Dist	140	11391_1	12/8/2016
+11391	Delete	Shoal Point Bayou Channel Buoy 5	G C "5"	N 30 05' 36.043"	W 085 35' 14.983"	30.09335	-85.58749	LNM 09/16, 8th Dist	140	11391_1	3/10/2016
+11391	Delete	West Grand Lagoon Channel Danger Daybeacon	W Bn Priv	N 30 09' 53.280"	W 085 46' 42.560"	30.1648	-85.77849	LNM 50/15, 8th Dist	140	11391_1	12/24/2015
+11391	Change	St Andrew Bay Entrance Lighted Buoy SA	RW "SA" Mo (A) AIS	N 30 05' 29.735"	W 085 46' 25.752"	30.09159	-85.77382	LNM 47/15, 8th Dist	140	11391_1	12/10/2015
+11391	Relocate	Grand Lagoon Channel Junction Light A	Fl (2+1) G 6s 17ft 3M "A"	N 30 08' 42.241"	W 085 44' 30.658"	30.14507	-85.74185	LNM 47/15, 8th Dist	140	11391_1	12/10/2015
+11391	Delete	St Andrew Bay Light 19	Fl G 2.5s 17ft 3M "19"	N 30 08' 36.127"	W 085 39' 30.970"	30.14337	-85.6586	LNM 45/15, 8th Dist	140	11391_1	11/19/2015
+11391	Add	St Andrew Bay Lighted Buoy 19	G "19" Fl G 2.5s	N 30 08' 33.926"	W 085 39' 32.985"	30.14276	-85.65916	LNM 45/15, 8th Dist	140	11391_1	11/19/2015
+11391	Add	St. Andrews State Park Danger Breakwater Lightl	Fl 2.5s Priv	N 30 07' 32.520"	W 085 43' 50.880"	30.1257	-85.7308	LNM 40/15, 8th Dist	140	11391_1	10/15/2015
+11391	Add	St. Andrews State Park Danger Breakwater Light	FL 2.5s Priv	N 30 07' 33.960"	W 085 43' 47.640"	30.1261	-85.7299	LNM 40/15, 8th Dist	140	11391_1	10/15/2015
+11391	Add	St. Andrews State Park Danger Breakwater Light	FL 2.5s Priv	N 30 07' 35.040"	W 085 43' 44.760"	30.1264	-85.7291	LNM 40/15, 8th Dist	140	11391_1	10/15/2015
+11391	Add	St. Andrews State Park Danger Breakwater Light	FL 2.5s Priv	N 30 07' 36.810"	W 085 43' 40.240"	30.12689	-85.72784	LNM 40/15, 8th Dist	140	11391_1	10/15/2015
+11391	Change	tabulation - PANAMA CITY HARBOR CHANNEL DEPTHS	tabulation - PANAMA CITY HARBOR CHANNEL DEPTHS	N 30 11' 25.000"	W 085 48' 00.000"	30.19028	-85.8	LNM 39/15, 8th Dist	140	11391_1	10/1/2015
+11391	Delete	Dangerous Wreck	PD      Chart No. 1: K28	N 30 05' 01.200"	W 085 45' 59.530"	30.08367	-85.76653	LNM 39/15, 8th Dist	140	11391_1	10/1/2015

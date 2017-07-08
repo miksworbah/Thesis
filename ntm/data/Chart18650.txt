@@ -1,0 +1,7 @@
+Chart: 18650, Current Edition: 58, Print Date: Jan. /2017, San Francisco Bay Candlestick Point to Angel Island
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18650	Relocate	Pier D South Buoy	RG N	N 37 48' 00.223"	W 122 22' 26.461"	37.80006	-122.374	LNM 16/17, 11th Dist	1824	18650_1	4/27/2017
+18650	Add	Dangerous Wreck	PA	N 37 48' 30.000"	W 122 21' 12.000"	37.80833	-122.3533	LNM 15/17, 11th Dist	1824	18650_1	4/20/2017
+18650	Add	Visible Wreck	None	N 37 46' 44.000"	W 122 14' 37.000"	37.77889	-122.2436	LNM 12/17, 11th Dist	1824	18650_1	4/6/2017
+18650	Add	Dangerous Wreck	None	N 37 47' 18.910"	W 122 15' 51.600"	37.78859	-122.2643	LNM 12/17, 11th Dist	1824	18650_1	4/6/2017
+18650	Change	Tabulation - Oakland Outer and Inner Harbors	Tabulation - Oakland Outer and Inner Harbors	N 37 48' 37.000"	W 122 17' 23.000"	37.81028	-122.2897	LNM 08/17, 11th Dist	1824	18650_1	2/16/2017

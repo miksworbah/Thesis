@@ -1,0 +1,153 @@
+Chart: 11341, Current Edition: 44, Print Date: Mar. /2013, Calcasieu Pass to Sabine Pass
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11341	Delete	Platform (Union Texas-108-3)	Chart No. 1: L10	N 29 39' 29.000"	W 093 23' 26.000"	29.65806	-93.39056	LNM 25/17, 8th Dist	124	11341_1	6/29/2017
+11341	Delete	Platform (Energy Resource-102-10)	Chart No. 1: L10	N 29 23' 35.440"	W 093 19' 18.050"	29.39318	-93.32168	LNM 21/17, 8th Dist	124	11341_1	6/8/2017
+11341	Add	Platform (Chevron-202-1)	Chart No. 1: L10	N 29 34' 27.000"	W 093 36' 34.000"	29.57417	-93.60944	LNM 18/17, 8th Dist	124	11341_1	5/11/2017
+11341	Delete	Platform (Chevron-121-28)	Chart No. 1: L10	N 29 40' 33.000"	W 093 44' 08.000"	29.67583	-93.73556	LNM 15/17, 8th Dist	124	11341_1	4/20/2017
+11341	Delete	Platform (Chevron-121-14)	Chart No. 1: L10	N 29 41' 01.000"	W 093 43' 07.000"	29.68361	-93.71861	LNM 13/17, 8th Dist	124	11341_1	4/6/2017
+11341	Delete	Platform (Chevron-121-24)	Chart No. 1: L10	N 29 41' 12.000"	W 093 43' 49.000"	29.68667	-93.73028	LNM 13/17, 8th Dist	124	11341_1	4/6/2017
+11341	Delete	Platform (Chevron-121-25)	Chart No. 1: L10	N 29 38' 52.000"	W 093 43' 20.000"	29.64778	-93.72222	LNM 13/17, 8th Dist	124	11341_1	4/6/2017
+11341	Delete	Platform (Chevron-121-26)	Chart No. 1: L10	N 29 40' 28.000"	W 093 43' 27.000"	29.67444	-93.72417	LNM 13/17, 8th Dist	124	11341_1	4/6/2017
+11341	Delete	Platform (Chevron-121-37)	Chart No. 1: L10	N 29 40' 46.000"	W 093 43' 10.000"	29.67945	-93.71944	LNM 13/17, 8th Dist	124	11341_1	4/6/2017
+11341	Delete	Platform (Chevron-121-38)	Chart No. 1: L10	N 29 40' 28.000"	W 093 44' 45.000"	29.67444	-93.74583	LNM 13/17, 8th Dist	124	11341_1	4/6/2017
+11341	Delete	Platform (Chevron-121-40)	Chart No. 1: L10	N 29 41' 01.000"	W 093 43' 26.000"	29.68361	-93.72389	LNM 13/17, 8th Dist	124	11341_1	4/6/2017
+11341	Delete	Platform (Chevron-121-59)	Chart No. 1: L10	N 29 40' 52.998"	W 093 26' 17.087"	29.68139	-93.43808	LNM 13/17, 8th Dist	124	11341_1	4/6/2017
+11341	Delete	Platform (Chevron-121-12)	Chart No. 1: L10	N 29 40' 31.000"	W 093 43' 49.000"	29.67528	-93.73028	LNM 12/17, 8th Dist	124	11341_1	3/30/2017
+11341	Delete	Platform:  (Apache-105-45)	Chart No. 1: L10	N 29 20' 36.722"	W 093 32' 02.985"	29.34353	-93.53416	LNM 45/16, 8th Dist	124	11341_1	11/17/2016
+11341	Delete	Platform:  (Fieldwood-109-42)	Chart No. 1: L10	N 29 17' 32.300"	W 093 36' 54.910"	29.2923	-93.61525	LNM 44/16, 8th Dist	124	11341_1	11/10/2016
+11341	Add	Submerged Obstruction 	Obstn PA	N 29 44' 08.800"	W 093 20' 24.100"	29.73578	-93.34003	LNM 43/16, 8th Dist	124	11341_1	11/3/2016
+11341	Add	Submerged Obstruction	Obstn PA	N 29 44' 11.000"	W 093 20' 21.000"	29.73639	-93.33916	LNM 43/16, 8th Dist	124	11341_1	11/3/2016
+11341	Delete	Platform:  (W & T Offshore-105-8)	Chart No. 1: L10	N 29 16' 55.564"	W 093 47' 30.239"	29.2821	-93.79173	LNM 43/16, 8th Dist	124	11341_1	11/3/2016
+11341	Delete	Platform:  (Fieldwood-111-17)	Chart No. 1: L10	N 29 18' 11.941"	W 093 57' 42.251"	29.30332	-93.96174	LNM 42/16, 8th Dist	124	11341_1	10/27/2016
+11341	Delete	Platform:  (Apache-105-50)	Chart No. 1: L10	N 29 29' 50.967"	W 093 20' 37.108"	29.49749	-93.34364	LNM 41/16, 8th Dist	124	11341_1	10/27/2016
+11341	Delete	Platform:  (Apache-105-50)	Chart No. 1: L10	N 29 21' 18.640"	W 093 32' 51.530"	29.35518	-93.54765	LNM 40/16, 8th Dist	124	11341_1	10/13/2016
+11341	Delete	Platform:  (Devon-102-2)	Chart No. 1: L10	N 29 21' 03.340"	W 093 32' 52.460"	29.35093	-93.5479	LNM 39/16, 8th Dist	124	11341_1	10/6/2016
+11341	Delete	Platform:  (ENI-124-15)	Chart No. 1: L10	N 29 28' 29.340"	W 093 30' 25.977"	29.47482	-93.50722	LNM 37/16, 8th Dist	124	11341_1	9/22/2016
+11341	Add	Submarine Pipeline  PT 1 OF 5	Chart No. 1: L40.1	N 29 24' 25.970"	W 093 24' 18.360"	29.40721	-93.4051	LNM 37/16, 8th Dist	124	11341_1	9/8/2016
+11341	Add	Submarine Pipeline  PT 2 OF 5	Chart No. 1: L40.1	N 29 25' 24.410"	W 093 24' 40.990"	29.42345	-93.41138	LNM 37/16, 8th Dist	124	11341_1	9/8/2016
+11341	Add	Submarine Pipeline  PT 3 OF 5	Chart No. 1: L40.1	N 29 25' 58.900"	W 093 25' 03.240"	29.43303	-93.41756	LNM 37/16, 8th Dist	124	11341_1	9/8/2016
+11341	Add	Submarine Pipeline  PT 4 OF 5	Chart No. 1: L40.1	N 29 26' 35.370"	W 093 25' 20.030"	29.44316	-93.42223	LNM 37/16, 8th Dist	124	11341_1	9/8/2016
+11341	Add	Submarine Pipeline  PT 5 OF 5	Chart No. 1: L40.1	N 29 26' 26.500"	W 093 25' 38.400"	29.44069	-93.42733	LNM 37/16, 8th Dist	124	11341_1	9/8/2016
+11341	Add	Submarine Pipeline  PT 1 OF 2	Chart No. 1: L40.1	N 29 16' 29.080"	W 093 52' 27.240"	29.27474	-93.87424	LNM 34/16, 8th Dist	124	11341_1	8/25/2016
+11341	Add	Submarine Pipeline  PT 2 OF 2	Chart No. 1: L40.1	N 29 17' 00.860"	W 093 52' 22.250"	29.28357	-93.87285	LNM 34/16, 8th Dist	124	11341_1	8/25/2016
+11341	Add	Wreck in Feet	53 Wk      Chart No. 1: K26	N 29 15' 37.100"	W 093 20' 08.900"	29.26031	-93.33581	LNM 30/16, 8th Dist	124	11341_1	8/25/2016
+11341	Add	Dangerous Wreck PA Masts	Masts PA    Chart No. 1: K25	N 29 45' 57.000"	W 093 26' 19.000"	29.76583	-93.43861	LNM 27/16, 8th Dist	124	11341_1	7/14/2016
+11341	Add	Platform: (Cox-103-08)	Chart No. 1: L10	N 29 42' 23.809"	W 093 42' 51.066"	29.70661	-93.71419	LNM 26/16, 8th Dist	124	11341_1	7/14/2016
+11341	Add	Platform: (Cox-103-09)	Chart No. 1: L10	N 29 40' 29.828"	W 093 45' 37.321"	29.67495	-93.76037	LNM 26/16, 8th Dist	124	11341_1	7/14/2016
+11341	Delete	Platform:(Energy Xxi-112-500)	Chart No. 1: L10	N 29 40' 25.074"	W 093 23' 59.646"	29.67363	-93.3999	LNM 17/16, 8th Dist	124	11341_1	5/5/2016
+11341	Delete	Platform:(Energy Partners-103-500)	Chart No. 1: L10	N 29 27' 33.632"	W 093 53' 23.694"	29.45934	-93.88992	LNM 16/16, 8th Dist	124	11341_1	4/28/2016
+11341	Delete	Platform: (Energy Resource-102-12)	Chart No. 1: L10	N 29 24' 39.331"	W 093 22' 52.893"	29.41092	-93.38136	LNM 13/16, 8th Dist	124	11341_1	4/7/2016
+11341	Add	Obstruction in Feet	35 Obstn       Chart No. 1: K41	N 29 24' 00.800"	W 093 23' 15.000"	29.40022	-93.3875	LNM 04/16, 8th Dist	124	11341_1	1/28/2016
+11341	Add	Platform (Fieldwood-109-47)	Chart No. 1: L10	N 29 43' 57.580"	W 093 30' 51.740"	29.73266	-93.51437	LNM 02/16, 8th Dist	124	11341_1	1/21/2016
+11341	Delete	Sounding in Feet	39	N 29 26' 47.500"	W 093 30' 22.300"	29.44653	-93.5062	LNM 51/15, 8th Dist	124	11341_1	12/17/2015
+11341	Add	Obstruction in Feet	37 Obstn       Chart No. 1: K41	N 29 26' 22.000"	W 093 27' 46.900"	29.43944	-93.46303	LNM 51/15, 8th Dist	124	11341_1	12/17/2015
+11341	Add	Obstruction in Feet	37 Obstn       Chart No. 1: K41	N 29 26' 23.600"	W 093 33' 47.500"	29.43989	-93.56319	LNM 51/15, 8th Dist	124	11341_1	12/17/2015
+11341	Add	Obstruction in Feet	34 Obstn       Chart No. 1: K41	N 29 26' 50.100"	W 093 30' 24.900"	29.44725	-93.50692	LNM 51/15, 8th Dist	124	11341_1	12/17/2015
+11341	Add	Obstruction in Feet	29 Obstn       Chart No. 1: K41	N 29 29' 03.100"	W 093 30' 09.600"	29.48419	-93.50267	LNM 50/15, 8th Dist	124	11341_1	12/17/2015
+11341	Delete	Platform: (Fieldwood-109-29)	Chart No. 1: L10	N 29 15' 03.720"	W 093 36' 19.551"	29.25103	-93.60543	LNM 49/15, 8th Dist	124	11341_1	12/17/2015
+11341	Delete	Platform: (Fieldwood-109-43)	Chart No. 1: L10	N 29 16' 43.630"	W 093 36' 08.778"	29.27879	-93.60244	LNM 49/15, 8th Dist	124	11341_1	12/17/2015
+11341	Delete	Platform: (Apache-105-500)	Chart No. 1: L10	N 29 21' 33.789"	W 093 33' 08.098"	29.35939	-93.55225	LNM 49/15, 8th Dist	124	11341_1	12/17/2015
+11341	Add	Submarine Pipeline  PT 1 OF 5	Chart No. 1: L40.1	N 29 17' 03.480"	W 093 52' 21.820"	29.2843	-93.87273	LNM 41/15, 8th Dist	124	11341_1	10/8/2015
+11341	Add	Submarine Pipeline  PT 2 OF 5	Chart No. 1: L40.1	N 29 17' 20.520"	W 093 52' 35.280"	29.28903	-93.87646	LNM 41/15, 8th Dist	124	11341_1	10/8/2015
+11341	Add	Submarine Pipeline  PT 3 OF 5	Chart No. 1: L40.1	N 29 17' 37.910"	W 093 52' 59.630"	29.29386	-93.88323	LNM 41/15, 8th Dist	124	11341_1	10/8/2015
+11341	Add	Submarine Pipeline  PT 4 OF 5	Chart No. 1: L40.1	N 29 19' 05.270"	W 093 56' 54.450"	29.31813	-93.94846	LNM 41/15, 8th Dist	124	11341_1	10/8/2015
+11341	Add	Submarine Pipeline  PT 5 OF 5	Chart No. 1: L40.1	N 29 19' 13.370"	W 093 57' 21.140"	29.32038	-93.95587	LNM 41/15, 8th Dist	124	11341_1	10/8/2015
+11341	Delete	Platform (Apache-150-1)	Chart No. 1: L10	N 29 31' 56.384"	W 093 47' 47.852"	29.53233	-93.79662	LNM 37/15, 8th Dist	124	11341_1	9/24/2015
+11341	Delete	Platform: (Stone Energy-108-15)	Chart No. 1: L10	N 29 41' 00.717"	W 093 35' 16.711"	29.68353	-93.58797	LNM 36/15, 8th Dist	124	11341_1	9/17/2015
+11341	Delete	Platform: (Stone Energy-108-10)	Chart No. 1: L10	N 29 38' 59.400"	W 093 35' 36.000"	29.64983	-93.59333	LNM 36/15, 8th Dist	124	11341_1	9/17/2015
+11341	Delete	Platform (Mariner-104-10)	Chart No. 1: L10	N 29 15' 34.214"	W 093 19' 51.366"	29.2595	-93.33093	LNM 34/15, 8th Dist	124	11341_1	9/10/2015
+11341	Delete	Obstruction	Obstn PA         Chart No. 1: K40	N 29 44' 18.000"	W 093 20' 18.000"	29.73833	-93.33833	LNM 36/15, 8th Dist	124	11341_1	9/10/2015
+11341	Change	tabulation - SABINE PASS CHANNEL DEPTHS	tabulation - SABINE PASS CHANNEL DEPTHS	N 29 46' 07.000"	W 093 48' 28.000"	29.76861	-93.80778	LNM 36/15, 8th Dist	124	11341_1	9/3/2015
+11341	Add	Platform (Northstar-107-9)	Chart No. 1: L10	N 29 41' 48.710"	W 093 34' 47.783"	29.69686	-93.57994	LNM 29/15, 8th Dist	124	11341_1	7/30/2015
+11341	Add	Platform (Northstar-107-10)	Chart No. 1: L10	N 29 41' 28.438"	W 093 35' 57.660"	29.69123	-93.59935	LNM 29/15, 8th Dist	124	11341_1	7/30/2015
+11341	Add	Platform (Northstar-107-11)	Chart No. 1: L10	N 29 41' 36.869"	W 093 35' 51.050"	29.69357	-93.59751	LNM 29/15, 8th Dist	124	11341_1	7/30/2015
+11341	Add	Platform (Northstar-107-12)	Chart No. 1: L10	N 29 41' 37.319"	W 093 35' 53.160"	29.6937	-93.5981	LNM 29/15, 8th Dist	124	11341_1	7/30/2015
+11341	Add	Platform (Northstar-107-13)	Chart No. 1: L10	N 29 41' 36.168"	W 093 34' 53.184"	29.69338	-93.58144	LNM 29/15, 8th Dist	124	11341_1	7/30/2015
+11341	Delete	Platform: (ENI-100-12)	Chart No. 1: L10	N 29 28' 29.340"	W 093 30' 25.980"	29.47482	-93.50722	LNM 28/15, 8th Dist	124	11341_1	7/23/2015
+11341	Delete	Platform: (Apache-105-55)	Chart No. 1: L10	N 29 40' 47.043"	W 093 20' 25.958"	29.67973	-93.34055	LNM 02/15, 8th Dist	124	11341_1	1/22/2015
+11341	Change	Sabine Bank Channel Lighted Buoy 29	G "29" Q G	N 29 35' 53.812"	W 093 48' 20.590"	29.59828	-93.80572	LNM 02/15, 8th Dist	124	11341_1	1/22/2015
+11341	Add	Platform: (Castex-102-4)	Chart No. 1: L10	N 29 16' 27.315"	W 093 52' 26.878"	29.27425	-93.87413	LNM 51/14, 8th Dist	124	11341_1	1/8/2015
+11341	Delete	Platform:(Stone Energy-108-90)	Chart No 1: L-10	N 29 38' 20.111"	W 093 36' 26.924"	29.63892	-93.60748	LNM 47/14, 8th Dist	124	11341_1	12/11/2014
+11341	Delete	Platform: (Stone Energy-108-17)	Chart No 1: L-10	N 29 40' 21.000"	W 093 36' 17.000"	29.6725	-93.60472	LNM 47/14, 8th Dist	124	11341_1	12/11/2014
+11341	Delete	Platform: (Stone Energy-108-20)	Chart No 1: L-10	N 29 40' 23.331"	W 093 36' 16.777"	29.67315	-93.60466	LNM 47/14, 8th Dist	124	11341_1	12/11/2014
+11341	Delete	Platform: (Stone Energy-108-16)	Chart No 1: L-10	N 29 41' 20.000"	W 093 34' 35.000"	29.68889	-93.57639	LNM 47/14, 8th Dist	124	11341_1	12/11/2014
+11341	Delete	Platform: (Stone Energy-108-13)	Chart No 1: L-10	N 29 41' 19.880"	W 093 34' 29.580"	29.68886	-93.57488	LNM 47/14, 8th Dist	124	11341_1	12/11/2014
+11341	Delete	Platform: (Stone Energy-108-14)	Chart No 1: L-10	N 29 41' 18.017"	W 093 34' 35.479"	29.68834	-93.57652	LNM 47/14, 8th Dist	124	11341_1	12/11/2014
+11341	Delete	Platform: (Stone Energy-108-11)	Chart No 1: L-10	N 29 38' 48.000"	W 093 35' 56.000"	29.64667	-93.59889	LNM 47/14, 8th Dist	124	11341_1	12/11/2014
+11341	Delete	Platform: (Stone Energy-108-1)	Chart No 1: L-10	N 29 38' 20.523"	W 093 36' 30.319"	29.63903	-93.60842	LNM 47/14, 8th Dist	124	11341_1	12/11/2014
+11341	Delete	Platform: (Stone Energy-108-12)	Chart No 1: L-10	N 29 40' 53.167"	W 093 35' 57.437"	29.68143	-93.59929	LNM 47/14, 8th Dist	124	11341_1	12/11/2014
+11341	Delete	Platform: (McMoran-999-25)	Chart No 1: L-10	N 29 41' 50.045"	W 093 28' 58.110"	29.69724	-93.48281	LNM 40/14, 8th Dist	124	11341_1	10/23/2014
+11341	Add	Platform: (W&T Offshore-104-8)(Supersedes 37/14)	Chart No 1: L-10	N 29 26' 42.313"	W 093 23' 55.097"	29.44509	-93.39864	LNM 38/14, 8th Dist	124	11341_1	10/2/2014
+11341	Change	tabulation - SABINE PASS CHANNEL DEPTHS	tabulation - SABINE PASS CHANNEL DEPTHS	N 29 46' 07.000"	W 093 48' 28.000"	29.76861	-93.80778	LNM 40/14, 8th Dist	124	11341_1	10/2/2014
+11341	Delete	Platform: (Chevron-121-42)	Chart No 1: L-10	N 29 41' 54.742"	W 093 39' 32.494"	29.69854	-93.65903	LNM 37/14, 8th Dist	124	11341_1	10/2/2014
+11341	Delete	Platform: (Chevron-137-4)	Chart No 1: L-10	N 29 41' 42.000"	W 093 40' 19.000"	29.695	-93.67194	LNM 37/14, 8th Dist	124	11341_1	10/2/2014
+11341	Change	tabulation - SABINE PASS CHANNEL DEPTHS	tabulation - SABINE PASS CHANNEL DEPTHS	N 29 46' 07.000"	W 093 48' 28.000"	29.76861	-93.80778	LNM 37/14, 8th Dist	124	11341_1	9/11/2014
+11341	Add	PORT ARTHUR VTS AREA NOTE C:	The U.S. Coast Guard operates a mandatory Vessel Traffic Service (VTS) on the Sabine -Neches Waterway and offshore approaches. Vessel operating procedures, mandatory participation boundaries, and designated radiotelephone frequencies are published in 33 CFR 161, the U.S. Coast Pilot, and the VTS Port Arthur User Manual. Mariners should consult these sources for applicable rules and reporting requirements. "Port Arthur Traffic" is a full service VTS, providing a continuous Information Service; Traffic Organization Services and Navigational Assistance Services as required. 	N 29 44' 01.100"	W 093 48' 23.600"	29.73364	-93.80656	LNM 37/14, 8th Dist	124	11341_1	9/11/2014
+11341	Add	label:	PORT ARTHUR VESSEL TRAFFIC SERVICES AREA (see note C) 	N 29 27' 54.700"	W 093 58' 07.300"	29.46519	-93.9687	LNM 37/14, 8th Dist	124	11341_1	9/11/2014
+11341	Add	label:	PORT ARTHUR VESSEL TRAFFIC SERVICES AREA (see note C)	N 29 35' 54.200"	W 093 47' 16.500"	29.59839	-93.78792	LNM 37/14, 8th Dist	124	11341_1	9/11/2014
+11341	Add	label:	PORT ARTHUR VESSEL TRAFFIC SERVICES AREA (see note C) 	N 29 35' 00.700"	W 093 27' 58.600"	29.58353	-93.46628	LNM 37/14, 8th Dist	124	11341_1	9/11/2014
+11341	Add	label:	PORT ARTHUR VESSEL TRAFFIC SERVICES AREA (see note C)	N 29 24' 45.100"	W 093 39' 43.100"	29.41253	-93.66197	LNM 37/14, 8th Dist	124	11341_1	9/11/2014
+11341	Delete	Platform: (Fieldwood-111-1) 	Chart No 1: L-10	N 29 18' 37.533"	W 093 56' 41.546"	29.31043	-93.94488	LNM 33/14, 8th Dist	124	11341_1	8/28/2014
+11341	Delete	Platform: (Chevron-121-27)	Chart No. 1: L10	N 29 41' 48.000"	W 093 43' 26.000"	29.69667	-93.72389	LNM 28/14, 8th Dist	124	11341_1	7/24/2014
+11341	Delete	Platform: (Chevron-121-32)	Chart No. 1: L10	N 29 41' 32.900"	W 093 43' 21.000"	29.69247	-93.7225	LNM 28/14, 8th Dist	124	11341_1	7/24/2014
+11341	Delete	Platform: (Chevron-121-44)	Chart No. 1: L10	N 29 40' 12.000"	W 093 41' 11.000"	29.67	-93.68639	LNM 28/14, 8th Dist	124	11341_1	7/24/2014
+11341	Delete	Platform: (Chevron-121-31)	Chart No. 1: L10	N 29 40' 53.600"	W 093 43' 39.400"	29.68155	-93.72761	LNM 28/14, 8th Dist	124	11341_1	7/24/2014
+11341	Delete	Platform: (Chevron-202-31)	Chart No. 1: L10	N 29 37' 49.270"	W 093 41' 15.010"	29.63035	-93.6875	LNM 28/14, 8th Dist	124	11341_1	7/24/2014
+11341	Delete	Platform	Chart No. 1: L10	N 29 15' 46.227"	W 093 49' 02.701"	29.26284	-93.81741	LNM 26/14, 8th Dist	124	11341_1	7/10/2014
+11341	Delete	Platform: (Energy Xxi-112-5)	Chart No. 1: L10	N 29 28' 29.000"	W 093 24' 35.000"	29.47472	-93.40972	LNM 24/14, 8th Dist	124	11341_1	6/26/2014
+11341	Change	Sabine Pass Jetty B Range Front Light	{Q 17ft (Day), Q R 20ft (Night)	N 29 41' 37.207"	W 093 50' 17.532"	29.69367	-93.8382	LNM 23/14, 8th Dist	124	11341_1	6/19/2014
+11341	Change	Sabine Pass Jetty B Range Rear Light	{Oc 4s 47ft (Day), Oc R 4s 50ft (Night)	N 29 41' 52.468"	W 093 50' 21.484"	29.69791	-93.8393	LNM 23/14, 8th Dist	124	11341_1	6/19/2014
+11341	Relocate	Calcasieu Channel Lighted Buoy 29	G "29" Fl G 2.5s	N 29 38' 38.991"	W 093 19' 34.160"	29.64417	-93.32616	LNM 14/14, 8th Dist	124	11341_1	4/17/2014
+11341	Add	Dump Site Legend	Dump Site (dredged material) (see note S) Depths from surveys of 1922-1999	N 29 23' 45.000"	W 093 42' 19.000"	29.39583	-93.70528	LNM 15/14, 8th Dist	124	11341_1	4/10/2014
+11341	Add	Dump Site Label	Dump Site (dredged material) (see note S) Depths from surveys of 1923-2000	N 29 18' 11.000"	W 093 42' 18.000"	29.30305	-93.705	LNM 15/14, 8th Dist	124	11341_1	4/10/2014
+11341	Add	Sabine-Neches Waterway site D dump site PT 1 OF 4	Chart No. 1 N24	N 29 15' 03.150"	W 093 43' 29.000"	29.25088	-93.72472	LNM 15/14, 8th Dist	124	11341_1	4/10/2014
+11341	Add	Sabine-Neches Waterway site D dump site PT 2 OF 4	Chart No. 1 N24	N 29 16' 22.000"	W 093 43' 29.000"	29.27278	-93.72472	LNM 15/14, 8th Dist	124	11341_1	4/10/2014
+11341	Add	Sabine-Neches Waterway site D dump site PT 3 OF 4	Chart No. 1 N24	N 29 16' 22.000"	W 093 41' 10.000"	29.27278	-93.68611	LNM 15/14, 8th Dist	124	11341_1	4/10/2014
+11341	Add	Sabine-Neches Waterway site D dump site PT 4 OF 4	Chart No. 1 N24	N 29 15' 03.150"	W 093 41' 10.000"	29.25088	-93.68611	LNM 15/14, 8th Dist	124	11341_1	4/10/2014
+11341	Add	Dump Site Label	Dump Site (dredged material) (see note S) Depths from survey of 2000	N 29 15' 31.000"	W 093 42' 15.000"	29.25861	-93.70417	LNM 15/14, 8th Dist	124	11341_1	4/10/2014
+11341	Add	Sabine-Neches Waterway site A dump site PT 1 OF 4	Chart No. 1 N24	N 29 24' 47.000"	W 093 43' 29.000"	29.41306	-93.72472	LNM 15/14, 8th Dist	124	11341_1	4/10/2014
+11341	Add	Sabine-Neches Waterway site A dump site PT 2 OF 4	Chart No. 1 N24	N 29 24' 47.000"	W 093 41' 08.000"	29.41306	-93.68555	LNM 15/14, 8th Dist	124	11341_1	4/10/2014
+11341	Add	Sabine-Neches Waterway site A dump site PT 3 OF 4	Chart No. 1 N24	N 29 22' 48.000"	W 093 41' 09.000"	29.38	-93.68584	LNM 15/14, 8th Dist	124	11341_1	4/10/2014
+11341	Add	Sabine-Neches Waterway site A dump site PT 4 OF 4	Chart No. 1 N24	N 29 22' 49.000"	W 093 43' 29.000"	29.38028	-93.72472	LNM 15/14, 8th Dist	124	11341_1	4/10/2014
+11341	Add	Sabine-Neches Waterway site C dump site PT 1 OF 4	Chart No. 1 N24	N 29 19' 11.000"	W 093 43' 29.000"	29.31972	-93.72472	LNM 15/14, 8th Dist	124	11341_1	4/10/2014
+11341	Add	Sabine-Neches Waterway site C dump site PT 2 OF 4	Chart No. 1 N24	N 29 19' 11.000"	W 093 41' 09.000"	29.31972	-93.68584	LNM 15/14, 8th Dist	124	11341_1	4/10/2014
+11341	Add	Sabine-Neches Waterway site C dump site PT 3 OF 4	Chart No. 1 N24	N 29 17' 12.000"	W 093 41' 09.000"	29.28667	-93.68584	LNM 15/14, 8th Dist	124	11341_1	4/10/2014
+11341	Add	Sabine-Neches Waterway site C dump site PT 4 OF 4	Chart No. 1 N24	N 29 17' 12.000"	W 093 43' 29.000"	29.28667	-93.72472	LNM 15/14, 8th Dist	124	11341_1	4/10/2014
+11341	Add	Sabine-Neches Waterway site B dump site PT 1 OF 4	Chart No. 1 N24	N 29 21' 59.000"	W 093 43' 29.000"	29.36639	-93.72472	LNM 15/14, 8th Dist	124	11341_1	4/10/2014
+11341	Add	Sabine-Neches Waterway site B dump site PT 2 OF 4	Chart No. 1 N24	N 29 21' 59.000"	W 093 41' 08.000"	29.36639	-93.68555	LNM 15/14, 8th Dist	124	11341_1	4/10/2014
+11341	Add	Sabine-Neches Waterway site B dump site PT 3 OF 4	Chart No. 1 N24	N 29 20' 00.000"	W 093 41' 09.000"	29.33333	-93.68584	LNM 15/14, 8th Dist	124	11341_1	4/10/2014
+11341	Add	Sabine-Neches Waterway site B dump site PT 4 OF 4	Chart No. 1 N24	N 29 20' 00.000"	W 093 43' 29.000"	29.33333	-93.72472	LNM 15/14, 8th Dist	124	11341_1	4/10/2014
+11341	Add	Dump Site Label	Dump Site (dredged material) (see note S) Depths from surveys of 1923-1999	N 29 20' 53.000"	W 093 42' 17.000"	29.34805	-93.70472	LNM 15/14, 8th Dist	124	11341_1	4/10/2014
+11341	Change	tabulation - SABINE PASS CHANNEL DEPTHS	tabulation - SABINE PASS CHANNEL DEPTHS	N 29 46' 07.000"	W 093 48' 28.000"	29.76861	-93.80778	LNM 13/14, 8th Dist	124	11341_1	3/27/2014
+11341	Add	Platform: (Castex-102-2)	Chart No. 1: L10	N 29 17' 02.624"	W 093 52' 21.208"	29.28406	-93.87256	LNM 51/13, 8th Dist	124	11341_1	12/23/2013
+11341	Delete	Platform: (Apache-115-62)	Chart No. 1: L10	N 29 27' 22.291"	W 093 53' 31.664"	29.45619	-93.89213	LNM 50/13, 8th Dist	124	11341_1	12/13/2013
+11341	Change	tabulation - SABINE PASS CHANNEL DEPTHS	tabulation - SABINE PASS CHANNEL DEPTHS	N 29 46' 07.000"	W 093 48' 28.000"	29.76861	-93.80778	LNM 51/13, 8th Dist	124	11341_1	12/13/2013
+11341	Add	Visible Obstruction	Obstn PA      Chart No. 1: F22	N 29 21' 15.000"	W 093 38' 00.000"	29.35417	-93.63333	LNM 45/13, 8th Dist	124	11341_1	11/8/2013
+11341	Delete	Platform: (Apache-115-80)	Chart No. 1: L10	N 29 26' 16.562"	W 093 52' 26.429"	29.43793	-93.87401	LNM 45/13, 8th Dist	124	11341_1	11/8/2013
+11341	Delete	Platform: (Stone Energy-108-18)	Chart No. 1: L10	N 29 38' 36.781"	W 093 35' 12.146"	29.64355	-93.58671	LNM 42/13, 8th Dist	124	11341_1	10/21/2013
+11341	Relocate	Calcasieu Channel A Range Front Light	{Fl 2.5s 47ft (Day), Fl R 2.5s 44ft (Night)	N 29 47' 07.531"	W 093 20' 52.052"	29.78543	-93.34779	LNM 42/13, 8th Dist	124	11341_1	10/21/2013
+11341	Change	Calcasieu Channel A Range Front Light	{Fl 2.5s 47ft (Day), Fl R 2.5s 44ft (Night)	N 29 47' 07.531"	W 093 20' 52.052"	29.78543	-93.34779	LNM 42/13, 8th Dist	124	11341_1	10/21/2013
+11341	Relocate	Calcasieu Channel A Range Rear Light	{F 145ft (Day), F R 148ft (Night)	N 29 48' 04.593"	W 093 21' 01.478"	29.80128	-93.35041	LNM 42/13, 8th Dist	124	11341_1	10/21/2013
+11341	Delete	Platform: (McMoran-999-31)	Chart No. 1: L10	N 29 18' 23.126"	W 093 37' 05.307"	29.30642	-93.61814	LNM 42/13, 8th Dist	124	11341_1	10/21/2013
+11341	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 30 ft)	N 29 18' 12.850"	W 093 55' 18.610"	29.30357	-93.92184	LNM 43/13, 8th Dist	124	11341_1	10/17/2013
+11341	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 29 18' 19.660"	W 093 55' 25.740"	29.30546	-93.92381	LNM 43/13, 8th Dist	124	11341_1	10/17/2013
+11341	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 29 18' 19.090"	W 093 55' 10.840"	29.3053	-93.91968	LNM 43/13, 8th Dist	124	11341_1	10/17/2013
+11341	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 29 18' 06.040"	W 093 55' 11.490"	29.30168	-93.91986	LNM 43/13, 8th Dist	124	11341_1	10/17/2013
+11341	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 29 18' 06.600"	W 093 55' 26.380"	29.30183	-93.924	LNM 43/13, 8th Dist	124	11341_1	10/17/2013
+11341	Delete	Sounding in Feet	36	N 29 18' 14.090"	W 093 55' 18.420"	29.30391	-93.92178	LNM 43/13, 8th Dist	124	11341_1	10/17/2013
+11341	Delete	Platform: (Apache-105-25)	Chart No. 1: L10	N 29 18' 44.057"	W 093 36' 35.597"	29.31224	-93.60989	LNM 40/13, 8th Dist	124	11341_1	10/4/2013
+11341	Delete	Platform: (Apache-115-20)	Chart No. 1: L10	N 29 18' 29.969"	W 093 36' 13.654"	29.30832	-93.60379	LNM 40/13, 8th Dist	124	11341_1	10/4/2013
+11341	Change	tabulation - Sabine Pass Channel Depths	tabulation - Sabine Pass Channel Depths	N 29 46' 07.000"	W 093 48' 28.000"	29.76861	-93.80778	LNM 38/13, 8th Dist	124	11341_1	9/11/2013
+11341	Add	Platform	Chart No. 1: L10	N 29 17' 42.265"	W 093 38' 16.274"	29.29507	-93.63786	WNM 37/13, NGA	124	11341_1	9/11/2013
+11341	Delete	Calcasieu Channel A Range Front Light Passing Ligh	Fl 4s 15ft 4M	N 29 46' 53.267"	W 093 20' 49.709"	29.78146	-93.34715	LNM 33/13, 8th Dist	124	11341_1	8/16/2013
+11341	Delete	Submerged Obstruction	Obstn PA      Chart No. 1: K40	N 29 24' 00.972"	W 093 23' 13.560"	29.40027	-93.3871	LNM 31/13, 8th Dist	124	11341_1	8/5/2013
+11341	Delete	Platform: (Linder Oil-105-5)	Platform      Chart No. 1: L10	N 29 24' 00.965"	W 093 23' 13.593"	29.40027	-93.38711	LNM 31/13, 8th Dist	124	11341_1	8/5/2013
+11341	Add	Calcasieu Channel A Range Rear Light	{F 145ft (Day), F R 148ft (Night)	N 29 48' 04.602"	W 093 21' 01.479"	29.80128	-93.35041	LNM 30/13, 8th Dist	124	11341_1	7/30/2013
+11341	Delete	Calcasieu Channel A Range Rear Light	F R 90ft	N 29 47' 07.528"	W 093 20' 52.051"	29.78543	-93.34779	LNM 30/13, 8th Dist	124	11341_1	7/30/2013
+11341	Add	Calcasieu Channel A Range Front Light	{Fl 2.5s 48ft (Day), Fl R 2.5s 45ft (Night)	N 29 47' 07.528"	W 093 20' 52.051"	29.78543	-93.34779	LNM 30/13, 8th Dist	124	11341_1	7/30/2013
+11341	Relocate	Calcasieu Channel A Range Front Light Passing Light	Fl 4s 15ft 4M	N 29 46' 53.267"	W 093 20' 49.709"	29.78146	-93.34715	LNM 30/13, 8th Dist	124	11341_1	7/30/2013
+11341	Delete	Calcasieu Channel A Range Front Light	Fl R 2.5s 45ft	N 29 46' 53.243"	W 093 20' 49.702"	29.78146	-93.34714	LNM 30/13, 8th Dist	124	11341_1	7/30/2013
+11341	Add	Platform: (Diamond Offshore-100-1)	Chart No. 1: L10	N 29 29' 23.283"	W 093 36' 04.053"	29.4898	-93.60113	LNM 22/13, 8th Dist	124	11341_1	6/4/2013
+11341	Change	tabulation - SABINE PASS CHANNEL DEPTHS	tabulation - SABINE PASS CHANNEL DEPTHS	N 29 46' 07.000"	W 093 48' 28.000"	29.76861	-93.80778	LNM 21/13, 8th Dist	124	11341_1	5/17/2013
+11341	Delete	Platform: (Helis-105-3)	Chart No. 1: L10	N 29 16' 26.840"	W 093 47' 54.416"	29.27412	-93.79845	LNM 13/13, 8th Dist	124	11341_1	4/2/2013
+11341	Delete	Platform: (Helis-105-7)	Chart No. 1: L10	N 29 16' 10.697"	W 093 48' 14.499"	29.26964	-93.80402	LNM 13/13, 8th Dist	124	11341_1	4/2/2013

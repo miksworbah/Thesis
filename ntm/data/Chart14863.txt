@@ -1,0 +1,59 @@
+Chart: 14863, Current Edition: 32, Print Date: Mar. /2014, Saginaw Bay;Port Austin Harbor;Caseville Harbor;Entrance to Au Sable River;Sebewaing Harbor;Tawas Harbor
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14863	Change	Saginaw Bay Channel Buoy 3	G C "3"	N 43 47' 27.034"	W 083 43' 53.880"	43.79084	-83.73164	Not Yet Published	1316	14863_1	2/2/2017
+14863	Change	Saginaw Bay Channel Buoy 4	R N "4"	N 43 47' 29.000"	W 083 43' 58.000"	43.79139	-83.73278	Not Yet Published	1316	14863_1	2/2/2017
+14863	Change	Saginaw Bay Channel Buoy 7	G C "7"	N 43 45' 41.000"	W 083 45' 23.200"	43.76139	-83.75645	Not Yet Published	1316	14863_1	2/2/2017
+14863	Change	Saginaw Bay Channel Buoy 8	R N "8"	N 43 45' 43.480"	W 083 45' 26.905"	43.76208	-83.75748	Not Yet Published	1316	14863_1	2/2/2017
+14863	Change	Saginaw Bay Channel Buoy 13	G C "13"	N 43 42' 59.809"	W 083 47' 38.274"	43.71661	-83.79397	Not Yet Published	1316	14863_1	2/2/2017
+14863	Change	Saginaw Bay Channel Buoy 14	R N "14"	N 43 43' 02.000"	W 083 47' 42.200"	43.71722	-83.79506	Not Yet Published	1316	14863_1	2/2/2017
+14863	Change	Saginaw Bay Channel Buoy 17	G C "17"	N 43 41' 13.000"	W 083 49' 07.500"	43.68694	-83.81875	Not Yet Published	1316	14863_1	2/2/2017
+14863	Change	Saginaw Bay Channel Buoy 18	R N "18"	N 43 41' 15.000"	W 083 49' 11.500"	43.6875	-83.81986	Not Yet Published	1316	14863_1	2/2/2017
+14863	Change	Charity Island Shoal Lighted Bell Buoy 1 AIS	G "1" Q G BELL AIS	N 44 06' 30.156"	W 083 29' 46.172"	44.10838	-83.49616	LNM 50/16, 9th Dist	1316	14863_1	1/19/2017
+14863	Change	Charity Island Shoal Lighted Buoy 3 AIS	G "3" Fl G 4s AIS	N 44 03' 25.005"	W 083 30' 43.833"	44.05695	-83.51218	LNM 50/16, 9th Dist	1316	14863_1	1/19/2017
+14863	Change	Saginaw Bay Channel Lighted Buoy 5 AIS	G "5" Fl G 4s AIS	N 43 46' 34.300"	W 083 44' 38.500"	43.7762	-83.74403	LNM 50/16, 9th Dist	1316	14863_1	1/19/2017
+14863	Change	Saginaw Bay Channel Lighted Buoy 6 AIS	R "6" Fl R 4s AIS	N 43 46' 35.661"	W 083 44' 42.582"	43.77657	-83.74516	LNM 50/16, 9th Dist	1316	14863_1	1/19/2017
+14863	Change	Saginaw Bay Channel Lighted Buoy 15 AIS	G "15" Fl G 4s AIS	N 43 42' 07.000"	W 083 48' 22.300"	43.70195	-83.8062	LNM 50/16, 9th Dist	1316	14863_1	1/19/2017
+14863	Change	Saginaw Bay Channel Lighted Buoy 16 AIS	R "16" Fl R 4s AIS	N 43 42' 08.700"	W 083 48' 27.000"	43.70242	-83.8075	LNM 50/16, 9th Dist	1316	14863_1	1/19/2017
+14863	Change	Tawas Light	Fl 4s 46ft 11 St M HORN (MRASS)	N 44 14' 54.012"	W 083 27' 32.947"	44.24834	-83.45915	Not Yet Published	1317	14863_6	11/10/2016
+14863	Change	Tawas Light	Fl 4s 46ft 11 St M HORN (MRASS)	N 44 14' 54.012"	W 083 27' 32.947"	44.24834	-83.45915	Not Yet Published	1316	14863_1	11/10/2016
+14863	Relocate	Tawas Light	Oc 4s 70ft 12 St M	N 44 14' 54.012"	W 083 27' 32.947"	44.24834	-83.45915	LNM 42/16, 9th Dist	1317	14863_6	11/3/2016
+14863	Relocate	Tawas Light	Oc 4s 70ft 12 St M	N 44 14' 54.012"	W 083 27' 32.947"	44.24834	-83.45915	LNM 42/16, 9th Dist	1316	14863_1	11/3/2016
+14863	Relocate	Tawas Light	Oc 4s 70ft 12 St M	N 44 14' 54.000"	W 083 27' 32.000"	44.24833	-83.45889	LNM 40/16, 9th Dist	1317	14863_6	10/20/2016
+14863	Relocate	Tawas Light	Oc 4s 70ft 12 St M	N 44 14' 54.000"	W 083 27' 32.000"	44.24833	-83.45889	LNM 40/16, 9th Dist	1316	14863_1	10/20/2016
+14863	Change	Tawas Light	Fl 4s 46ft 11 St M HORN (MRASS)	N 44 14' 54.000"	W 083 27' 32.000"	44.24833	-83.45889	LNM 40/16, 9th Dist	1317	14863_6	10/20/2016
+14863	Change	Tawas Light	Fl 4s 46ft 11 St M HORN (MRASS)	N 44 14' 54.000"	W 083 27' 32.000"	44.24833	-83.45889	LNM 40/16, 9th Dist	1316	14863_1	10/20/2016
+14863	Add	Tawas Light MRASS Note	MARINER ACTIVATED SOUND SIGNAL: TAWAS LIGHT - (MRASS) Horn is activated by keying mic 5 times on VHF-FM Ch 83A.	N 44 14' 54.000"	W 083 27' 32.000"	44.24833	-83.45889	LNM 40/16, 9th Dist	1316	14863_1	10/20/2016
+14863	Add	Tawas Light MRASS Note	MARINER ACTIVATED SOUND SIGNALS - Sound signals labeled with (MRASS) require user activation. See USCG Light List.	N 44 14' 54.000"	W 083 27' 32.000"	44.24833	-83.45889	LNM 40/16, 9th Dist	1317	14863_6	10/20/2016
+14863	Change	Sebewaing Harbor Channel Lighted Buoy 2	R "2" Fl R 2.5s	N 43 45' 07.554"	W 083 31' 16.386"	43.7521	-83.52122	LNM 23/16, 9th Dist	1319	14863_5	6/23/2016
+14863	Change	Depth Legend - Bay Port Harbor, MI	2 FT 2015	N 43 51' 39.500"	W 083 22' 19.300"	43.86097	-83.37202	LNM 23/16, 9th Dist	1316	14863_1	1/14/2016
+14863	Change	Au Sable North Pierhead Light	Fl R 4s 25ft 7 St M HORN (MRASS)	N 44 24' 23.870"	W 083 18' 59.380"	44.40663	-83.3165	LNM 38/15, 9th Dist	1318	14863_2	12/3/2015
+14863	Change	Au Sable North Pierhead Light	Fl R 4s 25ft 7 St M HORN (MRASS)	N 44 24' 23.870"	W 083 18' 59.380"	44.40663	-83.3165	LNM 38/15, 9th Dist	1316	14863_1	12/3/2015
+14863	Add	Note: MARINER ACTIVATED SOUND SIGNAL: AU SABLE NORTH PIERHEAD LIGHT (MRASS)	MARINER ACTIVATED SOUND SIGNAL: AU SABLE NORTH PIERHEAD LIGHT (MRASS) Horn is activated by keying the mic 5 times on VHF-FM Ch 83A.	N 44 24' 23.870"	W 083 18' 59.380"	44.40663	-83.3165	LNM 38/15, 9th Dist	1318	14863_2	12/3/2015
+14863	Add	Note: MARINER ACTIVATED SOUND SIGNAL: AU SABLE NORTH PIERHEAD LIGHT (MRASS)	MARINER ACTIVATED SOUND SIGNAL: AU SABLE NORTH PIERHEAD LIGHT (MRASS) Horn is activated by keying the mic 5 times on VHF-FM Ch 83A.	N 44 24' 23.870"	W 083 18' 59.380"	44.40663	-83.3165	LNM 38/15, 9th Dist	1316	14863_1	12/3/2015
+14863	Change	Depth Note - POINT LOOKOUT HARBOR (AU GRES RIVER)	POINT LOOKOUT HARBOR (AU GRES RIVER) to: A controlling depth of 8 1/2 feet was available from North Pier Light "4" to 900 yards past the end of the parallel piers and thence 6 1/2 feet for a distance of 1300 yards and thence 2 feet to the end of the project. Jul 2015	N 44 05' 05.800"	W 083 38' 17.800"	44.08495	-83.63828	LNM 23/16, 9th Dist	1316	14863_1	11/12/2015
+14863	Change	Depth Legend - AU SABLE HARBOR 	7 1/2 FT JUL 2015	N 44 24' 22.700"	W 083 18' 56.600"	44.40631	-83.31572	LNM 23/16, 9th Dist	1318	14863_2	11/12/2015
+14863	Add	Sebewaing Channel Lighted Buoy 3	G "3" Fl G 4s	N 43 44' 58.542"	W 083 30' 37.698"	43.7496	-83.51048	LNM 33/15, 9th Dist	1319	14863_5	8/27/2015
+14863	Add	Sebewaing Channel Lighted Buoy 4	R "4" Fl R 4s	N 43 44' 57.450"	W 083 30' 38.886"	43.74929	-83.5108	LNM 33/15, 9th Dist	1319	14863_5	8/27/2015
+14863	Add	Sebewaing Channel Lighted Buoy 5	G "5" Fl G 4s	N 43 44' 48.246"	W 083 30' 00.456"	43.74673	-83.50013	LNM 33/15, 9th Dist	1319	14863_5	8/27/2015
+14863	Add	Sebewaing Channel Lighted Buoy 6	R "6" Fl R 4s	N 43 44' 47.346"	W 083 30' 01.128"	43.74649	-83.50031	LNM 33/15, 9th Dist	1319	14863_5	8/27/2015
+14863	Add	Sebewaing Channel Lighted Buoy 7	G "7" Fl G 4s	N 43 44' 37.212"	W 083 29' 20.652"	43.74367	-83.48907	LNM 33/15, 9th Dist	1319	14863_5	8/27/2015
+14863	Add	Sebewaing Channel Lighted Buoy 8	R "8" Fl R 4s	N 43 44' 36.606"	W 083 29' 21.204"	43.7435	-83.48922	LNM 33/15, 9th Dist	1319	14863_5	8/27/2015
+14863	Change	Depth Legend - SEBEWAING RIVER	3 FEET MAY 2015	N 43 44' 37.000"	W 083 29' 21.200"	43.74361	-83.48922	LNM 31/15, 9th Dist	1319	14863_5	8/20/2015
+14863	Relocate	Caseville Harbor Buoy 6	R N "6"	N 43 56' 47.005"	W 083 16' 55.381"	43.94639	-83.28205	LNM 24/15, 9th Dist	1320	14863_3	6/25/2015
+14863	Add	Thunder Bay National Marine Sanctuary blue dashed and solid boundary lines (use Chart No. 1: N22) PT 2 OF 2	Thunder Bay National Marine Sanctuary blue dashed and solid boundary lines (use Chart No. 1: N22)	N 44 30' 42.180"	W 083 19' 05.210"	44.51171	-83.31812	LNM 31/15, 9th Dist	1316	14863_1	5/7/2015
+14863	Add	THUNDER BAY NATIONAL MARINE SANCTUARY (protected area: 15 CFR 922; note A)	THUNDER BAY NATIONAL MARINE SANCTUARY (protected area: 15 CFR 922; note A)	N 44 33' 27.400"	W 083 07' 22.200"	44.55761	-83.12283	LNM 31/15, 9th Dist	1316	14863_1	5/7/2015
+14863	Add	Thunder Bay National Marine Sanctuary and Underwater Preserve blue dashed and solid boundary lines (use Chart No. 1: N22) PT 10 OF 10	Thunder Bay National Marine Sanctuary and Underwater Preserve blue dashed and solid boundary lines (use Chart No. 1: N22)	N 44 30' 42.170"	W 083 19' 05.330"	44.51171	-83.31815	LNM 31/15, 9th Dist	1316	14863_1	5/7/2015
+14863	Change	Depth Legend - Caseville Harbor 	6 1/2 FT JUN 2014	N 43 56' 40.100"	W 083 16' 40.100"	43.94447	-83.27781	LNM 31/15, 9th Dist	1320	14863_3	3/12/2015
+14863	Change	Depth Legend -  Caseville Harbor 	8 FT JUN 2014	N 43 56' 55.000"	W 083 17' 20.400"	43.94861	-83.289	LNM 31/15, 9th Dist	1320	14863_3	3/12/2015
+14863	Substitute	Sounding in Feet	6	N 44 03' 04.300"	W 082 59' 39.500"	44.05119	-82.99431	LNM 01/15, 9th Dist	1321	14863_4	1/8/2015
+14863	Change	Depth Legend - Port Austin 	7 FT JUL 2014	N 44 03' 07.700"	W 082 59' 35.300"	44.05214	-82.99314	LNM 01/15, 9th Dist	1321	14863_4	1/8/2015
+14863	Change	Depth Legend - AU SABLE HARBOR 	6 1/2 FT AUG 2014	N 44 24' 23.600"	W 083 19' 07.700"	44.40656	-83.3188	LNM 01/15, 9th Dist	1318	14863_2	12/18/2014
+14863	Delete	Sounding in Feet	5	N 44 24' 21.800"	W 083 18' 55.300"	44.40606	-83.31536	LNM 01/15, 9th Dist	1318	14863_2	12/18/2014
+14863	Delete	Sounding in Feet	5	N 44 24' 20.700"	W 083 18' 54.900"	44.40575	-83.31525	LNM 01/15, 9th Dist	1318	14863_2	12/18/2014
+14863	Change	Depth Legend - AU SABLE HARBOR 	4 1/2 FT AUG 2014	N 44 24' 25.300"	W 083 19' 24.300"	44.40703	-83.32342	LNM 01/15, 9th Dist	1318	14863_2	12/18/2014
+14863	Relocate	Port Austin Buoy 6	R N "6"	N 44 03' 04.789"	W 082 59' 38.553"	44.05133	-82.99404	LNM 34/14, 9th Dist	1321	14863_4	9/11/2014
+14863	Relocate	Port Austin Buoy 7	G C "7"	N 44 02' 59.216"	W 082 59' 36.517"	44.04978	-82.99348	LNM 34/14, 9th Dist	1321	14863_4	9/11/2014
+14863	Change	Saginaw Bay Channel Light 1	Fl G 6s 50ft 10 St M "1"	N 43 48' 21.049"	W 083 43' 07.826"	43.80585	-83.71884	LNM 33/14, 9th Dist	1316	14863_1	8/28/2014
+14863	Change	Point Aux Barques Light	Fl (2) 20s 93ft 16 St M	N 44 01' 22.208"	W 082 47' 35.728"	44.02283	-82.79326	LNM 32/14, 9th Dist	1316	14863_1	8/28/2014
+14863	Change	Gravelly Shoal Light	Fl R 6s 75ft 10 St M HORN	N 44 01' 11.425"	W 083 32' 18.218"	44.01984	-83.53839	LNM 29/14, 9th Dist	1316	14863_1	8/28/2014
+14863	Relocate	Caseville Harbor Buoy 6	R N "6"	N 43 56' 45.266"	W 083 16' 50.554"	43.94591	-83.28071	LNM 20/14, 9th Dist	1320	14863_3	5/29/2014

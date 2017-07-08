@@ -1,0 +1,22 @@
+Chart: 12282, Current Edition: 37, Print Date: May. /2015, Chesapeake Bay Severn and Magothy Rivers
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12282	Change	Tabulation - BALTIMORE HARBOR CHANNEL DEPTHS	Tabulation - BALTIMORE HARBOR CHANNEL DEPTHS	N 38 58' 12.000"	W 076 33' 10.000"	38.97	-76.55278	LNM 06/17, 5th Dist	641	12282_1	2/2/2017
+12282	Change	Horn Point Light HP	Fl 6s 15ft 4M "HP"	N 38 58' 24.611"	W 076 28' 09.127"	38.9735	-76.4692	LNM 51/16, 5th Dist	641	12282_1	12/22/2016
+12282	Change	Spa Creek Buoy 3	G C "3"	N 38 58' 22.007"	W 076 29' 23.629"	38.97278	-76.4899	LNM 51/16, 5th Dist	641	12282_1	12/22/2016
+12282	Change	Sillery Bay Light 3	Fl G 4s 15ft 4M "3"	N 39 05' 25.221"	W 076 26' 39.024"	39.09034	-76.44418	LNM 51/16, 5th Dist	641	12282_1	12/22/2016
+12282	Change	Severn River - Mill Creek Light 2M	Fl R 2.5s 15ft 4M "2M"	N 38 59' 34.080"	W 076 26' 49.380"	38.9928	-76.44705	LNM 49/16, 5th Dist	641	12282_1	12/15/2016
+12282	Relocate	Chesapeake Channel Lighted Buoy 93	G "93" Fl G 4s	N 39 00' 03.080"	W 076 22' 52.720"	39.00085	-76.38131	LNM 35/16, 5th Dist	641	12282_1	9/8/2016
+12282	Relocate	Cypress Creek Daybeacon 1	G "1"	N 39 04' 26.073"	W 076 31' 16.696"	39.07391	-76.5213	LNM 34/16, 5th Dist	641	12282_1	9/1/2016
+12282	Relocate	Cypress Creek Daybeacon 3	G "3"	N 39 04' 25.598"	W 076 31' 20.697"	39.07378	-76.52242	LNM 34/16, 5th Dist	641	12282_1	9/1/2016
+12282	Change	NOAA Lighted Data Buoy AN	Y "AN" Fl Y 4s	N 38 57' 49.010"	W 076 26' 48.370"	38.96362	-76.44677	LNM 32/16, 5th Dist	641	12282_1	8/18/2016
+12282	Change	Naval Anchorage Light A	Fl Y 2.5s 15ft 4M "A"	N 38 58' 00.507"	W 076 27' 09.003"	38.96681	-76.4525	LNM 13/16, 5th Dist	641	12282_1	4/7/2016
+12282	Change	Annapolis Harbor Entrance Light 4	Fl R 6s 15ft 4M "4"	N 38 58' 06.185"	W 076 27' 27.737"	38.96838	-76.4577	LNM 13/16, 5th Dist	641	12282_1	4/7/2016
+12282	Change	Magothy River Entrance Light 2	Fl R 4s 15ft 4M "2"	N 39 03' 21.879"	W 076 25' 46.824"	39.05608	-76.42967	LNM 13/16, 5th Dist	641	12282_1	4/7/2016
+12282	Relocate	Annapolis Harbor Entrance Light 4	Fl R 6s 15ft 4M "4"	N 38 58' 06.185"	W 076 27' 27.737"	38.96838	-76.4577	LNM 13/16, 5th Dist	641	12282_1	4/7/2016
+12282	Add	William P. Lane Jr. Bridge V-AIS SE	V-AIS "SE" (Chart No. 1: S18.2)	N 38 59' 33.479"	W 076 22' 47.059"	38.99263	-76.37974	LNM 06/16, 5th Dist	641	12282_1	2/11/2016
+12282	Add	William P. Lane Jr. Bridge V-AIS SW	V-AIS "SW" (Chart No. 1: S18.2)	N 38 59' 37.823"	W 076 23' 04.969"	38.99384	-76.38471	LNM 06/16, 5th Dist	641	12282_1	2/11/2016
+12282	Add	William P. Lane Jr. Bridge V-AIS NE	V-AIS "NE" (Chart No. 1: S18.2)	N 38 59' 37.768"	W 076 22' 45.337"	38.99382	-76.37926	LNM 06/16, 5th Dist	641	12282_1	2/11/2016
+12282	Add	William P. Lane Jr. Bridge V-AIS NW	V-AIS "NW" (Chart No. 1: S18.2)	N 38 59' 41.734"	W 076 23' 03.355"	38.99493	-76.38426	LNM 06/16, 5th Dist	641	12282_1	2/11/2016
+12282	Change	Tabulation - BALTIMORE HARBOR CHANNEL DEPTHS	Tabulation - BALTIMORE HARBOR CHANNEL DEPTHS	N 38 58' 12.000"	W 076 33' 10.000"	38.97	-76.55278	LNM 34/15, 5th Dist	641	12282_1	8/27/2015
+12282	Relocate	Severn River Light 5	Fl G 4s 15ft 4M "5"	N 39 01' 51.331"	W 076 31' 57.905"	39.03093	-76.53275	LNM 20/15, 5th Dist	641	12282_1	5/28/2015
+12282	Relocate	Severn River Light 6	Fl R 4s 15ft 4M "6"	N 39 02' 07.061"	W 076 32' 09.844"	39.03529	-76.53606	LNM 20/15, 5th Dist	641	12282_1	5/28/2015

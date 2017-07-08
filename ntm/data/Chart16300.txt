@@ -1,0 +1,13 @@
+Chart: 16300, Current Edition: 10, Print Date: Nov. /2013, Kuskokwim Bay;Goodnews Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16300	Relocate	Kuskokwim River Buoy 15	G C "15"	N 59 58' 46.681"	W 162 23' 12.844"	59.97963	-162.3869	LNM 30/16, 17th Dist	2457	16300_1	8/4/2016
+16300	Add	Kuskokwim Bay Pilot Station	Pilots **Chart No 1 T:1.1**	N 58 52' 00.000"	W 162 32' 00.000"	58.86666	-162.5333	LNM 05/16, 17th Dist	2457	16300_1	2/11/2016
+16300	Delete	Pilot Station	Pilots **Chart No 1 T:1.1	N 59 42' 00.000"	W 162 19' 00.000"	59.7	-162.3167	LNM 05/16, 17th Dist	2457	16300_1	2/11/2016
+16300	Relocate	Kuskokwim River Buoy 16	R N "16"	N 60 03' 32.259"	W 162 28' 22.944"	60.05896	-162.473	LNM 23/15, 17th Dist	2457	16300_1	6/18/2015
+16300	Change	Kuskokwim Bay and River Note B	NOTE B - to: The Kuskokwim Bay and Kuskokwim River are known to undergo constant change from year to year. Depths on the chart reflect conditions surveyed in 2010. Extreme caution and continuous soundings are necessary to navigate these waters.	N 59 55' 33.000"	W 162 17' 11.000"	59.92583	-162.2864	LNM 33/14, 17th Dist	2457	16300_1	8/28/2014
+16300	Add	Kuskokwim River Buoy 13	G C "13"	N 59 57' 39.386"	W 162 20' 14.260"	59.96094	-162.3373	LNM 32/14, 17th Dist	2457	16300_1	8/21/2014
+16300	Add	Kuskokwim River Buoy 15	G C "15"	N 59 58' 45.018"	W 162 23' 20.101"	59.97917	-162.3889	LNM 32/14, 17th Dist	2457	16300_1	8/21/2014
+16300	Add	Kuskokwim River Buoy 16	R N "16"	N 60 03' 05.730"	W 162 28' 02.246"	60.05159	-162.4673	LNM 32/14, 17th Dist	2457	16300_1	8/21/2014
+16300	Add	Kuskokwim River Buoy 18	R N "18"	N 60 05' 12.869"	W 162 28' 27.706"	60.08691	-162.4744	LNM 32/14, 17th Dist	2457	16300_1	8/21/2014
+16300	Add	Kuskokwim River Buoy 20	R N "20"	N 60 07' 38.806"	W 162 26' 50.342"	60.12745	-162.4473	LNM 32/14, 17th Dist	2457	16300_1	8/21/2014
+16300	Add	Kuskokwim River Buoy 22	Genl rem: R N "22"	N 60 09' 13.174"	W 162 24' 19.127"	60.15366	-162.4053	LNM 32/14, 17th Dist	2457	16300_1	8/21/2014

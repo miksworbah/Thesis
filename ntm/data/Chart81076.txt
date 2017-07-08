@@ -1,0 +1,8 @@
+Chart: 81076, Current Edition: 13, Print Date: Jan. /2013, Commonwealth of the Northern Mariana Islands Saipan Harbor
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+81076	Change	Managaha Island Light	F WRG 75ft 8M	N 15 14' 26.192"	E 145 42' 44.648"	15.24061	145.7124	LNM 26/16, 14th Dist	2851	81076_1	6/30/2016
+81076	Relocate	Tanapag Harbor Channel Buoy 5	G N "5"	N 15 13' 40.732"	E 145 42' 38.167"	15.22798	145.7106	LNM 43/15, 14th Dist	2851	81076_1	11/5/2015
+81076	Relocate	Tanapag Harbor Channel Buoy Lighted Buoy 6	R "6" Fl R 4s	N 15 13' 45.430"	E 145 43' 03.490"	15.22929	145.7176	LNM 43/15, 14th Dist	2851	81076_1	11/5/2015
+81076	Change	Managaha Island Light	F WRG 75ft 7M	N 15 14' 26.192"	E 145 42' 45.637"	15.24061	145.7127	LNM 29/15, 14th Dist	2851	81076_1	7/30/2015
+81076	Relocate	Managaha Island Light	Fl WRG 6s 75ft 5M	N 15 14' 26.192"	E 145 42' 44.648"	15.24061	145.7124	LNM 51/14, 14th Dist	2851	81076_1	1/15/2015
+81076	Relocate	TANAPAG HARBOR CHANNEL BUOY 4	R C "4"	N 15 13' 44.260"	E 145 42' 38.496"	15.22896	145.7107	LNM 47/13, 14th Dist	2851	81076_1	11/21/2013

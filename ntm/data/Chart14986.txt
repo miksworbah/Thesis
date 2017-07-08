@@ -1,0 +1,2 @@
+Chart: 14986, Current Edition: 9, Print Date: Aug. /2003, Knife Lake
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

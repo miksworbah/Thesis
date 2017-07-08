@@ -1,0 +1,69 @@
+Chart: 11385, Current Edition: 28, Print Date: May. /2014, Intracoastal Waterway West Bay to Santa Rosa Sound
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11385	Relocate	West Bay Buoy 30	R N "30"	N 30 16' 56.370"	W 085 50' 38.806"	30.28233	-85.84412	LNM 23/17, 8th Dist	137	11385_3	6/15/2017
+11385	Relocate	West Bay Buoy 32	R N "32"	N 30 17' 05.916"	W 085 50' 48.913"	30.28498	-85.84692	LNM 23/17, 8th Dist	137	11385_3	6/15/2017
+11385	Change	Bridge Construction	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 30 24' 00.800"	W 086 10' 07.100"	30.40022	-86.16864	LNM 07/17, 8th Dist	135	11385_1	2/16/2017
+11385	Add	Bridge Construction Note	CAUTION Fixed and floating obstructions, some submerged, may exist within the magenta tinted bridge construction area. Mariners are advised to proceed with caution.	N 30 23' 02.000"	W 086 12' 59.000"	30.38389	-86.21639	LNM 07/17, 8th Dist	135	11385_1	2/16/2017
+11385	Delete	Fixed Bridge Label	FIXED BRIDGE HOR CL 150 FT VERT CL 65 FT	N 30 24' 00.800"	W 086 10' 07.100"	30.40022	-86.16864	LNM 07/17, 8th Dist	135	11385_1	2/16/2017
+11385	Add	Bridge Construction Label	Bridge under construction (see note)	N 30 24' 00.800"	W 086 10' 07.100"	30.40022	-86.16864	LNM 07/17, 8th Dist	135	11385_1	2/16/2017
+11385	Change	Choctawhatchee Bay Light 1	Fl G 2.5s 17ft 3M "1" Ra Ref	N 30 22' 48.619"	W 086 07' 02.955"	30.38017	-86.11749	LNM 04/17, 8th Dist	135	11385_1	2/16/2017
+11385	Change	Choctawhatchee Bay Light 1	Fl G 2.5s 17ft 3M "1" Ra Ref	N 30 22' 48.619"	W 086 07' 02.955"	30.38017	-86.11749	LNM 04/17, 8th Dist	136	11385_2	2/9/2017
+11385	Change	Depth Legend - EAST PASS ENTRANCE CHANNEL to:	12 FT FOR A WIDTH OF 180 FT MAY 2016	N 30 23' 23.100"	W 086 30' 47.400"	30.38975	-86.51317	LNM 04/17, 8th Dist	138	11385_4	1/19/2017
+11385	Change	Depth Legend - BLACKWATER BAY & RIVER CHANNEL to:	6 FT JAN 2016	N 30 26' 50.000"	W 087 02' 42.000"	30.44722	-87.045	LNM 04/17, 8th Dist	138	11385_4	1/19/2017
+11385	Change	Depth Note - BLACKWATER BAY & RIVER CHANNEL to:	The controlling depth was 6 feet for a width of 100 feet from Bn 4 to Light 30, thence 9 feet for a mid-width of 50 feet to Milton. Jan 2016	N 30 34' 00.000"	W 087 02' 58.000"	30.56667	-87.04945	LNM 04/17, 8th Dist	139	11385_5	1/19/2017
+11385	Delete	Choctawhatchee Bay Entrance Daybeacon 10	R "10"	N 30 23' 31.876"	W 086 30' 51.265"	30.39219	-86.51424	LNM 35/16, 8th Dist	138	11385_4	9/8/2016
+11385	Add	Choctawhatchee Bay Entrance Buoy 10	R N "10"	N 30 23' 31.847"	W 086 30' 51.195"	30.39218	-86.51422	LNM 35/16, 8th Dist	138	11385_4	9/8/2016
+11385	Add	Visible Pile 	Pile PA     Chart No. 1: F22	N 30 27' 44.000"	W 086 26' 03.000"	30.46222	-86.43417	LNM 32/16, 8th Dist	135	11385_1	8/18/2016
+11385	Add	FDOA Pensacola Bay Oyster Company East Bay Special Light C	Fl Y 2.5s "C" Priv	N 30 26' 25.400"	W 087 05' 08.400"	30.44039	-87.08567	LNM 24/16, 8th Dist	138	11385_4	7/7/2016
+11385	Add	FDOA Pensacola Bay Oyster Company East Bay Special Light D	Fl Y 2.5s "D" Priv	N 30 26' 25.500"	W 087 05' 11.600"	30.44042	-87.08656	LNM 24/16, 8th Dist	138	11385_4	6/30/2016
+11385	Add	FDOA Pensacola Bay Oyster Company East Bay Special Light A	Fl Y 2.5s "A" Priv	N 30 26' 17.800"	W 087 05' 17.800"	30.43828	-87.08828	LNM 24/16, 8th Dist	138	11385_4	6/30/2016
+11385	Add	FDOA Pensacola Bay Oyster Company East Bay Special Light B	Fl Y 2.5s "B" Priv	N 30 26' 17.590"	W 087 05' 14.610"	30.43822	-87.08739	LNM 24/16, 8th Dist	138	11385_4	6/30/2016
+11385	Add	Okaloosa County Crab Island Exclusion Buoy	W Or Priv	N 30 23' 44.820"	W 086 31' 09.900"	30.39578	-86.51942	LNM 23/16, 8th Dist	138	11385_4	6/16/2016
+11385	Add	Okaloosa County Crab Island Exclusion Buoy	W Or Priv	N 30 23' 39.240"	W 086 31' 21.840"	30.39423	-86.52274	LNM 23/16, 8th Dist	138	11385_4	6/16/2016
+11385	Add	Okaloosa County Crab Island Exclusion Buoy	W Or Priv	N 30 23' 40.620"	W 086 31' 18.840"	30.39462	-86.5219	LNM 23/16, 8th Dist	138	11385_4	6/16/2016
+11385	Add	Okaloosa County Crab Island Exclusion Buoy	W Or Priv	N 30 23' 42.060"	W 086 31' 15.840"	30.39502	-86.52106	LNM 23/16, 8th Dist	138	11385_4	6/16/2016
+11385	Add	Okaloosa County Crab Island Exclusion Buoy	W Or Priv	N 30 23' 43.500"	W 086 31' 12.840"	30.39542	-86.52023	LNM 23/16, 8th Dist	138	11385_4	6/16/2016
+11385	Add	Okaloosa County Crab Island Exclusion Buoy	W Or Priv	N 30 23' 38.160"	W 086 31' 25.140"	30.39393	-86.52365	LNM 22/16, 8th Dist	138	11385_4	6/9/2016
+11385	Change	Old East Pass Harbor Channel Lighted Buoy 8	R "8" Fl R 4s	N 30 23' 30.097"	W 086 30' 22.394"	30.39169	-86.50622	LNM 21/16, 8th Dist	138	11385_4	6/2/2016
+11385	Change	Depth Note - LA GRANGE BAYOU to:	The controlling depth from Choctawhatchee Bay to Fourmile Creek was 9 feet for a mid-width of 50 feet; thence 9 1/2 feet for a mid-width of 50 feet to the turning basin; thence 3 feet within the basin. Aug 2015	N 30 28' 54.000"	W 086 09' 07.100"	30.48167	-86.15197	LNM 21/16, 8th Dist	135	11385_1	5/19/2016
+11385	Add	Visible Pile	Pile PA     Chart No. 1: F22	N 30 27' 46.200"	W 086 25' 53.300"	30.46283	-86.43147	LNM 19/16, 8th Dist	135	11385_1	5/19/2016
+11385	Delete	Bluewater Bay Sailing Club Special Daybeacon G	Y "G" Priv	N 30 27' 41.000"	W 086 26' 06.000"	30.46139	-86.435	LNM 18/16, 8th Dist	135	11385_1	5/12/2016
+11385	Delete	Bluewater Bay Sailing Club Special Daybeacon B	Y "B" Priv	N 30 25' 47.000"	W 086 29' 00.000"	30.42972	-86.48333	LNM 18/16, 8th Dist	135	11385_1	5/12/2016
+11385	Add	Dangerous Wreck	PA    Chart No. 1: K28  	N 30 25' 06.000"	W 086 29' 36.000"	30.41833	-86.49333	LNM 14/16, 8th Dist	135	11385_1	4/14/2016
+11385	Add	Dangerous Wreck	PA    Chart No. 1: K28  	N 30 25' 06.000"	W 086 29' 36.000"	30.41833	-86.49333	LNM 14/16, 8th Dist	138	11385_4	4/14/2016
+11385	Change	Choctawhatchee Bay Entrance Buoy 5A	G C "5A"	N 30 23' 09.936"	W 086 30' 32.453"	30.38609	-86.50902	LNM 14/16, 8th Dist	138	11385_4	4/14/2016
+11385	Add	U. S. Coast Guard Base Buoy 7	G C "7"	N 30 23' 36.768"	W 086 31' 31.117"	30.39355	-86.52531	LNM 10/16, 8th Dist	138	11385_4	3/17/2016
+11385	Add	Bluewater Bay Sailing Club Special Daybeacon G	Y "G" Priv	N 30 27' 41.000"	W 086 26' 06.000"	30.46139	-86.435	LNM 09/16, 8th Dist	135	11385_1	3/10/2016
+11385	Add	Bluewater Bay Sailing Club Special Daybeacon B	Y "B" Priv	N 30 25' 47.000"	W 086 29' 00.000"	30.42972	-86.48333	LNM 09/16, 8th Dist	135	11385_1	3/10/2016
+11385	Add	West Bay Creek Wreck Buoy 1	G C "1"	N 30 18' 40.638"	W 085 59' 22.662"	30.31129	-85.98963	LNM 51/15, 8th Dist	137	11385_3	1/7/2016
+11385	Substitute	Dangerous Wreck	Chart No. 1: K28    PA	N 30 23' 26.000"	W 086 30' 18.000"	30.39056	-86.505	LNM 41/15, 8th Dist	138	11385_4	10/22/2015
+11385	Add	Dangerous Wreck 	Chart No. 1: K28    PA	N 30 23' 22.100"	W 086 30' 18.700"	30.38947	-86.5052	LNM 41/15, 8th Dist	138	11385_4	10/22/2015
+11385	Add	Pier PT 1 OF 5	Pier	N 30 23' 50.340"	W 086 35' 09.020"	30.39732	-86.58584	LNM 42/15, 8th Dist	138	11385_4	10/15/2015
+11385	Add	Pier PT 2 OF 5	Pier	N 30 23' 55.740"	W 086 35' 08.680"	30.39882	-86.58575	LNM 42/15, 8th Dist	138	11385_4	10/15/2015
+11385	Add	Pier PT 3 OF 5	Pier	N 30 23' 55.800"	W 086 35' 10.240"	30.39883	-86.58617	LNM 42/15, 8th Dist	138	11385_4	10/15/2015
+11385	Add	Pier PT 4 OF 5	Pier	N 30 23' 54.590"	W 086 35' 08.760"	30.3985	-86.58577	LNM 42/15, 8th Dist	138	11385_4	10/15/2015
+11385	Add	Pier PT 5 OF 5	Pier	N 30 23' 54.640"	W 086 35' 10.190"	30.39851	-86.58617	LNM 42/15, 8th Dist	138	11385_4	10/15/2015
+11385	Change	Depth Legend - EAST PASS ENTRANCE CHANNEL to:	11 1/2 FT FOR A WIDTH OF 180 FT MAY 2015	N 30 23' 23.100"	W 086 30' 47.400"	30.38975	-86.51317	LNM 39/15, 8th Dist	138	11385_4	9/24/2015
+11385	Change	Depth Legend - East Pass Entrance Channel to:	12 FT FOR A WIDTH OF 180 FT MAY 2015	N 30 23' 23.100"	W 086 30' 47.400"	30.38975	-86.51317	LNM 31/15, 8th Dist	138	11385_4	7/30/2015
+11385	Relocate	Choctawhatchee Bay Buoy 3	G C "3"	N 30 22' 56.171"	W 086 07' 22.341"	30.38227	-86.12287	LNM 27/15, 8th Dist	135	11385_1	7/16/2015
+11385	Relocate	Choctawhatchee Bay Buoy 3	G C "3"	N 30 22' 56.171"	W 086 07' 22.341"	30.38227	-86.12287	LNM 27/15, 8th Dist	136	11385_2	7/16/2015
+11385	Relocate	Choctawhatchee Bay Buoy 2	R N "2"	N 30 22' 53.962"	W 086 07' 11.373"	30.38166	-86.11983	LNM 27/15, 8th Dist	135	11385_1	7/16/2015
+11385	Relocate	Choctawhatchee Bay Buoy 2	R N "2"	N 30 22' 53.962"	W 086 07' 11.373"	30.38166	-86.11983	LNM 27/15, 8th Dist	136	11385_2	7/16/2015
+11385	Change	Depth Note - OLD PASS LAGOON to:	The controlling depth for Old Pass Lagoon is 6 feet for a mid-width of 50 feet.  Mar 2015	N 30 22' 38.500"	W 086 29' 43.000"	30.37736	-86.49528	LNM 28/15, 8th Dist	138	11385_4	7/16/2015
+11385	Change	Depth Note - LA GRANGE BAYOU to:	The controlling depth from Choctawhatchee Bay to Fourmile Creek was 9 feet for a mid-width of 50 feet; thence 11 1/2 feet for a mid-width of 50 feet to the turning basin; thence 3 1/2 feet within the basin. Apr 2015	N 30 28' 54.000"	W 086 09' 07.100"	30.48167	-86.15197	LNM 28/15, 8th Dist	135	11385_1	7/9/2015
+11385	Change	Depth Note - BLACKWATER BAY & RIVER CHANNEL to:	The controlling depth was 6 1/2 feet for a width of 100 feet from Bn to Light 30, thence 9 feet for a width of 100 feet to Milton.  Mar 2015	N 30 34' 00.000"	W 087 02' 58.000"	30.56667	-87.04945	LNM 25/15, 8th Dist	139	11385_5	6/25/2015
+11385	Change	Depth Legend - BLACKWATER BAY & RIVER CHANNEL to:	6 1/2 FT MAR 2015	N 30 26' 40.000"	W 087 02' 46.000"	30.44444	-87.04611	LNM 26/15, 8th Dist	138	11385_4	6/25/2015
+11385	Change	Depth Legend - East Pass Entrance Channel to:	11 FT FOR A WIDTH OF 180 FT MAR 2015	N 30 23' 23.100"	W 086 30' 47.400"	30.38975	-86.51317	LNM 26/15, 8th Dist	138	11385_4	6/25/2015
+11385	Change	Depth Note - BLACKWATER BAY AND RIVER CHANNEL to:	The controlling depth was 6 1/2 feet for a width of 100 feet from Bn 4 to Light 30, thence 9 feet for a mid-width of 50 feet to Milton. Mar 2015	N 30 34' 00.000"	W 087 02' 58.000"	30.56667	-87.04945	LNM 25/15, 8th Dist	139	11385_5	6/18/2015
+11385	Change	U. S. Coast Guard Base Daybeacon A	RW "A" Bn	N 30 23' 32.567"	W 086 31' 27.054"	30.39238	-86.52419	LNM 21/15, 8th Dist	138	11385_4	6/4/2015
+11385	Add	U. S. Coast Guard Base Buoy F	W Or "F"	N 30 23' 35.029"	W 086 31' 34.440"	30.39306	-86.52623	LNM 21/15, 8th Dist	138	11385_4	6/4/2015
+11385	Add	U. S. Coast Guard Base Buoy 5	G C "5"	N 30 23' 34.647"	W 086 31' 27.217"	30.39296	-86.52422	LNM 21/15, 8th Dist	138	11385_4	6/4/2015
+11385	Add	U. S. Coast Guard Base Buoy 6	R N "6"	N 30 23' 36.339"	W 086 31' 26.131"	30.39343	-86.52393	LNM 21/15, 8th Dist	138	11385_4	6/4/2015
+11385	Add	U. S. Coast Guard Base Buoy 8	R N "8"	N 30 23' 38.125"	W 086 31' 29.741"	30.39392	-86.52493	LNM 21/15, 8th Dist	138	11385_4	6/4/2015
+11385	Change	Choctawhatchee Bay Entrance Light 3	Q G 30ft 3M "3"	N 30 22' 51.145"	W 086 30' 37.527"	30.38087	-86.51042	LNM 14/15, 8th Dist	138	11385_4	4/16/2015
+11385	Change	Choctawhatchee Bay Entrance Light 4	Q R 30ft 3M "4"	N 30 22' 51.433"	W 086 30' 27.256"	30.38095	-86.50757	LNM 14/15, 8th Dist	138	11385_4	4/16/2015
+11385	Add	Obstruction	PA	N 30 18' 40.300"	W 085 59' 23.000"	30.3112	-85.98972	LNM 09/15, 8th Dist	137	11385_3	3/12/2015
+11385	Change	Depth Legend - BLACKWATER BAY & RIVER CHANNEL to:	6 FT JUL 2014	N 30 26' 40.000"	W 087 02' 46.000"	30.44444	-87.04611	LNM 50/14, 8th Dist	138	11385_4	12/11/2014
+11385	Change	Depth Note - BLACKWATER BAY & RIVER CHANNEL to:	The controlling depth was 6 feet for a width of 100 feet from Bn 4 to Light 30, thence 9 feet for a mid-width of 50 feet to Milton.  Jul 2014	N 30 34' 00.000"	W 087 02' 58.000"	30.56667	-87.04945	LNM 50/14, 8th Dist	139	11385_5	12/11/2014
+11385	Change	Depth Note - LA GRANGE BAYOU to:	The controlling depth from Choctawhatchee Bay to Fourmile Creek was 8 1/2 feet for a mid-width of 50 feet; thence 10 feet for a mid-width of 50 feet to the turning basin; thence 4 1/2 feet within the basin.  Apr 2014	N 30 28' 54.000"	W 086 09' 07.100"	30.48167	-86.15197	LNM 26/14, 8th Dist	135	11385_1	6/26/2014
+11385	Relocate	Blackwater Channel Daybeacon 22	R "22"	N 30 31' 36.241"	W 087 01' 31.262"	30.52673	-87.02535	LNM 20/14, 8th Dist	139	11385_5	6/5/2014

@@ -1,0 +1,5 @@
+Chart: 17428, Current Edition: 12, Print Date: Jun. /2015, Revillagigedo Channel, Nichols Passage, and Tongass Narrows;Seal Cove;Ward Cove
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+17428	Delete	Sounding in Fathoms & Feet	1_3	N 55 29' 52.400"	W 131 28' 33.500"	55.49789	-131.476	LNM 05/17, 17th Dist	2745	17428_5	1/26/2017
+17428	Add	Rock Awash (Elevation)	(2) Chart No. 1: K11	N 55 29' 52.700"	W 131 28' 35.000"	55.49797	-131.4764	LNM 05/17, 17th Dist	2745	17428_5	1/26/2017
+17428	Relocate	Coast Guard Station Light	Fl 4s 4M	N 55 19' 47.490"	W 131 37' 20.820"	55.32986	-131.6225	LNM 25/15, 17th Dist	2743	17428_1	6/25/2015

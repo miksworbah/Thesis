@@ -1,0 +1,2 @@
+Chart: 16591, Current Edition: 10, Print Date: Jul. /2014, Alitak Bay-Cape Alitak to Moser Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

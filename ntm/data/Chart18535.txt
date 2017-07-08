@@ -1,0 +1,19 @@
+Chart: 18535, Current Edition: 12, Print Date: Aug. /2004, Columbia River John Day Dam to Blalock
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18535	Relocate	Lake Celilo Daybeacon JD	BW "JD"	N 45 42' 16.104"	W 120 43' 22.740"	45.70447	-120.723	LNM 21/16, 13th Dist	1759	18535_1	6/2/2016
+18535	Relocate	Lake Celilo Light 46	Fl R 6s 28ft 5M "46"	N 45 42' 34.650"	W 120 43' 01.404"	45.70963	-120.7171	LNM 21/16, 13th Dist	1759	18535_1	6/2/2016
+18535	Relocate	Lake Celilo Light 46	Fl R 6s 28ft 5M "46"	N 45 42' 34.610"	W 120 43' 01.490"	45.70961	-120.7171	LNM 17/15, 13th Dist	1759	18535_1	5/14/2015
+18535	Relocate	Lake Umatilla Light 1	Fl G 2.5s 20ft 5M "1"	N 45 43' 24.540"	W 120 41' 23.460"	45.72348	-120.6898	LNM 36/14, 13th Dist	1759	18535_1	9/18/2014
+18535	Change	Lake Umatilla Light 1	Fl G 2.5s 20ft 5M "1"	N 45 43' 24.540"	W 120 41' 23.460"	45.72348	-120.6898	LNM 36/14, 13th Dist	1759	18535_1	9/18/2014
+18535	Relocate	Lake Umatilla Lighted Buoy 10 	R "10" Fl R 6s	N 45 41' 50.362"	W 120 30' 18.866"	45.69732	-120.5052	LNM 08/14, 13th Dist	1760	18535_2	3/6/2014
+18535	Relocate	John Day Dam Lower Guidewall Light A	F Y "A" Priv 	N 45 43' 02.129"	W 120 42' 03.546"	45.71726	-120.701	LNM 37/13, 13th Dist	1759	18535_1	9/20/2013
+18535	Change	John Day Dam Lower Guidewall Light A	F Y "A" Priv 	N 45 43' 02.129"	W 120 42' 03.546"	45.71726	-120.701	LNM 37/13, 13th Dist	1759	18535_1	9/20/2013
+18535	Relocate	John Day Dam Lower Breakwater Light 2	Fl R 2s "2" Priv	N 45 42' 55.904"	W 120 42' 15.801"	45.71553	-120.7044	LNM 37/13, 13th Dist	1759	18535_1	9/20/2013
+18535	Change	John Day Dam Lower Breakwater Light 2	Fl R 2s "2" Priv	N 45 42' 55.904"	W 120 42' 15.801"	45.71553	-120.7044	LNM 37/13, 13th Dist	1759	18535_1	9/20/2013
+18535	Relocate	John Day Range Front Light	Q G 19ft	N 45 42' 55.868"	W 120 42' 15.758"	45.71552	-120.7044	LNM 26/12, 13th Dist	1759	18535_1	7/9/2012
+18535	Change	John Day Range Front Light	Q G 19ft	N 45 42' 55.868"	W 120 42' 15.758"	45.71552	-120.7044	LNM 26/12, 13th Dist	1759	18535_1	7/9/2012
+18535	Relocate	John Day Range Rear Light	Iso G 6s 37ft	N 45 42' 59.755"	W 120 42' 05.849"	45.7166	-120.7016	LNM 26/12, 13th Dist	1759	18535_1	7/9/2012
+18535	Change	John Day Range Rear Light	Iso G 6s 37ft	N 45 42' 59.755"	W 120 42' 05.849"	45.7166	-120.7016	LNM 26/12, 13th Dist	1759	18535_1	7/9/2012
+18535	Relocate	Lake Umatilla Light 5	Fl G 4s 27ft 4M "5"	N 45 45' 02.862"	W 120 37' 40.074"	45.75079	-120.6278	LNM 07/10, 13th Dist	1759	18535_1	2/24/2010
+18535	Relocate	Lake Umatilla Lighted Buoy 8	R "8" Fl R 4s	N 45 42' 32.035"	W 120 31' 20.200"	45.7089	-120.5223	LNM 06/09, 13th Dist	1759	18535_1	2/25/2009
+18535	Relocate	Lake Umatilla Lighted Buoy 8	R "8" Fl R 4s	N 45 42' 32.035"	W 120 31' 20.200"	45.7089	-120.5223	LNM 06/09, 13th Dist	1760	18535_2	2/25/2009

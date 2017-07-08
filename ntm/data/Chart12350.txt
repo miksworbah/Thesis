@@ -1,2 +1,3 @@
-Chart: 12350, Current Edition: 61, Print Date: Mar. /2017, Jamaica Bay and Rockaway Inlet
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+Chart: 12350, Current Edition: 61, Print Date: Mar. /2017, Jamaica Bay and Rockaway Inlet
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12350	Change	ROCKAWAY INLET BUOY RI	R G "RI"	N 40 31' 57.000"	W 073 56' 48.000"	40.5325	-73.94666	LNM 26/17, 1st Dist	691	12350_1	7/6/2017

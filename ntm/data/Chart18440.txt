@@ -1,0 +1,5 @@
+Chart: 18440, Current Edition: 31, Print Date: Apr. /2017, Puget Sound
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18440	Relocate	Church Point Light 6	Fl R 6s 20ft 4M "6"	N 47 12' 27.654"	W 123 00' 45.198"	47.20768	-123.0126	LNM 23/17, 13th Dist	1688	18440_1	6/8/2017
+18440	Relocate	Nisqually Flats Light 3	Fl G 4s 15ft 4M "3"	N 47 07' 14.979"	W 122 45' 00.070"	47.12083	-122.75	LNM 23/17, 13th Dist	1688	18440_1	6/8/2017
+18440	Delete	Minor Island Light	Fl 4s 27ft 5M	N 48 19' 27.666"	W 122 49' 09.474"	48.32435	-122.8193	LNM 14/17, 13th Dist	1688	18440_1	4/13/2017

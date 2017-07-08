@@ -1,0 +1,2 @@
+Chart: 16608, Current Edition: 5, Print Date: Mar. /2015, Shelikof Strait-Cape Douglas to Cape Nukshak
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

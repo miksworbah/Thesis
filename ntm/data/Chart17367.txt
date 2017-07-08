@@ -1,0 +1,2 @@
+Chart: 17367, Current Edition: 12, Print Date: Aug. /2014, Thomas, Farragut, and Portage Bays,  Frederick Sound
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

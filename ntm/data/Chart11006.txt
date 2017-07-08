@@ -1,0 +1,111 @@
+Chart: 11006, Current Edition: 34, Print Date: Aug. /2013, Gulf Coast - Key West to Mississippi River
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11006	Relocate	NOAA Data Buoy 42409	Y C "42409" Priv	N 25 51' 05.000"	W 089 15' 05.000"	25.85139	-89.25139	LNM 21/17, 8th Dist	44	11006_1	6/8/2017
+11006	Add	NOAA Lighted Data Buoy 42012	Y ODAS "42012" Fl (4) Y 20s	N 30 03' 50.964"	W 087 33' 05.197"	30.06416	-87.55145	LNM 15/17, 8th Dist	44	11006_1	4/20/2017
+11006	Add	NOAA Data Buoy 42409	Y C "42409" Priv	N 25 52' 03.000"	W 089 15' 53.000"	25.8675	-89.26472	LNM 15/17, 8th Dist	44	11006_1	4/20/2017
+11006	Relocate	NOAA Lighted Buoy 42039	Y ODAS "42039" Fl (4) Y 20s PA	N 28 47' 17.565"	W 086 00' 30.589"	28.78821	-86.0085	LNM 14/17, 8th Dist	44	11006_1	4/13/2017
+11006	Relocate	NOAA Lighted Buoy 42040 (ODAS)	Y ODAS "42040" Fl (4) Y 20s PA	N 29 12' 30.280"	W 088 13' 32.462"	29.20841	-88.22569	LNM 13/17, 8th Dist	44	11006_1	4/6/2017
+11006	Add	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn Fish Haven (auth min 6 1/4 fms), Chart No. 1 K46.2	N 30 21' 08.500"	W 086 36' 52.500"	30.35236	-86.61459	LNM 04/17, 8th Dist	44	11006_1	1/19/2017
+11006	Add	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn Fish Haven (auth min 5 1/2 fms), Chart No. 1 K46.2	N 30 21' 23.400"	W 086 32' 52.600"	30.3565	-86.54794	LNM 04/17, 8th Dist	44	11006_1	1/19/2017
+11006	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 28 53' 19.740"	W 089 49' 39.960"	28.88882	-89.82777	LNM 37/16, 8th Dist	44	11006_1	9/8/2016
+11006	Relocate	Energy XXI-102-10 (Lighted Horn Buoy)	G Q G HORN Priv	N 29 14' 20.408"	W 088 52' 59.480"	29.239	-88.88319	LNM 34/16, 8th Dist	44	11006_1	9/1/2016
+11006	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 28 55' 43.380"	W 089 34' 57.120"	28.92872	-89.58253	LNM 04/16, 7th Dist	44	11006_1	1/21/2016
+11006	Add	Wreck in Fathoms	7 3/4 Wk    Chart No. 1: K26	N 30 02' 54.500"	W 088 31' 13.200"	30.04847	-88.52033	LNM 51/15, 8th Dist	44	11006_1	12/17/2015
+11006	Change	St Andrew Bay Entrance Lighted Buoy SA	RW "SA" Mo (A) AIS	N 30 05' 29.735"	W 085 46' 25.752"	30.09159	-85.77382	LNM 47/15, 8th Dist	44	11006_1	12/10/2015
+11006	Delete	Obstruction	Obstn PA          Chart No. 1: K40	N 29 08' 06.000"	W 089 51' 33.840"	29.135	-89.8594	LNM 49/15, 8th Dist	44	11006_1	12/3/2015
+11006	Add	Castex-105-1 Lighted Buoy	W Or Fl 2.5s Priv	N 29 19' 20.326"	W 088 32' 21.977"	29.32231	-88.53944	LNM 45/15, 8th Dist	44	11006_1	11/19/2015
+11006	Add	Submarine Pipeline  PT 3 OF 5	Chart No. 1: L40.1	N 29 27' 26.580"	W 089 14' 14.550"	29.45738	-89.23737	LNM 43/15, 8th Dist	44	11006_1	11/19/2015
+11006	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 29 08' 06.000"	W 089 51' 33.840"	29.135	-89.8594	LNM 43/15, 8th Dist	44	11006_1	10/22/2015
+11006	Add	Obstruction	Obstn PA        	N 28 55' 14.940"	W 089 40' 30.480"	28.92082	-89.67513	LNM 41/15, 8th Dist	44	11006_1	10/8/2015
+11006	Add	Obstruction	Obstn PA         	N 28 55' 43.380"	W 089 34' 57.120"	28.92872	-89.58253	LNM 41/15, 8th Dist	44	11006_1	10/8/2015
+11006	Delete	Obstruction	Obstn PA         Chart No. 1: K40	N 28 56' 19.400"	W 089 58' 57.900"	28.93872	-89.98275	LNM 41/15, 8th Dist	44	11006_1	10/8/2015
+11006	Delete	Obstruction	Obstn PA         Chart No. 1: K40	N 28 58' 44.000"	W 089 56' 23.000"	28.97889	-89.93972	LNM 41/15, 8th Dist	44	11006_1	10/8/2015
+11006	Delete	Obstruction	Obstn PA         Chart No. 1: K40	N 28 58' 46.000"	W 089 50' 36.000"	28.97944	-89.84333	LNM 41/15, 8th Dist	44	11006_1	10/8/2015
+11006	Delete	Obstruction	Obstn PA         Chart No. 1: K40	N 28 59' 04.000"	W 089 57' 44.000"	28.98444	-89.96222	LNM 41/15, 8th Dist	44	11006_1	10/8/2015
+11006	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 29 55' 31.200"	W 085 41' 00.000"	29.92533	-85.68333	LNM 40/15, 8th Dist	44	11006_1	10/1/2015
+11006	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 29 54' 42.000"	W 085 41' 00.000"	29.91167	-85.68333	LNM 40/15, 8th Dist	44	11006_1	10/1/2015
+11006	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 29 54' 42.000"	W 085 37' 33.600"	29.91167	-85.626	LNM 40/15, 8th Dist	44	11006_1	10/1/2015
+11006	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 29 55' 31.200"	W 085 37' 33.600"	29.92533	-85.626	LNM 40/15, 8th Dist	44	11006_1	10/1/2015
+11006	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 8 fms)	N 29 55' 06.500"	W 085 39' 16.700"	29.91847	-85.65464	LNM 40/15, 8th Dist	44	11006_1	10/1/2015
+11006	Delete	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn Fish Haven (auth min 8 1/4 fms), Chart No. 1 K46.2	N 29 55' 00.700"	W 085 40' 41.000"	29.91686	-85.67805	LNM 40/15, 8th Dist	44	11006_1	10/1/2015
+11006	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 29 54' 42.000"	W 085 36' 27.600"	29.91167	-85.60767	LNM 40/15, 8th Dist	44	11006_1	10/1/2015
+11006	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 29 55' 31.200"	W 085 36' 27.600"	29.92533	-85.60767	LNM 40/15, 8th Dist	44	11006_1	10/1/2015
+11006	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 29 55' 31.200"	W 085 32' 34.500"	29.92533	-85.54292	LNM 40/15, 8th Dist	44	11006_1	10/1/2015
+11006	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 29 54' 42.000"	W 085 32' 42.060"	29.91167	-85.54501	LNM 40/15, 8th Dist	44	11006_1	10/1/2015
+11006	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 6 1/2 fms)	N 29 55' 05.350"	W 085 33' 24.290"	29.91815	-85.55675	LNM 40/15, 8th Dist	44	11006_1	10/1/2015
+11006	Delete	Dry Tortugas Light	Fl 20s 151ft 20M RACON (_._)	N 24 38' 00.021"	W 082 55' 13.958"	24.63334	-82.92055	LNM 38/15, 7th Dist	44	11006_1	9/24/2015
+11006	Add	Abandoned Light House	TOWER (ABAND LT HO)	N 24 38' 00.021"	W 082 55' 13.958"	24.63334	-82.92055	LNM 38/15, 7th Dist	44	11006_1	9/24/2015
+11006	Delete	American Shoal Light	Fl (3) 15s 109ft 10M RACON (_-__)	N 24 31' 30.422"	W 081 31' 09.898"	24.52512	-81.51942	LNM 36/15, 7th Dist	44	11006_1	9/17/2015
+11006	Add	Abandoned Light House	TOWER (ABAND LT HO)	N 24 31' 30.422"	W 081 31' 09.898"	24.52512	-81.51942	LNM 36/15, 7th Dist	44	11006_1	9/17/2015
+11006	Add	American Shoal Light	Fl (4) 60s 19ft 7M	N 24 31' 32.493"	W 081 31' 02.576"	24.52569	-81.51738	LNM 36/15, 7th Dist	44	11006_1	9/17/2015
+11006	Add	Obstruction in Fathoms	10 Obstn       Chart No. 1: K41	N 30 04' 53.890"	W 085 45' 29.740"	30.08164	-85.75826	LNM 36/15, 8th Dist	44	11006_1	9/3/2015
+11006	Delete	Dangerous Wreck	PD      Chart No. 1: K28	N 30 05' 01.200"	W 085 45' 59.530"	30.08367	-85.76653	LNM 36/15, 8th Dist	44	11006_1	9/3/2015
+11006	Relocate	Sombrero Key Light	Fl (5) 60s 19ft 7M	N 24 37' 39.900"	W 081 06' 30.841"	24.62775	-81.10857	LNM 33/15, 7th Dist	44	11006_1	8/20/2015
+11006	Add	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn Fish Haven (auth min 9 fms), Chart No. 1 K46.2	N 25 54' 15.040"	W 082 14' 21.700"	25.90418	-82.23936	LNM 34/15, 7th Dist	44	11006_1	8/20/2015
+11006	Delete	Sombrero Key Light	Fl (5) 60s 142ft 12M RACON (__)	N 24 37' 40.240"	W 081 06' 38.927"	24.62784	-81.11081	LNM 31/15, 7th Dist	44	11006_1	8/13/2015
+11006	Add	Abandoned Light House	TOWER (ABAND LT HO)	N 24 37' 40.240"	W 081 06' 38.927"	24.62784	-81.11081	LNM 31/15, 7th Dist	44	11006_1	8/13/2015
+11006	Add	Sombrero Key Light	Fl (5) 60s 19ft 7M	N 24 37' 40.080"	W 081 06' 31.260"	24.6278	-81.10868	LNM 31/15, 7th Dist	44	11006_1	8/13/2015
+11006	Add	Obstruction in Fathoms	10 1/2 Obstn       Chart No. 1: K41	N 29 22' 29.200"	W 088 51' 15.600"	29.37478	-88.85433	LNM 32/15, 8th Dist	44	11006_1	8/6/2015
+11006	Delete	Sounding in Fathoms 	14	N 29 22' 20.780"	W 088 50' 56.750"	29.37244	-88.8491	LNM 32/15, 8th Dist	44	11006_1	8/6/2015
+11006	Add	NOAA Scientific Monitoring Buoy Z Magenta Circle	AIS	N 29 16' 06.000"	W 087 45' 30.000"	29.26833	-87.75833	LNM 29/15, 8th Dist	44	11006_1	7/30/2015
+11006	Add	NOAA Scientific Monitoring Buoy Z	Y "Z" FL Y 2.5s Priv	N 29 16' 06.000"	W 087 45' 30.000"	29.26833	-87.75833	LNM 29/15, 8th Dist	44	11006_1	7/30/2015
+11006	Add	Obstruction in Fathoms	6 Obstn       Chart No. 1: K41	N 29 20' 20.700"	W 088 57' 46.700"	29.33908	-88.96297	LNM 30/15, 8th Dist	44	11006_1	7/23/2015
+11006	Add	Dotted Fish Haven	Chart No. 1: K46.2 Obstn Fish Haven  (auth min 10 1/4 fms)	N 29 35' 46.310"	W 088 02' 47.360"	29.5962	-88.04649	LNM 28/15, 8th Dist	44	11006_1	7/16/2015
+11006	Add	Submerged Wreck	PA      Chart No. 1: K29	N 29 44' 01.860"	W 085 45' 44.760"	29.73385	-85.76244	LNM 26/15, 8th Dist	44	11006_1	7/16/2015
+11006	Add	unlighted mooring buoy	Use Chart No.1: Q40	N 29 16' 00.300"	W 088 56' 21.400"	29.26675	-88.93928	LNM 26/15, 8th Dist	44	11006_1	7/2/2015
+11006	Add	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn Fish Haven (auth min 8 fms), Chart No. 1 K46.2	N 30 19' 43.920"	W 086 22' 54.900"	30.32887	-86.38192	LNM 26/15, 8th Dist	44	11006_1	6/25/2015
+11006	Delete	Texas A&M Oceanographic Lighted Buoy T	Y "T" Fl Y 4s Priv	N 29 45' 00.000"	W 088 15' 00.000"	29.75	-88.25	LNM 19/15, 8th Dist	44	11006_1	5/21/2015
+11006	Delete	Texas A&M Oceanographic Lighted Buoy U	Y "U" Fl Y 4s Priv	N 29 15' 00.000"	W 088 45' 00.000"	29.25	-88.75	LNM 19/15, 8th Dist	44	11006_1	5/21/2015
+11006	Delete	RACON	RACON (--)	N 29 06' 27.000"	W 087 56' 37.000"	29.1075	-87.94361	LNM 17/15, 8th Dist	44	11006_1	5/7/2015
+11006	Add	Key West Entrance Lighted Whistle Buoy KW Magenta Circle	RW "KW" Mo (A) WHISTLE AIS	N 24 27' 25.815"	W 081 47' 59.974"	24.45717	-81.8	LNM 08/15, 7th Dist	44	11006_1	3/5/2015
+11006	Add	Pulaski Shoal Light Magenta Circle	Fl 6s 56ft 9M AIS	N 24 41' 36.021"	W 082 46' 22.786"	24.69334	-82.77299	LNM 08/15, 7th Dist	44	11006_1	3/5/2015
+11006	Add	Obstruction in Fathoms	11 Obstn       Chart No. 1: K41	N 30 03' 33.419"	W 085 48' 19.732"	30.05928	-85.80548	LNM 09/15, 8th Dist	44	11006_1	2/26/2015
+11006	Add	Obstruction in Fathoms	11 Obstn       Chart No. 1: K41	N 30 01' 32.182"	W 085 45' 10.343"	30.02561	-85.75288	LNM 09/15, 8th Dist	44	11006_1	2/26/2015
+11006	Add	Wreck in Fathoms	7 1/2 Wk    Chart No. 1: K26	N 30 03' 38.160"	W 085 49' 25.446"	30.0606	-85.82374	LNM 09/15, 8th Dist	44	11006_1	2/26/2015
+11006	Add	Obstruction in Fathoms and Fractions	10 3/4 Obstn       Chart No. 1: K41	N 28 57' 32.900"	W 089 28' 08.000"	28.95914	-89.46889	LNM 08/15, 8th Dist	44	11006_1	2/26/2015
+11006	Add	Wreck in Fathoms	11 Wk    Chart No. 1: K26	N 29 56' 59.460"	W 088 36' 54.270"	29.94985	-88.61507	LNM 08/15, 8th Dist	44	11006_1	2/26/2015
+11006	Add	Obstruction	Obstns         Chart No. 1: K40	N 30 02' 11.700"	W 085 43' 41.800"	30.03658	-85.72828	LNM 06/15, 8th Dist	44	11006_1	2/5/2015
+11006	Add	Obstruction in Fathoms	6 1/4 Obstn       Chart No. 1: K41	N 30 02' 41.100"	W 085 43' 44.900"	30.04475	-85.72914	LNM 06/15, 8th Dist	44	11006_1	2/5/2015
+11006	Add	Obstruction in Fathoms	10 1/2 Obstn       Chart No. 1: K41	N 30 00' 25.000"	W 085 43' 38.200"	30.00694	-85.72728	LNM 06/15, 8th Dist	44	11006_1	2/5/2015
+11006	Add	Obstruction in Fathoms	9 3/4 Obstn       Chart No. 1: K41	N 30 02' 57.300"	W 085 43' 26.400"	30.04925	-85.724	LNM 05/15, 8th Dist	44	11006_1	1/29/2015
+11006	Change	Obstruction in Fathoms	9 3/4 Obstn       Chart No. 1: K41	N 30 06' 14.900"	W 085 48' 02.700"	30.10414	-85.80075	LNM 05/15, 8th Dist	44	11006_1	1/29/2015
+11006	Add	Obstruction in Feet	58 Obstn       Chart No. 1: K41	N 30 06' 14.900"	W 085 48' 02.700"	30.10414	-85.80075	LNM 05/15, 8th Dist	44	11006_1	1/29/2015
+11006	Delete	Science Applications International Corp. Instrument Lighted Buoy	Y "C1" Fl Y 4s Priv	N 29 35' 00.000"	W 087 21' 00.000"	29.58333	-87.35	LNM 50/14, 8th Dist	44	11006_1	1/1/2015
+11006	Delete	Science Applications International Corp. Instrument Lighted Buoy	Y "B1" Fl Y 4s Priv	N 29 21' 00.000"	W 087 54' 30.000"	29.35	-87.90833	LNM 50/14, 8th Dist	44	11006_1	1/1/2015
+11006	Delete	Walter-105-6 Lighted Buoy	W Or Fl 2.5s Priv	N 29 15' 59.348"	W 088 19' 01.451"	29.26649	-88.31707	LNM 50/14, 8th Dist	44	11006_1	1/1/2015
+11006	Add	NOAA Lighted Data Buoy 42S13-SCP01	Y "42S13-SCP01" Fl (4) Y 20s PA	N 26 00' 25.000"	W 085 44' 24.000"	26.00694	-85.74	LNM 46/14, 8th Dist	44	11006_1	11/27/2014
+11006	Add	NOAA Lighted Data Buoy 42S23-SCP03	Y "42S23-SCP03" Fl (4) Y 20s PA	N 25 55' 48.000"	W 085 42' 00.000"	25.93	-85.7	LNM 46/14, 8th Dist	44	11006_1	11/27/2014
+11006	Relocate	NOAA Lighted Data Buoy 42003 (ODAS)	Y "42003" ODAS Fl (4) Y 20s PA	N 26 00' 25.000"	W 085 38' 54.000"	26.00694	-85.64833	LNM 46/14, 8th Dist	44	11006_1	11/27/2014
+11006	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 28 54' 00.720"	W 089 42' 19.600"	28.9002	-89.70544	LNM 43/14, 8th Dist	44	11006_1	10/30/2014
+11006	Add	Wreck in Fathoms	10 Wk Chart No.1: K26	N 30 02' 53.480"	W 088 19' 45.350"	30.04819	-88.32926	LNM 43/14, 8th Dist	44	11006_1	10/30/2014
+11006	Delete	Obstruction in Fathoms	9 1/4 Obstns       Chart No. 1: K41	N 30 03' 40.700"	W 088 22' 17.860"	30.06131	-88.37163	LNM 43/14, 8th Dist	44	11006_1	10/30/2014
+11006	Delete	Obstruction in Fathoms	8 1/2 Obstns       Chart No. 1: K41	N 30 02' 54.160"	W 088 19' 46.900"	30.04838	-88.3297	LNM 43/14, 8th Dist	44	11006_1	10/30/2014
+11006	Add	Non-Dangerous Wreck 	PA; Chart No 1; K-29	N 28 48' 33.600"	W 089 26' 42.000"	28.80933	-89.445	LNM 39/14, 8th Dist	44	11006_1	10/9/2014
+11006	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 28 45' 07.200"	W 090 00' 09.400"	28.752	-90.00261	LNM 41/14, 8th Dist	44	11006_1	10/9/2014
+11006	Delete	Dangerous Wreck	PA      Chart No. 1: K28	N 30 03' 24.000"	W 088 31' 06.000"	30.05667	-88.51833	LNM 41/14, 8th Dist	44	11006_1	10/9/2014
+11006	Add	Wreck in Fathoms	7 Wk    Chart No. 1: K26	N 30 02' 04.900"	W 088 30' 55.300"	30.03469	-88.51536	LNM 41/14, 8th Dist	44	11006_1	10/9/2014
+11006	Delete	NOAA Lighted Data Buoy 42409	RW "42409" Fl (4) Y 20s PA	N 26 39' 17.000"	W 085 47' 49.000"	26.65472	-85.79694	LNM 38/14, 8th Dist	44	11006_1	10/2/2014
+11006	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 29 07' 21.500"	W 089 52' 12.000"	29.12264	-89.87	LNM 36/14, 8th Dist	44	11006_1	9/4/2014
+11006	Delete	Rebecca Shoal Light	Fl 6s 66ft 6M	N 24 34' 44.484"	W 082 35' 06.776"	24.57902	-82.58521	LNM 31/14, 7th Dist	44	11006_1	8/14/2014
+11006	Add	Abandoned Light House	TOWER (ABAND LT HO)	N 24 34' 44.484"	W 082 35' 06.776"	24.57902	-82.58521	LNM 31/14, 7th Dist	44	11006_1	8/14/2014
+11006	Change	Big Pine Shoal Light 22	Q R 18ft 4M "22"	N 24 34' 06.078"	W 081 19' 32.338"	24.56836	-81.32565	LNM 29/14, 7th Dist	44	11006_1	7/24/2014
+11006	Delete	South Pass Light	Fl (5) 60s 108ft 14M	N 29 00' 54.826"	W 089 10' 00.171"	29.01523	-89.16672	LNM 28/14, 8th Dist	44	11006_1	7/24/2014
+11006	Delete	Sand Key Light	Fl (2) 15s 109ft 11M RACON (_.)	N 24 27' 20.941"	W 081 52' 38.313"	24.45582	-81.87731	LNM 26/14, 7th Dist	44	11006_1	7/17/2014
+11006	Add	Abandoned Light House	TOWER (ABAND LT HO)	N 24 27' 20.941"	W 081 52' 38.313"	24.45582	-81.87731	LNM 26/14, 7th Dist	44	11006_1	7/17/2014
+11006	Add	Sand Key Light	Fl (2) 15s 40ft 13M	N 24 27' 20.941"	W 081 52' 38.313"	24.45582	-81.87731	LNM 26/14, 7th Dist	44	11006_1	7/17/2014
+11006	Add	Rebecca Shoal Lighted Buoy 4	R "4" Fl R 6s	N 24 34' 43.607"	W 082 35' 26.713"	24.57878	-82.59075	LNM 26/14, 7th Dist	44	11006_1	7/17/2014
+11006	Add	Chevron-WD-109-A Racon	RACON (-) Priv      Chart No. 1: S3.1	N 28 50' 01.000"	W 089 27' 10.000"	28.83361	-89.45277	LNM 26/14, 8th Dist	44	11006_1	7/10/2014
+11006	Delete	Southwest Pass Entrance Racon	RACON (-)      Chart No. 1: S3.1	N 28 50' 00.868"	W 089 27' 12.169"	28.83357	-89.45338	LNM 25/14, 8th Dist	44	11006_1	7/3/2014
+11006	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 29 09' 05.700"	W 089 49' 16.300"	29.15158	-89.8212	LNM 21/14, 8th Dist	44	11006_1	5/22/2014
+11006	Add	Non Dangerous Wreck	PA      Chart No. 1: K29	N 29 08' 16.200"	W 085 26' 58.800"	29.13783	-85.44967	LNM 12/14, 8th Dist	44	11006_1	4/3/2014
+11006	Change	New Ground Rocks Light	Fl 4s 19ft 4M	N 24 39' 59.758"	W 082 26' 38.975"	24.6666	-82.44416	LNM 09/14, 7th Dist	44	11006_1	3/13/2014
+11006	Change	Pass A Loutre North Pass Lighted Buoy 2	R "2" Fl R 6s	N 29 14' 16.794"	W 088 57' 28.149"	29.238	-88.95782	LNM 05/14, 8th Dist	44	11006_1	2/13/2014
+11006	Relocate	Pass A Loutre North Pass Lighted Buoy 2	R "2" Fl R 6s	N 29 14' 16.794"	W 088 57' 28.149"	29.238	-88.95782	LNM 05/14, 8th Dist	44	11006_1	2/13/2014
+11006	Add	Pipe	Pipe (Flare stack)      Chart No. 1: L23	N 28 56' 42.300"	W 089 42' 42.600"	28.94508	-89.71183	LNM 52/13, 8th Dist	44	11006_1	1/9/2014
+11006	Delete	Obstruction	Obstn PA (7 fms rep 2005)         Chart No. 1: K40	N 30 03' 06.000"	W 088 25' 06.000"	30.05167	-88.41833	LNM 51/13, 8th Dist	44	11006_1	12/10/2013
+11006	Delete	Non-dangerous obstruction in Fathoms	11 3/4 Obstn	N 30 03' 08.100"	W 088 10' 11.000"	30.05225	-88.16972	LNM 51/13, 8th Dist	44	11006_1	12/10/2013
+11006	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 28 44' 46.260"	W 090 04' 25.200"	28.74618	-90.07367	LNM 50/13, 8th Dist	44	11006_1	12/6/2013
+11006	Add	Minimum Size (2mm sq.) Dashed Fish Haven and Label	Fish Haven (auth min 25 fms), Chart No.1: K46.2	N 28 47' 40.500"	W 089 10' 31.610"	28.79458	-89.17545	LNM 45/13, 8th Dist	44	11006_1	10/30/2013
+11006	Change	Pensacola Bay Entrance Lighted Buoy 1	G "1" Fl G 2.5s	N 30 16' 15.724"	W 087 17' 32.898"	30.27103	-87.29247	LNM 44/13, 8th Dist	44	11006_1	10/28/2013
+11006	Delete	South Pass West Jetty Range Front Light	F G 40ft HORN (Nov 1 to Apr 30)	N 28 59' 25.967"	W 089 08' 25.060"	28.99055	-89.1403	LNM 44/13, 8th Dist	44	11006_1	10/28/2013
+11006	Delete	Wreck in Fathoms	7 1/4 Wk    Chart No. 1: K26	N 30 02' 04.900"	W 088 30' 55.300"	30.03469	-88.51536	LNM 44/13, 8th Dist	44	11006_1	10/28/2013

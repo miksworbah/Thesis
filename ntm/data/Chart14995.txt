@@ -1,0 +1,4 @@
+Chart: 14995, Current Edition: 11, Print Date: Oct. /2002, Western Kabetogama Lake
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14995	Add	COMPASS ROSE	** MAGENTA COMPASS ROSE SYMBOL **	N 48 26' 00.000"	W 093 06' 00.000"	48.43333	-93.1	LNM 32/03, 9th Dist	1558	14995_1	2/13/2008
+14995	Relocate	PIN CHERRY I BY 42	R N "42"	N 48 28' 46.000"	W 093 00' 48.200"	48.47944	-93.01339	LNM   /03, 9th Dist	1558	14995_1	2/13/2008

@@ -1,0 +1,7 @@
+Chart: 14993, Current Edition: 12, Print Date: Jan. /2004, Namakan Lake, Eastern Part
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14993	Relocate	Randolph Island Buoy 6	R N "6"	N 48 26' 04.100"	W 092 39' 14.900"	48.43447	-92.65414	LNM 28/15, 9th Dist	1556	14993_1	7/30/2015
+14993	Relocate	BUOY EP2	R S "EP2"	N 48 29' 56.000"	W 092 37' 12.500"	48.49889	-92.62014	CNM 03/08, Canada	1556	14993_1	4/24/2008
+14993	Change	BUOY E53	G S "E53"	N 48 29' 52.000"	W 092 37' 52.400"	48.49778	-92.63123	CNM 03/08, Canada	1556	14993_1	4/24/2008
+14993	Change	BUOY EP2	R S "EP2"	N 48 29' 56.000"	W 092 37' 12.500"	48.49889	-92.62014	CNM 03/08, Canada	1556	14993_1	4/24/2008
+14993	Change	YOUR ISLAND LIGHT 9	Fl G 6s 25ft 3 St M "9"	N 48 26' 29.000"	W 092 30' 50.000"	48.44139	-92.51389	LNM 06/08, 9th Dist	1556	14993_1	2/15/2008

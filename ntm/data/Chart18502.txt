@@ -1,0 +1,2 @@
+Chart: 18502, Current Edition: 88, Print Date: Feb. /2017, Grays Harbor;Westhaven Cove
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

@@ -1,0 +1,72 @@
+Chart: 11323, Current Edition: 65, Print Date: Nov. /2013, Approaches to Galveston Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11323	Delete	Platform (Union-198-8)	Chart No. 1: L10	N 29 16' 25.627"	W 094 02' 05.449"	29.27378	-94.03484	LNM 26/17, 8th Dist	126	11323_1	Not Yet
+11323	Delete	Platform (Union-198-9)	Chart No. 1: L10	N 29 16' 25.551"	W 094 02' 05.541"	29.27376	-94.03487	LNM 26/17, 8th Dist	126	11323_1	Not Yet
+11323	Delete	Platform (Union-198-14)	Chart No. 1: L10	N 29 17' 33.280"	W 094 00' 41.680"	29.29258	-94.01158	LNM 26/17, 8th Dist	126	11323_1	Not Yet
+11323	Delete	Platform (Union-185-5)	Chart No. 1: L10	N 29 06' 34.400"	W 094 03' 17.100"	29.10956	-94.05475	LNM 24/17, 8th Dist	126	11323_1	6/22/2017
+11323	Delete	Platform (Texaco-195-4)	Chart No. 1: L10	N 29 18' 59.000"	W 094 12' 05.000"	29.31639	-94.20139	LNM 21/17, 8th Dist	126	11323_1	6/8/2017
+11323	Delete	Platform (Texaco-195-8)	Chart No. 1: L10	N 29 17' 37.000"	W 094 14' 42.000"	29.29361	-94.245	LNM 21/17, 8th Dist	126	11323_1	6/8/2017
+11323	Delete	Platform	Chart No. 1: L10	N 29 14' 32.000"	W 094 38' 35.000"	29.24222	-94.64306	WNM 03/17, NGA	126	11323_1	2/23/2017
+11323	Delete	Platform	Chart No. 1: L10	N 29 12' 31.000"	W 094 33' 24.000"	29.20861	-94.55666	WNM 03/17, NGA	126	11323_1	2/23/2017
+11323	Delete	Platform:  (Apache-115-45)	Chart No. 1: L10	N 29 09' 50.814"	W 094 17' 03.439"	29.16412	-94.28429	LNM 42/16, 8th Dist	126	11323_1	10/27/2016
+11323	Delete	Platform:  (Fieldwood-123-4)	Chart No. 1: L10	N 29 00' 49.907"	W 094 45' 05.551"	29.01386	-94.75154	LNM 40/16, 8th Dist	126	11323_1	10/13/2016
+11323	Add	Platform:  (LLOX-100-10)	Chart No. 1: L10	N 29 09' 06.701"	W 094 07' 09.274"	29.15186	-94.11924	LNM 40/16, 8th Dist	126	11323_1	10/13/2016
+11323	Delete	Platform:  (Apache-115-55)	Chart No. 1: L10	N 29 09' 06.697"	W 094 07' 09.275"	29.15186	-94.11924	LNM 40/16, 8th Dist	126	11323_1	10/13/2016
+11323	Add	Dangerous Wreck	PA      Chart No. 1: K28	N 29 19' 48.500"	W 094 42' 48.500"	29.33014	-94.71347	LNM 16/16, 8th Dist	126	11323_1	4/28/2016
+11323	Delete	Platform:(Energy Partners-103-501)	Chart No. 1: L10	N 29 13' 18.288"	W 094 27' 13.176"	29.22175	-94.45366	LNM 16/16, 8th Dist	126	11323_1	4/28/2016
+11323	Delete	Platform (Apache-115-47)	Chart No. 1: L10	N 29 26' 56.340"	W 094 09' 28.300"	29.44898	-94.15786	LNM 04/16, 8th Dist	126	11323_1	2/4/2016
+11323	Add	Submerged Obstruction	PA	N 29 10' 41.100"	W 094 41' 57.000"	29.17808	-94.69917	LNM 52/15, 8th Dist	126	11323_1	1/7/2016
+11323	Delete	Platform (Fieldwood-111-29)	Chart No. 1: L10	N 29 29' 34.870"	W 094 01' 09.090"	29.49302	-94.01919	LNM 51/15, 8th Dist	126	11323_1	1/7/2016
+11323	Change	Galveston Bay Entrance Lighted Buoy GB	RW "GB" Mo (A) AIS	N 29 14' 44.348"	W 094 32' 41.467"	29.24565	-94.54485	LNM 47/15, 8th Dist	126	11323_1	12/10/2015
+11323	Delete	Platform (Walter-101-13)	Chart No. 1: L10	N 29 02' 45.200"	W 094 39' 57.200"	29.04589	-94.66589	LNM 44/15, 8th Dist	126	11323_1	11/12/2015
+11323	Relocate	Texas City Cut A Inner Range Front Light	{Q G 25ft, Fl R 4s 17ft 4M	N 29 22' 24.657"	W 094 50' 27.193"	29.37352	-94.84089	LNM 38/15, 8th Dist	126	11323_1	10/1/2015
+11323	Relocate	Texas City Cut A Inner Range Front Light Passing Light	{Q G 25ft, Fl R 4s 17ft 4M	N 29 22' 24.657"	W 094 50' 27.193"	29.37352	-94.84089	LNM 38/15, 8th Dist	126	11323_1	10/1/2015
+11323	Delete	Platform (Fieldwood-111-30)	Chart No. 1: L10	N 29 26' 56.472"	W 094 07' 07.103"	29.44902	-94.11864	LNM 30/15, 8th Dist	126	11323_1	8/6/2015
+11323	Change	Galveston Bay Entrance Channel Lighted Buoy 10	R "10" Q R	N 29 20' 50.696"	W 094 42' 54.145"	29.34742	-94.71504	LNM 27/15, 8th Dist	126	11323_1	7/16/2015
+11323	Change	tabulation - GALVESTON BAY ENTRANCE - CHANNEL DEPTHS 	tabulation - GALVESTON BAY ENTRANCE - CHANNEL DEPTHS 	N 29 30' 05.000"	W 094 39' 25.000"	29.50139	-94.65694	LNM 25/15, 8th Dist	126	11323_1	6/25/2015
+11323	Add	Obstruction in Feet	34 Obstn       Chart No. 1: K41	N 29 21' 09.040"	W 094 46' 35.120"	29.35251	-94.77642	LNM 19/15, 8th Dist	126	11323_1	5/7/2015
+11323	Add	Obstruction in Feet	47 Obstn       Chart No. 1: K41	N 29 20' 27.730"	W 094 45' 27.180"	29.34104	-94.75755	LNM 19/15, 8th Dist	126	11323_1	5/7/2015
+11323	Add	Obstruction in Feet	43 Obstn       Chart No. 1: K41	N 29 20' 17.540"	W 094 45' 50.270"	29.33821	-94.76396	LNM 19/15, 8th Dist	126	11323_1	5/7/2015
+11323	Add	Obstruction in Feet	42 Obstn       Chart No. 1: K41	N 29 20' 18.510"	W 094 45' 40.390"	29.33847	-94.76122	LNM 19/15, 8th Dist	126	11323_1	5/7/2015
+11323	Add	Obstruction in Feet	16 Obstn       Chart No. 1: K41	N 29 21' 21.210"	W 094 44' 49.750"	29.35589	-94.74715	LNM 19/15, 8th Dist	126	11323_1	5/7/2015
+11323	Add	Obstruction in Feet	38 Obstn       Chart No. 1: K41	N 29 20' 54.480"	W 094 44' 28.620"	29.34847	-94.74128	LNM 19/15, 8th Dist	126	11323_1	5/7/2015
+11323	Add	Obstruction in Feet	46 Obstn       Chart No. 1: K41	N 29 20' 51.610"	W 094 42' 33.030"	29.34767	-94.70918	LNM 19/15, 8th Dist	126	11323_1	5/7/2015
+11323	Add	Obstruction in Feet	34 Obstn       Chart No. 1: K41	N 29 20' 23.850"	W 094 42' 05.190"	29.33996	-94.70144	LNM 19/15, 8th Dist	126	11323_1	5/7/2015
+11323	Delete	Dangerous Wreck	PA      Chart No. 1: K28	N 29 19' 59.930"	W 094 41' 59.870"	29.33331	-94.69997	LNM 19/15, 8th Dist	126	11323_1	5/7/2015
+11323	Delete	Obstruction	Obstn PA         Chart No. 1: K40	N 29 20' 58.970"	W 094 44' 08.250"	29.34971	-94.73563	LNM 19/15, 8th Dist	126	11323_1	5/7/2015
+11323	Add	Obstruction in Feet	24 Obstn       Chart No. 1: K41	N 29 21' 12.700"	W 094 46' 27.790"	29.35353	-94.77438	LNM 19/15, 8th Dist	126	11323_1	5/7/2015
+11323	Add	Obstruction in Feet	30 Obstn       Chart No. 1: K41	N 29 20' 00.720"	W 094 41' 57.910"	29.33353	-94.69942	LNM 19/15, 8th Dist	126	11323_1	5/7/2015
+11323	Add	Obstruction in Feet	39 Obstn       Chart No. 1: K41	N 29 21' 13.810"	W 094 46' 42.860"	29.35384	-94.77857	LNM 19/15, 8th Dist	126	11323_1	5/7/2015
+11323	Add	Obstruction in Feet	34 Obstn       Chart No. 1: K41	N 29 20' 46.940"	W 094 44' 45.260"	29.34637	-94.7459	LNM 19/15, 8th Dist	126	11323_1	5/7/2015
+11323	Add	Obstruction in Feet	34 Obstn       Chart No. 1: K41	N 29 20' 25.460"	W 094 43' 54.410"	29.34041	-94.73178	LNM 19/15, 8th Dist	126	11323_1	5/7/2015
+11323	Add	Obstruction in Feet	45 Obstn       Chart No. 1: K41	N 29 20' 54.680"	W 094 42' 51.300"	29.34852	-94.71425	LNM 19/15, 8th Dist	126	11323_1	5/7/2015
+11323	Delete	Obstruction in Feet	46 Obstn       Chart No. 1: K41	N 29 20' 54.900"	W 094 42' 51.300"	29.34858	-94.71425	LNM 19/15, 8th Dist	126	11323_1	5/7/2015
+11323	Add	Obstruction in Feet	23 Obstn       Chart No. 1: K41	N 29 20' 21.440"	W 094 43' 41.840"	29.33929	-94.72829	LNM 19/15, 8th Dist	126	11323_1	5/7/2015
+11323	Add	Platform (Apache-115-47)	Chart No. 1: L10	N 29 26' 55.824"	W 094 09' 27.734"	29.44884	-94.15771	LNM 15/15, 8th Dist	126	11323_1	4/23/2015
+11323	Delete	Racon from platform Mariner 100-1	RACON ( - . . . )	N 29 13' 31.000"	W 094 34' 42.000"	29.22528	-94.57833	LNM 05/15, 8th Dist	126	11323_1	2/12/2015
+11323	Relocate	Galveston Bay Entrance Channel Lighted Buoy 9	G "9" Q G	N 29 20' 37.511"	W 094 42' 54.991"	29.34375	-94.71528	LNM 02/15, 8th Dist	126	11323_1	1/22/2015
+11323	Change	tabulation - GALVESTON BAY ENTRANCE - CHANNEL DEPTHS	tabulation - GALVESTON BAY ENTRANCE - CHANNEL DEPTHS	N 29 30' 05.000"	W 094 39' 25.000"	29.50139	-94.65694	LNM 51/14, 8th Dist	126	11323_1	12/18/2014
+11323	Delete	Platform: (Apache-115-27)	Chart No 1: L-10	N 29 07' 46.296"	W 094 28' 00.789"	29.12953	-94.46689	LNM 48/14, 8th Dist	126	11323_1	12/11/2014
+11323	Delete	Platform: (Fieldwood-123-75)	Chart No 1: L-10	N 29 03' 02.694"	W 094 43' 57.365"	29.05075	-94.7326	LNM 47/14, 8th Dist	126	11323_1	12/11/2014
+11323	Change	tabulation - GALVESTON BAY ENTRANCE - CHANNEL DEPTHS	tabulation - GALVESTON BAY ENTRANCE - CHANNEL DEPTHS	N 29 30' 05.000"	W 094 39' 25.000"	29.50139	-94.65694	LNM 40/14, 8th Dist	126	11323_1	10/2/2014
+11323	Add	Submerged Obstruction  	PA  Chart no 1: K-40	N 29 20' 58.800"	W 094 44' 07.800"	29.34967	-94.7355	LNM 36/14, 8th Dist	126	11323_1	9/18/2014
+11323	Change	tabulation - GALVESTON BAY ENTRANCE - CHANNEL DEPTHS	tabulation - GALVESTON BAY ENTRANCE - CHANNEL DEPTHS	N 29 30' 05.000"	W 094 39' 25.000"	29.50139	-94.65694	LNM 37/14, 8th Dist	126	11323_1	9/11/2014
+11323	Add	label:	PORT ARTHUR VESSEL TRAFFIC SERVICES AREA (see note D)	N 29 27' 53.100"	W 093 59' 22.600"	29.46475	-93.98961	LNM 37/14, 8th Dist	126	11323_1	9/11/2014
+11323	Add	PORT ARTHUR VTS AREA NOTE D:	The U.S. Coast Guard operates a mandatory Vessel Traffic Service (VTS) on the Sabine -Neches Waterway and offshore approaches. Vessel operating procedures, mandatory participation boundaries, and designated radiotelephone frequencies are published in 33 CFR 161, the U.S. Coast Pilot, and the VTS Port Arthur User Manual. Mariners should consult these sources for applicable rules and reporting requirements. "Port Arthur Traffic" is a full service VTS, providing a continuous Information Service; Traffic Organization Services and Navigational Assistance Services as required. 	N 29 24' 50.500"	W 094 51' 41.600"	29.41403	-94.86156	LNM 37/14, 8th Dist	126	11323_1	9/11/2014
+11323	Delete	Platform: (Apache-115-45)	Chart No 1: L-10	N 29 25' 29.316"	W 094 07' 05.218"	29.42481	-94.11812	LNM 33/14, 8th Dist	126	11323_1	8/28/2014
+11323	Delete	Platform (Apache-115-46)	Chart No 1: L-10	N 29 26' 29.015"	W 094 08' 44.988"	29.44139	-94.14583	LNM 33/14, 8th Dist	126	11323_1	8/28/2014
+11323	Relocate	Galveston Bay Entrance Channel C Range Rear Light	Iso G 6s 72 ft 	N 29 20' 26.716"	W 094 47' 53.730"	29.34075	-94.79826	LNM 33/14, 8th Dist	126	11323_1	8/28/2014
+11323	Change	Galveston Bay Entrance Channel C Range Rear Light	Iso G 6s 72 ft 	N 29 20' 26.716"	W 094 47' 53.730"	29.34075	-94.79826	LNM 33/14, 8th Dist	126	11323_1	8/28/2014
+11323	Change	tabulation - GALVESTON BAY ENTRANCE - CHANNEL DEPTHS	tabulation - GALVESTON BAY ENTRANCE - CHANNEL DEPTHS	N 29 30' 05.000"	W 094 39' 25.000"	29.50139	-94.65694	LNM 21/14, 8th Dist	126	11323_1	5/22/2014
+11323	Change	Galveston Channel Lighted Buoy 1	G "1" Fl G 4s	N 29 20' 16.349"	W 094 46' 11.203"	29.33788	-94.76978	LNM 05/14, 8th Dist	126	11323_1	2/13/2014
+11323	Relocate	Galveston Channel Lighted Buoy 1	G "1" Fl G 4s	N 29 20' 16.349"	W 094 46' 11.203"	29.33788	-94.76978	LNM 05/14, 8th Dist	126	11323_1	2/13/2014
+11323	Change	Submerged platform	Subm platform      Chart No. 1 Kl	N 29 25' 16.770"	W 094 38' 27.810"	29.42133	-94.64106	LNM 50/13, 8th Dist	126	11323_1	12/5/2013
+11323	Change	Obstruction	Obstn PA         Chart No. 1: K40	N 29 24' 21.780"	W 094 37' 34.920"	29.40605	-94.62637	LNM 50/13, 8th Dist	126	11323_1	12/5/2013
+11323	Change	Submerged platform	Subm platform      Chart No. 1 Kl	N 29 23' 36.960"	W 094 37' 13.620"	29.3936	-94.62045	LNM 50/13, 8th Dist	126	11323_1	12/5/2013
+11323	Change	Submerged platform	Subm platform      Chart No. 1 Kl	N 29 25' 16.860"	W 094 38' 29.880"	29.42135	-94.64163	LNM 50/13, 8th Dist	126	11323_1	12/5/2013
+11323	Change	Submerged platform	Subm platform      Chart No. 1 Kl	N 29 24' 03.600"	W 094 37' 46.620"	29.401	-94.62962	LNM 50/13, 8th Dist	126	11323_1	12/5/2013
+11323	Change	Submerged platform	Subm platform      Chart No. 1 Kl	N 29 24' 21.600"	W 094 37' 23.760"	29.406	-94.62327	LNM 50/13, 8th Dist	126	11323_1	12/5/2013
+11323	Change	Submerged platform	Subm platform      Chart No. 1 Kl	N 29 24' 41.760"	W 094 37' 13.740"	29.4116	-94.62048	LNM 50/13, 8th Dist	126	11323_1	12/5/2013
+11323	Change	Submerged platform	Subm platform      Chart No. 1 Kl	N 29 24' 46.680"	W 094 37' 36.780"	29.41297	-94.62688	LNM 50/13, 8th Dist	126	11323_1	12/5/2013
+11323	Change	Submerged platform	Subm platform      Chart No. 1 Kl	N 29 24' 44.880"	W 094 38' 22.080"	29.41247	-94.63947	LNM 50/13, 8th Dist	126	11323_1	12/5/2013
+11323	Change	Submerged platform	Subm platform      Chart No. 1 Kl	N 29 24' 09.600"	W 094 38' 02.580"	29.40267	-94.63405	LNM 50/13, 8th Dist	126	11323_1	12/5/2013

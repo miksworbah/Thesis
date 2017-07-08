@@ -1,0 +1,2 @@
+Chart: 25689, Current Edition: 10, Print Date: Sep. /2013, Puerto Arroyo
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

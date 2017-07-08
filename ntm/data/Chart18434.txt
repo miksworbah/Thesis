@@ -1,0 +1,72 @@
+Chart: 18434, Current Edition: 7, Print Date: Apr. /2008, San Juan Channel
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18434	Delete	Jones Island Rock Buoy	W Or	N 48 37' 15.000"	W 123 02' 38.000"	48.62083	-123.0439	LNM 24/17, 13th Dist	1941	18434_1	6/22/2017
+18434	Change	Friday Harbor Marina Entrance Light 1	Fl G 2.5s 8ft 4M "1"	N 48 32' 23.207"	W 123 00' 54.118"	48.53978	-123.015	LNM 21/17, 13th Dist	1941	18434_1	6/1/2017
+18434	Add	Jones Island Rock Danger Daybeacon	W Bn	N 48 37' 12.942"	W 123 02' 34.092"	48.62026	-123.0428	LNM 20/17, 13th Dist	1941	18434_1	5/18/2017
+18434	Relocate	Reid Rock Lighted Isolated Danger Buoy DR	BR "DR" Fl (2) 5s	N 48 32' 56.411"	W 122 59' 22.307"	48.549	-122.9895	LNM 43/16, 13th Dist	1941	18434_1	10/27/2016
+18434	Change	Reid Rock Lighted Isolated Danger Buoy DR	BR "DR" Fl (2) 5s (two topmarks)	N 48 32' 56.411"	W 122 59' 22.307"	48.549	-122.9895	LNM 43/16, 13th Dist	1941	18434_1	10/27/2016
+18434	Relocate	Twin Rocks Daybeacon	RW Bn Ra Ref	N 48 26' 45.870"	W 122 54' 44.622"	48.44608	-122.9124	LNM 32/16, 13th Dist	1941	18434_1	8/11/2016
+18434	Change	Twin Rocks Daybeacon	RW Bn Ra Ref	N 48 26' 45.870"	W 122 54' 44.622"	48.44608	-122.9124	LNM 32/16, 13th Dist	1941	18434_1	8/11/2016
+18434	Relocate	Richardson Daybeacon	RW Bn	N 48 26' 47.002"	W 122 54' 36.744"	48.44639	-122.9102	LNM 31/16, 13th Dist	1941	18434_1	8/4/2016
+18434	Relocate	Bird Rocks Light	Fl 4s 15ft 6M	N 48 35' 52.080"	W 123 00' 55.146"	48.5978	-123.0153	LNM 26/16, 13th Dist	1941	18434_1	6/30/2016
+18434	Add	Dangerous Wreck	PA	N 48 31' 49.500"	W 123 00' 00.018"	48.53042	-123	LNM 13/16, 13th Dist	1941	18434_1	4/14/2016
+18434	Change	Shag Rock Daybeacon	WB Bn	N 48 35' 29.509"	W 122 52' 30.510"	48.59153	-122.8751	LNM 11/16, 13th Dist	1941	18434_1	3/17/2016
+18434	Relocate	Shag Rock Daybeacon	WB Bn	N 48 35' 29.509"	W 122 52' 30.510"	48.59153	-122.8751	LNM 11/16, 13th Dist	1941	18434_1	3/17/2016
+18434	Relocate	Fisherman Bay Channel Daybeacon 5	G "5"	N 48 31' 09.414"	W 122 55' 06.900"	48.51928	-122.9186	LNM 47/15, 13th Dist	1941	18434_1	11/26/2015
+18434	Relocate	Fisherman Bay Channel Daybeacon 4	R "4"	N 48 31' 20.334"	W 122 55' 02.418"	48.52232	-122.9173	LNM 47/15, 13th Dist	1941	18434_1	11/26/2015
+18434	Relocate	Twin Rocks Daybeacon	RW Bn	N 48 26' 45.971"	W 122 54' 44.575"	48.4461	-122.9124	LNM 38/15, 13th Dist	1941	18434_1	10/1/2015
+18434	Relocate	Green Point Light	Fl 4s 20ft 6M	N 48 38' 00.750"	W 123 06' 23.298"	48.63354	-123.1065	LNM 15/15, 13th Dist	1941	18434_1	4/16/2015
+18434	Change	Friday Harbor Marina Entrance Light 2	Fl R 2.5s 8ft 4M "2"	N 48 32' 23.766"	W 123 00' 52.351"	48.53994	-123.0145	LNM 12/15, 13th Dist	1941	18434_1	3/26/2015
+18434	Relocate	Friday Harbor Marina Entrance Light 2	Fl R 2.5s 8ft 4M "2"	N 48 32' 23.766"	W 123 00' 52.351"	48.53994	-123.0145	LNM 12/15, 13th Dist	1941	18434_1	3/26/2015
+18434	Relocate	Friday Harbor Marina Entrance Light 1	Fl G 2.5s 8ft 3M "1"	N 48 32' 23.207"	W 123 00' 54.118"	48.53978	-123.015	LNM 12/15, 13th Dist	1941	18434_1	3/26/2015
+18434	Relocate	Friday Harbor Pier Lights	2 Fl R 5s Priv	N 48 32' 41.100"	W 123 00' 46.260"	48.54475	-123.0128	LNM 08/15, 13th Dist	1941	18434_1	3/5/2015
+18434	Delete	Light symbol	Light dot and flare	N 48 32' 42.300"	W 123 00' 42.800"	48.54508	-123.0119	LNM 04/15, 13th Dist	1941	18434_1	2/5/2015
+18434	Relocate	Friday Harbor Ferry Terminal Dolphin Light A	Fl Y4s "A" Priv SIREN (Bl 20s)	N 48 32' 10.800"	W 123 00' 47.500"	48.53633	-123.0132	LNM 04/15, 13th Dist	1941	18434_1	2/5/2015
+18434	Relocate	Friday Harbor Ferry Terminal Dolphin Light C	Fl Y4s "C" Priv	N 48 32' 08.800"	W 123 00' 46.240"	48.53578	-123.0128	LNM 04/15, 13th Dist	1941	18434_1	2/5/2015
+18434	Delete	Sounding in Fathoms & Feet	2_5	N 48 27' 53.300"	W 123 02' 59.300"	48.46481	-123.0498	LNM 35/14, 13th Dist	1941	18434_1	8/28/2014
+18434	Add	Rock in Fathoms & Feet (Within Corresponding Depth Area)	0_5 Rk	N 48 27' 53.600"	W 123 02' 58.400"	48.46489	-123.0496	LNM 35/14, 13th Dist	1941	18434_1	8/28/2014
+18434	Relocate	Friday Harbor North Breakwater Light 1 	Fl G 4s 8ft 4M "1"	N 48 32' 25.205"	W 123 00' 56.813"	48.54034	-123.0158	LNM 07/14, 13th Dist	1941	18434_1	2/27/2014
+18434	Delete	Shoal Bay Aquaculture Light	Fl Y 6s Priv	N 48 33' 36.000"	W 122 52' 24.000"	48.56	-122.8733	LNM 05/14, 13th Dist	1941	18434_1	2/20/2014
+18434	Add	Shoal Bay Aquaculture Lighted Buoy	Y Fl Y 6s Priv	N 48 33' 31.100"	W 122 52' 29.600"	48.55864	-122.8749	LNM 05/14, 13th Dist	1941	18434_1	2/20/2014
+18434	Relocate	Friday Harbor Pier Lights (2)	2 Fl R 5s 6M Priv	N 48 32' 41.182"	W 123 00' 46.364"	48.54477	-123.0129	LNM 05/14, 13th Dist	1941	18434_1	2/20/2014
+18434	Delete	Fl R 5s Priv	Fl R 5s Priv	N 48 32' 42.965"	W 123 00' 43.240"	48.54527	-123.012	LNM 05/14, 13th Dist	1941	18434_1	2/20/2014
+18434	Relocate	Deer Harbor Pier Light	F Y Priv	N 48 36' 29.930"	W 122 59' 37.020"	48.60831	-122.9936	LNM 05/14, 13th Dist	1941	18434_1	2/20/2014
+18434	Change	Deer Harbor Pier Light	F Y Priv	N 48 36' 29.930"	W 122 59' 37.020"	48.60831	-122.9936	LNM 05/14, 13th Dist	1941	18434_1	2/20/2014
+18434	Add	Rock in Fathoms & Feet (Within Corresponding Depth Area)	0_5 Rk Rep (2013)	N 48 35' 28.300"	W 122 54' 35.800"	48.59119	-122.9099	LNM 45/13, 13th Dist	1941	18434_1	10/31/2013
+18434	Delete	Sounding in Fathoms & Feet	2_2	N 48 35' 27.900"	W 122 54' 35.200"	48.59108	-122.9098	LNM 45/13, 13th Dist	1941	18434_1	10/31/2013
+18434	Delete	Orcas Island Ferry Terminal Warning Buoy	W Or C Priv	N 48 35' 47.694"	W 122 56' 39.230"	48.59658	-122.9442	LNM 38/13, 13th Dist	1941	18434_1	9/30/2013
+18434	Add	Shelton Dock Light	FY Priv	N 48 32' 03.220"	W 123 00' 33.290"	48.53423	-123.0092	LNM 31/13, 13th Dist	1941	18434_1	8/8/2013
+18434	Add	Sewer  PT 1 OF 2	Chart No. 1: L41.1	N 48 26' 47.400"	W 122 53' 12.500"	48.4465	-122.8868	LNM 26/13, 13th Dist	1941	18434_1	6/21/2013
+18434	Add	Sewer  PT 2 OF 2	Chart No. 1: L41.1	N 48 26' 45.600"	W 122 53' 10.200"	48.446	-122.8862	LNM 26/13, 13th Dist	1941	18434_1	6/21/2013
+18434	Relocate	Minnesota Reef Daybeacon 1 	G "1" Ra Ref	N 48 32' 12.330"	W 122 59' 17.796"	48.53676	-122.9883	LNM 01/13, 13th Dist	1941	18434_1	1/10/2013
+18434	Relocate	Wasp Passage Light 5	Fl G 4s 15ft 5M "5"	N 48 35' 42.385"	W 122 58' 36.611"	48.59511	-122.9768	LNM 01/13, 13th Dist	1941	18434_1	1/10/2013
+18434	Relocate	Pole Pass Light 2 	Fl R 4s 15ft 4M "2"	N 48 36' 06.019"	W 122 59' 24.677"	48.60167	-122.9902	LNM 01/13, 13th Dist	1941	18434_1	1/10/2013
+18434	Add	Shaw Island Ferry Terminal Dolphin Light	Fl Y 4s Priv SIREN (Bl 25s) 	N 48 35' 07.072"	W 122 55' 44.756"	48.5853	-122.9291	LNM 16/12, 13th Dist	1941	18434_1	5/3/2012
+18434	Add	Orcas Island Ferry Terminal Dolphin Light A	Fl Y 4s "A" Priv SIREN (Bl 20s) 	N 48 35' 48.574"	W 122 56' 34.311"	48.59682	-122.9429	LNM 16/12, 13th Dist	1941	18434_1	5/3/2012
+18434	Add	Orcas Island Ferry Terminal Dolphin Light B	Fl Y 4s "B" Priv	N 48 35' 47.731"	W 122 56' 36.687"	48.59659	-122.9435	LNM 16/12, 13th Dist	1941	18434_1	5/3/2012
+18434	Add	Orcas Island Ferry Terminal Warning Buoy	W Or C Priv	N 48 35' 47.694"	W 122 56' 39.230"	48.59658	-122.9442	LNM 16/12, 13th Dist	1941	18434_1	5/3/2012
+18434	Add	Friday Harbor Ferry Terminal Dolphin Light A	Fl Y 4s "A" Priv SIREN (Bl 20s) 	N 48 32' 10.546"	W 123 00' 49.672"	48.53626	-123.0138	LNM 16/12, 13th Dist	1941	18434_1	5/3/2012
+18434	Add	Friday Harbor Ferry Terminal Dolphin Light B	Fl Y 4s "B" Priv	N 48 32' 10.133"	W 123 00' 47.363"	48.53615	-123.0132	LNM 16/12, 13th Dist	1941	18434_1	5/3/2012
+18434	Add	Friday Harbor Ferry Terminal Dolphin Light C	Fl Y 4s "C" Priv	N 48 32' 08.440"	W 123 00' 46.637"	48.53568	-123.013	LNM 16/12, 13th Dist	1941	18434_1	5/3/2012
+18434	Change	Cliff Island Light 3 	Fl G 6s 15ft 4M "3"	N 48 35' 21.396"	W 123 00' 48.684"	48.58928	-123.0135	LNM 15/12, 13th Dist	1941	18434_1	4/24/2012
+18434	Relocate	Lopez Island Ferry Terminal Dolphin Light	Fl Y 10s Priv SIREN (Bl 25s) 	N 48 34' 17.180"	W 122 52' 57.385"	48.57144	-122.8826	LNM 14/12, 13th Dist	1941	18434_1	4/19/2012
+18434	Change	Lopez Island Ferry Terminal Dolphin Light	Fl Y 10s Priv SIREN (Bl 25s) 	N 48 34' 17.180"	W 122 52' 57.385"	48.57144	-122.8826	LNM 14/12, 13th Dist	1941	18434_1	4/19/2012
+18434	Relocate	Harbor Rock Buoy	W Or C "DANGER ROCK"	N 48 37' 46.160"	W 122 58' 39.335"	48.62949	-122.9776	LNM 10/12, 13th Dist	1941	18434_1	3/19/2012
+18434	Relocate	Shirt Tail Reef Light 1 	Fl G 4s 19ft 4M "1"	N 48 35' 15.260"	W 123 01' 18.384"	48.58757	-123.0218	LNM 02/12, 13th Dist	1941	18434_1	1/18/2012
+18434	Add	Non-dangerous wreck 	PA (use Chart No 1:K-29)	N 48 26' 19.700"	W 123 00' 11.300"	48.4388	-123.0031	LNM 34/10, 13th Dist	1941	18434_1	8/30/2010
+18434	Relocate	Flat Point Light 2	Fl R 2.5s 15ft 5M "2"	N 48 33' 05.309"	W 122 55' 12.745"	48.55148	-122.9202	LNM 32/10, 13th Dist	1941	18434_1	8/18/2010
+18434	Relocate	Brown Island Daybeacon 2	R "2" Ra Ref	N 48 32' 03.915"	W 122 59' 57.150"	48.53442	-122.9992	LNM 32/10, 13th Dist	1941	18434_1	8/18/2010
+18434	Add	Dangerous Wreck	Chart No. 1:K28	N 48 34' 42.870"	W 122 56' 06.450"	48.57858	-122.9351	LNM 30/10, 13th Dist	1941	18434_1	8/3/2010
+18434	Delete	Obstn	PA	N 48 26' 08.300"	W 122 52' 16.600"	48.43564	-122.8713	LNM 18/10, 13th Dist	1941	18434_1	5/26/2010
+18434	Add	Visible wreck	Chart No 1: K-24	N 48 26' 08.397"	W 122 52' 16.062"	48.43567	-122.8711	LNM 18/10, 13th Dist	1941	18434_1	5/26/2010
+18434	Delete	Harbor Rock Daybeacon 	BW Bn	N 48 37' 47.633"	W 122 58' 39.750"	48.6299	-122.9777	LNM 16/10, 13th Dist	1941	18434_1	5/13/2010
+18434	Add	Harbor Rock Buoy	W Or C  "DANGER ROCK"	N 48 37' 46.178"	W 122 58' 40.434"	48.62949	-122.9779	LNM 16/10, 13th Dist	1941	18434_1	5/13/2010
+18434	Change	Harbor Rock Daybeacon	BW Bn	N 48 37' 47.633"	W 122 58' 39.750"	48.6299	-122.9777	LNM 10/10, 13th Dist	1941	18434_1	3/24/2010
+18434	Add	Dangerous Wreck	Chart No. 1: K28	N 48 32' 10.000"	W 123 00' 31.000"	48.53611	-123.0086	LNM 06/10, 13th Dist	1941	18434_1	2/3/2010
+18434	Add	Submerged Obstruction	Obstn PA	N 48 26' 08.300"	W 122 52' 16.600"	48.43564	-122.8713	LNM 38/09, 13th Dist	1941	18434_1	10/15/2009
+18434	Add	dangerous submerged rock	Rep (2009)  (Chart No. 1: K13)	N 48 34' 42.900"	W 122 56' 07.000"	48.57858	-122.9353	LNM 41/09, 13th Dist	1941	18434_1	10/15/2009
+18434	Change	Reid Rock Isolated Danger Lighted Buoy DR	BR "DR" Fl (2) 5s (delete BELL)	N 48 32' 56.411"	W 122 59' 22.307"	48.549	-122.9895	LNM 11/09, 13th Dist	1941	18434_1	3/26/2009
+18434	Relocate	Reid Rock Isolated Danger Lighted Buoy DR	BR "DR" Fl (2) 5s (delete BELL)	N 48 32' 56.411"	W 122 59' 22.307"	48.549	-122.9895	LNM 11/09, 13th Dist	1941	18434_1	3/26/2009
+18434	Change	Jones Island Rock Buoy	W Or	N 48 37' 15.000"	W 123 02' 38.000"	48.62083	-123.0439	LNM 32/08, 13th Dist	1941	18434_1	9/26/2008
+18434	Relocate	Cliff Island Light 3	Fl G 6s 15ft 5M "3"	N 48 35' 21.396"	W 123 00' 48.684"	48.58928	-123.0135	LNM 27/08, 13th Dist	1941	18434_1	9/26/2008
+18434	Relocate	Harbor Rock Daybeacon	W Bn	N 48 37' 47.633"	W 122 58' 39.750"	48.6299	-122.9777	LNM 27/08, 13th Dist	1941	18434_1	9/26/2008

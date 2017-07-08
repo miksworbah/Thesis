@@ -1,0 +1,4 @@
+Chart: 19386, Current Edition: 12, Print Date: Feb. /2013, Kaua‘i Approaches to Waimea Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+19386	Delete	Kikiaola Boat Harbor Range Front Light	F R 16ft Priv	N 21 57' 33.898"	W 159 41' 36.425"	21.95942	-159.6935	LNM 24/14, 14th Dist	2815	19386_1	6/19/2014
+19386	Delete	Kikiaola Boat Harbor Range Rear Light	F R 28ft Priv	N 21 57' 35.978"	W 159 41' 36.772"	21.95999	-159.6935	LNM 24/14, 14th Dist	2815	19386_1	6/19/2014

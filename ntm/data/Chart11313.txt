@@ -1,0 +1,52 @@
+Chart: 11313, Current Edition: 24, Print Date: Oct. /2010, Matagorda Light to Aransas Pass
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11313	Change	Channel Limits PT 2 OF 11	Chart No. 1: I20	N 27 50' 39.200"	W 097 03' 41.510"	27.84422	-97.06153	LNM 18/17, 8th Dist	129	11313_1	4/27/2017
+11313	Change	Channel Limits PT 3 OF 11	Chart No. 1: I20	N 27 50' 50.070"	W 097 03' 35.210"	27.84724	-97.05978	LNM 18/17, 8th Dist	129	11313_1	4/27/2017
+11313	Change	Channel Limits PT 4 OF 11	Chart No. 1: I20	N 27 50' 44.080"	W 097 03' 28.220"	27.84558	-97.05784	LNM 18/17, 8th Dist	129	11313_1	4/27/2017
+11313	Change	Channel Limits PT 5 OF 11	Chart No. 1: I20	N 27 49' 03.990"	W 097 00' 25.270"	27.81778	-97.00702	LNM 18/17, 8th Dist	129	11313_1	4/27/2017
+11313	Change	Channel Limits PT 7 OF 11	Chart No. 1: I20	N 27 50' 29.820"	W 097 04' 04.850"	27.84162	-97.06802	LNM 18/17, 8th Dist	129	11313_1	4/27/2017
+11313	Change	Channel Limits PT 8 OF 11	Chart No. 1: I20	N 27 50' 29.860"	W 097 03' 59.170"	27.84163	-97.06644	LNM 18/17, 8th Dist	129	11313_1	4/27/2017
+11313	Change	Channel Limits PT 9 OF 11	Chart No. 1: I20	N 27 50' 33.390"	W 097 03' 40.140"	27.84261	-97.06115	LNM 18/17, 8th Dist	129	11313_1	4/27/2017
+11313	Change	Channel Limits PT 10 OF 11	Chart No. 1: I20	N 27 50' 32.910"	W 097 03' 24.570"	27.84248	-97.05682	LNM 18/17, 8th Dist	129	11313_1	4/27/2017
+11313	Change	Channel Limits PT 11 OF 11	Chart No. 1: I20	N 27 49' 04.700"	W 097 00' 41.670"	27.81797	-97.01157	LNM 18/17, 8th Dist	129	11313_1	4/27/2017
+11313	Change	Channel Limits PT 1 OF 11	Chart No. 1: I20	N 27 49' 03.550"	W 097 12' 15.400"	27.81765	-97.20428	LNM 18/17, 8th Dist	129	11313_1	4/27/2017
+11313	Change	Channel Limits PT 6 OF 11	Chart No. 1: I20	N 27 49' 03.550"	W 097 11' 48.380"	27.81765	-97.19677	LNM 18/17, 8th Dist	129	11313_1	4/27/2017
+11313	Add	Platform: (ExxonMobil-100-02)	Chart No. 1: L10	N 28 02' 28.300"	W 096 35' 09.850"	28.04119	-96.58607	LNM 30/16, 8th Dist	129	11313_1	8/11/2016
+11313	Add	Dotted Fish Haven and Label PT 1 OF 4	Obstn Fish Haven (auth min 50 ft)	N 27 53' 47.170"	W 096 25' 54.050"	27.89644	-96.43168	LNM 11/16, 8th Dist	129	11313_1	3/10/2016
+11313	Add	Dotted Fish Haven and Label PT 2 OF 4	Obstn Fish Haven (auth min 50 ft)	N 27 53' 34.080"	W 096 25' 54.350"	27.8928	-96.43176	LNM 11/16, 8th Dist	129	11313_1	3/10/2016
+11313	Add	Dotted Fish Haven and Label PT 3 OF 4	Obstn Fish Haven (auth min 50 ft)	N 27 53' 33.830"	W 096 25' 39.680"	27.89273	-96.42769	LNM 11/16, 8th Dist	129	11313_1	3/10/2016
+11313	Add	Dotted Fish Haven and Label PT 4 OF 4	Obstn Fish Haven (auth min 50 ft)	N 27 53' 46.890"	W 096 25' 39.360"	27.89636	-96.4276	LNM 11/16, 8th Dist	129	11313_1	3/10/2016
+11313	Delete	Platform: (Gom Shelf-200-7)	Chart No. 1: L10	N 27 57' 05.220"	W 096 31' 34.820"	27.95145	-96.52634	LNM 51/15, 8th Dist	129	11313_1	1/7/2016
+11313	Delete	Platform (Hall Houston-109-3)	Chart No. 1: L10	N 28 11' 35.817"	W 096 27' 07.834"	28.19328	-96.45218	LNM 47/15, 8th Dist	129	11313_1	12/10/2015
+11313	Delete	Platform (Hall-Houston-109-5)	Chart No. 1: L10	N 28 11' 37.400"	W 096 26' 37.500"	28.19372	-96.44375	LNM 47/15, 8th Dist	129	11313_1	12/10/2015
+11313	Delete	Platform: (Apache-161-500)	Chart No. 1: L10	N 27 55' 06.900"	W 096 25' 01.400"	27.91858	-96.41705	LNM 47/15, 8th Dist	129	11313_1	12/10/2015
+11313	Delete	Platform (Fieldwood-120-4)	Chart No. 1: L10	N 27 53' 43.973"	W 096 25' 40.746"	27.89555	-96.42799	LNM 46/15, 8th Dist	129	11313_1	11/26/2015
+11313	Relocate	Shoreline Ten Wreck Lighted Buoy WR2	R "WR2" Q R	N 28 04' 48.080"	W 096 42' 56.425"	28.08002	-96.71568	LNM 38/15, 8th Dist	129	11313_1	10/8/2015
+11313	Change	Harbor Island Range Front Light	{Iso 2s 65ft (Day), Iso G 2s 67ft (Night)	N 27 50' 45.333"	W 097 03' 41.196"	27.84593	-97.06145	LNM 26/15, 8th Dist	129	11313_1	7/16/2015
+11313	Change	Harbor Island Range Rear Light	{F 125ft (Day), F G 123ft (Night)	N 27 51' 08.414"	W 097 04' 24.070"	27.85234	-97.07335	LNM 26/15, 8th Dist	129	11313_1	7/16/2015
+11313	Add	Platform (White Marlin-102-1)	Chart No. 1: L10	N 28 02' 54.480"	W 096 43' 11.280"	28.04847	-96.7198	LNM 23/15, 8th Dist	129	11313_1	6/18/2015
+11313	Relocate	Corpus Christi Cut A East Range Front Light	Q 38ft	N 27 50' 41.312"	W 097 03' 16.340"	27.84481	-97.05454	LNM 47/14, 8th Dist	129	11313_1	12/11/2014
+11313	Delete	Platform: (Llog-111-9)	Chart No 1: L-10	N 27 55' 11.739"	W 096 55' 53.643"	27.91993	-96.93156	LNM 43/14, 8th Dist	129	11313_1	11/6/2014
+11313	Delete	Platform: (Apache-165-1)	Chart No. 1: L10	N 27 53' 09.384"	W 096 44' 38.180"	27.88594	-96.74394	LNM 04/13, 8th Dist	129	11313_1	2/4/2013
+11313	Change	Harbor Island Range Rear Light	{F 125ft (Day), F 123ft (Night)	N 27 51' 08.414"	W 097 04' 24.070"	27.85234	-97.07335	LNM 04/13, 8th Dist	129	11313_1	2/4/2013
+11313	Change	Harbor Island Range Rear Light	{F 122ft (Day), F 123ft (Night)	N 27 51' 08.414"	W 097 04' 24.070"	27.85234	-97.07335	LNM 02/13, 8th Dist	129	11313_1	1/23/2013
+11313	Relocate	Harbor Island Range Rear Light	{F 122ft (Day), F 123ft (Night)	N 27 51' 08.414"	W 097 04' 24.070"	27.85234	-97.07335	LNM 02/13, 8th Dist	129	11313_1	1/23/2013
+11313	Change	Corpus Christi Cut A East Range Rear Light	Iso 6s 93ft	N 27 50' 47.194"	W 097 02' 44.645"	27.84644	-97.04574	LNM 02/13, 8th Dist	129	11313_1	1/23/2013
+11313	Relocate	Corpus Christi Cut A East Range Rear Light	Iso 6s 93ft	N 27 50' 47.194"	W 097 02' 44.645"	27.84644	-97.04574	LNM 02/13, 8th Dist	129	11313_1	1/23/2013
+11313	Delete	Platform	Chart No. 1: L10	N 28 04' 04.710"	W 096 28' 23.638"	28.06797	-96.47324	LNM 45/11, 8th Dist	129	11313_1	11/15/2011
+11313	Relocate	Corpus Christi Cut A East Range Front Light	Q 38ft	N 27 50' 41.216"	W 097 03' 17.001"	27.84478	-97.05473	LNM 43/11, 8th Dist	129	11313_1	11/3/2011
+11313	Delete	Platform (Gom Shelf-700-8)	Chart No. 1: L10	N 28 03' 48.758"	W 096 29' 19.734"	28.06354	-96.48882	LNM 38/11, 8th Dist	129	11313_1	9/26/2011
+11313	Change	Aransas Pass Lighted Buoy 6	R "6" Fl R 4s	N 27 49' 31.128"	W 097 01' 13.567"	27.82531	-97.02043	LNM 26/11, 8th Dist	129	11313_1	7/5/2011
+11313	Relocate	Aransas Pass Lighted Buoy 6	R "6" Fl R 4s	N 27 49' 31.128"	W 097 01' 13.567"	27.82531	-97.02043	LNM 26/11, 8th Dist	129	11313_1	7/5/2011
+11313	Change	Harbor Island Range Rear Light	{F 122ft (Day), F 120ft (Night)	N 27 51' 08.424"	W 097 04' 24.059"	27.85234	-97.07335	LNM 22/11, 8th Dist	129	11313_1	6/6/2011
+11313	Relocate	Harbor Island Range Rear Light	{F 122ft (Day), F 120ft (Night)	N 27 51' 08.424"	W 097 04' 24.059"	27.85234	-97.07335	LNM 22/11, 8th Dist	129	11313_1	6/6/2011
+11313	Change	Harbor Island Range Front Light	{Iso 2s 65ft (Day), Iso 2s 67ft (Night)	N 27 50' 45.333"	W 097 03' 41.196"	27.84593	-97.06145	LNM 22/11, 8th Dist	129	11313_1	6/6/2011
+11313	Add	Submarine Pipeline  PT 1 OF 2	Chart No. 1: L40.1	N 28 04' 28.720"	W 096 29' 35.740"	28.07464	-96.49326	LNM 08/11, 8th Dist	129	11313_1	2/18/2011
+11313	Add	Submarine Pipeline  PT 2 OF 2	Chart No. 1: L40.1	N 28 02' 27.710"	W 096 27' 54.910"	28.04103	-96.46526	LNM 08/11, 8th Dist	129	11313_1	2/18/2011
+11313	Delete	Obstruction	Obstn PA         Chart No. 1: K40	N 28 04' 04.710"	W 096 28' 23.640"	28.06797	-96.47324	LNM 06/11, 8th Dist	129	11313_1	2/14/2011
+11313	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 28 04' 04.710"	W 096 28' 23.640"	28.06797	-96.47324	LNM 03/11, 8th Dist	129	11313_1	1/21/2011
+11313	Relocate	Corpus Christi Cut A East Range Front Light	Q 38ft	N 27 50' 41.174"	W 097 03' 16.976"	27.84477	-97.05472	LNM 47/10, 8th Dist	129	11313_1	11/29/2010
+11313	Change	Corpus Christi Cut A East Range Front Light	Q 38ft	N 27 50' 41.174"	W 097 03' 16.976"	27.84477	-97.05472	LNM 47/10, 8th Dist	129	11313_1	11/29/2010
+11313	Delete	Platform: (Hunt-102-1)	Chart No. 1: L10	N 28 03' 32.947"	W 096 34' 36.163"	28.05915	-96.57671	LNM 44/10, 8th Dist	129	11313_1	11/8/2010
+11313	Delete	Platform: (Llog-111-2)	Chart No. 1: L10	N 28 04' 32.000"	W 096 36' 14.000"	28.07556	-96.60389	LNM 43/10, 8th Dist	129	11313_1	11/1/2010
+11313	Delete	Platform: (Llog-111-4)	Chart No. 1: L10	N 27 52' 45.424"	W 096 57' 18.294"	27.87928	-96.95508	LNM 43/10, 8th Dist	129	11313_1	11/1/2010

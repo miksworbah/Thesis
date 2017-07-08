@@ -1,0 +1,53 @@
+Chart: 12200, Current Edition: 51, Print Date: Jun. /2014, Cape May to Cape Hatteras
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12200	Relocate	NOAA Lighted Data Buoy 41001 (ODAS)	Y ODAS "41001" Fl (4) Y 20s PA	N 34 38' 48.000"	W 072 37' 18.000"	34.64667	-72.62167	LNM 17/17, 5th Dist	526	12200_1	5/4/2017
+12200	Delete	NC Artificial Fishing Reef Buoy AR145	Y C "AR145" Priv	N 35 54' 01.633"	W 075 23' 46.584"	35.90046	-75.39627	LNM 14/17, 5th Dist	526	12200_1	4/13/2017
+12200	Delete	NC Artificial Fishing Reef Buoy AR160	Y C "AR160" Priv	N 35 43' 56.520"	W 075 26' 46.260"	35.73237	-75.44618	LNM 14/17, 5th Dist	526	12200_1	4/13/2017
+12200	Relocate	Winter Quarter Shoal Lighted Buoy 6	R "6" Fl R 6s	N 37 59' 42.534"	W 075 01' 22.477"	37.99515	-75.02291	LNM 13/17, 5th Dist	526	12200_1	4/6/2017
+12200	Change	Dangerous Wreck	(Chart No. 1: K28)	N 35 43' 07.020"	W 075 24' 21.780"	35.71862	-75.40605	LNM 13/17, 5th Dist	526	12200_1	4/6/2017
+12200	Add	Submerged Obstruction	Obstn PA  (Chart No. 1: K40)	N 35 43' 07.020"	W 075 24' 21.780"	35.71862	-75.40605	LNM 12/17, 5th Dist	526	12200_1	3/23/2017
+12200	Add	Scripps Lighted Data Buoy CDIP 171	Y "CDIP 171" Fl (5) Y 20s PA	N 36 36' 14.000"	W 074 50' 19.000"	36.60389	-74.83861	LNM 11/17, 5th Dist	526	12200_1	3/23/2017
+12200	Delete	NC Artificial Fishing Reef Buoy AR225	Y C "AR225" Priv	N 35 06' 48.633"	W 075 39' 08.566"	35.11351	-75.65238	LNM 03/17, 5th Dist	526	12200_1	1/26/2017
+12200	Relocate	Hatteras Inlet Entrance Lighted Whistle Buoy HI	RW "HI" Mo (A) WHIS	N 35 09' 47.681"	W 075 45' 15.169"	35.16325	-75.75421	LNM 03/17, 5th Dist	526	12200_1	1/26/2017
+12200	Delete	NC Artificial Fishing Reef Buoy AR255	Y C "AR255" Priv	N 34 55' 30.613"	W 075 57' 58.625"	34.92517	-75.96629	LNM 03/17, 5th Dist	526	12200_1	1/26/2017
+12200	Delete	NC Artificial Fishing Reef Buoy AR250	Y C "AR250" Priv	N 34 57' 00.616"	W 075 54' 58.615"	34.95017	-75.91628	LNM 03/17, 5th Dist	526	12200_1	1/26/2017
+12200	Change	Cape May Light	Fl 15s 165ft 22M	N 38 55' 58.784"	W 074 57' 37.379"	38.93299	-74.96038	LNM 01/17, 5th Dist	526	12200_1	1/12/2017
+12200	Change	Chesapeake Lights (2)	2 Fl 4s 84ft 5M Priv (delete HORN and RACON ( - . )	N 36 54' 16.696"	W 075 42' 45.818"	36.90464	-75.71273	LNM 40/16, 5th Dist	526	12200_1	10/13/2016
+12200	Relocate	Hatteras Inlet Entrance Lighted Whistle Buoy HI	RW "HI" Mo (A) WHIS	N 35 09' 28.680"	W 075 46' 40.418"	35.15797	-75.77789	LNM 38/16, 5th Dist	526	12200_1	9/22/2016
+12200	Delete	Great Gull Bank Lighted Buoy 4	R "4" Fl R 4s	N 38 16' 22.413"	W 075 00' 19.650"	38.27289	-75.00546	LNM 03/16, 5th Dist	526	12200_1	1/28/2016
+12200	Delete	Garden State Offshore Energy Lighted Data Buoy GS	Y "GS" Fl Y 2s RACON G (--.) Priv	N 39 04' 36.000"	W 074 18' 36.000"	39.07667	-74.31	LNM 43/15, 5th Dist	526	12200_1	10/29/2015
+12200	Change	Cape May Inlet West Jetty Light 5	Fl G 4s 38ft 5M "5"	N 38 56' 11.715"	W 074 51' 55.311"	38.93659	-74.86536	LNM 43/15, 5th Dist	526	12200_1	10/29/2015
+12200	Delete	Great Machipongo Inlet Buoy 2	R N "2"	N 37 23' 00.000"	W 075 41' 28.200"	37.38334	-75.69117	LNM 43/15, 5th Dist	526	12200_1	10/29/2015
+12200	Delete	Winter Quarter Shoal Buoy 5	G C "5"	N 37 58' 18.440"	W 075 09' 06.673"	37.97179	-75.15186	LNM 42/15, 5th Dist	526	12200_1	10/29/2015
+12200	Add	Non-Dangerous Obstruction	Obstn PA (dashed line circle)	N 38 22' 18.000"	W 074 22' 00.000"	38.37167	-74.36667	LNM 40/15, 5th Dist	526	12200_1	10/22/2015
+12200	Relocate	Chesapeake Bay Southern Approach Lighted Buoy 8	R "8" Fl R 2.5s	N 36 51' 42.253"	W 075 50' 46.702"	36.86174	-75.84631	LNM 39/15, 5th Dist	526	12200_1	10/8/2015
+12200	Relocate	NOAA Lighted Data Buoy 44009 (ODAS)	Y ODAS "44009" Fl (4) Y 20s PA	N 38 27' 40.302"	W 074 42' 08.480"	38.4612	-74.70235	LNM 30/15, 5th Dist	526	12200_1	8/6/2015
+12200	Relocate	NOAA Lighted Data Buoy 41001 (ODAS)	Y ODAS "41001" Fl (4) Y 20s PA	N 34 38' 08.676"	W 072 41' 30.697"	34.63574	-72.69186	LNM 30/15, 5th Dist	526	12200_1	8/6/2015
+12200	Delete	Obstruction in Fathoms	7 1/4 Obstn       Chart No. 1: K41	N 38 47' 09.560"	W 074 44' 18.110"	38.78599	-74.73837	LNM 26/15, 5th Dist	526	12200_1	6/25/2015
+12200	Add	Wreck in Fathoms	11 Wk    Chart No. 1: K26	N 38 46' 13.900"	W 074 44' 25.980"	38.77053	-74.74055	LNM 26/15, 5th Dist	526	12200_1	6/25/2015
+12200	Delete	Obstruction in Fathoms	9 1/2 Obstn       Chart No. 1: K41	N 38 47' 17.950"	W 074 45' 28.250"	38.78832	-74.75785	LNM 26/15, 5th Dist	526	12200_1	6/25/2015
+12200	Delete	Obstruction in Fathoms	11 Obstn       Chart No. 1: K41	N 38 45' 31.340"	W 074 42' 57.500"	38.75871	-74.71597	LNM 26/15, 5th Dist	526	12200_1	6/25/2015
+12200	Add	Wreck in Fathoms	10 1/2 Wk    Chart No. 1: K26	N 38 46' 19.900"	W 074 44' 33.520"	38.77219	-74.74265	LNM 26/15, 5th Dist	526	12200_1	6/25/2015
+12200	Delete	Wreck in Fathoms	8 1/2 Wks    Chart No. 1: K26	N 38 46' 24.160"	W 074 44' 21.220"	38.77338	-74.73923	LNM 26/15, 5th Dist	526	12200_1	6/25/2015
+12200	Delete	Wreck in Fathoms	8 Wk    Chart No. 1: K26	N 38 45' 52.040"	W 074 45' 11.110"	38.76445	-74.75309	LNM 26/15, 5th Dist	526	12200_1	6/25/2015
+12200	Change	Fenwick Island Light	Iso 8s 83ft Priv	N 38 27' 06.000"	W 075 03' 18.000"	38.45167	-75.055	LNM 20/15, 5th Dist	526	12200_1	5/28/2015
+12200	Change	Ocean City Inlet Jetty Light	Iso 6s 38ft 6M HORN (MRASS)	N 38 19' 27.042"	W 075 05' 05.581"	38.32418	-75.08488	LNM 17/15, 5th Dist	526	12200_1	5/7/2015
+12200	Add	Note - MARINER ACTIVATED SOUND SIGNALS:	Sound signals labeled with (MRASS) require user activation.  See USCG Light List.	N 35 21' 37.000"	W 075 53' 16.000"	35.36028	-75.88778	LNM 17/15, 5th Dist	526	12200_1	5/7/2015
+12200	Delete	Ocean City Research Buoy	Y C Army	N 38 20' 44.000"	W 075 01' 07.000"	38.34555	-75.01861	LNM 16/15, 5th Dist	526	12200_1	4/30/2015
+12200	Delete	Obstruction in Fathoms with Basket	10 Obstn       Chart No. 1: K42	N 38 49' 10.020"	W 074 31' 15.850"	38.81945	-74.52107	LNM 17/15, 5th Dist	526	12200_1	4/30/2015
+12200	Add	NOAA Lighted Data Buoy 41025 (ODAS)	Y ODAS "41025" Fl (4) Y 20s PA	N 35 00' 22.123"	W 075 24' 06.755"	35.00615	-75.40188	LNM 15/15, 5th Dist	526	12200_1	4/23/2015
+12200	Relocate	Chesapeake Bay Southern Approach Lighted Whistle Buoy CB	RW "CB" Mo (A) WHIS RACON (-.-) AIS  (Chart No. 1: S17.2)	N 36 48' 59.743"	W 075 45' 36.013"	36.8166	-75.76	LNM 07/15, 5th Dist	526	12200_1	2/26/2015
+12200	Delete	NOAA Lighted Data Buoy 41025 (ODAS)	Y ODAS "41025" Fl (4) Y 20s PA	N 35 00' 22.000"	W 075 24' 07.000"	35.00611	-75.40195	LNM 07/15, 5th Dist	526	12200_1	2/26/2015
+12200	Change	Delaware Bay Approach Lighted Whistle Buoy CH	RW "CH" Mo (A) WHIS RACON (-.-) AIS  (Chart No. 1: S17.2)	N 38 46' 13.977"	W 075 01' 19.524"	38.77055	-75.02209	LNM 07/15, 5th Dist	526	12200_1	2/26/2015
+12200	Change	Chesapeake Bay Entrance Lighted Whistle Buoy CH	RW "CH" Mo (A) WHIS RACON (-.-.) AIS  (Chart No. 1: S17.2)	N 36 56' 08.329"	W 075 57' 26.543"	36.93565	-75.95737	LNM 07/15, 5th Dist	526	12200_1	2/26/2015
+12200	Change	Chesapeake Bay Southern Approach Lighted Whistle Buoy CB	RW "CB" Mo (A) WHIS RACON (-.-) AIS  (Chart No. 1: S17.2)	N 36 48' 59.743"	W 075 45' 36.013"	36.8166	-75.76	LNM 07/15, 5th Dist	526	12200_1	2/26/2015
+12200	Relocate	Five Fathom Bank Northeast Lighted Bell Buoy 2FB	R "2FB" Fl R 4s BELL	N 38 58' 12.411"	W 074 31' 34.554"	38.97012	-74.52627	LNM 40/14, 5th Dist	526	12200_1	10/9/2014
+12200	Delete	Little Gull Bank Buoy LG	GR C "LG"	N 38 16' 50.684"	W 075 04' 06.689"	38.28075	-75.06853	LNM 39/14, 5th Dist	526	12200_1	10/9/2014
+12200	Change	Delaware Bay North Approach Lighted Buoy 2	R "2" Q R (delete BELL)	N 38 48' 19.000"	W 074 55' 18.000"	38.80528	-74.92167	LNM 38/14, 5th Dist	526	12200_1	10/2/2014
+12200	Delete	NC Artifical Fishing Reef Buoy AR130	Y C "AR130" Priv	N 36 00' 18.615"	W 075 31' 58.613"	36.00517	-75.53295	LNM 35/14, 5th Dist	526	12200_1	9/11/2014
+12200	Delete	NC Artificial Fishing Reef Buoy AR230	Y C "AR230" Priv	N 35 06' 19.629"	W 075 43' 20.580"	35.10545	-75.72238	LNM 35/14, 5th Dist	526	12200_1	9/11/2014
+12200	Change	Blackfish Bank Lighted Buoy 8	R "8" Fl R 2.5s (delete GONG)	N 37 50' 37.451"	W 075 12' 05.685"	37.84373	-75.20158	LNM 31/14, 5th Dist	526	12200_1	8/14/2014
+12200	Change	Cape Charles Lighted Buoy 14	R "14" Fl R 2.5s (delete BELL)	N 37 07' 23.521"	W 075 40' 58.707"	37.1232	-75.68298	LNM 29/14, 5th Dist	526	12200_1	7/31/2014
+12200	Relocate	Cape Charles Lighted Buoy 14	R "14" Fl R 2.5s	N 37 07' 23.521"	W 075 40' 58.707"	37.1232	-75.68298	LNM 29/14, 5th Dist	526	12200_1	7/31/2014
+12200	Delete	Great Machipongo Inlet Lighted Whistle Buoy GM at	RW "GM" Mo (A) WHIS	N 37 23' 36.000"	W 075 39' 06.000"	37.39333	-75.65166	LNM 28/14, 5th Dist	526	12200_1	7/17/2014
+12200	Add	VA DMME Lighted Data Buoy A	Y "A" Fl (5) Y 20s Priv PA	N 36 52' 19.800"	W 075 29' 30.000"	36.87217	-75.49167	LNM 22/14, 5th Dist	526	12200_1	6/12/2014

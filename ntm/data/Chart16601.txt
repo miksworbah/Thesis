@@ -1,0 +1,3 @@
+Chart: 16601, Current Edition: 11, Print Date: Jul. /2014, Cape Alitak to Cape lkolik
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16601	Add	Dangerous Wreck	PA	N 56 53' 47.400"	W 154 22' 44.400"	56.8965	-154.379	LNM 46/16, 17th Dist	2564	16601_1	12/15/2016

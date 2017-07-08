@@ -1,0 +1,2 @@
+Chart: 17336, Current Edition: 10, Print Date: Jan. /2013, Harbors in Chatham Strait and vicinity Gut Bay, Chatham Strait;Hoggatt Bay, Chatham Strait;Red Bluff Bay, Chatham Strait;Herring Bay and Chapin Bay, Frederick Sound;Surprise Hbr, and Murder Cove, Frederick Sound 
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

@@ -1,0 +1,330 @@
+Chart: 11352, Current Edition: 42, Print Date: Jul. /2012, Intracoastal Waterway New Orleans to Calcasieu River East Section
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11352	Add	Submerged Obstruction	Obstn PA     Chart No. 1:K40	N 29 24' 19.000"	W 090 03' 01.800"	29.40528	-90.0505	LNM 26/17, 8th Dist	46	11352_1	Not Yet
+11352	Add	Visible Pipe 	Pipe PA	N 29 21' 42.000"	W 091 15' 36.100"	29.36167	-91.26003	LNM 25/17, 8th Dist	46	11352_1	6/29/2017
+11352	Add	Bayou Rosa Oyster Farm Special Lights (4)	4 Fl Y 2.5s Priv	N 29 14' 32.570"	W 090 15' 20.853"	29.24238	-90.25579	LNM 22/17, 8th Dist	46	11352_1	6/8/2017
+11352	Add	Submerged Obstruction	Obstn PA      Chart No. 1:K40	N 29 05' 45.000"	W 090 52' 05.500"	29.09583	-90.86819	LNM 21/17, 8th Dist	46	11352_1	6/8/2017
+11352	Add	CPRA Barataria Basin Scientific Platform Light	Q 16ft Priv	N 29 13' 52.880"	W 090 02' 54.680"	29.23136	-90.04852	LNM 21/17, 8th Dist	46	11352_1	6/8/2017
+11352	Add	CPRA Barataria Basin Scientific Platform Light	Q 16ft Priv	N 29 20' 01.050"	W 089 59' 18.600"	29.33363	-89.9885	LNM 21/17, 8th Dist	46	11352_1	6/8/2017
+11352	Add	Submerged Pile 	Subm Pile PA	N 29 08' 01.200"	W 090 17' 03.300"	29.13367	-90.28425	LNM 20/17, 8th Dist	46	11352_1	6/1/2017
+11352	Add	Dangerous Wreck	PA      Chart No. 1: K28	N 29 14' 40.800"	W 090 40' 44.100"	29.24467	-90.67892	LNM 20/17, 8th Dist	46	11352_1	6/1/2017
+11352	Add	Dangerous Wreck	PA     Chart No. 1: K28	N 29 20' 07.000"	W 090 14' 33.000"	29.33528	-90.2425	LNM 19/17, 8th Dist	46	11352_1	5/18/2017
+11352	Add	Visible Wreck	PA     Chart No.1: K24	N 29 19' 54.000"	W 091 24' 48.000"	29.33167	-91.41333	LNM 19/17, 8th Dist	46	11352_1	5/18/2017
+11352	Add	Dangerous Wreck	PA     Chart No. 1: K28	N 29 17' 30.000"	W 089 54' 24.000"	29.29167	-89.90667	LNM 18/17, 8th Dist	46	11352_1	5/11/2017
+11352	Add	Falgout Canal Floodgate Light 1	Fl G 2.5s Priv	N 29 24' 57.830"	W 090 47' 23.510"	29.41606	-90.78986	LNM 15/17, 8th Dist	46	11352_1	4/20/2017
+11352	Add	Falgout Canal Floodgate Light 2	Fl R 2.5s Priv	N 29 24' 56.090"	W 090 47' 23.840"	29.41558	-90.78996	LNM 15/17, 8th Dist	46	11352_1	4/20/2017
+11352	Add	Falgout Canal Floodgate Light 3	Fl G 2.5s Priv	N 29 24' 56.490"	W 090 47' 18.110"	29.41569	-90.78836	LNM 15/17, 8th Dist	46	11352_1	4/20/2017
+11352	Add	Falgout Canal Floodgate Light 4	Fl R 2.5s Priv	N 29 24' 54.800"	W 090 47' 18.660"	29.41522	-90.78851	LNM 15/17, 8th Dist	46	11352_1	4/20/2017
+11352	Add	Piles	Piles     Chart No. 1: F22	N 29 28' 28.800"	W 090 05' 10.300"	29.47467	-90.0862	LNM 12/17, 8th Dist	46	11352_1	3/30/2017
+11352	Add	Dangerous Wreck	PA     Chart No. 1: K28	N 29 10' 07.000"	W 090 17' 07.000"	29.16861	-90.28528	LNM 35/16, 8th Dist	46	11352_1	9/8/2016
+11352	Relocate	Bayou Villars Daybeacon 2	R "2"	N 29 44' 20.965"	W 090 08' 32.797"	29.73916	-90.14244	LNM 30/16, 8th Dist	46	11352_1	8/11/2016
+11352	Relocate	Grand Bayou Dularge Obstruction Light WR4	Q R 17ft 3M "WR4"	N 29 12' 55.113"	W 090 56' 57.662"	29.21531	-90.94935	LNM 26/16, 8th Dist	46	11352_1	7/7/2016
+11352	Add	Visible Wreck	PA     Chart No 1: K24	N 29 26' 06.200"	W 090 40' 03.200"	29.43505	-90.66756	LNM 25/16, 8th Dist	46	11352_1	7/7/2016
+11352	Relocate	Barataria Waterway Light 6	Fl R 2.5s 17ft 3M "6" Ra Ref	N 29 17' 26.942"	W 089 58' 21.928"	29.29082	-89.97276	LNM 25/16, 8th Dist	46	11352_1	7/7/2016
+11352	Add	Dangerous Wreck	PA Chart No. 1: K28	N 29 11' 58.200"	W 090 37' 15.000"	29.1995	-90.62083	LNM 24/16, 8th Dist	46	11352_1	6/30/2016
+11352	Add	Dangerous Wreck	Mast PA Chart No. 1: K25	N 29 12' 36.000"	W 090 37' 30.000"	29.21	-90.625	LNM 24/16, 8th Dist	46	11352_1	6/30/2016
+11352	Change	Depth Note - NOTE D HOUMA NAVIGATION CANAL to:	The controlling depth was 13 feet through Cat Island Pass; thence 12 feet from the entrance of the improved channel in Terrebonne Bay (29°06'00"N 90°34'30"W), to Bayou Petit Caillou; thence 12 feet to Bayou Grand Caillou; thence 10 feet for a mid-width of 75 feet with 7 feet in the outside quarters to Bayou Pelton; thence 12 feet for a mid-width of 75 feet with 6 feet in the outside quarters to the junction with the Intracoastal Waterway. This waterway is subject to shoaling, particularly at the edges. May - Dec 2015	N 29 21' 11.000"	W 090 49' 44.000"	29.35306	-90.82889	LNM 22/16, 8th Dist	46	11352_1	6/2/2016
+11352	Change	Depth Note - NOTE I BAYOU LAFOURCHE  to:	The controlling depth was 17 feet for a width of 300-425 feet from the entrance in the Gulf, through Belle Pass Channel, to Port Fourchon; thence a centerline depth of 9 feet to Leeville; thence 7 feet to the Intracoastal Waterway at Larose; thence 4 feet to Raceland; thence 3 feet to Thibodaux. The old entrance through the jetties is closed by a dam. Oct 1989 - Dec 2015	N 29 27' 10.000"	W 090 13' 30.000"	29.45278	-90.225	LNM 17/16, 8th Dist	46	11352_1	4/28/2016
+11352	Relocate	Atchafalaya River Daybeacon 23	G "23" Ra Ref	N 29 35' 03.403"	W 091 13' 57.934"	29.58428	-91.23276	LNM 14/16, 8th Dist	46	11352_1	4/14/2016
+11352	Add	Jules Melancon Aquaculture Farm Special Lighted Buoy B	Y Fl Y2.5s "B" Priv	N 29 18' 07.750"	W 089 56' 06.599"	29.30215	-89.93517	LNM 13/16, 8th Dist	46	11352_1	4/7/2016
+11352	Add	Jules Melancon Aquaculture Farm Special Lighted Buoy C	Y Fl Y2.5s "C" Priv	N 29 18' 00.240"	W 089 56' 06.613"	29.30007	-89.93517	LNM 13/16, 8th Dist	46	11352_1	4/7/2016
+11352	Add	Jules Melancon Aquaculture Farm Special Lighted Buoy D	Y Fl Y2.5s "D" Priv	N 29 18' 00.359"	W 089 56' 17.782"	29.3001	-89.93827	LNM 13/16, 8th Dist	46	11352_1	4/7/2016
+11352	Add	TLCD Barge Floodgate Dolphin Light 1	Fl G 2.5s 15ft "1" Priv	N 29 25' 04.330"	W 090 26' 53.120"	29.41787	-90.44809	LNM 13/16, 8th Dist	46	11352_1	4/7/2016
+11352	Add	TLCD Barge Floodgate Dolphin Light 2	Fl R 2.5s 15ft "2" Priv	N 29 25' 04.610"	W 090 26' 52.440"	29.41795	-90.4479	LNM 13/16, 8th Dist	46	11352_1	4/7/2016
+11352	Add	TLCD Barge Floodgate Dolphin Light 3	Fl G 2.5s 15ft "3"  Priv	N 29 25' 06.630"	W 090 26' 54.370"	29.41851	-90.44843	LNM 13/16, 8th Dist	46	11352_1	4/7/2016
+11352	Add	TLCD Barge Floodgate Dolphin Light 4	Fl R 2.5s 15ft "4" Priv	N 29 25' 06.910"	W 090 26' 53.690"	29.41859	-90.44825	LNM 13/16, 8th Dist	46	11352_1	4/7/2016
+11352	Change	Depth Note - NOTE F BARATARIA WATERWAY to:	The controlling depth was 12 feet across the bar channel; thence 3 feet for a mid-width of 60 feet with 2 feet in the outside quarters to Buoy 19; thence 5 feet for a mid-width of 60 feet with 3 feet in the outside quarters to the entrance of the Bayou Rigolettes; thence 5 feet for a mid-width of 60 feet with 1 foot in the outside quarters to the junction with the Intracoastal Waterway. This waterway is subject to shoaling, particularly at the edges. Jan-Dec 2015	N 29 39' 56.000"	W 090 01' 50.000"	29.66556	-90.03056	LNM 14/16, 8th Dist	46	11352_1	4/7/2016
+11352	Relocate	Bayou Villars Daybeacon 2	R "2"	N 29 44' 20.548"	W 090 08' 33.706"	29.73904	-90.14269	LNM 10/16, 8th Dist	46	11352_1	3/17/2016
+11352	Change	Depth Note - NOTE D HOUMA NAVIGATION CANAL to:	The controlling depth was 13 feet through Cat Island Pass; thence 10 feet from the entrance of the improved channel in Terrebonne Bay (29°06’00”N 90°34’30”W), to Bayou Petit Caillou; thence 12 feet to Bayou Grand Caillou; thence 10 feet for a mid-width of 75 feet with 7 feet in the outside quarters to Bayou Pelton; thence 12 feet for a mid-width of 75 feet with 6 feet in the outside quarters to the junction with the Intracoastal Waterway. This waterway is subject to shoaling, particularly at the edges. May - Sep 2015	N 29 21' 11.000"	W 090 49' 44.000"	29.35306	-90.82889	LNM 10/16, 8th Dist	46	11352_1	3/3/2016
+11352	Add	Platform (Energy xxi-101-12)	Chart No. 1: L10	N 29 15' 17.830"	W 091 26' 46.290"	29.25495	-91.44619	LNM 52/15, 8th Dist	46	11352_1	1/7/2016
+11352	Add	Submerged Obstruction	PA	N 29 18' 27.000"	W 089 59' 03.000"	29.3075	-89.98417	LNM 52/15, 8th Dist	46	11352_1	1/7/2016
+11352	Delete	Atchafalaya Channel Buoy 20	R N "20"	N 29 17' 48.012"	W 091 26' 55.855"	29.29667	-91.44884	LNM 51/15, 8th Dist	46	11352_1	1/7/2016
+11352	Add	Atchafalaya Channel Daybeacon 20	R "20" Ra Ref	N 29 17' 48.097"	W 091 26' 55.120"	29.29669	-91.44865	LNM 51/15, 8th Dist	46	11352_1	1/7/2016
+11352	Delete	Atchafalaya Channel Lighted Buoy 19	G "19" Fl G 2.5s	N 29 17' 52.097"	W 091 27' 00.691"	29.2978	-91.4502	LNM 51/15, 8th Dist	46	11352_1	1/7/2016
+11352	Add	Atchafalaya Channel Light 19	Fl G 2.5s 17ft 3M "19" Ra Ref	N 29 17' 52.042"	W 091 27' 00.621"	29.29779	-91.45017	LNM 51/15, 8th Dist	46	11352_1	1/7/2016
+11352	Delete	Obstruction	Obstn PA          Chart No. 1: K40	N 29 08' 06.000"	W 089 51' 33.840"	29.135	-89.8594	LNM 49/15, 8th Dist	46	11352_1	12/3/2015
+11352	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 29 09' 00.120"	W 089 52' 09.540"	29.15003	-89.86932	LNM 49/15, 8th Dist	46	11352_1	12/3/2015
+11352	Change	Depth Note - NOTE D HOUMA NAVIGATION CANAL to:	The controlling depth was 13 feet through Cat Island Pass; thence 10 feet from the entrance of the improved channel in Terrebonne Bay (29°06'00"N 90°34'30"W), to Bayou Petit Caillou; thence 12 ft to Bayou Grand Caillou;thence 11 ft to Bayou Pelton, with left side shoaling from 29°29’02.4”N  90°42’51.6”W to 29°29’31.7”N  90°42’46.2”W, and right side shoaling from 29°27’53.6”N  90°43’01.3”W to 29°28’32.9”N  90°42’54.9”W; thence 8 feet to the junction with the Intracoastal Waterway.      Dec 2014 - Sep 2015	N 29 21' 11.000"	W 090 49' 44.000"	29.35306	-90.82889	LNM 44/15, 8th Dist	46	11352_1	11/5/2015
+11352	Delete	Bayou Barre Entrance Light	Fl 4s 17ft 4M Ra Ref	N 29 17' 19.333"	W 090 32' 26.516"	29.2887	-90.5407	LNM 42/15, 8th Dist	46	11352_1	11/5/2015
+11352	Delete	Lake Barre Pass Light 1	Fl G 2.5s 17ft 3M "1" Ra Ref	N 29 14' 56.055"	W 090 34' 39.570"	29.2489	-90.57766	LNM 42/15, 8th Dist	46	11352_1	11/5/2015
+11352	Delete	Lake Felicity Entrance Light 1	Fl G 4s 17ft 4M "1" Ra Ref	N 29 16' 21.809"	W 090 28' 31.062"	29.27272	-90.4753	LNM 42/15, 8th Dist	46	11352_1	11/5/2015
+11352	Delete	Lake Felicity Light 2	Fl R 4s 17ft 4M "2" Ra Ref	N 29 19' 13.592"	W 090 26' 15.329"	29.32044	-90.43759	LNM 42/15, 8th Dist	46	11352_1	11/5/2015
+11352	Change	Lake Boudreaux Lighted Buoy 19	Fl G 4s 4M "19"	N 29 23' 38.047"	W 090 38' 29.566"	29.3939	-90.64155	LNM 42/15, 8th Dist	46	11352_1	11/5/2015
+11352	Change	Lake Boudreaux Buoy 1	G C "1"	N 29 22' 07.207"	W 090 40' 36.511"	29.36867	-90.67681	LNM 42/15, 8th Dist	46	11352_1	11/5/2015
+11352	Change	Lake Boudreaux Buoy 2	R N "2"	N 29 22' 09.238"	W 090 40' 28.733"	29.36923	-90.67464	LNM 42/15, 8th Dist	46	11352_1	11/5/2015
+11352	Change	Lake Boudreaux Buoy 3	G C "3"	N 29 22' 13.459"	W 090 40' 27.798"	29.37041	-90.67439	LNM 42/15, 8th Dist	46	11352_1	11/5/2015
+11352	Change	Lake Boudreaux Buoy 4	R N "4"	N 29 22' 22.117"	W 090 40' 12.847"	29.37281	-90.67023	LNM 42/15, 8th Dist	46	11352_1	11/5/2015
+11352	Change	Lake Boudreaux Buoy 5	G C "5"	N 29 22' 28.677"	W 090 40' 09.647"	29.37463	-90.66935	LNM 42/15, 8th Dist	46	11352_1	11/5/2015
+11352	Change	Lake Boudreaux Lighted Buoy 7	G "7" Fl G 4s 4M 	N 29 22' 50.598"	W 090 39' 50.680"	29.38072	-90.66408	LNM 42/15, 8th Dist	46	11352_1	11/5/2015
+11352	Change	Lake Boudreaux Lighted Buoy 15	G "15" Q G 3M 	N 29 23' 50.049"	W 090 39' 12.026"	29.39724	-90.65334	LNM 42/15, 8th Dist	46	11352_1	11/5/2015
+11352	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 29 08' 06.000"	W 089 51' 33.840"	29.135	-89.8594	LNM 43/15, 8th Dist	46	11352_1	10/22/2015
+11352	Change	Depth Legend - Bayou Chene to:	6 FT MID 200 FT JUN 2015	N 29 37' 06.000"	W 091 06' 35.000"	29.61833	-91.10973	LNM 42/15, 8th Dist	46	11352_1	10/15/2015
+11352	Change	Depth Legend - Avoca I Cutoff to:	4 FT MID 200 FT JUN 2015	N 29 35' 51.000"	W 091 11' 18.000"	29.5975	-91.18833	LNM 42/15, 8th Dist	46	11352_1	10/15/2015
+11352	Add	Platform (EA27-SL20644-1 (Square Mile Energy))	Chart No. 1: L10	N 29 42' 02.900"	W 090 19' 34.200"	29.70081	-90.32616	LNM 40/15, 8th Dist	46	11352_1	10/15/2015
+11352	Add	Obstruction	Obstn PA         	N 29 06' 51.660"	W 091 01' 35.940"	29.11435	-91.02665	LNM 41/15, 8th Dist	46	11352_1	10/8/2015
+11352	Relocate	Atchafalaya Channel Light 55	Fl G 6s 17ft 3M "55"	N 29 27' 17.200"	W 091 17' 31.203"	29.45478	-91.292	LNM 33/15, 8th Dist	46	11352_1	8/27/2015
+11352	Relocate	Atchafalaya Channel Light 58	Fl R 6s 17ft 3M "58"	N 29 27' 58.936"	W 091 16' 32.698"	29.46637	-91.27575	LNM 33/15, 8th Dist	46	11352_1	8/27/2015
+11352	Change	Depth Note - Houma Navigation Channel to:	The controlling depth was 13 feet through Cat Island Pass; thence 11 feet from the entrance of the improved channel in Terrebonne Bay (29°06’00”N 90°34’30”W), To Bayou Petit Caillou; thence 12 feet to Bayou Grand Caillou; thence 11 feet to Bayou Pelton, with left side shoaling from 29°29’12.2”N 90°42’49.8”W to 29°29’31.7”N 90°42’46.2”W, and right side shoaling from 29°27’53.6”N 90°43’01.3”W to 29°28’13.3”N 90°42’57.8”W; thence 8 feet to the junction with the Intracoastal Waterway. Dec 2014 - May 2015	N 29 21' 11.000"	W 090 49' 44.000"	29.35306	-90.82889	LNM 32/15, 8th Dist	46	11352_1	8/6/2015
+11352	Delete	Obstruction in Feet	24 Obstn       Chart No. 1: K41	N 29 04' 27.620"	W 090 13' 47.790"	29.07434	-90.22994	LNM 29/15, 8th Dist	46	11352_1	7/16/2015
+11352	Delete	Dangerous Wreck	PA      Chart No. 1: K28	N 29 05' 21.800"	W 090 13' 36.300"	29.08939	-90.22675	LNM 29/15, 8th Dist	46	11352_1	7/16/2015
+11352	Change	Depth Note - NOTE F to:	BARATARIA WATERWAY The controlling depth was 12 feet across the bar channel;thence a depth of 2 feet to Buoy 19. From Buoy 19 to the entrance of the Bayou Rigolettes the controlling depth was 3 feet; thence 3 feet to the junction with theIntracoastal Waterway.  Jan 2015	N 29 39' 56.000"	W 090 01' 50.000"	29.66556	-90.03056	LNM 28/15, 8th Dist	46	11352_1	7/9/2015
+11352	Change	Depth Note - Houma Navigation Channel to:	The controlling depth was 13 feet through Cat Island Pass; thence 12 feet from the entrance of the improved channel in Terrebonne Bay (29°06’00”N  90°34’30”W), To Bayou Petit Caillou; thence 12 feet to Bayou Grand Caillou; thence 11 feet to Bayou Pelton, with left side shoaling from 29°29’12.2”N  90°42’49.8”W to 29°29’31.7”N  90°42’46.2”W, and right side shoaling from 29°27’53.6”N  90°43’01.3”W to 29°28’13.3”N  90°42’57.8”W; thence 8 feet to the junction with the Intracoastal Waterway.      Feb - Dec 2014	N 29 21' 11.000"	W 090 49' 44.000"	29.35306	-90.82889	LNM 19/15, 8th Dist	46	11352_1	5/14/2015
+11352	Delete	Clovelly Canal Light 2	Fl R 4s 12ft "2"	N 29 33' 11.000"	W 090 12' 40.000"	29.55305	-90.21111	LNM 17/15, 8th Dist	46	11352_1	5/7/2015
+11352	Delete	Clovelly Canal Daybeacon 4	R "4" Priv	N 29 33' 06.000"	W 090 12' 18.000"	29.55167	-90.205	LNM 17/15, 8th Dist	46	11352_1	5/7/2015
+11352	Delete	Clovelly Canal Daybeacon 12	R "12" Priv	N 29 33' 22.000"	W 090 11' 34.000"	29.55611	-90.19278	LNM 17/15, 8th Dist	46	11352_1	5/7/2015
+11352	Delete	Clovelly Canal Daybeacon 28	R "28" Priv	N 29 33' 57.000"	W 090 10' 20.000"	29.56583	-90.17223	LNM 17/15, 8th Dist	46	11352_1	5/7/2015
+11352	Change	Depth Legend - Bayou Chene to:	7 FT MID 200 FT FEB 2015	N 29 37' 06.100"	W 091 06' 26.300"	29.61836	-91.10731	LNM 19/15, 8th Dist	46	11352_1	5/7/2015
+11352	Change	Depth Legend - Bayou Black to:	10 FT MID 200 FT FEB 2015	N 29 38' 41.000"	W 091 02' 23.000"	29.64472	-91.03972	LNM 19/15, 8th Dist	46	11352_1	5/7/2015
+11352	Change	Depth Legend - Avoca I Cutoff to:	6 1/2 FT MID 200 FT JUN 2014 - FEB 2015	N 29 35' 40.000"	W 091 10' 06.000"	29.59444	-91.16833	LNM 19/15, 8th Dist	46	11352_1	5/7/2015
+11352	Add	LDWF Special Lighted Buoy A	Y "A" Fl Y 2.5s Priv	N 29 06' 14.800"	W 091 03' 06.700"	29.10411	-91.05186	LNM 16/15, 8th Dist	46	11352_1	4/30/2015
+11352	Add	LDWF Special Lighted Buoy B	Y "B" Fl Y 2.5s Priv	N 29 06' 26.700"	W 091 03' 14.800"	29.10742	-91.05411	LNM 16/15, 8th Dist	46	11352_1	4/30/2015
+11352	Add	LDWF Special Lighted Buoy C	Y "C" Fl Y 2.5s Priv	N 29 06' 32.600"	W 091 03' 29.300"	29.10906	-91.05814	LNM 16/15, 8th Dist	46	11352_1	4/30/2015
+11352	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 29 06' 35.920"	W 091 03' 33.000"	29.10998	-91.05917	LNM 06/15, 8th Dist	46	11352_1	2/12/2015
+11352	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 29 06' 35.840"	W 091 02' 55.530"	29.10995	-91.04876	LNM 06/15, 8th Dist	46	11352_1	2/12/2015
+11352	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 29 05' 51.730"	W 091 02' 55.650"	29.0977	-91.04879	LNM 06/15, 8th Dist	46	11352_1	2/12/2015
+11352	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 29 05' 51.810"	W 091 03' 33.120"	29.09772	-91.0592	LNM 06/15, 8th Dist	46	11352_1	2/12/2015
+11352	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 6 ft)	N 29 05' 46.100"	W 091 04' 09.800"	29.09614	-91.06939	LNM 06/15, 8th Dist	46	11352_1	2/12/2015
+11352	Add	Submerged Obstruction	Obstn PA        Chart No. 1: K40	N 29 12' 48.000"	W 090 30' 24.000"	29.21333	-90.50667	LNM 03/15, 8th Dist	46	11352_1	1/29/2015
+11352	Change	Visible Wreck to Dangerous Wreck	PA      Chart No. 1: K28	N 29 04' 12.970"	W 090 25' 12.370"	29.07027	-90.4201	LNM 03/15, 8th Dist	46	11352_1	1/15/2015
+11352	Change	Depth Note I - BAYOU LAFOURCHE to:	The controlling depth was 16 feet for a width of 300-425 feet from the entrance in the Gulf, through Belle Pass Channel, to Port Fourchon; thence a centerline depth of 9 feet to Leeville; thence 7 feet to the Intracoastal Waterway at Larose; thence 4 feet to Raceland; thence 3 feet to Thibodaux. The old entrance through the jetties is closed by a dam. Oct 1989 - Oct 2014	N 29 27' 00.000"	W 090 13' 16.000"	29.45	-90.22111	LNM 02/15, 8th Dist	46	11352_1	1/8/2015
+11352	Add	Visible Pipes	Pipes PA        Chart No. 1: F22	N 29 19' 02.000"	W 090 59' 02.000"	29.31722	-90.98389	LNM 51/14, 8th Dist	46	11352_1	1/8/2015
+11352	Add	Submerged Obstruction  	Obstn PA (Chart No 1: K-40)	N 29 03' 10.413"	W 090 10' 12.615"	29.05289	-90.17017	LNM 47/14, 8th Dist	46	11352_1	12/11/2014
+11352	Delete	Atchafalaya River Light 11	Fl G 4s 17ft 3M "11" Ra Ref: 	N 29 31' 29.255"	W 091 16' 46.666"	29.52479	-91.27963	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Change	Timbalier - Terrebonne Bay LIGHT 1	Fl G 2.5s 17ft 4M "1" Ra ref.	N 29 09' 56.087"	W 090 34' 54.321"	29.16558	-90.58176	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Change	Timbalier - Terrebonne Bay LIGHT 29.	Fl G 6s 17ft 4M "29" Ra ref.	N 29 09' 02.501"	W 090 19' 55.774"	29.15069	-90.33216	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Change	Timbalier - Terrebonne Bay LIGHT 33	Fl G 6s 17ft 4M "33" Ra ref.	N 29 07' 58.188"	W 090 18' 12.367"	29.13283	-90.30344	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Buoy 33	G C "33"	N 29 35' 03.478"	W 091 13' 59.128"	29.5843	-91.23309	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Buoy 29	G C "29"	N 29 34' 14.050"	W 091 13' 50.849"	29.57057	-91.23079	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Buoy 27	G C "27"	N 29 33' 25.287"	W 091 14' 05.455"	29.55702	-91.23485	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Buoy 25	G C "25"	N 29 33' 05.499"	W 091 14' 22.716"	29.55153	-91.23965	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Light 23	Fl G 4s 17ft 4M "23" Ra Ref	N 29 32' 47.676"	W 091 14' 56.322"	29.54658	-91.24898	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Avoca Island Cutoff Channel Buoy 1	G C "1"	N 29 32' 28.777"	W 091 14' 53.756"	29.54133	-91.24827	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Avoca Island Cutoff Channel Light 3	Fl G 2.5s 17ft 3M "3"	N 29 32' 18.790"	W 091 14' 44.891"	29.53855	-91.2458	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya Channel Buoy 56	R N "56"	N 29 27' 24.185"	W 091 17' 09.538"	29.45672	-91.28598	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya Channel Buoy 57	G C "57"	N 29 28' 00.632"	W 091 16' 50.653"	29.46684	-91.28074	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Buoy 2	R N "2"	N 29 28' 47.489"	W 091 16' 19.116"	29.47986	-91.27198	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Buoy 9	G C "9"	N 29 30' 58.041"	W 091 16' 28.573"	29.51612	-91.2746	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Buoy 10	R N "10"	N 29 31' 02.620"	W 091 16' 21.136"	29.5174	-91.27254	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Buoy 8	R N "8"	N 29 30' 46.049"	W 091 16' 07.016"	29.51279	-91.26862	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Buoy 14	R N "14"	N 29 31' 44.965"	W 091 16' 45.016"	29.52916	-91.27917	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Buoy 16	R N "16"	N 29 31' 58.564"	W 091 16' 44.192"	29.53293	-91.27895	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Buoy 19	G C "19"	N 29 32' 35.295"	W 091 16' 02.487"	29.54314	-91.26736	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Buoy 20	R N "20"	N 29 32' 29.039"	W 091 16' 06.555"	29.5414	-91.26849	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Buoy 22	R N "22"	N 29 32' 28.936"	W 091 15' 27.050"	29.54137	-91.25751	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Light 44	Fl R 2.5s 17ft 3M "44" Ra Ref	N 29 39' 15.691"	W 091 14' 26.161"	29.65436	-91.2406	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Light 42	Fl R 4s 17ft 3M "42" Ra Ref	N 29 38' 19.467"	W 091 14' 17.689"	29.63874	-91.23825	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Light 41	Fl G 2.5s 17ft 4M "41" Ra Ref	N 29 37' 59.995"	W 091 14' 40.775"	29.63333	-91.24466	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Light 38	Fl R 6s 17ft 4M "38" Ra Ref 	N 29 37' 29.748"	W 091 15' 21.375"	29.62493	-91.25594	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Light 37	FL G 6s 17ft 4M "37" Ra Ref	N 29 37' 32.029"	W 091 15' 31.776"	29.62556	-91.25883	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Light 36	Fl R 2.5s 17ft 4M "36" Ra Ref	N 29 36' 30.200"	W 091 14' 48.084"	29.60839	-91.24669	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Light 35	Fl G 4s 17ft 4M "35" Ra Ref	N 29 35' 35.762"	W 091 14' 24.377"	29.59327	-91.2401	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Light 34	Fl R 4s 17ft 4M "34" Ra Ref	N 29 35' 30.640"	W 091 13' 59.431"	29.59184	-91.23318	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Bayou Shaffer Junction Lighted Buoy B	RG "B" Fl (2+1) R 6s	N 29 34' 47.764"	W 091 13' 45.376"	29.57994	-91.22927	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Light 31	Fl G 2.5s 17ft 3M "31" Ra Ref	N 29 34' 35.321"	W 091 13' 53.534"	29.57648	-91.23154	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Light 32	Fl R 4s 17ft 4M "32" Ra Ref	N 29 34' 25.408"	W 091 13' 38.916"	29.57372	-91.22748	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Light 28	Fl R 6s 17ft 4M "28" Ra Ref	N 29 33' 20.542"	W 091 13' 54.327"	29.55571	-91.23176	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya Channel Lighted Buoy 54	R "54" Fl R 4s	N 29 26' 54.714"	W 091 17' 50.010"	29.44853	-91.29723	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya Channel Lighted Buoy 55	G "55" Q G	N 29 27' 13.770"	W 091 17' 28.852"	29.45382	-91.29135	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya Channel Lighted Buoy 58	R "58" Fl R 2.5s	N 29 28' 02.045"	W 091 16' 40.421"	29.46724	-91.27789	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Light 1	Fl G 4s 4M "1" Ra Ref	N 29 29' 01.800"	W 091 16' 31.200"	29.48383	-91.27533	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Lighted Buoy 12	R "12" Fl R 2.5s 	N 29 31' 23.066"	W 091 16' 37.816"	29.52307	-91.27717	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Light 15	Fl G 2.5s 17ft 4M "15" Ra Ref	N 29 32' 00.691"	W 091 16' 48.205"	29.53353	-91.28006	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Light 17	Fl G 4s 17ft 4M "17" Ra Ref	N 29 32' 22.437"	W 091 16' 34.037"	29.53957	-91.27612	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Delete	Atchafalaya River Lighted Buoy 18	R "18" Fl R 4s	N 29 32' 18.618"	W 091 16' 30.910"	29.53851	-91.27525	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Relocate	Atchafalaya River Light 5	Fl G 4s 17ft 3M "5" Ra Ref	N 29 29' 59.980"	W 091 16' 15.564"	29.49999	-91.27099	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Change	Atchafalaya River Light 5	Fl G 4s 17ft 3M "5" Ra Ref	N 29 29' 59.980"	W 091 16' 15.564"	29.49999	-91.27099	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Light 11	Fl G 4s 17ft 3M "11" Ra Ref: 	N 29 32' 20.703"	W 091 16' 01.882"	29.53908	-91.26719	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya Channel Light 54	Fl R 4s 17ft 3M "54" Ra Ref	N 29 26' 53.283"	W 091 17' 48.459"	29.44813	-91.29679	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya Channel Light 55	Fl G 6s 17ft 3M "55" Ra Ref	N 29 27' 16.679"	W 091 17' 29.708"	29.45463	-91.29159	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya Channel Daybeacon 56	R "56" Ra Ref	N 29 27' 17.412"	W 091 17' 02.323"	29.45484	-91.28398	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya Channel Daybeacon 57	G "57" Ra Ref	N 29 27' 49.223"	W 091 17' 03.556"	29.46367	-91.28432	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Avoca Island Cutoff Channel Daybeacon 1	G "1" Ra Ref	N 29 32' 18.790"	W 091 14' 44.891"	29.53855	-91.2458	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Port of Morgan City Special Light A	Fl Y 2.5s "A" Priv	N 29 19' 05.090"	W 091 25' 47.160"	29.31808	-91.42976	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Avoca Island Cutoff Channel Light 2	Fl R 2.5s 17ft 3M "2" Ra Ref	N 29 32' 12.017"	W 091 14' 47.013"	29.53667	-91.24639	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Light 33	Fl G 2.5s 17ft 3M "33" Ra Ref	N 29 38' 01.127"	W 091 14' 38.330"	29.63365	-91.24398	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Light 28	Q R 17ft 3M "28" Ra Ref	N 29 37' 29.193"	W 091 15' 21.967"	29.62477	-91.2561	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Light 29	Fl G 4s 17ft 3M "29" Ra Ref	N 29 37' 32.029"	W 091 15' 31.776"	29.62556	-91.25883	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Light 27	Fl G 6s 17ft 3M "27" Ra Ref	N 29 36' 42.207"	W 091 15' 14.599"	29.61172	-91.25406	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Light 25	Fl G 4s 17ft 3M "25" Ra Ref	N 29 35' 34.029"	W 091 14' 22.020"	29.59278	-91.23945	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Light 24	Fl R 4s 17ft 3M "24" Ra Ref	N 29 35' 30.640"	W 091 13' 59.431"	29.59184	-91.23318	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Light 19	Fl G 4s 17ft 3M "19" Ra Ref	N 29 34' 13.992"	W 091 13' 51.459"	29.57055	-91.23096	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Light 20	Fl R 4s 17ft 3M "20" Ra Ref	N 29 34' 25.408"	W 091 13' 38.916"	29.57372	-91.22748	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Light 16	Fl R 2.5s 17ft 3M "16" Ra Ref	N 29 33' 20.911"	W 091 13' 54.202"	29.55581	-91.23172	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Light 13	Fl G 6s 17ft 3M "13" Ra Ref	N 29 32' 47.783"	W 091 14' 56.665"	29.54661	-91.24908	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Light 2	Fl R 2.5s 17ft 3M "2" Ra Ref	N 29 28' 46.811"	W 091 16' 16.929"	29.47967	-91.27137	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Light 3	Fl G 2.5s 17ft 3M "3" Ra Ref	N 29 29' 12.053"	W 091 16' 27.962"	29.48668	-91.27444	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Light 9	Fl G 2.5s 17ft 3M "9" Ra Ref	N 29 32' 04.973"	W 091 16' 14.642"	29.53472	-91.27074	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Light 10	Fl R 2.5s 17ft 3M "10" Ra Ref	N 29 32' 05.788"	W 091 15' 56.193"	29.53494	-91.26561	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Light 8	Fl R 2.5s 17ft 3M "8" Ra Ref	N 29 31' 25.038"	W 091 16' 04.025"	29.52362	-91.26778	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Light 12	Fl R 6s 17ft 3M "12" Ra Ref	N 29 32' 21.840"	W 091 15' 39.555"	29.5394	-91.26099	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Daybeacon 15	G "15" Ra Ref	N 29 33' 05.511"	W 091 14' 23.608"	29.55153	-91.23989	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Daybeacon 17	G "17" Ra Ref	N 29 33' 26.620"	W 091 14' 08.037"	29.55739	-91.23557	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Daybeacon 23	G "23" Ra Ref	N 29 35' 03.440"	W 091 13' 59.201"	29.58429	-91.23311	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Daybeacon 31 	G "31" Ra Ref	N 29 37' 53.265"	W 091 14' 49.807"	29.63146	-91.24717	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Junction Light C	Fl (2+1) R 6s 17ft 3M "C" Ra Ref	N 29 32' 30.307"	W 091 14' 53.843"	29.54175	-91.24829	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Light 26	Fl R 2.5s 17ft 3M "26" Ra Ref	N 29 36' 30.450"	W 091 14' 48.359"	29.60846	-91.24677	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Light 21	Fl G 2.5s 17ft 3M "21" Ra Ref	N 29 34' 35.321"	W 091 13' 53.534"	29.57648	-91.23154	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Light 34	Fl R 4s 17ft 3M "34" Ra Ref	N 29 38' 19.499"	W 091 14' 17.933"	29.63875	-91.23831	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya River Light 36	Fl R 2.5s 17ft 3M "36" Ra Ref	N 29 39' 15.691"	W 091 14' 26.161"	29.65436	-91.2406	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Port of Morgan City Special Light B	Fl Y 2.5s "B" Priv	N 29 22' 23.100"	W 091 23' 02.040"	29.37308	-91.3839	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Atchafalaya Channel Light 58	Fl R 6s 17ft 3M "58" Ra Ref	N 29 28' 00.347"	W 091 16' 36.758"	29.46676	-91.27688	LNM 42/14, 8th Dist	46	11352_1	11/6/2014
+11352	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 29 06' 51.100"	W 090 58' 56.500"	29.11419	-90.98236	LNM 44/14, 8th Dist	46	11352_1	10/30/2014
+11352	Change	Depth Note - NOTE D  HOUMA NAVIGATION CANAL to:	The controlling depth was 13 feet through Cat Island Pass; thence 12 feet from the entrance of the improved channel in Terrebonne Bay (29°06'00"N 90°34'30"W), to Bayou Petit Caillou; thence 11 feet to Bayou Grand Caillou; thence 10 feet to Bayou Pelton, except for shoaling in the vicinity of 29°28'13.3"N 90°42'57.8"W and 29°29'22.0"N 90°42'48.0"W; thence 9 feet to the junction with the Intracoastal Waterway.  Feb - Aug 2014	N 29 21' 11.000"	W 090 49' 44.000"	29.35306	-90.82889	LNM 43/14, 8th Dist	46	11352_1	10/30/2014
+11352	Change	Depth Legend - Bayou Chene to:	6 FT BY 150 FT JUN 2014	N 29 37' 08.000"	W 091 06' 10.000"	29.61889	-91.10278	LNM 40/14, 8th Dist	46	11352_1	10/9/2014
+11352	Change	Depth Legend - Avoca I Cutoff to:	6 FT BY 150 FT JUN 2014	N 29 35' 36.000"	W 091 11' 40.000"	29.59333	-91.19444	LNM 40/14, 8th Dist	46	11352_1	10/9/2014
+11352	Add	Sounding in Feet	17	N 29 30' 59.000"	W 091 16' 24.200"	29.51639	-91.27339	LNM 40/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Sounding in Feet	25	N 29 31' 52.600"	W 091 16' 48.000"	29.53128	-91.28	LNM 40/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Sounding in Feet	3	N 29 32' 21.600"	W 091 16' 12.300"	29.53933	-91.27008	LNM 40/14, 8th Dist	46	11352_1	10/2/2014
+11352	Delete	Channel Limits PT 1 OF 2	Chart No. 1: I20	N 29 30' 39.200"	W 091 16' 11.200"	29.51089	-91.26978	LNM 40/14, 8th Dist	46	11352_1	10/2/2014
+11352	Delete	Channel Limits PT 2 OF 2	Chart No. 1: I20	N 29 32' 55.400"	W 091 14' 28.300"	29.54872	-91.2412	LNM 40/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Sounding in Feet	15	N 29 32' 32.000"	W 091 16' 07.600"	29.54222	-91.26878	LNM 40/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Sounding in Feet	16	N 29 32' 34.600"	W 091 15' 43.900"	29.54294	-91.26219	LNM 40/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Dangerous Wreck 	PA Mast   Chart No 1: K-25	N 29 05' 31.200"	W 090 42' 13.500"	29.092	-90.70375	LNM 38/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Caminada Pass Light 1	Fl G 2.5s "1" Priv	N 29 11' 29.640"	W 090 02' 44.170"	29.19157	-90.0456	LNM 37/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Caminada Pass Light 2 	Fl R 2.5s "2" Priv	N 29 11' 36.000"	W 090 02' 32.740"	29.19333	-90.04243	LNM 37/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 15' 43.610"	W 089 58' 39.640"	29.26211	-89.97768	LNM 37/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 16' 53.560"	W 089 58' 55.760"	29.28154	-89.98215	LNM 37/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 18' 23.170"	W 089 58' 42.150"	29.30644	-89.97838	LNM 37/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 18' 59.830"	W 089 58' 36.370"	29.31662	-89.97677	LNM 37/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 19' 18.820"	W 089 58' 36.510"	29.32189	-89.97681	LNM 37/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 25' 20.580"	W 089 59' 21.860"	29.42238	-89.9894	LNM 37/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 25' 49.960"	W 089 59' 44.270"	29.43054	-89.99563	LNM 37/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 26' 03.090"	W 090 00' 00.180"	29.43419	-90.00005	LNM 37/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 26' 10.610"	W 090 00' 09.660"	29.43628	-90.00269	LNM 37/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 26' 36.580"	W 090 00' 41.660"	29.44349	-90.01157	LNM 37/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 26' 52.710"	W 090 01' 01.390"	29.44798	-90.01705	LNM 37/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 27' 55.090"	W 090 02' 07.150"	29.4653	-90.03532	LNM 37/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 29' 13.350"	W 090 03' 32.780"	29.48704	-90.0591	LNM 37/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 30' 15.050"	W 090 05' 16.670"	29.50418	-90.08797	LNM 37/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 30' 19.520"	W 090 05' 24.910"	29.50542	-90.09026	LNM 37/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 30' 38.500"	W 090 05' 44.730"	29.51069	-90.09576	LNM 37/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 32' 17.230"	W 090 08' 42.530"	29.53812	-90.14515	LNM 37/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 32' 46.260"	W 090 09' 31.540"	29.54618	-90.15876	LNM 37/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Exxon-Mobil East Piling Light	Fl 2.5s Priv	N 29 24' 32.600"	W 089 49' 07.320"	29.40906	-89.8187	LNM 37/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Exxon-Mobil East Piling Light	Fl 2.5s Priv	N 29 24' 11.930"	W 089 48' 19.040"	29.40331	-89.80529	LNM 37/14, 8th Dist	46	11352_1	10/2/2014
+11352	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 29 07' 21.500"	W 089 52' 12.000"	29.12264	-89.87	LNM 36/14, 8th Dist	46	11352_1	9/4/2014
+11352	Relocate	Atchafalaya River Buoy 20	R N "20"	N 29 32' 29.039"	W 091 16' 06.555"	29.5414	-91.26849	LNM 33/14, 8th Dist	46	11352_1	8/28/2014
+11352	Add	Belle Pass Range Rear Light Passing Light	Fl G 4s 12ft	N 29 07' 24.356"	W 090 13' 03.406"	29.12343	-90.21761	LNM 33/14, 8th Dist	46	11352_1	8/28/2014
+11352	Add	Platform: (Ea27-21183-1) (Tri-C Resources)	Chart No. 1: L10	N 29 42' 53.210"	W 090 19' 26.110"	29.71478	-90.32392	LNM 30/14, 8th Dist	46	11352_1	8/7/2014
+11352	Delete	Houma Navigation Canal Pipeline Light A	Fl R 4s 14ft "A" Priv	N 29 10' 38.000"	W 090 36' 20.000"	29.17722	-90.60555	LNM 29/14, 8th Dist	46	11352_1	7/31/2014
+11352	Delete	Houma Navigation Canal Pipeline Light B	Fl G 4s 14ft "B" Priv	N 29 10' 36.000"	W 090 36' 24.000"	29.17667	-90.60667	LNM 29/14, 8th Dist	46	11352_1	7/31/2014
+11352	Add	Submerged Obstruction	Obstn PA      Chart No. 1: K40	N 29 10' 38.000"	W 090 36' 20.000"	29.17722	-90.60555	LNM 29/14, 8th Dist	46	11352_1	7/31/2014
+11352	Add	Submerged Obstruction	Obstn PA      Chart No. 1: K40	N 29 10' 36.000"	W 090 36' 24.000"	29.17667	-90.60667	LNM 29/14, 8th Dist	46	11352_1	7/31/2014
+11352	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 29 06' 56.800"	W 090 59' 43.500"	29.11578	-90.99541	LNM 29/14, 8th Dist	46	11352_1	7/17/2014
+11352	Change	Depth Note - Bayou Lafourche to:	Note I Bayou Lafourche The controlling depth was 18 feet for a width of 300-425 feet from the entrance in the Gulf, through Belle Pass Channel, to Port Fourchon; thence a centerline depth of 9 feet to Leeville; thence 7 feet to the Intracoastal Waterway at Larose; thence 4 feet to Raceland; thence 3 feet to Thibodaux. The old entrance through the jetties is closed by a dam. Oct 1989 - Mar 2014	N 29 27' 00.000"	W 090 13' 16.000"	29.45	-90.22111	LNM 27/14, 8th Dist	46	11352_1	7/3/2014
+11352	Delete	Atchafalaya Channel Buoy 21	G C "21"	N 29 18' 40.322"	W 091 26' 18.315"	29.3112	-91.43842	LNM 25/14, 8th Dist	46	11352_1	7/3/2014
+11352	Add	Atchafalaya Channel Daybeacon 21	G "21" Ra Ref	N 29 18' 40.355"	W 091 26' 18.323"	29.31121	-91.43842	LNM 25/14, 8th Dist	46	11352_1	7/3/2014
+11352	Add	Belle Pass Range Front Passing Light	Q G 27ft	N 29 05' 54.934"	W 090 13' 23.367"	29.09859	-90.22316	LNM 25/14, 8th Dist	46	11352_1	7/3/2014
+11352	Change	Depth Note - NOTE F to:	BARATARIA WATERWAY The controlling depth was 12 feet across the bar channel; thence a depth of 2 feet to Buoy 19. From Buoy 19 to the entrance of the Bayou Rigolettes the controlling depth was 4 feet; thence 3 feet to the junction with the Intracoastal Waterway.  Feb 2014 - May 2014	N 29 39' 56.000"	W 090 01' 50.000"	29.66556	-90.03056	LNM 26/14, 8th Dist	46	11352_1	6/26/2014
+11352	Add	Dangerous Wreck	PA      Chart No. 1: K28	N 29 20' 19.000"	W 090 39' 56.000"	29.33861	-90.66556	LNM 24/14, 8th Dist	46	11352_1	6/26/2014
+11352	Relocate	Atchafalaya Channel Buoy 57	G C "57"	N 29 28' 00.632"	W 091 16' 50.653"	29.46684	-91.28074	LNM 24/14, 8th Dist	46	11352_1	6/26/2014
+11352	Relocate	Atchafalaya Channel Lighted Buoy 58	R "58" Fl R 2.5s	N 29 28' 02.045"	W 091 16' 40.421"	29.46724	-91.27789	LNM 24/14, 8th Dist	46	11352_1	6/26/2014
+11352	Add	Lafourche-Terrebonne Soil & Conservation District Information Marks (2)	2 W Or Priv	N 29 24' 09.484"	W 090 56' 35.115"	29.40263	-90.94308	LNM 23/14, 8th Dist	46	11352_1	6/19/2014
+11352	Relocate	Caillou Boca Shoal Lighted Buoy 3	G "3" Fl G 2.5s	N 29 03' 56.150"	W 090 48' 12.275"	29.0656	-90.80341	LNM 21/14, 8th Dist	46	11352_1	6/5/2014
+11352	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 29 09' 05.700"	W 089 49' 16.300"	29.15158	-89.8212	LNM 21/14, 8th Dist	46	11352_1	5/22/2014
+11352	Change	Depth Note - BARATARIA WATERWAY to:	NOTE F BARATARIA WATERWAY to: The controlling depth was 11 feet across the bar channel; thence a depth of 1 foot to Buoy 19. From Buoy 19 to the entrance of the Bayou Rigolettes the controlling depth was 3 feet; thence 3 feet to the junction with the Intracoastal Waterway. May 2013 - Feb 2014	N 29 39' 56.000"	W 090 01' 50.000"	29.66556	-90.03056	LNM 21/14, 8th Dist	46	11352_1	5/22/2014
+11352	Add	Timbalier - Terrebonne Bay Light 39	Fl G 4s 17ft 4M "39" Ra Ref	N 29 08' 08.727"	W 090 15' 15.871"	29.13576	-90.25441	LNM 17/14, 8th Dist	46	11352_1	5/8/2014
+11352	Change	Depth Note D - HOUMA NAVIGATIONAL CANAL to:	The controlling depth was 13 feet through Cat Island Pass; thence 11 feet from the entrance of the improved channel in Terrebonne Bay (29°06'00"N 90°34'30"W), to Bayou Petit Caillou; thence 11 feet to Bayou Grand Caillou; thence 10 feet to Bayou Pelton, except for shoaling in the vicinity of 29°28'13.3"N 90°42'57.8"W and 29°29'22.0"N 90°42'48.0"W; thence 9 feet to the junction with the Intracoastal Waterway.  Feb - Mar 2014	N 29 20' 55.370"	W 090 49' 46.600"	29.34871	-90.82961	LNM 17/14, 8th Dist	46	11352_1	5/1/2014
+11352	Change	Depth Note - NOTE C HOUMA NAVIGATION CANAL to:	The controlling depth was 13 feet through Cat Island Pass; thence 10 feet from the entrance of the improved channel in Terrebonne Bay (29°06'00"N 90°34'30"W), to Bayou Petit Caillou; thence 11 feet to Bayou Grand Caillou; thence 10 feet to Bayou Pelton, except for shoaling in the vicinity of 29°28'13.3"N 90°42'57.8"W and 29°29'22.0"N 090 42'48.0"W; thence 9 feet to the junction with the Intracoastal Waterway.  Aug 2013 - Feb 2014	N 29 21' 11.000"	W 090 49' 44.000"	29.35306	-90.82889	LNM 16/14, 8th Dist	46	11352_1	4/17/2014
+11352	Delete	Visible Pile	Pile PA      Chart No. 1: F22	N 29 16' 24.000"	W 089 57' 41.000"	29.27333	-89.96139	LNM 14/14, 8th Dist	46	11352_1	4/17/2014
+11352	Add	Atchafalaya River & Bayous Chene, Boeuf, and Black - West dump site PT 1 OF 4	Chart No. 1 N24	N 29 19' 26.960"	W 091 29' 58.500"	29.32416	-91.49958	LNM 15/14, 8th Dist	46	11352_1	4/10/2014
+11352	Add	Atchafalaya River & Bayous Chene, Boeuf, and Black - West dump site PT 2 OF 4	Chart No. 1 N24	N 29 22' 06.000"	W 091 27' 38.000"	29.36833	-91.46056	LNM 15/14, 8th Dist	46	11352_1	4/10/2014
+11352	Add	Atchafalaya River & Bayous Chene, Boeuf, and Black - West dump site PT 3 OF 4	Chart No. 1 N24	N 29 20' 30.000"	W 091 25' 13.000"	29.34167	-91.42028	LNM 15/14, 8th Dist	46	11352_1	4/10/2014
+11352	Add	Atchafalaya River & Bayous Chene, Boeuf, and Black - West dump site PT 4 OF 4	Chart No. 1 N24	N 29 15' 08.350"	W 091 29' 58.620"	29.25232	-91.49962	LNM 15/14, 8th Dist	46	11352_1	4/10/2014
+11352	Add	Dump Site Label	Dump Site (dredged material) (see note S) Depths from surveys of 1935-2010	N 29 20' 08.000"	W 091 27' 50.000"	29.33556	-91.46389	LNM 15/14, 8th Dist	46	11352_1	4/10/2014
+11352	Add	Bayou Petit Caillou Floodgate Dolphin Light 1	Fl G 2.5s "1" Priv	N 29 17' 45.550"	W 090 38' 55.320"	29.29599	-90.6487	LNM 12/14, 8th Dist	46	11352_1	4/3/2014
+11352	Add	Bayou Petit Caillou Floodgate Dolphin Light 2	Fl R 2.5s "2" Priv	N 29 17' 46.210"	W 090 38' 53.810"	29.29617	-90.64828	LNM 12/14, 8th Dist	46	11352_1	4/3/2014
+11352	Add	Fixed Bridge Label	FIXED BRIDGE HOR CL 120 FT VERT CL 47 FT	N 29 12' 27.400"	W 090 02' 40.300"	29.20761	-90.04453	LNM 12/14, 8th Dist	46	11352_1	3/20/2014
+11352	Delete	Fixed Bridge Label	FIXED BRIDGE HOR CL 30 FT VERT CL 14 FT	N 29 12' 03.390"	W 090 00' 14.090"	29.20094	-90.00391	LNM 12/14, 8th Dist	46	11352_1	3/20/2014
+11352	Delete	Bridge Construction Label	Bridge under construction (see note)	N 29 11' 31.910"	W 090 00' 09.220"	29.1922	-90.00256	LNM 12/14, 8th Dist	46	11352_1	3/20/2014
+11352	Add	Fixed Bridge PT 1 OF 4	Chart No. 1: D22	N 29 12' 39.150"	W 090 02' 57.560"	29.21087	-90.04932	LNM 12/14, 8th Dist	46	11352_1	3/20/2014
+11352	Add	Fixed Bridge PT 2 OF 4	Chart No. 1: D22	N 29 12' 17.020"	W 090 02' 23.050"	29.20473	-90.03973	LNM 12/14, 8th Dist	46	11352_1	3/20/2014
+11352	Add	Fixed Bridge PT 3 OF 4	Chart No. 1: D22	N 29 12' 38.000"	W 090 02' 58.240"	29.21056	-90.04951	LNM 12/14, 8th Dist	46	11352_1	3/20/2014
+11352	Add	Fixed Bridge PT 4 OF 4	Chart No. 1: D22	N 29 12' 16.470"	W 090 02' 24.600"	29.20457	-90.04017	LNM 12/14, 8th Dist	46	11352_1	3/20/2014
+11352	Delete	Bridge Construction	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 29 12' 27.400"	W 090 02' 40.300"	29.20761	-90.04453	LNM 12/14, 8th Dist	46	11352_1	3/20/2014
+11352	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 29 09' 16.700"	W 091 09' 05.500"	29.15464	-91.15153	LNM 10/14, 8th Dist	46	11352_1	3/6/2014
+11352	Change	Depth Note - NOTE D HOUMA NAVIGATION CANAL to:	The controlling depth was 13 feet through Cat Island Pass; thence 10 feet from the entrance of the improved channel in Terrebonne Bay (29°06'00"N 90°34'30"W), to Bayou Petit Caillou; thence 13 feet to Bayou Grand Caillou; thence 10 feet to Bayou Pelton, except for shoaling in the vicinity of 29°28'13.3"N 90°42'57.8"W; thence 9 feet to the junction with the Intracoastal Waterway.  Aug 2013 - Oct 2013	N 29 21' 11.000"	W 090 49' 44.000"	29.35306	-90.82889	LNM 07/14, 8th Dist	46	11352_1	2/13/2014
+11352	Change	Fixed Bridge	Chart No. 1: D22	N 29 56' 35.400"	W 090 10' 04.450"	29.94317	-90.1679	LNM 06/14, 8th Dist	46	11352_1	2/6/2014
+11352	Delete	Bridge Construction Label	Bridge under construction	N 29 56' 35.400"	W 090 10' 04.450"	29.94317	-90.1679	LNM 06/14, 8th Dist	46	11352_1	2/6/2014
+11352	Add	Platform: (Ea27-21063-1) (Square Mile)	Chart No. 1: L10	N 29 41' 42.100"	W 090 19' 10.600"	29.69503	-90.31961	LNM 04/14, 8th Dist	46	11352_1	2/6/2014
+11352	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 29 02' 44.600"	W 091 05' 19.700"	29.04572	-91.08881	LNM 06/14, 8th Dist	46	11352_1	2/6/2014
+11352	Change	Barataria Pass Lighted Buoy 5	G "5" Fl G 2.5s	N 29 15' 07.752"	W 089 55' 35.598"	29.25215	-89.92655	LNM 03/14, 8th Dist	46	11352_1	1/30/2014
+11352	Add	Visible Obstruction	Obstn PA (Exposed Pipeline)      Chart No. 1: F22	N 29 05' 30.000"	W 091 00' 55.000"	29.09167	-91.01527	LNM 51/13, 8th Dist	46	11352_1	12/23/2013
+11352	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 29 08' 22.320"	W 091 13' 25.200"	29.13953	-91.22366	LNM 50/13, 8th Dist	46	11352_1	12/6/2013
+11352	Add	Submerged Obstruction	Obstn PA      Chart No. 1:K40	N 29 02' 18.000"	W 090 17' 36.000"	29.03833	-90.29333	LNM 45/13, 8th Dist	46	11352_1	11/8/2013
+11352	Relocate	Atchafalaya Channel Light 51	Fl G 2.5s 17ft 3M "51" Ra Ref	N 29 26' 51.484"	W 091 18' 29.677"	29.44763	-91.30824	LNM 42/13, 8th Dist	46	11352_1	10/21/2013
+11352	Relocate	Atchafalaya Channel Buoy 57	G C "57"	N 29 27' 41.763"	W 091 16' 59.353"	29.4616	-91.28316	LNM 42/13, 8th Dist	46	11352_1	10/21/2013
+11352	Change	Depth Legend - Bayou Chene to:	9 FT BY 150 FT SEP 2013	N 29 37' 08.000"	W 091 06' 10.000"	29.61889	-91.10278	LNM 43/13, 8th Dist	46	11352_1	10/16/2013
+11352	Change	Depth Legend - Avoca I Cutoff to:	7 FT BY 150 FT SEP 2013	N 29 35' 36.000"	W 091 11' 40.000"	29.59333	-91.19444	LNM 43/13, 8th Dist	46	11352_1	10/16/2013
+11352	Change	Depth Note - NOTE F BARATARIA WATERWAY to:	The controlling depth was 11 feet across the bar channel; thence a depth of 1 foot to Buoy 19. From Buoy 19 to the entrance of the Bayou Rigolettes the controlling depth was 3 feet; thence 5 feet to the junction with the Intracoastal Waterway.  May 2013 - Aug 2013	N 29 39' 56.000"	W 090 01' 50.000"	29.66556	-90.03056	LNM 43/13, 8th Dist	46	11352_1	10/16/2013
+11352	Change	Depth Note - NOTE D HOUMA NAVIGATION CANAL to:	The controlling depth was 13 feet through Cat Island Pass; thence 9 feet from the entrance of the improved channel in Terrebonne Bay (29°06'00"N 90°34'30"W), to Bayou Petit Caillou; thence 13 feet to Bayou Grand Caillou; thence 10 feet to Bayou Pelton, except for shoaling in the vicinity of 29°28'13.3"N 90°42'57.8"W; thence 9 feet to the junction with the Intracoastal Waterway.  Aug 2013	N 29 21' 11.000"	W 090 49' 44.000"	29.35306	-90.82889	LNM 41/13, 8th Dist	46	11352_1	9/30/2013
+11352	Delete	Obstruction	Obstn PA (cov 36 ft)         Chart No. 1: K40	N 29 08' 58.990"	W 089 53' 51.010"	29.14972	-89.8975	LNM 40/13, 8th Dist	46	11352_1	9/30/2013
+11352	Delete	Obstruction	Obstn PA         Chart No. 1: K40	N 29 07' 24.830"	W 089 48' 30.230"	29.12356	-89.8084	LNM 40/13, 8th Dist	46	11352_1	9/30/2013
+11352	Change	Obstruction in Feet	57 Obstn       Chart No. 1: K41	N 29 07' 27.840"	W 089 53' 29.680"	29.1244	-89.89158	LNM 40/13, 8th Dist	46	11352_1	9/30/2013
+11352	Add	Obstruction in Feet	45 Obstn       Chart No. 1: K41	N 29 08' 19.810"	W 089 57' 18.710"	29.13884	-89.9552	LNM 40/13, 8th Dist	46	11352_1	9/30/2013
+11352	Delete	Dangerous Wreck	PA      Chart No. 1: K28	N 29 09' 30.150"	W 089 53' 00.740"	29.15837	-89.88354	LNM 40/13, 8th Dist	46	11352_1	9/30/2013
+11352	Change	Obstruction in Feet	36 Obstn       Chart No. 1: K41	N 29 09' 36.900"	W 089 53' 18.720"	29.16025	-89.88853	LNM 40/13, 8th Dist	46	11352_1	9/30/2013
+11352	Change	Obstruction in Feet	41 Obstn       Chart No. 1: K41	N 29 09' 46.380"	W 089 52' 58.090"	29.16288	-89.8828	LNM 40/13, 8th Dist	46	11352_1	9/30/2013
+11352	Delete	Dangerous Wreck	PA      Chart No. 1: K28	N 29 07' 30.240"	W 089 48' 00.100"	29.12507	-89.80003	LNM 40/13, 8th Dist	46	11352_1	9/30/2013
+11352	Delete	Pipe	Pipe     Chart No. 1: L23	N 29 05' 53.610"	W 089 58' 51.530"	29.09822	-89.98098	LNM 40/13, 8th Dist	46	11352_1	9/30/2013
+11352	Add	Accurate Landmark	STACK (FLARE)    Chart No. 1: E23	N 29 05' 53.590"	W 089 58' 52.010"	29.09822	-89.98112	LNM 40/13, 8th Dist	46	11352_1	9/30/2013
+11352	Delete	Dangerous Wreck	PA      Chart No. 1: K28	N 29 02' 48.000"	W 089 53' 30.000"	29.04667	-89.89167	LNM 40/13, 8th Dist	46	11352_1	9/30/2013
+11352	Delete	Dangerous Wreck	PA      Chart No. 1: K28	N 29 04' 17.580"	W 089 49' 24.160"	29.07155	-89.82338	LNM 40/13, 8th Dist	46	11352_1	9/30/2013
+11352	Add	Platform: (Ea27-20937-1)(Square Mile)	Chart No. 1: L10	N 29 42' 18.200"	W 090 20' 17.700"	29.70506	-90.33825	LNM 37/13, 8th Dist	46	11352_1	9/13/2013
+11352	Change	Fr-La-27 Lighted Tension Buoy A	Y "FR-LA-27-A" Fl Y 2.5s Priv	N 29 11' 36.660"	W 089 52' 59.340"	29.19352	-89.88315	LNM 30/13, 8th Dist	46	11352_1	7/30/2013
+11352	Change	Fr-La-27 Lighted Tension Buoy B	Y "FR-LA-27-B" Fl Y 2.5s Priv	N 29 11' 42.133"	W 089 53' 29.609"	29.19504	-89.89156	LNM 30/13, 8th Dist	46	11352_1	7/30/2013
+11352	Change	Fr-La-27 Lighted Tension Buoy C	Y "FR-LA-27-C" Fl Y 2.5s Priv	N 29 11' 12.817"	W 089 53' 54.707"	29.18689	-89.89853	LNM 30/13, 8th Dist	46	11352_1	7/30/2013
+11352	Change	Fr-La-27 Lighted Tension Buoy D	Y "FR-LA-27-D" Fl Y 2.5s Priv	N 29 10' 56.680"	W 089 53' 20.080"	29.18241	-89.88891	LNM 30/13, 8th Dist	46	11352_1	7/30/2013
+11352	Change	Fr-La-27 Lighted Tension Buoy E	Y "FR-LA-27-E" Fl Y 2.5s Priv	N 29 11' 02.620"	W 089 52' 47.590"	29.18406	-89.87988	LNM 30/13, 8th Dist	46	11352_1	7/30/2013
+11352	Change	Lighted Tension Buoy A	Y "FR-LA-27-A" Fl Y 4s Priv	N 29 11' 36.660"	W 089 52' 59.340"	29.19352	-89.88315	LNM 29/13, 8th Dist	46	11352_1	7/25/2013
+11352	Change	Lighted Tension Buoy B	Y "FR-LA-27-B" Fl Y 4s Priv	N 29 11' 42.133"	W 089 53' 29.609"	29.19504	-89.89156	LNM 29/13, 8th Dist	46	11352_1	7/25/2013
+11352	Change	Lighted Tension Buoy C	Y "FR-LA-27-C" Fl Y 4s Priv	N 29 11' 12.817"	W 089 53' 54.707"	29.18689	-89.89853	LNM 29/13, 8th Dist	46	11352_1	7/25/2013
+11352	Change	Lighted Tension Buoy D	Y "FR-LA-27-D" Fl Y 4s Priv	N 29 10' 56.680"	W 089 53' 20.080"	29.18241	-89.88891	LNM 29/13, 8th Dist	46	11352_1	7/25/2013
+11352	Change	Lighted Tension Buoy E	Y "FR-LA-27-E" Fl Y 4s Priv	N 29 11' 02.620"	W 089 52' 47.590"	29.18406	-89.87988	LNM 29/13, 8th Dist	46	11352_1	7/25/2013
+11352	Relocate	Caillou Boca Shoal Lighted Buoy 3	G "3" Fl G 2.5s	N 29 03' 56.498"	W 090 48' 09.464"	29.06569	-90.80263	LNM 29/13, 8th Dist	46	11352_1	7/25/2013
+11352	Change	Depth Note - NOTE D HOUMA NAVIGATION CANAL to:	The controlling depth was 13 feet through Cat Island Pass; thence 11 feet from the entrance of the improved channel in Terrebonne Bay (29°06'00"N, 90°34'30"W), to Bayou Petit Caillou; thence 14 feet to Bayou Grand Caillou; thence 10 feet to Bayou Pelton; thence 12 feet to the junction with the Intracoastal Waterway.  Oct 2012 - Jun 2013	N 29 21' 11.000"	W 090 49' 44.000"	29.35306	-90.82889	LNM 29/13, 8th Dist	46	11352_1	7/10/2013
+11352	Change	Depth Legend - Bayou Chene to:	7 FT BY 150 FT MAY 2013	N 29 37' 08.000"	W 091 06' 10.000"	29.61889	-91.10278	LNM 29/13, 8th Dist	46	11352_1	7/10/2013
+11352	Change	Depth Legend - Avoca I Cutoff to:	6 FT BY 150 FT MAY 2013	N 29 35' 36.000"	W 091 11' 40.000"	29.59333	-91.19444	LNM 29/13, 8th Dist	46	11352_1	7/10/2013
+11352	Change	Depth Note - Note I - BAYOU LAFOURCHE to:	The controlling depth was 14 1/2 feet for a width of 300-425 feet from the entrance in the Gulf, through Belle Pass Channel, to Port Fourchon; thence a centerline depth of 9 feet to Leeville; thence 7 feet to the Intracoastal Waterway at Larose; thence 4 feet to Raceland; thence 3 feet to Thibodaux. The old entrance through the jetties is closed by a dam.  Oct 1989-May 2013	N 29 27' 10.000"	W 090 13' 30.000"	29.45278	-90.225	LNM 27/13, 8th Dist	46	11352_1	6/29/2013
+11352	Delete	Bridge Construction	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 29 34' 06.570"	W 090 22' 26.110"	29.56849	-90.37392	LNM 26/13, 8th Dist	46	11352_1	6/26/2013
+11352	Delete	Bridge Construction Label	Bridge under construction	N 29 34' 06.570"	W 090 22' 26.110"	29.56849	-90.37392	LNM 26/13, 8th Dist	46	11352_1	6/26/2013
+11352	Add	Lift Bridge Label	LIFT BRIDGE HOR CL 80 FT VERT CL 2 FT DOWN VERT CL 73 FT UP	N 29 34' 06.960"	W 090 22' 27.140"	29.5686	-90.37421	LNM 26/13, 8th Dist	46	11352_1	6/26/2013
+11352	Add	Lift Bridge PT 1 OF 2	Chart No. 1: D23.3	N 29 34' 08.000"	W 090 22' 26.500"	29.56889	-90.37403	LNM 26/13, 8th Dist	46	11352_1	6/26/2013
+11352	Add	Lift Bridge PT 2 OF 2	Chart No. 1: D23.3	N 29 34' 05.500"	W 090 22' 28.000"	29.5682	-90.37444	LNM 26/13, 8th Dist	46	11352_1	6/26/2013
+11352	Change	Depth Note - NOTE F to:	BARATARIA WATERWAY The controlling depth was 12 feet across the bar channel; thence a depth of 2 feet to Buoy 19. From Buoy 19 to the entrance of the Bayou Rigolettes the controlling depth was 3 feet; thence 5 feet to the junction with the Intracoastal Waterway. Sep 2012 - May 2013	N 29 39' 56.000"	W 090 01' 50.000"	29.66556	-90.03056	LNM 26/13, 8th Dist	46	11352_1	6/26/2013
+11352	Relocate	Atchafalaya Channel Light 53	Fl G 4s 17ft 4M "53" Ra Ref	N 29 27' 06.275"	W 091 17' 55.623"	29.45174	-91.29878	LNM 25/13, 8th Dist	46	11352_1	6/21/2013
+11352	Add	Submerged Obstruction	Obstn PA      Chart No. 1: K40	N 29 22' 47.000"	W 090 54' 04.000"	29.37972	-90.90111	LNM 24/13, 8th Dist	46	11352_1	6/17/2013
+11352	Relocate	Caillou Boca Shoal Lighted Buoy 3	G "3" Fl G 2.5s	N 29 03' 58.343"	W 090 48' 04.788"	29.06621	-90.80133	LNM 24/13, 8th Dist	46	11352_1	6/17/2013
+11352	Delete	Philo Brice Island Light 1	Fl G 4s 17ft 4M "1"	N 29 11' 38.010"	W 090 20' 58.484"	29.19389	-90.34958	LNM 24/13, 8th Dist	46	11352_1	6/17/2013
+11352	Add	Submerged Obstruction	Obstn PA (Exposed pipeline)	N 29 18' 37.200"	W 089 51' 27.500"	29.31033	-89.85764	LNM 21/13, 8th Dist	46	11352_1	5/30/2013
+11352	Add	Submerged Obstruction	Obstn PA (Exposed pipeline)	N 29 18' 52.600"	W 089 50' 38.100"	29.31461	-89.84392	LNM 21/13, 8th Dist	46	11352_1	5/30/2013
+11352	Change	Depth Note - BAYOU LAFOURCHE to:	The controlling depth was 16 feet for a width of 300-425 feet from the entrance in the Gulf, through Belle Pass Channel, to Port Fourchon; thence a centerline depth of 9 feet to Leeville; thence 7 feet to the Intracoastal Waterway at Larose; thence 4 feet to Raceland; thence 3 feet to Thibodaux.  The old entrance through the jetties is closed by a dam.  Oct 1989-Mar 2013	N 29 27' 10.000"	W 090 13' 30.000"	29.45278	-90.225	LNM 18/13, 8th Dist	46	11352_1	4/23/2013
+11352	Relocate	Caillou Boca Shoal Lighted Buoy 3	G "3" Fl G 2.5s	N 29 03' 57.923"	W 090 48' 03.915"	29.06609	-90.80109	LNM 16/13, 8th Dist	46	11352_1	4/22/2013
+11352	Change	Depth Note - NOTE D HOUMA NAVIGATION CANAL to:	The controlling depth was 13 feet through Cat Island Pass; thence 9 feet from the entrance of the improved channel in Terrebonne Bay (29°06'00"N, 90°34'30"W), to Bayou Petit Caillou; thence 14 feet to Bayou Grand Caillou; thence 10 feet to Bayou Pelton; thence 12 feet to the junction with the Intracoastal Waterway.  Oct 2012 - Jan 2013	N 29 21' 11.000"	W 090 49' 44.000"	29.35306	-90.82889	LNM 15/13, 8th Dist	46	11352_1	4/8/2013
+11352	Delete	Visible Pipes	Pipes PA      Chart No. 1: F22	N 29 07' 02.000"	W 090 09' 46.800"	29.11722	-90.163	LNM 13/13, 8th Dist	46	11352_1	4/2/2013
+11352	Delete	Submerged Piles	Subm piles PA      Chart No. 1: K43.1	N 29 07' 40.800"	W 090 08' 38.400"	29.128	-90.144	LNM 13/13, 8th Dist	46	11352_1	4/2/2013
+11352	Relocate	Atchafalaya River Lighted Buoy 18	R "18" Fl R 4s	N 29 32' 18.618"	W 091 16' 30.910"	29.53851	-91.27525	LNM 13/13, 8th Dist	46	11352_1	4/2/2013
+11352	Relocate	Atchafalaya River Buoy 29	G C "29"	N 29 34' 14.050"	W 091 13' 50.849"	29.57057	-91.23079	LNM 13/13, 8th Dist	46	11352_1	4/2/2013
+11352	Add	Submerged Obstruction	Obstn PA      Chart No. 1: K40	N 29 23' 31.700"	W 091 21' 58.200"	29.39214	-91.36617	LNM 10/13, 8th Dist	46	11352_1	3/13/2013
+11352	Add	Visible Pile	Pile PA      Chart No. 1: F22	N 29 16' 24.000"	W 089 57' 41.000"	29.27333	-89.96139	LNM 10/13, 8th Dist	46	11352_1	3/13/2013
+11352	Add	Platform: (EA27-Devon Marr-4-Square Mile)	Chart No. 1: L10	N 29 40' 57.960"	W 090 18' 37.040"	29.68277	-90.31029	LNM 06/13, 8th Dist	46	11352_1	2/11/2013
+11352	Change	Depth Note - NOTE D HOUMA NAVIGATION CANAL to:	The controlling depth was 13 feet through Cat Island Pass; thence 12 feet from the entrance of the improved channel in Terrebonne Bay (29°06'00"N, 90°34'30"W), to Bayou Petit Caillou; thence 14 feet to Bayou Grand Caillou; thence 10 feet to Bayou Pelton; thence 12 feet to the junction with the Intracoastal Waterway. Oct 2012 - Nov 2012	N 29 21' 11.000"	W 090 49' 44.000"	29.35306	-90.82889	LNM 08/13, 8th Dist	46	11352_1	2/11/2013
+11352	Change	Depth Legend - Bayou Black to:	13 FT BY 150 FT NOV 2012	N 29 38' 37.000"	W 091 02' 31.000"	29.64361	-91.04195	LNM 08/13, 8th Dist	46	11352_1	2/11/2013
+11352	Change	Depth Legend - Bayou Chene to:	10 FT BY 150 FT NOV 2012	N 29 37' 08.000"	W 091 06' 10.000"	29.61889	-91.10278	LNM 08/13, 8th Dist	46	11352_1	2/11/2013
+11352	Change	Depth Legend - Avoca I Cutoff to:	10 FT BY 150 FT NOV 2012	N 29 35' 36.000"	W 091 11' 40.000"	29.59333	-91.19444	LNM 08/13, 8th Dist	46	11352_1	2/11/2013
+11352	Change	Depth Note - NOTE F to:	BARATARIA WATERWAYThe controlling depth was 12 feet across the bar channel; thence a depth of 2 feet to Buoy 19. From Buoy 19 to the entrance of the Bayou Rigolettes the controlling depth was 4 feet; thence 6 feet to the junction with the Intracoastal Waterway. Sep - Nov 2012	N 29 39' 56.000"	W 090 01' 50.000"	29.66556	-90.03056	LNM 08/13, 8th Dist	46	11352_1	2/11/2013
+11352	Add	Submerged Piles	Subm piles PA      Chart No. 1: K43.1	N 29 02' 58.000"	W 090 15' 30.000"	29.04944	-90.25833	LNM 52/12, 8th Dist	46	11352_1	1/3/2013
+11352	Change	Depth Note - NOTE D HOUMA NAVIGATION CANAL to:	The controlling depth was 13 feet through Cat Island Pass; thence 8 feet from the entrance of the improved channel in Terrebonne Bay (29°06'00"N, 90°34'30"W), to Bayou Petit Caillou; thence 14 feet to Bayou Grand Caillou; thence 11 feet to Bayou Pelton; thence 11 feet to the junction with the Intracoastal Waterway. Aug 2010 - Sep 2012	N 29 21' 11.000"	W 090 49' 44.000"	29.35306	-90.82889	LNM 50/12, 8th Dist	46	11352_1	12/10/2012
+11352	Change	Depth Legend - AVOCA I CUTOFF to:	9 FT BY 150 FT SEP 2012	N 29 35' 36.000"	W 091 11' 40.000"	29.59333	-91.19444	LNM 46/12, 8th Dist	46	11352_1	11/13/2012
+11352	Change	Depth Legend - BAYOU CHENE to:	9 FT BY 150 FT AUG 2012	N 29 37' 08.000"	W 091 06' 10.000"	29.61889	-91.10278	LNM 46/12, 8th Dist	46	11352_1	11/13/2012
+11352	Change	Depth Note - NOTE I BAYOU LAFOURCHE to:	The controlling depth was 17 1/2 feet for a width of 300-425 feet from the entrance in the Gulf, through Belle Pass Channel, to Port Fourchon; thence a centerline depth of 9 feet to Leeville; thence 7 feet to the Intracoastal Waterway at Larose; thence 4 feet to Raceland; thence 3 feet to Thibodaux. The old entrance through the jetties is closed by a dam.  Oct 1989 - Sep 2012	N 29 27' 10.000"	W 090 13' 30.000"	29.45278	-90.225	LNM 46/12, 8th Dist	46	11352_1	11/2/2012
+11352	Change	Depth Note - NOTE D - HOUMA NAVIGATION CANAL to:	The controlling depth was 13 feet through Cat Island Pass; thence 8 feet from the entrance of the improved channel in Terrebonne Bay (29°06'00"N, 90°34'30"W), to Bayou Petit Caillou; thence 14 feet to Bayou Grand Caillou; thence 12 feet to Bayou Pelton; thence 11 feet to the junction with the Intracoastal Waterway.  Aug 2010 - Sep 2012	N 29 21' 11.000"	W 090 49' 44.000"	29.35306	-90.82889	LNM 45/12, 8th Dist	46	11352_1	11/1/2012
+11352	Change	Depth Note - NOTE F - BARATARIA WATERWAY to:	The controlling depth was 12 feet across the bar channel; thence a depth of 2 feet to Lt. 19. From Lt. 19 to the entrance of the Bayou Rigolettes the controlling depth was 4 feet; thence 4 feet to the junction with the Intracoastal Waterway.  Feb - Sep 2012	N 29 39' 56.000"	W 090 01' 50.000"	29.66556	-90.03056	LNM 44/12, 8th Dist	46	11352_1	10/31/2012
+11352	Add	Platform: (EA27-20645-2) (Square Mile)	Chart No. 1: L10	N 29 41' 43.300"	W 090 19' 09.900"	29.69536	-90.31942	LNM 38/12, 8th Dist	46	11352_1	9/20/2012
+11352	Add	Platform (EA27-20628-1) (Square Mile)	Chart No. 1: L10	N 29 40' 46.000"	W 090 19' 57.000"	29.67945	-90.3325	LNM 38/12, 8th Dist	46	11352_1	9/20/2012
+11352	Relocate	Caillou Boca Shoal Lighted Buoy 3	G "3" Fl G 2.5s	N 29 03' 57.811"	W 090 48' 06.540"	29.06606	-90.80182	LNM 38/12, 8th Dist	46	11352_1	9/20/2012
+11352	Change	Depth Legend - AVOCA I CUTOFF to:	7 FT BY 150 FT AUG 2012	N 29 35' 36.000"	W 091 11' 40.000"	29.59333	-91.19444	LNM 38/12, 8th Dist	46	11352_1	9/11/2012
+11352	Add	Submerged Piles	Subm piles PA      Chart No. 1: K43.1	N 29 07' 40.800"	W 090 08' 38.400"	29.128	-90.144	LNM 33/12, 8th Dist	46	11352_1	8/22/2012
+11352	Relocate	Grand Bayou Du Large Shoal Buoy 3	G C "3"	N 29 11' 58.846"	W 090 57' 27.994"	29.19968	-90.95778	LNM 33/12, 8th Dist	46	11352_1	8/22/2012
+11352	Relocate	Cat Island Pass Lighted Buoy 3	G "3" Fl G 2.5s	N 29 02' 09.393"	W 090 34' 13.517"	29.03594	-90.57042	LNM 33/12, 8th Dist	46	11352_1	8/22/2012
+11352	Add	Visible Pipes	Pipes PA      Chart No. 1: F22	N 29 07' 02.000"	W 090 09' 46.800"	29.11722	-90.163	LNM 32/12, 8th Dist	46	11352_1	8/13/2012

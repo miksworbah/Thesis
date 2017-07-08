@@ -1,0 +1,82 @@
+Chart: 16530, Current Edition: 7, Print Date: May. /2010, Captains Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16530	Add	NOTE: AREA TO BE AVOIDED (ATBA)	NOTE: AREA TO BE AVOIDED (ATBA) The entire area of this chart falls within an Area to be Avoided. All ships 400 gross tonnage and upwards solely in transit should avoid the Area. This Area is IMO-Adopted (MSC IMO SN.1/Circ.331); to be implemented at 0000 UTC, JAN 1, 2016.	N 53 49' 14.000"	W 166 34' 01.000"	53.82056	-166.5669	LNM 51/15, 17th Dist	2524	16530_1	12/17/2015
+16530	Add	Sounding in Fathoms & Fraction	6 1/2	N 53 53' 48.200"	W 166 33' 45.700"	53.89672	-166.5627	LNM 31/15, 9th Dist	2524	16530_1	7/16/2015
+16530	Add	Sounding in Fathoms & Fraction	5 1/2	N 53 53' 45.200"	W 166 33' 41.300"	53.89589	-166.5615	LNM 31/15, 9th Dist	2524	16530_1	7/16/2015
+16530	Add	Sounding in Fathoms & Fraction	5 3/4	N 53 53' 41.200"	W 166 33' 47.600"	53.89478	-166.5632	LNM 31/15, 9th Dist	2524	16530_1	7/16/2015
+16530	Add	Sounding in Fathoms & Fraction	6 3/4	N 53 53' 46.500"	W 166 33' 52.300"	53.89625	-166.5645	LNM 31/15, 9th Dist	2524	16530_1	7/16/2015
+16530	Add	Sounding in Fathoms & Fractions	7 1/2	N 53 53' 43.700"	W 166 33' 55.600"	53.89547	-166.5654	LNM 31/15, 9th Dist	2524	16530_1	7/16/2015
+16530	Add	Rock in Fathoms (Within Corresponding Depth Area)	3 Rk     Chart No. 1: K14.1	N 53 53' 55.700"	W 166 33' 54.700"	53.8988	-166.5652	LNM 31/15, 9th Dist	2524	16530_1	7/16/2015
+16530	Add	Rock in Fathoms and Fraction	4 1/4 Rk    Chart No. 1: K14.2	N 53 53' 54.700"	W 166 33' 53.600"	53.89853	-166.5649	LNM 31/15, 9th Dist	2524	16530_1	7/16/2015
+16530	Add	Rock in Fathoms and Fraction	2 3/4 Rk    Chart No. 1: K14.2	N 53 53' 57.500"	W 166 33' 57.500"	53.89931	-166.566	LNM 31/15, 9th Dist	2524	16530_1	7/16/2015
+16530	Add	Rock in Fathoms	4 Rk      Chart No. 1: K14.2	N 53 53' 44.700"	W 166 33' 46.800"	53.89575	-166.563	LNM 31/15, 9th Dist	2524	16530_1	7/16/2015
+16530	Add	Rock in Fathoms and Fraction	3 3/4 Rk    Chart No. 1: K14.2	N 53 53' 43.900"	W 166 33' 48.300"	53.89553	-166.5634	LNM 31/15, 9th Dist	2524	16530_1	7/16/2015
+16530	Add	Rock in Fathoms	5 Rk      Chart No. 1: K14.2	N 53 53' 40.300"	W 166 33' 34.400"	53.89453	-166.5596	LNM 31/15, 9th Dist	2524	16530_1	7/16/2015
+16530	Add	Rock in Fathoms	5 Rk      Chart No. 1: K14.2	N 53 53' 44.000"	W 166 33' 42.900"	53.89556	-166.5619	LNM 31/15, 9th Dist	2524	16530_1	7/16/2015
+16530	Add	Sounding in Fathoms & Fraction	7 1/2	N 53 53' 39.600"	W 166 33' 44.600"	53.89433	-166.5624	LNM 31/15, 9th Dist	2524	16530_1	7/16/2015
+16530	Delete	Sounding in Fathoms & Fraction	7 1/2	N 53 53' 48.100"	W 166 33' 45.700"	53.89669	-166.5627	LNM 31/15, 9th Dist	2524	16530_1	7/16/2015
+16530	Add	Sounding in Fathoms	7	N 53 53' 51.100"	W 166 33' 52.100"	53.89753	-166.5645	LNM 31/15, 9th Dist	2524	16530_1	7/16/2015
+16530	Relocate	Lliuliuk Reef Lighted Buoy 6	R "6" Fl R 4s	N 53 52' 38.627"	W 166 32' 02.503"	53.8774	-166.534	LNM 25/15, 17th Dist	2524	16530_1	6/25/2015
+16530	Add	danger zone label	Unexploded ordnance (reported 2013) (see note)	N 53 54' 28.500"	W 166 36' 23.300"	53.90792	-166.6065	LNM 10/14, 17th Dist	2524	16530_1	3/6/2014
+16530	Add	danger zone label	Unexploded ordnance (reported 2013) (see note)	N 53 53' 24.800"	W 166 35' 20.100"	53.89022	-166.5889	LNM 10/14, 17th Dist	2524	16530_1	3/6/2014
+16530	Add	danger zone label	Unexploded ordnance (reported 2013) (see note)	N 53 53' 44.900"	W 166 33' 18.400"	53.89581	-166.5551	LNM 10/14, 17th Dist	2524	16530_1	3/6/2014
+16530	Add	danger zone label	Unexploded ordnance (reported 2013) (see note)	N 53 52' 22.000"	W 166 34' 27.600"	53.87278	-166.5743	LNM 10/14, 17th Dist	2524	16530_1	3/6/2014
+16530	Add	UNEXPLODED ORDNANCE CAUTION Note	Mariners are cautioned against anchoring, dredging, or trawling within the area of the dashed black lines due to the presence of unexploded ordnance.	N 53 49' 55.700"	W 166 32' 13.300"	53.83214	-166.537	LNM 10/14, 17th Dist	2524	16530_1	3/6/2014
+16530	Add	danger zone label	Unexploded ordnance (reported 2013) (see note)	N 53 50' 47.900"	W 166 35' 16.600"	53.84664	-166.588	LNM 10/14, 17th Dist	2524	16530_1	3/6/2014
+16530	Add	CARL E. MOSES HARBOR LIGHT A	Fl 4s 13ft 5M "A"	N 53 52' 11.577"	W 166 33' 01.171"	53.86988	-166.5503	LNM 38/13, 17th Dist	2524	16530_1	9/30/2013
+16530	Add	CARL E. MOSES HARBOR LIGHT B	Fl 2.5s 13ft 5M  "B"	N 53 52' 10.001"	W 166 33' 03.126"	53.86945	-166.5509	LNM 38/13, 17th Dist	2524	16530_1	9/30/2013
+16530	Add	CARL E. MOSES HARBOR LIGHT C	Fl 4s 13ft 5M "C"	N 53 52' 06.743"	W 166 33' 08.106"	53.86854	-166.5522	LNM 38/13, 17th Dist	2524	16530_1	9/30/2013
+16530	Add	CARL E. MOSES HARBOR LIGHT D	Q 13ft 5M "D"	N 53 52' 03.429"	W 166 33' 12.989"	53.86762	-166.5536	LNM 38/13, 17th Dist	2524	16530_1	9/30/2013
+16530	Relocate	Iliuliuk Harbor South Channel Daybeacon 12	R "12"	N 53 52' 32.952"	W 166 32' 55.908"	53.87582	-166.5489	LNM 51/12, 17th Dist	2524	16530_1	1/3/2013
+16530	Relocate	Iliuliuk Harbor South Channel Daybeacon 13	G "13"	N 53 52' 31.830"	W 166 32' 59.280"	53.87551	-166.5498	LNM 51/12, 17th Dist	2524	16530_1	1/3/2013
+16530	Add	caution area PT 1 OF 4	(use Chart No. 1: N1.2)	N 53 54' 19.620"	W 166 33' 04.920"	53.90545	-166.5514	LNM 11/12, 17th Dist	2524	16530_1	3/12/2012
+16530	Add	caution area PT 2 OF 4	(use Chart No. 1: N1.2)	N 53 54' 07.290"	W 166 33' 08.030"	53.90202	-166.5522	LNM 11/12, 17th Dist	2524	16530_1	3/12/2012
+16530	Add	caution area PT 3 OF 4	(use Chart No. 1: N1.2)	N 53 54' 23.700"	W 166 33' 57.810"	53.90658	-166.5661	LNM 11/12, 17th Dist	2524	16530_1	3/12/2012
+16530	Add	caution area PT 4 OF 4	(use Chart No. 1: N1.2)	N 53 54' 42.850"	W 166 33' 35.160"	53.9119	-166.5598	LNM 11/12, 17th Dist	2524	16530_1	3/12/2012
+16530	Add	caution area label	(see note B)	N 53 54' 14.100"	W 166 33' 26.700"	53.90392	-166.5574	LNM 11/12, 17th Dist	2524	16530_1	3/12/2012
+16530	Add	caution area label: 	(see note B)	N 53 54' 35.600"	W 166 33' 42.500"	53.90989	-166.5618	LNM 11/12, 17th Dist	2524	16530_1	3/12/2012
+16530	Add	caution area label: 	(see note B)	N 53 54' 28.800"	W 166 33' 18.100"	53.908	-166.555	LNM 11/12, 17th Dist	2524	16530_1	3/12/2012
+16530	Add	caution area NOTE B 	CAUTION Mariners are advised that low flying aircraft may be present over Hog Island Channel in the vicinity of Dutch Harbor Airport.  The Federal Aviation Administration (FAA) has requested that vessels transit with caution and not anchor within the area.	N 53 49' 48.800"	W 166 33' 59.900"	53.83022	-166.5666	LNM 11/12, 17th Dist	2524	16530_1	3/12/2012
+16530	Relocate	Hog Island Lighted Buoy 3 	G "3"  Fl G 4s	N 53 53' 30.977"	W 166 34' 54.006"	53.89194	-166.5817	LNM 37/11, 17th Dist	2524	16530_1	9/19/2011
+16530	Delete	Fixed Bridge Label	FOOTBRIDGE PIPELINE VERT CL REP APPROX 6 FT	N 53 52' 56.300"	W 166 32' 51.000"	53.88231	-166.5475	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Delete	Fixed Bridge PT 1 OF 2	Chart No. 1: D22	N 53 52' 55.700"	W 166 32' 52.600"	53.88214	-166.5479	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Delete	Fixed Bridge PT 2 OF 2	Chart No. 1: D22	N 53 52' 57.100"	W 166 32' 48.700"	53.88253	-166.5469	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Delete	Sounding in Fathoms & Fractions	3 1/2	N 53 52' 39.100"	W 166 32' 03.800"	53.87753	-166.5344	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Delete	Sounding in Fathoms 	6	N 53 52' 39.400"	W 166 32' 10.100"	53.87761	-166.5361	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Delete	Sounding in Fathoms 	7	N 53 52' 41.000"	W 166 32' 13.500"	53.87806	-166.5371	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Delete	Sounding in Fathoms 	8	N 53 52' 42.400"	W 166 32' 14.400"	53.87844	-166.5373	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Delete	Sounding in Fathoms & Fractions	5 1/4	N 53 52' 41.900"	W 166 32' 17.000"	53.87831	-166.5381	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Depth Legend - Iliuliuk East Channel:	25 FT AUG 2010	N 53 52' 39.700"	W 166 32' 09.300"	53.87769	-166.5359	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Delete	Sounding in Fathoms & Fractions	3 3/4	N 53 52' 37.400"	W 166 32' 04.200"	53.87706	-166.5345	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Delete	Sounding in Fathoms & Fractions	5 1/4	N 53 52' 36.600"	W 166 32' 06.500"	53.87683	-166.5351	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Delete	Sounding in Fathoms & Fractions	6 1/4	N 53 52' 37.600"	W 166 32' 07.500"	53.87711	-166.5354	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Sounding in Fathoms & Fractions	2 1/4	N 53 52' 42.800"	W 166 32' 11.500"	53.87856	-166.5365	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Sounding in Fathoms 	3	N 53 52' 41.700"	W 166 32' 08.800"	53.87825	-166.5358	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Channel Limits PT 1 OF 2	Chart No. 1 I20	N 53 52' 38.100"	W 166 32' 00.900"	53.87725	-166.5336	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Channel Limits PT 2 OF 2	Chart No. 1 I20	N 53 52' 43.600"	W 166 32' 13.100"	53.87878	-166.537	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Channel Limits PT 1 OF 2	Chart No. 1 I20	N 53 52' 35.700"	W 166 32' 05.300"	53.87658	-166.5348	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Channel Limits PT 2 OF 2	Chart No. 1 I20	N 53 52' 41.400"	W 166 32' 17.900"	53.87817	-166.5383	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Pier PT 1 OF 2	Chart No. 1:F14	N 53 52' 06.000"	W 166 33' 21.700"	53.86833	-166.556	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Pier PT 2 OF 2	Chart No. 1:F14	N 53 52' 05.700"	W 166 33' 20.900"	53.86825	-166.5558	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Delete	Sounding in Fathoms 	9	N 53 52' 02.600"	W 166 33' 12.300"	53.86739	-166.5534	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Delete	Sounding in Fathoms & Fractions	1 3/4	N 53 52' 01.400"	W 166 33' 16.600"	53.86705	-166.5546	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Breakwater PT 1 OF 4	Chart No. 1 F4.1	N 53 52' 04.200"	W 166 33' 20.900"	53.86783	-166.5558	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Breakwater PT 2 OF 4	Chart No. 1 F4.1	N 53 52' 01.400"	W 166 33' 15.700"	53.86705	-166.5544	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Breakwater PT 3 OF 4	Chart No. 1 F4.1	N 53 52' 01.200"	W 166 33' 13.300"	53.867	-166.5537	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Breakwater PT 4 OF 4	Chart No. 1 F4.1	N 53 52' 02.100"	W 166 33' 11.800"	53.86725	-166.5533	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Channel Limits PT 1 OF 8	Chart No. 1 I20	N 53 52' 11.600"	W 166 33' 01.500"	53.86989	-166.5504	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Channel Limits PT 2 OF 8	Chart No. 1 I20	N 53 52' 03.600"	W 166 33' 13.700"	53.86767	-166.5538	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Channel Limits PT 3 OF 8	Chart No. 1 I20	N 53 52' 02.700"	W 166 33' 12.100"	53.86742	-166.5534	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Channel Limits PT 4 OF 8	Chart No. 1 I20	N 53 52' 02.400"	W 166 33' 13.600"	53.86733	-166.5538	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Channel Limits PT 5 OF 8	Chart No. 1 I20	N 53 52' 02.800"	W 166 33' 15.000"	53.86744	-166.5542	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Channel Limits PT 6 OF 8	Chart No. 1 I20	N 53 52' 03.600"	W 166 33' 15.800"	53.86767	-166.5544	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Channel Limits PT 7 OF 8	Chart No. 1 I20	N 53 52' 04.500"	W 166 33' 15.300"	53.86792	-166.5542	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Channel Limits PT 8 OF 8	Chart No. 1 I20	N 53 52' 12.500"	W 166 33' 03.200"	53.87014	-166.5509	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Ramp PT 1 OF 4	Chart No. 1:F23	N 53 52' 06.100"	W 166 33' 21.700"	53.86836	-166.556	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Ramp PT 2 OF 4	Chart No. 1:F23	N 53 52' 05.800"	W 166 33' 22.000"	53.86828	-166.5561	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Ramp PT 3 OF 4	Chart No. 1:F23	N 53 52' 06.900"	W 166 33' 24.500"	53.86858	-166.5568	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Ramp PT 4 OF 4	Chart No. 1:F23	N 53 52' 07.100"	W 166 33' 24.100"	53.86864	-166.5567	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Depth Legend - Iliuliuk South Channel:	18 FT AUG 2010	N 53 52' 08.000"	W 166 33' 08.500"	53.86889	-166.5524	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Delete	Sounding in Fathoms 	11	N 53 52' 11.200"	W 166 33' 03.600"	53.86978	-166.551	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Delete	Sounding in Fathoms 	13	N 53 52' 06.000"	W 166 33' 11.600"	53.86833	-166.5532	LNM 21/11, 17th Dist	2524	16530_1	5/24/2011
+16530	Add	Carl E Moses Harbor Light 1	Fl G 2.5s 19ft 5M "1"	N 53 52' 01.790"	W 166 33' 12.612"	53.86716	-166.5535	LNM 44/10, 17th Dist	2524	16530_1	11/12/2010

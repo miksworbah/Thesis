@@ -1,0 +1,3 @@
+Chart: 17323, Current Edition: 13, Print Date: Mar. /2015, Salisbury Sound, Peril Strait and Hoonah Sound
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+17323	Relocate	Klokachef Island Light	Fl 6s 85ft 7M	N 57 24' 12.138"	W 135 54' 22.338"	57.40337	-135.9062	LNM 11/16, 17th Dist	2648	17323_1	3/31/2016

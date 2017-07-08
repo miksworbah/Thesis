@@ -1,0 +1,108 @@
+Chart: 11376, Current Edition: 58, Print Date: Nov. /2015, Mobile Bay Mobile Ship Channel-Northern End
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11376	Delete	Platform (Union-213-1)	Chart No. 1: L10	N 30 04' 55.000"	W 087 53' 11.000"	30.08194	-87.88639	LNM 26/17, 8th Dist	50	11376_1	Not Yet
+11376	Delete	Platform (Union-213-5)	Chart No. 1: L10	N 30 04' 40.000"	W 087 57' 50.000"	30.07778	-87.96389	LNM 26/17, 8th Dist	50	11376_1	Not Yet
+11376	Delete	Platform (Union-213-9)	Chart No. 1: L10	N 30 06' 00.000"	W 087 54' 08.000"	30.1	-87.90222	LNM 26/17, 8th Dist	50	11376_1	Not Yet
+11376	Add	Terrys Landing Oyster Farm Special Lights	2 Fl Y 2.5s 7ft Priv 	N 30 15' 18.880"	W 087 48' 00.370"	30.25525	-87.8001	LNM 26/17, 8th Dist	50	11376_1	Not Yet
+11376	Add	Submerged Obstruction	Obstn PA	N 30 33' 48.000"	W 087 58' 36.000"	30.56333	-87.97667	LNM 25/17, 8th Dist	50	11376_1	6/29/2017
+11376	Change	tabulation - Mobile Bay and River Channel Depths	tabulation - Mobile Bay and River Channel Depths	N 30 38' 08.000"	W 088 12' 46.000"	30.63556	-88.21278	LNM 25/17, 8th Dist	50	11376_1	6/15/2017
+11376	Change	Mobile Channel Lighted Buoy 54	R "54" Fl R 4s	N 30 28' 37.352"	W 088 00' 56.393"	30.47704	-88.01566	LNM 23/17, 8th Dist	50	11376_1	6/15/2017
+11376	Change	Mobile Channel Lighted Buoy 46	R "46" Q R	N 30 25' 44.489"	W 088 00' 44.895"	30.42903	-88.01247	LNM 23/17, 8th Dist	50	11376_1	6/15/2017
+11376	Relocate	Mobile Channel Lighted Buoy 46	R "46" Q R	N 30 25' 44.329"	W 088 00' 44.989"	30.42898	-88.0125	LNM 23/17, 8th Dist	50	11376_1	6/15/2017
+11376	Delete	Platform (Exxon-188-12)	Chart No. 1: L10	N 30 08' 56.000"	W 088 08' 44.000"	30.14889	-88.14555	LNM 16/17, 8th Dist	50	11376_1	4/27/2017
+11376	Change	Fly Creek Buoy 7	G C "7"	N 30 32' 34.986"	W 087 54' 16.723"	30.54305	-87.90465	LNM 16/17, 8th Dist	50	11376_1	4/27/2017
+11376	Change	Fly Creek Buoy 5	G C "5"	N 30 32' 37.270"	W 087 54' 24.603"	30.54369	-87.90684	LNM 16/17, 8th Dist	50	11376_1	4/27/2017
+11376	Add	ADCNR Legacy Reef Special Light	Fl Y 2.5s Priv	N 30 16' 00.580"	W 087 58' 24.470"	30.26683	-87.97346	LNM 15/17, 8th Dist	50	11376_1	4/20/2017
+11376	Add	ADCNR Legacy Reef Special Light	Fl Y 2.5s Priv	N 30 15' 59.800"	W 087 58' 26.570"	30.26661	-87.97404	LNM 15/17, 8th Dist	50	11376_1	4/20/2017
+11376	Add	ADCNR Legacy Reef Special Light	Fl Y 2.5s Priv	N 30 16' 47.760"	W 087 58' 03.790"	30.27993	-87.96772	LNM 15/17, 8th Dist	50	11376_1	4/20/2017
+11376	Add	ADCNR Legacy Reef Special Light	Fl Y 2.5s Priv	N 30 16' 50.280"	W 087 58' 04.790"	30.28063	-87.96799	LNM 15/17, 8th Dist	50	11376_1	4/20/2017
+11376	Add	ADCNR Legacy Reef Special Light	Fl Y 2.5s Priv	N 30 16' 49.670"	W 087 59' 06.850"	30.28046	-87.98524	LNM 15/17, 8th Dist	50	11376_1	4/20/2017
+11376	Add	ADCNR Legacy Reef Special Light	Fl Y 2.5s Priv	N 30 16' 51.320"	W 087 59' 05.680"	30.28092	-87.98491	LNM 15/17, 8th Dist	50	11376_1	4/20/2017
+11376	Add	ADCNR Legacy Reef Special Light	Fl Y 2.5s Priv	N 30 17' 14.330"	W 087 57' 21.210"	30.28731	-87.95589	LNM 15/17, 8th Dist	50	11376_1	4/20/2017
+11376	Add	ADCNR Legacy Reef Special Light	Fl Y 2.5s Priv	N 30 17' 15.760"	W 087 57' 22.800"	30.28771	-87.95634	LNM 15/17, 8th Dist	50	11376_1	4/20/2017
+11376	Add	ADCNR Legacy Reef Special Light	Fl Y 2.5s Priv	N 30 17' 19.870"	W 087 57' 14.690"	30.28885	-87.95408	LNM 15/17, 8th Dist	50	11376_1	4/20/2017
+11376	Add	ADCNR Legacy Reef Special Light	Fl Y 2.5s Priv	N 30 17' 21.300"	W 087 57' 16.260"	30.28925	-87.95451	LNM 15/17, 8th Dist	50	11376_1	4/20/2017
+11376	Add	ADCNR Point Clear Reef Special Light	Fl Y 2.5s Priv	N 30 27' 54.060"	W 087 57' 43.920"	30.46502	-87.9622	LNM 15/17, 8th Dist	50	11376_1	4/20/2017
+11376	Add	ADCNR Point Clear Reef Special Light	Fl Y 2.5s Priv	N 30 27' 59.460"	W 087 57' 44.460"	30.46652	-87.96235	LNM 15/17, 8th Dist	50	11376_1	4/20/2017
+11376	Add	ADCNR Point Clear Reef Special Light	Fl Y 2.5s Priv	N 30 27' 54.600"	W 087 57' 38.640"	30.46517	-87.96073	LNM 15/17, 8th Dist	50	11376_1	4/20/2017
+11376	Add	ADCNR Point Clear Reef Special Light	Fl Y 2.5s Priv	N 30 28' 00.360"	W 087 57' 38.220"	30.46677	-87.96062	LNM 15/17, 8th Dist	50	11376_1	4/20/2017
+11376	Add	ADCNR Point Clear Reef Special Light	Fl Y 2.5s Priv	N 30 28' 01.980"	W 087 57' 41.220"	30.46722	-87.96145	LNM 15/17, 8th Dist	50	11376_1	4/20/2017
+11376	Add	ADCNR Point Clear Reef Special Light	Fl Y 2.5s Priv	N 30 27' 56.940"	W 087 57' 47.760"	30.46582	-87.96326	LNM 15/17, 8th Dist	50	11376_1	4/20/2017
+11376	Change	tabulation - MOBILE BAY AND RIVER CHANNEL DEPTHS	tabulation - MOBILE BAY AND RIVER CHANNEL DEPTHS	N 30 38' 08.000"	W 088 12' 46.000"	30.63556	-88.21278	LNM 13/17, 8th Dist	50	11376_1	3/23/2017
+11376	Delete	Blakeley River Light 2	Fl R4s 14ft "2" Priv	N 30 37' 21.000"	W 087 56' 20.000"	30.6225	-87.93889	LNM 10/17, 8th Dist	50	11376_1	3/16/2017
+11376	Delete	Blakeley River Daybeacon 3	G "3" Priv	N 30 36' 30.000"	W 087 55' 48.000"	30.60833	-87.93	LNM 10/17, 8th Dist	50	11376_1	3/16/2017
+11376	Delete	Blakeley River Daybeacon 4	R "4" Priv	N 30 36' 31.000"	W 087 55' 48.000"	30.60861	-87.93	LNM 10/17, 8th Dist	50	11376_1	3/16/2017
+11376	Delete	Blakeley River Daybeacon 5	G "5" Priv	N 30 36' 32.000"	W 087 55' 48.000"	30.60889	-87.93	LNM 10/17, 8th Dist	50	11376_1	3/16/2017
+11376	Delete	Blakeley River Daybeacon 6	R "6" Priv	N 30 36' 32.000"	W 087 55' 48.000"	30.60889	-87.93	LNM 10/17, 8th Dist	50	11376_1	3/16/2017
+11376	Delete	Blakeley River Daybeacon 7	G "7" Priv	N 30 36' 48.000"	W 087 55' 54.000"	30.61333	-87.93166	LNM 10/17, 8th Dist	50	11376_1	3/16/2017
+11376	Delete	Blakeley River Daybeacon 8	R "8" Priv	N 30 37' 02.000"	W 087 55' 39.000"	30.61722	-87.9275	LNM 10/17, 8th Dist	50	11376_1	3/16/2017
+11376	Delete	Blakeley River Daybeacon 9	G "9" Priv	N 30 37' 00.000"	W 087 55' 53.000"	30.61667	-87.93139	LNM 10/17, 8th Dist	50	11376_1	3/16/2017
+11376	Delete	Blakeley River Daybeacon 10	R "10" Priv	N 30 37' 13.000"	W 087 55' 39.000"	30.62028	-87.9275	LNM 10/17, 8th Dist	50	11376_1	3/16/2017
+11376	Delete	Blakeley River Daybeacon 11	G "11" Priv	N 30 37' 09.000"	W 087 55' 53.000"	30.61917	-87.93139	LNM 10/17, 8th Dist	50	11376_1	3/16/2017
+11376	Delete	Blakeley River Daybeacon 12	R "12" Priv	N 30 37' 19.000"	W 087 55' 43.000"	30.62194	-87.92861	LNM 10/17, 8th Dist	50	11376_1	3/16/2017
+11376	Delete	Blakeley River Daybeacon 14	R "14" Priv	N 30 37' 30.000"	W 087 55' 43.000"	30.625	-87.92861	LNM 10/17, 8th Dist	50	11376_1	3/16/2017
+11376	Delete	Blakeley River Daybeacon 16	R "16" Priv	N 30 37' 42.000"	W 087 55' 43.000"	30.62833	-87.92861	LNM 10/17, 8th Dist	50	11376_1	3/16/2017
+11376	Delete	Blakeley River Daybeacon 18	R "18" Priv	N 30 37' 54.000"	W 087 55' 40.000"	30.63167	-87.92778	LNM 10/17, 8th Dist	50	11376_1	3/16/2017
+11376	Change	Mobile Channel Lighted Buoy 40	R "40" Fl R 6s	N 30 22' 42.601"	W 088 01' 09.926"	30.3785	-88.01942	LNM 07/17, 8th Dist	50	11376_1	3/2/2017
+11376	Change	Mobile Channel Lighted Buoy 42	R "42" Fl R 4s	N 30 23' 33.365"	W 088 01' 02.614"	30.3926	-88.0174	LNM 07/17, 8th Dist	50	11376_1	3/2/2017
+11376	Change	Mobile Channel Lighted Buoy 59	G "59" Oc G 4s	N 30 31' 20.460"	W 088 01' 24.512"	30.52235	-88.02348	LNM 07/17, 8th Dist	50	11376_1	3/2/2017
+11376	Add	magenta channel reach separator PT 1 OF 2	magenta channel reach separator	N 30 26' 44.040"	W 088 00' 52.150"	30.44557	-88.01449	LNM 09/17, 8th Dist	50	11376_1	2/23/2017
+11376	Add	magenta channel reach separator PT 2 OF 2	magenta channel reach separator	N 30 26' 44.250"	W 088 00' 46.460"	30.44563	-88.01291	LNM 09/17, 8th Dist	50	11376_1	2/23/2017
+11376	Delete	magenta channel reach separator PT 1 OF 2	magenta channel reach separator	N 30 42' 48.950"	W 088 02' 24.770"	30.7136	-88.04021	LNM 09/17, 8th Dist	51	11376_2	2/23/2017
+11376	Delete	magenta channel reach separator PT 2 OF 2	magenta channel reach separator	N 30 42' 50.490"	W 088 02' 16.440"	30.71403	-88.0379	LNM 09/17, 8th Dist	51	11376_2	2/23/2017
+11376	Delete	magenta channel reach separator PT 1 OF 2	magenta channel reach separator	N 30 42' 20.390"	W 088 02' 21.310"	30.70566	-88.03925	LNM 09/17, 8th Dist	51	11376_2	2/23/2017
+11376	Delete	magenta channel reach separator PT 2 OF 2	magenta channel reach separator	N 30 42' 21.680"	W 088 02' 12.700"	30.70602	-88.03686	LNM 09/17, 8th Dist	51	11376_2	2/23/2017
+11376	Delete	magenta channel reach separator PT 1 OF 2	magenta channel reach separator	N 30 40' 40.970"	W 088 02' 15.390"	30.67805	-88.03761	LNM 09/17, 8th Dist	51	11376_2	2/23/2017
+11376	Delete	magenta channel reach separator PT 2 OF 2	magenta channel reach separator	N 30 40' 41.710"	W 088 02' 06.510"	30.67825	-88.03514	LNM 09/17, 8th Dist	51	11376_2	2/23/2017
+11376	Add	magenta channel reach separator PT 1 OF 2	magenta channel reach separator	N 30 40' 45.110"	W 088 02' 15.420"	30.6792	-88.03761	LNM 09/17, 8th Dist	51	11376_2	2/23/2017
+11376	Add	magenta channel reach separator PT 2 OF 2	magenta channel reach separator	N 30 40' 45.650"	W 088 02' 07.490"	30.67935	-88.03542	LNM 09/17, 8th Dist	51	11376_2	2/23/2017
+11376	Add	magenta channel reach separator PT 1 OF 2	magenta channel reach separator	N 30 15' 11.820"	W 088 02' 22.820"	30.25328	-88.03967	LNM 09/17, 8th Dist	50	11376_1	2/23/2017
+11376	Add	magenta channel reach separator PT 2 OF 2	magenta channel reach separator	N 30 15' 11.330"	W 088 02' 18.300"	30.25315	-88.03841	LNM 09/17, 8th Dist	50	11376_1	2/23/2017
+11376	Add	magenta channel reach separator PT 1 OF 2	magenta channel reach separator	N 30 42' 48.630"	W 088 02' 25.040"	30.71351	-88.04029	LNM 09/17, 8th Dist	51	11376_2	2/23/2017
+11376	Add	magenta channel reach separator PT 2 OF 2	magenta channel reach separator	N 30 42' 49.630"	W 088 02' 15.510"	30.71379	-88.03764	LNM 09/17, 8th Dist	51	11376_2	2/23/2017
+11376	Add	magenta channel reach separator PT 1 OF 2	magenta channel reach separator	N 30 42' 14.210"	W 088 02' 20.310"	30.70395	-88.03898	LNM 09/17, 8th Dist	51	11376_2	2/23/2017
+11376	Add	magenta channel reach separator PT 2 OF 2	magenta channel reach separator	N 30 42' 15.050"	W 088 02' 13.500"	30.70418	-88.03709	LNM 09/17, 8th Dist	51	11376_2	2/23/2017
+11376	Delete	Depth Legend	40FT AUG 2015	N 30 43' 39.000"	W 088 02' 26.700"	30.7275	-88.04075	LNM 09/17, 8th Dist	51	11376_2	2/23/2017
+11376	Delete	Channel Limits PT 1 OF 3	Chart No. 1: I20	N 30 43' 50.800"	W 088 02' 30.000"	30.73078	-88.04166	LNM 09/17, 8th Dist	51	11376_2	2/23/2017
+11376	Delete	Channel Limits PT 2 OF 3	Chart No. 1: I20	N 30 43' 30.600"	W 088 02' 29.100"	30.72517	-88.04142	LNM 09/17, 8th Dist	51	11376_2	2/23/2017
+11376	Delete	Channel Limits PT 3 OF 3	Chart No. 1: I20	N 30 43' 15.800"	W 088 02' 25.400"	30.72106	-88.04039	LNM 09/17, 8th Dist	51	11376_2	2/23/2017
+11376	Relocate	Fly Creek Daybeacon 5	G "5"	N 30 32' 37.270"	W 087 54' 24.603"	30.54369	-87.90684	LNM 05/17, 8th Dist	50	11376_1	2/16/2017
+11376	Change	tabulation - Mobile Bay and River Channel Depths	tabulation - Mobile Bay and River Channel Depths	N 30 38' 08.000"	W 088 12' 46.000"	30.63556	-88.21278	LNM 08/17, 8th Dist	50	11376_1	2/16/2017
+11376	Add	MOBILE BAY DANGER LIGHT A	Q 17ft 3M "A" Ra Ref	N 30 19' 00.998"	W 087 57' 56.868"	30.31694	-87.9658	LNM 02/17, 8th Dist	50	11376_1	1/26/2017
+11376	Change	tabulation - Mobile Bay and River Channel Depths	tabulation - Mobile Bay and River Channel Depths	N 30 38' 08.000"	W 088 12' 46.000"	30.63556	-88.21278	LNM 46/16, 8th Dist	50	11376_1	11/10/2016
+11376	Add	NOAA Bon Secour Bay Danger Breakwater Light	Fl 2.5s	N 30 20' 10.284"	W 087 48' 44.712"	30.33619	-87.81242	LNM 43/16, 8th Dist	50	11376_1	11/3/2016
+11376	Add	NOAA Bon Secour Bay Danger Breakwater Light	Fl 2.5s	N 30 20' 13.650"	W 087 48' 48.010"	30.33713	-87.81334	LNM 43/16, 8th Dist	50	11376_1	11/3/2016
+11376	Add	Depth Legend - Garrows Bend to:	2 1/2 FT JUN 2016	N 30 39' 36.000"	W 088 02' 34.000"	30.66	-88.04278	LNM 44/16, 8th Dist	51	11376_2	10/27/2016
+11376	Change	Depth Note - Fly Creek to:	NOTE FLY CREEK The controlling depths were 4 1/2 feet for a mid-width of 40 feet from the channel entrance to the basin and 4 1/2 feet for width of 100 feet in the basin. Mar 2016	N 30 31' 05.000"	W 087 51' 40.000"	30.51805	-87.86111	LNM 44/16, 8th Dist	50	11376_1	10/27/2016
+11376	Change	Depth Legend - Dauphin Island Village Channel to:	3 FT APR 2016	N 30 15' 31.000"	W 088 06' 52.000"	30.25861	-88.11444	LNM 44/16, 8th Dist	50	11376_1	10/27/2016
+11376	Change	Depth Note - Fowl River Channel to:	FOWL RIVER The controlling depth was 2 feet for a width of 100 feet from the entrance (30°26'58"N, 88°05'06"W) in Mobile Bay to a point located at (30°26'20"N, 88°07'09"W).	N 30 26' 14.000"	W 088 11' 40.000"	30.43722	-88.19444	LNM 44/16, 8th Dist	50	11376_1	10/27/2016
+11376	Change	Mobile Channel Lighted Buoy 47	G "47" Fl G 2.5s	N 30 26' 14.872"	W 088 00' 54.804"	30.43746	-88.01522	LNM 39/16, 8th Dist	50	11376_1	10/6/2016
+11376	Change	Mobile Channel Lighted Buoy 52	R "52" Fl R 2.5s	N 30 27' 53.028"	W 088 00' 51.847"	30.46473	-88.0144	LNM 39/16, 8th Dist	50	11376_1	10/6/2016
+11376	Change	Mobile Channel Lighted Buoy 55	G "55" Fl G 4s	N 30 29' 22.305"	W 088 01' 10.486"	30.48953	-88.01958	LNM 39/16, 8th Dist	50	11376_1	10/6/2016
+11376	Add	Mobile Bay National Estuary Danger Breakwater Light	Fl 2.5s Priv	N 30 27' 00.630"	W 088 06' 28.180"	30.45017	-88.10783	LNM 15/16, 8th Dist	50	11376_1	4/21/2016
+11376	Add	Mobile Bay National Estuary Danger Breakwater Light	Fl 2.5s Priv	N 30 26' 51.320"	W 088 06' 23.760"	30.44759	-88.1066	LNM 15/16, 8th Dist	50	11376_1	4/21/2016
+11376	Add	NOAA Bon Secour Bay Danger Breakwater Light	Fl 2.5s Priv	N 30 19' 15.162"	W 087 47' 25.445"	30.32088	-87.7904	LNM 14/16, 8th Dist	50	11376_1	4/14/2016
+11376	Add	NOAA Bon Secour Bay Danger Breakwater Light	Fl 2.5s Priv	N 30 19' 17.260"	W 087 47' 29.969"	30.32146	-87.79166	LNM 14/16, 8th Dist	50	11376_1	4/14/2016
+11376	Add	NOAA Bon Secour Bay Danger Breakwater Light	Fl 2.5s Priv	N 30 19' 30.741"	W 087 47' 56.618"	30.32521	-87.79906	LNM 14/16, 8th Dist	50	11376_1	4/14/2016
+11376	Add	NOAA Bon Secour Bay Danger Breakwater Light	Fl 2.5s Priv	N 30 19' 21.655"	W 087 47' 38.951"	30.32268	-87.79415	LNM 14/16, 8th Dist	50	11376_1	4/14/2016
+11376	Add	NOAA Bon Secour Bay Danger Breakwater Light	Fl 2.5s Priv	N 30 19' 23.822"	W 087 47' 43.441"	30.32328	-87.7954	LNM 14/16, 8th Dist	50	11376_1	4/14/2016
+11376	Add	NOAA Bon Secour Bay Danger Breakwater Light	Fl 2.5s Priv	N 30 19' 26.069"	W 087 47' 47.875"	30.32391	-87.79663	LNM 14/16, 8th Dist	50	11376_1	4/14/2016
+11376	Add	NOAA Bon Secour Bay Danger Breakwater Light	Fl 2.5s Priv	N 30 19' 28.405"	W 087 47' 52.241"	30.32456	-87.79784	LNM 14/16, 8th Dist	50	11376_1	4/14/2016
+11376	Add	NOAA Bon Secour Bay Danger Breakwater Light	Fl 2.5s Priv	N 30 19' 47.831"	W 087 48' 20.166"	30.32995	-87.8056	LNM 14/16, 8th Dist	50	11376_1	4/14/2016
+11376	Add	NOAA Bon Secour Bay Danger Breakwater Light	Fl 2.5s Priv	N 30 19' 36.167"	W 087 48' 04.759"	30.32671	-87.80132	LNM 14/16, 8th Dist	50	11376_1	4/14/2016
+11376	Add	NOAA Bon Secour Bay Danger Breakwater Light	Fl 2.5s Priv	N 30 19' 39.217"	W 087 48' 08.511"	30.32756	-87.80236	LNM 14/16, 8th Dist	50	11376_1	4/14/2016
+11376	Add	NOAA Bon Secour Bay Danger Breakwater Light	Fl 2.5s Priv	N 30 19' 42.019"	W 087 48' 12.434"	30.32834	-87.80345	LNM 14/16, 8th Dist	50	11376_1	4/14/2016
+11376	Add	NOAA Bon Secour Bay Danger Breakwater Light	Fl 2.5s Priv	N 30 19' 44.742"	W 087 48' 16.470"	30.3291	-87.80457	LNM 14/16, 8th Dist	50	11376_1	4/14/2016
+11376	Add	NOAA Bon Secour Bay Danger Breakwater Light	Fl 2.5s Priv	N 30 19' 50.981"	W 087 48' 23.793"	30.33083	-87.80661	LNM 14/16, 8th Dist	50	11376_1	4/14/2016
+11376	Add	NOAA Bon Secour Bay Danger Breakwater Light	Fl 2.5s Priv	N 30 19' 53.535"	W 087 48' 27.977"	30.33154	-87.80777	LNM 14/16, 8th Dist	50	11376_1	4/14/2016
+11376	Add	NOAA Bon Secour Bay Danger Breakwater Light	Fl 2.5s Priv	N 30 19' 56.396"	W 087 48' 31.912"	30.33233	-87.80886	LNM 14/16, 8th Dist	50	11376_1	4/14/2016
+11376	Add	NOAA Bon Secour Bay Danger Breakwater Light	Fl 2.5s Priv	N 30 19' 59.605"	W 087 48' 35.482"	30.33322	-87.80985	LNM 14/16, 8th Dist	50	11376_1	4/14/2016
+11376	Add	NOAA Bon Secour Bay Danger Breakwater Light	Fl 2.5s Priv	N 30 20' 03.022"	W 087 48' 38.779"	30.33417	-87.81078	LNM 14/16, 8th Dist	50	11376_1	4/14/2016
+11376	Add	NOAA Bon Secour Bay Danger Breakwater Light	Fl 2.5s Priv	N 30 20' 06.528"	W 087 48' 41.951"	30.33515	-87.81165	LNM 14/16, 8th Dist	50	11376_1	4/14/2016
+11376	Change	tabulation - MOBILE BAY AND RIVER CHANNEL DEPTHS	tabulation - MOBILE BAY AND RIVER CHANNEL DEPTHS	N 30 38' 08.000"	W 088 12' 46.000"	30.63556	-88.21278	LNM 15/16, 8th Dist	50	11376_1	4/7/2016
+11376	Add	Submerged Obstruction	Obstn PA   Chart No. 1: K40	N 30 19' 01.500"	W 087 57' 56.600"	30.31708	-87.96572	LNM 09/16, 8th Dist	50	11376_1	3/10/2016
+11376	Change	Tabulation - MOBILE BAY AND RIVER CHANNEL DEPTHS	Tabulation - MOBILE BAY AND RIVER CHANNEL DEPTHS	N 30 38' 08.000"	W 088 12' 46.000"	30.63556	-88.21278	LNM 09/16, 8th Dist	50	11376_1	2/25/2016
+11376	Change	Depth Legend - Mobile River to:	47 FT 2015	N 30 40' 10.700"	W 088 01' 50.140"	30.66964	-88.03059	LNM 08/16, 8th Dist	51	11376_2	2/25/2016
+11376	Delete	Platform (Legacy-100-2)	Chart No. 1: L10	N 30 10' 30.398"	W 087 57' 53.852"	30.17511	-87.96496	LNM 02/16, 8th Dist	50	11376_1	1/21/2016
+11376	Add	Sounding in Feet	6	N 30 11' 37.000"	W 088 04' 34.100"	30.19361	-88.07614	LNM 01/16, 8th Dist	50	11376_1	12/31/2015
+11376	Change	tabulation - MOBILE BAY AND RIVER CHANNEL DEPTHS	tabulation - MOBILE BAY AND RIVER CHANNEL DEPTHS	N 30 38' 08.000"	W 088 12' 46.000"	30.63556	-88.21278	LNM 51/15, 8th Dist	50	11376_1	12/17/2015

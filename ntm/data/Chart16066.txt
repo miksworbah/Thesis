@@ -1,0 +1,2 @@
+Chart: 16066, Current Edition: 8, Print Date: Jan. /2015, Pitt Pt. and vicinity
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

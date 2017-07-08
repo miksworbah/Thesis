@@ -1,0 +1,41 @@
+Chart: 16707, Current Edition: 14, Print Date: Apr. /2015, Prince William Sound-Valdez Arm and Port Valdez;Valdez Narrows;Valdez and Valdez Marine Terminal
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16707	Change	Valdez Marine Terminal Lighted Mooring Buoy	Fl Y 4s	N 61 05' 18.150"	W 146 23' 29.750"	61.08838	-146.3916	LNM 02/16, 9th Dist	2605	16707_2	1/14/2016
+16707	Change	Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 18.320"	W 146 21' 40.240"	61.08842	-146.3612	LNM 36/15, 17th Dist	2605	16707_2	9/24/2015
+16707	Change	Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 18.320"	W 146 21' 40.240"	61.08842	-146.3612	LNM 36/15, 17th Dist	2604	16707_1	9/24/2015
+16707	Change	Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 19.920"	W 146 23' 12.850"	61.08887	-146.3869	LNM 36/15, 17th Dist	2605	16707_2	9/24/2015
+16707	Change	Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 19.920"	W 146 23' 12.850"	61.08887	-146.3869	LNM 36/15, 17th Dist	2604	16707_1	9/24/2015
+16707	Change	Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 27.680"	W 146 22' 42.270"	61.09102	-146.3784	LNM 36/15, 17th Dist	2605	16707_2	9/24/2015
+16707	Change	Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 28.210"	W 146 22' 27.530"	61.09117	-146.3743	LNM 36/15, 17th Dist	2605	16707_2	9/24/2015
+16707	Change	Port Valdez Coast Guard Mooring Buoy	"CG"	N 61 05' 30.287"	W 146 24' 47.945"	61.09175	-146.4133	LNM 36/15, 17th Dist	2605	16707_2	9/24/2015
+16707	Change	Port Valdez Coast Guard Mooring Buoy	"CG"	N 61 05' 30.287"	W 146 24' 47.945"	61.09175	-146.4133	LNM 36/15, 17th Dist	2604	16707_1	9/24/2015
+16707	Change	Unlighted Mooring Buoy	"BM" Priv	N 61 05' 15.600"	W 146 24' 34.460"	61.08767	-146.4096	LNM 36/15, 17th Dist	2605	16707_2	9/24/2015
+16707	Change	Unlighted Mooring Buoy	"BM" Priv	N 61 05' 15.600"	W 146 24' 34.460"	61.08767	-146.4096	LNM 36/15, 17th Dist	2604	16707_1	9/24/2015
+16707	Change	Unlighted Mooring Buoy	Priv	N 61 05' 15.630"	W 146 25' 34.610"	61.08767	-146.4263	LNM 36/15, 17th Dist	2604	16707_1	9/24/2015
+16707	Change	Unlighted Mooring Buoy	Priv	N 61 05' 15.910"	W 146 25' 06.100"	61.08775	-146.4184	LNM 36/15, 17th Dist	2605	16707_2	9/24/2015
+16707	Change	Unlighted Mooring Buoy	Priv	N 61 05' 15.910"	W 146 25' 06.100"	61.08775	-146.4184	LNM 36/15, 17th Dist	2604	16707_1	9/24/2015
+16707	Change	Unlighted Mooring Buoy	Priv	N 61 05' 16.050"	W 146 24' 54.030"	61.08779	-146.415	LNM 36/15, 17th Dist	2605	16707_2	9/24/2015
+16707	Change	Unlighted Mooring Buoy	Priv	N 61 05' 16.050"	W 146 24' 54.030"	61.08779	-146.415	LNM 36/15, 17th Dist	2604	16707_1	9/24/2015
+16707	Change	Unlighted Mooring Buoy	Priv	N 61 05' 16.100"	W 146 24' 45.050"	61.08781	-146.4125	LNM 36/15, 17th Dist	2605	16707_2	9/24/2015
+16707	Change	Unlighted Mooring Buoy	Priv	N 61 05' 16.100"	W 146 24' 45.050"	61.08781	-146.4125	LNM 36/15, 17th Dist	2604	16707_1	9/24/2015
+16707	Change	Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 27.550"	W 146 24' 29.990"	61.09098	-146.4083	LNM 36/15, 17th Dist	2604	16707_1	9/24/2015
+16707	Change	Valdez Marine Terminal Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 20.000"	W 146 23' 30.000"	61.08889	-146.3917	LNM 31/15, 17th Dist	2605	16707_2	8/13/2015
+16707	Change	Valdez Marine Terminal Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 30.300"	W 146 24' 47.900"	61.09175	-146.4133	LNM 31/15, 17th Dist	2605	16707_2	8/13/2015
+16707	Change	Valdez Marine Terminal Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 30.300"	W 146 24' 47.900"	61.09175	-146.4133	LNM 31/15, 17th Dist	2604	16707_1	8/13/2015
+16707	Change	Valdez Marine Terminal Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 16.000"	W 146 25' 06.000"	61.08778	-146.4183	LNM 31/15, 17th Dist	2605	16707_2	8/13/2015
+16707	Change	Valdez Marine Terminal Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 16.000"	W 146 25' 06.000"	61.08778	-146.4183	LNM 31/15, 17th Dist	2604	16707_1	8/13/2015
+16707	Change	Valdez Marine Terminal Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 16.100"	W 146 24' 54.000"	61.08781	-146.415	LNM 31/15, 17th Dist	2605	16707_2	8/13/2015
+16707	Change	Valdez Marine Terminal Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 16.100"	W 146 24' 54.000"	61.08781	-146.415	LNM 31/15, 17th Dist	2604	16707_1	8/13/2015
+16707	Change	Valdez Marine Terminal Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 16.100"	W 146 24' 45.000"	61.08781	-146.4125	LNM 31/15, 17th Dist	2605	16707_2	8/13/2015
+16707	Change	Valdez Marine Terminal Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 16.100"	W 146 24' 45.000"	61.08781	-146.4125	LNM 31/15, 17th Dist	2604	16707_1	8/13/2015
+16707	Change	Valdez Marine Terminal Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 15.600"	W 146 24' 34.400"	61.08767	-146.4096	LNM 31/15, 17th Dist	2605	16707_2	8/13/2015
+16707	Change	Valdez Marine Terminal Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 15.600"	W 146 24' 34.400"	61.08767	-146.4096	LNM 31/15, 17th Dist	2604	16707_1	8/13/2015
+16707	Change	Valdez Marine Terminal Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 24.100"	W 146 23' 56.000"	61.09003	-146.3989	LNM 31/15, 17th Dist	2605	16707_2	8/13/2015
+16707	Change	Valdez Marine Terminal Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 24.100"	W 146 23' 56.000"	61.09003	-146.3989	LNM 31/15, 17th Dist	2604	16707_1	8/13/2015
+16707	Change	Valdez Marine Terminal Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 22.100"	W 146 23' 57.500"	61.08947	-146.3993	LNM 31/15, 17th Dist	2605	16707_2	8/13/2015
+16707	Change	Valdez Marine Terminal Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 22.100"	W 146 23' 57.500"	61.08947	-146.3993	LNM 31/15, 17th Dist	2604	16707_1	8/13/2015
+16707	Change	Valdez Marine Terminal Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 16.100"	W 146 24' 02.200"	61.08781	-146.4006	LNM 31/15, 17th Dist	2605	16707_2	8/13/2015
+16707	Change	Valdez Marine Terminal Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 16.100"	W 146 24' 02.200"	61.08781	-146.4006	LNM 31/15, 17th Dist	2604	16707_1	8/13/2015
+16707	Change	Valdez Marine Terminal Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 15.700"	W 146 25' 34.200"	61.0877	-146.4262	LNM 31/15, 17th Dist	2604	16707_1	8/13/2015
+16707	Change	Valdez Marine Terminal Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 26.600"	W 146 24' 29.900"	61.09072	-146.4083	LNM 31/15, 17th Dist	2605	16707_2	8/13/2015
+16707	Change	Valdez Marine Terminal Lighted Mooring Buoy	Fl Y 4s Priv	N 61 05' 26.600"	W 146 24' 29.900"	61.09072	-146.4083	LNM 31/15, 17th Dist	2604	16707_1	8/13/2015

@@ -1,0 +1,11 @@
+Chart: 12268, Current Edition: 12, Print Date: Dec. /2015, Choptank River Cambridge to Greensboro
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12268	Add	Bridge Construction PT 1 OF 2	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 38 45' 26.700"	W 075 59' 53.650"	38.75742	-75.99824	LNM 15/17, 5th Dist	615	12268_1	4/13/2017
+12268	Add	Bridge Construction PT 2 OF 2	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 38 45' 22.880"	W 075 59' 47.250"	38.75636	-75.99646	LNM 15/17, 5th Dist	615	12268_1	4/13/2017
+12268	Add	Bridge Construction Label	Bridge under construction (see note)	N 38 45' 24.900"	W 075 59' 50.630"	38.75692	-75.9974	LNM 15/17, 5th Dist	615	12268_1	4/13/2017
+12268	Add	Bridge Construction Note	CAUTION Fixed and floating obstructions, some submerged, may exist within the magenta tinted bridge construction area.  Mariners are advised to proceed with caution.	N 38 41' 08.080"	W 075 50' 59.360"	38.68558	-75.84982	LNM 15/17, 5th Dist	615	12268_1	4/13/2017
+12268	Add	Choptank River Lighted Mooring Buoy A	W Bu "A" Fl 4s Priv	N 38 34' 45.000"	W 076 02' 45.000"	38.57917	-76.04583	LNM 11/17, 5th Dist	615	12268_1	3/23/2017
+12268	Change	Cambridge Sewer Outfall Warning Light	Fl 2.5s 15ft 4M	N 38 34' 21.207"	W 076 03' 10.048"	38.57256	-76.05279	LNM 07/17, 5th Dist	615	12268_1	2/23/2017
+12268	Change	Choptank River Channel Light 31	Fl G 4s 15ft 3M "31"	N 38 34' 41.528"	W 076 01' 31.897"	38.5782	-76.02553	LNM 39/16, 5th Dist	615	12268_1	10/6/2016
+12268	Relocate	Choptank River Channel Daybeacon 43	G "43"	N 38 40' 59.301"	W 075 58' 23.601"	38.68314	-75.97322	LNM 24/16, 5th Dist	615	12268_1	6/23/2016
+12268	Change	Hambrooks Bar Warning Light	Fl 2.5s 19ft 6M	N 38 35' 42.237"	W 076 04' 51.143"	38.59507	-76.08087	LNM 12/16, 5th Dist	615	12268_1	3/31/2016

@@ -1,0 +1,98 @@
+Chart: 11400, Current Edition: 36, Print Date: Jan. /2006, Tampa Bay to Cape San Blas
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11400	Relocate	Anclote Anchorage South Entrance Light 3	Fl G 4s 16ft 5M "3"	N 28 08' 18.493"	W 082 50' 52.622"	28.13847	-82.84795	LNM 44/16, 7th Dist	177	11400_1	11/3/2016
+11400	Change	Anclote Anchorage South Entrance Light 3	Fl G 4s 16ft 5M "3"	N 28 08' 18.493"	W 082 50' 52.622"	28.13847	-82.84795	LNM 44/16, 7th Dist	177	11400_1	11/3/2016
+11400	Delete	St Marks River Lighted Buoy SM	RW "SM" Mo (A)	N 30 01' 02.549"	W 084 10' 29.827"	30.01737	-84.17495	LNM 42/16, 8th Dist	177	11400_1	10/27/2016
+11400	Delete	Cross Florida Barge Canal Approach Lighted Buoy 2	R "2" Fl R 2.5s	N 28 55' 23.909"	W 083 11' 45.441"	28.92331	-83.19595	LNM 40/16, 7th Dist	177	11400_1	10/13/2016
+11400	Add	Submerged Wreck	PA	N 27 47' 18.360"	W 083 06' 37.020"	27.78843	-83.11028	LNM 30/16, 7th Dist	177	11400_1	7/28/2016
+11400	Delete	Dog Island Reef West Buoy 2	R N "2"	N 29 48' 48.000"	W 084 31' 12.000"	29.81333	-84.52	LNM 09/16, 8th Dist	177	11400_1	3/10/2016
+11400	Relocate	South Shoal Lighted Buoy 26	FL R 6s "26"	N 29 47' 57.166"	W 084 20' 41.718"	29.79921	-84.34492	LNM 32/15, 8th Dist	177	11400_1	8/27/2015
+11400	Add	Wreck in Fathoms	2 3/4 Wk    Chart No. 1: K26	N 27 55' 58.377"	W 082 55' 07.013"	27.93288	-82.91862	LNM 34/15, 7th Dist	177	11400_1	8/20/2015
+11400	Relocate	USF COMPS Lighted Buoy C12	Y "C12" Fl Y 4s Priv	N 27 30' 17.460"	W 083 44' 28.200"	27.50485	-83.74117	LNM 25/15, 7th Dist	177	11400_1	7/2/2015
+11400	Add	Tampa Bay Lighted Buoy T Magenta Circle	RW "T" Mo (A) RACON (-) AIS	N 27 35' 18.731"	W 083 00' 42.547"	27.58854	-83.01182	LNM 08/15, 7th Dist	177	11400_1	3/5/2015
+11400	Add	Obstruction	Obstn PA Rep (2014)         Chart No. 1: K40	N 27 36' 09.840"	W 083 02' 08.460"	27.60273	-83.03568	LNM 47/14, 7th Dist	177	11400_1	11/20/2014
+11400	Delete	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn Fish Haven (auth min 3 1/4 fms), Chart No. 1 K46.2	N 29 19' 49.100"	W 083 26' 19.130"	29.33031	-83.43864	LNM 47/14, 7th Dist	177	11400_1	11/20/2014
+11400	Add	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn Fish Haven (auth min 3 fms), Chart No. 1 K46.2	N 29 19' 41.140"	W 083 26' 15.060"	29.32809	-83.43752	LNM 47/14, 7th Dist	177	11400_1	11/20/2014
+11400	Add	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn Fish Haven (auth min 15 ft), Chart No. 1 K46.2	N 30 00' 03.180"	W 084 09' 06.710"	30.00088	-84.15186	LNM 49/14, 8th Dist	177	11400_1	11/20/2014
+11400	Delete	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn Fish Haven (approx min 15 ft), Chart No. 1 K46.2	N 30 00' 12.940"	W 084 08' 56.410"	30.0036	-84.149	LNM 49/14, 8th Dist	177	11400_1	11/20/2014
+11400	Add	Visible Wreck	PA	N 27 39' 02.000"	W 082 45' 30.000"	27.65055	-82.75833	LNM 23/14, 7th Dist	177	11400_1	6/19/2014
+11400	Delete	USF COMPS Lighted Buoy C14	Y "C14" Fl Y 4s Priv	N 28 18' 39.000"	W 083 18' 20.340"	28.31083	-83.30565	LNM 22/14, 7th Dist	177	11400_1	6/12/2014
+11400	Delete	USF COMPS Lighted Buoy C16	Y "C16" Fl Y 4s Priv	N 27 27' 29.460"	W 084 13' 05.460"	27.45818	-84.21819	LNM 22/14, 7th Dist	177	11400_1	6/12/2014
+11400	Change	Cedar Keys Northwest Channel Approach Light 2	Fl R 2.5s 16ft 5M "2"	N 29 08' 28.944"	W 083 07' 51.189"	29.14137	-83.13088	LNM 22/14, 7th Dist	177	11400_1	6/12/2014
+11400	Change	Anclote Anchorage North Entrance Light 4	Fl R 6s 15ft 5M "4"	N 28 14' 44.311"	W 082 49' 57.051"	28.24564	-82.83251	LNM 20/14, 7th Dist	177	11400_1	5/29/2014
+11400	Add	Visible Wreck	PA	N 27 56' 12.000"	W 082 56' 12.000"	27.93667	-82.93667	LNM 20/14, 7th Dist	177	11400_1	5/29/2014
+11400	Add	Non Dangerous Wreck	PA      Chart No. 1: K29	N 29 08' 16.200"	W 085 26' 58.800"	29.13783	-85.44967	LNM 12/14, 8th Dist	177	11400_1	4/3/2014
+11400	Change	USF COMPS Lighted Buoy C12	Y "C12" Fl Y 4s Priv	N 27 29' 54.000"	W 083 43' 18.000"	27.49833	-83.72166	LNM 33/13, 7th Dist	177	11400_1	8/22/2013
+11400	Change	USF COMPS Lighted Buoy C16	Y "C16" Fl Y 4s Priv	N 27 27' 29.460"	W 084 13' 05.460"	27.45818	-84.21819	LNM 33/13, 7th Dist	177	11400_1	8/22/2013
+11400	Change	USF COMPS Lighted Buoy C14	Y "C14" Fl Y 4s Priv	N 28 18' 39.000"	W 083 18' 20.340"	28.31083	-83.30565	LNM 33/13, 7th Dist	177	11400_1	8/22/2013
+11400	Add	Obstruction in Fathoms	3 1/2 Obstn PA       Chart No. 1: K41	N 29 54' 09.100"	W 085 28' 26.700"	29.90253	-85.47408	LNM 20/13, 8th Dist	177	11400_1	5/8/2013
+11400	Change	U.S. Air Force Instrumentation Tower Light N6	Q 120ft "N6" HORN Air Force	N 29 24' 54.000"	W 084 20' 42.000"	29.415	-84.345	LNM 44/12, 8th Dist	177	11400_1	11/2/2012
+11400	Change	U.S. Air Force Instrumentation Tower Light N7	Q 120ft "N7" HORN Air Force	N 29 39' 54.000"	W 084 22' 12.000"	29.665	-84.37	LNM 44/12, 8th Dist	177	11400_1	11/2/2012
+11400	Change	U.S. Air Force Instrumentation Tower Light N5	Q 120ft "N5" HORN Air Force	N 29 17' 54.000"	W 084 36' 42.000"	29.29833	-84.61166	LNM 44/12, 8th Dist	177	11400_1	11/2/2012
+11400	Change	U.S. Air Force Instrumentation Tower Light N3	Q 120ft "N3" HORN Air Force	N 29 32' 18.000"	W 084 37' 00.000"	29.53833	-84.61667	LNM 44/12, 8th Dist	177	11400_1	11/2/2012
+11400	Change	U.S. Air Force Instrumentation Tower Light N4	Q 160ft "N4" HORN Air Force	N 29 24' 42.000"	W 084 51' 24.000"	29.41167	-84.85667	LNM 44/12, 8th Dist	177	11400_1	11/2/2012
+11400	Relocate	St Marks Light & River Range Rear Light	Oc 4s 80ft 8M	N 30 04' 25.725"	W 084 10' 46.689"	30.07381	-84.17963	LNM 35/12, 8th Dist	177	11400_1	8/29/2012
+11400	Change	St Marks Light & River Range Rear Light to Oc W 4s, 80 Ft., 8NM	Oc 4s 80ft 8M	N 30 04' 25.725"	W 084 10' 46.689"	30.07381	-84.17963	LNM 35/12, 8th Dist	177	11400_1	8/29/2012
+11400	Change	South Shoal Lighted Buoy 26	R "26" Fl R 6s	N 29 47' 57.166"	W 084 20' 14.718"	29.79921	-84.33743	LNM 33/12, 8th Dist	177	11400_1	8/23/2012
+11400	Relocate	South Shoal Lighted Buoy 26	R "26" Fl R 6s	N 29 47' 57.166"	W 084 20' 14.718"	29.79921	-84.33743	LNM 33/12, 8th Dist	177	11400_1	8/23/2012
+11400	Change	Carrabell Channel Lighted Buoy 2	R "2" Fl R 4s	N 29 44' 32.767"	W 084 39' 12.146"	29.74244	-84.65337	LNM 32/12, 8th Dist	177	11400_1	8/13/2012
+11400	Relocate	Carrabell Channel Lighted Buoy 2	R "2" Fl R 4s	N 29 44' 32.767"	W 084 39' 12.146"	29.74244	-84.65337	LNM 32/12, 8th Dist	177	11400_1	8/13/2012
+11400	Relocate	St Marks Light & River Range Rear Light	Oc 4s 82ft 8M	N 30 04' 25.724"	W 084 10' 46.688"	30.07381	-84.17963	LNM 24/12, 8th Dist	177	11400_1	6/19/2012
+11400	Change	Obstruction	Obstn PA (cov 2 1/2 fms) Rep 2011         Chart No. 1: K40	N 29 43' 15.900"	W 085 28' 31.800"	29.72108	-85.4755	LNM 20/12, 8th Dist	177	11400_1	5/7/2012
+11400	Change	Anclote Anchorage South Entrance Light 1	Fl G 2.5s 16ft 5M "1"	N 28 08' 17.009"	W 082 51' 57.369"	28.13806	-82.86594	LNM 22/11, 7th Dist	177	11400_1	6/8/2011
+11400	Delete	St George Island Wreck Lighted Buoy WR	R "WR" Q R Priv	N 29 35' 48.000"	W 085 00' 00.000"	29.59667	-85	LNM 13/11, 8th Dist	177	11400_1	4/4/2011
+11400	Add	Obstruction	Obstn PA (cov 3 1/4 fms) Rep 2011         Chart No. 1: K40	N 29 43' 15.600"	W 085 28' 31.800"	29.721	-85.4755	LNM 08/11, 8th Dist	177	11400_1	3/1/2011
+11400	Add	Visible Wreck	PA     Chart No. 1: K24	N 28 58' 46.200"	W 083 12' 35.580"	28.9795	-83.20988	LNM 34/10, 7th Dist	177	11400_1	8/27/2010
+11400	Delete	Obstruction	Obstn         Chart No. 1: K40	N 29 53' 56.690"	W 085 27' 48.530"	29.89908	-85.46348	LNM 22/10, 8th Dist	177	11400_1	6/2/2010
+11400	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 29 54' 17.190"	W 085 26' 58.050"	29.90478	-85.44946	LNM 22/10, 8th Dist	177	11400_1	6/2/2010
+11400	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 29 54' 13.380"	W 085 26' 55.200"	29.90372	-85.44867	LNM 22/10, 8th Dist	177	11400_1	6/2/2010
+11400	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 29 53' 45.820"	W 085 28' 07.600"	29.89606	-85.46878	LNM 22/10, 8th Dist	177	11400_1	6/2/2010
+11400	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 29 56' 21.300"	W 085 29' 59.900"	29.93925	-85.49997	LNM 22/10, 8th Dist	177	11400_1	6/2/2010
+11400	Delete	Dotted Fish Haven PT 1 OF 3	Chart No. 1: K46.2	N 29 54' 17.190"	W 085 26' 58.050"	29.90478	-85.44946	LNM 22/10, 8th Dist	177	11400_1	6/2/2010
+11400	Delete	Dotted Fish Haven PT 2 OF 3	Chart No. 1: K46.2	N 29 53' 51.990"	W 085 28' 05.330"	29.89778	-85.46815	LNM 22/10, 8th Dist	177	11400_1	6/2/2010
+11400	Delete	Dotted Fish Haven PT 3 OF 3	Chart No. 1: K46.2	N 29 56' 24.170"	W 085 29' 56.480"	29.94005	-85.49902	LNM 22/10, 8th Dist	177	11400_1	6/2/2010
+11400	Add	Obstruction	Obstn Aquaculture Area         Chart No. 1: K40	N 29 46' 23.940"	W 084 19' 28.320"	29.77332	-84.32453	LNM 06/10, 7th Dist	177	11400_1	2/24/2010
+11400	Change	Anclote Anchorage S. Ent. Light 1	Fl G 2.5s 16ft 4M "1"	N 28 08' 17.009"	W 082 51' 57.369"	28.13806	-82.86594	LNM 04/10, 7th Dist	177	11400_1	2/3/2010
+11400	Relocate	Cedar Keys NW Channel App Lt 2	Fl R 2.5s 16ft 4M "2"	N 29 08' 28.944"	W 083 07' 51.189"	29.14137	-83.13088	LNM 39/09, 7th Dist	177	11400_1	10/8/2009
+11400	Add	Dotted Fish Haven PT 1 OF 4	None	N 29 44' 13.100"	W 085 29' 25.700"	29.73697	-85.49047	LNM 40/09, 8th Dist	177	11400_1	10/8/2009
+11400	Add	Dotted Fish Haven PT 2 OF 4	None	N 29 44' 12.300"	W 085 28' 17.200"	29.73675	-85.47144	LNM 40/09, 8th Dist	177	11400_1	10/8/2009
+11400	Add	Dotted Fish Haven PT 3 OF 4	None	N 29 43' 12.900"	W 085 28' 17.200"	29.72025	-85.47144	LNM 40/09, 8th Dist	177	11400_1	10/8/2009
+11400	Add	Dotted Fish Haven PT 4 OF 4	None	N 29 43' 12.900"	W 085 29' 25.700"	29.72025	-85.49047	LNM 40/09, 8th Dist	177	11400_1	10/8/2009
+11400	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 40 ft)	N 29 43' 43.260"	W 085 28' 51.020"	29.72868	-85.48084	LNM 40/09, 8th Dist	177	11400_1	10/8/2009
+11400	Add	Sounding in Fathoms 	7	N 27 35' 32.000"	W 083 04' 35.000"	27.59222	-83.07639	LNM 39/09, 7th Dist	177	11400_1	10/1/2009
+11400	Change	U.S. Air Force Instrumentation Tower Light O	TR Q 120ft 5M "O" HORN Air Force	N 29 32' 18.000"	W 084 37' 00.000"	29.53833	-84.61667	LNM 34/09, 8th Dist	177	11400_1	9/3/2009
+11400	Add	Sounding in Fathoms	9 1/4	N 27 35' 42.000"	W 083 11' 06.000"	27.595	-83.185	WNM 24/09, NGA	177	11400_1	6/18/2009
+11400	Add	Sounding in Fathoms	9 1/2	N 27 33' 54.000"	W 083 10' 54.000"	27.565	-83.18166	WNM 24/09, NGA	177	11400_1	6/18/2009
+11400	Add	Sounding in Fathoms	12	N 27 32' 30.000"	W 083 14' 30.000"	27.54167	-83.24167	WNM 24/09, NGA	177	11400_1	6/18/2009
+11400	Add	Sounding in Fathoms	16	N 27 27' 42.000"	W 083 26' 42.000"	27.46167	-83.445	WNM 24/09, NGA	177	11400_1	6/18/2009
+11400	Add	Sounding in Fathoms	11	N 27 34' 36.000"	W 083 08' 54.000"	27.57667	-83.14833	WNM 24/09, NGA	177	11400_1	6/18/2009
+11400	Change	Dotted Fish Haven Label	Obstn Fish Haven (auth min 3 1/2 fms)	N 27 43' 22.500"	W 082 58' 30.100"	27.72292	-82.97503	LNM 23/09, 7th Dist	177	11400_1	6/18/2009
+11400	Change	Dotted Fish Haven Label	Obstn Fish Haven (auth min 3 1/2 fms)	N 28 02' 59.500"	W 083 00' 44.800"	28.04986	-83.01244	LNM 23/09, 7th Dist	177	11400_1	6/18/2009
+11400	Relocate	NOAA ODAS Lighted Buoy 42036	Y ODAS "42036" Fl (4) Y 20s PA	N 28 30' 00.000"	W 084 31' 00.000"	28.5	-84.51667	LNM 20/09, 7th Dist	177	11400_1	6/1/2009
+11400	Add	St. George Lighthouse	Fl 6s 76ft Priv	N 29 39' 46.580"	W 084 51' 46.330"	29.66294	-84.86287	LNM 17/09, 8th Dist	177	11400_1	5/7/2009
+11400	Add	USF COMPS Lighted Buoy C12	Y "C12" Fl Y 12s Priv	N 27 29' 54.000"	W 083 43' 18.000"	27.49833	-83.72166	LNM 52/08, 7th Dist	177	11400_1	1/3/2009
+11400	Add	USF COMPS Lighted Buoy C14	Y "C14" Fl Y 12s Priv	N 28 18' 39.000"	W 083 18' 20.340"	28.31083	-83.30565	LNM 52/08, 7th Dist	177	11400_1	1/3/2009
+11400	Add	USF COMPS Lighted Buoy C16	Y "C16" Fl Y 12s Priv	N 27 27' 29.460"	W 084 13' 05.460"	27.45818	-84.21819	LNM 52/08, 7th Dist	177	11400_1	1/3/2009
+11400	Change	Homosassa Bay Entrance Light 2	Fl R 4s 16ft 4M "2"	N 28 41' 25.500"	W 082 48' 38.897"	28.69042	-82.81081	Not Yet Published	177	11400_1	12/4/2008
+11400	Change	Anclote Anchorage N Entrance Light 2	Fl R 2.5s 16ft 4M "2"	N 28 15' 03.211"	W 082 52' 54.231"	28.25089	-82.88173	LNM 32/08, 7th Dist	177	11400_1	9/26/2008
+11400	Change	Anclote Anchorage N Entrance Light 4	Fl R 6s 15ft 3M "4"	N 28 14' 44.311"	W 082 49' 57.051"	28.24564	-82.83251	LNM 32/08, 7th Dist	177	11400_1	9/26/2008
+11400	Delete	Cape St George Shoal Buoy 1	G C "1"	N 29 33' 21.913"	W 084 58' 17.160"	29.55609	-84.97144	LNM 51/07, 8th Dist	177	11400_1	2/13/2008
+11400	Relocate	Cape San Blas Shoal Inner Buoy 3	G C "3"	N 29 38' 20.754"	W 085 22' 35.701"	29.6391	-85.37659	LNM 46/07, 8th Dist	177	11400_1	2/13/2008
+11400	Add	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn Fish Haven (auth min 7 3/4 ft), Chart No. 1 K46.2	N 27 41' 41.700"	W 083 17' 29.100"	27.69492	-83.29142	LNM 34/07, 7th Dist	177	11400_1	2/13/2008
+11400	Add	Dangerous Wreck	PA	N 29 46' 06.000"	W 083 58' 12.000"	29.76833	-83.97	LNM 26/07, 8th Dist	177	11400_1	2/13/2008
+11400	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 29 40' 04.200"	W 084 30' 03.400"	29.66783	-84.50095	LNM 12/07, 8th Dist	177	11400_1	2/13/2008
+11400	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 29 40' 04.200"	W 084 29' 56.600"	29.66783	-84.49905	LNM 12/07, 8th Dist	177	11400_1	2/13/2008
+11400	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 29 39' 04.200"	W 084 29' 56.600"	29.65117	-84.49905	LNM 12/07, 8th Dist	177	11400_1	2/13/2008
+11400	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 29 39' 04.200"	W 084 30' 03.400"	29.65117	-84.50095	LNM 12/07, 8th Dist	177	11400_1	2/13/2008
+11400	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 4 1/2 fms)	N 29 39' 34.000"	W 084 30' 00.000"	29.65944	-84.5	LNM 12/07, 8th Dist	177	11400_1	2/13/2008
+11400	Change	Sounding in Fathoms 	9 1/4	N 29 41' 59.970"	W 084 21' 58.480"	29.69999	-84.36624	LNM 51/06, 7th Dist	177	11400_1	2/13/2008
+11400	Add	Pile	Piles PA     Chart No. 1: F22	N 28 21' 56.000"	W 082 45' 05.000"	28.36555	-82.75139	LNM 51/06, 7th Dist	177	11400_1	2/13/2008
+11400	Add	Pile	pile     Chart No. 1: F22	N 28 21' 38.000"	W 082 44' 52.000"	28.36056	-82.74778	LNM 51/06, 7th Dist	177	11400_1	2/13/2008
+11400	Relocate	Homosassa Bay Entrance Light 2	Fl R 4s 16ft 5M "2"	N 28 41' 25.500"	W 082 48' 38.897"	28.69042	-82.81081	LNM 47/06, 7th Dist	177	11400_1	2/13/2008
+11400	Delete	Cape San Blas Outer Shoal Lighted Bell Buoy 30	R Fl R 6s "30" BELL	N 29 28' 31.791"	W 085 29' 49.715"	29.4755	-85.49715	LNM 36/06, 8th Dist	177	11400_1	2/13/2008
+11400	Delete	Dangerous Wreck	PA (5 3/4 fms rep)                 Chart No. 1: K28	N 29 12' 00.006"	W 083 52' 00.054"	29.2	-83.86668	LNM 26/06, 7th Dist	177	11400_1	2/13/2008
+11400	Add	Dangerous Wreck	PA (5 3/4 fms rep)         Chart No. 1: K28	N 29 12' 06.000"	W 083 52' 54.000"	29.20167	-83.88167	LNM 26/06, 7th Dist	177	11400_1	2/13/2008
+11400	Add	Dangerous Wreck	5 3/4 fms rep	N 29 12' 00.006"	W 083 52' 00.054"	29.2	-83.86668	LNM 16/06, 7th Dist	177	11400_1	2/13/2008
+11400	Add	Southwest Channel Ent LBB 1	G "1" Fl G 2.5s BELL	N 27 32' 19.783"	W 082 48' 35.943"	27.53883	-82.80998	LNM 16/06, 7th Dist	177	11400_1	2/13/2008
+11400	Delete	Southwest Channel Ent LBB 1	G "1" Fl G 2.5s BELL	N 27 32' 31.127"	W 082 47' 53.367"	27.54198	-82.79816	LNM 16/06, 7th Dist	177	11400_1	2/13/2008
+11400	Add	HURRICANES AND TROPICAL STORMS NOTE	Hurricanes, tropical storms and other major storms may cause considerable damage to marine structures, aids to navigation and moored vessels, resulting in submerged debris in unknown locations. Charted soundings, channel depths and shoreline may not reflect actual conditions following these storms. Fixed aids to navigation may have been damaged or destroyed. Buoys may have been moved from charted positions, damaged, sunk extinguished or otherwise made inoperative. Mariners should not rely upon the position or operation of an aid to navigation. Wrecks and submerged obstructions may have been displaced from charted locations. Pipelines may have become uncovered or moved. Mariners are urged to exercise extreme caution and are requested to report aids to navigation discrepancies and hazards to navigation to the nearest United States Coast Guard unit.	N 29 31' 27.000"	W 082 25' 31.000"	29.52417	-82.42528	LNM 15/06, 7th Dist	177	11400_1	2/13/2008

@@ -1,0 +1,7 @@
+Chart: 13225, Current Edition: 35, Print Date: Apr. /2016, Providence Harbor
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+13225	Add	Bridge Construction Label	Bridge under construction (see note)	N 41 49' 13.150"	W 071 24' 18.720"	41.82032	-71.4052	LNM 51/16, 1st Dist	2131	13225_1	12/15/2016
+13225	Add	note - CAUTION	CAUTION: Fixed and floating obstructions, some submerged, may exist within the magenta tinted bridge construction area. Mariners are advised to proceed with caution.	N 41 48' 54.500"	W 071 24' 38.600"	41.81514	-71.41072	LNM 51/16, 1st Dist	2131	13225_1	12/15/2016
+13225	Add	Pedestrian bridge under construction PT 1 OF 2	Chart No. 1: D.d)	N 41 49' 13.500"	W 071 24' 21.500"	41.82042	-71.40598	LNM 51/16, 1st Dist	2131	13225_1	12/15/2016
+13225	Add	Pedestrian bridge under construction PT 2 OF 2	Chart No. 1: D.d)	N 41 49' 12.800"	W 071 24' 16.100"	41.82022	-71.40447	Not Yet Published	2131	13225_1	12/15/2016
+13225	Change	tabulation - PROVIDENCE RIVER CHANNEL DEPTHS	tabulation - PROVIDENCE RIVER CHANNEL DEPTHS	N 41 47' 42.000"	W 071 24' 24.000"	41.795	-71.40667	LNM 41/16, 1st Dist	2131	13225_1	10/6/2016

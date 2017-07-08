@@ -1,0 +1,14 @@
+Chart: 16535, Current Edition: 13, Print Date: Apr. /2015, Morzhovoi Bay and Isanotski Strait
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16535	Relocate	Pankof Breaker Buoy 1	G C "1"	N 54 42' 53.219"	W 162 59' 56.445"	54.71478	-162.999	LNM 49/16, 17th Dist	2527	16535_1	12/15/2016
+16535	Relocate	Bechevin Bay Buoy 4	R N "4"	N 55 04' 02.770"	W 163 29' 04.688"	55.06744	-163.4846	LNM 49/16, 17th Dist	2527	16535_1	12/15/2016
+16535	Relocate	West Cape Shoal Buoy 1	G C "1"	N 54 55' 31.228"	W 162 27' 56.645"	54.92534	-162.4657	LNM 42/16, 17th Dist	2527	16535_1	11/17/2016
+16535	Add	NOTE: AREA TO BE AVOIDED (ATBA)	NOTE: AREA TO BE AVOIDED (ATBA) The entire area of this chart falls within an Area to be Avoided. All ships 400 gross tonnage and upwards solely in transit should avoid the Area. This Area is IMO-Adopted (MSC IMO SN.1/Circ.331); to be implemented at 0000 UTC, JAN 1, 2016.	N 54 59' 53.000"	W 163 13' 33.000"	54.99805	-163.2258	LNM 51/15, 17th Dist	2527	16535_1	12/17/2015
+16535	Delete	Green Buoy Symbol	** Chart No. 1 Q:2 **	N 55 01' 57.123"	W 163 25' 08.774"	55.03254	-163.4191	LNM 23/15, 17th Dist	2527	16535_1	6/4/2015
+16535	Delete	Green Can Buoy 5	G C "5"	N 55 03' 59.800"	W 163 26' 43.040"	55.06661	-163.4453	LNM 23/15, 17th Dist	2527	16535_1	6/4/2015
+16535	Add	Bechevin Bay Buoy 1A	G C "1A"	N 55 04' 17.292"	W 163 29' 02.823"	55.07147	-163.4841	LNM 21/15, 17th Dist	2527	16535_1	6/4/2015
+16535	Relocate	Bechevin Bay Buoy 3	G C "3"	N 55 04' 06.923"	W 163 28' 50.292"	55.06859	-163.4806	LNM 21/15, 17th Dist	2527	16535_1	6/4/2015
+16535	Relocate	Bechevin Bay Buoy 19	G C "19"	N 54 59' 31.555"	W 163 24' 32.445"	54.9921	-163.409	LNM 21/15, 17th Dist	2527	16535_1	6/4/2015
+16535	Relocate	Bechevin Bay Buoy 20	R N "20"	N 54 59' 23.060"	W 163 24' 37.574"	54.98974	-163.4104	LNM 21/15, 17th Dist	2527	16535_1	6/4/2015
+16535	Relocate	Bechevin Bay Buoy 21	G C "21"	N 54 59' 22.023"	W 163 23' 58.361"	54.98945	-163.3996	LNM 21/15, 17th Dist	2527	16535_1	6/4/2015
+16535	Relocate	Bechevin Bay Buoy 22	R N "22"	N 54 59' 18.601"	W 163 23' 58.556"	54.9885	-163.3996	LNM 21/15, 17th Dist	2527	16535_1	6/4/2015

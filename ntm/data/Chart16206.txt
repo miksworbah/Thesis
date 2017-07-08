@@ -1,0 +1,3 @@
+Chart: 16206, Current Edition: 9, Print Date: Mar. /2015, Nome Hbr. and approaches, Norton Sound;Nome Harbor
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16206	Add	Nome Pilot Station	Pilots ** Chart No 1 T:1.1 **	N 64 27' 00.000"	W 165 28' 00.000"	64.45	-165.4667	LNM 05/16, 17th Dist	2452	16206_1	2/11/2016

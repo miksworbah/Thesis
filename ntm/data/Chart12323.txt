@@ -1,57 +1,57 @@
-Chart: 12323, Current Edition: 26, Print Date: Dec. /2012, Sea Girt to Little Egg Inlet
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-12323	Add	Obstruction in Feet	11 Obstn       Chart No. 1: K41	N 39 30' 04.910"	W 074 16' 32.400"	39.50137	-74.27567	LNM 03/16, 5th Dist	682	12323_1	1/14/2016
-12323	Substitute	Wreck in Feet	17 Wk for 19 Wk      Chart No. 1: K26	N 39 29' 35.750"	W 074 16' 18.880"	39.49326	-74.27191	LNM 03/16, 5th Dist	682	12323_1	1/14/2016
-12323	Substitute	Wreck in Feet	12 Wk for Wk PA      Chart No. 1: K26	N 39 30' 05.260"	W 074 16' 44.700"	39.50146	-74.27908	LNM 03/16, 5th Dist	682	12323_1	1/14/2016
-12323	Add	Obstruction in Feet	17 Obstn       Chart No. 1: K41	N 39 32' 55.630"	W 074 14' 37.690"	39.54879	-74.2438	LNM 03/16, 5th Dist	682	12323_1	1/14/2016
-12323	Add	Wreck in Feet	9 Wk      Chart No. 1: K26	N 39 28' 39.560"	W 074 17' 13.100"	39.47766	-74.28697	LNM 03/16, 5th Dist	682	12323_1	1/14/2016
-12323	Add	Obstruction in Feet	14 Obstn       Chart No. 1: K41	N 39 30' 23.280"	W 074 16' 16.120"	39.50647	-74.27114	LNM 03/16, 5th Dist	682	12323_1	1/14/2016
-12323	Change	Barnegat Inlet South Breakwater Light 7	Q G 35ft 5M "7"	N 39 45' 25.616"	W 074 05' 35.697"	39.75711	-74.09325	LNM 45/15, 5th Dist	682	12323_1	11/19/2015
-12323	Add	Lighted yellow buoy	Y Fl Y Priv	N 39 28' 47.220"	W 074 12' 47.460"	39.47978	-74.21318	LNM 41/15, 5th Dist	682	12323_1	10/8/2015
-12323	Relocate	University of California Lighted Data Buoy A	Y "A" Fl (5) Y 20s Priv	N 39 46' 40.930"	W 073 46' 08.602"	39.77803	-73.76906	LNM 36/15, 5th Dist	682	12323_1	9/17/2015
-12323	Relocate	Little Egg Inlet Outer Lighted Whistle Buoy LE	RW "LE" Mo (A) WHIS	N 39 28' 12.390"	W 074 16' 08.941"	39.47011	-74.26915	LNM 30/15, 5th Dist	682	12323_1	8/6/2015
-12323	Change	University of California Lighted Data Buoy A	Y "A" Fl (5) Y 20s Priv	N 39 46' 10.080"	W 073 46' 11.640"	39.76947	-73.7699	LNM 21/15, 5th Dist	682	12323_1	6/4/2015
-12323	Change	Manasquan Inlet Light 3	Fl G 6s 35ft 8M "3" HORN (MRASS)	N 40 06' 01.374"	W 074 01' 54.240"	40.10038	-74.03173	LNM 17/15, 5th Dist	682	12323_1	5/7/2015
-12323	Add	Note - MARINER ACTIVATED SOUND SIGNALS:	Sound signals labeled with (MRASS) require user activation.  See USCG Light List.	N 39 56' 37.000"	W 074 16' 10.000"	39.94361	-74.26945	LNM 17/15, 5th Dist	682	12323_1	5/7/2015
-12323	Relocate	Manasquan Inlet Light 3	Fl G 6s 35ft 8M "3" HORN (MRASS)	N 40 06' 01.374"	W 074 01' 54.240"	40.10038	-74.03173	LNM 17/15, 5th Dist	682	12323_1	5/7/2015
-12323	Delete	Obstruction in Feet	22 Obstn    Chart No. 1: K41	N 39 46' 28.700"	W 074 04' 58.710"	39.77464	-74.08298	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
-12323	Delete	Obstruction in Feet	40 Obstn    Chart No. 1: K41	N 39 45' 48.700"	W 074 04' 18.690"	39.76353	-74.07186	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
-12323	Delete	Wreck in Feet	23 Wk      Chart No. 1: K26	N 39 46' 06.090"	W 074 05' 04.250"	39.76836	-74.08451	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
-12323	Add	Obstruction in Feet	17 Obstn    Chart No. 1: K41	N 39 46' 01.880"	W 074 05' 25.700"	39.76719	-74.09047	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
-12323	Delete	Obstruction in Feet	27 Obstn    Chart No. 1: K41	N 39 45' 59.960"	W 074 05' 00.390"	39.76665	-74.08344	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
-12323	Delete	Obstruction in Feet	40 Obstn    Chart No. 1: K41	N 39 45' 00.740"	W 074 04' 44.770"	39.75021	-74.0791	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
-12323	Delete	Obstruction in Feet	26 Obstn    Chart No. 1: K41	N 39 46' 05.430"	W 074 04' 47.900"	39.76817	-74.07997	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
-12323	Delete	Wreck in Feet	16 Wk      Chart No. 1: K26	N 39 46' 28.700"	W 074 05' 10.370"	39.77464	-74.08621	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
-12323	Delete	Wreck in Feet	23 Wk      Chart No. 1: K26	N 39 46' 51.520"	W 074 05' 13.280"	39.78098	-74.08702	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
-12323	Delete	Obstruction in Feet	27 Obstn    Chart No. 1: K41	N 39 43' 51.280"	W 074 06' 31.390"	39.73091	-74.10872	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
-12323	Add	Wreck in Feet	23 Wk      Chart No. 1: K26	N 39 46' 28.540"	W 074 04' 58.530"	39.77459	-74.08292	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
-12323	Add	Wreck in Feet	25 Wk      Chart No. 1: K26	N 39 46' 06.630"	W 074 05' 01.630"	39.76851	-74.08379	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
-12323	Add	Wreck in Feet	21 Wk      Chart No. 1: K26	N 39 46' 28.620"	W 074 05' 10.150"	39.77462	-74.08615	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
-12323	Add	Wreck in Feet	25 Wk      Chart No. 1: K26	N 39 46' 50.500"	W 074 05' 13.500"	39.78069	-74.08708	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
-12323	Add	Wreck in Feet	14 Wk      Chart No. 1: K26	N 39 46' 25.390"	W 074 05' 25.140"	39.77372	-74.09032	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
-12323	Add	Obstruction in Feet	29 Obstn    Chart No. 1: K41	N 39 43' 47.060"	W 074 06' 30.580"	39.72974	-74.1085	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
-12323	Relocate	University of California Lighted Data Buoy A	Y "A" Fl Y 4s Priv	N 39 46' 10.080"	W 073 46' 11.640"	39.76947	-73.7699	LNM 01/15, 5th Dist	682	12323_1	1/8/2015
-12323	Relocate	Barnegat Inlet North Jetty Danger Buoy A	W Or C "A"	N 39 45' 40.876"	W 074 05' 23.898"	39.76135	-74.08997	LNM 44/14, 5th Dist	682	12323_1	11/13/2014
-12323	Add	University of California Lighted Data Buoy A	Y "A" Fl Y 4s Priv	N 39 46' 10.440"	W 073 46' 09.660"	39.76957	-73.76935	LNM 26/14, 5th Dist	682	12323_1	7/10/2014
-12323	Change	Manasquan Inlet Light 4	Fl R 4s 30ft 8M "4"	N 40 06' 06.120"	W 074 01' 53.232"	40.1017	-74.03146	LNM 23/14, 5th Dist	682	12323_1	6/19/2014
-12323	Add	Obstruction in Feet	11 Obstn       Chart No. 1: K41	N 39 29' 09.080"	W 074 18' 22.190"	39.48586	-74.30617	LNM 11/14, 5th Dist	682	12323_1	3/13/2014
-12323	Add	chartlet -  revising hydrography	chartlet -  revising hydrography	N 39 30' 00.000"	W 074 20' 00.000"	39.5	-74.33334	LNM 51/13, 5th Dist	682	12323_1	12/13/2013
-12323	Add	Wreck in Feet	19 Wk      Chart No. 1: K26	N 39 29' 34.920"	W 074 16' 20.910"	39.49303	-74.27248	LNM 40/13, 5th Dist	682	12323_1	9/30/2013
-12323	Add	Sounding in Feet	8	N 39 44' 54.840"	W 074 05' 19.160"	39.74857	-74.08865	LNM 39/13, 5th Dist	682	12323_1	9/20/2013
-12323	Add	Sounding in Feet	4	N 39 44' 56.110"	W 074 05' 25.720"	39.74892	-74.09048	LNM 39/13, 5th Dist	682	12323_1	9/20/2013
-12323	Add	Sounding in Feet	3	N 39 44' 55.740"	W 074 05' 42.910"	39.74882	-74.09525	LNM 39/13, 5th Dist	682	12323_1	9/20/2013
-12323	Delete	Sounding in Feet	23	N 39 44' 54.120"	W 074 05' 24.390"	39.74837	-74.09011	LNM 39/13, 5th Dist	682	12323_1	9/20/2013
-12323	Change	Barnegat Inlet South Breakwater Light 7	Q G 37ft 8M "7"	N 39 45' 25.616"	W 074 05' 35.697"	39.75711	-74.09325	LNM 30/13, 5th Dist	682	12323_1	7/30/2013
-12323	Add	Shoaling Label	Shoaling rep 2013	N 39 39' 36.600"	W 074 09' 07.320"	39.66017	-74.15203	LNM 30/13, 5th Dist	682	12323_1	7/30/2013
-12323	Add	Submarine Cable  PT 1 OF 6	Chart No. 1: L30.1	N 39 31' 54.540"	W 074 10' 32.020"	39.53182	-74.17556	LNM 24/13, 5th Dist	682	12323_1	6/7/2013
-12323	Add	Submarine Cable  PT 2 OF 6	Chart No. 1: L30.1	N 39 31' 45.950"	W 074 10' 20.150"	39.52943	-74.17226	LNM 24/13, 5th Dist	682	12323_1	6/7/2013
-12323	Add	Submarine Cable  PT 3 OF 6	Chart No. 1: L30.1	N 39 30' 17.520"	W 074 04' 14.210"	39.50487	-74.07062	LNM 24/13, 5th Dist	682	12323_1	6/7/2013
-12323	Add	Submarine Cable  PT 4 OF 6	Chart No. 1: L30.1	N 39 27' 22.420"	W 073 53' 38.350"	39.45623	-73.89399	LNM 24/13, 5th Dist	682	12323_1	6/7/2013
-12323	Add	Submarine Cable  PT 5 OF 6	Chart No. 1: L30.1	N 39 27' 10.770"	W 073 53' 15.250"	39.45299	-73.88757	LNM 24/13, 5th Dist	682	12323_1	6/7/2013
-12323	Add	Submarine Cable  PT 6 OF 6	Chart No. 1: L30.1	N 39 26' 59.950"	W 073 53' 00.380"	39.44999	-73.88344	LNM 24/13, 5th Dist	682	12323_1	6/7/2013
-12323	Change	Barnegat Inlet South Breakwater Light 7	Q G 37ft 8M "7" HORN	N 39 45' 25.616"	W 074 05' 35.697"	39.75711	-74.09325	LNM 16/13, 5th Dist	682	12323_1	4/22/2013
-12323	Change	Ocean Power Lighted Data Buoy A	Y "A" Fl Y 4s Priv	N 40 01' 59.971"	W 073 40' 00.019"	40.03333	-73.66667	LNM 10/13, 5th Dist	682	12323_1	3/7/2013
-12323	Delete	Ocean Power Lighted Data Buoy A	Y "A" Fl Y 4s Priv	N 40 01' 59.971"	W 073 40' 00.019"	40.03333	-73.66667	LNM 09/13, 5th Dist	682	12323_1	3/5/2013
-12323	Change	Ocean Power Lighted Data Buoy A	Y "A" Fl Y 6s Priv	N 40 01' 59.971"	W 073 40' 00.019"	40.03333	-73.66667	LNM 09/13, 5th Dist	682	12323_1	3/5/2013
-12323	Change	Barnegat Inlet South Breakwater Light 7	Q G 37ft 6M "7"	N 39 45' 25.616"	W 074 05' 35.697"	39.75711	-74.09325	LNM 06/13, 5th Dist	682	12323_1	2/15/2013
-12323	Relocate	Manasquan Inlet Lighted Bell Buoy 2M	R "2M" Fl R 4s BELL	N 40 05' 32.217"	W 074 00' 48.188"	40.09228	-74.01338	LNM 05/13, 5th Dist	682	12323_1	1/31/2013
+Chart: 12323, Current Edition: 26, Print Date: Dec. /2012, Sea Girt to Little Egg Inlet
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12323	Add	Obstruction in Feet	11 Obstn       Chart No. 1: K41	N 39 30' 04.910"	W 074 16' 32.400"	39.50137	-74.27567	LNM 03/16, 5th Dist	682	12323_1	1/14/2016
+12323	Substitute	Wreck in Feet	17 Wk for 19 Wk      Chart No. 1: K26	N 39 29' 35.750"	W 074 16' 18.880"	39.49326	-74.27191	LNM 03/16, 5th Dist	682	12323_1	1/14/2016
+12323	Substitute	Wreck in Feet	12 Wk for Wk PA      Chart No. 1: K26	N 39 30' 05.260"	W 074 16' 44.700"	39.50146	-74.27908	LNM 03/16, 5th Dist	682	12323_1	1/14/2016
+12323	Add	Obstruction in Feet	17 Obstn       Chart No. 1: K41	N 39 32' 55.630"	W 074 14' 37.690"	39.54879	-74.2438	LNM 03/16, 5th Dist	682	12323_1	1/14/2016
+12323	Add	Wreck in Feet	9 Wk      Chart No. 1: K26	N 39 28' 39.560"	W 074 17' 13.100"	39.47766	-74.28697	LNM 03/16, 5th Dist	682	12323_1	1/14/2016
+12323	Add	Obstruction in Feet	14 Obstn       Chart No. 1: K41	N 39 30' 23.280"	W 074 16' 16.120"	39.50647	-74.27114	LNM 03/16, 5th Dist	682	12323_1	1/14/2016
+12323	Change	Barnegat Inlet South Breakwater Light 7	Q G 35ft 5M "7"	N 39 45' 25.616"	W 074 05' 35.697"	39.75711	-74.09325	LNM 45/15, 5th Dist	682	12323_1	11/19/2015
+12323	Add	Lighted yellow buoy	Y Fl Y Priv	N 39 28' 47.220"	W 074 12' 47.460"	39.47978	-74.21318	LNM 41/15, 5th Dist	682	12323_1	10/8/2015
+12323	Relocate	University of California Lighted Data Buoy A	Y "A" Fl (5) Y 20s Priv	N 39 46' 40.930"	W 073 46' 08.602"	39.77803	-73.76906	LNM 36/15, 5th Dist	682	12323_1	9/17/2015
+12323	Relocate	Little Egg Inlet Outer Lighted Whistle Buoy LE	RW "LE" Mo (A) WHIS	N 39 28' 12.390"	W 074 16' 08.941"	39.47011	-74.26915	LNM 30/15, 5th Dist	682	12323_1	8/6/2015
+12323	Change	University of California Lighted Data Buoy A	Y "A" Fl (5) Y 20s Priv	N 39 46' 10.080"	W 073 46' 11.640"	39.76947	-73.7699	LNM 21/15, 5th Dist	682	12323_1	6/4/2015
+12323	Change	Manasquan Inlet Light 3	Fl G 6s 35ft 8M "3" HORN (MRASS)	N 40 06' 01.374"	W 074 01' 54.240"	40.10038	-74.03173	LNM 17/15, 5th Dist	682	12323_1	5/7/2015
+12323	Add	Note - MARINER ACTIVATED SOUND SIGNALS:	Sound signals labeled with (MRASS) require user activation.  See USCG Light List.	N 39 56' 37.000"	W 074 16' 10.000"	39.94361	-74.26945	LNM 17/15, 5th Dist	682	12323_1	5/7/2015
+12323	Relocate	Manasquan Inlet Light 3	Fl G 6s 35ft 8M "3" HORN (MRASS)	N 40 06' 01.374"	W 074 01' 54.240"	40.10038	-74.03173	LNM 17/15, 5th Dist	682	12323_1	5/7/2015
+12323	Delete	Obstruction in Feet	22 Obstn    Chart No. 1: K41	N 39 46' 28.700"	W 074 04' 58.710"	39.77464	-74.08298	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
+12323	Delete	Obstruction in Feet	40 Obstn    Chart No. 1: K41	N 39 45' 48.700"	W 074 04' 18.690"	39.76353	-74.07186	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
+12323	Delete	Wreck in Feet	23 Wk      Chart No. 1: K26	N 39 46' 06.090"	W 074 05' 04.250"	39.76836	-74.08451	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
+12323	Add	Obstruction in Feet	17 Obstn    Chart No. 1: K41	N 39 46' 01.880"	W 074 05' 25.700"	39.76719	-74.09047	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
+12323	Delete	Obstruction in Feet	27 Obstn    Chart No. 1: K41	N 39 45' 59.960"	W 074 05' 00.390"	39.76665	-74.08344	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
+12323	Delete	Obstruction in Feet	40 Obstn    Chart No. 1: K41	N 39 45' 00.740"	W 074 04' 44.770"	39.75021	-74.0791	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
+12323	Delete	Obstruction in Feet	26 Obstn    Chart No. 1: K41	N 39 46' 05.430"	W 074 04' 47.900"	39.76817	-74.07997	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
+12323	Delete	Wreck in Feet	16 Wk      Chart No. 1: K26	N 39 46' 28.700"	W 074 05' 10.370"	39.77464	-74.08621	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
+12323	Delete	Wreck in Feet	23 Wk      Chart No. 1: K26	N 39 46' 51.520"	W 074 05' 13.280"	39.78098	-74.08702	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
+12323	Delete	Obstruction in Feet	27 Obstn    Chart No. 1: K41	N 39 43' 51.280"	W 074 06' 31.390"	39.73091	-74.10872	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
+12323	Add	Wreck in Feet	23 Wk      Chart No. 1: K26	N 39 46' 28.540"	W 074 04' 58.530"	39.77459	-74.08292	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
+12323	Add	Wreck in Feet	25 Wk      Chart No. 1: K26	N 39 46' 06.630"	W 074 05' 01.630"	39.76851	-74.08379	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
+12323	Add	Wreck in Feet	21 Wk      Chart No. 1: K26	N 39 46' 28.620"	W 074 05' 10.150"	39.77462	-74.08615	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
+12323	Add	Wreck in Feet	25 Wk      Chart No. 1: K26	N 39 46' 50.500"	W 074 05' 13.500"	39.78069	-74.08708	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
+12323	Add	Wreck in Feet	14 Wk      Chart No. 1: K26	N 39 46' 25.390"	W 074 05' 25.140"	39.77372	-74.09032	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
+12323	Add	Obstruction in Feet	29 Obstn    Chart No. 1: K41	N 39 43' 47.060"	W 074 06' 30.580"	39.72974	-74.1085	LNM 12/15, 5th Dist	682	12323_1	3/26/2015
+12323	Relocate	University of California Lighted Data Buoy A	Y "A" Fl Y 4s Priv	N 39 46' 10.080"	W 073 46' 11.640"	39.76947	-73.7699	LNM 01/15, 5th Dist	682	12323_1	1/8/2015
+12323	Relocate	Barnegat Inlet North Jetty Danger Buoy A	W Or C "A"	N 39 45' 40.876"	W 074 05' 23.898"	39.76135	-74.08997	LNM 44/14, 5th Dist	682	12323_1	11/13/2014
+12323	Add	University of California Lighted Data Buoy A	Y "A" Fl Y 4s Priv	N 39 46' 10.440"	W 073 46' 09.660"	39.76957	-73.76935	LNM 26/14, 5th Dist	682	12323_1	7/10/2014
+12323	Change	Manasquan Inlet Light 4	Fl R 4s 30ft 8M "4"	N 40 06' 06.120"	W 074 01' 53.232"	40.1017	-74.03146	LNM 23/14, 5th Dist	682	12323_1	6/19/2014
+12323	Add	Obstruction in Feet	11 Obstn       Chart No. 1: K41	N 39 29' 09.080"	W 074 18' 22.190"	39.48586	-74.30617	LNM 11/14, 5th Dist	682	12323_1	3/13/2014
+12323	Add	chartlet -  revising hydrography	chartlet -  revising hydrography	N 39 30' 00.000"	W 074 20' 00.000"	39.5	-74.33334	LNM 51/13, 5th Dist	682	12323_1	12/13/2013
+12323	Add	Wreck in Feet	19 Wk      Chart No. 1: K26	N 39 29' 34.920"	W 074 16' 20.910"	39.49303	-74.27248	LNM 40/13, 5th Dist	682	12323_1	9/30/2013
+12323	Add	Sounding in Feet	8	N 39 44' 54.840"	W 074 05' 19.160"	39.74857	-74.08865	LNM 39/13, 5th Dist	682	12323_1	9/20/2013
+12323	Add	Sounding in Feet	4	N 39 44' 56.110"	W 074 05' 25.720"	39.74892	-74.09048	LNM 39/13, 5th Dist	682	12323_1	9/20/2013
+12323	Add	Sounding in Feet	3	N 39 44' 55.740"	W 074 05' 42.910"	39.74882	-74.09525	LNM 39/13, 5th Dist	682	12323_1	9/20/2013
+12323	Delete	Sounding in Feet	23	N 39 44' 54.120"	W 074 05' 24.390"	39.74837	-74.09011	LNM 39/13, 5th Dist	682	12323_1	9/20/2013
+12323	Change	Barnegat Inlet South Breakwater Light 7	Q G 37ft 8M "7"	N 39 45' 25.616"	W 074 05' 35.697"	39.75711	-74.09325	LNM 30/13, 5th Dist	682	12323_1	7/30/2013
+12323	Add	Shoaling Label	Shoaling rep 2013	N 39 39' 36.600"	W 074 09' 07.320"	39.66017	-74.15203	LNM 30/13, 5th Dist	682	12323_1	7/30/2013
+12323	Add	Submarine Cable  PT 1 OF 6	Chart No. 1: L30.1	N 39 31' 54.540"	W 074 10' 32.020"	39.53182	-74.17556	LNM 24/13, 5th Dist	682	12323_1	6/7/2013
+12323	Add	Submarine Cable  PT 2 OF 6	Chart No. 1: L30.1	N 39 31' 45.950"	W 074 10' 20.150"	39.52943	-74.17226	LNM 24/13, 5th Dist	682	12323_1	6/7/2013
+12323	Add	Submarine Cable  PT 3 OF 6	Chart No. 1: L30.1	N 39 30' 17.520"	W 074 04' 14.210"	39.50487	-74.07062	LNM 24/13, 5th Dist	682	12323_1	6/7/2013
+12323	Add	Submarine Cable  PT 4 OF 6	Chart No. 1: L30.1	N 39 27' 22.420"	W 073 53' 38.350"	39.45623	-73.89399	LNM 24/13, 5th Dist	682	12323_1	6/7/2013
+12323	Add	Submarine Cable  PT 5 OF 6	Chart No. 1: L30.1	N 39 27' 10.770"	W 073 53' 15.250"	39.45299	-73.88757	LNM 24/13, 5th Dist	682	12323_1	6/7/2013
+12323	Add	Submarine Cable  PT 6 OF 6	Chart No. 1: L30.1	N 39 26' 59.950"	W 073 53' 00.380"	39.44999	-73.88344	LNM 24/13, 5th Dist	682	12323_1	6/7/2013
+12323	Change	Barnegat Inlet South Breakwater Light 7	Q G 37ft 8M "7" HORN	N 39 45' 25.616"	W 074 05' 35.697"	39.75711	-74.09325	LNM 16/13, 5th Dist	682	12323_1	4/22/2013
+12323	Change	Ocean Power Lighted Data Buoy A	Y "A" Fl Y 4s Priv	N 40 01' 59.971"	W 073 40' 00.019"	40.03333	-73.66667	LNM 10/13, 5th Dist	682	12323_1	3/7/2013
+12323	Delete	Ocean Power Lighted Data Buoy A	Y "A" Fl Y 4s Priv	N 40 01' 59.971"	W 073 40' 00.019"	40.03333	-73.66667	LNM 09/13, 5th Dist	682	12323_1	3/5/2013
+12323	Change	Ocean Power Lighted Data Buoy A	Y "A" Fl Y 6s Priv	N 40 01' 59.971"	W 073 40' 00.019"	40.03333	-73.66667	LNM 09/13, 5th Dist	682	12323_1	3/5/2013
+12323	Change	Barnegat Inlet South Breakwater Light 7	Q G 37ft 6M "7"	N 39 45' 25.616"	W 074 05' 35.697"	39.75711	-74.09325	LNM 06/13, 5th Dist	682	12323_1	2/15/2013
+12323	Relocate	Manasquan Inlet Lighted Bell Buoy 2M	R "2M" Fl R 4s BELL	N 40 05' 32.217"	W 074 00' 48.188"	40.09228	-74.01338	LNM 05/13, 5th Dist	682	12323_1	1/31/2013

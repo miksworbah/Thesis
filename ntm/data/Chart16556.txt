@@ -1,0 +1,8 @@
+Chart: 16556, Current Edition: 6, Print Date: Jul. /2011, Chiachi Island to Nagai Island;Chiachi Islands Anchorage
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16556	Add	NOTE B AREA TO BE AVOIDED (ATBA)	NOTE B AREA TO BE AVOIDED (ATBA): All ships 400 gross tonnage and upwards solely in transit should avoid the Area. This Area is IMO-Adopted (MSC IMO SN.1/Circ.331); to be implemented at 0000 UTC, JAN 1, 2016.	N 55 19' 26.000"	W 159 12' 30.000"	55.32389	-159.2083	LNM 51/15, 17th Dist	2870	16556_1	12/17/2015
+16556	Add	Dashed Magenta Area to be Avoided Limit PT 1 OF 2	**Chart No. 1: M:14**	N 55 40' 56.600"	W 159 32' 25.300"	55.68239	-159.5404	LNM 51/15, 17th Dist	2870	16556_1	12/17/2015
+16556	Add	Dashed Magenta Area to be Avoided Limit PT 2 OF 2	**Chart No. 1: M:14**	N 55 26' 58.700"	W 158 59' 30.600"	55.44964	-158.9918	LNM 51/15, 17th Dist	2870	16556_1	12/17/2015
+16556	Add	Dashed Magenta Area to be Avoided Limit PT 1 OF 2	**Chart No. 1: M:14**	N 55 48' 54.200"	W 159 51' 09.600"	55.81506	-159.8527	LNM 51/15, 17th Dist	2870	16556_1	12/17/2015
+16556	Add	Dashed Magenta Area to be Avoided Limit PT 2 OF 2	**Chart No. 1: M:14**	N 55 44' 26.800"	W 159 40' 39.800"	55.74078	-159.6777	LNM 51/15, 17th Dist	2870	16556_1	12/17/2015
+16556	Add	Area to be avoided label	AREA TO BE AVOIDED (see note B)	N 55 25' 01.000"	W 159 25' 43.000"	55.41694	-159.4286	LNM 51/15, 17th Dist	2870	16556_1	12/17/2015

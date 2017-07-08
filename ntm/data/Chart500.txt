@@ -1,0 +1,10 @@
+Chart: 500, Current Edition: 10, Print Date: Dec. /2015, West Coast Of North America   Dixon Ent To Unimak Pass
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+500	Delete	NOAA Data Lighted Buoy 46078	Y ODAS "46078" Fl (4) Y 20s PA	N 55 58' 29.189"	W 152 40' 49.357"	55.97477	-152.6804	LNM 06/17, 17th Dist	2402	500_1	2/16/2017
+500	Add	NOAA Data Lighted Buoy 46078	Y ODAS "46078" Fl (4) Y 20s PA	N 55 32' 30.000"	W 152 37' 42.000"	55.54167	-152.6283	LNM 06/17, 17th Dist	2402	500_1	2/16/2017
+500	Add	Buoy	Y Fl Y 4s Priv	N 56 52' 04.800"	W 163 03' 09.600"	56.868	-163.0527	WNM 35/16, NGA	2402	500_1	9/29/2016
+500	Relocate	Klokachef Island Light	Fl 6s 85ft 7M	N 57 24' 12.138"	W 135 54' 22.338"	57.40337	-135.9062	LNM 11/16, 17th Dist	2402	500_1	3/31/2016
+500	Relocate	NOAA Tsunami Warning Lighted Buoy 46402	RW "46402" Fl (4) Y 20s Priv PA 	N 51 01' 12.000"	W 164 04' 16.000"	51.02	-164.0711	LNM 09/16, 17th Dist	2402	500_1	3/31/2016
+500	Change	NOAA Tsunami Warning Lighted Buoy 46402	Y DART "46402" Fl (4) Y 20s Priv PA 	N 51 01' 12.000"	W 164 04' 16.000"	51.02	-164.0711	LNM 09/16, 17th Dist	2402	500_1	3/31/2016
+500	Change	NOAA Tsunami Warning Lighted Buoy 46403	Y DART "46403" Fl (4) Y 20s Priv PA 	N 52 38' 11.000"	W 156 55' 54.000"	52.63639	-156.9317	LNM 09/16, 17th Dist	2402	500_1	3/31/2016
+500	Delete	Light	**Light**	N 55 21' 52.606"	W 160 21' 56.798"	55.36461	-160.3658	LNM 12/16, 9th Dist	2402	500_1	3/17/2016

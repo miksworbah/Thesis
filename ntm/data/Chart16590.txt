@@ -1,0 +1,7 @@
+Chart: 16590, Current Edition: 12, Print Date: Sep. /2014, Kodiak Island Sitkinak Strait and Alitak Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16590	Add	Dangerous Wreck	PA	N 56 53' 47.400"	W 154 22' 44.400"	56.8965	-154.379	LNM 46/16, 17th Dist	2548	16590_1	12/15/2016
+16590	Add	Three Saints Bay CG Mooring Buoy	"CG"	N 57 10' 23.378"	W 153 31' 05.866"	57.17316	-153.5183	LNM 42/15, 17th Dist	2548	16590_1	10/29/2015
+16590	Add	Rock in Fathoms	1 1/4 Rk      Chart No. 1: K14.2	N 56 55' 48.000"	W 153 35' 00.900"	56.93	-153.5836	LNM 49/14, 17th Dist	2548	16590_1	12/11/2014
+16590	Delete	Sounding in Fathoms 	5 1/2	N 56 55' 51.000"	W 153 35' 02.200"	56.93083	-153.5839	LNM 49/14, 17th Dist	2548	16590_1	12/11/2014
+16590	Add	Rock in Fathoms	2 Rk      Chart No. 1: K14.2	N 56 48' 17.000"	W 154 06' 51.400"	56.80472	-154.1143	LNM 49/14, 17th Dist	2548	16590_1	12/11/2014

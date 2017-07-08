@@ -1,0 +1,19 @@
+Chart: 13398, Current Edition: 4, Print Date: Nov. /2012, Passamaquoddy Bay and St. Croix River; Beaver Harbor; Saint Andrews; Todds Point
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+13398	Change	LIGHT	Fl Y 4s 2M Ra Ref	N 44 59' 59.500"	W 066 56' 26.000"	44.99986	-66.94055	CNM 02/16, Canada	2896	13398_1	3/10/2016
+13398	Change	LIGHT	Iso G 4s Ra Ref	N 44 59' 36.400"	W 066 56' 40.600"	44.99345	-66.94461	CNM 02/16, Canada	2896	13398_1	3/10/2016
+13398	Add	MARINE FARM	Marine Farm	N 45 00' 17.000"	W 066 55' 36.000"	45.00472	-66.92667	WNM 44/15, NGA	2896	13398_1	10/29/2015
+13398	Change	Fairhaven Light	LFI R 6s 4.2m 7M	N 44 57' 49.800"	W 067 00' 29.500"	44.96383	-67.00819	CNM 08/14, Canada	2896	13398_1	9/18/2014
+13398	Add	Radar Reflector	Ra Ref   (Chart No. 1: S4)	N 45 01' 05.000"	W 066 55' 34.800"	45.01805	-66.92633	CNM 10/13, Canada	2896	13398_1	11/4/2013
+13398	Add	Marine Farm	Marine Farm   (Chart No. 1: K48.2)	N 45 02' 31.000"	W 066 49' 26.200"	45.04194	-66.82394	CNM 07/13, Canada	2896	13398_1	8/7/2013
+13398	Add	Marine Farm	Marine Farm   (Chart No. 1: K48.2)	N 45 03' 41.200"	W 066 48' 35.100"	45.06144	-66.80975	CNM 07/13, Canada	2896	13398_1	8/7/2013
+13398	Add	Marine Farm Area PT 1 OF 4	Marine Farm   (Chart No. 1: K48.1)	N 45 03' 04.100"	W 066 42' 52.500"	45.05114	-66.71458	CNM 02/13, Canada	2896	13398_1	6/20/2013
+13398	Add	Marine Farm Area PT 2 OF 4	Marine Farm   (Chart No. 1: K48.1)	N 45 03' 12.500"	W 066 42' 20.400"	45.05347	-66.70567	CNM 02/13, Canada	2896	13398_1	6/20/2013
+13398	Add	Marine Farm Area PT 3 OF 4	Marine Farm   (Chart No. 1: K48.1)	N 45 03' 26.200"	W 066 42' 27.500"	45.05728	-66.70764	CNM 02/13, Canada	2896	13398_1	6/20/2013
+13398	Add	Marine Farm Area PT 4 OF 4	Marine Farm   (Chart No. 1: K48.1)	N 45 03' 17.700"	W 066 42' 59.600"	45.05492	-66.71655	CNM 02/13, Canada	2896	13398_1	6/20/2013
+13398	Add	Marine Farm Area PT 1 OF 5	Marine Farm   (Chart No. 1: K48.1)	N 45 03' 04.100"	W 066 42' 52.500"	45.05114	-66.71458	CNM 02/13, Canada	2919	13398_2	6/20/2013
+13398	Add	Marine Farm Area PT 2 OF 5	Marine Farm   (Chart No. 1: K48.1)	N 45 03' 11.500"	W 066 42' 24.000"	45.0532	-66.70667	CNM 02/13, Canada	2919	13398_2	6/20/2013
+13398	Add	Marine Farm Area PT 3 OF 5	Marine Farm   (Chart No. 1: K48.1)	N 45 03' 19.400"	W 066 42' 24.000"	45.05539	-66.70667	CNM 02/13, Canada	2919	13398_2	6/20/2013
+13398	Add	Marine Farm Area PT 4 OF 5	Marine Farm   (Chart No. 1: K48.1)	N 45 03' 26.200"	W 066 42' 27.500"	45.05728	-66.70764	CNM 02/13, Canada	2919	13398_2	6/20/2013
+13398	Add	Marine Farm Area PT 5 OF 5	Marine Farm   (Chart No. 1: K48.1)	N 45 03' 17.700"	W 066 42' 59.600"	45.05492	-66.71655	CNM 02/13, Canada	2919	13398_2	6/20/2013
+13398	Add	Marine Farm	Marine Farm   (Chart No. 1: K48.2)	N 45 07' 38.000"	W 067 01' 30.000"	45.12722	-67.025	CNM 02/13, Canada	2896	13398_1	6/20/2013

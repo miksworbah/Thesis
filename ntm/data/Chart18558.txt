@@ -1,0 +1,29 @@
+Chart: 18558, Current Edition: 39, Print Date: Sep. /2012, Tillamook Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18558	Change	Tabulation - Tillamook Bay Channel Depths	Tabulation - Tillamook Bay Channel Depths	N 45 31' 40.000"	W 123 51' 00.000"	45.52778	-123.85	LNM 20/17, 13th Dist	1788	18558_1	5/11/2017
+18558	Change	Tabulation - Tillamook Bay Channel Depths	Tabulation - Tillamook Bay Channel Depths	N 45 31' 40.000"	W 123 51' 00.000"	45.52778	-123.85	LNM 31/16, 13th Dist	1788	18558_1	7/28/2016
+18558	Add	Tillamook Bay Entrance Regulated Navigation Area Warning Sign	(lighted)	N 45 34' 13.000"	W 123 57' 22.000"	45.57028	-123.9561	LNM 01/16, 13th Dist	1788	18558_1	1/7/2016
+18558	Relocate	Garibaldi Channel Boat Basin Regulated Navigation Area Warning Sign	Sign (lighted)	N 45 33' 16.000"	W 123 55' 08.000"	45.55444	-123.9189	LNM 01/16, 13th Dist	1788	18558_1	1/7/2016
+18558	Change	Garibaldi Channel Light 10	Fl R 2.5s 16ft 4M "10"	N 45 33' 27.732"	W 123 56' 02.946"	45.5577	-123.9342	LNM 27/15, 13th Dist	1788	18558_1	7/16/2015
+18558	Delete	Cape Meares Light	Fl 6s 232ft 9M	N 45 29' 11.303"	W 123 58' 41.881"	45.48647	-123.9783	LNM 26/14, 13th Dist	1788	18558_1	7/10/2014
+18558	Change	tabulation - TILLAMOOK BAY CHANNEL DEPTHS	tabulation - TILLAMOOK BAY CHANNEL DEPTHS	N 45 31' 40.000"	W 123 51' 00.000"	45.52778	-123.85	LNM 24/14, 13th Dist	1788	18558_1	6/12/2014
+18558	Delete	Note B	Three Arch Rocks National Wildlife Refuge	N 45 34' 45.000"	W 123 55' 00.000"	45.57917	-123.9167	LNM 14/14, 13th Dist	1788	18558_1	4/17/2014
+18558	Change	Visibility (range) 3M to light	Fl G 2.5s 3M "13"	N 45 33' 15.180"	W 123 55' 22.480"	45.55422	-123.9229	LNM 39/13, 13th Dist	1788	18558_1	9/30/2013
+18558	Change	Tillamook Bay North Jetty Light 3 	Fl G 2.5s 26ft 4M "3" HORN	N 45 34' 13.706"	W 123 57' 51.220"	45.57047	-123.9642	LNM 36/13, 13th Dist	1788	18558_1	9/11/2013
+18558	Change	Garibaldi Channel Light 13 	Fl G 2.5s 4M "13"	N 45 33' 15.252"	W 123 55' 22.878"	45.55424	-123.923	LNM 36/13, 13th Dist	1788	18558_1	9/11/2013
+18558	Change	Tillamook Bay Entrance Leading Light	Oc Y 4s 79ft	N 45 34' 05.525"	W 123 56' 27.986"	45.5682	-123.9411	LNM 20/13, 13th Dist	1788	18558_1	6/21/2013
+18558	Relocate	Tillamook Bay Entrance Leading Light	Oc Y 4s 79ft	N 45 34' 05.525"	W 123 56' 27.986"	45.5682	-123.9411	LNM 20/13, 13th Dist	1788	18558_1	6/4/2013
+18558	Delete	Sounding in Feet	3	N 45 33' 14.400"	W 123 54' 37.300"	45.554	-123.9104	LNM 14/13, 13th Dist	1788	18558_1	4/2/2013
+18558	Delete	Sounding in Feet	1	N 45 33' 11.000"	W 123 54' 43.800"	45.55305	-123.9122	LNM 14/13, 13th Dist	1788	18558_1	4/2/2013
+18558	Substitute	Sounding in Feet	1 for 2	N 45 33' 10.800"	W 123 54' 46.000"	45.553	-123.9128	LNM 14/13, 13th Dist	1788	18558_1	4/2/2013
+18558	Change	Low Water Line PT 1 OF 5	use Chart No 1:C.a	N 45 33' 13.400"	W 123 54' 38.600"	45.55372	-123.9107	LNM 14/13, 13th Dist	1788	18558_1	4/2/2013
+18558	Change	Low Water Line PT 2 OF 5	use Chart No 1:C.a	N 45 33' 14.400"	W 123 54' 38.700"	45.554	-123.9108	LNM 14/13, 13th Dist	1788	18558_1	4/2/2013
+18558	Change	Low Water Line PT 3 OF 5	use Chart No 1:C.a	N 45 33' 15.000"	W 123 54' 38.000"	45.55416	-123.9106	LNM 14/13, 13th Dist	1788	18558_1	4/2/2013
+18558	Change	Low Water Line PT 4 OF 5	use Chart No 1:C.a	N 45 33' 15.300"	W 123 54' 36.200"	45.55425	-123.9101	LNM 14/13, 13th Dist	1788	18558_1	4/2/2013
+18558	Change	Low Water Line PT 5 OF 5	use Chart No 1:C.a	N 45 33' 14.200"	W 123 54' 34.400"	45.55394	-123.9096	LNM 14/13, 13th Dist	1788	18558_1	4/2/2013
+18558	Change	Low Water Line PT 1 OF 5	use Chart No.1 C.a	N 45 33' 12.500"	W 123 54' 41.100"	45.55347	-123.9114	LNM 14/13, 13th Dist	1788	18558_1	4/2/2013
+18558	Change	Low Water Line PT 2 OF 5	use Chart No.1 C.a	N 45 33' 11.400"	W 123 54' 45.000"	45.55317	-123.9125	LNM 14/13, 13th Dist	1788	18558_1	4/2/2013
+18558	Change	Low Water Line PT 3 OF 5	use Chart No.1 C.a	N 45 33' 10.400"	W 123 54' 45.500"	45.55289	-123.9126	LNM 14/13, 13th Dist	1788	18558_1	4/2/2013
+18558	Change	Low Water Line PT 4 OF 5	use Chart No.1 C.a	N 45 33' 09.700"	W 123 54' 44.300"	45.5527	-123.9123	LNM 14/13, 13th Dist	1788	18558_1	4/2/2013
+18558	Change	Low Water Line PT 5 OF 5	use Chart No.1 C.a	N 45 33' 09.600"	W 123 54' 39.600"	45.55267	-123.911	LNM 14/13, 13th Dist	1788	18558_1	4/2/2013
+18558	Change	tabulation - TILLAMOOK BAY CHANNEL	tabulation - TILLAMOOK BAY CHANNEL	N 45 31' 40.000"	W 123 51' 00.000"	45.52778	-123.85	LNM 03/13, 13th Dist	1788	18558_1	1/11/2013

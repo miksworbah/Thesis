@@ -1,0 +1,216 @@
+Chart: 11347, Current Edition: 40, Print Date: May. /2013, Calcasieu River and Lake
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11347	Delete	Platform (Union Texas-108-3)	Chart No. 1: L10	N 29 39' 29.000"	W 093 23' 26.000"	29.65806	-93.39056	LNM 25/17, 8th Dist	73	11347_1	6/29/2017
+11347	Add	Calcasieu Lake Lighted Danger Buoy A	W "A" Fl 2.5s	N 29 50' 45.770"	W 093 19' 25.595"	29.84605	-93.32378	LNM 22/17, 8th Dist	73	11347_1	6/8/2017
+11347	Add	Calcasieu Lake Lighted Danger Buoy B	W "B" Fl 4s	N 29 50' 50.500"	W 093 18' 57.500"	29.84736	-93.31597	LNM 22/17, 8th Dist	73	11347_1	6/8/2017
+11347	Add	Calcasieu Lake Lighted Danger Buoy C	W "C" Fl 2.5s	N 29 50' 56.117"	W 093 18' 27.348"	29.84892	-93.30759	LNM 22/17, 8th Dist	73	11347_1	6/8/2017
+11347	Add	Submerged Obstruction 	Obstn PA	N 29 44' 08.800"	W 093 20' 24.100"	29.73578	-93.34003	LNM 43/16, 8th Dist	73	11347_1	11/3/2016
+11347	Add	Submerged Obstruction	Obstn PA	N 29 44' 11.000"	W 093 20' 21.000"	29.73639	-93.33916	LNM 43/16, 8th Dist	73	11347_1	11/3/2016
+11347	Delete	ExxonMobil Obstruction Light	Fl 2.5s Priv	N 29 59' 48.900"	W 093 20' 06.500"	29.99692	-93.33514	LNM 42/16, 8th Dist	73	11347_1	10/27/2016
+11347	Delete	Platform:  (Apache-105-50)	Chart No. 1: L10	N 29 29' 50.967"	W 093 20' 37.108"	29.49749	-93.34364	LNM 41/16, 8th Dist	73	11347_1	10/27/2016
+11347	Add	Submerged Obstruction	Obstn PA     Chart No. 1: K40	N 30 04' 39.900"	W 093 16' 34.600"	30.07775	-93.27628	LNM 36/16, 8th Dist	73	11347_1	9/15/2016
+11347	Add	Submerged Obstruction	Obstn PA     Chart No. 1: K40	N 30 04' 39.900"	W 093 16' 34.600"	30.07775	-93.27628	LNM 36/16, 8th Dist	74	11347_2	9/15/2016
+11347	Relocate	Calcasieu Channel Light 86	Fl R 4s 17ft 4M "86"	N 30 02' 53.389"	W 093 19' 40.121"	30.04816	-93.32781	LNM 35/16, 8th Dist	73	11347_1	9/8/2016
+11347	Relocate	Calcasieu Channel Light 86	Fl R 4s 17ft 4M "86"	N 30 02' 53.389"	W 093 19' 40.121"	30.04816	-93.32781	LNM 35/16, 8th Dist	74	11347_2	9/8/2016
+11347	Change	tabulation - Calcasieu Pass and River	tabulation - Calcasieu Pass and River	N 29 55' 30.000"	W 093 22' 30.000"	29.925	-93.375	LNM 25/16, 8th Dist	73	11347_1	6/23/2016
+11347	Change	Fixed Bridge Label	FIXED BRIDGE HOR CL 393 FT VERT CL 135 FT	N 30 12' 05.800"	W 093 16' 49.800"	30.20161	-93.2805	LNM 19/16, 8th Dist	75	11347_3	5/5/2016
+11347	Delete	Platform:(Energy Xxi-112-500)	Chart No. 1: L10	N 29 40' 25.074"	W 093 23' 59.646"	29.67363	-93.3999	LNM 17/16, 8th Dist	73	11347_1	5/5/2016
+11347	Relocate	Calcasieu River Light 102	Fl R 4s 17ft 4M "102"	N 30 07' 26.180"	W 093 19' 50.443"	30.12394	-93.33068	LNM 13/16, 8th Dist	75	11347_3	4/7/2016
+11347	Change	Depth Legend - Lake Charles Channel to:	34 FT NOV 2015	N 30 13' 14.000"	W 093 14' 27.000"	30.22056	-93.24084	LNM 11/16, 8th Dist	75	11347_3	3/10/2016
+11347	Change	Depth Legend - Rose Bluff Cutoff to:	25 FT NOV 2015	N 30 10' 55.000"	W 093 18' 28.000"	30.18194	-93.30778	LNM 11/16, 8th Dist	75	11347_3	3/10/2016
+11347	Change	Depth Legend - Mooring Area, Port of Lake Charles to:	29 FT 2003 - 2015	N 30 13' 05.000"	W 093 15' 03.000"	30.21806	-93.25083	LNM 11/16, 8th Dist	75	11347_3	3/10/2016
+11347	Change	Depth Legend - Devils Elbow, Industrial Turning Basin to:	42 FT OCT 2015	N 30 06' 25.000"	W 093 17' 13.000"	30.10695	-93.28694	LNM 11/16, 8th Dist	74	11347_2	3/10/2016
+11347	Change	Depth Legend - Calcasieu Landing Turning Basin to:	18 FT OCT 2015	N 30 05' 34.200"	W 093 19' 35.200"	30.09283	-93.32645	LNM 11/16, 8th Dist	73	11347_1	3/10/2016
+11347	Change	Depth Legend - Calcasieu Landing Turning Basin to:	18 FT OCT 2015	N 30 05' 34.200"	W 093 19' 35.200"	30.09283	-93.32645	LNM 11/16, 8th Dist	74	11347_2	3/10/2016
+11347	Change	Depth Legend - Coon Island Channel to:	40 FT 2015	N 30 13' 25.000"	W 093 16' 40.000"	30.22361	-93.27778	LNM 11/16, 8th Dist	75	11347_3	3/10/2016
+11347	Substitute	Sounding in Feet	29	N 30 06' 24.800"	W 093 17' 04.500"	30.10689	-93.28458	LNM 11/16, 8th Dist	74	11347_2	3/10/2016
+11347	Change	Depth Legend - Industrial Canal to:	27 FT OCT 2015	N 30 06' 08.100"	W 093 18' 43.500"	30.10225	-93.31208	LNM 11/16, 8th Dist	73	11347_1	3/10/2016
+11347	Change	Depth Legend - Industrial Canal to:	27 FT OCT 2015	N 30 06' 08.100"	W 093 18' 43.500"	30.10225	-93.31208	LNM 11/16, 8th Dist	74	11347_2	3/10/2016
+11347	Change	Depth Legend - Lake Charles Turning Basin to:	35 FT NOV 2015	N 30 13' 59.000"	W 093 14' 45.000"	30.23306	-93.24583	LNM 11/16, 8th Dist	75	11347_3	3/10/2016
+11347	Change	tabulation - CALCASIEU PASS AND RIVER	tabulation - CALCASIEU PASS AND RIVER	N 30 09' 30.000"	W 093 18' 00.000"	30.15833	-93.3	LNM 11/16, 8th Dist	75	11347_3	3/10/2016
+11347	Change	tabulation - CALCASIEU PASS AND RIVER	tabulation - CALCASIEU PASS AND RIVER	N 29 55' 30.000"	W 093 22' 30.000"	29.925	-93.375	LNM 11/16, 8th Dist	73	11347_1	3/10/2016
+11347	Change	tabulation - CALCASIEU PASS AND RIVER	tabulation - CALCASIEU PASS AND RIVER	N 29 55' 30.000"	W 093 22' 30.000"	29.925	-93.375	LNM 45/15, 8th Dist	73	11347_1	11/12/2015
+11347	Change	tabulation - CALCASIEU PASS AND RIVER	tabulation - CALCASIEU PASS AND RIVER	N 30 09' 30.000"	W 093 18' 00.000"	30.15833	-93.3	LNM 45/15, 8th Dist	75	11347_3	11/12/2015
+11347	Change	tabulation - CALCASIEU PASS AND RIVER	tabulation - CALCASIEU PASS AND RIVER	N 30 09' 30.000"	W 093 18' 00.000"	30.15833	-93.3	LNM 45/15, 8th Dist	75	11347_3	11/5/2015
+11347	Change	tabulation - CALCASIEU PASS AND RIVER	tabulation - CALCASIEU PASS AND RIVER	N 29 55' 30.000"	W 093 22' 30.000"	29.925	-93.375	LNM 45/15, 8th Dist	73	11347_1	11/5/2015
+11347	Change	Depth Legend - Mooring Area, Port of Lake Charles to:	33 FT 2003-2015	N 30 13' 05.000"	W 093 15' 03.000"	30.21806	-93.25083	LNM 44/15, 8th Dist	75	11347_3	11/5/2015
+11347	Add	Low Water Area	low water area, minimum size dotted circle and green tint	N 30 13' 15.100"	W 093 14' 29.700"	30.22086	-93.24158	LNM 44/15, 8th Dist	75	11347_3	11/5/2015
+11347	Change	Depth Legend - Coon Island Turning Basin to:	38 FT JUL 2015	N 30 13' 20.000"	W 093 16' 35.000"	30.22222	-93.27639	LNM 44/15, 8th Dist	75	11347_3	11/5/2015
+11347	Change	Depth Legend - Rose Bluff Cutoff to:	24 FT AUG 2015	N 30 10' 55.000"	W 093 18' 28.000"	30.18194	-93.30778	LNM 44/15, 8th Dist	75	11347_3	11/5/2015
+11347	Change	Depth Legend - Lake Charles Turning Basin to:	34 FT JUL 2015	N 30 13' 59.000"	W 093 14' 45.000"	30.23306	-93.24583	LNM 44/15, 8th Dist	75	11347_3	11/5/2015
+11347	Change	Depth Legend - Clooney Island Channel to:	34 FT JUL 2015	N 30 13' 35.000"	W 093 15' 50.000"	30.22639	-93.26389	LNM 44/15, 8th Dist	75	11347_3	11/5/2015
+11347	Relocate	Calcasieu River Buoy 115	G C "115"	N 30 11' 52.381"	W 093 17' 20.490"	30.19788	-93.28902	LNM 42/15, 8th Dist	75	11347_3	10/29/2015
+11347	Change	tabulation - CALCASIEU PASS AND RIVER	tabulation - CALCASIEU PASS AND RIVER	N 29 55' 30.000"	W 093 22' 30.000"	29.925	-93.375	LNM 39/15, 8th Dist	73	11347_1	10/1/2015
+11347	Change	tabulation - CALCASIEU PASS AND RIVER	tabulation - CALCASIEU PASS AND RIVER	N 30 09' 30.000"	W 093 18' 00.000"	30.15833	-93.3	LNM 39/15, 8th Dist	75	11347_3	10/1/2015
+11347	Delete	Obstruction	Obstn PA         Chart No. 1: K40	N 29 44' 18.000"	W 093 20' 18.000"	29.73833	-93.33833	LNM 36/15, 8th Dist	73	11347_1	9/3/2015
+11347	Change	Depth Legend - CALCASIEU LANDING TURNING BASIN to:	17 FT JUN 2015	N 30 05' 34.200"	W 093 19' 35.200"	30.09283	-93.32645	LNM 36/15, 8th Dist	73	11347_1	9/3/2015
+11347	Change	Depth Legend - CALCASIEU LANDING TURNING BASIN to:	17 FT JUN 2015	N 30 05' 34.200"	W 093 19' 35.200"	30.09283	-93.32645	LNM 36/15, 8th Dist	74	11347_2	9/3/2015
+11347	Add	Cameron LNG Daybeacon 1	G "1" Priv	N 30 02' 42.000"	W 093 19' 51.000"	30.045	-93.33083	LNM 28/15, 8th Dist	73	11347_1	7/23/2015
+11347	Add	Cameron LNG Daybeacon 2	R "2" Priv	N 30 02' 44.000"	W 093 19' 51.000"	30.04556	-93.33083	LNM 28/15, 8th Dist	73	11347_1	7/23/2015
+11347	Change	Depth Legend - Devils Elbow - Industrial Turning Basin to:	43 FT APR 2015	N 30 06' 25.000"	W 093 17' 13.000"	30.10695	-93.28694	LNM 29/15, 8th Dist	74	11347_2	7/16/2015
+11347	Change	Depth Legend - Lake Charles Turning Basin to:	26 FT APR 2015	N 30 13' 59.900"	W 093 14' 45.000"	30.2333	-93.24583	LNM 29/15, 8th Dist	75	11347_3	7/16/2015
+11347	Change	Depth Legend - Lake Charles Channel to:	33 FT APR 2015	N 30 13' 12.700"	W 093 14' 27.600"	30.22019	-93.241	LNM 29/15, 8th Dist	75	11347_3	7/16/2015
+11347	Change	Depth Legend - Clooney Island Channel to:	35 FT APR 2015	N 30 13' 35.600"	W 093 15' 49.100"	30.22655	-93.26364	LNM 29/15, 8th Dist	75	11347_3	7/16/2015
+11347	Change	Depth Legend - Coon Island Turning Basin to:	39 FT APR 2015	N 30 13' 20.100"	W 093 16' 35.200"	30.22225	-93.27644	LNM 29/15, 8th Dist	75	11347_3	7/16/2015
+11347	Change	Depth Legend - Coon Island Channel to:	36 FT APR 2015	N 30 12' 34.700"	W 093 16' 44.800"	30.20964	-93.27911	LNM 29/15, 8th Dist	75	11347_3	7/16/2015
+11347	Relocate	Calcasieu Channel Lighted Buoy 16	R "16" Fl R 6s	N 29 33' 34.900"	W 093 15' 35.345"	29.55969	-93.25982	LNM 24/15, 8th Dist	73	11347_1	6/25/2015
+11347	Change	tabulation - CALCASIEU PASS AND RIVER	tabulation - CALCASIEU PASS AND RIVER	N 30 09' 30.000"	W 093 18' 00.000"	30.15833	-93.3	LNM 25/15, 8th Dist	75	11347_3	6/18/2015
+11347	Change	tabulation - CALCASIEU PASS AND RIVER	tabulation - CALCASIEU PASS AND RIVER	N 29 55' 30.000"	W 093 22' 30.000"	29.925	-93.375	LNM 25/15, 8th Dist	73	11347_1	6/18/2015
+11347	Change	Depth Legend - INDUSTRIAL CANAL to:	28 FT JAN 2015	N 30 06' 08.100"	W 093 18' 43.500"	30.10225	-93.31208	LNM 17/15, 8th Dist	73	11347_1	4/23/2015
+11347	Change	Depth Legend - INDUSTRIAL CANAL to:	28 FT JAN 2015	N 30 06' 08.100"	W 093 18' 43.500"	30.10225	-93.31208	LNM 17/15, 8th Dist	74	11347_2	4/23/2015
+11347	Change	Depth Legend - ROSE BLUFF CUTOFF to:	25 FT JAN 2015	N 30 10' 54.300"	W 093 18' 27.000"	30.18175	-93.3075	LNM 17/15, 8th Dist	75	11347_3	4/23/2015
+11347	Change	Depth Legend - LAKE CHARLES CHANNEL to:	34 FT JAN 2015	N 30 13' 12.700"	W 093 14' 27.600"	30.22019	-93.241	LNM 17/15, 8th Dist	75	11347_3	4/23/2015
+11347	Change	Depth Legend - COON ISLAND TURNING BASIN to:	38 FT JAN 2015	N 30 13' 20.100"	W 093 16' 35.200"	30.22225	-93.27644	LNM 17/15, 8th Dist	75	11347_3	4/23/2015
+11347	Change	tabulation - CALCASIEU PASS AND RIVER	tabulation - CALCASIEU PASS AND RIVER	N 29 55' 30.000"	W 093 22' 30.000"	29.925	-93.375	LNM 16/15, 8th Dist	73	11347_1	4/23/2015
+11347	Change	tabulation - CALCASIEU PASS AND RIVER	tabulation - CALCASIEU PASS AND RIVER	N 30 09' 30.000"	W 093 18' 00.000"	30.15833	-93.3	LNM 16/15, 8th Dist	75	11347_3	4/23/2015
+11347	Delete	Platform: (Apache-105-55)	Chart No. 1: L10	N 29 40' 47.043"	W 093 20' 25.958"	29.67973	-93.34055	LNM 02/15, 8th Dist	73	11347_1	1/22/2015
+11347	Add	Submerged Obstruction 	PA        Chart No. 1: K40	N 29 27' 26.000"	W 093 12' 07.000"	29.45722	-93.20194	LNM 51/14, 8th Dist	73	11347_1	1/8/2015
+11347	Delete	Platform: (Apache-105-60)	Chart No 1: L-10	N 29 40' 55.428"	W 093 18' 47.683"	29.68206	-93.31325	LNM 49/14, 8th Dist	73	11347_1	12/25/2014
+11347	Change	tabulation - CALCASIEU PASS AND RIVER	tabulation - CALCASIEU PASS AND RIVER	N 29 55' 30.000"	W 093 22' 30.000"	29.925	-93.375	LNM 51/14, 8th Dist	73	11347_1	12/25/2014
+11347	Change	tabulation - CALCASIEU PASS AND RIVER	tabulation - CALCASIEU PASS AND RIVER	N 30 09' 30.000"	W 093 18' 00.000"	30.15833	-93.3	LNM 51/14, 8th Dist	75	11347_3	12/25/2014
+11347	Change	Depth Legend - CLOONEY ISLAND CHANNEL to:	34 FT SEP 2014	N 30 13' 35.000"	W 093 15' 50.000"	30.22639	-93.26389	LNM 50/14, 8th Dist	75	11347_3	12/11/2014
+11347	Change	Depth Legend - LAKE CHARLES CHANNEL to:	32 FT SEP 2014	N 30 13' 14.000"	W 093 14' 27.000"	30.22056	-93.24084	LNM 50/14, 8th Dist	75	11347_3	12/11/2014
+11347	Change	Depth Legend - COON ISLAND CHANNEL to:	36 FT SEP 2014	N 30 12' 36.000"	W 093 16' 45.000"	30.21	-93.27917	LNM 50/14, 8th Dist	75	11347_3	12/11/2014
+11347	Change	Depth Legend - LAKE CHARLES TURNING BASIN to:	36 FT SEP 2014	N 30 13' 59.000"	W 093 14' 45.000"	30.23306	-93.24583	LNM 50/14, 8th Dist	75	11347_3	12/11/2014
+11347	Add	Port of Lake Charles Construction Dock Lights (4)	4 Fl 2.5s Priv	N 30 14' 41.630"	W 093 14' 50.470"	30.2449	-93.24735	LNM 47/14, 8th Dist	75	11347_3	12/11/2014
+11347	Add	ExxonMobil Obstruction Light  	Fl 2.5s Priv 	N 29 59' 48.900"	W 093 20' 06.500"	29.99692	-93.33514	LNM 44/14, 8th Dist	73	11347_1	11/13/2014
+11347	Change	tabulation - CALCASIEU PASS AND RIVER	tabulation - CALCASIEU PASS AND RIVER	N 30 09' 30.000"	W 093 18' 00.000"	30.15833	-93.3	LNM 45/14, 8th Dist	75	11347_3	11/6/2014
+11347	Change	tabulation - CALCASIEU PASS AND RIVER	tabulation - CALCASIEU PASS AND RIVER	N 29 55' 30.000"	W 093 22' 30.000"	29.925	-93.375	LNM 45/14, 8th Dist	73	11347_1	11/6/2014
+11347	Substitute	Sounding in Feet	30 for 27	N 30 06' 24.800"	W 093 17' 04.500"	30.10689	-93.28458	LNM 43/14, 8th Dist	74	11347_2	10/30/2014
+11347	Change	Depth Legend - Coon Island Channel to:	37 FT JUL 2014	N 30 12' 36.000"	W 093 16' 45.000"	30.21	-93.27917	LNM 43/14, 8th Dist	75	11347_3	10/30/2014
+11347	Change	Depth Legend - Rose Bluff Cutoff Turning Basin to:	27 FT JUL 2014	N 30 10' 54.000"	W 093 18' 27.000"	30.18167	-93.3075	LNM 43/14, 8th Dist	75	11347_3	10/30/2014
+11347	Add	Sounding in Feet	31	N 30 06' 19.190"	W 093 17' 05.740"	30.10533	-93.28493	LNM 43/14, 8th Dist	74	11347_2	10/30/2014
+11347	Change	Depth Legend - Devils Elbow Channel to:	29 FT SEP 2014	N 30 06' 08.000"	W 093 18' 44.000"	30.10222	-93.31223	LNM 43/14, 8th Dist	73	11347_1	10/30/2014
+11347	Change	Depth Legend - Devils Elbow Channel to:	29 FT SEP 2014	N 30 06' 08.000"	W 093 18' 44.000"	30.10222	-93.31223	LNM 43/14, 8th Dist	74	11347_2	10/30/2014
+11347	Relocate	Calcasieu Channel Light 60	Fl R 2.5s 17ft 4M "60" 	N 29 50' 19.478"	W 093 20' 47.012"	29.83874	-93.34639	LNM 39/14, 8th Dist	73	11347_1	10/9/2014
+11347	Change	Tabulation - CALCASIEU PASS AND RIVER	Tabulation - CALCASIEU PASS AND RIVER	N 30 09' 30.000"	W 093 18' 00.000"	30.15833	-93.3	LNM 40/14, 8th Dist	75	11347_3	10/9/2014
+11347	Change	Tabulation - CALCASIEU PASS AND RIVER	Tabulation - CALCASIEU PASS AND RIVER	N 29 55' 30.000"	W 093 22' 30.000"	29.925	-93.375	LNM 40/14, 8th Dist	73	11347_1	10/9/2014
+11347	Add	Submarine Pipeline  PT 1 OF 3	Chart No. 1: L40.1	N 29 35' 01.490"	W 093 12' 19.530"	29.58375	-93.20542	LNM 35/14, 8th Dist	73	11347_1	8/21/2014
+11347	Add	Submarine Pipeline  PT 2 OF 3	Chart No. 1: L40.1	N 29 35' 00.510"	W 093 12' 19.480"	29.58348	-93.20541	LNM 35/14, 8th Dist	73	11347_1	8/21/2014
+11347	Add	Submarine Pipeline  PT 3 OF 3	Chart No. 1: L40.1	N 29 35' 00.650"	W 093 12' 13.630"	29.58351	-93.20379	LNM 35/14, 8th Dist	73	11347_1	8/21/2014
+11347	Change	tabulation - Calcasieu Pass and River	tabulation - Calcasieu Pass and River	N 30 09' 30.000"	W 093 18' 00.000"	30.15833	-93.3	LNM 32/14, 8th Dist	75	11347_3	8/7/2014
+11347	Change	tabulation - Calcasieu Pass and River	tabulation - Calcasieu Pass and River	N 29 55' 30.000"	W 093 22' 30.000"	29.925	-93.375	LNM 32/14, 8th Dist	73	11347_1	8/7/2014
+11347	Change	Depth Legend - Rose Bluff Cutoff Turning Basin to:	32 FT APR 2014	N 30 10' 54.000"	W 093 18' 27.000"	30.18167	-93.3075	LNM 29/14, 8th Dist	75	11347_3	7/24/2014
+11347	Change	Depth Legend - Devils Elbow Channel to:	30 FT APR 2014	N 30 06' 08.000"	W 093 18' 44.000"	30.10222	-93.31223	LNM 29/14, 8th Dist	73	11347_1	7/24/2014
+11347	Change	Depth Legend - Devils Elbow Channel to:	30 FT APR 2014	N 30 06' 08.000"	W 093 18' 44.000"	30.10222	-93.31223	LNM 29/14, 8th Dist	74	11347_2	7/24/2014
+11347	Change	Depth Legend - Devils Elbow Turning Basin to:	38 FT APR 2014	N 30 06' 25.000"	W 093 17' 13.000"	30.10695	-93.28694	LNM 29/14, 8th Dist	74	11347_2	7/24/2014
+11347	Change	Depth Legend - Lake Charles Turning Basin to:	35 FT APR 2014	N 30 13' 59.000"	W 093 14' 45.000"	30.23306	-93.24583	LNM 29/14, 8th Dist	75	11347_3	7/24/2014
+11347	Change	Depth Legend - Clooney Island Channel to:	35 FT APR 2014	N 30 13' 35.000"	W 093 15' 50.000"	30.22639	-93.26389	LNM 29/14, 8th Dist	75	11347_3	7/24/2014
+11347	Change	Depth Legend - Coon Island Channel to:	39 FT APR 2014	N 30 12' 36.000"	W 093 16' 45.000"	30.21	-93.27917	LNM 29/14, 8th Dist	75	11347_3	7/24/2014
+11347	Change	Depth Legend - Coon Island Turning Basin to:	39 FT APR 2014	N 30 13' 20.000"	W 093 16' 35.000"	30.22222	-93.27639	LNM 29/14, 8th Dist	75	11347_3	7/24/2014
+11347	Change	Depth Legend - Calcasieu Landing Turning Basin to:	18 FT APR 2014	N 30 05' 33.000"	W 093 19' 35.000"	30.0925	-93.32639	LNM 29/14, 8th Dist	73	11347_1	7/24/2014
+11347	Change	Depth Legend - Calcasieu Landing Turning Basin to:	18 FT APR 2014	N 30 05' 33.000"	W 093 19' 35.000"	30.0925	-93.32639	LNM 29/14, 8th Dist	74	11347_2	7/24/2014
+11347	Change	Depth Legend - Lake Charles Channel to:	35 FT APR 2014	N 30 13' 14.000"	W 093 14' 27.000"	30.22056	-93.24084	LNM 29/14, 8th Dist	75	11347_3	7/24/2014
+11347	Delete	Depth Legend - Coon Island Mooring Area to:	28 FT 2001 - 2013	N 30 13' 24.000"	W 093 16' 41.000"	30.22333	-93.27805	LNM 29/14, 8th Dist	75	11347_3	7/24/2014
+11347	Add	Channel Limits PT 1 OF 2	Chart No. 1: I20	N 30 13' 21.500"	W 093 16' 42.400"	30.22264	-93.27844	LNM 29/14, 8th Dist	75	11347_3	7/24/2014
+11347	Add	Channel Limits PT 2 OF 2	Chart No. 1: I20	N 30 13' 23.100"	W 093 16' 43.800"	30.22308	-93.27883	LNM 29/14, 8th Dist	75	11347_3	7/24/2014
+11347	Add	Depth Legend - Coon Island Mooring Area to:	39 FT 2014	N 30 13' 24.000"	W 093 16' 40.000"	30.22333	-93.27778	LNM 29/14, 8th Dist	75	11347_3	7/24/2014
+11347	Add	Depth Legend - Coon Island Mooring Area to:	28 FT	N 30 13' 21.000"	W 093 16' 45.000"	30.2225	-93.27917	LNM 29/14, 8th Dist	75	11347_3	7/24/2014
+11347	Delete	Platform: (Apache-105-100)	Chart No. 1: L10	N 29 30' 32.792"	W 093 16' 35.087"	29.50911	-93.27641	LNM 20/14, 8th Dist	73	11347_1	6/5/2014
+11347	Change	Depth Note - NOTE B to:	The centerline depth from the south end of Cameron Loop to the channel limits was 29 feet. Nov 2011	N 29 46' 55.000"	W 093 19' 03.000"	29.78194	-93.3175	LNM 21/14, 8th Dist	73	11347_1	5/22/2014
+11347	Relocate	Calcasieu Channel Lighted Buoy 29	G "29" Fl G 2.5s	N 29 38' 38.991"	W 093 19' 34.160"	29.64417	-93.32616	LNM 14/14, 8th Dist	73	11347_1	4/17/2014
+11347	Change	tabulation - Calcasieu Pass and River	tabulation - Calcasieu Pass and River	N 30 09' 30.000"	W 093 18' 00.000"	30.15833	-93.3	LNM 15/14, 8th Dist	75	11347_3	4/10/2014
+11347	Change	tabulation - Calcasieu Pass and River	tabulation - Calcasieu Pass and River	N 29 55' 30.000"	W 093 22' 30.000"	29.925	-93.375	LNM 15/14, 8th Dist	73	11347_1	4/10/2014
+11347	Add	Calcasieu Channel D Range Front Light Magenta Circle AIS	AIS      Chart No. 1: S17.2	N 30 05' 46.106"	W 093 19' 28.142"	30.09614	-93.32449	LNM 12/14, 8th Dist	73	11347_1	4/3/2014
+11347	Add	Calcasieu Channel D Range Front Light Magenta Circle AIS	AIS      Chart No. 1: S17.2	N 30 05' 46.106"	W 093 19' 28.142"	30.09614	-93.32449	LNM 12/14, 8th Dist	74	11347_2	4/3/2014
+11347	Add	Calcasieu Channel D Range Rear Light Magenta Circle AIS	AIS      Chart No. 1: S17.2	N 30 06' 09.466"	W 093 19' 26.010"	30.10263	-93.32389	LNM 12/14, 8th Dist	73	11347_1	4/3/2014
+11347	Add	Calcasieu Channel D Range Rear Light Magenta Circle AIS	AIS      Chart No. 1: S17.2	N 30 06' 09.466"	W 093 19' 26.010"	30.10263	-93.32389	LNM 12/14, 8th Dist	74	11347_2	4/3/2014
+11347	Change	Depth Legend - Lake Charles Channel to:	35 1/2 FT DEC 2013	N 30 13' 14.000"	W 093 14' 27.000"	30.22056	-93.24084	LNM 14/14, 8th Dist	75	11347_3	4/10/2014
+11347	Change	Depth Legend - Mooring Area, Port of Lake Charles to:	35 FT 2003-2013	N 30 13' 05.000"	W 093 15' 03.000"	30.21806	-93.25083	LNM 14/14, 8th Dist	75	11347_3	4/10/2014
+11347	Change	Depth Legend - Calcasieu Landing Turning Basin to:	17 1/2 FT DEC 2013	N 30 05' 33.000"	W 093 19' 35.000"	30.0925	-93.32639	LNM 14/14, 8th Dist	73	11347_1	4/10/2014
+11347	Change	Depth Legend - Calcasieu Landing Turning Basin to:	17 1/2 FT DEC 2013	N 30 05' 33.000"	W 093 19' 35.000"	30.0925	-93.32639	LNM 14/14, 8th Dist	74	11347_2	4/10/2014
+11347	Change	Depth Legend - Turning Basin, Rose Bluff Cutoff to:	31 FT JAN 2014	N 30 10' 54.000"	W 093 18' 27.000"	30.18167	-93.3075	LNM 14/14, 8th Dist	75	11347_3	4/10/2014
+11347	Change	Depth Legend - Devils Elbow, Industrial Canal to:	31 1/2 FT DEC 2013	N 30 06' 08.000"	W 093 18' 44.000"	30.10222	-93.31223	LNM 14/14, 8th Dist	73	11347_1	4/10/2014
+11347	Change	Depth Legend - Devils Elbow, Industrial Canal to:	31 1/2 FT DEC 2013	N 30 06' 08.000"	W 093 18' 44.000"	30.10222	-93.31223	LNM 14/14, 8th Dist	74	11347_2	4/10/2014
+11347	Add	Channel Limits PT 1 OF 10	Chart No. 1: I20	N 29 32' 31.270"	W 093 14' 50.810"	29.54202	-93.24744	LNM 05/14, 8th Dist	73	11347_1	1/30/2014
+11347	Add	Channel Limits PT 2 OF 10	Chart No. 1: I20	N 29 31' 20.170"	W 093 13' 46.500"	29.52227	-93.22958	LNM 05/14, 8th Dist	73	11347_1	1/30/2014
+11347	Add	Channel Limits PT 3 OF 10	Chart No. 1: I20	N 29 31' 07.110"	W 093 13' 38.130"	29.51864	-93.22726	LNM 05/14, 8th Dist	73	11347_1	1/30/2014
+11347	Add	Channel Limits PT 4 OF 10	Chart No. 1: I20	N 29 30' 48.300"	W 093 13' 33.580"	29.51342	-93.226	LNM 05/14, 8th Dist	73	11347_1	1/30/2014
+11347	Add	Channel Limits PT 5 OF 10	Chart No. 1: I20	N 29 26' 39.550"	W 093 13' 29.540"	29.44432	-93.22487	LNM 05/14, 8th Dist	73	11347_1	1/30/2014
+11347	Add	Channel Limits PT 6 OF 10	Chart No. 1: I20	N 29 32' 35.980"	W 093 14' 43.520"	29.54333	-93.24542	LNM 05/14, 8th Dist	73	11347_1	1/30/2014
+11347	Add	Channel Limits PT 7 OF 10	Chart No. 1: I20	N 29 31' 25.420"	W 093 13' 39.690"	29.52373	-93.22769	LNM 05/14, 8th Dist	73	11347_1	1/30/2014
+11347	Add	Channel Limits PT 8 OF 10	Chart No. 1: I20	N 29 31' 08.840"	W 093 13' 28.640"	29.51912	-93.22462	LNM 05/14, 8th Dist	73	11347_1	1/30/2014
+11347	Add	Channel Limits PT 9 OF 10	Chart No. 1: I20	N 29 30' 48.760"	W 093 13' 24.530"	29.51354	-93.22348	LNM 05/14, 8th Dist	73	11347_1	1/30/2014
+11347	Add	Channel Limits PT 10 OF 10	Chart No. 1: I20	N 29 26' 40.470"	W 093 13' 20.510"	29.44457	-93.22237	LNM 05/14, 8th Dist	73	11347_1	1/30/2014
+11347	Delete	Channel Limits PT 1 OF 10	Chart No. 1: I20	N 29 32' 31.330"	W 093 14' 50.750"	29.54204	-93.24743	LNM 05/14, 8th Dist	73	11347_1	1/30/2014
+11347	Delete	Channel Limits PT 2 OF 10	Chart No. 1: I20	N 29 31' 24.040"	W 093 13' 49.810"	29.52334	-93.2305	LNM 05/14, 8th Dist	73	11347_1	1/30/2014
+11347	Delete	Channel Limits PT 3 OF 10	Chart No. 1: I20	N 29 31' 04.530"	W 093 13' 36.560"	29.51793	-93.22682	LNM 05/14, 8th Dist	73	11347_1	1/30/2014
+11347	Delete	Channel Limits PT 4 OF 10	Chart No. 1: I20	N 29 30' 48.380"	W 093 13' 33.470"	29.51344	-93.22597	LNM 05/14, 8th Dist	73	11347_1	1/30/2014
+11347	Delete	Channel Limits PT 5 OF 10	Chart No. 1: I20	N 29 26' 39.650"	W 093 13' 28.350"	29.44435	-93.22454	LNM 05/14, 8th Dist	73	11347_1	1/30/2014
+11347	Delete	Channel Limits PT 6 OF 10	Chart No. 1: I20	N 29 32' 36.020"	W 093 14' 43.440"	29.54334	-93.2454	LNM 05/14, 8th Dist	73	11347_1	1/30/2014
+11347	Delete	Channel Limits PT 7 OF 10	Chart No. 1: I20	N 29 31' 28.300"	W 093 13' 42.220"	29.52453	-93.22839	LNM 05/14, 8th Dist	73	11347_1	1/30/2014
+11347	Delete	Channel Limits PT 8 OF 10	Chart No. 1: I20	N 29 31' 09.870"	W 093 13' 29.270"	29.51941	-93.2248	LNM 05/14, 8th Dist	73	11347_1	1/30/2014
+11347	Delete	Channel Limits PT 9 OF 10	Chart No. 1: I20	N 29 30' 48.400"	W 093 13' 24.410"	29.51344	-93.22345	LNM 05/14, 8th Dist	73	11347_1	1/30/2014
+11347	Delete	Channel Limits PT 10 OF 10	Chart No. 1: I20	N 29 26' 40.370"	W 093 13' 19.310"	29.44455	-93.22203	LNM 05/14, 8th Dist	73	11347_1	1/30/2014
+11347	Change	tabulation - CALCASIEU PASS AND RIVER	tabulation - CALCASIEU PASS AND RIVER	N 29 55' 30.000"	W 093 22' 30.000"	29.925	-93.375	LNM 48/13, 8th Dist	73	11347_1	11/22/2013
+11347	Change	tabulation - CALCASIEU PASS AND RIVER	tabulation - CALCASIEU PASS AND RIVER	N 30 09' 30.000"	W 093 18' 00.000"	30.15833	-93.3	LNM 48/13, 8th Dist	75	11347_3	11/22/2013
+11347	Change	Depth Legend - Mooring Area, Calcasieu River to:	20 FT AUG 2013	N 30 11' 30.000"	W 093 17' 52.000"	30.19167	-93.29778	LNM 45/13, 8th Dist	75	11347_3	10/31/2013
+11347	Change	Depth Legend - Coon Island Mooring Area to:	28 FT 2003-2013	N 30 13' 24.000"	W 093 16' 41.000"	30.22333	-93.27805	LNM 45/13, 8th Dist	75	11347_3	10/31/2013
+11347	Change	Depth Legend - Mooring Area to:	24 FT 2013	N 30 12' 44.000"	W 093 15' 28.000"	30.21222	-93.25777	LNM 45/13, 8th Dist	75	11347_3	10/31/2013
+11347	Change	Depth Legend - Mooring Area to:	32 1/2 FT 2013	N 30 12' 50.000"	W 093 15' 28.000"	30.21389	-93.25777	LNM 45/13, 8th Dist	75	11347_3	10/31/2013
+11347	Change	Depth Legend - Mooring Area to:	29 1/2 FT 2003-2013	N 30 13' 05.000"	W 093 15' 03.000"	30.21806	-93.25083	LNM 45/13, 8th Dist	75	11347_3	10/31/2013
+11347	Change	Depth Legend - West Sempra Turning Basin to:	28 FT 2009-2013	N 30 02' 20.000"	W 093 19' 55.000"	30.03889	-93.33195	LNM 45/13, 8th Dist	73	11347_1	10/31/2013
+11347	Change	Depth Legend - Calcasieu River Industrial Canal to:	33 FT AUG 2013	N 30 06' 08.000"	W 093 18' 44.000"	30.10222	-93.31223	LNM 45/13, 8th Dist	73	11347_1	10/31/2013
+11347	Change	Depth Legend - Calcasieu River Industrial Canal to:	33 FT AUG 2013	N 30 06' 08.000"	W 093 18' 44.000"	30.10222	-93.31223	LNM 45/13, 8th Dist	74	11347_2	10/31/2013
+11347	Delete	Sounding in Feet	34	N 30 06' 19.300"	W 093 17' 22.100"	30.10536	-93.28947	LNM 45/13, 8th Dist	74	11347_2	10/31/2013
+11347	Add	Sounding in Feet	32	N 30 06' 18.300"	W 093 17' 22.200"	30.10508	-93.2895	LNM 45/13, 8th Dist	74	11347_2	10/31/2013
+11347	Change	Depth Legend - Calcasieu River Industrial Canal Turning Basin to:	36 FT AUG 2013	N 30 06' 25.000"	W 093 17' 13.000"	30.10695	-93.28694	LNM 45/13, 8th Dist	74	11347_2	10/31/2013
+11347	Change	Depth Legend - Clooney Island Channel to:	35 1/2 FT AUG 2013	N 30 13' 35.000"	W 093 15' 50.000"	30.22639	-93.26389	LNM 45/13, 8th Dist	75	11347_3	10/31/2013
+11347	Change	Depth Legend - Lake Charles Turning Basin to:	31 FT AUG 2013	N 30 13' 59.000"	W 093 14' 45.000"	30.23306	-93.24583	LNM 45/13, 8th Dist	75	11347_3	10/31/2013
+11347	Change	Depth Legend - Lake Charles Channel to:	35 FT AUG 2013	N 30 13' 14.000"	W 093 14' 27.000"	30.22056	-93.24084	LNM 45/13, 8th Dist	75	11347_3	10/31/2013
+11347	Change	Depth Legend - Mooring Area to:	31 1/2 FT 2003-2013	N 30 13' 07.000"	W 093 15' 20.000"	30.21861	-93.25555	LNM 45/13, 8th Dist	75	11347_3	10/31/2013
+11347	Change	Depth Legend - Coon Island Channel to:	38 1/2 FT AUG 2013	N 30 12' 36.000"	W 093 16' 45.000"	30.21	-93.27917	LNM 45/13, 8th Dist	75	11347_3	10/31/2013
+11347	Relocate	Calcasieu Channel A Range Front Light	{Fl 2.5s 47ft (Day), Fl R 2.5s 44ft (Night)	N 29 47' 07.531"	W 093 20' 52.052"	29.78543	-93.34779	LNM 42/13, 8th Dist	73	11347_1	10/21/2013
+11347	Change	Calcasieu Channel A Range Front Light	{Fl 2.5s 47ft (Day), Fl R 2.5s 44ft (Night)	N 29 47' 07.531"	W 093 20' 52.052"	29.78543	-93.34779	LNM 42/13, 8th Dist	73	11347_1	10/21/2013
+11347	Relocate	Calcasieu Channel A Range Rear Light	{F 145ft (Day), F R 148ft (Night)	N 29 48' 04.593"	W 093 21' 01.478"	29.80128	-93.35041	LNM 42/13, 8th Dist	73	11347_1	10/21/2013
+11347	Delete	Platform: (Apache-105-17)	Chart No. 1: L10	N 29 43' 11.402"	W 093 14' 08.099"	29.71983	-93.23558	LNM 42/13, 8th Dist	73	11347_1	10/21/2013
+11347	Delete	Platform: (Apache-105-18)	Chart No. 1: L10	N 29 42' 24.184"	W 093 13' 41.023"	29.70672	-93.22807	LNM 42/13, 8th Dist	73	11347_1	10/21/2013
+11347	Delete	Platform: (Apache-105-16)	Chart No. 1: L10	N 29 42' 57.787"	W 093 13' 11.035"	29.71605	-93.21973	LNM 42/13, 8th Dist	73	11347_1	10/21/2013
+11347	Add	Platform: (Wb02-50-169)(Gulfport Energy)	Chart No. 1: L10	N 30 01' 23.000"	W 093 19' 06.000"	30.02306	-93.31834	LNM 37/13, 8th Dist	73	11347_1	9/13/2013
+11347	Add	Platform: (Wb02-50-Platform 73)(Gulfport Energy)	Chart No. 1: L10	N 30 01' 54.870"	W 093 17' 58.030"	30.03191	-93.29945	LNM 33/13, 8th Dist	73	11347_1	8/16/2013
+11347	Add	Platform: (Wb02-50-Platform 73)(Gulfport Energy)	Chart No. 1: L10	N 30 01' 54.870"	W 093 17' 58.030"	30.03191	-93.29945	LNM 33/13, 8th Dist	74	11347_2	8/16/2013
+11347	Delete	Calcasieu Channel A Range Front Light Passing Ligh	Fl 4s 15ft 4M	N 29 46' 53.267"	W 093 20' 49.709"	29.78146	-93.34715	LNM 33/13, 8th Dist	73	11347_1	8/16/2013
+11347	Change	tabulation - CALCASIEU PASS AND RIVER	tabulation - CALCASIEU PASS AND RIVER	N 30 09' 30.000"	W 093 18' 00.000"	30.15833	-93.3	LNM 33/13, 8th Dist	75	11347_3	8/8/2013
+11347	Change	tabulation - CALCASIEU PASS AND RIVER	tabulation - CALCASIEU PASS AND RIVER	N 29 55' 30.000"	W 093 22' 30.000"	29.925	-93.375	LNM 33/13, 8th Dist	73	11347_1	8/8/2013
+11347	Add	Abandoned Submarine Pipeline PT 1 OF 2	Chart No. 1: L44	N 29 38' 58.200"	W 093 14' 37.300"	29.6495	-93.2437	LNM 32/13, 8th Dist	73	11347_1	7/30/2013
+11347	Add	Abandoned Submarine Pipeline PT 2 OF 2	Chart No. 1: L44	N 29 39' 00.300"	W 093 12' 38.000"	29.65008	-93.21056	LNM 32/13, 8th Dist	73	11347_1	7/30/2013
+11347	Add	Calcasieu Channel A Range Rear Light	{F 145ft (Day), F R 148ft (Night)	N 29 48' 04.602"	W 093 21' 01.479"	29.80128	-93.35041	LNM 30/13, 8th Dist	73	11347_1	7/30/2013
+11347	Delete	Calcasieu Channel A Range Rear Light	F R 90ft	N 29 47' 07.528"	W 093 20' 52.051"	29.78543	-93.34779	LNM 30/13, 8th Dist	73	11347_1	7/30/2013
+11347	Add	Calcasieu Channel A Range Front Light	{Fl 2.5s 48ft (Day), Fl R 2.5s 45ft (Night)	N 29 47' 07.528"	W 093 20' 52.051"	29.78543	-93.34779	LNM 30/13, 8th Dist	73	11347_1	7/30/2013
+11347	Relocate	Calcasieu Channel A Range Front Light Passing Light	Fl 4s 15ft 4M	N 29 46' 53.267"	W 093 20' 49.709"	29.78146	-93.34715	LNM 30/13, 8th Dist	73	11347_1	7/30/2013
+11347	Delete	Calcasieu Channel A Range Front Light	Fl R 2.5s 45ft	N 29 46' 53.243"	W 093 20' 49.702"	29.78146	-93.34714	LNM 30/13, 8th Dist	73	11347_1	7/30/2013
+11347	Delete	Submerged Pipe	Subm pipe PA                Chart No. 1: K43.1	N 29 37' 38.500"	W 093 19' 13.500"	29.62736	-93.32042	LNM 32/13, 8th Dist	73	11347_1	7/30/2013
+11347	Change	Depth Legend - Mooring Area to:	40 FT MAY 2013	N 29 48' 52.800"	W 093 20' 56.400"	29.81467	-93.349	LNM 31/13, 8th Dist	73	11347_1	7/25/2013
+11347	Change	Depth Legend - Lake Charles Turning Basin to:	26 1/2 FT MAY 2013	N 30 13' 59.000"	W 093 14' 45.000"	30.23306	-93.24583	LNM 31/13, 8th Dist	75	11347_3	7/25/2013
+11347	Change	Depth Legend - Coon Island Channel to:	38 FT MAY 2013	N 30 12' 36.000"	W 093 16' 45.000"	30.21	-93.27917	LNM 31/13, 8th Dist	75	11347_3	7/25/2013
+11347	Change	Depth Legend - Calcasieu River Industrial Canal to:	32 1/2 FT MAY 2013	N 30 06' 08.000"	W 093 18' 44.000"	30.10222	-93.31223	LNM 31/13, 8th Dist	73	11347_1	7/25/2013
+11347	Change	Depth Legend - Calcasieu River Industrial Canal to:	32 1/2 FT MAY 2013	N 30 06' 08.000"	W 093 18' 44.000"	30.10222	-93.31223	LNM 31/13, 8th Dist	74	11347_2	7/25/2013
+11347	Change	Depth Legend - Calcasieu River Turning Basin to:	38 1/2 FT MAY 2013	N 30 06' 24.000"	W 093 17' 13.000"	30.10667	-93.28694	LNM 31/13, 8th Dist	74	11347_2	7/25/2013
+11347	Change	Depth Legend - Turning Basin, Calcasieu River to:	30 FT MAY 2013	N 30 10' 55.000"	W 093 18' 28.000"	30.18194	-93.30778	LNM 31/13, 8th Dist	75	11347_3	7/25/2013
+11347	Substitute	Sounding in Feet	27 for 29	N 30 06' 24.700"	W 093 17' 04.400"	30.10686	-93.28455	LNM 31/13, 8th Dist	74	11347_2	7/25/2013
+11347	Change	Depth Legend - Clooney Island Channel to:	34 1/2 FT MAY 2013	N 30 13' 35.000"	W 093 15' 50.000"	30.22639	-93.26389	LNM 31/13, 8th Dist	75	11347_3	7/25/2013
+11347	Change	Depth Legend - Coon Island Turning Basin to:	38 1/2 FT MAY 2013	N 30 13' 20.000"	W 093 16' 35.000"	30.22222	-93.27639	LNM 31/13, 8th Dist	75	11347_3	7/25/2013
+11347	Change	Depth Legend - Calcasieu Landing to:	16 1/2 FT 1998-2013	N 30 05' 33.400"	W 093 19' 35.000"	30.09261	-93.32639	LNM 31/13, 8th Dist	73	11347_1	7/25/2013
+11347	Change	Depth Legend - Calcasieu Landing to:	16 1/2 FT 1998-2013	N 30 05' 33.400"	W 093 19' 35.000"	30.09261	-93.32639	LNM 31/13, 8th Dist	74	11347_2	7/25/2013
+11347	Add	Platform: (WB02-50-56)(Gulfport Energy)	Chart No. 1: L10	N 30 01' 42.380"	W 093 19' 13.690"	30.02844	-93.32047	LNM 28/13, 8th Dist	73	11347_1	7/16/2013
+11347	Add	Platform: (WB02-50-Production Facility)(Gulfport Energy)	Chart No. 1: L10	N 30 01' 29.460"	W 093 19' 35.190"	30.02485	-93.32644	LNM 27/13, 8th Dist	73	11347_1	7/8/2013
+11347	Add	Platform: (WB02-50-J5)(Gulfport Energy)	Chart No. 1: L10	N 30 01' 08.320"	W 093 18' 58.640"	30.01898	-93.31629	LNM 27/13, 8th Dist	73	11347_1	7/8/2013
+11347	Add	Shoaling Label	3 1/2 ft shoaling rep 2013 PA	N 29 47' 37.200"	W 093 19' 30.600"	29.79367	-93.32516	LNM 24/13, 8th Dist	73	11347_1	6/17/2013
+11347	Add	Pipeline Area  PT 1 OF 4	Chart No. 1: L40.2	N 29 48' 28.200"	W 093 20' 44.500"	29.80783	-93.3457	LNM 25/13, 8th Dist	73	11347_1	6/11/2013
+11347	Add	Pipeline Area  PT 2 OF 4	Chart No. 1: L40.2	N 29 48' 27.700"	W 093 20' 58.200"	29.8077	-93.3495	LNM 25/13, 8th Dist	73	11347_1	6/11/2013
+11347	Add	Pipeline Area  PT 3 OF 4	Chart No. 1: L40.2	N 29 48' 19.400"	W 093 20' 44.700"	29.80539	-93.34575	LNM 25/13, 8th Dist	73	11347_1	6/11/2013
+11347	Add	Pipeline Area  PT 4 OF 4	Chart No. 1: L40.2	N 29 48' 18.800"	W 093 20' 57.300"	29.80522	-93.34925	LNM 25/13, 8th Dist	73	11347_1	6/11/2013
+11347	Add	Platform: (WB02-50-Oil Barge) (Gulfport Energy)	Chart No. 1: L10	N 30 01' 19.010"	W 093 18' 27.530"	30.02195	-93.30765	LNM 21/13, 8th Dist	73	11347_1	5/30/2013
+11347	Add	Submarine Pipeline  PT 1 OF 4	Chart No. 1: L40.1	N 30 01' 28.200"	W 093 19' 44.400"	30.0245	-93.329	LNM 23/13, 8th Dist	73	11347_1	5/30/2013
+11347	Add	Submarine Pipeline  PT 2 OF 4	Chart No. 1: L40.1	N 30 01' 29.600"	W 093 19' 56.000"	30.02489	-93.33222	LNM 23/13, 8th Dist	73	11347_1	5/30/2013
+11347	Add	Submarine Pipeline  PT 3 OF 4	Chart No. 1: L40.1	N 30 01' 29.500"	W 093 19' 56.200"	30.02486	-93.33228	LNM 23/13, 8th Dist	73	11347_1	5/30/2013
+11347	Add	Submarine Pipeline  PT 4 OF 4	Chart No. 1: L40.1	N 30 01' 30.400"	W 093 20' 00.600"	30.02511	-93.3335	LNM 23/13, 8th Dist	73	11347_1	5/30/2013
+11347	Add	Platform: (WB02-50-137) (Gulfport Energy)	Chart No. 1: L10	N 30 01' 00.540"	W 093 19' 12.970"	30.01682	-93.32027	LNM 19/13, 8th Dist	73	11347_1	5/10/2013
+11347	Add	Platform: (WB02-50-124) (Gulfport Energy)	Chart No. 1: L10	N 30 01' 37.870"	W 093 17' 58.310"	30.02719	-93.29953	LNM 19/13, 8th Dist	73	11347_1	5/10/2013
+11347	Add	Platform: (WB02-50-124) (Gulfport Energy)	Chart No. 1: L10	N 30 01' 37.870"	W 093 17' 58.310"	30.02719	-93.29953	LNM 19/13, 8th Dist	74	11347_2	5/10/2013
+11347	Add	Platform: (WB02-50-88) (Gulfport Energy)	Chart No. 1: L10	N 30 01' 04.220"	W 093 19' 15.310"	30.01784	-93.32092	LNM 19/13, 8th Dist	73	11347_1	5/10/2013
+11347	Add	Platform: (WB02-50-87) (Gulfport Energy)	Chart No. 1: L10	N 30 01' 04.720"	W 093 19' 05.190"	30.01798	-93.31811	LNM 19/13, 8th Dist	73	11347_1	5/10/2013
+11347	Add	Platform: (WB02-50-84) (Gulfport Energy)	Chart No. 1: L10	N 30 01' 12.260"	W 093 19' 10.680"	30.02007	-93.31963	LNM 19/13, 8th Dist	73	11347_1	5/10/2013
+11347	Change	tabulation - Calcasieu Pass and River	tabulation - Calcasieu Pass and River	N 29 55' 30.000"	W 093 22' 30.000"	29.925	-93.375	LNM 20/13, 8th Dist	73	11347_1	5/10/2013
+11347	Change	tabulation - Calcasieu Pass and River	tabulation - Calcasieu Pass and River	N 30 09' 30.000"	W 093 18' 00.000"	30.15833	-93.3	LNM 20/13, 8th Dist	75	11347_3	5/10/2013
+11347	Add	Platform: (WB02-50-111) (Gulfport Energy)	Chart No. 1: L10	N 30 01' 58.850"	W 093 19' 06.100"	30.03301	-93.31836	LNM 18/13, 8th Dist	73	11347_1	5/7/2013

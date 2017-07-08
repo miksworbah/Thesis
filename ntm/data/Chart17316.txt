@@ -1,0 +1,5 @@
+Chart: 17316, Current Edition: 21, Print Date: Nov. /2014, Lynn Canal-Icy Str. to Point Sherman;Funter Bay;Chatham Strait
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+17316	Relocate	Gibby Rock Light	Fl R 6s 30ft 4M "2"	N 58 19' 36.372"	W 134 41' 19.020"	58.32677	-134.6886	LNM 50/16, 17th Dist	2631	17316_1	12/22/2016
+17316	Change	Faust Rock Lighted Bell Buoy FR	RG "FR" Fl (2+1) R 6s BELL	N 58 25' 05.802"	W 134 55' 39.677"	58.41828	-134.9277	LNM 30/16, 17th Dist	2631	17316_1	8/4/2016
+17316	Change	Depth Legend - PORT FREDERICK 	9 FEET 2014	N 58 06' 22.160"	W 135 26' 48.300"	58.10616	-135.4467	LNM 31/15, 9th Dist	2631	17316_1	5/7/2015

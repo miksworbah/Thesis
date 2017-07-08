@@ -1,0 +1,13 @@
+Chart: 25661, Current Edition: 12, Print Date: Jul. /2004, Puerto Yabucoa
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+25661	Add	Obstruction in Feet	44 Obstn PA (rep 2014)       Chart No. 1: K41	N 18 03' 17.670"	W 065 49' 56.450"	18.05491	-65.83234	LNM 47/14, 7th Dist	392	25661_1	11/20/2014
+25661	Change	Depth Legend 	22 FT MAR 2012	N 18 03' 01.900"	W 065 50' 03.000"	18.05053	-65.83417	LNM 14/14, 7th Dist	392	25661_1	4/17/2014
+25661	Add	Sounding in Feet	8	N 18 03' 10.070"	W 065 50' 16.980"	18.0528	-65.83805	LNM 14/14, 7th Dist	392	25661_1	4/17/2014
+25661	Add	Sounding in Feet	9	N 18 03' 07.220"	W 065 50' 16.210"	18.05201	-65.83784	LNM 14/14, 7th Dist	392	25661_1	4/17/2014
+25661	Add	Sounding in Feet	11	N 18 03' 03.690"	W 065 49' 50.730"	18.05103	-65.83076	LNM 14/14, 7th Dist	392	25661_1	4/17/2014
+25661	Change	Depth Legend - Entrance Channel	33 FT MAR 2012	N 18 02' 48.500"	W 065 49' 13.000"	18.04681	-65.82027	LNM 14/14, 7th Dist	392	25661_1	4/17/2014
+25661	Add	Sounding in Feet	17	N 18 03' 03.720"	W 065 49' 53.300"	18.05103	-65.83147	LNM 14/14, 7th Dist	392	25661_1	4/17/2014
+25661	Change	Depth Legend - Turning Basin	33 FT MAR 2012	N 18 03' 08.700"	W 065 50' 01.400"	18.05242	-65.83372	LNM 14/14, 7th Dist	392	25661_1	4/17/2014
+25661	Change	Depth Legend 	23 FT MAR 2012	N 18 03' 08.200"	W 065 50' 14.000"	18.05228	-65.83722	LNM 14/14, 7th Dist	392	25661_1	4/17/2014
+25661	Add	Pilot Station	Pilots   Chart No.1 T 1.1  	N 18 02' 00.000"	W 065 47' 30.000"	18.03333	-65.79166	LNM 30/13, 7th Dist	392	25661_1	7/18/2013
+25661	Add	HURRICANES AND TROPICAL STORMS NOTE	Hurricanes, tropical storms and other major storms may cause considerable damage to marine structures, aids to navigation and moored vessels, resulting in submerged debris in unknown locations. Charted soundings, channel depths and shoreline may not reflect actual conditions following these storms. Fixed aids to navigation may have been damaged or destroyed. Buoys may have been moved from charted positions, damaged, sunk extinguished or otherwise made inoperative. Mariners should not rely upon the position or operation of an aid to navigation. Wrecks and submerged obstructions may have been displaced from charted locations. Pipelines may have become uncovered or moved. Mariners are urged to exercise extreme caution and are requested to report aids to navigation discrepancies and hazards to navigation to the nearest United States Coast Guard unit.	N 18 03' 48.000"	W 065 49' 59.000"	18.06333	-65.83305	LNM 15/06, 7th Dist	392	25661_1	2/13/2008

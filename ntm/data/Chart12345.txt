@@ -1,32 +1,32 @@
-Chart: 12345, Current Edition: 11, Print Date: Dec. /2010, Hudson River George Washington Bridge to Yonkers
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-12345	Delete	Glenwood North Dock Light	Fl R 3s 12ft Priv	N 40 56' 52.400"	W 073 54' 05.400"	40.94789	-73.9015	LNM 16/16, 1st Dist	2228	12345_1	4/21/2016
-12345	Delete	Glenwood South Dock Light	Fl R 3s 12ft Priv	N 40 56' 50.000"	W 073 54' 05.900"	40.94722	-73.90164	LNM 16/16, 1st Dist	2228	12345_1	4/21/2016
-12345	Relocate	HUDSON RIVER LTD BUOY 4	R "4" Fl R 4s	N 40 53' 35.158"	W 073 55' 19.192"	40.8931	-73.922	LNM 47/15, 1st Dist	2228	12345_1	12/3/2015
-12345	Change	anchorage areas note	ANCHORAGE AREAS 110.155 (see note A) Limits and assigned numbers of anchorage areas are shown in magenta. 17 18 18A 19E GENERAL ANCHORAGE	N 40 54' 20.000"	W 073 57' 37.000"	40.90556	-73.96028	LNM 17/15, 1st Dist	2228	12345_1	4/23/2015
-12345	Delete	anchorage area PT 1 OF 3	None	N 40 56' 22.540"	W 073 54' 49.770"	40.93959	-73.91383	LNM 17/15, 1st Dist	2228	12345_1	4/23/2015
-12345	Delete	anchorage area PT 2 OF 3	None	N 40 56' 20.360"	W 073 54' 37.720"	40.93899	-73.91048	LNM 17/15, 1st Dist	2228	12345_1	4/23/2015
-12345	Delete	anchorage area PT 3 OF 3	None	N 40 55' 54.150"	W 073 54' 46.960"	40.93171	-73.91305	LNM 17/15, 1st Dist	2228	12345_1	4/23/2015
-12345	Add	anchorage area label	18	N 40 56' 25.400"	W 073 54' 39.700"	40.94039	-73.91103	LNM 17/15, 1st Dist	2228	12345_1	4/23/2015
-12345	Add	anchorage area PT 1 OF 4	None	N 40 56' 54.000"	W 073 54' 40.000"	40.94833	-73.91111	LNM 17/15, 1st Dist	2228	12345_1	4/23/2015
-12345	Add	anchorage area PT 2 OF 4	None	N 40 56' 51.000"	W 073 54' 24.000"	40.9475	-73.90667	LNM 17/15, 1st Dist	2228	12345_1	4/23/2015
-12345	Add	anchorage area PT 3 OF 4	None	N 40 55' 53.000"	W 073 54' 40.000"	40.93139	-73.91111	LNM 17/15, 1st Dist	2228	12345_1	4/23/2015
-12345	Add	anchorage area PT 4 OF 4	None	N 40 55' 56.000"	W 073 54' 58.000"	40.93222	-73.91611	LNM 17/15, 1st Dist	2228	12345_1	4/23/2015
-12345	Delete	Accurate Landmark	STACK   (Chart No. 1: E2)	N 40 56' 51.211"	W 073 54' 01.682"	40.94756	-73.90047	LNM 50/13, 1st Dist	2228	12345_1	12/16/2013
-12345	Delete	Important Building	(Chart No. 1: D6)	N 40 56' 50.752"	W 073 54' 00.547"	40.94743	-73.90015	LNM 50/13, 1st Dist	2228	12345_1	12/16/2013
-12345	Delete	Important Building	(Chart No. 1: D6)	N 40 56' 48.412"	W 073 54' 02.242"	40.94678	-73.90062	LNM 50/13, 1st Dist	2228	12345_1	12/16/2013
-12345	Delete	Important Building	(Chart No. 1: D6)	N 40 56' 46.898"	W 073 54' 03.391"	40.94636	-73.90094	LNM 50/13, 1st Dist	2228	12345_1	12/16/2013
-12345	Change	Depth Legend - Hudson River (Alpine Boat Basin) to:	4 ft rep 2013	N 40 56' 44.800"	W 073 55' 05.900"	40.94578	-73.9183	LNM 33/13, 1st Dist	2228	12345_1	8/8/2013
-12345	Change	Anchorage Area label:	19E	N 40 51' 01.600"	W 073 57' 02.900"	40.85044	-73.95081	LNM 20/11, 1st Dist	2228	12345_1	5/16/2011
-12345	Change	Anchorage Area Note to:	ANCHORAGE AREAS  110.155 (see note A)  Limits and assigned numbers of anchorage areas are shown in magenta.  17  18A GENERAL ANCHORAGE  19E EAST GENERAL ANCHORAGE	N 40 54' 18.000"	W 073 57' 37.000"	40.905	-73.96028	LNM 20/11, 1st Dist	2228	12345_1	5/16/2011
-12345	Delete	Anchorage Area PT 1 OF 3	(Chart No. 1: N12.1)	N 40 51' 00.050"	W 073 56' 58.720"	40.85001	-73.94965	LNM 20/11, 1st Dist	2228	12345_1	5/16/2011
-12345	Delete	Anchorage Area PT 2 OF 3	(Chart No. 1: N12.1)	N 40 51' 02.690"	W 073 56' 57.670"	40.85075	-73.94936	LNM 20/11, 1st Dist	2228	12345_1	5/16/2011
-12345	Delete	Anchorage Area PT 3 OF 3	(Chart No. 1: N12.1)	N 40 51' 01.060"	W 073 56' 49.340"	40.8503	-73.94704	LNM 20/11, 1st Dist	2228	12345_1	5/16/2011
-12345	Add	Anchorage Area PT 1 OF 3	(Chart No. 1: N12.1)	N 40 51' 00.000"	W 073 56' 58.200"	40.85	-73.9495	LNM 20/11, 1st Dist	2228	12345_1	5/16/2011
-12345	Add	Anchorage Area PT 2 OF 3	(Chart No. 1: N12.1)	N 40 51' 02.500"	W 073 56' 57.400"	40.85069	-73.94928	LNM 20/11, 1st Dist	2228	12345_1	5/16/2011
-12345	Add	Anchorage Area PT 3 OF 3	(Chart No. 1: N12.1)	N 40 51' 00.800"	W 073 56' 49.400"	40.85022	-73.94705	LNM 20/11, 1st Dist	2228	12345_1	5/16/2011
-12345	Add	label: Regulated Navigation Area	REGULATED NAVIGATION AREA 165.165 (see note A)	N 40 51' 40.700"	W 073 56' 30.400"	40.86131	-73.94178	LNM 16/11, 1st Dist	2228	12345_1	4/18/2011
-12345	Add	label: Regulated Navigation Area	REGULATED NAVIGATION AREA 165.165 (see note A)	N 40 56' 25.600"	W 073 54' 31.500"	40.94044	-73.90875	LNM 16/11, 1st Dist	2228	12345_1	4/18/2011
-12345	Delete	Glenwood North Dock Light	Fl R 3s 12ft Priv	N 40 56' 52.400"	W 073 54' 05.400"	40.94789	-73.9015	LNM 16/11, 1st Dist	2228	12345_1	4/13/2011
-12345	Delete	Glenwood South Dock Light	Fl R 3s 12ft Priv	N 40 56' 50.000"	W 073 54' 05.900"	40.94722	-73.90164	LNM 16/11, 1st Dist	2228	12345_1	4/13/2011
-12345	Add	Wreck in Feet	23 Wk      Chart No. 1: K26	N 40 51' 59.022"	W 073 56' 04.382"	40.86639	-73.93455	LNM 14/11, 1st Dist	2228	12345_1	4/4/2011
+Chart: 12345, Current Edition: 11, Print Date: Dec. /2010, Hudson River George Washington Bridge to Yonkers
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12345	Delete	Glenwood North Dock Light	Fl R 3s 12ft Priv	N 40 56' 52.400"	W 073 54' 05.400"	40.94789	-73.9015	LNM 16/16, 1st Dist	2228	12345_1	4/21/2016
+12345	Delete	Glenwood South Dock Light	Fl R 3s 12ft Priv	N 40 56' 50.000"	W 073 54' 05.900"	40.94722	-73.90164	LNM 16/16, 1st Dist	2228	12345_1	4/21/2016
+12345	Relocate	HUDSON RIVER LTD BUOY 4	R "4" Fl R 4s	N 40 53' 35.158"	W 073 55' 19.192"	40.8931	-73.922	LNM 47/15, 1st Dist	2228	12345_1	12/3/2015
+12345	Change	anchorage areas note	ANCHORAGE AREAS 110.155 (see note A) Limits and assigned numbers of anchorage areas are shown in magenta. 17 18 18A 19E GENERAL ANCHORAGE	N 40 54' 20.000"	W 073 57' 37.000"	40.90556	-73.96028	LNM 17/15, 1st Dist	2228	12345_1	4/23/2015
+12345	Delete	anchorage area PT 1 OF 3	None	N 40 56' 22.540"	W 073 54' 49.770"	40.93959	-73.91383	LNM 17/15, 1st Dist	2228	12345_1	4/23/2015
+12345	Delete	anchorage area PT 2 OF 3	None	N 40 56' 20.360"	W 073 54' 37.720"	40.93899	-73.91048	LNM 17/15, 1st Dist	2228	12345_1	4/23/2015
+12345	Delete	anchorage area PT 3 OF 3	None	N 40 55' 54.150"	W 073 54' 46.960"	40.93171	-73.91305	LNM 17/15, 1st Dist	2228	12345_1	4/23/2015
+12345	Add	anchorage area label	18	N 40 56' 25.400"	W 073 54' 39.700"	40.94039	-73.91103	LNM 17/15, 1st Dist	2228	12345_1	4/23/2015
+12345	Add	anchorage area PT 1 OF 4	None	N 40 56' 54.000"	W 073 54' 40.000"	40.94833	-73.91111	LNM 17/15, 1st Dist	2228	12345_1	4/23/2015
+12345	Add	anchorage area PT 2 OF 4	None	N 40 56' 51.000"	W 073 54' 24.000"	40.9475	-73.90667	LNM 17/15, 1st Dist	2228	12345_1	4/23/2015
+12345	Add	anchorage area PT 3 OF 4	None	N 40 55' 53.000"	W 073 54' 40.000"	40.93139	-73.91111	LNM 17/15, 1st Dist	2228	12345_1	4/23/2015
+12345	Add	anchorage area PT 4 OF 4	None	N 40 55' 56.000"	W 073 54' 58.000"	40.93222	-73.91611	LNM 17/15, 1st Dist	2228	12345_1	4/23/2015
+12345	Delete	Accurate Landmark	STACK   (Chart No. 1: E2)	N 40 56' 51.211"	W 073 54' 01.682"	40.94756	-73.90047	LNM 50/13, 1st Dist	2228	12345_1	12/16/2013
+12345	Delete	Important Building	(Chart No. 1: D6)	N 40 56' 50.752"	W 073 54' 00.547"	40.94743	-73.90015	LNM 50/13, 1st Dist	2228	12345_1	12/16/2013
+12345	Delete	Important Building	(Chart No. 1: D6)	N 40 56' 48.412"	W 073 54' 02.242"	40.94678	-73.90062	LNM 50/13, 1st Dist	2228	12345_1	12/16/2013
+12345	Delete	Important Building	(Chart No. 1: D6)	N 40 56' 46.898"	W 073 54' 03.391"	40.94636	-73.90094	LNM 50/13, 1st Dist	2228	12345_1	12/16/2013
+12345	Change	Depth Legend - Hudson River (Alpine Boat Basin) to:	4 ft rep 2013	N 40 56' 44.800"	W 073 55' 05.900"	40.94578	-73.9183	LNM 33/13, 1st Dist	2228	12345_1	8/8/2013
+12345	Change	Anchorage Area label:	19E	N 40 51' 01.600"	W 073 57' 02.900"	40.85044	-73.95081	LNM 20/11, 1st Dist	2228	12345_1	5/16/2011
+12345	Change	Anchorage Area Note to:	ANCHORAGE AREAS  110.155 (see note A)  Limits and assigned numbers of anchorage areas are shown in magenta.  17  18A GENERAL ANCHORAGE  19E EAST GENERAL ANCHORAGE	N 40 54' 18.000"	W 073 57' 37.000"	40.905	-73.96028	LNM 20/11, 1st Dist	2228	12345_1	5/16/2011
+12345	Delete	Anchorage Area PT 1 OF 3	(Chart No. 1: N12.1)	N 40 51' 00.050"	W 073 56' 58.720"	40.85001	-73.94965	LNM 20/11, 1st Dist	2228	12345_1	5/16/2011
+12345	Delete	Anchorage Area PT 2 OF 3	(Chart No. 1: N12.1)	N 40 51' 02.690"	W 073 56' 57.670"	40.85075	-73.94936	LNM 20/11, 1st Dist	2228	12345_1	5/16/2011
+12345	Delete	Anchorage Area PT 3 OF 3	(Chart No. 1: N12.1)	N 40 51' 01.060"	W 073 56' 49.340"	40.8503	-73.94704	LNM 20/11, 1st Dist	2228	12345_1	5/16/2011
+12345	Add	Anchorage Area PT 1 OF 3	(Chart No. 1: N12.1)	N 40 51' 00.000"	W 073 56' 58.200"	40.85	-73.9495	LNM 20/11, 1st Dist	2228	12345_1	5/16/2011
+12345	Add	Anchorage Area PT 2 OF 3	(Chart No. 1: N12.1)	N 40 51' 02.500"	W 073 56' 57.400"	40.85069	-73.94928	LNM 20/11, 1st Dist	2228	12345_1	5/16/2011
+12345	Add	Anchorage Area PT 3 OF 3	(Chart No. 1: N12.1)	N 40 51' 00.800"	W 073 56' 49.400"	40.85022	-73.94705	LNM 20/11, 1st Dist	2228	12345_1	5/16/2011
+12345	Add	label: Regulated Navigation Area	REGULATED NAVIGATION AREA 165.165 (see note A)	N 40 51' 40.700"	W 073 56' 30.400"	40.86131	-73.94178	LNM 16/11, 1st Dist	2228	12345_1	4/18/2011
+12345	Add	label: Regulated Navigation Area	REGULATED NAVIGATION AREA 165.165 (see note A)	N 40 56' 25.600"	W 073 54' 31.500"	40.94044	-73.90875	LNM 16/11, 1st Dist	2228	12345_1	4/18/2011
+12345	Delete	Glenwood North Dock Light	Fl R 3s 12ft Priv	N 40 56' 52.400"	W 073 54' 05.400"	40.94789	-73.9015	LNM 16/11, 1st Dist	2228	12345_1	4/13/2011
+12345	Delete	Glenwood South Dock Light	Fl R 3s 12ft Priv	N 40 56' 50.000"	W 073 54' 05.900"	40.94722	-73.90164	LNM 16/11, 1st Dist	2228	12345_1	4/13/2011
+12345	Add	Wreck in Feet	23 Wk      Chart No. 1: K26	N 40 51' 59.022"	W 073 56' 04.382"	40.86639	-73.93455	LNM 14/11, 1st Dist	2228	12345_1	4/4/2011

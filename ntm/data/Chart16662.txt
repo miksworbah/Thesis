@@ -1,0 +1,5 @@
+Chart: 16662, Current Edition: 9, Print Date: May. /2012, Cook Inlet-Kalgin Island to North Foreland
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16662	Relocate	Kenai Entrance Channel Lighted Buoy 1KE	G "1KE" Fl G 4s	N 60 31' 16.073"	W 151 20' 50.572"	60.52113	-151.3474	LNM 39/14, 17th Dist	2584	16662_2	10/30/2014
+16662	Relocate	Kenai Entrance Channel Lighted Buoy 1KE	G "1KE" Fl G 4s	N 60 31' 16.073"	W 151 20' 50.572"	60.52113	-151.3474	LNM 39/14, 17th Dist	2583	16662_1	10/30/2014
+16662	Add	Pipe 	(cov 12 fms) Chart No 1: L-21.2	N 60 56' 06.387"	W 151 08' 58.746"	60.93511	-151.1497	LNM 35/12, 17th Dist	2583	16662_1	9/4/2012

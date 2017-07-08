@@ -1,0 +1,90 @@
+Chart: 18444, Current Edition: 17, Print Date: Nov. /2009, Everett Harbor
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18444	Change	Snohomish River Light 8	Fl R 4s 15ft 4M "8"	N 48 01' 06.976"	W 122 12' 48.228"	48.0186	-122.2134	LNM 51/16, 13th Dist	1691	18444_1	12/22/2016
+18444	Relocate	Snohomish River Lighted Buoy 3	G "3" Fl G 2.5s	N 47 58' 56.950"	W 122 14' 03.141"	47.98249	-122.2342	LNM 37/16, 13th Dist	1691	18444_1	9/22/2016
+18444	Relocate	Snohomish River Range A Front Daybeacon	RB Bn	N 48 00' 36.864"	W 122 13' 35.990"	48.01024	-122.2267	LNM 24/16, 13th Dist	1691	18444_1	6/16/2016
+18444	Relocate	Snohomish River Range A Front Daybeacon	RB Bn 	N 48 00' 36.887"	W 122 13' 35.967"	48.01025	-122.2267	LNM 15/16, 13th Dist	1691	18444_1	4/21/2016
+18444	Delete	NOAA Sea Lion Float Light E	Fl Y 4s "E" Priv	N 47 58' 51.540"	W 122 13' 36.840"	47.98098	-122.2269	LNM 49/15, 13th Dist	1691	18444_1	12/17/2015
+18444	Relocate	Snohomish River Range A Front Daybeacon	RB Bn	N 48 00' 36.862"	W 122 13' 35.989"	48.01024	-122.2267	LNM 49/15, 13th Dist	1691	18444_1	12/17/2015
+18444	Delete	Everett Mooring Buoy CG	"CG"	N 47 59' 06.000"	W 122 14' 24.000"	47.985	-122.24	LNM 40/15, 13th Dist	1691	18444_1	10/15/2015
+18444	Change	Port Of Everett Jetty Island Light A	Fl Y 4s "A" Priv	N 48 00' 14.242"	W 122 13' 34.995"	48.00396	-122.2264	LNM 38/15, 13th Dist	1691	18444_1	10/1/2015
+18444	Relocate	Port Of Everett Jetty Island Light A	Fl Y 4s "A" Priv	N 48 00' 14.242"	W 122 13' 34.995"	48.00396	-122.2264	LNM 38/15, 13th Dist	1691	18444_1	10/1/2015
+18444	Change	Port Of Everett Jetty Island Light B	Fl Y 4s "B" Priv	N 48 00' 13.142"	W 122 13' 35.494"	48.00365	-122.2265	LNM 38/15, 13th Dist	1691	18444_1	10/1/2015
+18444	Change	Port Of Everett Jetty Island Light C	Fl Y 4s "C" Priv	N 48 00' 11.442"	W 122 13' 35.494"	48.00318	-122.2265	LNM 38/15, 13th Dist	1691	18444_1	10/1/2015
+18444	Relocate	NOAA Sea Lion Float Light E	Fl Y 4s "E" Priv	N 47 58' 51.540"	W 122 13' 36.840"	47.98098	-122.2269	LNM 48/14, 13th Dist	1691	18444_1	12/11/2014
+18444	Add	NOAA Sea Lion Float Light E	Fl Y 4s "E" Priv	N 47 58' 58.980"	W 122 13' 30.600"	47.98305	-122.2252	LNM 43/14, 13th Dist	1691	18444_1	11/6/2014
+18444	Relocate	Navsta Pier Light A	F Y "A" Priv	N 47 59' 29.150"	W 122 13' 27.520"	47.99143	-122.2243	LNM 06/14, 13th Dist	1691	18444_1	2/20/2014
+18444	Change	Navsta Pier Light A	F Y "A" Priv	N 47 59' 29.150"	W 122 13' 27.520"	47.99143	-122.2243	LNM 06/14, 13th Dist	1691	18444_1	2/20/2014
+18444	Relocate	Navsta Pier Light B	F Y "B" Priv	N 47 59' 39.970"	W 122 13' 26.250"	47.99443	-122.224	LNM 06/14, 13th Dist	1691	18444_1	2/20/2014
+18444	Change	Navsta Pier Light B	F Y "B" Priv	N 47 59' 39.970"	W 122 13' 26.250"	47.99443	-122.224	LNM 06/14, 13th Dist	1691	18444_1	2/20/2014
+18444	Add	Snohomish River Mooring Dolphin Light A	Fl Y 4s "A" Priv	N 48 00' 52.930"	W 122 10' 54.606"	48.0147	-122.1818	LNM 41/13, 13th Dist	1691	18444_1	10/15/2013
+18444	Add	Snohomish River Mooring Dolphin Light B	Fl Y 4s "B" Priv	N 48 00' 50.288"	W 122 10' 49.853"	48.01397	-122.1805	LNM 41/13, 13th Dist	1691	18444_1	10/15/2013
+18444	Change	Snohomish River Range Front Light	Q G 20ft	N 48 00' 54.981"	W 122 13' 27.803"	48.01527	-122.2244	LNM 26/13, 13th Dist	1691	18444_1	10/15/2013
+18444	Relocate	Snohomish River Daybeacon 7	G "7"	N 48 01' 10.500"	W 122 12' 55.680"	48.01958	-122.2155	LNM 33/13, 13th Dist	1691	18444_1	8/20/2013
+18444	Change	Snohomish River Range Rear Light	Iso G 6s 41ft	N 48 01' 05.017"	W 122 13' 27.092"	48.01806	-122.2242	LNM 26/13, 13th Dist	1691	18444_1	8/20/2013
+18444	Relocate	Snohomish River Range Front Light	Q G 20ft	N 48 00' 54.981"	W 122 13' 27.803"	48.01527	-122.2244	LNM 26/13, 13th Dist	1691	18444_1	8/20/2013
+18444	Relocate	Snohomish River Range Rear Light	Iso G 6s 41ft	N 48 01' 05.017"	W 122 13' 27.092"	48.01806	-122.2242	LNM 26/13, 13th Dist	1691	18444_1	8/20/2013
+18444	Relocate	Snohomish River Range A Front Daybeacon	RB Bn	N 48 00' 35.783"	W 122 13' 37.078"	48.00994	-122.227	LNM 26/13, 13th Dist	1691	18444_1	8/20/2013
+18444	Relocate	Snohomish River Range A Rear Daybeacon	RB Bn	N 48 00' 33.500"	W 122 13' 39.324"	48.0093	-122.2276	LNM 26/13, 13th Dist	1691	18444_1	8/20/2013
+18444	Relocate	Snohomish River Range B Front Daybeacon	RB Bn	N 48 00' 52.850"	W 122 13' 29.505"	48.01468	-122.2249	LNM 26/13, 13th Dist	1691	18444_1	8/20/2013
+18444	Relocate	Snohomish River Range B Rear Daybeacon	RB Bn	N 48 00' 50.021"	W 122 13' 35.774"	48.01389	-122.2266	LNM 26/13, 13th Dist	1691	18444_1	8/20/2013
+18444	Relocate	Snohomish River Range C Rear Daybeacon	RB Bn	N 48 01' 05.003"	W 122 13' 27.034"	48.01805	-122.2242	LNM 26/13, 13th Dist	1691	18444_1	8/20/2013
+18444	Relocate	Snohomish River Range C Front Daybeacon	RB Bn	N 48 01' 07.116"	W 122 13' 15.251"	48.01864	-122.2209	LNM 26/13, 13th Dist	1691	18444_1	8/20/2013
+18444	Change	Snohomish River Light 8 	Fl R 4s 15ft 3M "8" 	N 48 01' 06.976"	W 122 12' 48.228"	48.0186	-122.2134	LNM 14/13, 13th Dist	1691	18444_1	5/6/2013
+18444	Add	General Anchorage Area limit PT 2 OF 4	Chart No. 1: N12.1	N 47 59' 21.500"	W 122 15' 02.000"	47.98931	-122.2506	LNM 18/13, 13th Dist	1691	18444_1	4/26/2013
+18444	Add	General Anchorage Area limit PT 3 OF 4	Chart No. 1: N12.1	N 47 58' 57.000"	W 122 15' 44.000"	47.9825	-122.2622	LNM 18/13, 13th Dist	1691	18444_1	4/26/2013
+18444	Add	General Anchorage Area limit PT 4 OF 4	Chart No. 1: N12.1	N 47 58' 32.500"	W 122 14' 47.000"	47.97569	-122.2464	LNM 18/13, 13th Dist	1691	18444_1	4/26/2013
+18444	Delete	General Anchorage Area limit PT 1 OF 6	Chart No. 1: N12.1	N 47 59' 02.400"	W 122 14' 00.300"	47.984	-122.2334	LNM 18/13, 13th Dist	1691	18444_1	4/26/2013
+18444	Delete	General Anchorage Area limit PT 2 OF 6	Chart No. 1: N12.1	N 47 59' 21.400"	W 122 15' 01.600"	47.98928	-122.2504	LNM 18/13, 13th Dist	1691	18444_1	4/26/2013
+18444	Delete	General Anchorage Area limit PT 3 OF 6	Chart No. 1: N12.1	N 47 58' 56.700"	W 122 15' 44.200"	47.98242	-122.2623	LNM 18/13, 13th Dist	1691	18444_1	4/26/2013
+18444	Delete	General Anchorage Area limit PT 4 OF 6	Chart No. 1: N12.1	N 47 58' 29.800"	W 122 14' 40.800"	47.97495	-122.2447	LNM 18/13, 13th Dist	1691	18444_1	4/26/2013
+18444	Delete	General Anchorage Area limit PT 5 OF 6	Chart No. 1: N12.1	N 47 58' 36.300"	W 122 14' 06.800"	47.97675	-122.2352	LNM 18/13, 13th Dist	1691	18444_1	4/26/2013
+18444	Delete	General Anchorage Area limit PT 6 OF 6	Chart No. 1: N12.1	N 47 58' 42.400"	W 122 14' 00.200"	47.97844	-122.2334	LNM 18/13, 13th Dist	1691	18444_1	4/26/2013
+18444	Add	General Anchorage Area limit PT 1 OF 4	Chart No. 1: N12.1	N 47 58' 57.000"	W 122 14' 05.000"	47.9825	-122.2347	LNM 18/13, 13th Dist	1691	18444_1	4/26/2013
+18444	Add	Port of Everett Marine Terminal North Dolphin Light	Fl Y 4s Priv	N 47 58' 36.717"	W 122 13' 35.709"	47.97687	-122.2266	LNM 18/12, 13th Dist	1691	18444_1	5/14/2012
+18444	Add	Port of Everett Marine Terminal South Dolphin Light	Fl Y 4s Priv	N 47 58' 34.726"	W 122 13' 37.469"	47.97631	-122.2271	LNM 18/12, 13th Dist	1691	18444_1	5/14/2012
+18444	Add	Port of Everett Marina Light 1	Fl G 4s "1" Priv	N 47 59' 52.090"	W 122 13' 25.406"	47.9978	-122.2237	LNM 18/12, 13th Dist	1691	18444_1	5/14/2012
+18444	Add	Port of Everett Marina Light 2	Fl R 4s "2" Priv	N 47 59' 50.578"	W 122 13' 25.582"	47.99738	-122.2238	LNM 18/12, 13th Dist	1691	18444_1	5/14/2012
+18444	Add	Port of Everett 12th Street Marina Light 1	Fl G 4s "1" Priv	N 48 00' 08.229"	W 122 13' 24.866"	48.00229	-122.2236	LNM 18/12, 13th Dist	1691	18444_1	5/14/2012
+18444	Add	Port of Everett 12th Street Marina Light 2	Fl R 4s "2" Priv	N 48 00' 07.005"	W 122 13' 25.126"	48.00195	-122.2236	LNM 18/12, 13th Dist	1691	18444_1	5/14/2012
+18444	Add	Port of Everett Boat Launch Light 1	Fl G 4s "1" Priv	N 48 00' 17.716"	W 122 13' 23.783"	48.00492	-122.2233	LNM 18/12, 13th Dist	1691	18444_1	5/14/2012
+18444	Add	Port of Everett Boat Launch Light 2	Fl R 4s "2" Priv	N 48 00' 17.063"	W 122 13' 23.808"	48.00474	-122.2233	LNM 18/12, 13th Dist	1691	18444_1	5/14/2012
+18444	Change	Latitude Label for chartlet published in LNM 12/12	47°59'	N 47 59' 00.000"	W 122 14' 31.100"	47.98333	-122.242	LNM 15/12, 13th Dist	1691	18444_1	4/10/2012
+18444	Change	Port Gardner Light 1	Fl G 4s 15ft 4M "1"	N 47 59' 29.940"	W 122 14' 54.720"	47.99165	-122.2485	LNM 11/12, 13th Dist	1691	18444_1	3/19/2012
+18444	Add	Chartlet - Added security barrier, label, note J, and buoys	Chartlet - Added security barrier, label, note J, and buoys	N 47 58' 35.000"	W 122 13' 53.000"	47.97639	-122.2314	LNM 12/12, 13th Dist	1691	18444_1	3/19/2012
+18444	Delete	Port Gardner Navy Log Boom Light A	Q Y 5ft "A" Navy	N 47 58' 51.000"	W 122 14' 03.000"	47.98083	-122.2342	LNM 48/11, 13th Dist	1691	18444_1	12/20/2011
+18444	Delete	Port Gardner Navy Log Boom Light B	Q Y 5ft "B" Navy	N 47 58' 47.000"	W 122 13' 51.000"	47.97972	-122.2308	LNM 48/11, 13th Dist	1691	18444_1	12/20/2011
+18444	Delete	Port Gardner Navy Log Boom Light C	Q Y 5ft "C" Navy	N 47 58' 45.000"	W 122 13' 46.000"	47.97917	-122.2294	LNM 48/11, 13th Dist	1691	18444_1	12/20/2011
+18444	Delete	Port Gardner Navy Log Boom Light D	Q Y 5ft "D" Navy	N 47 58' 59.000"	W 122 13' 32.000"	47.98306	-122.2256	LNM 48/11, 13th Dist	1691	18444_1	12/20/2011
+18444	Change	Tabulation - EVERETT HARBOR AND SNOHOMISH RIVER	Tabulation - EVERETT HARBOR AND SNOHOMISH RIVER	N 48 01' 18.000"	W 122 13' 57.000"	48.02167	-122.2325	LNM 43/11, 13th Dist	1691	18444_1	10/20/2011
+18444	Add	Channel reach separator PT 1 OF 2	(magenta line)	N 47 59' 29.100"	W 122 10' 43.300"	47.99142	-122.1787	LNM 43/11, 13th Dist	1691	18444_1	10/20/2011
+18444	Add	Channel reach separator PT 2 OF 2	(magenta line)	N 47 59' 30.200"	W 122 10' 41.900"	47.99172	-122.1783	LNM 43/11, 13th Dist	1691	18444_1	10/20/2011
+18444	Add	Channel Limits PT 1 OF 2	Chart No. 1 I20	N 47 59' 28.000"	W 122 10' 41.500"	47.99111	-122.1782	LNM 43/11, 13th Dist	1691	18444_1	10/20/2011
+18444	Add	Channel Limits PT 2 OF 2	Chart No. 1 I20	N 47 59' 16.000"	W 122 10' 20.600"	47.98778	-122.1724	LNM 43/11, 13th Dist	1691	18444_1	10/20/2011
+18444	Delete	Sounding in Feet	22	N 47 59' 28.300"	W 122 10' 39.500"	47.9912	-122.1776	LNM 43/11, 13th Dist	1691	18444_1	10/20/2011
+18444	Delete	Depth Legend:	4 FEET CENTERLINE APR 2005	N 47 59' 08.000"	W 122 10' 10.000"	47.98555	-122.1694	LNM 43/11, 13th Dist	1691	18444_1	10/20/2011
+18444	Delete	Sounding in Feet	38	N 47 58' 58.900"	W 122 13' 56.900"	47.98303	-122.2325	LNM 43/11, 13th Dist	1691	18444_1	10/20/2011
+18444	Delete	Sounding in Feet	35	N 47 59' 00.900"	W 122 13' 54.800"	47.98358	-122.2319	LNM 43/11, 13th Dist	1691	18444_1	10/20/2011
+18444	Add	Channel Limits PT 1 OF 2	Chart No. 1 I20	N 47 59' 29.900"	W 122 10' 41.400"	47.99164	-122.1782	LNM 43/11, 13th Dist	1691	18444_1	10/20/2011
+18444	Add	Channel Limits PT 2 OF 2	Chart No. 1 I20	N 47 59' 18.200"	W 122 10' 21.000"	47.98839	-122.1725	LNM 43/11, 13th Dist	1691	18444_1	10/20/2011
+18444	Delete	Sounding in Feet	18	N 47 59' 24.500"	W 122 10' 32.200"	47.99014	-122.1756	LNM 43/11, 13th Dist	1691	18444_1	10/20/2011
+18444	Delete	Sounding in Feet	20	N 47 59' 21.700"	W 122 10' 27.900"	47.98936	-122.1744	LNM 43/11, 13th Dist	1691	18444_1	10/20/2011
+18444	Delete	Sounding in Feet	37	N 47 59' 03.100"	W 122 13' 52.200"	47.9842	-122.2312	LNM 43/11, 13th Dist	1691	18444_1	10/20/2011
+18444	Delete	Sounding in Feet	37	N 47 59' 05.800"	W 122 13' 49.200"	47.98494	-122.2303	LNM 43/11, 13th Dist	1691	18444_1	10/20/2011
+18444	Delete	Sounding in Feet	30	N 47 59' 07.100"	W 122 13' 47.300"	47.98531	-122.2298	LNM 43/11, 13th Dist	1691	18444_1	10/20/2011
+18444	Delete	Sounding in Feet	37	N 47 59' 09.600"	W 122 13' 44.700"	47.986	-122.2291	LNM 43/11, 13th Dist	1691	18444_1	10/20/2011
+18444	Change	NOTE B	SETTLING BASIN  Subject to continuous change. 	N 47 59' 27.500"	W 122 10' 19.000"	47.99097	-122.1719	LNM 43/11, 13th Dist	1691	18444_1	10/20/2011
+18444	Delete	text	(see note B)	N 47 59' 26.000"	W 122 10' 36.000"	47.99055	-122.1767	LNM 43/11, 13th Dist	1691	18444_1	10/20/2011
+18444	Add	text	(see note B)	N 47 59' 25.000"	W 122 10' 37.500"	47.99028	-122.1771	LNM 43/11, 13th Dist	1691	18444_1	10/20/2011
+18444	Relocate	Snohomish River Range Front Light	Q G 17ft	N 48 00' 54.987"	W 122 13' 27.807"	48.01527	-122.2244	LNM 29/11, 13th Dist	1691	18444_1	7/25/2011
+18444	Relocate	Snohomish River Range Rear Light	Iso G 6s 50ft	N 48 01' 05.015"	W 122 13' 27.107"	48.01806	-122.2242	LNM 29/11, 13th Dist	1691	18444_1	7/25/2011
+18444	Change	Snohomish River Range Rear Light	Iso G 6s 50ft	N 48 01' 05.015"	W 122 13' 27.107"	48.01806	-122.2242	LNM 29/11, 13th Dist	1691	18444_1	7/25/2011
+18444	Relocate	Snohomish River Range A Front Daybeacon	RB Bn	N 48 00' 35.485"	W 122 13' 37.357"	48.00986	-122.227	LNM 29/11, 13th Dist	1691	18444_1	7/25/2011
+18444	Relocate	Snohomish River Range A Rear Daybeacon	RB Bn	N 48 00' 33.536"	W 122 13' 39.290"	48.00932	-122.2276	LNM 29/11, 13th Dist	1691	18444_1	7/25/2011
+18444	Relocate	Snohomish River Range B Front Daybeacon	RB Bn	N 48 00' 53.067"	W 122 13' 29.049"	48.01474	-122.2247	LNM 29/11, 13th Dist	1691	18444_1	7/25/2011
+18444	Relocate	Snohomish River Range B Rear Daybeacon	RB Bn	N 48 00' 49.273"	W 122 13' 37.450"	48.01369	-122.2271	LNM 29/11, 13th Dist	1691	18444_1	7/25/2011
+18444	Relocate	Snohomish River Range C Front Daybeacon	RB Bn	N 48 01' 07.038"	W 122 13' 15.729"	48.01862	-122.221	LNM 29/11, 13th Dist	1691	18444_1	7/25/2011
+18444	Relocate	Snohomish River Range C Rear Daybeacon	RB Bn	N 48 01' 05.014"	W 122 13' 27.106"	48.01806	-122.2242	LNM 29/11, 13th Dist	1691	18444_1	7/25/2011
+18444	Relocate	Snohomish River Light 8	Fl R 4s 15ft 4M "8" 	N 48 01' 06.976"	W 122 12' 48.228"	48.0186	-122.2134	LNM 32/10, 13th Dist	1691	18444_1	8/18/2010
+18444	Change	Navsta Pier Light A	F R 9ft "A" PA Navy	N 47 59' 28.740"	W 122 13' 27.630"	47.99132	-122.2243	WNM 12/10, NGA	1691	18444_1	3/24/2010
+18444	Change	Navsta Pier Light B	F R 9ft "B" Navy PA	N 47 59' 39.360"	W 122 13' 27.130"	47.99427	-122.2242	WNM 12/10, NGA	1691	18444_1	3/24/2010

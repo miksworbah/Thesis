@@ -1,0 +1,33 @@
+Chart: 81063, Current Edition: 6, Print Date: Mar. /2006, Commonwealth of the Northern Mariana Islands Rota
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+81063	Change	Rota West Harbor Range Rear Light	Iso G 6s 48ft	N 14 08' 11.430"	E 145 08' 06.749"	14.13651	145.1352	LNM 40/14, 14th Dist	2850	81063_1	10/16/2014
+81063	Change	ROTA WEST HARBOR RANGE FRONT LIGHT	Q G 37ft	N 14 08' 11.852"	E 145 08' 05.925"	14.13663	145.135	LNM 51/12, 14th Dist	2850	81063_1	1/3/2013
+81063	Change	ROTA WEST HARBOR RANGE REAR LIGHT	Iso G 6s 49ft	N 14 08' 11.430"	E 145 08' 06.749"	14.13651	145.1352	LNM 51/12, 14th Dist	2850	81063_1	1/3/2013
+81063	Relocate	ROTA WEST HARBOR RANGE FRONT LIGHT	Q G 33ft	N 14 08' 11.852"	E 145 08' 05.925"	14.13663	145.135	LNM 33/12, 14th Dist	2850	81063_1	9/6/2012
+81063	Relocate	ROTA WEST HARBOR RANGE REAR LIGHT	Iso G 6s 46ft	N 14 08' 11.430"	E 145 08' 06.749"	14.13651	145.1352	LNM 33/12, 14th Dist	2850	81063_1	9/6/2012
+81063	Delete	Rota CG Mooring Buoy	none	N 14 08' 02.400"	E 145 08' 31.194"	14.134	145.142	LNM 18/12, 14th Dist	2850	81063_1	5/9/2012
+81063	Delete	Submarine Operating Area PT 1 OF 6	magenta dash line	N 14 11' 57.300"	E 145 15' 29.004"	14.19925	145.2581	LNM 17/12, 14th Dist	2850	81063_1	4/18/2012
+81063	Delete	Submarine Operating Area PT 2 OF 6	magenta dash line	N 14 13' 39.400"	E 145 15' 28.510"	14.22761	145.2579	LNM 17/12, 14th Dist	2850	81063_1	4/18/2012
+81063	Delete	Submarine Operating Area PT 3 OF 6	magenta dash line	N 14 13' 40.100"	E 145 12' 41.682"	14.22781	145.2116	LNM 17/12, 14th Dist	2850	81063_1	4/18/2012
+81063	Delete	Submarine Operating Area PT 4 OF 6	magenta dash line	N 14 09' 37.700"	E 145 06' 42.319"	14.16047	145.1118	LNM 17/12, 14th Dist	2850	81063_1	4/18/2012
+81063	Delete	Submarine Operating Area PT 5 OF 6	magenta dash line	N 14 08' 08.500"	E 145 06' 41.990"	14.13569	145.1117	LNM 17/12, 14th Dist	2850	81063_1	4/18/2012
+81063	Delete	Submarine Operating Area PT 6 OF 6	magenta dash line	N 14 07' 06.500"	E 145 07' 11.378"	14.11847	145.1198	LNM 17/12, 14th Dist	2850	81063_1	4/18/2012
+81063	Add	Submarine Operations Note B	Submerged submarine operations are conducted at various times in the waters contained on this chart. Proceed with caution. 	N 14 04' 16.600"	E 145 19' 34.493"	14.07128	145.3262	LNM 17/12, 14th Dist	2850	81063_1	4/18/2012
+81063	Delete	Submarine Operations Label	SUBMARINE OPERATING AREA	N 14 13' 27.800"	E 145 15' 02.087"	14.22439	145.2506	LNM 17/12, 14th Dist	2850	81063_1	4/18/2012
+81063	Delete	Submarine Operations Label	SUBMARINE OPERATING AREA	N 14 12' 22.800"	E 145 11' 01.102"	14.20633	145.1836	LNM 17/12, 14th Dist	2850	81063_1	4/18/2012
+81063	Delete	Submarine Operations Label	SUBMARINE OPERATING AREA	N 14 10' 05.500"	E 145 07' 42.689"	14.16819	145.1285	LNM 17/12, 14th Dist	2850	81063_1	4/18/2012
+81063	Change	Rota Harbor depth note	The controlling depth for Rota Harbor is 18 feet for the center 250 feet to the first turn (for the first 685 feet) of entrance channel and 14 feet for the center 150 feet for the remaining 720 feet of the channel. There is shoaling to 6 feet at the channel edges. May 2007	N 14 08' 36.400"	E 145 09' 17.501"	14.14344	145.1549	LNM 22/08, 14th Dist	2850	81063_1	5/29/2008
+81063	Add	Submarine Cable  PT 1 OF 13	Chart No. 1: L30.1	N 14 13' 59.900"	E 145 14' 33.303"	14.23331	145.2426	LNM 12/08, 14th Dist	2850	81063_1	3/25/2008
+81063	Add	Submarine Cable  PT 2 OF 13	Chart No. 1: L30.1	N 14 11' 36.200"	E 145 11' 23.899"	14.19339	145.19	LNM 12/08, 14th Dist	2850	81063_1	3/25/2008
+81063	Add	Submarine Cable  PT 3 OF 13	Chart No. 1: L30.1	N 14 11' 33.200"	E 145 11' 22.800"	14.19256	145.1897	LNM 12/08, 14th Dist	2850	81063_1	3/25/2008
+81063	Add	Submarine Cable  PT 4 OF 13	Chart No. 1: L30.1	N 14 11' 15.700"	E 145 11' 07.914"	14.18769	145.1855	LNM 12/08, 14th Dist	2850	81063_1	3/25/2008
+81063	Add	Submarine Cable  PT 5 OF 13	Chart No. 1: L30.1	N 14 10' 55.100"	E 145 11' 04.288"	14.18197	145.1845	LNM 12/08, 14th Dist	2850	81063_1	3/25/2008
+81063	Add	Submarine Cable  PT 6 OF 13	Chart No. 1: L30.1	N 14 10' 19.800"	E 145 11' 20.493"	14.17217	145.189	LNM 12/08, 14th Dist	2850	81063_1	3/25/2008
+81063	Add	Submarine Cable  PT 7 OF 13	Chart No. 1: L30.1	N 14 10' 36.700"	E 145 11' 10.386"	14.17686	145.1862	LNM 12/08, 14th Dist	2850	81063_1	3/25/2008
+81063	Add	Submarine Cable  PT 8 OF 13	Chart No. 1: L30.1	N 14 10' 56.400"	E 145 09' 51.174"	14.18233	145.1642	LNM 12/08, 14th Dist	2850	81063_1	3/25/2008
+81063	Add	Submarine Cable  PT 9 OF 13	Chart No. 1: L30.1	N 14 10' 12.700"	E 145 08' 35.918"	14.17019	145.1433	LNM 12/08, 14th Dist	2850	81063_1	3/25/2008
+81063	Add	Submarine Cable  PT 11 OF 13	Chart No. 1: L30.1	N 14 07' 34.700"	E 145 06' 30.289"	14.12631	145.1084	LNM 12/08, 14th Dist	2850	81063_1	3/25/2008
+81063	Add	Submarine Cable  PT 12 OF 13	Chart No. 1: L30.1	N 14 04' 21.600"	E 145 05' 51.727"	14.07267	145.0977	LNM 12/08, 14th Dist	2850	81063_1	3/25/2008
+81063	Add	Submarine Cable  PT 13 OF 13	Chart No. 1: L30.1	N 14 04' 05.500"	E 145 05' 43.323"	14.06819	145.0954	LNM 12/08, 14th Dist	2850	81063_1	3/25/2008
+81063	Add	Submarine Cable  PT 10 OF 13	Chart No. 1: L30.1	N 14 09' 33.800"	E 145 07' 47.194"	14.15939	145.1298	LNM 12/08, 14th Dist	2850	81063_1	3/25/2008
+81063	Change	Depth Note - Rota Harbor to:	The controlling depth for Rota Harbor is 18 feet for the center 250 feet to the first turn (for the first 685 feet) of entrance channel and 15 feet for the center 150 feet for the remaining 720 feet of the channel. There is shoaling to 6 feet at the channel edges. May 2007	N 14 08' 36.400"	E 145 09' 17.501"	14.14344	145.1549	LNM 31/07, 14th Dist	2850	81063_1	2/13/2008

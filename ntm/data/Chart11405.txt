@@ -1,0 +1,18 @@
+Chart: 11405, Current Edition: 31, Print Date: Aug. /2015, Apalachee Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11405	Relocate	Florida Department of Agriculture Skipper Bay Oyster Farm Special Light I	Fl Y 2.5s "I"	N 30 02' 33.480"	W 084 21' 34.660"	30.04263	-84.35963	LNM 42/16, 8th Dist	168	11405_1	10/27/2016
+11405	Delete	St Marks River Lighted Buoy SM	RW "SM" Mo (A)	N 30 01' 02.549"	W 084 10' 29.827"	30.01737	-84.17495	LNM 42/16, 8th Dist	168	11405_1	10/27/2016
+11405	Add	Florida Department of Agriculture Skipper Bay Oyster Farm Special Light A	Fl Y 2.5s "A" Priv	N 30 02' 11.520"	W 084 21' 39.680"	30.03653	-84.36102	LNM 36/16, 8th Dist	168	11405_1	9/15/2016
+11405	Add	Florida Department of Agriculture Skipper Bay Oyster Farm Special Light B	Fl Y 2.5s "B" Priv	N 30 02' 11.760"	W 084 21' 29.520"	30.0366	-84.3582	LNM 36/16, 8th Dist	168	11405_1	9/15/2016
+11405	Add	Florida Department of Agriculture Skipper Bay Oyster Farm Special Light C	Fl Y 2.5s "C" Priv	N 30 02' 16.580"	W 084 21' 29.520"	30.03794	-84.3582	LNM 36/16, 8th Dist	168	11405_1	9/15/2016
+11405	Add	Florida Department of Agriculture Skipper Bay Oyster Farm Special Light D	Fl Y 2.5s "D" Priv	N 30 02' 22.550"	W 084 21' 33.480"	30.0396	-84.3593	LNM 36/16, 8th Dist	168	11405_1	9/15/2016
+11405	Add	Florida Department of Agriculture Skipper Bay Oyster Farm Special Light E	Fl Y 2.5s "E" Priv	N 30 02' 29.140"	W 084 21' 32.610"	30.04143	-84.35905	LNM 36/16, 8th Dist	168	11405_1	9/15/2016
+11405	Add	Florida Department of Agriculture Skipper Bay Oyster Farm Special Light F	Fl Y 2.5s "F" Priv	N 30 02' 34.140"	W 084 21' 27.720"	30.04282	-84.3577	LNM 36/16, 8th Dist	168	11405_1	9/15/2016
+11405	Add	Florida Department of Agriculture Skipper Bay Oyster Farm Special Light G	Fl Y 2.5s "G" Priv	N 30 02' 39.550"	W 084 21' 25.200"	30.04432	-84.357	LNM 36/16, 8th Dist	168	11405_1	9/15/2016
+11405	Add	Florida Department of Agriculture Skipper Bay Oyster Farm Special Light H	Fl Y 2.5s "H" Priv	N 30 02' 40.230"	W 084 21' 29.520"	30.04451	-84.3582	LNM 36/16, 8th Dist	168	11405_1	9/15/2016
+11405	Add	Florida Department of Agriculture Skipper Bay Oyster Farm Special Light I	Fl Y 2.5s "I" Priv	N 30 02' 32.400"	W 084 21' 30.290"	30.04233	-84.35841	LNM 36/16, 8th Dist	168	11405_1	9/15/2016
+11405	Add	Florida Department of Agriculture Skipper Bay Oyster Farm Special Light J	Fl Y 2.5s "J" Priv	N 30 02' 29.000"	W 084 21' 37.730"	30.04139	-84.36048	LNM 36/16, 8th Dist	168	11405_1	9/15/2016
+11405	Add	Florida Department of Agriculture Skipper Bay Oyster Farm Special Light K	Fl Y 2.5s "K" Priv	N 30 02' 23.710"	W 084 21' 38.420"	30.03992	-84.36067	LNM 36/16, 8th Dist	168	11405_1	9/15/2016
+11405	Add	Florida Department of Agriculture Skipper Bay Oyster Farm Special Light L	Fl Y 2.5s "L" Priv	N 30 02' 16.550"	W 084 21' 39.600"	30.03793	-84.361	LNM 36/16, 8th Dist	168	11405_1	9/15/2016
+11405	Change	Depth Legend - Panacea Harbor to:	4 1/2 FT BY 100 FT OCT 2015 	N 30 00' 25.100"	W 084 21' 49.600"	30.00697	-84.36378	LNM 21/16, 8th Dist	168	11405_1	5/19/2016
+11405	Delete	Dog Island Reef West Buoy 2	R N "2"	N 29 48' 48.000"	W 084 31' 12.000"	29.81333	-84.52	LNM 09/16, 8th Dist	168	11405_1	3/10/2016

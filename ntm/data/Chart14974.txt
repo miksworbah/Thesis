@@ -1,0 +1,6 @@
+Chart: 14974, Current Edition: 25, Print Date: Feb. /2014, Ashland and Washburn harbors
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14974	Change	Depth Legend - Ashland Harbor	19 FT FOR WIDTH OF 400-750 FT SEP 2015	N 46 35' 57.900"	W 090 53' 30.100"	46.59941	-90.89169	LNM 15/16, 9th Dist	1537	14974_1	4/7/2016
+14974	Add	Sounding in Feet	18	N 46 35' 55.580"	W 090 53' 25.610"	46.59877	-90.89045	LNM 15/16, 9th Dist	1537	14974_1	4/7/2016
+14974	Add	Sounding in Feet	18	N 46 35' 38.710"	W 090 53' 54.790"	46.59409	-90.89855	LNM 15/16, 9th Dist	1537	14974_1	4/7/2016
+14974	Add	Ashland Ore Dock Light	Q Y Priv	N 46 36' 10.660"	W 090 52' 56.880"	46.60296	-90.88247	LNM 29/14, 9th Dist	1537	14974_1	7/31/2014

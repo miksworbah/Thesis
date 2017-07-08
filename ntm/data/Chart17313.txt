@@ -1,0 +1,7 @@
+Chart: 17313, Current Edition: 9, Print Date: May. /2009, Port Snettisham
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+17313	Add	Submarine Cable  PT 1 OF 2	None	N 57 56' 57.650"	W 133 56' 20.600"	57.94935	-133.9391	LNM 26/09, 17th Dist	2627	17313_1	7/6/2009
+17313	Add	Submarine Cable  PT 2 OF 2	None	N 57 55' 37.600"	W 133 55' 21.200"	57.92711	-133.9226	LNM 26/09, 17th Dist	2627	17313_1	7/6/2009
+17313	Add	Submarine Cable  PT 1 OF 3	None	N 57 56' 31.690"	W 133 56' 01.490"	57.94213	-133.9337	LNM 26/09, 17th Dist	2627	17313_1	7/6/2009
+17313	Add	Submarine Cable  PT 2 OF 3	None	N 57 56' 31.430"	W 133 55' 38.990"	57.94206	-133.9275	LNM 26/09, 17th Dist	2627	17313_1	7/6/2009
+17313	Add	Submarine Cable  PT 3 OF 3	None	N 57 56' 57.500"	W 133 53' 35.360"	57.94931	-133.8932	LNM 26/09, 17th Dist	2627	17313_1	7/6/2009

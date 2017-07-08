@@ -1,0 +1,57 @@
+Chart: 18474, Current Edition: 11, Print Date: Dec. /2015, Puget Sound-Shilshole Bay to Commencement Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18474	Change	Colman Ferry Terminal North Dolphin Lights	SIREN	N 47 36' 09.890"	W 122 20' 22.100"	47.60275	-122.3395	LNM 26/17, 13th Dist	1679	18474_1	7/6/2017
+18474	Change	Colman Ferry Terminal Fog Signal Note	The light showing fixed white and siren is privately maintained and operated during fog only.	N 47 36' 49.000"	W 122 20' 08.000"	47.61361	-122.3356	LNM 26/17, 13th Dist	1679	18474_1	7/6/2017
+18474	Relocate	Tacoma Outfall Lighted Buoy	Y Fl Y 4s Priv	N 47 16' 42.000"	W 122 25' 12.000"	47.27833	-122.42	LNM 17/17, 13th Dist	1679	18474_1	4/27/2017
+18474	Relocate	Puget Sound Traffic Separation Lane Lighted Buoy TB	Y "TB" Fl Y 2.5s	N 47 23' 06.357"	W 122 21' 12.446"	47.3851	-122.3535	LNM 13/17, 13th Dist	1679	18474_1	4/6/2017
+18474	Relocate	Puget Sound Traffic Separation Lane Lighted Buoy T	Y "T" Fl Y 2.5s	N 47 34' 33.352"	W 122 27' 04.467"	47.57593	-122.4512	LNM 01/17, 13th Dist	1679	18474_1	1/12/2017
+18474	Change	Puget Sound Traffic Separation Lane Lighted Buoy SG	Y "SG" Fl Y 2.5s RACON (-.) AIS	N 47 39' 41.091"	W 122 27' 52.253"	47.66142	-122.4645	LNM 43/16, 13th Dist	1679	18474_1	10/27/2016
+18474	Relocate	Browns Point Light	Fl 5s 38ft 14M	N 47 18' 21.277"	W 122 26' 39.350"	47.30591	-122.4443	LNM 34/16, 13th Dist	1679	18474_1	9/15/2016
+18474	Change	Browns Point Light	Fl 5s 38ft 14M	N 47 18' 21.277"	W 122 26' 39.350"	47.30591	-122.4443	LNM 34/16, 13th Dist	1679	18474_1	9/15/2016
+18474	Relocate	Puget Sound Traffic Separation Lane Lighted Buoy TC	Y "TC" Fl Y 2.5s	N 47 19' 29.355"	W 122 27' 23.451"	47.32482	-122.4565	LNM 27/16, 13th Dist	1679	18474_1	7/14/2016
+18474	Relocate	Elliot Bay Fish Pen Light B	Fl Y 6s "B" Priv	N 47 37' 19.689"	W 122 22' 02.784"	47.62214	-122.3674	LNM 19/16, 13th Dist	1679	18474_1	5/19/2016
+18474	Change	Elliot Bay Fish Pen Light B	Fl Y 6s "B" Priv	N 47 37' 19.689"	W 122 22' 02.784"	47.62214	-122.3674	LNM 19/16, 13th Dist	1679	18474_1	5/19/2016
+18474	Change	Elliot Bay Fish Pen Light A	Fl Y 6s "A" Priv	N 47 37' 20.705"	W 122 22' 04.213"	47.62242	-122.3678	LNM 19/16, 13th Dist	1679	18474_1	5/19/2016
+18474	Relocate	Elliot Bay Fish Pen Light A	Fl Y 6s "A" Priv	N 47 37' 20.705"	W 122 22' 04.213"	47.62242	-122.3678	LNM 19/16, 13th Dist	1679	18474_1	5/19/2016
+18474	Relocate	Colvos Passage Light 6	Fl R 4s 15ft 4M "6"	N 47 22' 36.659"	W 122 32' 17.955"	47.37685	-122.5383	LNM 08/16, 13th Dist	1679	18474_1	3/3/2016
+18474	Relocate	Point Evans Light 4	Fl R 4s 18ft 4M "4"	N 47 17' 06.947"	W 122 32' 51.771"	47.28526	-122.5477	LNM 08/16, 13th Dist	1679	18474_1	3/3/2016
+18474	Add	Wyckoff Regulatory Buoy C	W Or "C" Priv	N 47 37' 03.327"	W 122 30' 15.344"	47.61759	-122.5043	LNM 06/16, 13th Dist	1679	18474_1	2/18/2016
+18474	Add	Wyckoff Regulatory Buoy D	W Or "D" Priv	N 47 37' 03.600"	W 122 30' 25.686"	47.61767	-122.5071	LNM 06/16, 13th Dist	1679	18474_1	2/18/2016
+18474	Add	unexploded ordnance area PT 1 OF 6	(chart no.1 symbol N.g) A3	N 47 35' 17.100"	W 122 41' 01.900"	47.58809	-122.6839	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 2 OF 6	(chart no.1 symbol N.g) A3	N 47 35' 22.900"	W 122 41' 02.100"	47.58969	-122.6839	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 3 OF 6	(chart no.1 symbol N.g) A3	N 47 35' 23.100"	W 122 40' 56.300"	47.58975	-122.6823	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 4 OF 6	(chart no.1 symbol N.g) A3	N 47 35' 19.100"	W 122 40' 56.100"	47.58864	-122.6823	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 5 OF 6	(chart no.1 symbol N.g) A3	N 47 35' 19.100"	W 122 40' 59.100"	47.58864	-122.6831	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 6 OF 6	(chart no.1 symbol N.g) A3	N 47 35' 17.100"	W 122 40' 59.000"	47.58809	-122.6831	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 1 OF 5	(chart no.1 symbol N.g) A4	N 47 35' 09.200"	W 122 40' 58.700"	47.58589	-122.683	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 2 OF 5	(chart no.1 symbol N.g) A4	N 47 35' 13.100"	W 122 40' 58.800"	47.58697	-122.683	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 3 OF 5	(chart no.1 symbol N.g) A4	N 47 35' 13.200"	W 122 40' 55.100"	47.587	-122.682	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 4 OF 5	(chart no.1 symbol N.g) A4	N 47 35' 11.300"	W 122 40' 55.400"	47.58647	-122.6821	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 5 OF 5	(chart no.1 symbol N.g) A4	N 47 35' 09.200"	W 122 40' 56.200"	47.58589	-122.6823	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	NOTE I CAUTION UNEXPLODED ORDNANCE	Mariners and divers are cautioned against anchoring, dredging, trawling orotherwise disturbing the bottom sediments in this vicinity due to the possibleexistence of unexploded ordnance. For additional information contact Naval BaseKitsap Public Affairs Office at (360) 396-1631.	N 47 33' 41.000"	W 122 41' 10.000"	47.56139	-122.6861	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 1 OF 11	(chart no.1 symbol N.g) A5	N 47 34' 55.200"	W 122 41' 09.900"	47.582	-122.6861	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 2 OF 11	(chart no.1 symbol N.g) A5	N 47 34' 59.100"	W 122 41' 10.100"	47.58308	-122.6861	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 3 OF 11	(chart no.1 symbol N.g) A5	N 47 34' 59.200"	W 122 41' 07.100"	47.58311	-122.6853	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 4 OF 11	(chart no.1 symbol N.g) A5	N 47 35' 03.100"	W 122 41' 07.200"	47.58419	-122.6853	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 5 OF 11	(chart no.1 symbol N.g) A5	N 47 35' 03.300"	W 122 40' 58.500"	47.58425	-122.6829	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 6 OF 11	(chart no.1 symbol N.g) A5	N 47 35' 02.400"	W 122 40' 58.500"	47.584	-122.6829	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 7 OF 11	(chart no.1 symbol N.g) A5	N 47 34' 59.300"	W 122 40' 59.500"	47.58314	-122.6832	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 8 OF 11	(chart no.1 symbol N.g) A5	N 47 34' 59.300"	W 122 41' 01.300"	47.58314	-122.6837	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 9 OF 11	(chart no.1 symbol N.g) A5	N 47 34' 57.300"	W 122 41' 01.200"	47.58258	-122.6837	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 10 OF 11	(chart no.1 symbol N.g) A5	N 47 34' 57.200"	W 122 41' 04.100"	47.58255	-122.6845	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 11 OF 11	(chart no.1 symbol N.g) A5	N 47 34' 55.300"	W 122 41' 04.100"	47.58203	-122.6845	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 1 OF 4	(chart no.1 symbol N.g) A5	N 47 35' 03.000"	W 122 41' 13.100"	47.58417	-122.687	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 2 OF 4	(chart no.1 symbol N.g) A5	N 47 35' 07.000"	W 122 41' 13.200"	47.58528	-122.687	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 3 OF 4	(chart no.1 symbol N.g) A5	N 47 35' 07.100"	W 122 41' 07.400"	47.5853	-122.6854	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 4 OF 4	(chart no.1 symbol N.g) A5	N 47 35' 03.100"	W 122 41' 07.200"	47.58419	-122.6853	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance label	Unexploded ordnance areas A1 to A5 (reported 2015) (see note I)	N 47 35' 17.500"	W 122 41' 36.700"	47.5882	-122.6935	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 1 OF 6	(chart no.1 symbol N.g) A2	N 47 35' 42.800"	W 122 40' 57.100"	47.59522	-122.6825	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 2 OF 6	(chart no.1 symbol N.g) A2	N 47 35' 42.800"	W 122 40' 51.100"	47.59522	-122.6809	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 3 OF 6	(chart no.1 symbol N.g) A2	N 47 35' 40.900"	W 122 40' 51.100"	47.5947	-122.6809	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 4 OF 6	(chart no.1 symbol N.g) A2	N 47 35' 40.900"	W 122 40' 46.500"	47.5947	-122.6796	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 5 OF 6	(chart no.1 symbol N.g) A2	N 47 35' 36.900"	W 122 40' 49.300"	47.59358	-122.6804	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 6 OF 6	(chart no.1 symbol N.g) A2	N 47 35' 36.800"	W 122 40' 56.700"	47.59356	-122.6824	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 1 OF 4	(chart no.1 symbol N.g) A1	N 47 35' 06.700"	W 122 41' 20.400"	47.58519	-122.689	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 2 OF 4	(chart no.1 symbol N.g) A1	N 47 35' 12.800"	W 122 41' 19.900"	47.58689	-122.6889	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 3 OF 4	(chart no.1 symbol N.g) A1	N 47 35' 12.900"	W 122 41' 10.600"	47.58692	-122.6863	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016
+18474	Add	unexploded ordnance area PT 4 OF 4	(chart no.1 symbol N.g) A1	N 47 35' 06.900"	W 122 41' 10.400"	47.58525	-122.6862	LNM 05/16, 13th Dist	1679	18474_1	1/28/2016

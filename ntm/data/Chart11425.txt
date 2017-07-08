@@ -1,0 +1,29 @@
+Chart: 11425, Current Edition: 40, Print Date: Jan. /2017, Intracoastal Waterway Charlotte Harbor to Tampa Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11425	Change	New Pass Entrance Light NP	Q 16ft 4M "NP"	N 27 18' 55.113"	W 082 35' 53.168"	27.31531	-82.5981	LNM 26/17, 7th Dist	161	11425_3	6/29/2017
+11425	Change	New Pass Entrance Light 7	Q 16ft 4M "7"	N 27 19' 40.886"	W 082 35' 17.541"	27.32802	-82.5882	LNM 26/17, 7th Dist	161	11425_3	6/29/2017
+11425	Delete	Gasparilla Sound Channel Daybeacon 22	R "22"	N 26 49' 40.876"	W 082 16' 17.459"	26.82802	-82.27151	LNM 26/17, 7th Dist	158	11425_1	6/29/2017
+11425	Add	Bay Heights Daybeacon 1	G "1" Priv	N 26 56' 38.829"	W 082 21' 12.141"	26.94412	-82.35337	LNM 25/17, 7th Dist	158	11425_1	6/29/2017
+11425	Relocate	Siesta Key - Tampa Bay Buoy 38A	R N "38A"	N 27 26' 14.177"	W 082 40' 28.084"	27.43727	-82.67447	LNM 16/17, 7th Dist	161	11425_3	4/27/2017
+11425	Relocate	Siesta Key - Tampa Bay Buoy 39	G C "39"	N 27 26' 13.981"	W 082 40' 29.237"	27.43722	-82.67479	LNM 16/17, 7th Dist	161	11425_3	4/27/2017
+11425	Delete	Gasparilla Island Light	Iso 6s 105ft 10M	N 26 44' 31.275"	W 082 15' 48.377"	26.74202	-82.26344	LNM 15/17, 7th Dist	158	11425_1	4/27/2017
+11425	Delete	Longboat Pass Daybeacon 1	G "1"	N 27 26' 05.560"	W 082 41' 50.380"	27.43488	-82.69733	LNM 12/17, 7th Dist	161	11425_3	4/27/2017
+11425	Delete	Longboat Pass Daybeacon 2	R "2"	N 27 25' 56.232"	W 082 41' 40.045"	27.43229	-82.69446	LNM 12/17, 7th Dist	161	11425_3	4/27/2017
+11425	Delete	Longboat Pass Daybeacon 3	G "3"	N 27 26' 24.900"	W 082 41' 40.510"	27.44025	-82.69459	LNM 12/17, 7th Dist	161	11425_3	4/27/2017
+11425	Relocate	Longboat Pass Danger Shoal Light	Q 16ft 4M	N 27 25' 50.877"	W 082 41' 50.851"	27.4308	-82.69746	LNM 10/17, 7th Dist	161	11425_3	3/16/2017
+11425	Change	New Pass Channel Light NP	Mo (A) 16ft 6M "NP"	N 27 18' 55.113"	W 082 35' 53.168"	27.31531	-82.5981	LNM 06/17, 7th Dist	161	11425_3	2/23/2017
+11425	Delete	Longboat Pass Approach Light LP	Mo (A) 16ft 6M "LP"	N 27 25' 50.747"	W 082 41' 40.341"	27.43076	-82.69454	LNM 05/17, 7th Dist	161	11425_3	2/9/2017
+11425	Add	Longboat Pass Channel Approach Lighted Buoy LP	RW "LP" Mo (A)	N 27 26' 06.005"	W 082 42' 10.046"	27.435	-82.70279	LNM 05/17, 7th Dist	161	11425_3	2/9/2017
+11425	Add	Longboat Pass Danger Shoal Light	Q 16ft 4M	N 27 25' 50.747"	W 082 41' 40.341"	27.43076	-82.69454	LNM 05/17, 7th Dist	161	11425_3	2/9/2017
+11425	Delete	Depth Note - BOCA GRANDE CHANNEL to:	BOCA GRANDE CHANNEL (entering from seaward) Surveyed Oct. 2014 Left quarter...8.0 ft, Middle half...8.0 ft, Right quarter...11.7 ft, Widener...18.5 ft	N 26 43' 33.000"	W 082 17' 39.700"	26.72583	-82.29436	LNM 03/17, 7th Dist	158	11425_1	1/12/2017
+11425	Delete	Note	(see note)	N 26 41' 28.500"	W 082 18' 10.700"	26.69125	-82.30297	LNM 03/17, 7th Dist	158	11425_1	1/12/2017
+11425	Add	Note	(see note E)	N 26 41' 28.500"	W 082 18' 10.700"	26.69125	-82.30297	LNM 03/17, 7th Dist	158	11425_1	1/12/2017
+11425	Delete	Channel Limits PT 1 OF 6	Chart No. 1: I20	N 26 41' 20.980"	W 082 18' 23.910"	26.68916	-82.30664	LNM 03/17, 7th Dist	158	11425_1	1/12/2017
+11425	Delete	Channel Limits PT 2 OF 6	Chart No. 1: I20	N 26 41' 58.470"	W 082 17' 53.920"	26.69958	-82.29831	LNM 03/17, 7th Dist	158	11425_1	1/12/2017
+11425	Delete	Channel Limits PT 3 OF 6	Chart No. 1: I20	N 26 42' 33.960"	W 082 16' 19.800"	26.70943	-82.27216	LNM 03/17, 7th Dist	158	11425_1	1/12/2017
+11425	Delete	Channel Limits PT 4 OF 6	Chart No. 1: I20	N 26 41' 19.200"	W 082 18' 21.000"	26.68867	-82.30583	LNM 03/17, 7th Dist	158	11425_1	1/12/2017
+11425	Delete	Channel Limits PT 5 OF 6	Chart No. 1: I20	N 26 41' 56.170"	W 082 17' 51.400"	26.69894	-82.29761	LNM 03/17, 7th Dist	158	11425_1	1/12/2017
+11425	Delete	Channel Limits PT 6 OF 6	Chart No. 1: I20	N 26 42' 31.340"	W 082 16' 18.370"	26.70871	-82.27177	LNM 03/17, 7th Dist	158	11425_1	1/12/2017
+11425	Add	Note	(see note E)	N 26 42' 41.040"	W 082 16' 22.210"	26.7114	-82.27283	LNM 03/17, 7th Dist	158	11425_1	1/12/2017
+11425	Delete	Channel Limits PT 1 OF 2	Chart No. 1: I20	N 26 41' 44.390"	W 082 18' 00.840"	26.69566	-82.30023	LNM 03/17, 7th Dist	158	11425_1	1/12/2017
+11425	Delete	Channel Limits PT 2 OF 2	Chart No. 1: I20	N 26 42' 02.020"	W 082 17' 35.930"	26.70056	-82.29331	LNM 03/17, 7th Dist	158	11425_1	1/12/2017

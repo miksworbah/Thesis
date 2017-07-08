@@ -1,0 +1,11 @@
+Chart: 14975, Current Edition: 36, Print Date: Oct. /2014, Duluth-Superior Harbor;Upper St. Louis River
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14975	Relocate	DULUTH HARBOR BKW ISOLATED DANGER BUOY	BRB C	N 46 47' 14.412"	W 092 05' 22.603"	46.78734	-92.08961	LNM 24/17, 9th Dist	1538	14975_1	6/15/2017
+14975	Change	Duluth Harbor Basin Traffic Lighted BuoyAIS	RW Mo (A) AIS	N 46 46' 29.573"	W 092 05' 59.364"	46.77488	-92.09982	LNM 50/16, 9th Dist	1538	14975_1	1/19/2017
+14975	Change	tabulation - SUPERIOR HARBOR	tabulation - SUPERIOR HARBOR	N 46 41' 15.000"	W 092 03' 05.000"	46.6875	-92.05139	LNM 10/16, 9th Dist	1538	14975_1	3/10/2016
+14975	Change	tabulation - DULUTH HARBOR	tabulation - DULUTH HARBOR	N 46 47' 04.000"	W 092 08' 56.000"	46.78444	-92.14889	LNM 10/16, 9th Dist	1538	14975_1	3/10/2016
+14975	Change	Duluth Harbor North Pier Light	Iso R 6s 43ft 12 St M 	N 46 46' 51.540"	W 092 05' 17.030"	46.78098	-92.08807	LNM 40/15, 9th Dist	1538	14975_1	10/22/2015
+14975	Change	Duluth Harbor South Breakwater Outer Light	F G 44ft 16 St M HORN 	N 46 46' 48.460"	W 092 05' 15.020"	46.78013	-92.08751	LNM 40/15, 9th Dist	1538	14975_1	10/22/2015
+14975	Change	Superior Entry Inner North Pierhead Light 2A	Iso R 6s 35ft 7 St M "2A"	N 46 42' 30.920"	W 092 00' 49.200"	46.70859	-92.01366	LNM 31/15, 9th Dist	1538	14975_1	8/20/2015
+14975	Change	tabulation - DULUTH HARBOR	tabulation - DULUTH HARBOR	N 46 47' 04.000"	W 092 08' 56.000"	46.78444	-92.14889	LNM 41/14, 9th Dist	1538	14975_1	10/16/2014
+14975	Change	tabulation - SUPERIOR HARBOR	tabulation - SUPERIOR HARBOR	N 46 41' 15.000"	W 092 03' 05.000"	46.6875	-92.05139	LNM 41/14, 9th Dist	1538	14975_1	10/16/2014

@@ -1,0 +1,74 @@
+Chart: 11013, Current Edition: 48, Print Date: Feb. /2012, Straits of Florida and Approaches
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11013	Change	Dotted Fish Haven Label	Obstn (6 1/2 fms)	N 25 59' 05.700"	W 080 05' 12.700"	25.98492	-80.08686	LNM 12/17, 7th Dist	379	11013_1	3/16/2017
+11013	Change	NOAA Life Support Lighted Buoy Aquarius characteristics to:	Y Fl (4) Y 20s Priv PA	N 24 57' 00.160"	W 080 27' 11.900"	24.95004	-80.45331	LNM 49/16, 7th Dist	379	11013_1	12/1/2016
+11013	Add	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstns, Chart No. 1 K46.2	N 26 39' 51.700"	W 080 01' 13.300"	26.66436	-80.02036	LNM 31/16, 7th Dist	379	11013_1	7/28/2016
+11013	Change	Fowey Rocks Light	Fl 10s 110ft 7M RACON (___)	N 25 35' 26.249"	W 080 05' 48.242"	25.59062	-80.09673	LNM 10/16, 7th Dist	379	11013_1	3/17/2016
+11013	Delete	Tennessee Reef East Lighted Buoy 18	R "18" Fl R 2.5s	N 24 47' 32.496"	W 080 41' 36.228"	24.79236	-80.6934	LNM 51/15, 7th Dist	379	11013_1	12/31/2015
+11013	Delete	Sounding in Fathoms with Basket	10	N 27 22' 58.120"	W 080 04' 11.240"	27.38281	-80.06979	LNM 41/15, 7th Dist	379	11013_1	10/8/2015
+11013	Change	Dotted Fish Haven Label to:	Obstn (8 fms)	N 27 23' 49.060"	W 080 01' 54.010"	27.39696	-80.03167	LNM 41/15, 7th Dist	379	11013_1	10/8/2015
+11013	Add	Dotted Fish Haven Label	Obstn (10 fms)	N 27 23' 05.900"	W 080 01' 07.070"	27.38497	-80.01863	LNM 41/15, 7th Dist	379	11013_1	10/8/2015
+11013	Add	Dotted Fish Haven PT 1 OF 3	(Chart No. 1: K46.2)	N 27 24' 45.590"	W 080 00' 19.270"	27.41266	-80.00536	LNM 41/15, 7th Dist	379	11013_1	10/8/2015
+11013	Add	Dotted Fish Haven PT 2 OF 3	(Chart No. 1: K46.2)	N 27 24' 50.980"	W 080 00' 01.800"	27.41416	-80.0005	LNM 41/15, 7th Dist	379	11013_1	10/8/2015
+11013	Add	Dotted Fish Haven PT 3 OF 3	(Chart No. 1: K46.2)	N 27 23' 56.400"	W 080 00' 01.190"	27.399	-80.00033	LNM 41/15, 7th Dist	379	11013_1	10/8/2015
+11013	Delete	Dotted Fish Haven PT 1 OF 2	(Chart No. 1 K46.2)	N 27 24' 45.590"	W 080 00' 19.270"	27.41266	-80.00536	LNM 41/15, 7th Dist	379	11013_1	10/8/2015
+11013	Delete	Dotted Fish Haven PT 2 OF 2	(Chart No. 1 K46.2)	N 27 23' 56.400"	W 080 00' 01.190"	27.399	-80.00033	LNM 41/15, 7th Dist	379	11013_1	10/8/2015
+11013	Delete	Dry Tortugas Light	Fl 20s 151ft 20M RACON (_._)	N 24 38' 00.021"	W 082 55' 13.958"	24.63334	-82.92055	LNM 38/15, 7th Dist	379	11013_1	9/24/2015
+11013	Add	Abandoned Light House	TOWER (ABAND LT HO)	N 24 38' 00.021"	W 082 55' 13.958"	24.63334	-82.92055	LNM 38/15, 7th Dist	379	11013_1	9/24/2015
+11013	Delete	Alligator Reef Light	Fl (4) 60s 136ft 13M RACON (__-)	N 24 51' 06.435"	W 080 37' 07.857"	24.85179	-80.61885	LNM 36/15, 7th Dist	379	11013_1	9/17/2015
+11013	Add	Abandoned Light House	TOWER (ABAND LT HO)	N 24 51' 06.435"	W 080 37' 07.857"	24.85179	-80.61885	LNM 36/15, 7th Dist	379	11013_1	9/17/2015
+11013	Add	Alligator Reef Light	Fl (4) 60s 16ft 7M	N 24 51' 04.754"	W 080 37' 03.754"	24.85132	-80.61771	LNM 36/15, 7th Dist	379	11013_1	9/17/2015
+11013	Delete	American Shoal Light	Fl (3) 15s 109ft 10M RACON (_-__)	N 24 31' 30.422"	W 081 31' 09.898"	24.52512	-81.51942	LNM 36/15, 7th Dist	379	11013_1	9/17/2015
+11013	Add	Abandoned Light House	TOWER (ABAND LT HO)	N 24 31' 30.422"	W 081 31' 09.898"	24.52512	-81.51942	LNM 36/15, 7th Dist	379	11013_1	9/17/2015
+11013	Add	American Shoal Light	Fl (4) 60s 19ft 7M	N 24 31' 32.493"	W 081 31' 02.576"	24.52569	-81.51738	LNM 36/15, 7th Dist	379	11013_1	9/17/2015
+11013	Relocate	Sombrero Key Light	Fl (5) 60s 19ft 7M	N 24 37' 39.900"	W 081 06' 30.841"	24.62775	-81.10857	LNM 33/15, 7th Dist	379	11013_1	8/20/2015
+11013	Add	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn Fish Haven (auth min 9 fms), Chart No. 1 K46.2	N 25 54' 15.040"	W 082 14' 21.700"	25.90418	-82.23936	LNM 34/15, 7th Dist	379	11013_1	8/20/2015
+11013	Delete	Sombrero Key Light	Fl (5) 60s 142ft 12M RACON (__)	N 24 37' 40.240"	W 081 06' 38.927"	24.62784	-81.11081	LNM 31/15, 7th Dist	379	11013_1	8/13/2015
+11013	Add	Sombrero Key Light	Fl (5) 60s 19ft 7M	N 24 37' 40.080"	W 081 06' 31.260"	24.6278	-81.10868	LNM 31/15, 7th Dist	379	11013_1	8/13/2015
+11013	Delete	Coalbin Rock Buoy CB	RG N "CB"	N 24 27' 03.518"	W 082 05' 17.751"	24.45098	-82.08826	LNM 29/15, 7th Dist	379	11013_1	7/30/2015
+11013	Delete	Marquesas Rock Buoy MR	RG N "MR"	N 24 27' 29.751"	W 082 12' 27.962"	24.45826	-82.20776	LNM 29/15, 7th Dist	379	11013_1	7/30/2015
+11013	Delete	Key West Southwest Channel Lighted Buoy SW	RW "SW" Mo (A)	N 24 26' 38.547"	W 081 58' 47.341"	24.44404	-81.97982	LNM 29/15, 7th Dist	379	11013_1	7/30/2015
+11013	Add	Miami Lighted Buoy M Magenta Circle	RW "M" Mo (A) RACON (--) AIS	N 25 46' 05.916"	W 080 04' 59.936"	25.76831	-80.08331	LNM 08/15, 7th Dist	379	11013_1	3/5/2015
+11013	Add	Port Everglades Lighted Buoy PE Magenta Circle	RW "PE" Mo (A) RACON (-) AIS	N 26 05' 30.288"	W 080 04' 45.871"	26.09175	-80.07941	LNM 08/15, 7th Dist	379	11013_1	3/5/2015
+11013	Add	Key West Entrance Lighted Whistle Buoy KW Magenta Circle	RW "KW" Mo (A) WHISTLE AIS	N 24 27' 25.815"	W 081 47' 59.974"	24.45717	-81.8	LNM 08/15, 7th Dist	379	11013_1	3/5/2015
+11013	Add	Pulaski Shoal Light Magenta Circle	Fl 6s 56ft 9M AIS	N 24 41' 36.021"	W 082 46' 22.786"	24.69334	-82.77299	LNM 08/15, 7th Dist	379	11013_1	3/5/2015
+11013	Add	Lake Worth Lighted Buoy LW Magenta Circle	RW "LW" Mo (A) AIS	N 26 46' 21.577"	W 080 00' 36.215"	26.77266	-80.01006	LNM 08/15, 7th Dist	379	11013_1	3/5/2015
+11013	Add	Submarine Cable  PT 1 OF 3	Chart No. 1: L30.1	N 28 01' 45.700"	W 075 13' 41.590"	28.02936	-75.22822	LNM 51/14, 7th Dist	379	11013_1	12/18/2014
+11013	Add	Submarine Cable  PT 2 OF 3	Chart No. 1: L30.1	N 27 19' 37.990"	W 074 17' 44.120"	27.32722	-74.29559	LNM 51/14, 7th Dist	379	11013_1	12/18/2014
+11013	Add	Submarine Cable  PT 3 OF 3	Chart No. 1: L30.1	N 26 40' 23.524"	W 073 17' 14.360"	26.6732	-73.28732	LNM 51/14, 7th Dist	379	11013_1	12/18/2014
+11013	Change	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn (6 fms), Chart No. 1 K46.2	N 27 05' 27.000"	W 080 01' 33.500"	27.09083	-80.02597	LNM 33/14, 7th Dist	379	11013_1	8/14/2014
+11013	Delete	Rebecca Shoal Light	Fl 6s 66ft 6M	N 24 34' 44.484"	W 082 35' 06.776"	24.57902	-82.58521	LNM 31/14, 7th Dist	379	11013_1	8/14/2014
+11013	Add	Abandoned Light House	TOWER (ABAND LT HO)	N 24 34' 44.484"	W 082 35' 06.776"	24.57902	-82.58521	LNM 31/14, 7th Dist	379	11013_1	8/14/2014
+11013	Change	Big Pine Shoal Light 22	Q R 18ft 4M "22"	N 24 34' 06.078"	W 081 19' 32.338"	24.56836	-81.32565	LNM 29/14, 7th Dist	379	11013_1	7/24/2014
+11013	Delete	Carysfort Reef Light	Fl (3) 60s 100ft 13M RACON (_._.)	N 25 13' 18.735"	W 080 12' 41.106"	25.22187	-80.21142	LNM 26/14, 7th Dist	379	11013_1	7/17/2014
+11013	Add	Abandoned Light House	TOWER (ABAND LT HO)	N 25 13' 18.735"	W 080 12' 41.106"	25.22187	-80.21142	LNM 26/14, 7th Dist	379	11013_1	7/17/2014
+11013	Delete	Sand Key Light	Fl (2) 15s 109ft 11M RACON (_.)	N 24 27' 20.941"	W 081 52' 38.313"	24.45582	-81.87731	LNM 26/14, 7th Dist	379	11013_1	7/17/2014
+11013	Add	Abandoned Light House	TOWER (ABAND LT HO)	N 24 27' 20.941"	W 081 52' 38.313"	24.45582	-81.87731	LNM 26/14, 7th Dist	379	11013_1	7/17/2014
+11013	Add	Carysfort Reef Light	Fl (3) 60s 40ft 13M	N 25 13' 36.890"	W 080 12' 33.221"	25.22691	-80.20923	LNM 26/14, 7th Dist	379	11013_1	7/17/2014
+11013	Add	Sand Key Light	Fl (2) 15s 40ft 13M	N 24 27' 20.941"	W 081 52' 38.313"	24.45582	-81.87731	LNM 26/14, 7th Dist	379	11013_1	7/17/2014
+11013	Delete	NOAA ODAS Buoy TMB-3	Y "TMB-3" Fl Y 10s PA	N 23 45' 23.000"	W 076 55' 27.000"	23.75639	-76.92416	LNM 14/14, 7th Dist	379	11013_1	4/3/2014
+11013	Delete	Submerged Obstruction and Danger Curve	PD	N 21 24' 30.000"	W 079 41' 24.000"	21.40833	-79.69	WNM 12/14, NGA	379	11013_1	3/27/2014
+11013	Change	New Ground Rocks Light	Fl 4s 19ft 4M	N 24 39' 59.758"	W 082 26' 38.975"	24.6666	-82.44416	LNM 09/14, 7th Dist	379	11013_1	3/13/2014
+11013	Change	Dry Tortugas Southeast Channel Light 1	Fl G 2.5s 19ft 5M "1"	N 24 35' 37.100"	W 082 52' 25.470"	24.59364	-82.87374	LNM 09/14, 7th Dist	379	11013_1	3/13/2014
+11013	Delete	Obstn	Obstn (82 fms rep)	N 24 55' 34.000"	W 077 50' 20.000"	24.92611	-77.83889	Not Yet Published	379	11013_1	2/20/2014
+11013	Delete	Obstn	Obstn (83 fms rep)	N 24 53' 52.000"	W 077 48' 01.000"	24.89778	-77.80028	Not Yet Published	379	11013_1	2/20/2014
+11013	Delete	Non Dangerous Wreck	PA      Chart No. 1: K29	N 27 15' 58.320"	W 080 00' 59.460"	27.2662	-80.01652	LNM 02/14, 7th Dist	379	11013_1	1/16/2014
+11013	Add	Minimum Size (2mm sq.) Dashed Fish Haven and Label	Fish Haven (auth min 19 fms), Chart No.1: K46.2	N 27 15' 58.320"	W 080 00' 59.460"	27.2662	-80.01652	LNM 02/14, 7th Dist	379	11013_1	1/16/2014
+11013	Change	Directional arrow (use Chart No. 1 M10)	Directional arrow (use Chart No. 1 M10)	N 21 14' 09.160"	W 075 36' 17.900"	21.23588	-75.60497	LNM 39/13, 7th Dist	379	11013_1	9/20/2013
+11013	Change	Directional arrow (use Chart No. 1 M10)	Directional arrow (use Chart No. 1 M10)	N 21 10' 14.170"	W 075 27' 59.200"	21.1706	-75.46645	LNM 39/13, 7th Dist	379	11013_1	9/20/2013
+11013	Change	Directional arrow (use Chart No. 1 M10)	Directional arrow (use Chart No. 1 M10)	N 21 12' 56.000"	W 075 41' 07.800"	21.21556	-75.6855	LNM 39/13, 7th Dist	379	11013_1	9/20/2013
+11013	Change	Directional arrow (use Chart No. 1 M10)	Directional arrow (use Chart No. 1 M10)	N 21 06' 54.100"	W 075 27' 59.200"	21.11503	-75.46645	LNM 39/13, 7th Dist	379	11013_1	9/20/2013
+11013	Relocate	Big Pine Shoal Light 22	Q R 18ft 6M "22"	N 24 34' 06.078"	W 081 19' 32.338"	24.56836	-81.32565	LNM 33/13, 7th Dist	379	11013_1	8/22/2013
+11013	Add	Dangerous Wreck	Wk (Rep 2013)      Chart No. 1: K28	N 26 10' 16.300"	W 082 54' 34.400"	26.17119	-82.90955	LNM 27/13, 7th Dist	379	11013_1	6/29/2013
+11013	Add	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn Fish Haven (auth min 5 3/4 fms), Chart No. 1 K46.2	N 26 41' 58.500"	W 082 35' 43.940"	26.69958	-82.59554	LNM 27/13, 7th Dist	379	11013_1	6/29/2013
+11013	Delete	Triumph Reef Light 2TR	Fl R 2.5s 19ft 5M "2TR"	N 25 28' 45.778"	W 080 06' 54.714"	25.47938	-80.1152	LNM 19/13, 7th Dist	379	11013_1	5/23/2013
+11013	Delete	Turtle Harbor Lighted Whistle Buoy 4	R "4" Fl R 6s  WHIS	N 25 17' 28.420"	W 080 09' 53.172"	25.29123	-80.16477	LNM 19/13, 7th Dist	379	11013_1	5/23/2013
+11013	Delete	Navy Mooring Buoy	Y Strobe Navy	N 27 27' 58.000"	W 080 00' 02.000"	27.46611	-80.00056	WNM 08/13, NGA	379	11013_1	3/11/2013
+11013	Delete	Dotted Fish Haven Label	Obstn Fish Haven (auth min 5 fms)	N 26 06' 50.000"	W 080 04' 09.000"	26.11389	-80.06917	LNM 09/13, 7th Dist	379	11013_1	3/11/2013
+11013	Relocate	Marquesas Rock Buoy MR	RG N "MR" 	N 24 27' 29.751"	W 082 12' 27.962"	24.45826	-82.20776	LNM 44/12, 7th Dist	379	11013_1	11/20/2012
+11013	Add	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn Fish Haven (auth min 6 1/2 fms)	N 25 04' 11.000"	W 080 18' 43.100"	25.06972	-80.31197	LNM 46/12, 7th Dist	379	11013_1	11/7/2012
+11013	Add	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstns), Chart No. 1 K46.2	N 26 45' 36.000"	W 080 01' 17.000"	26.76	-80.02139	LNM 46/12, 7th Dist	379	11013_1	11/5/2012
+11013	Delete	Non-Dangerous Obstruction	Obstn	N 26 00' 00.000"	W 085 09' 12.000"	26	-85.15334	WNM 35/12, NGA	379	11013_1	9/4/2012
+11013	Delete	Dangerous Wreck	PA      	N 24 46' 29.817"	W 082 08' 29.316"	24.77495	-82.14148	LNM 35/12, 7th Dist	379	11013_1	8/23/2012
+11013	Delete	Dangerous Wreck	PD	N 24 47' 25.160"	W 082 02' 59.621"	24.79032	-82.0499	LNM 35/12, 7th Dist	379	11013_1	8/23/2012
+11013	Delete	Dangerous Wreck	PA    	N 24 50' 01.365"	W 082 03' 00.746"	24.83371	-82.05021	LNM 35/12, 7th Dist	379	11013_1	8/23/2012

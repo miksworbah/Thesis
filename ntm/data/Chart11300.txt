@@ -1,0 +1,155 @@
+Chart: 11300, Current Edition: 43, Print Date: Sep. /2011, Galveston to Rio Grande
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11300	Add	Dangerous Wreck	PA     Chart No. 1: K28	N 28 52' 48.000"	W 094 27' 12.000"	28.88	-94.45333	LNM 26/17, 8th Dist	178	11300_1	Not Yet
+11300	Delete	Platform (Texaco-195-9)	Chart No. 1: L10	N 28 00' 42.529"	W 094 21' 19.216"	28.01181	-94.35534	LNM 21/17, 8th Dist	178	11300_1	6/8/2017
+11300	Delete	Platform (Texaco-999-2)	Chart No. 1: L10	N 27 38' 07.000"	W 096 33' 29.000"	27.63528	-96.55805	LNM 20/17, 8th Dist	178	11300_1	6/1/2017
+11300	Delete	Platform (Chevron-999-2)	Chart No. 1: L10	N 27 38' 07.000"	W 096 33' 29.000"	27.63528	-96.55805	LNM 20/17, 8th Dist	178	11300_1	6/1/2017
+11300	Delete	Channel Limits PT 1 OF 4	Chart No. 1: I20	N 28 54' 17.330"	W 095 15' 55.610"	28.90481	-95.26545	LNM 20/17, 8th Dist	178	11300_1	5/11/2017
+11300	Delete	Channel Limits PT 2 OF 4	Chart No. 1: I20	N 28 55' 30.400"	W 095 17' 11.350"	28.92511	-95.28648	LNM 20/17, 8th Dist	178	11300_1	5/11/2017
+11300	Delete	Channel Limits PT 3 OF 4	Chart No. 1: I20	N 28 54' 24.050"	W 095 15' 48.390"	28.90668	-95.26344	LNM 20/17, 8th Dist	178	11300_1	5/11/2017
+11300	Delete	Channel Limits PT 4 OF 4	Chart No. 1: I20	N 28 55' 33.630"	W 095 17' 08.420"	28.92601	-95.28568	LNM 20/17, 8th Dist	178	11300_1	5/11/2017
+11300	Add	Channel Limits PT 1 OF 4	Chart No. 1: I20	N 28 52' 03.640"	W 095 13' 36.550"	28.86768	-95.22682	LNM 20/17, 8th Dist	178	11300_1	5/11/2017
+11300	Add	Channel Limits PT 2 OF 4	Chart No. 1: I20	N 28 55' 43.240"	W 095 17' 24.780"	28.92868	-95.29021	LNM 20/17, 8th Dist	178	11300_1	5/11/2017
+11300	Add	Channel Limits PT 3 OF 4	Chart No. 1: I20	N 28 52' 07.710"	W 095 13' 31.530"	28.86881	-95.22543	LNM 20/17, 8th Dist	178	11300_1	5/11/2017
+11300	Add	Channel Limits PT 4 OF 4	Chart No. 1: I20	N 28 55' 47.020"	W 095 17' 19.510"	28.92973	-95.28875	LNM 20/17, 8th Dist	178	11300_1	5/11/2017
+11300	Add	Matagorda County Pier Light	Fl 2.5s 18ft Priv	N 28 45' 44.000"	W 095 37' 42.560"	28.76222	-95.62849	LNM 11/17, 8th Dist	178	11300_1	3/23/2017
+11300	Delete	Platform:  (Shell-219-1)	Chart No. 1: L10	N 28 10' 49.000"	W 095 35' 16.000"	28.18028	-95.58778	LNM 50/16, 8th Dist	178	11300_1	12/22/2016
+11300	Delete	Platform:  (Shell-205-3)	Chart No. 1: L10	N 28 10' 17.330"	W 095 34' 27.470"	28.17148	-95.5743	LNM 50/16, 8th Dist	178	11300_1	12/22/2016
+11300	Delete	Platform:  (McMoran-171-1)	Chart No. 1: L10	N 27 11' 10.629"	W 096 48' 19.865"	27.18629	-96.80552	LNM 43/16, 8th Dist	178	11300_1	11/3/2016
+11300	Delete	Platform:  (McMoRan-180-1)	Chart No. 1: L10	N 27 11' 49.994"	W 096 46' 09.622"	27.19722	-96.76934	LNM 41/16, 8th Dist	178	11300_1	10/27/2016
+11300	Delete	Platform:  (McMoran-160-1)	Chart No. 1: L10	N 28 11' 37.824"	W 095 40' 42.168"	28.19384	-95.67838	LNM 40/16, 8th Dist	178	11300_1	10/13/2016
+11300	Delete	Platform:  (McMoran-160-2)	Chart No. 1: L10	N 28 10' 15.715"	W 095 41' 07.476"	28.17103	-95.68541	LNM 40/16, 8th Dist	178	11300_1	10/13/2016
+11300	Add	FR-TX-58 Special Lighted Buoy	Y Fl Y 2.5s Priv	N 26 16' 32.705"	W 097 02' 19.838"	26.27575	-97.03884	LNM 39/16, 8th Dist	178	11300_1	10/6/2016
+11300	Add	Platform:  (Cox-111-2)	Chart No. 1: L10	N 27 56' 47.595"	W 094 23' 51.124"	27.94655	-94.39754	LNM 38/16, 8th Dist	178	11300_1	9/29/2016
+11300	Add	Platform:  (Cox-111-1)	Chart No. 1: L10	N 27 57' 51.406"	W 094 23' 19.863"	27.96428	-94.38885	LNM 37/16, 8th Dist	178	11300_1	9/22/2016
+11300	Relocate	NOAA Lighted Data Buoy 42020	Y ODAS "42020" Fl (4) Y 20s PA	N 26 58' 06.601"	W 096 41' 36.894"	26.9685	-96.69358	LNM 30/16, 8th Dist	178	11300_1	8/11/2016
+11300	Add	Platform: (ExxonMobil-100-02)	Chart No. 1: L10	N 28 02' 28.300"	W 096 35' 09.850"	28.04119	-96.58607	LNM 30/16, 8th Dist	178	11300_1	8/11/2016
+11300	Add	Obstruction in Fathoms	9 1/2 Obstn       Chart No. 1: K41	N 26 47' 58.200"	W 097 09' 15.500"	26.7995	-97.1543	LNM 12/16, 8th Dist	178	11300_1	3/24/2016
+11300	Add	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn Fish Haven (auth min 8 fms), Chart No. 1 K46.2	N 27 53' 40.400"	W 096 25' 47.190"	27.89456	-96.42977	LNM 11/16, 8th Dist	178	11300_1	3/10/2016
+11300	Add	Submerged Obstruction	PA	N 29 10' 41.100"	W 094 41' 57.000"	29.17808	-94.69917	LNM 52/15, 8th Dist	178	11300_1	1/7/2016
+11300	Add	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn Fish Haven (auth min 8 fms), Chart No. 1 K46.2	N 27 56' 12.900"	W 096 20' 04.900"	27.93692	-96.33469	LNM 50/15, 8th Dist	178	11300_1	12/31/2015
+11300	Delete	Platform (Fieldwood-102-5)	Chart No. 1: L10	N 27 56' 07.300"	W 096 20' 09.600"	27.93536	-96.336	LNM 47/15, 8th Dist	178	11300_1	12/10/2015
+11300	Change	Aransas Pass Entrance Lighted Buoy AP	RW "AP" Mo (A) AIS	N 27 47' 34.122"	W 096 57' 22.143"	27.79281	-96.95615	LNM 47/15, 8th Dist	178	11300_1	12/10/2015
+11300	Change	Freeport Entrance Lighted  Buoy FP	RW "FP" Mo (A) AIS	N 28 52' 36.699"	W 095 14' 08.815"	28.87686	-95.23578	LNM 47/15, 8th Dist	178	11300_1	12/10/2015
+11300	Change	Galveston Bay Entrance Lighted Buoy GB	RW "GB" Mo (A) AIS	N 29 14' 44.348"	W 094 32' 41.467"	29.24565	-94.54485	LNM 47/15, 8th Dist	178	11300_1	12/10/2015
+11300	Delete	Platform: (Walter-100-1)	Chart No. 1: L10	N 26 42' 37.139"	W 096 55' 34.845"	26.71032	-96.92635	LNM 44/15, 8th Dist	178	11300_1	11/12/2015
+11300	Add	Submerged Obstruction 	PA	N 28 32' 42.000"	W 094 29' 18.000"	28.545	-94.48833	LNM 44/15, 8th Dist	178	11300_1	11/12/2015
+11300	Delete	Platform: (McMoran-500-11)	Chart No. 1: L10	N 28 07' 38.000"	W 095 42' 56.000"	28.12722	-95.71555	LNM 38/15, 8th Dist	178	11300_1	10/1/2015
+11300	Relocate	Shoreline Ten Wreck Lighted Buoy WR2	R "WR2" Q R	N 28 04' 48.080"	W 096 42' 56.425"	28.08002	-96.71568	LNM 38/15, 8th Dist	178	11300_1	10/1/2015
+11300	Add	Platform (Paragon Offshore-100-8)	Chart No. 1: L10	N 26 05' 47.940"	W 096 52' 29.340"	26.09665	-96.87482	LNM 38/15, 8th Dist	178	11300_1	10/1/2015
+11300	Add	Platform: (Paragon-100-7)	Chart No. 1: L10	N 26 07' 43.200"	W 096 52' 25.800"	26.12867	-96.87383	LNM 37/15, 8th Dist	178	11300_1	9/24/2015
+11300	Add	minimum size (2mm sq.) Dotted Fish Haven	Obstn Fish Haven (auth min 8 fms) Chart No. 1: K46.2	N 28 07' 38.700"	W 095 42' 56.400"	28.12742	-95.71567	LNM 36/15, 8th Dist	178	11300_1	9/3/2015
+11300	Delete	Obstruction	Obstn PA         Chart No. 1: K40	N 28 07' 38.500"	W 095 42' 56.550"	28.12736	-95.71571	LNM 36/15, 8th Dist	178	11300_1	9/3/2015
+11300	Add	Platform (Fieldwood-124-3)	Chart No. 1: L10	N 27 49' 58.709"	W 094 33' 03.006"	27.83298	-94.55083	LNM 33/15, 8th Dist	178	11300_1	9/3/2015
+11300	Add	Platform (Fieldwood-124-4)	Chart No. 1: L10	N 27 49' 38.293"	W 094 37' 33.686"	27.8273	-94.62602	LNM 33/15, 8th Dist	178	11300_1	9/3/2015
+11300	Delete	Platform: (McMoran-600-03)	Chart No. 1: L10	N 28 14' 59.700"	W 094 05' 21.610"	28.24992	-94.08933	LNM 32/15, 8th Dist	178	11300_1	9/3/2015
+11300	Add	Platform (Paragon Offshore-100-6)	Chart No. 1: L10	N 26 06' 21.100"	W 096 52' 30.100"	26.10586	-96.87503	LNM 31/15, 8th Dist	178	11300_1	8/20/2015
+11300	Add	Platform (Paragon Offshore-100-5)	Chart No. 1: L10	N 26 07' 46.550"	W 096 51' 48.000"	26.1296	-96.86333	LNM 29/15, 8th Dist	178	11300_1	7/30/2015
+11300	Add	Platform (Paragon Offshore-100-4)	Chart No. 1: L10	N 26 06' 07.260"	W 096 51' 51.450"	26.10202	-96.86429	LNM 27/15, 8th Dist	178	11300_1	7/16/2015
+11300	Add	Platform: (Paragon Offshore-100-3)	Chart No. 1: L10	N 26 06' 25.000"	W 096 51' 46.000"	26.10695	-96.86278	LNM 25/15, 8th Dist	178	11300_1	7/2/2015
+11300	Add	Platform (Paragon Offshore-100-1)	Chart No. 1: L10	N 26 07' 03.360"	W 096 52' 36.540"	26.1176	-96.87682	LNM 23/15, 8th Dist	178	11300_1	6/18/2015
+11300	Add	Platform (Paragon Offshore-100-2)	Chart No. 1: L10	N 26 07' 01.120"	W 096 51' 47.580"	26.11698	-96.86322	LNM 23/15, 8th Dist	178	11300_1	6/18/2015
+11300	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 28 38' 36.000"	W 094 10' 18.000"	28.64333	-94.17167	WNM 18/15, NGA	178	11300_1	6/18/2015
+11300	Delete	Platform: (McMoran-160-500)	Chart No. 1: L10	N 28 20' 59.855"	W 095 21' 43.870"	28.34996	-95.36218	LNM 22/15, 8th Dist	178	11300_1	6/11/2015
+11300	Delete	Texas A&M Lighted Buoy L	Y "L" Fl Y 4s Priv	N 28 02' 30.000"	W 094 07' 00.000"	28.04167	-94.11667	LNM 19/15, 8th Dist	178	11300_1	5/21/2015
+11300	Delete	Texas A&M Lighted Buoy M	Y "M" Fl Y 4s Priv	N 28 11' 30.000"	W 094 11' 30.000"	28.19167	-94.19167	LNM 19/15, 8th Dist	178	11300_1	5/21/2015
+11300	Delete	Texas A&M Lighted Buoy S	Y "S" Fl Y 4s Priv	N 28 25' 44.000"	W 095 46' 42.000"	28.42889	-95.77834	LNM 19/15, 8th Dist	178	11300_1	5/21/2015
+11300	Delete	Texas A&M Lighted Buoy E	Y "E" Fl Y 4s Priv	N 27 21' 40.000"	W 096 55' 32.000"	27.36111	-96.92555	LNM 19/15, 8th Dist	178	11300_1	5/21/2015
+11300	Delete	Lighted buoy	R, Q R Priv	N 27 11' 12.800"	W 096 48' 19.370"	27.18689	-96.80538	LNM 09/15, 8th Dist	178	11300_1	3/12/2015
+11300	Delete	Racon from platform Mariner 100-1	RACON ( - . . . )	N 29 13' 31.000"	W 094 34' 42.000"	29.22528	-94.57833	LNM 05/15, 8th Dist	178	11300_1	2/12/2015
+11300	Delete	Submerged Obstruction	Obstn PA        Chart No. 1: K40	N 28 39' 42.000"	W 094 23' 18.000"	28.66167	-94.38834	LNM 04/15, 8th Dist	178	11300_1	2/5/2015
+11300	Delete	Platform	Chart No. 1: L10	N 28 51' 30.970"	W 094 53' 01.410"	28.8586	-94.88373	LNM 03/15, 8th Dist	178	11300_1	1/29/2015
+11300	Delete	Platform: (Gom Shelf-100-25)	Chart No. 1: L10	N 28 00' 52.470"	W 095 52' 39.040"	28.01457	-95.87751	LNM 01/15, 8th Dist	178	11300_1	1/15/2015
+11300	Add	Platform: (Fieldwood-120-9)	Chart No. 1: L10	N 28 07' 04.936"	W 096 23' 28.244"	28.11804	-96.39118	LNM 50/14, 8th Dist	178	11300_1	1/1/2015
+11300	Add	Submerged Obstruction  	Obstn PA (Chart No 1: K-40)	N 28 39' 42.000"	W 094 23' 18.000"	28.66167	-94.38834	LNM 47/14, 8th Dist	178	11300_1	12/11/2014
+11300	Add	Submerged Obstn 	(8 1/4 fms rep) Chart No 1: K-40	N 28 07' 38.500"	W 095 42' 56.550"	28.12736	-95.71571	LNM 45/14, 8th Dist	178	11300_1	11/20/2014
+11300	Add	Texas Artificial Reef FR-TX-54 Lighted Buoy	Y Fl Y 2.5s Priv	N 28 07' 38.500"	W 095 42' 56.550"	28.12736	-95.71571	LNM 45/14, 8th Dist	178	11300_1	11/20/2014
+11300	Delete	Iowa State Scientific Monitoring Lighted Buoy A, 	Y "A" Fl Y 2.5s Priv	N 26 13' 10.404"	W 097 05' 58.534"	26.21956	-97.09959	LNM 42/14, 8th Dist	178	11300_1	11/6/2014
+11300	Delete	Getty-107-1 Lighted Buoy	W Or Fl 4s Priv	N 28 19' 55.578"	W 096 12' 00.311"	28.33211	-96.20009	LNM 41/14, 8th Dist	178	11300_1	10/23/2014
+11300	Delete	Platform: (McMoran-500-1)	Chart No 1: L-10	N 27 58' 53.663"	W 094 30' 20.145"	27.98157	-94.50559	LNM 40/14, 8th Dist	178	11300_1	10/23/2014
+11300	Delete	Platform: (ROYAL-104-1)	Chart No 1: L-10	N 28 22' 15.971"	W 095 20' 11.616"	28.3711	-95.33656	LNM 40/14, 8th Dist	178	11300_1	10/23/2014
+11300	Delete	Shell Exploration & Production Lighted Mooring Buoy	Fl 2.5s Priv	N 28 11' 29.232"	W 095 35' 06.258"	28.19145	-95.58508	LNM 39/14, 8th Dist	178	11300_1	10/9/2014
+11300	Add	Submerged Obstruction  	PA: Chart No 1: K-40	N 28 53' 41.500"	W 095 11' 42.200"	28.89486	-95.19505	LNM 35/14, 8th Dist	178	11300_1	9/11/2014
+11300	Add	PORT ARTHUR VTS AREA NOTE E:	The U.S. Coast Guard operates a mandatory Vessel Traffic Service (VTS) on the Sabine -Neches Waterway and offshore approaches. Vessel operating procedures, mandatory participation boundaries, and designated radiotelephone frequencies are published in 33 CFR 161, the U.S. Coast Pilot, and the VTS Port Arthur User Manual. Mariners should consult these sources for applicable rules and reporting requirements. "Port Arthur Traffic" is a full service VTS, providing a continuous Information Service; Traffic Organization Services and Navigational Assistance Services as required. 	N 29 45' 12.900"	W 095 46' 26.900"	29.75358	-95.77414	LNM 37/14, 8th Dist	178	11300_1	9/11/2014
+11300	Add	label:	PORT ARTHUR VTS AREA (see note E) 	N 29 28' 08.100"	W 094 06' 29.900"	29.46892	-94.10831	LNM 37/14, 8th Dist	178	11300_1	9/11/2014
+11300	Delete	Platform: (Hall Houston-129-10)	Chart No. 1: L10	N 28 31' 12.289"	W 094 50' 20.192"	28.52008	-94.83894	LNM 31/14, 8th Dist	178	11300_1	8/14/2014
+11300	Delete	Texas A&M Scientific Monitoring Lighted Buoy A	Y "A" Fl Y 2.5s Priv	N 26 13' 24.624"	W 097 05' 05.652"	26.22351	-97.0849	LNM 26/14, 8th Dist	178	11300_1	7/10/2014
+11300	Add	Texas Fishing Reef FR-TX-53 Lighted Buoy	Y Fl Y 2.5s Priv	N 28 26' 38.430"	W 094 17' 06.160"	28.44401	-94.28504	LNM 15/14, 8th Dist	178	11300_1	4/24/2014
+11300	Add	Obstruction	Obstn PA (cov 10 fms) Rep 2014      Chart No. 1: K40	N 28 26' 38.430"	W 094 17' 06.160"	28.44401	-94.28504	LNM 15/14, 8th Dist	178	11300_1	4/24/2014
+11300	Change	Dotted Fish Haven Label	Obstn Fish Haven (auth min 30 ft/5 fms)	N 27 38' 47.040"	W 097 00' 26.640"	27.6464	-97.0074	LNM 12/14, 8th Dist	178	11300_1	4/3/2014
+11300	Delete	Platform: (SandRidge-110-1)	Chart No. 1: L10	N 28 51' 02.915"	W 094 48' 16.927"	28.85081	-94.8047	LNM 12/14, 8th Dist	178	11300_1	4/3/2014
+11300	Delete	Platform: (Pisces-100-3)	Chart No. 1: L10	N 28 04' 57.810"	W 094 02' 35.989"	28.08273	-94.04333	LNM 11/14, 8th Dist	178	11300_1	3/27/2014
+11300	Delete	Platform: (Pisces-100-1)	Chart No. 1: L10	N 28 06' 14.052"	W 094 02' 53.402"	28.1039	-94.04816	LNM 11/14, 8th Dist	178	11300_1	3/27/2014
+11300	Add	Shell Exploration & Production Lighted Mooring Buoy	Fl 2.5s Priv	N 28 11' 29.232"	W 095 35' 06.258"	28.19145	-95.58508	LNM 08/14, 8th Dist	178	11300_1	3/6/2014
+11300	Add	Minimum Size (2mm sq.) Dashed Fish Haven and Label	Fish Haven (auth min 14 fms), Chart No.1: K46.2	N 28 21' 50.000"	W 094 09' 23.000"	28.36389	-94.15639	LNM 52/13, 8th Dist	178	11300_1	12/20/2013
+11300	Delete	Platform: (Mcmoran-127-7)	Chart No. 1: L10	N 27 38' 25.012"	W 096 39' 49.972"	27.64028	-96.66388	LNM 50/13, 8th Dist	178	11300_1	12/13/2013
+11300	Delete	Platform: (El Paso-140-8)	Chart No. 1: L10	N 28 26' 30.000"	W 094 08' 24.000"	28.44167	-94.14	LNM 50/13, 8th Dist	178	11300_1	12/13/2013
+11300	Delete	Platform: (Apache-115-47)	Chart No. 1: L10	N 28 26' 59.999"	W 094 09' 24.000"	28.45	-94.15667	LNM 50/13, 8th Dist	178	11300_1	12/13/2013
+11300	Delete	Platform: (Pogo-100-1)	Chart No. 1: L10	N 28 22' 18.000"	W 094 19' 42.000"	28.37167	-94.32833	LNM 50/13, 8th Dist	178	11300_1	12/13/2013
+11300	Delete	Platform: (Beryl-104-3)	Chart No. 1: L10	N 28 21' 54.000"	W 094 07' 42.000"	28.365	-94.12833	LNM 50/13, 8th Dist	178	11300_1	12/13/2013
+11300	Delete	Platform: (Beryl-104-1)	Chart No. 1: L10	N 28 21' 42.000"	W 094 09' 18.000"	28.36167	-94.155	LNM 50/13, 8th Dist	178	11300_1	12/13/2013
+11300	Add	Visible Obstruction	Obstn PA      Chart No. 1: F22	N 28 32' 30.000"	W 095 48' 00.000"	28.54167	-95.8	LNM 45/13, 8th Dist	178	11300_1	11/8/2013
+11300	Delete	Platform: (Arena Offshore-113-2)	Chart No. 1: L10	N 28 07' 41.071"	W 094 11' 00.709"	28.12807	-94.18353	LNM 45/13, 8th Dist	178	11300_1	11/8/2013
+11300	Delete	Platform: (Pisces-100-2)	Chart No. 1: L10	N 28 04' 17.544"	W 094 03' 52.473"	28.07154	-94.06458	LNM 44/13, 8th Dist	178	11300_1	11/4/2013
+11300	Add	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn Fish Haven (auth min 8 fms), Chart No. 1 K46.2	N 27 38' 47.010"	W 097 00' 26.420"	27.64639	-97.00734	LNM 43/13, 8th Dist	178	11300_1	10/16/2013
+11300	Delete	Obstruction	Obstn PA         Chart No. 1: K40	N 27 38' 47.010"	W 097 00' 26.420"	27.64639	-97.00734	LNM 43/13, 8th Dist	178	11300_1	10/16/2013
+11300	Delete	Platform: (Apache-111-25)	Chart No. 1: L10	N 28 10' 51.589"	W 095 28' 58.656"	28.181	-95.48296	LNM 41/13, 8th Dist	178	11300_1	10/11/2013
+11300	Delete	Platform: (EnVen-109-1)	Chart No. 1: L10	N 26 57' 28.625"	W 096 48' 36.983"	26.95795	-96.81027	LNM 40/13, 8th Dist	178	11300_1	10/4/2013
+11300	Delete	Platform: (Enven-110-1)	Chart No. 1: L10	N 27 45' 35.010"	W 096 38' 32.973"	27.75973	-96.64249	LNM 40/13, 8th Dist	178	11300_1	10/4/2013
+11300	Delete	Platform: (Apache-161-1)	Chart No. 1: L10	N 28 05' 38.579"	W 096 22' 46.733"	28.09405	-96.37965	LNM 40/13, 8th Dist	178	11300_1	10/4/2013
+11300	Delete	Platform: (Apache-115-17)	Chart No. 1: L10	N 28 02' 16.652"	W 094 23' 40.168"	28.03796	-94.39449	LNM 35/13, 8th Dist	178	11300_1	9/3/2013
+11300	Delete	Merit-113-3 Lighted Buoy	R Q R Priv	N 28 59' 10.000"	W 094 53' 25.000"	28.98611	-94.89027	LNM 33/13, 8th Dist	178	11300_1	8/16/2013
+11300	Add	Iowa State Scientific Monitoring Lighted Buoy A	Y "A" Fl Y 2.5s Priv	N 26 13' 10.404"	W 097 05' 58.534"	26.21956	-97.09959	LNM 33/13, 8th Dist	178	11300_1	8/16/2013
+11300	Add	Texas A&M Scientific Monitoring Lighted Buoy A	Y "A" Fl Y 2.5s Priv	N 26 13' 24.624"	W 097 05' 05.652"	26.22351	-97.0849	LNM 31/13, 8th Dist	178	11300_1	8/5/2013
+11300	Delete	Platform: (Apache-106-2)	Chart No. 1: L10	N 27 09' 16.995"	W 096 50' 50.770"	27.15472	-96.84743	LNM 27/13, 8th Dist	178	11300_1	7/8/2013
+11300	Add	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn Fish Haven (auth min 8 fms), Chart No. 1 K46.2	N 26 31' 32.100"	W 097 09' 12.922"	26.52558	-97.15359	LNM 28/13, 8th Dist	178	11300_1	6/29/2013
+11300	Delete	Obstruction	Obstn PA (8 fms rep)         Chart No. 1: K40	N 26 31' 32.100"	W 097 09' 12.900"	26.52558	-97.15358	LNM 28/13, 8th Dist	178	11300_1	6/29/2013
+11300	Add	Texas A&M Lighted Oceanographic Buoy X	Y "X" Fl Y 2.5s Priv	N 27 03' 57.730"	W 096 20' 17.760"	27.06604	-96.33826	LNM 15/13, 8th Dist	178	11300_1	4/15/2013
+11300	Delete	Platform: (Apache-110-8)	Chart No. 1: L10	N 27 41' 47.206"	W 096 34' 49.350"	27.69645	-96.58038	LNM 12/13, 8th Dist	178	11300_1	3/22/2013
+11300	Delete	Platform: (Hunt-109-2)	Chart No. 1: L10	N 28 00' 28.000"	W 094 17' 20.000"	28.00778	-94.28889	LNM 11/13, 8th Dist	178	11300_1	3/18/2013
+11300	Add	Submerged Obstruction	Obstn PA      Chart No. 1: K40	N 28 43' 12.000"	W 094 36' 36.000"	28.72	-94.61	LNM 10/13, 8th Dist	178	11300_1	3/13/2013
+11300	Delete	Obstruction in Fathoms	7 1/4 Obstn       Chart No. 1: K41	N 29 16' 51.640"	W 094 32' 50.880"	29.28101	-94.54747	LNM 07/13, 8th Dist	178	11300_1	2/11/2013
+11300	Relocate	Matagorda Ship Channel Entrance Light	Fl 10s 64ft 5M	N 28 25' 18.466"	W 096 19' 05.915"	28.4218	-96.31831	LNM 02/13, 8th Dist	178	11300_1	1/23/2013
+11300	Change	Matagorda Ship Channel Entrance Light	Fl 10s 64ft 5M	N 28 25' 18.466"	W 096 19' 05.915"	28.4218	-96.31831	LNM 02/13, 8th Dist	178	11300_1	1/23/2013
+11300	Delete	Platform: (Prime-102-2)	Chart No. 1: L10	N 26 25' 56.570"	W 096 52' 43.769"	26.43238	-96.87882	LNM 42/12, 8th Dist	178	11300_1	10/24/2012
+11300	Delete	Platform (Prime-104-1)	Platform	N 26 09' 02.573"	W 096 52' 51.670"	26.15071	-96.88102	LNM 40/12, 8th Dist	178	11300_1	10/10/2012
+11300	Delete	Platform: (Mcmoran-146-1)	Chart No. 1: L10	N 28 11' 11.000"	W 094 09' 00.230"	28.18639	-94.15006	LNM 39/12, 8th Dist	178	11300_1	10/1/2012
+11300	Delete	Platform:(Atp-113-1)	Chart No. 1: L10	N 27 52' 16.680"	W 096 23' 25.984"	27.8713	-96.39055	LNM 39/12, 8th Dist	178	11300_1	10/1/2012
+11300	Add	Dangerous Wreck	PA      Chart No. 1: K28	N 27 45' 00.000"	W 097 01' 19.000"	27.75	-97.02194	LNM 31/12, 8th Dist	178	11300_1	8/13/2012
+11300	Delete	Platform (Prime-103-10)	Chart No. 1: L10	N 26 14' 30.137"	W 096 52' 54.241"	26.2417	-96.88174	LNM 22/12, 8th Dist	178	11300_1	6/5/2012
+11300	Delete	Platform (Prime-103-11)	Chart No. 1: L10	N 26 27' 14.737"	W 096 50' 32.256"	26.45409	-96.84229	LNM 22/12, 8th Dist	178	11300_1	6/5/2012
+11300	Delete	Platform	Chart No. 1 L10	N 28 09' 03.400"	W 094 05' 38.400"	28.15094	-94.094	LNM 19/12, 8th Dist	178	11300_1	5/3/2012
+11300	Add	Minimum Size (2mm sq.) Dashed Fish Haven and Label	Fish Haven (auth min 14 fms), Chart No.1 K46.2	N 28 09' 04.000"	W 094 05' 34.000"	28.15111	-94.09278	LNM 19/12, 8th Dist	178	11300_1	5/3/2012
+11300	Change	Note H	NOTE H  The U.S. Coast Guard operates a mandatory Vessel Traffic Services (VTS) system in the Houston, Galveston, and Texas City waterways. Vessel operating procedures and designated radiotelephone frequencies are published in 33 CFR 161; Chapter 2 U.S. Coast Pilot; and/or the VTS User's Manual. Mariners should consult these sources for applicable rules and reporting requirements. 'Houston Traffic' is a full service VTS, providing a continuous Information Service; Traffic Organization Services as requisite; and Navigation Assistance Service upon request.	N 29 57' 11.000"	W 094 36' 09.000"	29.95306	-94.6025	LNM 12/12, 8th Dist	178	11300_1	3/12/2012
+11300	Add	Submarine Pipeline  PT 1 OF 4	Chart No. 1: L40.1	N 27 23' 49.311"	W 094 28' 35.801"	27.39703	-94.47661	LNM 09/12, 8th Dist	178	11300_1	2/28/2012
+11300	Add	Submarine Pipeline  PT 2 OF 4	Chart No. 1: L40.1	N 27 23' 08.128"	W 094 27' 58.431"	27.38559	-94.46623	LNM 09/12, 8th Dist	178	11300_1	2/28/2012
+11300	Add	Submarine Pipeline  PT 3 OF 4	Chart No. 1: L40.1	N 27 22' 36.305"	W 094 27' 52.670"	27.37675	-94.46463	LNM 09/12, 8th Dist	178	11300_1	2/28/2012
+11300	Add	Submarine Pipeline  PT 4 OF 4	Chart No. 1: L40.1	N 27 22' 03.114"	W 094 28' 03.902"	27.36753	-94.46775	LNM 09/12, 8th Dist	178	11300_1	2/28/2012
+11300	Add	Submarine Pipeline  PT 1 OF 2	Chart No. 1: L40.1	N 27 24' 37.153"	W 094 27' 50.764"	27.41032	-94.4641	LNM 09/12, 8th Dist	178	11300_1	2/28/2012
+11300	Add	Submarine Pipeline  PT 2 OF 2	Chart No. 1: L40.1	N 27 23' 49.491"	W 094 28' 35.801"	27.39708	-94.47661	LNM 09/12, 8th Dist	178	11300_1	2/28/2012
+11300	Delete	Platform (Mariner-101-6)	Chart No. 1: L10	N 28 18' 29.786"	W 095 26' 10.957"	28.30827	-95.43638	LNM 06/12, 8th Dist	178	11300_1	2/13/2012
+11300	Add	Submarine Pipeline  PT 1 OF 6	Chart No. 1: L40.1	N 27 19' 31.140"	W 094 40' 52.890"	27.32532	-94.68136	LNM 05/12, 8th Dist	178	11300_1	1/30/2012
+11300	Add	Submarine Pipeline  PT 2 OF 6	Chart No. 1: L40.1	N 27 22' 59.790"	W 094 41' 55.530"	27.38327	-94.69876	LNM 05/12, 8th Dist	178	11300_1	1/30/2012
+11300	Add	Submarine Pipeline  PT 3 OF 6	Chart No. 1: L40.1	N 27 22' 56.260"	W 094 42' 15.260"	27.38229	-94.70424	LNM 05/12, 8th Dist	178	11300_1	1/30/2012
+11300	Add	Submarine Pipeline  PT 4 OF 6	Chart No. 1: L40.1	N 27 23' 03.930"	W 094 42' 17.420"	27.38442	-94.70484	LNM 05/12, 8th Dist	178	11300_1	1/30/2012
+11300	Add	Submarine Pipeline  PT 5 OF 6	Chart No. 1: L40.1	N 27 23' 10.840"	W 094 41' 57.080"	27.38634	-94.69919	LNM 05/12, 8th Dist	178	11300_1	1/30/2012
+11300	Add	Submarine Pipeline  PT 6 OF 6	Chart No. 1: L40.1	N 27 23' 55.980"	W 094 42' 10.120"	27.39888	-94.70281	LNM 05/12, 8th Dist	178	11300_1	1/30/2012
+11300	Add	Submarine Pipeline  PT 1 OF 2	Chart No. 1: L40.1	N 27 23' 55.980"	W 094 42' 10.120"	27.39888	-94.70281	LNM 05/12, 8th Dist	178	11300_1	1/30/2012
+11300	Add	Submarine Pipeline  PT 2 OF 2	Chart No. 1: L40.1	N 27 21' 13.950"	W 094 37' 31.970"	27.35387	-94.62555	LNM 05/12, 8th Dist	178	11300_1	1/30/2012
+11300	Add	Non Dangerous Wreck	PA      Chart No. 1: K29	N 28 03' 50.900"	W 095 38' 58.800"	28.06414	-95.64967	LNM 49/11, 8th Dist	178	11300_1	12/13/2011
+11300	Delete	Platform (Mariner-101-5)	Chart No. 1: L10	N 28 19' 25.283"	W 095 27' 20.002"	28.32369	-95.45556	LNM 48/11, 8th Dist	178	11300_1	12/8/2011
+11300	Delete	Platform (Noble Energy-100-3)	Chart No. 1: L10	N 28 03' 45.902"	W 095 38' 51.558"	28.06275	-95.64765	LNM 47/11, 8th Dist	178	11300_1	11/29/2011
+11300	Delete	Platform (Noble Energy-100-4)	Chart No. 1: L10	N 28 03' 10.981"	W 095 37' 59.218"	28.05305	-95.63312	LNM 47/11, 8th Dist	178	11300_1	11/29/2011
+11300	Change	Colorado River East Jetty Entrance Light 2	Fl R 2.5s 17ft 4M "2"	N 28 35' 27.720"	W 095 58' 57.498"	28.59103	-95.98264	LNM 45/11, 8th Dist	178	11300_1	11/15/2011
+11300	Relocate	Colorado River East Jetty Entrance Light 2	Fl R 2.5s 17ft 4M "2"	N 28 35' 27.720"	W 095 58' 57.498"	28.59103	-95.98264	LNM 45/11, 8th Dist	178	11300_1	11/15/2011
+11300	Delete	Platform: (Mariner-101-4)	Chart No. 1: L10	N 27 52' 00.991"	W 096 02' 00.280"	27.86694	-96.03341	LNM 44/11, 8th Dist	178	11300_1	11/9/2011
+11300	Delete	Platform (Helis-105-8)	Chart No. 1: L10	N 28 51' 44.071"	W 094 28' 07.861"	28.86224	-94.46885	LNM 44/11, 8th Dist	178	11300_1	11/9/2011
+11300	Delete	Peregrine-103-2 Lighted Buoy	W Or Fl 2.5s Priv	N 28 11' 38.750"	W 094 45' 50.370"	28.1941	-94.76399	LNM 43/11, 8th Dist	178	11300_1	11/3/2011
+11300	Add	Platform: (Peregrine-201-1)	Chart No. 1: L10	N 28 11' 38.752"	W 094 45' 50.371"	28.1941	-94.76399	LNM 43/11, 8th Dist	178	11300_1	11/3/2011
+11300	Delete	Well	Well (cov 174 ft/29 fms)     Chart No. 1: L20	N 28 11' 38.750"	W 094 45' 50.370"	28.1941	-94.76399	LNM 43/11, 8th Dist	178	11300_1	11/3/2011
+11300	Delete	Energy Resource-106-10 Lighted Buoy	W Or Fl 2.5s Priv	N 28 03' 13.876"	W 094 02' 48.292"	28.05385	-94.04675	LNM 42/11, 8th Dist	178	11300_1	10/26/2011
+11300	Delete	Well	Well (cov 36 fms)	N 28 03' 13.876"	W 094 02' 48.292"	28.05385	-94.04675	LNM 42/11, 8th Dist	178	11300_1	10/26/2011
+11300	Delete	Platform (Mcmoran-102-1)	Chart No. 1: L10	N 28 08' 25.765"	W 095 43' 19.306"	28.14049	-95.72203	LNM 41/11, 8th Dist	178	11300_1	10/20/2011
+11300	Delete	Platform (Mcmoran-104-1)	Chart No. 1: L10	N 28 15' 45.230"	W 094 03' 51.016"	28.26256	-94.06417	LNM 40/11, 8th Dist	178	11300_1	10/13/2011
+11300	Delete	Plaform: (Enron 106-6)	Chart No. 1: L10	N 27 43' 49.778"	W 096 32' 06.973"	27.73049	-96.53527	LNM 40/11, 8th Dist	178	11300_1	10/13/2011
+11300	Delete	Platform (Mcmoran-104-1)	Chart No. 1: L10	N 28 17' 04.000"	W 094 02' 41.000"	28.28444	-94.04472	LNM 40/11, 8th Dist	178	11300_1	10/13/2011

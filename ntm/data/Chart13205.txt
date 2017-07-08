@@ -1,0 +1,4 @@
+Chart: 13205, Current Edition: 41, Print Date: Feb. /2017, Block Island Sound and Approaches
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+13205	Change	BLOCK ISLAND BKW LIGHT 3	Q G 27ft 6M "3" HORN (MRASS)	N 41 10' 38.492"	W 071 33' 14.538"	41.17736	-71.55404	LNM 24/17, 1st Dist	2150	13205_1	6/22/2017
+13205	Delete	NEBRASKA SHOAL BUOY 2NS	R N "2NS"	N 41 20' 58.748"	W 071 34' 30.156"	41.34965	-71.57504	LNM 19/17, 1st Dist	2150	13205_1	5/18/2017

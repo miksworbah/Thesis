@@ -1,0 +1,11 @@
+Chart: 18640, Current Edition: 27, Print Date: Oct. /2015, San Francisco to Point Arena
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18640	Relocate	NOAA Environmental Buoy 46013	Y "46013" Fl (4) Y 20s	N 38 14' 17.031"	W 123 18' 26.606"	38.23806	-123.3074	LNM 32/16, 11th Dist	1816	18640_1	8/18/2016
+18640	Change	NOAA Environmental Buoy 46013	Y "46013" Fl (4) Y 20s	N 38 14' 17.031"	W 123 18' 26.606"	38.23806	-123.3074	LNM 32/16, 11th Dist	1816	18640_1	8/18/2016
+18640	Relocate	Noonday Rock Lighted Bell Buoy 28	R "28" Fl R 4s BELL	N 37 47' 31.670"	W 123 10' 40.491"	37.79213	-123.1779	LNM 31/16, 11th Dist	1816	18640_1	8/11/2016
+18640	Change	Point Bonita Light	Oc 4s 124ft 18M HORN MRASS (see note K) AIS	N 37 48' 56.120"	W 122 31' 46.266"	37.81559	-122.5295	LNM 05/16, 11th Dist	1816	18640_1	2/11/2016
+18640	Change	Point Arena Light	Fl 15s 155ft 14M	N 38 57' 17.127"	W 123 44' 26.158"	38.95476	-123.7406	LNM 41/15, 11th Dist	1816	18640_1	10/22/2015
+18640	Relocate	Point Arena Light	Fl 15s 155ft 14M	N 38 57' 17.127"	W 123 44' 26.158"	38.95476	-123.7406	LNM 41/15, 11th Dist	1816	18640_1	10/22/2015
+18640	Change	Point Bonita Light	Oc 4s 124ft 18M HORN MRASS (see Note K)	N 37 48' 56.120"	W 122 31' 46.266"	37.81559	-122.5295	LNM 39/15, 11th Dist	1816	18640_1	10/15/2015
+18640	Relocate	Point Bonita Light	Oc 4s 124ft 18M HORN	N 37 48' 56.120"	W 122 31' 46.266"	37.81559	-122.5295	LNM 39/15, 11th Dist	1816	18640_1	10/15/2015
+18640	Add	NOTE K	MARINER ACTIVATED SOUND SIGNAL (MRASS) Horn is activated by keying the mic 5 times on VHF-FM Ch 81A- horn will operate for thirty minutes. 	N 38 32' 00.000"	W 122 45' 00.000"	38.53333	-122.75	LNM 39/15, 11th Dist	1816	18640_1	10/15/2015

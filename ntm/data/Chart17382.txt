@@ -1,0 +1,14 @@
+Chart: 17382, Current Edition: 18, Print Date: Apr. /2015, Zarembo Island and approaches;Burnett Inlet, Etolin Island;Steamer Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+17382	Delete	Whale Pass Daybeacon 3	G "3"	N 56 06' 36.400"	W 133 04' 05.200"	56.11011	-133.0681	Not Yet Published	2704	17382_1	12/8/2016
+17382	Change	Nesbitt Reef Light	Fl 2.5s 27ft 6M	N 56 13' 13.232"	W 132 51' 50.077"	56.22034	-132.8639	LNM 21/16, 17th Dist	2704	17382_1	6/16/2016
+17382	Change	Snow Passage Lighted Buoy 4	R "4" Fl R 2.5s	N 56 16' 07.022"	W 132 56' 34.855"	56.26862	-132.943	LNM 21/16, 17th Dist	2704	17382_1	6/16/2016
+17382	Relocate	Whale Pass Daybeacon 1	G "1"	N 56 08' 13.607"	W 133 03' 22.128"	56.13711	-133.0562	LNM 35/15, 17th Dist	2704	17382_1	9/24/2015
+17382	Relocate	Whale Pass Daybeacon 2	R "2"	N 56 06' 44.675"	W 133 04' 05.592"	56.11241	-133.0682	LNM 35/15, 17th Dist	2704	17382_1	9/24/2015
+17382	Relocate	Whale Pass Daybeacon 1A	G "1A"	N 56 07' 42.089"	W 133 03' 57.228"	56.12836	-133.0659	LNM 35/15, 17th Dist	2704	17382_1	9/24/2015
+17382	Add	Whale Pass Daybeacon 2A	R "2A"	N 56 06' 35.297"	W 133 04' 12.996"	56.10981	-133.0703	LNM 35/15, 17th Dist	2704	17382_1	9/24/2015
+17382	Relocate	Whale Pass Daybeacon 4	R "4"	N 56 06' 31.109"	W 133 04' 26.004"	56.10864	-133.0739	LNM 35/15, 17th Dist	2704	17382_1	9/24/2015
+17382	Relocate	Whale Pass Daybeacon 5	G "5"	N 56 06' 25.865"	W 133 04' 36.708"	56.10719	-133.0769	LNM 35/15, 17th Dist	2704	17382_1	9/24/2015
+17382	Relocate	Whale Pass Daybeacon 5A	G "5A"	N 56 06' 23.603"	W 133 04' 42.204"	56.10656	-133.0784	LNM 35/15, 17th Dist	2704	17382_1	9/24/2015
+17382	Relocate	Whale Pass Daybeacon 6	R "6"	N 56 06' 09.899"	W 133 05' 29.004"	56.10275	-133.0914	LNM 35/15, 17th Dist	2704	17382_1	9/24/2015
+17382	Delete	Pile	**pile**	N 56 07' 23.500"	W 133 04' 42.000"	56.1232	-133.0783	LNM 35/15, 17th Dist	2704	17382_1	9/24/2015

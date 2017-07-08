@@ -1,0 +1,2 @@
+Chart: 19331, Current Edition: 8, Print Date: Jun. /2014, Kailua Bay Island Of Hawai‘i
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

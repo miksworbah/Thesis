@@ -1,0 +1,6 @@
+Chart: 14844, Current Edition: 33, Print Date: Jul. /2016, Islands in Lake Erie;Put-In-Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14844	Change	tabulation - SANDUSKY HARBOR CHANNEL DEPTHS	tabulation - SANDUSKY HARBOR CHANNEL DEPTHS	N 41 30' 54.000"	W 082 50' 31.000"	41.515	-82.84194	LNM 06/17, 9th Dist	1208	14844_1	2/2/2017
+14844	Change	Moseley Channel Lighted Bell Buoy 1 AIS	G "1" Fl G 4s BELL AIS	N 41 30' 20.276"	W 082 39' 45.647"	41.50563	-82.66268	LNM 50/16, 9th Dist	1208	14844_1	1/19/2017
+14844	Change	Moseley Channel Lighted Buoy 2 AIS	R "2" Fl R 4s AIS	N 41 30' 23.576"	W 082 39' 48.647"	41.50655	-82.66351	LNM 50/16, 9th Dist	1208	14844_1	1/19/2017
+14844	Change	Port Clinton East Pierhead Light 1	Fl G 6s 25ft 6 St M "1"	N 41 31' 08.249"	W 082 56' 07.436"	41.51896	-82.9354	LNM 51/16, 9th Dist	1208	14844_1	12/29/2016

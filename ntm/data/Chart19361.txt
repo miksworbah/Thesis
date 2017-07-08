@@ -1,0 +1,19 @@
+Chart: 19361, Current Edition: 9, Print Date: Mar. /2010, Port Wa‘ianae Island of O‘ahu
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+19361	Change	Depth Legend - Waianae Small Boat Harbor to:	14 FT APR 2014	N 21 26' 47.220"	W 158 11' 47.254"	21.44645	-158.1965	LNM 37/15, 14th Dist	2804	19361_1	9/17/2015
+19361	Change	Depth Legend - Waianae Small Boat Harbor to:	12 FT 2014	N 21 26' 54.423"	W 158 11' 49.761"	21.44845	-158.1972	LNM 37/15, 14th Dist	2804	19361_1	9/17/2015
+19361	Change	Depth Legend - Waianae Small Boat Harbor to:	12 FT 2014	N 21 26' 55.738"	W 158 11' 53.297"	21.44882	-158.1981	LNM 37/15, 14th Dist	2804	19361_1	9/17/2015
+19361	Relocate	WAIANAE HARBOR RANGE FRONT LIGHT	Q R 19ft	N 21 26' 55.665"	W 158 11' 46.774"	21.4488	-158.1963	LNM 35/13, 14th Dist	2804	19361_1	9/3/2013
+19361	Relocate	Waianae Harbor Range Front Light	Q R 19ft	N 21 26' 55.665"	W 158 11' 46.754"	21.4488	-158.1963	LNM 26/13, 14th Dist	2804	19361_1	8/7/2013
+19361	Relocate	Waianae Harbor Range Rear Light	Iso R 6s 27ft	N 21 26' 57.983"	W 158 11' 46.632"	21.44944	-158.1963	LNM 26/13, 14th Dist	2804	19361_1	8/7/2013
+19361	Delete	Pile PT 1 OF 7	Pile     Chart No. 1: F22	N 21 26' 35.300"	W 158 11' 27.600"	21.44314	-158.191	LNM 22/13, 14th Dist	2804	19361_1	5/23/2013
+19361	Delete	Pile PT 2 OF 7	Pile     Chart No. 1: F22	N 21 26' 33.100"	W 158 11' 28.000"	21.44253	-158.1911	LNM 22/13, 14th Dist	2804	19361_1	5/23/2013
+19361	Delete	Pile PT 3 OF 7	Pile     Chart No. 1: F22	N 21 26' 30.500"	W 158 11' 26.300"	21.4418	-158.1906	LNM 22/13, 14th Dist	2804	19361_1	5/23/2013
+19361	Delete	Pile PT 4 OF 7	Pile     Chart No. 1: F22	N 21 26' 31.100"	W 158 11' 25.200"	21.44197	-158.1903	LNM 22/13, 14th Dist	2804	19361_1	5/23/2013
+19361	Delete	Pile PT 5 OF 7	Pile     Chart No. 1: F22	N 21 26' 33.400"	W 158 11' 26.800"	21.44261	-158.1908	LNM 22/13, 14th Dist	2804	19361_1	5/23/2013
+19361	Delete	Pile PT 6 OF 7	Pile     Chart No. 1: F22	N 21 26' 34.700"	W 158 11' 26.100"	21.44297	-158.1906	LNM 22/13, 14th Dist	2804	19361_1	5/23/2013
+19361	Delete	Pile PT 7 OF 7	Pile     Chart No. 1: F22	N 21 26' 34.400"	W 158 11' 25.400"	21.44289	-158.1904	LNM 22/13, 14th Dist	2804	19361_1	5/23/2013
+19361	Change	WAIANAE HARBOR RANGE FRONT LIGHT	Q R 19ft	N 21 26' 55.665"	W 158 11' 46.753"	21.4488	-158.1963	LNM 51/12, 14th Dist	2804	19361_1	1/3/2013
+19361	Relocate	WAIANAE HARBOR RANGE FRONT LIGHT	Q R 20ft	N 21 26' 55.665"	W 158 11' 46.753"	21.4488	-158.1963	LNM 33/12, 14th Dist	2804	19361_1	9/6/2012
+19361	Relocate	WAIANAE HARBOR RANGE REAR LIGHT	Iso R 27ft	N 21 26' 57.984"	W 158 11' 46.612"	21.44944	-158.1963	LNM 33/12, 14th Dist	2804	19361_1	9/6/2012
+19361	Add	Submarine Operations Note D	Submerged submarine operations are conducted at various times in the waters contained on this chart. Proceed with caution. 	N 21 27' 11.500"	W 158 10' 29.200"	21.45319	-158.1748	LNM 17/12, 14th Dist	2804	19361_1	4/18/2012

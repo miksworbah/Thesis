@@ -1,0 +1,7 @@
+Chart: 18432, Current Edition: 7, Print Date: Sep. /2013, Boundary Pass
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18432	Add	Dangerous Wreck in fathoms and feet	2 4 Wk	N 48 46' 23.600"	W 123 16' 26.600"	48.77322	-123.2741	CNM 07/16, Canada	1685	18432_1	8/25/2016
+18432	Add	Dangerous Wreck in fathoms and feet	2 4	N 48 46' 20.400"	W 123 16' 19.700"	48.77234	-123.2721	CNM 07/16, Canada	1685	18432_1	8/25/2016
+18432	Add	Dangerous Wreck in fathoms and feet	2 4	N 48 46' 33.100"	W 123 16' 05.300"	48.77586	-123.2681	CNM 07/16, Canada	1685	18432_1	8/25/2016
+18432	Add	Submerged mooring buoy	Subm buoy (106 fms rep)	N 48 45' 58.680"	W 123 02' 24.780"	48.7663	-123.0402	LNM 18/16, 13th Dist	1685	18432_1	5/12/2016
+18432	Add	Submerged buoy	Subm buoy (111 fms rep)	N 48 41' 07.320"	W 123 16' 26.100"	48.68537	-123.2739	LNM 18/16, 13th Dist	1685	18432_1	5/12/2016

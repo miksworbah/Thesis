@@ -1,0 +1,146 @@
+Chart: 11350, Current Edition: 28, Print Date: Jun. /2012, Intracoastal Waterway Wax Lake Outlet to Forked Island including Bayou Teche, Vermilion River, and Freshwater Bayou
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11350	Relocate	Intracoastal City Light 1	Fl G 4s 17ft 2M "1" Ra Ref	N 29 46' 33.222"	W 092 10' 42.026"	29.77589	-92.17834	LNM 51/16, 8th Dist	41	11350_3	1/12/2017
+11350	Add	Pipeline Area  PT 1 OF 4	Chart No. 1: L40.2	N 29 42' 00.050"	W 091 22' 27.210"	29.70001	-91.37422	LNM 50/15, 8th Dist	39	11350_1	12/10/2015
+11350	Add	Pipeline Area  PT 2 OF 4	Chart No. 1: L40.2	N 29 41' 56.180"	W 091 22' 14.150"	29.69894	-91.3706	LNM 50/15, 8th Dist	39	11350_1	12/10/2015
+11350	Add	Pipeline Area  PT 3 OF 4	Chart No. 1: L40.2	N 29 41' 30.430"	W 091 22' 36.510"	29.69179	-91.37681	LNM 50/15, 8th Dist	39	11350_1	12/10/2015
+11350	Add	Pipeline Area  PT 4 OF 4	Chart No. 1: L40.2	N 29 41' 28.810"	W 091 22' 31.640"	29.69134	-91.37546	LNM 50/15, 8th Dist	39	11350_1	12/10/2015
+11350	Delete	Pipeline Area Boundary PT 1 OF 2	Chart No. 1: L40.2	N 29 41' 40.740"	W 091 22' 33.500"	29.69465	-91.37597	LNM 50/15, 8th Dist	39	11350_1	12/10/2015
+11350	Delete	Pipeline Area Boundary PT 2 OF 2	Chart No. 1: L40.2	N 29 41' 38.940"	W 091 22' 26.380"	29.69415	-91.37399	LNM 50/15, 8th Dist	39	11350_1	12/10/2015
+11350	Delete	Pipeline Area Boundary and label: Pipeline Area PT 1 OF 2	Pipeline Area Boundary, Chart No. 1: L40.2	N 29 41' 48.990"	W 091 22' 32.420"	29.69694	-91.37567	LNM 50/15, 8th Dist	39	11350_1	12/10/2015
+11350	Delete	Pipeline Area Boundary and label: Pipeline Area PT 2 OF 2	Pipeline Area Boundary, Chart No. 1: L40.2	N 29 41' 46.440"	W 091 22' 22.480"	29.69623	-91.37291	LNM 50/15, 8th Dist	39	11350_1	12/10/2015
+11350	Add	Pipeline Area  PT 1 OF 4	Chart No. 1: L40.2	N 29 49' 28.200"	W 091 49' 09.070"	29.8245	-91.81918	LNM 44/15, 8th Dist	41	11350_3	11/5/2015
+11350	Add	Pipeline Area  PT 1 OF 4	Chart No. 1: L40.2	N 29 49' 28.200"	W 091 49' 09.070"	29.8245	-91.81918	LNM 44/15, 8th Dist	80	11350_6	2/2/2017
+11350	Add	Pipeline Area  PT 2 OF 4	Chart No. 1: L40.2	N 29 49' 28.200"	W 091 49' 16.510"	29.8245	-91.82125	LNM 44/15, 8th Dist	41	11350_3	11/5/2015
+11350	Add	Pipeline Area  PT 2 OF 4	Chart No. 1: L40.2	N 29 49' 28.200"	W 091 49' 16.510"	29.8245	-91.82125	LNM 44/15, 8th Dist	80	11350_6	2/2/2017
+11350	Add	Pipeline Area  PT 3 OF 4	Chart No. 1: L40.2	N 29 49' 24.990"	W 091 49' 08.760"	29.82361	-91.8191	LNM 44/15, 8th Dist	41	11350_3	11/5/2015
+11350	Add	Pipeline Area  PT 3 OF 4	Chart No. 1: L40.2	N 29 49' 24.990"	W 091 49' 08.760"	29.82361	-91.8191	LNM 44/15, 8th Dist	80	11350_6	2/2/2017
+11350	Add	Pipeline Area  PT 4 OF 4	Chart No. 1: L40.2	N 29 49' 24.990"	W 091 49' 15.140"	29.82361	-91.82087	LNM 44/15, 8th Dist	41	11350_3	11/5/2015
+11350	Add	Pipeline Area  PT 4 OF 4	Chart No. 1: L40.2	N 29 49' 24.990"	W 091 49' 15.140"	29.82361	-91.82087	LNM 44/15, 8th Dist	80	11350_6	2/2/2017
+11350	Change	Depth Legend - FRESHWATER BAYOU to:	10 FT BY 125 FT JUN 2015	N 29 45' 46.400"	W 092 11' 27.000"	29.76289	-92.19083	LNM 42/15, 8th Dist	41	11350_3	10/22/2015
+11350	Change	Depth Legend - FRESHWATER BAYOU to:	7 FT BY 125 FT JUN 2015	N 29 30' 20.900"	W 092 18' 49.300"	29.50581	-92.3137	LNM 42/15, 8th Dist	43	11350_5	10/22/2015
+11350	Add	Cable Area  PT 1 OF 4	Chart No. 1: L30.2	N 29 50' 54.000"	W 092 07' 45.300"	29.84833	-92.12925	LNM 40/15, 8th Dist	42	11350_4	10/1/2015
+11350	Add	Cable Area  PT 2 OF 4	Chart No. 1: L30.2	N 29 50' 57.000"	W 092 07' 31.300"	29.84917	-92.12536	LNM 40/15, 8th Dist	42	11350_4	10/1/2015
+11350	Add	Cable Area  PT 3 OF 4	Chart No. 1: L30.2	N 29 51' 03.300"	W 092 07' 41.600"	29.85092	-92.12822	LNM 40/15, 8th Dist	42	11350_4	10/1/2015
+11350	Add	Cable Area  PT 4 OF 4	Chart No. 1: L30.2	N 29 51' 06.300"	W 092 07' 27.600"	29.85175	-92.12434	LNM 40/15, 8th Dist	42	11350_4	10/1/2015
+11350	Delete	Overhead Power Cable Label	OVHD PWR CAB AUTH CL 79 FT	N 29 51' 13.000"	W 092 07' 44.900"	29.85361	-92.12914	LNM 40/15, 8th Dist	42	11350_4	10/1/2015
+11350	Delete	Overhead Power Cable  PT 1 OF 2	Chart No. 1: D26  	N 29 50' 58.700"	W 092 07' 43.400"	29.84964	-92.12872	LNM 40/15, 8th Dist	42	11350_4	10/1/2015
+11350	Delete	Overhead Power Cable  PT 2 OF 2	Chart No. 1: D26  	N 29 51' 01.700"	W 092 07' 29.400"	29.85047	-92.12483	LNM 40/15, 8th Dist	42	11350_4	10/1/2015
+11350	Change	Depth Legend to:	6 FT APR 2015	N 29 43' 59.720"	W 092 06' 22.780"	29.73326	-92.10633	LNM 37/15, 8th Dist	41	11350_3	9/10/2015
+11350	Change	Depth Legend - Four Mile Cutoff to:	8 FT APR 2015	N 29 45' 46.950"	W 092 07' 38.630"	29.76304	-92.1274	LNM 37/15, 8th Dist	41	11350_3	9/10/2015
+11350	Change	Depth Note - VERMILION RIVER to:	The controlling depths were 9 feet on centerline from theIntracoastal Waterway to the Perry Bridge; thence 6 feet on centerline to the Broussard Bridge; thence 2 feet on centerline to the Ambassador Caffery Bridge; thence shoal to bare to the Pinhook Bridge. Use of local knowledge is recommended. Apr 2015	N 29 48' 10.130"	W 092 09' 47.200"	29.80281	-92.16311	LNM 37/15, 8th Dist	41	11350_3	9/10/2015
+11350	Change	Depth Note - VERMILION RIVER  to:	The controlling depths were 9 feet on centerline from theIntracoastal Waterway to the Perry Bridge; thence 6 feet on centerline to the Broussard Bridge; thence 2 feet on centerline to the Ambassador Caffery Bridge; thence shoal to bare to the Pinhook Bridge. Use of local knowledge is recommended. Apr 2015	N 30 02' 24.300"	W 092 06' 57.010"	30.04008	-92.11584	LNM 37/15, 8th Dist	42	11350_4	9/10/2015
+11350	Change	Freshwater Bayou Light 3	Fl G 4s 17ft 4M "3" Ra Ref	N 29 29' 24.697"	W 092 19' 06.865"	29.49019	-92.31857	LNM 29/15, 8th Dist	43	11350_5	7/30/2015
+11350	Add	Visible Wreck	PA       Chart No. 1: K24	N 29 43' 14.400"	W 092 04' 27.600"	29.72067	-92.07433	LNM 24/15, 8th Dist	41	11350_3	6/25/2015
+11350	Change	Depth Legend - Freshwater Bayou Channel to:	8 FT BY 125 FT SEP 2014	N 29 30' 20.940"	W 092 18' 49.280"	29.50582	-92.31369	LNM 19/15, 8th Dist	43	11350_5	5/14/2015
+11350	Add	Channel Limits PT 4 OF 4	Chart No. 1: I20	N 29 31' 57.580"	W 092 18' 30.280"	29.53266	-92.30841	LNM 19/15, 8th Dist	43	11350_5	5/14/2015
+11350	Add	Channel Limits PT 3 OF 4	Chart No. 1: I20	N 29 28' 31.270"	W 092 19' 09.350"	29.47535	-92.31927	LNM 19/15, 8th Dist	43	11350_5	5/14/2015
+11350	Add	Channel Limits PT 2 OF 4	Chart No. 1: I20	N 29 31' 57.770"	W 092 18' 31.650"	29.53271	-92.30879	LNM 19/15, 8th Dist	43	11350_5	5/14/2015
+11350	Add	Channel Limits PT 1 OF 4	Chart No. 1: I20	N 29 28' 31.450"	W 092 19' 10.770"	29.4754	-92.31966	LNM 19/15, 8th Dist	43	11350_5	5/14/2015
+11350	Delete	Channel Limits PT 4 OF 4	Chart No. 1: I20	N 29 31' 59.890"	W 092 18' 27.370"	29.5333	-92.3076	LNM 19/15, 8th Dist	43	11350_5	5/14/2015
+11350	Delete	Channel Limits PT 2 OF 4	Chart No. 1: I20	N 29 31' 59.910"	W 092 18' 31.120"	29.53331	-92.30865	LNM 19/15, 8th Dist	43	11350_5	5/14/2015
+11350	Delete	Channel Limits PT 3 OF 4	Chart No. 1: I20	N 29 28' 20.000"	W 092 19' 10.600"	29.47222	-92.31961	LNM 19/15, 8th Dist	43	11350_5	5/14/2015
+11350	Delete	Channel Limits PT 1 OF 4	Chart No. 1: I20	N 29 28' 20.700"	W 092 19' 13.100"	29.47242	-92.3203	LNM 19/15, 8th Dist	43	11350_5	5/14/2015
+11350	Add	Charenton Canal Buoy 26	R N "26" Priv	N 29 43' 58.000"	W 091 37' 33.000"	29.73278	-91.62583	LNM 04/15, 8th Dist	39	11350_1	3/26/2015
+11350	Relocate	Wax Outlet Northeast Approach Daybeacon NE	GW "NE" Ra Ref	N 29 38' 54.912"	W 091 23' 19.374"	29.64859	-91.38872	LNM 08/15, 8th Dist	39	11350_1	3/5/2015
+11350	Add	Charenton Canal Buoy 28	R N "28" Priv	N 29 44' 10.000"	W 091 37' 27.000"	29.73611	-91.62417	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Add	Charenton Canal Buoy 30	R N "30" Priv	N 29 44' 22.000"	W 091 37' 20.000"	29.73944	-91.62222	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Add	Charenton Canal Buoy 32	R N "32" Priv	N 29 44' 35.000"	W 091 37' 13.000"	29.74306	-91.62028	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Add	Charenton Canal Buoy 36	R N "36" Priv	N 29 44' 59.000"	W 091 37' 00.000"	29.74972	-91.61667	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Add	Charenton Canal Buoy 38	R N "38" Priv	N 29 45' 04.000"	W 091 36' 55.000"	29.75111	-91.61528	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Add	Charenton Canal Buoy 40	R N "40" Priv	N 29 45' 07.000"	W 091 36' 48.000"	29.75194	-91.61333	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Add	Charenton Canal Buoy 34	R N "34" Priv	N 29 44' 47.000"	W 091 37' 07.000"	29.74639	-91.61861	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Delete	Charenton Canal Entrance Channel Daybeacon 50	R "50" Priv	N 29 45' 08.000"	W 091 36' 45.000"	29.75222	-91.6125	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Delete	Charenton Canal Access Channel Daybeacon 24	R "24" Priv	N 29 42' 42.000"	W 091 38' 02.000"	29.71167	-91.63389	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Delete	Charenton Canal Access Channel Daybeacon 26	R "26" Priv	N 29 42' 51.000"	W 091 37' 58.000"	29.71417	-91.63277	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Delete	Charenton Canal Access Channel Daybeacon 28	R "28" Priv	N 29 43' 01.000"	W 091 37' 54.000"	29.71694	-91.63167	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Delete	Charenton Canal Access Channel Daybeacon 32	R "32" Priv	N 29 43' 19.000"	W 091 37' 47.000"	29.72194	-91.62972	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Delete	Charenton Canal Access Channel Daybeacon 30	R "30" Priv	N 29 43' 10.000"	W 091 37' 51.000"	29.71944	-91.63084	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Delete	Charenton Canal Access Channel Daybeacon 34	R "34" Priv	N 29 43' 41.000"	W 091 37' 38.000"	29.72806	-91.62722	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Delete	Charenton Canal Access Channel Daybeacon 36	R "36" Priv	N 29 43' 51.000"	W 091 37' 34.000"	29.73083	-91.62611	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Delete	Charenton Canal Access Channel Daybeacon 38	R "38" Priv	N 29 44' 02.000"	W 091 37' 27.000"	29.73389	-91.62417	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Delete	Charenton Canal Access Channel Daybeacon 40	R "40" Priv	N 29 44' 22.000"	W 091 37' 19.000"	29.73944	-91.62195	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Delete	Charenton Canal Entrance Channel Daybeacon 42	R "42" Priv	N 29 44' 40.000"	W 091 37' 09.000"	29.74444	-91.61916	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Delete	Charenton Canal Entrance Channel Daybeacon 44	R "44" Priv	N 29 45' 00.000"	W 091 37' 00.000"	29.75	-91.61667	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Delete	Charenton Canal Entrance Channel Daybeacon 46	R "46" Priv	N 29 45' 05.000"	W 091 36' 56.000"	29.75139	-91.61555	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Delete	Charenton Canal Entrance Channel Daybeacon 48	R "48" Priv	N 29 45' 07.000"	W 091 36' 50.000"	29.75194	-91.61389	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Add	Charenton Canal Buoy 12	R N "12" Priv	N 29 42' 26.000"	W 091 38' 13.000"	29.70722	-91.63695	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Add	Charenton Canal Buoy 14	R N "14" Priv	N 29 42' 39.000"	W 091 38' 08.000"	29.71083	-91.63556	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Add	Charenton Canal Buoy 16	R N "16" Priv	N 29 42' 51.000"	W 091 38' 03.000"	29.71417	-91.63416	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Add	Charenton Canal Buoy 18	R N "18" Priv	N 29 43' 05.000"	W 091 37' 58.000"	29.71806	-91.63277	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Add	Charenton Canal Buoy 20	R N "20" Priv	N 29 43' 17.000"	W 091 37' 53.000"	29.72139	-91.63139	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Add	Charenton Canal Buoy 22	R N "22" Priv	N 29 43' 29.000"	W 091 37' 47.000"	29.72472	-91.62972	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Add	Charenton Canal Buoy 24	R N "24" Priv	N 29 43' 44.000"	W 091 37' 40.000"	29.72889	-91.62778	LNM 04/15, 8th Dist	39	11350_1	2/5/2015
+11350	Change	Swing Bridge Label	SWING BRIDGE HOR CL 60 FT VERT CL 8 FT	N 30 00' 34.100"	W 091 49' 10.500"	30.00947	-91.81958	LNM 50/14, 8th Dist	40	11350_2	12/11/2014
+11350	Change	Depth Legend - Freshwater Bayou Canal to:	9 FT BY 250 FT SEP 2014	N 29 30' 21.000"	W 092 18' 48.000"	29.50583	-92.31333	LNM 49/14, 8th Dist	43	11350_5	12/4/2014
+11350	Change	Depth Legend - Freshwater Bayou Canal to:	6 FT BY 125 FT SEP 2014	N 29 36' 40.300"	W 092 16' 56.300"	29.61119	-92.2823	LNM 49/14, 8th Dist	43	11350_5	12/4/2014
+11350	Change	Depth Legend - Freshwater Bayou Canal to:	5 1/2 FT BY 125 FT SEP 2014	N 29 41' 38.500"	W 092 15' 00.600"	29.69403	-92.25017	LNM 49/14, 8th Dist	43	11350_5	12/4/2014
+11350	Change	Depth Legend - Freshwater Bayou Canal to:	8 1/2 FT BY 125 FT SEP 2014	N 29 45' 46.400"	W 092 11' 27.000"	29.76289	-92.19083	LNM 49/14, 8th Dist	41	11350_3	12/4/2014
+11350	Change	Depth Legend - Freshwater Bayou Canal to:	4 1/2 FT FOR A WIDTH OF 125 FT SEP 2014	N 29 34' 35.000"	W 092 18' 02.000"	29.57639	-92.30055	LNM 49/14, 8th Dist	43	11350_5	12/4/2014
+11350	Change	Depth Legend - Freshwater Bayou Canal to:	10 FT BY 125 FT SEP 2014	N 29 44' 16.600"	W 092 13' 53.300"	29.73794	-92.23148	LNM 49/14, 8th Dist	41	11350_3	12/4/2014
+11350	Change	Depth Legend - Freshwater Bayou Canal to:	10 FT BY 125 FT SEP 2014	N 29 44' 16.600"	W 092 13' 53.300"	29.73794	-92.23148	LNM 49/14, 8th Dist	43	11350_5	12/4/2014
+11350	Delete	Platform: (Wa28-19639-1) (LLOG)	Chart No 1: L-10	N 29 45' 27.000"	W 092 08' 45.000"	29.7575	-92.14584	LNM 43/14, 8th Dist	41	11350_3	11/6/2014
+11350	Delete	Ivanhoe Canal Buoy 1	G C "1" Priv	N 29 44' 08.700"	W 091 44' 11.900"	29.73575	-91.73664	LNM 41/14, 8th Dist	39	11350_1	10/23/2014
+11350	Delete	Ivanhoe Canal Buoy 3	G C "3"  Priv	N 29 44' 14.100"	W 091 44' 14.100"	29.73725	-91.73725	LNM 41/14, 8th Dist	39	11350_1	10/23/2014
+11350	Delete	Ivanhoe Canal Buoy 4	R N "4" Priv	N 29 44' 13.600"	W 091 44' 14.000"	29.73711	-91.73722	LNM 41/14, 8th Dist	39	11350_1	10/23/2014
+11350	Delete	Ivanhoe Canal Buoy 5	G C "5" Priv	N 29 44' 18.600"	W 091 44' 16.000"	29.7385	-91.73778	LNM 41/14, 8th Dist	39	11350_1	10/23/2014
+11350	Delete	Ivanhoe Canal Buoy 6	R N "6"  Priv	N 29 44' 19.100"	W 091 44' 14.400"	29.73864	-91.73734	LNM 41/14, 8th Dist	39	11350_1	10/23/2014
+11350	Delete	Ivanhoe Canal Buoy 7	G C "7"  Priv	N 29 44' 24.000"	W 091 44' 18.200"	29.74	-91.73839	LNM 41/14, 8th Dist	39	11350_1	10/23/2014
+11350	Delete	Ivanhoe Canal Buoy 9	G C "9" Priv	N 29 44' 29.200"	W 091 44' 18.100"	29.74144	-91.73836	LNM 41/14, 8th Dist	39	11350_1	10/23/2014
+11350	Delete	Ivanhoe Canal Buoy 10	R N "10" Priv 	N 29 44' 29.200"	W 091 44' 16.400"	29.74144	-91.73789	LNM 41/14, 8th Dist	39	11350_1	10/23/2014
+11350	Delete	Ivanhoe Canal Buoy 11	G C "11" Priv 	N 29 44' 34.500"	W 091 44' 18.100"	29.74292	-91.73836	LNM 41/14, 8th Dist	39	11350_1	10/23/2014
+11350	Delete	Ivanhoe Canal Buoy 12	R N "12" Priv	N 29 44' 34.500"	W 091 44' 16.400"	29.74292	-91.73789	LNM 41/14, 8th Dist	39	11350_1	10/23/2014
+11350	Delete	Ivanhoe Canal Buoy 13	G C "13"  Priv	N 29 44' 39.500"	W 091 44' 18.000"	29.7443	-91.73833	LNM 41/14, 8th Dist	39	11350_1	10/23/2014
+11350	Delete	Ivanhoe Canal Buoy 14	R N "14" Priv	N 29 44' 39.500"	W 091 44' 16.300"	29.7443	-91.73786	LNM 41/14, 8th Dist	39	11350_1	10/23/2014
+11350	Delete	Ivanhoe Canal Buoy 15	G C "15" Priv	N 29 44' 44.700"	W 091 44' 17.900"	29.74575	-91.7383	LNM 41/14, 8th Dist	39	11350_1	10/23/2014
+11350	Delete	Ivanhoe Canal Buoy 16	R N "16"  Priv	N 29 44' 44.700"	W 091 44' 16.200"	29.74575	-91.73783	LNM 41/14, 8th Dist	39	11350_1	10/23/2014
+11350	Delete	Ivanhoe Canal Buoy 17	G C "17" Priv	N 29 44' 50.000"	W 091 44' 17.800"	29.74722	-91.73828	LNM 41/14, 8th Dist	39	11350_1	10/23/2014
+11350	Delete	Ivanhoe Canal Buoy 18	R N "18"  Priv	N 29 44' 50.000"	W 091 44' 16.100"	29.74722	-91.73781	LNM 41/14, 8th Dist	39	11350_1	10/23/2014
+11350	Delete	Depth Note	4 1/2 ft rep from buoy "1" to IWW May 1983	N 29 44' 46.000"	W 091 44' 50.000"	29.74611	-91.74722	LNM 41/14, 8th Dist	39	11350_1	10/23/2014
+11350	Add	Submerged Obstruction 	PA: Chart No 1 K-40	N 29 46' 00.100"	W 092 11' 06.500"	29.7667	-92.18514	LNM 35/14, 8th Dist	41	11350_3	9/11/2014
+11350	Add	Submerged Obstruction 	PA; Chart No 1: K-40	N 29 45' 51.900"	W 092 11' 19.700"	29.76442	-92.1888	LNM 35/14, 8th Dist	41	11350_3	9/11/2014
+11350	Add	Submerged Obstruction  	PA; Chart No 1 K-40	N 29 45' 53.100"	W 092 11' 13.200"	29.76475	-92.187	LNM 35/14, 8th Dist	41	11350_3	9/11/2014
+11350	Add	Submerged Obstruction  	PA: Chart No 1: K-40	N 29 45' 58.300"	W 092 11' 05.100"	29.7662	-92.18475	LNM 35/14, 8th Dist	41	11350_3	9/11/2014
+11350	Relocate	Freshwater Bayou Junction Light FW	Fl (2+1) R 6s 17ft 2M "FW"	N 29 46' 28.988"	W 092 10' 13.742"	29.77472	-92.17049	LNM 35/14, 8th Dist	41	11350_3	9/11/2014
+11350	Delete	Dangerous Wreck	PA      Chart No. 1: K28	N 29 32' 38.300"	W 092 18' 23.300"	29.54397	-92.30647	LNM 24/14, 8th Dist	43	11350_5	6/26/2014
+11350	Add	Dangerous Wreck	PA      Chart No. 1: K28	N 29 32' 38.300"	W 092 18' 23.300"	29.54397	-92.30647	LNM 20/14, 8th Dist	43	11350_5	6/5/2014
+11350	Delete	Cable and Pipeline Area  PT 1 OF 2	Chart No. 1: L30.2	N 30 00' 33.730"	W 091 48' 58.980"	30.00937	-91.81638	LNM 21/14, 8th Dist	40	11350_2	5/22/2014
+11350	Delete	Cable and Pipeline Area  PT 2 OF 2	Chart No. 1: L30.2	N 30 00' 26.100"	W 091 49' 06.310"	30.00725	-91.81842	LNM 21/14, 8th Dist	40	11350_2	5/22/2014
+11350	Add	Cable and Pipeline Area PT 1 OF 2	Chart No. 1: L30.2	N 30 00' 40.940"	W 091 49' 08.450"	30.01137	-91.81902	LNM 21/14, 8th Dist	40	11350_2	5/22/2014
+11350	Add	Cable and Pipeline Area PT 2 OF 2	Chart No. 1: L30.2	N 30 00' 33.360"	W 091 49' 15.800"	30.00927	-91.82105	LNM 21/14, 8th Dist	40	11350_2	5/22/2014
+11350	Add	Hanson Canal Light 1	Fl G 2.5s "1" Priv	N 29 45' 14.040"	W 091 29' 48.430"	29.7539	-91.49679	LNM 13/14, 8th Dist	39	11350_1	4/10/2014
+11350	Add	Hanson Canal Light 2	Fl R 2.5s "2" Priv	N 29 45' 13.980"	W 091 29' 48.270"	29.75388	-91.49674	LNM 13/14, 8th Dist	39	11350_1	4/10/2014
+11350	Add	Cable Area  PT 1 OF 4	Chart No. 1: L30.2	N 29 50' 29.700"	W 091 27' 25.700"	29.84158	-91.45714	LNM 13/14, 8th Dist	40	11350_2	3/27/2014
+11350	Add	Cable Area  PT 2 OF 4	Chart No. 1: L30.2	N 29 50' 32.700"	W 091 27' 14.700"	29.84242	-91.45409	LNM 13/14, 8th Dist	40	11350_2	3/27/2014
+11350	Add	Cable Area  PT 3 OF 4	Chart No. 1: L30.2	N 29 50' 20.300"	W 091 27' 22.300"	29.83897	-91.45619	LNM 13/14, 8th Dist	40	11350_2	3/27/2014
+11350	Add	Cable Area  PT 4 OF 4	Chart No. 1: L30.2	N 29 50' 23.300"	W 091 27' 11.200"	29.83981	-91.45311	LNM 13/14, 8th Dist	40	11350_2	3/27/2014
+11350	Add	Platform: (Wa28-19639-1)(LLOG)	Chart No. 1: L10	N 29 45' 27.000"	W 092 08' 45.000"	29.7575	-92.14584	LNM 45/13, 8th Dist	41	11350_3	11/8/2013
+11350	Add	Avery Canal Southwest Danger Light	Fl 2.5s Priv	N 29 49' 54.010"	W 091 54' 32.660"	29.83167	-91.90907	LNM 44/13, 8th Dist	41	11350_3	11/4/2013
+11350	Add	Avery Canal Northwest Danger Light	Fl 2.5s Priv	N 29 49' 52.940"	W 091 54' 33.230"	29.83137	-91.90923	LNM 44/13, 8th Dist	41	11350_3	11/4/2013
+11350	Add	LCPRA Shark Island Danger Light	Fl 2.5s Priv	N 29 46' 59.642"	W 091 51' 11.496"	29.78323	-91.8532	LNM 30/13, 8th Dist	41	11350_3	7/30/2013
+11350	Add	LCPRA Shark Island Danger Light	Fl 2.5s Priv	N 29 46' 51.563"	W 091 51' 12.343"	29.78099	-91.85343	LNM 30/13, 8th Dist	41	11350_3	7/30/2013
+11350	Add	LCPRA Shark Island Danger Light	Fl 2.5s Priv	N 29 46' 44.853"	W 091 51' 17.407"	29.77913	-91.85484	LNM 30/13, 8th Dist	41	11350_3	7/30/2013
+11350	Add	LCPRA Shark Island Danger Light	Fl 2.5s Priv	N 29 46' 36.000"	W 091 51' 26.684"	29.77667	-91.85741	LNM 30/13, 8th Dist	41	11350_3	7/30/2013
+11350	Add	Visible Obstructions	Obstns PA      Chart No. 1: F22	N 29 44' 24.000"	W 091 38' 06.500"	29.74	-91.63514	LNM 22/13, 8th Dist	39	11350_1	6/4/2013
+11350	Change	Depth Legend - FRESHWATER BAYOU to:	4 1/2 FT BY 250 FT MAR 2013	N 29 30' 21.000"	W 092 18' 48.000"	29.50583	-92.31333	LNM 23/13, 8th Dist	43	11350_5	5/30/2013
+11350	Change	Depth Legend - FRESHWATER BAYOU to:	3 FT FOR A WIDTH OF 125 FT SEP 2012 - MAR 2013	N 29 33' 48.500"	W 092 18' 10.800"	29.56347	-92.303	LNM 23/13, 8th Dist	43	11350_5	5/30/2013
+11350	Relocate	Freshwater Bayou Junction Light FW	Fl (2+1) R 6s 17ft 2M "FW"	N 29 46' 29.616"	W 092 10' 15.038"	29.77489	-92.17085	LNM 10/13, 8th Dist	41	11350_3	3/13/2013
+11350	Add	Freshwater Bayou Light 23	Fl G 2.5s 17ft 2M "23"	N 29 46' 18.000"	W 092 10' 42.000"	29.77167	-92.17834	LNM 06/13, 8th Dist	41	11350_3	2/11/2013
+11350	Delete	Vermillion River Entrance Crossing Light 4	Fl R 4s 17ft 3M "4" Ra Ref	N 29 47' 04.081"	W 092 08' 39.982"	29.78447	-92.14444	LNM 50/12, 8th Dist	41	11350_3	12/20/2012
+11350	Delete	Vermillion River Entrance Crossing Light 2	Fl R 2.5s 17ft 3M "2" Ra Ref	N 29 47' 03.851"	W 092 08' 24.417"	29.7844	-92.14011	LNM 50/12, 8th Dist	41	11350_3	12/20/2012
+11350	Add	Vermillion River Entrance Light 1	Fl G 2.5s 17ft 3M "1"	N 29 47' 04.692"	W 092 08' 38.633"	29.78464	-92.14407	LNM 50/12, 8th Dist	41	11350_3	12/20/2012
+11350	Add	Vermillion River Light 2	Fl R 2.5s 17ft 3M "2"	N 29 47' 05.339"	W 092 08' 34.367"	29.78482	-92.14288	LNM 50/12, 8th Dist	41	11350_3	12/20/2012
+11350	Add	Freshwater Bayou Light 22	Q R 17ft 3M "22"	N 29 44' 37.387"	W 092 13' 15.844"	29.74372	-92.22107	LNM 44/12, 8th Dist	41	11350_3	11/2/2012
+11350	Add	Freshwater Bayou Light 22	Q R 17ft 3M "22"	N 29 44' 37.387"	W 092 13' 15.844"	29.74372	-92.22107	LNM 44/12, 8th Dist	43	11350_5	11/2/2012
+11350	Add	Freshwater Bayou Junction Light FW	Fl (2+1) R 6s 17ft 2M "FW"	N 29 46' 28.000"	W 092 10' 16.000"	29.77444	-92.17111	LNM 33/12, 8th Dist	41	11350_3	8/23/2012
+11350	Add	Intercoastal City Light 1	Fl G 4s 17ft 2M "1" Ra Ref	N 29 46' 33.000"	W 092 10' 42.000"	29.77583	-92.17834	LNM 33/12, 8th Dist	41	11350_3	8/23/2012
+11350	Delete	Freshwater Bayou Light 20A	Q R 17ft 3M "20A" Ra Ref	N 29 44' 37.387"	W 092 13' 15.844"	29.74372	-92.22107	LNM 32/12, 8th Dist	41	11350_3	8/13/2012
+11350	Delete	Freshwater Bayou Light 20A	Q R 17ft 3M "20A" Ra Ref	N 29 44' 37.387"	W 092 13' 15.844"	29.74372	-92.22107	LNM 32/12, 8th Dist	43	11350_5	8/13/2012
+11350	Delete	Freshwater Bayou Light 22	Fl R 2.5s 17ft 4M "22" Ra Ref	N 29 46' 25.840"	W 092 10' 20.146"	29.77384	-92.17226	LNM 32/12, 8th Dist	41	11350_3	8/13/2012
+11350	Change	Depth Legend - Freshwater Bayou Canal to:	8 FT BY 125 FT MAY 2012	N 29 44' 16.600"	W 092 13' 53.300"	29.73794	-92.23148	LNM 30/12, 8th Dist	41	11350_3	7/19/2012
+11350	Change	Depth Legend - Freshwater Bayou Canal to:	8 FT BY 125 FT MAY 2012	N 29 44' 16.600"	W 092 13' 53.300"	29.73794	-92.23148	LNM 30/12, 8th Dist	43	11350_5	7/19/2012
+11350	Change	Depth Legend - Freshwater Bayou Canal to:	4 FT FOR A WIDTH OF 125 FT MAY 2012	N 29 34' 35.000"	W 092 18' 02.000"	29.57639	-92.30055	LNM 30/12, 8th Dist	43	11350_5	7/19/2012
+11350	Change	Depth Legend - Freshwater Bayou Canal to:	4 FT BY 250 FT MAY 2012	N 29 30' 21.000"	W 092 18' 48.000"	29.50583	-92.31333	LNM 30/12, 8th Dist	43	11350_5	7/19/2012
+11350	Change	Depth Legend - Freshwater Bayou Canal to:	8 FT BY 125 FT MAY 2012	N 29 45' 46.400"	W 092 11' 27.000"	29.76289	-92.19083	LNM 30/12, 8th Dist	41	11350_3	7/19/2012
+11350	Delete	Submerged Obstruction	Obstn PA      Chart No. 1: K40	N 29 44' 02.200"	W 092 06' 24.400"	29.73394	-92.10678	LNM 24/12, 8th Dist	41	11350_3	6/19/2012
+11350	Add	Submerged Obstruction	Obstn PA      Chart No. 1: K40	N 29 44' 23.700"	W 092 06' 38.600"	29.73992	-92.11073	LNM 24/12, 8th Dist	41	11350_3	6/19/2012

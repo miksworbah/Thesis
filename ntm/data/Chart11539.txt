@@ -1,0 +1,32 @@
+Chart: 11539, Current Edition: 20, Print Date: Sep. /2014, New River Inlet to Cape Fear
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11539	Delete	NC Artificial Fishing Reef Buoy AR382	Y C "AR382" Priv	N 33 58' 36.625"	W 077 41' 10.915"	33.97684	-77.68636	LNM 21/17, 5th Dist	500	11539_1	6/1/2017
+11539	Delete	NC Artificial Fishing Reef Buoy AR350	Y C "AR350" Priv	N 34 29' 48.597"	W 077 21' 22.853"	34.49683	-77.35635	LNM 14/17, 5th Dist	500	11539_1	4/13/2017
+11539	Delete	NC Artificial Fishing Reef Buoy AR370	Y C "AR370" Priv	N 34 10' 30.614"	W 077 44' 28.926"	34.17517	-77.74137	LNM 14/17, 5th Dist	500	11539_1	4/13/2017
+11539	Delete	NC Artificial Fishing Reef Buoy AR378	Y C "AR378" Priv	N 34 02' 00.621"	W 077 51' 58.943"	34.0335	-77.86637	LNM 14/17, 5th Dist	500	11539_1	4/13/2017
+11539	Delete	NC Artificial Fishing Reef Buoy AR360	Y C "AR360" Priv	N 34 20' 42.607"	W 077 36' 10.900"	34.34517	-77.60303	LNM 03/17, 5th Dist	500	11539_1	1/26/2017
+11539	Delete	NC Artificial Fishing Reef Buoy AR366	Y C "AR366" Priv	N 34 13' 00.611"	W 077 25' 04.867"	34.21684	-77.41802	LNM 03/17, 5th Dist	500	11539_1	1/26/2017
+11539	Delete	NC Artificial Fishing Reef Buoy AR368	Y C "AR368" Priv	N 34 09' 30.614"	W 077 25' 46.869"	34.1585	-77.42969	LNM 03/17, 5th Dist	500	11539_1	1/26/2017
+11539	Delete	NC Artificial Fishing Reef Buoy AR386	Y C "AR386" Priv	N 33 57' 30.626"	W 077 33' 16.891"	33.95851	-77.5547	LNM 03/17, 5th Dist	500	11539_1	1/26/2017
+11539	Relocate	Masonboro Inlet Lighted Whistle Buoy A	RW "A" Mo (A) WHIS	N 34 10' 24.235"	W 077 47' 51.065"	34.1734	-77.79752	LNM 04/15, 5th Dist	500	11539_1	1/29/2015
+11539	Change	Dotted Fish Haven Label to:	Obstn Fish Haven (auth min 20 ft)	N 34 14' 48.050"	W 077 42' 53.930"	34.24668	-77.71498	LNM 01/15, 5th Dist	500	11539_1	1/8/2015
+11539	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 34 10' 49.800"	W 077 44' 08.400"	34.1805	-77.73566	LNM 01/15, 5th Dist	500	11539_1	1/8/2015
+11539	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 34 10' 13.320"	W 077 44' 08.940"	34.17037	-77.73582	LNM 01/15, 5th Dist	500	11539_1	1/8/2015
+11539	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 34 10' 14.340"	W 077 45' 33.480"	34.17065	-77.7593	LNM 01/15, 5th Dist	500	11539_1	1/8/2015
+11539	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 34 10' 50.820"	W 077 45' 32.940"	34.18078	-77.75915	LNM 01/15, 5th Dist	500	11539_1	1/8/2015
+11539	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 20 ft)	N 34 10' 41.200"	W 077 44' 42.300"	34.17811	-77.74509	LNM 01/15, 5th Dist	500	11539_1	1/8/2015
+11539	Delete	Dotted Fish Haven and Label	Obstn PA Fish Haven (auth min 20 ft)   (Chart No. 1: K46.2)	N 34 10' 30.620"	W 077 44' 26.780"	34.17517	-77.74077	LNM 01/15, 5th Dist	500	11539_1	1/8/2015
+11539	Add	Dotted Fish Haven PT 1 OF 4	(Chart No. 1: K46.2)	N 34 00' 51.000"	W 077 50' 29.520"	34.01417	-77.84153	LNM 01/15, 5th Dist	500	11539_1	1/8/2015
+11539	Add	Dotted Fish Haven PT 2 OF 4	(Chart No. 1: K46.2)	N 34 00' 29.160"	W 077 50' 29.820"	34.0081	-77.84161	LNM 01/15, 5th Dist	500	11539_1	1/8/2015
+11539	Add	Dotted Fish Haven PT 3 OF 4	(Chart No. 1: K46.2)	N 34 00' 29.400"	W 077 50' 46.920"	34.00817	-77.84637	LNM 01/15, 5th Dist	500	11539_1	1/8/2015
+11539	Add	Dotted Fish Haven PT 4 OF 4	(Chart No. 1: K46.2)	N 34 00' 51.180"	W 077 50' 46.620"	34.01422	-77.84628	LNM 01/15, 5th Dist	500	11539_1	1/8/2015
+11539	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 20 ft)	N 34 00' 40.000"	W 077 50' 37.000"	34.01111	-77.84361	LNM 01/15, 5th Dist	500	11539_1	1/8/2015
+11539	Delete	Sounding in Feet	35	N 34 01' 46.680"	W 077 52' 22.770"	34.02963	-77.87299	LNM 01/15, 5th Dist	500	11539_1	1/8/2015
+11539	Delete	Dotted Fish Haven and Label	Obstn PA Fish Haven (auth min 20 ft)   (Chart No. 1: K46.2)	N 34 02' 00.000"	W 077 51' 56.000"	34.03333	-77.86555	LNM 01/15, 5th Dist	500	11539_1	1/8/2015
+11539	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 34 02' 21.300"	W 077 51' 35.700"	34.03925	-77.85992	LNM 01/15, 5th Dist	500	11539_1	1/8/2015
+11539	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 34 01' 36.180"	W 077 51' 34.500"	34.02672	-77.85958	LNM 01/15, 5th Dist	500	11539_1	1/8/2015
+11539	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 34 01' 36.720"	W 077 52' 33.300"	34.02687	-77.87592	LNM 01/15, 5th Dist	500	11539_1	1/8/2015
+11539	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 34 02' 21.840"	W 077 52' 02.820"	34.0394	-77.86745	LNM 01/15, 5th Dist	500	11539_1	1/8/2015
+11539	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 20 ft)	N 34 02' 00.000"	W 077 51' 56.000"	34.03333	-77.86555	LNM 01/15, 5th Dist	500	11539_1	1/8/2015
+11539	Relocate	UNCW/CORMP Lighted Data Buoy A	Y "A" Fl Y 4s Priv	N 34 08' 30.000"	W 077 43' 07.200"	34.14167	-77.71867	LNM 46/14, 5th Dist	500	11539_1	11/27/2014
+11539	Relocate	UNCW/CORMP Lighted Data Buoy B	Y "B" Fl Y 4s Priv	N 33 59' 15.000"	W 077 21' 40.800"	33.9875	-77.36134	LNM 46/14, 5th Dist	500	11539_1	11/27/2014

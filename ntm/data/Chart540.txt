@@ -1,0 +1,204 @@
+Chart: 540, Current Edition: 19, Print Date: Apr. /2008, Hawai‘ian Islands
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+540	Add	Submarine Cable  PT 1 OF 7	Chart No. 1: L30.1	N 21 17' 47.000"	W 158 06' 23.900"	21.29639	-158.1066	LNM 31/16, 14th Dist	2407	540_1	7/28/2016
+540	Add	Submarine Cable  PT 2 OF 7	Chart No. 1: L30.1	N 21 17' 02.900"	W 158 08' 07.100"	21.28414	-158.1353	LNM 31/16, 14th Dist	2407	540_1	7/28/2016
+540	Add	Submarine Cable  PT 3 OF 7	Chart No. 1: L30.1	N 21 17' 52.600"	W 158 10' 03.100"	21.29795	-158.1675	LNM 31/16, 14th Dist	2407	540_1	7/28/2016
+540	Add	Submarine Cable  PT 4 OF 7	Chart No. 1: L30.1	N 21 17' 52.100"	W 158 10' 35.400"	21.29781	-158.1765	LNM 31/16, 14th Dist	2407	540_1	7/28/2016
+540	Add	Submarine Cable  PT 5 OF 7	Chart No. 1: L30.1	N 21 17' 59.900"	W 158 10' 43.700"	21.29997	-158.1788	LNM 31/16, 14th Dist	2407	540_1	7/28/2016
+540	Add	Submarine Cable  PT 6 OF 7	Chart No. 1: L30.1	N 21 19' 15.000"	W 158 11' 05.800"	21.32083	-158.185	LNM 31/16, 14th Dist	2407	540_1	7/28/2016
+540	Add	Submarine Cable  PT 7 OF 7	Chart No. 1: L30.1	N 21 19' 22.900"	W 158 10' 55.700"	21.32303	-158.1821	LNM 31/16, 14th Dist	2407	540_1	7/28/2016
+540	Delete	Sounding in fathooms	22 Shoal PA (Rep 1965)	N 08 06' 00.000"	W 160 10' 00.000"	8.1	-160.1667	WNM 29/16, NGA	2407	540_1	7/21/2016
+540	Delete	Shoaling	Shoal PA (Rep 2007)	N 08 10' 00.000"	W 160 06' 00.000"	8.166667	-160.1	WNM 29/16, NGA	2407	540_1	7/21/2016
+540	Delete	UH WHOTS Site Lighted Buoy	Y Fl Y 4s Priv	N 22 46' 00.000"	W 157 54' 00.000"	22.76667	-157.9	LNM 50/15, 14th Dist	2407	540_1	12/24/2015
+540	Add	UH WHOTS Site Lighted Buoy	Y Fl Y 4s Priv	N 22 23' 59.999"	W 157 34' 11.999"	22.4	-157.57	LNM 50/15, 14th Dist	2407	540_1	12/24/2015
+540	Change	Pepeekeo Point Light	Fl 4s 147ft 12M	N 19 50' 50.077"	W 155 04' 57.545"	19.84724	-155.0827	LNM 05/15, 14th Dist	2407	540_1	2/5/2015
+540	Relocate	Pepeekeo Point Light	Fl 4s 147ft 12M	N 19 50' 50.077"	W 155 04' 57.545"	19.84724	-155.0827	LNM 05/15, 14th Dist	2407	540_1	2/5/2015
+540	Delete	Kahoolawe South West Point Light	Fl 6s 120ft 7M	N 20 30' 08.457"	W 156 39' 58.974"	20.50235	-156.6664	LNM 04/15, 14th Dist	2407	540_1	2/5/2015
+540	Change	Nawiliwili Harbor Light	Fl 15s 110ft 9M	N 21 57' 17.903"	W 159 20' 08.903"	21.95497	-159.3358	LNM 45/14, 14th Dist	2407	540_1	11/13/2014
+540	Change	Molokai Light	Fl 10s 213ft 13M	N 21 12' 34.269"	W 156 58' 10.730"	21.20952	-156.9697	LNM 39/14, 14th Dist	2407	540_1	10/9/2014
+540	Relocate	Molokai Light	Fl 10s 213ft 13M	N 21 12' 34.269"	W 156 58' 10.730"	21.20952	-156.9697	LNM 39/14, 14th Dist	2407	540_1	10/9/2014
+540	Change	Kauhola Point Light	Fl 15s 108ft 10M	N 20 14' 46.616"	W 155 46' 17.116"	20.24628	-155.7714	LNM 36/14, 14th Dist	2407	540_1	9/18/2014
+540	Delete	Dashed circle with blue tint	None	N 14 31' 00.000"	W 179 00' 00.000"	14.51667	-179	WNM 33/14, NGA	2407	540_1	8/14/2014
+540	Add	Obstruction with depth	5 fms Discolored water (rep 19444)	N 14 30' 00.000"	W 179 03' 00.000"	14.5	-179.05	WNM 33/14, NGA	2407	540_1	8/14/2014
+540	Change	Kaena Point Passing Light	Fl 7M	N 21 34' 27.594"	W 158 15' 45.868"	21.57433	-158.2627	LNM 21/14, 14th Dist	2407	540_1	6/5/2014
+540	Change	Keahole Point Light	Fl 6s 43ft 6M	N 19 43' 40.351"	W 156 03' 39.799"	19.72787	-156.0611	LNM 20/14, 14th Dist	2407	540_1	5/29/2014
+540	Change	Kilauea Point Light	Fl 10s 174ft 9M	N 22 13' 53.233"	W 159 24' 07.063"	22.23145	-159.402	LNM 19/14, 14th Dist	2407	540_1	5/22/2014
+540	Relocate	Kilauea Point Light	Fl 10s 174ft 9M	N 22 13' 53.233"	W 159 24' 07.063"	22.23145	-159.402	LNM 19/14, 14th Dist	2407	540_1	5/22/2014
+540	Delete	UH WHOTS Site	Y Fl Y 4s Priv	N 22 23' 59.999"	W 157 34' 11.999"	22.4	-157.57	LNM 07/14, 14th Dist	2407	540_1	2/27/2014
+540	Add	UH WHOTS Site	Y Fl Y 4s Priv	N 22 46' 00.000"	W 157 54' 00.000"	22.76667	-157.9	LNM 07/14, 14th Dist	2407	540_1	2/27/2014
+540	Add	UH WHOTS Site	Y Fl Y 4s Priv	N 22 23' 59.999"	W 157 34' 11.999"	22.4	-157.57	LNM 33/13, 14th Dist	2407	540_1	8/22/2013
+540	Add	Ship Reporting Area Limit PT 1 OF 24	use Chart No. 1: N1.2	N 29 12' 09.800"	W 177 04' 15.100"	29.20272	-177.0709	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Add	Ship Reporting Area Limit PT 2 OF 24	use Chart No. 1: N1.2	N 28 43' 46.500"	W 175 13' 45.800"	28.72958	-175.2294	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Add	Ship Reporting Area Limit PT 3 OF 24	use Chart No. 1: N1.2	N 27 00' 16.700"	W 173 25' 22.200"	27.00464	-173.4228	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Add	Ship Reporting Area Limit PT 4 OF 24	use Chart No. 1: N1.2	N 26 44' 51.200"	W 171 28' 13.500"	26.74755	-171.4704	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Add	Ship Reporting Area Limit PT 7 OF 24	use Chart No. 1: N1.2	N 24 50' 13.700"	W 165 58' 33.300"	24.83714	-165.9759	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Add	Ship Reporting Area Limit PT 8 OF 24	use Chart No. 1: N1.2	N 24 02' 36.700"	W 161 42' 18.200"	24.04353	-161.7051	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Add	Ship Reporting Area Limit PT 9 OF 24	use Chart No. 1: N1.2	N 23 37' 17.300"	W 161 00' 44.100"	23.62147	-161.0123	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Add	Ship Reporting Area Limit PT 10 OF 24	use Chart No. 1: N1.2	N 22 50' 13.200"	W 160 51' 25.600"	22.837	-160.8571	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Add	Ship Reporting Area Limit PT 11 OF 24	use Chart No. 1: N1.2	N 22 14' 36.600"	W 161 18' 07.300"	22.2435	-161.302	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Add	Ship Reporting Area Limit PT 12 OF 24	use Chart No. 1: N1.2	N 22 04' 35.500"	W 162 08' 08.300"	22.07653	-162.1356	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Add	Ship Reporting Area Limit PT 13 OF 24	use Chart No. 1: N1.2	N 22 35' 19.400"	W 164 53' 27.700"	22.58872	-164.891	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Add	Ship Reporting Area Limit PT 14 OF 24	use Chart No. 1: N1.2	N 22 47' 51.700"	W 166 40' 26.600"	22.7977	-166.6741	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Add	Ship Reporting Area Limit PT 15 OF 24	use Chart No. 1: N1.2	N 24 03' 18.300"	W 168 27' 31.500"	24.05508	-168.4588	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Add	Ship Reporting Area Limit PT 16 OF 24	use Chart No. 1: N1.2	N 24 26' 35.300"	W 170 50' 22.300"	24.44314	-170.8395	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Add	Ship Reporting Area Limit PT 17 OF 24	use Chart No. 1: N1.2	N 24 46' 29.400"	W 171 52' 52.100"	24.77483	-171.8811	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Add	Ship Reporting Area Limit PT 18 OF 24	use Chart No. 1: N1.2	N 25 07' 13.700"	W 174 30' 13.800"	25.12047	-174.5038	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Add	Ship Reporting Area Limit PT 19 OF 24	use Chart No. 1: N1.2	N 27 05' 30.200"	W 176 35' 24.000"	27.09172	-176.59	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Add	Ship Reporting Area Limit PT 20 OF 24	use Chart No. 1: N1.2	N 27 15' 06.800"	W 177 35' 15.600"	27.25189	-177.5877	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Add	Ship Reporting Area Limit PT 21 OF 24	use Chart No. 1: N1.2	N 27 26' 05.900"	W 178 32' 13.800"	27.43497	-178.5372	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Add	Ship Reporting Area Limit PT 22 OF 24	use Chart No. 1: N1.2	N 28 01' 29.600"	W 179 22' 30.700"	28.02489	-179.3752	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Add	Ship Reporting Area Limit PT 23 OF 24	use Chart No. 1: N1.2	N 28 43' 59.600"	W 179 24' 45.100"	28.73322	-179.4125	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Add	Ship Reporting Area Limit PT 24 OF 24	use Chart No. 1: N1.2	N 29 14' 38.500"	W 178 58' 37.200"	29.24403	-178.977	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Delete	Ship Reporting Area Limit PT 1 OF 21	use Chart No. 1: N1.2	N 28 43' 47.000"	W 175 13' 46.100"	28.72972	-175.2295	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Delete	Ship Reporting Area Limit PT 2 OF 21	use Chart No. 1: N1.2	N 26 45' 00.400"	W 171 27' 58.200"	26.75011	-171.4662	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Delete	Ship Reporting Area Limit PT 3 OF 21	use Chart No. 1: N1.2	N 26 24' 21.400"	W 170 20' 25.400"	26.40594	-170.3404	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Delete	Ship Reporting Area Limit PT 4 OF 21	use Chart No. 1: N1.2	N 25 56' 35.700"	W 167 31' 58.000"	25.94325	-167.5328	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Delete	Ship Reporting Area Limit PT 5 OF 21	use Chart No. 1: N1.2	N 24 50' 19.100"	W 165 58' 34.800"	24.83864	-165.9763	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Delete	Ship Reporting Area Limit PT 6 OF 21	use Chart No. 1: N1.2	N 24 01' 43.600"	W 161 37' 42.700"	24.02878	-161.6285	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Delete	Ship Reporting Area Limit PT 7 OF 21	use Chart No. 1: N1.2	N 23 34' 22.600"	W 160 59' 09.400"	23.57294	-160.9859	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Delete	Ship Reporting Area Limit PT 8 OF 21	use Chart No. 1: N1.2	N 22 52' 47.800"	W 160 51' 18.500"	22.87994	-160.8551	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Delete	Ship Reporting Area Limit PT 9 OF 21	use Chart No. 1: N1.2	N 22 21' 43.700"	W 161 08' 51.500"	22.36214	-161.1476	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Delete	Ship Reporting Area Limit PT 10 OF 21	use Chart No. 1: N1.2	N 22 35' 01.600"	W 164 50' 00.700"	22.58378	-164.8335	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Delete	Ship Reporting Area Limit PT 11 OF 21	use Chart No. 1: N1.2	N 22 47' 42.300"	W 166 38' 07.700"	22.79508	-166.6355	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Delete	Ship Reporting Area Limit PT 12 OF 21	use Chart No. 1: N1.2	N 24 03' 52.200"	W 168 27' 25.400"	24.0645	-168.4571	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Delete	Ship Reporting Area Limit PT 13 OF 21	use Chart No. 1: N1.2	N 24 25' 40.200"	W 170 43' 36.100"	24.42783	-170.7267	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Delete	Ship Reporting Area Limit PT 14 OF 21	use Chart No. 1: N1.2	N 24 46' 41.400"	W 171 52' 57.800"	24.77817	-171.8827	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Delete	Ship Reporting Area Limit PT 15 OF 21	use Chart No. 1: N1.2	N 25 07' 44.500"	W 174 28' 43.300"	25.12903	-174.4787	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Delete	Ship Reporting Area Limit PT 16 OF 21	use Chart No. 1: N1.2	N 27 05' 47.500"	W 176 35' 19.400"	27.09653	-176.5887	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Delete	Ship Reporting Area Limit PT 17 OF 21	use Chart No. 1: N1.2	N 27 27' 18.400"	W 178 37' 49.500"	27.45511	-178.6304	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Delete	Ship Reporting Area Limit PT 18 OF 21	use Chart No. 1: N1.2	N 27 57' 03.000"	W 176 19' 45.200"	27.95083	-176.3292	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Delete	Ship Reporting Area Limit PT 20 OF 21	use Chart No. 1: N1.2	N 29 18' 56.000"	W 178 50' 33.800"	29.31556	-178.8427	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Delete	Ship Reporting Area Limit PT 21 OF 21	use Chart No. 1: N1.2	N 29 24' 47.800"	W 178 08' 33.300"	29.41328	-178.1426	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Add	Ship Reporting Area Limit PT 6 OF 24	use Chart No. 1: N1.2	N 25 56' 29.300"	W 167 32' 01.600"	25.94147	-167.5338	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Add	Ship Reporting Area Limit PT 5 OF 24	use Chart No. 1: N1.2	N 26 23' 57.300"	W 170 20' 14.700"	26.39925	-170.3374	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Delete	Ship Reporting Area Limit PT 19 OF 21	use Chart No. 1: N1.2	N 28 44' 13.500"	W 179 24' 19.800"	28.73708	-179.4055	LNM 30/13, 14th Dist	2407	540_1	7/18/2013
+540	Relocate	HOT site surface mooring buoy	Y Fl Y 4s Priv	N 22 40' 00.000"	W 157 57' 00.000"	22.66667	-157.95	LNM 28/11, 14th Dist	2407	540_1	7/25/2011
+540	Relocate	NOAA Data Lighted Buoy 51003	Y ODAS "51003" Fl (4) Y 20s Priv PA	N 19 20' 52.490"	W 160 37' 15.906"	19.34791	-160.6211	LNM 14/11, 14th Dist	2407	540_1	3/30/2011
+540	Delete	American Marine Barge	Platform Fl 4s	N 21 20' 00.000"	W 158 12' 00.000"	21.33333	-158.2	LNM 06/11, 14th Dist	2407	540_1	2/14/2011
+540	Relocate	NOAA Data Lighted Buoy 51002	Y ODAS "51002" Fl (4) Y 20s Priv PA	N 17 05' 39.000"	W 157 48' 27.000"	17.09417	-157.8075	LNM 03/11, 14th Dist	2407	540_1	1/21/2011
+540	Relocate	NOAA DART Data Lighted Buoy 51407	RW ODAS "51407" Fl (4) Y 20s Priv PA	N 19 38' 31.000"	W 156 30' 56.000"	19.64194	-156.5155	LNM 03/11, 14th Dist	2407	540_1	1/21/2011
+540	Relocate	NOAA Data Lighted Buoy 51000	Y ODAS "51000" Fl (4)Y 20s PA	N 23 32' 47.000"	W 154 03' 20.000"	23.54639	-154.0556	LNM 02/11, 14th Dist	2407	540_1	1/18/2011
+540	Add	Submarine Cable  PT 1 OF 9	Chart No. 1: L30.1	N 20 01' 26.400"	W 155 49' 24.300"	20.024	-155.8234	LNM 47/10, 14th Dist	2407	540_1	11/15/2010
+540	Add	Submarine Cable  PT 2 OF 9	Chart No. 1: L30.1	N 19 55' 03.600"	W 156 13' 29.400"	19.91767	-156.2248	LNM 47/10, 14th Dist	2407	540_1	11/15/2010
+540	Add	Submarine Cable  PT 3 OF 9	Chart No. 1: L30.1	N 19 46' 09.900"	W 156 22' 53.900"	19.76942	-156.3816	LNM 47/10, 14th Dist	2407	540_1	11/15/2010
+540	Add	Submarine Cable  PT 4 OF 9	Chart No. 1: L30.1	N 19 33' 36.300"	W 156 29' 46.500"	19.56008	-156.4962	LNM 47/10, 14th Dist	2407	540_1	11/15/2010
+540	Add	Submarine Cable  PT 5 OF 9	Chart No. 1: L30.1	N 19 16' 34.000"	W 156 43' 05.900"	19.27611	-156.7183	LNM 47/10, 14th Dist	2407	540_1	11/15/2010
+540	Add	Submarine Cable  PT 6 OF 9	Chart No. 1: L30.1	N 18 37' 36.000"	W 156 42' 19.100"	18.62667	-156.7053	LNM 47/10, 14th Dist	2407	540_1	11/15/2010
+540	Add	Submarine Cable  PT 7 OF 9	Chart No. 1: L30.1	N 15 52' 04.000"	W 156 23' 15.300"	15.86778	-156.3876	LNM 47/10, 14th Dist	2407	540_1	11/15/2010
+540	Add	Submarine Cable  PT 8 OF 9	Chart No. 1: L30.1	N 10 13' 22.700"	W 155 30' 12.700"	10.22297	-155.5035	LNM 47/10, 14th Dist	2407	540_1	11/15/2010
+540	Add	Submarine Cable  PT 9 OF 9	Chart No. 1: L30.1	N 05 00' 02.700"	W 155 02' 15.400"	5.00075	-155.0376	LNM 47/10, 14th Dist	2407	540_1	11/15/2010
+540	Relocate	HOT site surface mooring buoy	Y Fl Y 4s Priv	N 22 46' 00.000"	W 157 54' 00.000"	22.76667	-157.9	WNM 36/10, NGA	2407	540_1	8/27/2010
+540	Relocate	NOAA ODAS LB BUOY 51002	Y "51002" , Fl (4) Y 20s, ODAS PA	N 17 05' 41.000"	W 157 46' 48.000"	17.09472	-157.78	LNM 18/10, 14th Dist	2407	540_1	5/20/2010
+540	Delete	Obstruction	Subm Buoys	N 20 53' 12.000"	W 157 14' 24.000"	20.88667	-157.24	LNM 15/10, 14th Dist	2407	540_1	5/20/2010
+540	Add	Submarine Cable  PT 5 OF 10	Chart No. 1: L30.1	N 21 35' 48.000"	W 158 24' 10.000"	21.59667	-158.4028	LNM 12/10, 14th Dist	2407	540_1	3/24/2010
+540	Add	Submarine Cable  PT 1 OF 10	Chart No. 1: L30.1	N 25 54' 15.000"	W 154 00' 00.000"	25.90417	-154	LNM 11/10, 14th Dist	2407	540_1	3/24/2010
+540	Add	Submarine Cable  PT 3 OF 10	Chart No. 1: L30.1	N 21 32' 49.000"	W 158 14' 28.000"	21.54694	-158.2411	LNM 12/10, 14th Dist	2407	540_1	3/24/2010
+540	Add	Submarine Cable  PT 2 OF 10	Chart No. 1: L30.1	N 24 09' 43.000"	W 156 47' 14.000"	24.16195	-156.7872	LNM 12/10, 14th Dist	2407	540_1	3/24/2010
+540	Add	Submarine Cable  PT 4 OF 10	Chart No. 1: L30.1	N 21 32' 49.000"	W 158 14' 28.000"	21.54694	-158.2411	LNM 12/10, 14th Dist	2407	540_1	3/24/2010
+540	Add	Submarine Cable  PT 6 OF 10	Chart No. 1: L30.1	N 21 12' 11.000"	W 161 05' 20.000"	21.20306	-161.0889	LNM 11/10, 14th Dist	2407	540_1	3/24/2010
+540	Add	Submarine Cable  PT 7 OF 10	Chart No. 1: L30.1	N 21 21' 46.000"	W 164 52' 58.000"	21.36278	-164.8828	LNM 11/10, 14th Dist	2407	540_1	3/24/2010
+540	Add	Submarine Cable  PT 8 OF 10	Chart No. 1: L30.1	N 21 08' 36.000"	W 168 15' 25.000"	21.14333	-168.2569	LNM 12/10, 14th Dist	2407	540_1	3/24/2010
+540	Add	Submarine Cable  PT 9 OF 10	Chart No. 1: L30.1	N 21 28' 35.000"	W 168 44' 42.000"	21.47639	-168.745	LNM 11/10, 14th Dist	2407	540_1	3/24/2010
+540	Add	Submarine Cable  PT 10 OF 10	Chart No. 1: L30.1	N 22 41' 14.000"	W 178 59' 30.000"	22.68722	-178.9917	LNM 11/10, 14th Dist	2407	540_1	3/24/2010
+540	Change	Kailua Light	 Fl 6s 32ft 13M	N 19 38' 16.117"	W 156 00' 03.159"	19.63781	-156.0009	LNM 49/09, 14th Dist	2407	540_1	12/22/2009
+540	Delete	UH Research Lighted Buoy B	Y "B" Fl Y 4s Priv	N 22 40' 12.480"	W 157 57' 00.060"	22.67013	-157.95	LNM 47/09, 14th Dist	2407	540_1	12/10/2009
+540	Add	HOT site surface mooring buoy	Y Fl Y 4s Priv	N 22 39' 59.340"	W 157 56' 57.600"	22.66648	-157.9493	LNM 47/09, 14th Dist	2407	540_1	12/10/2009
+540	Add	Sounding in Fathoms	775	N 08 19' 00.000"	W 159 53' 00.000"	8.316667	-159.8833	WNM 45/09, NGA	2407	540_1	11/12/2009
+540	Add	Sounding in Fathoms	705	N 08 15' 00.000"	W 160 02' 00.000"	8.25	-160.0333	WNM 45/09, NGA	2407	540_1	11/12/2009
+540	Add	Sounding in Fathoms	930	N 15 02' 00.000"	W 173 12' 00.000"	15.03333	-173.2	WNM 45/09, NGA	2407	540_1	11/12/2009
+540	Add	Sounding in Fathoms	977	N 15 02' 00.000"	W 173 05' 00.000"	15.03333	-173.0833	WNM 45/09, NGA	2407	540_1	11/12/2009
+540	Add	Sounding in Fathoms	710	N 11 00' 00.000"	W 170 50' 00.000"	11	-170.8333	WNM 45/09, NGA	2407	540_1	11/12/2009
+540	Change	Pyramid Rock Light	 Fl 6s 101ft 10M	N 21 27' 44.107"	W 157 45' 48.690"	21.46225	-157.7635	LNM 42/09, 14th Dist	2407	540_1	10/29/2009
+540	Add	Non-dangerous submerged wreck	Chart No 1:K29	N 23 01' 36.000"	W 160 02' 36.000"	23.02667	-160.0433	WNM 40/09, NGA	2407	540_1	10/21/2009
+540	Add	Non-dangerous submerged wreck	Chart No 1:K29	N 23 07' 48.000"	W 160 10' 30.000"	23.13	-160.175	WNM 40/09, NGA	2407	540_1	10/21/2009
+540	Change	Pauwela Point Light	Fl 15s 161ft 12M 	N 20 56' 44.035"	W 156 19' 16.767"	20.94557	-156.3213	LNM 38/09, 14th Dist	2407	540_1	10/21/2009
+540	Add	Non-dangerous subm wreck	Chart No 1: K29	N 23 00' 06.000"	W 159 53' 06.000"	23.00167	-159.885	WNM 39/09, NGA	2407	540_1	9/23/2009
+540	Add	Non-dangerous wreck	Chart No 1:K29	N 22 54' 48.000"	W 160 00' 42.000"	22.91333	-160.0117	WNM 35/09, NGA	2407	540_1	8/26/2009
+540	Add	Non-dangerous wreck	Chart No 1:K29	N 22 58' 42.000"	W 160 09' 48.000"	22.97833	-160.1633	WNM 35/09, NGA	2407	540_1	8/26/2009
+540	Change	Keahole Point Light	Fl 6s 43ft 9M	N 19 43' 40.351"	W 156 03' 39.799"	19.72787	-156.0611	LNM 33/09, 14th Dist	2407	540_1	8/26/2009
+540	Add	Non-dangerous wreck	Chart No 1: K29	N 23 37' 54.000"	W 160 46' 36.000"	23.63167	-160.7767	WNM 34/09, NGA	2407	540_1	8/20/2009
+540	Add	Submarine Cable  PT 1 OF 10	Chart No. 1: L30.1	N 21 57' 14.000"	W 159 43' 44.800"	21.95389	-159.7291	LNM 29/09, 14th Dist	2407	540_1	7/23/2009
+540	Add	Submarine Cable  PT 2 OF 10	Chart No. 1: L30.1	N 21 50' 00.100"	W 159 47' 03.200"	21.83336	-159.7842	LNM 29/09, 14th Dist	2407	540_1	7/23/2009
+540	Add	Submarine Cable  PT 3 OF 10	Chart No. 1: L30.1	N 21 44' 30.000"	W 159 43' 44.800"	21.74167	-159.7291	LNM 29/09, 14th Dist	2407	540_1	7/23/2009
+540	Add	Submarine Cable  PT 4 OF 10	Chart No. 1: L30.1	N 21 31' 56.500"	W 159 05' 25.000"	21.53236	-159.0903	LNM 29/09, 14th Dist	2407	540_1	7/23/2009
+540	Add	Submarine Cable  PT 5 OF 10	Chart No. 1: L30.1	N 21 32' 13.900"	W 158 54' 40.300"	21.5372	-158.9112	LNM 29/09, 14th Dist	2407	540_1	7/23/2009
+540	Add	Submarine Cable  PT 6 OF 10	Chart No. 1: L30.1	N 21 30' 12.100"	W 158 47' 32.500"	21.50336	-158.7924	LNM 29/09, 14th Dist	2407	540_1	7/23/2009
+540	Add	Submarine Cable  PT 7 OF 10	Chart No. 1: L30.1	N 21 31' 44.900"	W 158 40' 40.000"	21.52914	-158.6778	LNM 29/09, 14th Dist	2407	540_1	7/23/2009
+540	Add	Submarine Cable  PT 8 OF 10	Chart No. 1: L30.1	N 21 30' 06.300"	W 158 29' 46.300"	21.50175	-158.4962	LNM 29/09, 14th Dist	2407	540_1	7/23/2009
+540	Add	Submarine Cable  PT 9 OF 10	Chart No. 1: L30.1	N 21 25' 56.800"	W 158 18' 05.800"	21.43244	-158.3016	LNM 29/09, 14th Dist	2407	540_1	7/23/2009
+540	Add	Submarine Cable  PT 10 OF 10	Chart No. 1: L30.1	N 21 28' 16.100"	W 158 13' 39.200"	21.47114	-158.2276	LNM 29/09, 14th Dist	2407	540_1	7/23/2009
+540	Add	Submarine Cable  PT 1 OF 4	Chart No. 1: L30.1	N 21 17' 19.900"	W 157 40' 10.700"	21.28886	-157.6696	LNM 29/09, 14th Dist	2407	540_1	7/23/2009
+540	Add	Submarine Cable  PT 4 OF 4	Chart No. 1: L30.1	N 21 03' 40.000"	W 156 59' 40.700"	21.06111	-156.9946	LNM 29/09, 14th Dist	2407	540_1	7/23/2009
+540	Add	Submarine Cable  PT 2 OF 4	Chart No. 1: L30.1	N 21 02' 47.700"	W 157 29' 19.800"	21.04658	-157.4888	LNM 29/09, 14th Dist	2407	540_1	7/23/2009
+540	Add	Submarine Cable  PT 3 OF 4	Chart No. 1: L30.1	N 21 01' 49.500"	W 157 03' 23.900"	21.03042	-157.0566	LNM 29/09, 14th Dist	2407	540_1	7/23/2009
+540	Add	Submarine Cable  PT 1 OF 5	Chart No. 1: L30.1	N 21 03' 34.200"	W 156 59' 22.100"	21.0595	-156.9895	LNM 29/09, 14th Dist	2407	540_1	7/23/2009
+540	Add	Submarine Cable  PT 2 OF 5	Chart No. 1: L30.1	N 21 00' 39.600"	W 156 59' 09.700"	21.011	-156.986	LNM 29/09, 14th Dist	2407	540_1	7/23/2009
+540	Add	Submarine Cable  PT 3 OF 5	Chart No. 1: L30.1	N 20 59' 06.500"	W 156 57' 24.300"	20.98514	-156.9568	LNM 29/09, 14th Dist	2407	540_1	7/23/2009
+540	Add	Submarine Cable  PT 4 OF 5	Chart No. 1: L30.1	N 20 59' 43.200"	W 156 49' 45.600"	20.99533	-156.8293	LNM 29/09, 14th Dist	2407	540_1	7/23/2009
+540	Add	Submarine Cable  PT 5 OF 5	Chart No. 1: L30.1	N 20 53' 57.800"	W 156 41' 42.100"	20.89939	-156.695	LNM 29/09, 14th Dist	2407	540_1	7/23/2009
+540	Add	Sounding in Fathoms	1920	N 20 04' 30.000"	W 156 59' 36.000"	20.075	-156.9933	WNM 28/09, NGA	2407	540_1	7/23/2009
+540	Add	Non-dangerous wreck	Chart No 1: K 29	N 23 03' 24.000"	W 160 27' 30.000"	23.05667	-160.4583	WNM 27/09, NGA	2407	540_1	7/9/2009
+540	Add	Non-dangerous wreck	Chart No 1: K 29	N 23 04' 48.000"	W 160 20' 06.000"	23.08	-160.335	WNM 27/09, NGA	2407	540_1	7/9/2009
+540	Add	Non-dangerous wreck	Chart No 1: K 29	N 23 01' 12.000"	W 159 53' 00.000"	23.02	-159.8833	WNM 27/09, NGA	2407	540_1	7/9/2009
+540	Delete	label	SHIP REPORTING SYSTEM AREA (see note E)	N 27 23' 06.000"	W 174 33' 00.000"	27.385	-174.55	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Change	NOTE F	The Areas to be Avoided and the Particularly Sensitive Sea Area have been charted in their true positions. The limits of the Papahanaumokuakea Marine National Monument have been slightly offset for clarity. The inner limit of the Ship Reporting System Area is co-linear with the outer limits of the Areas to be Avoided and is not depicted. 	N 29 59' 30.000"	W 154 41' 10.000"	29.99167	-154.6861	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Change	NOTE E SHIP REPORTING SYSTEM	The following vessels entering or departing any U.S. port of place and in transit through the reporting area are required to report into the System: all vessels 300 gross tons or greater and all vessels in the event of a developing emergency. The following vessels in transit through the reporting area should report into the System: all vessels 300 gross tons or greater, fishing vessels, and all vessels in the event of a developing emergency. See IMO SN.1, Circ. 273. Information concerning the Ship Reporting System is also published in the U.S. Coast Pilot 7, Chapters 2 and 14, and updated through Notices to Mariners. Information may also be obtained at the Office of the Commander, 14th Coast Guard District in Honolulu, or at the Office of the District Engineer, Corps of Engineers, in Honolulu. 	N 29 59' 30.000"	W 168 00' 00.000"	29.99167	-168	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 1 OF 10	(Chart No. 1: N1.2)	N 27 14' 47.000"	W 176 29' 49.000"	27.24639	-176.4969	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 2 OF 10	(Chart No. 1: N1.2)	N 27 35' 04.000"	W 178 28' 44.000"	27.58444	-178.4789	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 3 OF 10	(Chart No. 1: N1.2)	N 27 55' 22.000"	W 179 07' 56.000"	27.92278	-179.1322	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 4 OF 10	(Chart No. 1: N1.2)	N 28 35' 21.000"	W 179 17' 39.000"	28.58917	-179.2942	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 5 OF 10	(Chart No. 1: N1.2)	N 29 13' 16.000"	W 178 43' 46.000"	29.22111	-178.7294	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 6 OF 10	(Chart No. 1: N1.2)	N 29 13' 59.000"	W 177 59' 01.000"	29.23306	-177.9836	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 7 OF 10	(Chart No. 1: N1.2)	N 28 34' 58.000"	W 175 19' 44.000"	28.58278	-175.3289	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 8 OF 10	(Chart No. 1: N1.2)	N 28 03' 59.000"	W 174 52' 56.000"	28.06639	-174.8822	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 9 OF 10	(Chart No. 1: N1.2)	N 27 20' 57.000"	W 175 02' 27.000"	27.34917	-175.0408	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 10 OF 10	(Chart No. 1: N1.2)	N 26 59' 03.000"	W 175 51' 44.000"	26.98417	-175.8622	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 1 OF 11	(Chart No. 1: N1.2)	N 25 16' 37.000"	W 174 24' 44.000"	25.27695	-174.4122	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 2 OF 11	(Chart No. 1: N1.2)	N 24 56' 13.000"	W 171 50' 06.000"	24.93694	-171.835	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 3 OF 11	(Chart No. 1: N1.2)	N 24 35' 28.000"	W 170 47' 36.000"	24.59111	-170.7933	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 4 OF 11	(Chart No. 1: N1.2)	N 24 27' 33.000"	W 169 55' 11.000"	24.45917	-169.9197	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 5 OF 11	(Chart No. 1: N1.2)	N 25 03' 12.000"	W 169 06' 13.000"	25.05333	-169.1036	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 6 OF 11	(Chart No. 1: N1.2)	N 26 09' 21.000"	W 169 42' 47.000"	26.15583	-169.7131	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 7 OF 11	(Chart No. 1: N1.2)	N 26 35' 40.000"	W 171 30' 28.000"	26.59444	-171.5078	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 8 OF 11	(Chart No. 1: N1.2)	N 26 54' 01.000"	W 173 48' 52.000"	26.90028	-173.8144	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 8 OF 11	(Chart No. 1: N1.2)	N 26 43' 29.000"	W 174 35' 23.000"	26.72472	-174.5897	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 10 OF 11	(Chart No. 1: N1.2)	N 26 10' 39.000"	W 174 55' 13.000"	26.1775	-174.9203	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 11 OF 11	(Chart No. 1: N1.2)	N 25 38' 53.000"	W 174 48' 43.000"	25.64806	-174.812	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 1 OF 12	(Chart No. 1: N1.2)	N 24 14' 57.000"	W 168 25' 42.000"	24.24917	-168.4283	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 2 OF 12	(Chart No. 1: N1.2)	N 22 57' 27.000"	W 166 35' 50.000"	22.9575	-166.5972	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 3 OF 12	(Chart No. 1: N1.2)	N 22 45' 04.000"	W 164 53' 15.000"	22.75111	-164.8875	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 4 OF 12	(Chart No. 1: N1.2)	N 22 50' 45.000"	W 164 12' 29.000"	22.84583	-164.2081	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 5 OF 12	(Chart No. 1: N1.2)	N 23 27' 15.000"	W 163 46' 14.000"	23.45417	-163.7706	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 6 OF 12	(Chart No. 1: N1.2)	N 24 03' 12.000"	W 163 54' 36.000"	24.05333	-163.91	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 7 OF 12	(Chart No. 1: N1.2)	N 24 24' 42.000"	W 164 31' 28.000"	24.41167	-164.5244	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 8 OF 12	(Chart No. 1: N1.2)	N 24 41' 59.000"	W 166 03' 26.000"	24.69972	-166.0572	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 9 OF 12	(Chart No. 1: N1.2)	N 25 47' 06.000"	W 167 36' 44.000"	25.785	-167.6122	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 10 OF 12	(Chart No. 1: N1.2)	N 25 47' 13.000"	W 168 23' 32.000"	25.78695	-168.3922	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 11 OF 12	(Chart No. 1: N1.2)	N 25 02' 44.000"	W 168 57' 07.000"	25.04556	-168.952	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 12 OF 12	(Chart No. 1: N1.2)	N 24 29' 03.000"	W 168 45' 51.000"	24.48417	-168.7642	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 1 OF 10	(Chart No. 1: N1.2)	N 23 52' 57.000"	W 161 46' 29.000"	23.8825	-161.7747	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 2 OF 10	(Chart No. 1: N1.2)	N 23 26' 12.000"	W 161 07' 01.000"	23.43667	-161.1169	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 3 OF 10	(Chart No. 1: N1.2)	N 22 57' 44.000"	W 161 01' 14.000"	22.96222	-161.0206	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 4 OF 10	(Chart No. 1: N1.2)	N 22 19' 57.000"	W 161 29' 02.000"	22.3325	-161.4839	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 5 OF 10	(Chart No. 1: N1.2)	N 22 13' 36.000"	W 162 00' 45.000"	22.22667	-162.0125	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 6 OF 10	(Chart No. 1: N1.2)	N 22 29' 51.000"	W 162 36' 11.000"	22.4975	-162.6031	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 7 OF 10	(Chart No. 1: N1.2)	N 22 47' 47.000"	W 162 46' 43.000"	22.79639	-162.7786	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 8 OF 10	(Chart No. 1: N1.2)	N 23 16' 22.000"	W 162 48' 04.000"	23.27278	-162.8011	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 9 OF 10	(Chart No. 1: N1.2)	N 23 42' 06.000"	W 162 30' 05.000"	23.70167	-162.5014	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	Ship Reporting System Area limit PT 10 OF 10	(Chart No. 1: N1.2)	N 23 53' 25.000"	W 161 56' 18.000"	23.89028	-161.9383	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	label	SHIP REPORTING SYSTEM AREA (see note E)	N 25 41' 40.000"	W 168 54' 53.000"	25.69444	-168.9147	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	label	SHIP REPORTING SYSTEM AREA (see note E)	N 22 51' 51.000"	W 163 23' 45.000"	22.86417	-163.3958	LNM 26/09, 14th Dist	2407	540_1	7/6/2009
+540	Change	Keahole Point Light	Fl 6s 43ft 7M 	N 19 43' 40.351"	W 156 03' 39.799"	19.72787	-156.0611	LNM 24/09, 14th Dist	2407	540_1	7/6/2009
+540	Delete	legend	LORAN TOWER	N 16 53' 16.900"	W 169 14' 19.900"	16.88803	-169.2389	LNM 24/09, 14th Dist	2407	540_1	6/18/2009
+540	Delete	Aeronautical Radiobeacon	AERO R Bn 388 ._  ._ _.  _ _ _ (Chart No.1:S16)	N 16 43' 52.500"	W 169 31' 59.300"	16.73125	-169.5331	LNM 24/09, 14th Dist	2407	540_1	6/18/2009
+540	Add	NOAA Data Lighted Buoy 51101	Y ODAS "51101" Fl(4)Y 20s PA	N 24 19' 15.000"	W 162 03' 30.000"	24.32083	-162.0583	LNM 18/09, 14th Dist	2407	540_1	5/21/2009
+540	Add	NOAA Data Lighted Buoy 51000	Y ODAS "51000" Fl(4)Y 20s PA	N 23 27' 50.000"	W 154 00' 00.000"	23.46389	-154	LNM 18/09, 14th Dist	2407	540_1	5/21/2009
+540	Relocate	NOAA Data LB 51001	Y ODAS Fl (4) Y 20s "51001" Priv PA 	N 23 26' 42.000"	W 162 16' 43.000"	23.445	-162.2786	LNM 10/09, 14th Dist	2407	540_1	3/19/2009
+540	Delete	NOAA DART II Tsunami Warning LB	RW ODAS Fl Y 4s "DART II" Priv	N 19 38' 05.000"	W 156 30' 42.000"	19.63472	-156.5117	LNM 10/09, 14th Dist	2407	540_1	3/19/2009
+540	Add	NOAA DART Data  LB 51407	RW ODAS "51407" Fl (4) Y 20s Priv PA	N 19 37' 48.000"	W 156 31' 30.000"	19.63	-156.525	LNM 10/09, 14th Dist	2407	540_1	3/19/2009
+540	Add	Sounding in Fathoms	116	N 22 47' 12.000"	W 161 02' 06.000"	22.78667	-161.035	WNM 41/08, NGA	2407	540_1	10/16/2008
+540	Delete	Sounding in Fathoms	335	N 22 48' 42.000"	W 161 00' 59.000"	22.81167	-161.0164	WNM 41/08, NGA	2407	540_1	10/16/2008
+540	Add	Sounding in Fathoms	1600 (Rep 2006)	N 23 56' 18.000"	W 155 16' 06.000"	23.93833	-155.2683	WNM 31/08, NGA	2407	540_1	9/26/2008
+540	Add	Sounding in Fathoms	957  (Rep 2007)	N 23 18' 42.000"	W 158 21' 24.000"	23.31167	-158.3567	WNM 19/08, NGA	2407	540_1	5/29/2008
+540	Delete	Sounding in Fathoms	1235	N 23 18' 00.000"	W 158 21' 00.000"	23.3	-158.35	WNM 19/08, NGA	2407	540_1	5/29/2008
+540	Change	Kailua LT	Iso 6s 32ft 13M	N 19 38' 16.117"	W 156 00' 03.159"	19.63781	-156.0009	LNM 17/08, 14th Dist	2407	540_1	5/7/2008

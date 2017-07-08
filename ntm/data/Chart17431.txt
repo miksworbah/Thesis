@@ -1,0 +1,6 @@
+Chart: 17431, Current Edition: 12, Print Date: Dec. /2014, N. end of Cordova Bay and Hetta Inlet
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+17431	Add	Sounding in Fathoms & Feet	0_5	N 54 58' 28.600"	W 132 50' 21.500"	54.97461	-132.8393	LNM 27/17, 17th Dist	2749	17431_1	6/29/2017
+17431	Delete	Sounding in Fathoms 	13	N 54 58' 27.500"	W 132 50' 19.000"	54.9743	-132.8386	LNM 27/17, 17th Dist	2749	17431_1	6/29/2017
+17431	Delete	Sounding in Fathoms 	9	N 54 57' 06.000"	W 132 48' 38.000"	54.95167	-132.8106	LNM 27/17, 17th Dist	2749	17431_1	6/29/2017
+17431	Add	Sounding in Fathoms 	1	N 54 57' 04.700"	W 132 48' 39.600"	54.95131	-132.811	LNM 27/17, 17th Dist	2749	17431_1	6/29/2017

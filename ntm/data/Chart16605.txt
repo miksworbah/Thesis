@@ -1,0 +1,2 @@
+Chart: 16605, Current Edition: 10, Print Date: Jun. /2014, Shuyak Strait and Bluefox Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

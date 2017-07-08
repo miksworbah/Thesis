@@ -1,0 +1,45 @@
+Chart: 11302, Current Edition: 34, Print Date: Jan. /2014, Intracoastal Waterway Stover Point to Port Brownsville, including Brazos Santiago Pass
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11302	Change	tabulation - BROWNSVILLE AND PORT ISABEL HARBORS CHANNEL DEPTHS	tabulation - BROWNSVILLE AND PORT ISABEL HARBORS CHANNEL DEPTHS	N 25 57' 24.000"	W 097 15' 15.000"	25.95667	-97.25417	LNM 09/17, 8th Dist	122	11302_1	3/2/2017
+11302	Add	Channel Limits PT 1 OF 4	Chart No. 1: I20	N 26 03' 59.500"	W 097 07' 56.900"	26.06653	-97.13247	LNM 09/17, 8th Dist	122	11302_1	2/23/2017
+11302	Add	Channel Limits PT 2 OF 4	Chart No. 1: I20	N 26 04' 00.200"	W 097 06' 38.900"	26.06672	-97.11081	LNM 09/17, 8th Dist	122	11302_1	2/23/2017
+11302	Add	Channel Limits PT 3 OF 4	Chart No. 1: I20	N 26 03' 56.500"	W 097 07' 57.200"	26.06569	-97.13255	LNM 09/17, 8th Dist	122	11302_1	2/23/2017
+11302	Add	Channel Limits PT 4 OF 4	Chart No. 1: I20	N 26 03' 57.200"	W 097 06' 39.100"	26.06589	-97.11086	LNM 09/17, 8th Dist	122	11302_1	2/23/2017
+11302	Delete	Sounding in Feet	49	N 26 03' 59.930"	W 097 07' 20.040"	26.06665	-97.12223	LNM 09/17, 8th Dist	122	11302_1	2/23/2017
+11302	Change	Channel Limits PT 1 OF 5	Chart No. 1: I20	N 25 57' 13.050"	W 097 23' 33.590"	25.95362	-97.39266	LNM 09/17, 8th Dist	122	11302_1	2/23/2017
+11302	Change	Channel Limits PT 2 OF 5	Chart No. 1: I20	N 25 57' 14.480"	W 097 23' 32.730"	25.95402	-97.39243	LNM 09/17, 8th Dist	122	11302_1	2/23/2017
+11302	Change	Channel Limits PT 3 OF 5	Chart No. 1: I20	N 25 57' 23.860"	W 097 23' 06.040"	25.95663	-97.38501	LNM 09/17, 8th Dist	122	11302_1	2/23/2017
+11302	Change	Channel Limits PT 4 OF 5	Chart No. 1: I20	N 25 57' 23.870"	W 097 23' 03.720"	25.95663	-97.38437	LNM 09/17, 8th Dist	122	11302_1	2/23/2017
+11302	Change	Channel Limits PT 5 OF 5	Chart No. 1: I20	N 25 57' 24.020"	W 097 23' 03.370"	25.95667	-97.38427	LNM 09/17, 8th Dist	122	11302_1	2/23/2017
+11302	Add	Guillot Parasail Platform Lights (2)	Q 5ft Priv	N 26 07' 47.990"	W 097 11' 09.240"	26.13	-97.1859	LNM 51/16, 8th Dist	122	11302_1	1/12/2017
+11302	Add	Platform	PA, Chart No. 1: L10	N 26 07' 59.730"	W 097 10' 59.630"	26.13326	-97.18323	LNM 48/16, 8th Dist	122	11302_1	11/24/2016
+11302	Add	Restricted Area	Chart No. 1: N2.1 or N2.2	N 26 07' 59.730"	W 097 10' 59.630"	26.13326	-97.18323	LNM 48/16, 8th Dist	122	11302_1	11/24/2016
+11302	Relocate	Laguna Madre Channel Lighted Buoy 5	G "5" Q G	N 26 03' 53.732"	W 097 10' 00.396"	26.06493	-97.16678	LNM 44/16, 8th Dist	122	11302_1	11/10/2016
+11302	Change	Port Isabel Small Boat Harbor Channel Lighted Buoy 10	R "10" Q R	N 26 04' 58.885"	W 097 13' 06.520"	26.08302	-97.21848	LNM 26/16, 8th Dist	122	11302_1	7/21/2016
+11302	Delete	Port Isabel Channel Light 7	Fl G 2.5s 17ft sM "7"	N 26 03' 13.334"	W 097 12' 39.733"	26.0537	-97.21104	LNM 27/16, 8th Dist	122	11302_1	7/21/2016
+11302	Change	Port Isabel Small Boat Harbor Channel Daybeacon 14 to Port Isabel Small Boat Harbor Channel Buoy 14, Red nun.	R N "14"	N 26 04' 51.376"	W 097 13' 11.318"	26.08094	-97.21981	LNM 26/16, 8th Dist	122	11302_1	7/7/2016
+11302	Change	Port Isabel Small Boat Harbor Channel Daybeacon 5 to Port Isabel Small Boat Harbor Channel Buoy 5, Green can.	G C "5"	N 26 05' 08.165"	W 097 12' 43.782"	26.0856	-97.21216	LNM 26/16, 8th Dist	122	11302_1	7/7/2016
+11302	Relocate	Port Isabel Small Boat Harbor Channel Lighted Buoy 10	Q R 17ft 3m "10" Ra Ref	N 26 04' 58.885"	W 097 13' 06.520"	26.08302	-97.21848	LNM 26/16, 8th Dist	122	11302_1	7/7/2016
+11302	Relocate	Port Isabel Small Boat Harbor Channel Buoy 14	R "14" 3 Ra Ref	N 26 04' 51.435"	W 097 13' 11.356"	26.08095	-97.21982	LNM 26/16, 8th Dist	122	11302_1	7/7/2016
+11302	Add	Overhead Power Cable  PT 1 OF 2	Chart No. 1: D26  	N 26 04' 17.100"	W 097 12' 06.490"	26.07142	-97.20181	LNM 13/16, 8th Dist	122	11302_1	3/31/2016
+11302	Add	Overhead Power Cable  PT 2 OF 2	Chart No. 1: D26  	N 26 04' 12.630"	W 097 12' 02.940"	26.07018	-97.20081	LNM 13/16, 8th Dist	122	11302_1	3/31/2016
+11302	Add	Overhead Power Cable Label	OVHD PWR CAB AUTH CL 94 FT REP	N 26 04' 15.500"	W 097 12' 05.200"	26.07097	-97.20145	LNM 13/16, 8th Dist	122	11302_1	3/31/2016
+11302	Relocate	Port Isabel Channel Light 7	Fl G 2.5s 17ft 3M "7"	N 26 03' 13.334"	W 097 12' 39.733"	26.0537	-97.21104	LNM 45/15, 8th Dist	122	11302_1	11/19/2015
+11302	Relocate	Port Isabel Small Boat Harbor Channel Daybeacon 5	G "5" Ra Ref	N 26 05' 08.165"	W 097 12' 43.782"	26.0856	-97.21216	LNM 42/15, 8th Dist	122	11302_1	10/29/2015
+11302	Relocate	Harlingen-Port Isabel Daybeacon 71	G "71" Ra Ref	N 26 05' 58.660"	W 097 12' 26.110"	26.09963	-97.20725	LNM 42/15, 8th Dist	122	11302_1	10/29/2015
+11302	Change	Depth Legend - Side Channel At Port Isabel (60 FT) to:	8 FT BY 60 FT APR 2015	N 26 04' 28.000"	W 097 11' 58.000"	26.07444	-97.19945	LNM 41/15, 8th Dist	122	11302_1	10/8/2015
+11302	Change	Depth Legend - Side Channel At Port Isabel (125 FT SOUTH LEG) to:	7 1/2 FT BY 125 FT APR 2015	N 26 03' 57.000"	W 097 12' 47.000"	26.06583	-97.21306	LNM 41/15, 8th Dist	122	11302_1	10/8/2015
+11302	Change	Depth Note - NOTE C PORT ISABEL SMALL BOAT HARBOR to:	The controlling depth was 2 feet for a width of 75 feet from the Intracoastal Waterway to the harbor entrance at 26°04'40"N, 97°13'10"W, thence 2 feet for a width of 50 feet to the turning basin and 2 feet in the basin. Apr 2015	N 26 04' 26.000"	W 097 14' 58.000"	26.07389	-97.24944	LNM 41/15, 8th Dist	122	11302_1	10/8/2015
+11302	Change	tabulation - BROWNSVILLE AND PORT ISABEL HARBORS CHANNEL DEPTHS	tabulation - BROWNSVILLE AND PORT ISABEL HARBORS CHANNEL DEPTHS	N 25 57' 24.000"	W 097 15' 15.000"	25.95667	-97.25417	LNM 36/15, 8th Dist	122	11302_1	9/24/2015
+11302	Change	Depth Note - PORT ISABEL SMALL BOAT HARBOR to:	The controlling depth was 3 1/2 feet for a width of 75 feet from the Intracoastal Waterway to the harbor entrance at 26°04'40"N, 97°13'10"W, thence 3 1/2 feet for a width of 50 feet to the turning basin and 3 1/2 feet in the basin. Mar 2014	N 26 04' 26.000"	W 097 14' 58.000"	26.07389	-97.24944	LNM 31/15, 8th Dist	122	11302_1	7/30/2015
+11302	Change	tabulation - BROWNSVILLE AND PORT ISABEL HARBORS CHANNEL DEPTHS	tabulation - BROWNSVILLE AND PORT ISABEL HARBORS CHANNEL DEPTHS	N 25 57' 24.000"	W 097 15' 15.000"	25.95667	-97.25417	LNM 25/15, 8th Dist	122	11302_1	6/25/2015
+11302	Change	tabulation - BROWNSVILLE AND PORT ISABEL HARBORS CHANNEL DEPTHS	tabulation - BROWNSVILLE AND PORT ISABEL HARBORS CHANNEL DEPTHS	N 25 57' 24.000"	W 097 15' 15.000"	25.95667	-97.25417	LNM 51/14, 8th Dist	122	11302_1	1/8/2015
+11302	Change	tabulation - BROWNSVILLE AND PORT ISABEL HARBORS CHANNEL DEPTHS	tabulation - BROWNSVILLE AND PORT ISABEL HARBORS CHANNEL DEPTHS	N 25 57' 24.000"	W 097 15' 15.000"	25.95667	-97.25417	LNM 37/14, 8th Dist	122	11302_1	9/11/2014
+11302	Change	Depth Legend - Side Channel At Port Isabel (60 FT) to:	6 FT BY 60 FT MAR 2014	N 26 04' 28.000"	W 097 11' 58.000"	26.07444	-97.19945	LNM 20/14, 8th Dist	122	11302_1	5/15/2014
+11302	Change	Depth Legend - Side Channel At Port Isabel (125 FT) to:	5 FT BY 125 FT MAR 2014	N 26 04' 03.000"	W 097 12' 42.000"	26.0675	-97.21167	LNM 20/14, 8th Dist	122	11302_1	5/15/2014
+11302	Change	NOTE C - Port Isabel Small Boat Harbor to:	The controlling depth was 3 1/2 feet for a width of 75 feet from the Intracoastal Waterway to the harbor entrance at 26°04'40"N, 97°13'10"W, thence 3 1/2 feet for a width of 50 feet to the turning basin and 4 feet in the basin.  Mar 2014	N 26 04' 26.000"	W 097 14' 58.000"	26.07389	-97.24944	LNM 20/14, 8th Dist	122	11302_1	5/15/2014
+11302	Relocate	Brownsville Channel Light 31	Q G 17ft 3M "31" Ra Ref	N 26 02' 01.835"	W 097 13' 09.264"	26.03384	-97.21924	LNM 15/14, 8th Dist	122	11302_1	4/24/2014
+11302	Add	Harlingen-Port Isabel Daybeacon 47	G "47" Ra Ref	N 26 11' 24.098"	W 097 15' 23.220"	26.19003	-97.25645	LNM 15/14, 8th Dist	122	11302_1	4/24/2014
+11302	Delete	Harlingen-Port Isabel Daybeacon 47	G "47" Ra Ref	N 26 11' 22.920"	W 097 15' 23.280"	26.1897	-97.25647	LNM 15/14, 8th Dist	122	11302_1	4/24/2014
+11302	Relocate	Harlingen-Port Isabel Daybeacon 51	G "51" Ra Ref	N 26 10' 27.889"	W 097 14' 58.253"	26.17441	-97.24951	LNM 15/14, 8th Dist	122	11302_1	4/24/2014
+11302	Relocate	Harlingen-Port Isabel Daybeacon 59	G "59" Ra Ref	N 26 08' 40.653"	W 097 13' 57.722"	26.14463	-97.2327	LNM 15/14, 8th Dist	122	11302_1	4/24/2014

@@ -1,0 +1,93 @@
+Chart: 13282, Current Edition: 12, Print Date: Sep. /2009, Newburyport Harbor and Plum Island Sound
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+13282	Delete	WHITE AND ORANGE BUOY	W Or Priv	N 42 49' 51.486"	W 070 53' 46.083"	42.83097	-70.89613	LNM 06/17, 1st Dist	2065	13282_1	2/16/2017
+13282	Delete	MERRIMACK RIVER ENTRANCE BUOY 5	G C "5"	N 42 48' 57.318"	W 070 48' 09.611"	42.81592	-70.80267	LNM 49/16, 1st Dist	2065	13282_1	12/15/2016
+13282	Add	MERRIMACK RIVER ENTRANCE SOUTH JETTY LT 5	Fl G 2.5s 15ft 4M "5"	N 42 48' 57.784"	W 070 48' 15.966"	42.81605	-70.80444	LNM 49/16, 1st Dist	2065	13282_1	12/15/2016
+13282	Change	tabulation - Newburyport Harbor Channel Depths	tabulation - Newburyport Harbor Channel Depths	N 42 49' 54.000"	W 070 51' 06.000"	42.83167	-70.85167	LNM 30/16, 1st Dist	2065	13282_1	12/8/2016
+13282	Relocate	MERRIMACK RIVER BUOY 22A	R N "22A"	N 42 49' 36.542"	W 070 53' 24.025"	42.82682	-70.89001	LNM 16/16, 1st Dist	2065	13282_1	4/28/2016
+13282	Delete	PLUM ISLAND POINT DBN P	GW "P"	N 42 49' 01.122"	W 070 49' 13.356"	42.81698	-70.82037	LNM 01/16, 1st Dist	2065	13282_1	1/14/2016
+13282	Change	MERRIMACK RIVER BUOY 22A	R N "22A"	N 42 49' 36.050"	W 070 53' 22.886"	42.82668	-70.88969	LNM 50/15, 1st Dist	2065	13282_1	12/24/2015
+13282	Change	tabulation - NEWBURYPORT HARBOR CHANNEL	tabulation - NEWBURYPORT HARBOR CHANNEL	N 42 49' 54.000"	W 070 51' 06.000"	42.83167	-70.85167	LNM 49/15, 1st Dist	2065	13282_1	12/3/2015
+13282	Relocate	MERRIMACK RIVER NORTH JETTY LT 4	Fl R 2.5s 15ft 4M "4"	N 42 49' 08.250"	W 070 48' 13.962"	42.81896	-70.80388	LNM 42/15, 1st Dist	2065	13282_1	10/29/2015
+13282	Add	Submarine Cable  PT 1 OF 2	None	N 42 49' 09.060"	W 070 52' 22.260"	42.81918	-70.87285	LNM 29/15, 1st Dist	2065	13282_1	7/23/2015
+13282	Add	Submarine Cable  PT 2 OF 2	None	N 42 49' 02.160"	W 070 52' 41.140"	42.81727	-70.8781	LNM 29/15, 1st Dist	2065	13282_1	7/23/2015
+13282	Change	to Swing Bridge	(Chart No. 1: D23.2)	N 42 50' 07.600"	W 070 54' 27.000"	42.83545	-70.9075	LNM 04/15, 1st Dist	2065	13282_1	1/29/2015
+13282	Change	to Swing Bridge Label	SWING BRIDGE HOR CL 54 FT VERT CL 14 FT 	N 42 50' 07.600"	W 070 54' 27.000"	42.83545	-70.9075	LNM 04/15, 1st Dist	2065	13282_1	1/29/2015
+13282	Change	SALISBURY POINT LIGHT	Fl Y 6s 8ft Priv	N 42 50' 17.940"	W 070 54' 45.660"	42.83832	-70.91268	LNM 47/14, 1st Dist	2065	13282_1	12/11/2014
+13282	Relocate	SALISBURY POINT LIGHT	Fl Y 6s 8ft Priv	N 42 50' 17.940"	W 070 54' 45.660"	42.83832	-70.91268	LNM 47/14, 1st Dist	2065	13282_1	12/11/2014
+13282	Change	tabulation - NEWBURYPORT HARBOR CHANNEL	tabulation - NEWBURYPORT HARBOR CHANNEL	N 42 49' 54.000"	W 070 51' 06.000"	42.83167	-70.85167	Not Yet Published	2065	13282_1	11/6/2014
+13282	Change	MERRIMACK RIVER ENTRANCE LB 2	R "2" Fl R 4s	N 42 49' 06.297"	W 070 47' 36.364"	42.81842	-70.79343	LNM 40/14, 1st Dist	2065	13282_1	10/16/2014
+13282	Relocate	STEAMBOAT CHANNEL NORTH JUNCTION BUOY SCN	GR C "SCN"	N 42 50' 10.980"	W 070 54' 48.931"	42.83638	-70.91359	LNM 20/14, 1st Dist	2065	13282_1	5/29/2014
+13282	Change	Fixed Bridge Label	FIXED BRIDGE HOR CL 114 FT VERT CL 12 FT	N 42 45' 44.420"	W 070 50' 51.540"	42.76234	-70.84765	LNM 21/14, 1st Dist	2065	13282_1	5/22/2014
+13282	Change	Fixed Bridge	None	N 42 45' 44.420"	W 070 50' 51.540"	42.76234	-70.84765	LNM 21/14, 1st Dist	2065	13282_1	5/22/2014
+13282	Change	to Bridge Construction	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 42 50' 04.620"	W 070 54' 41.380"	42.83462	-70.91149	LNM 08/14, 1st Dist	2065	13282_1	2/27/2014
+13282	Add	Bridge Construction Label	Bridge under construction (see note)	N 42 50' 04.620"	W 070 54' 41.380"	42.83462	-70.91149	LNM 08/14, 1st Dist	2065	13282_1	2/27/2014
+13282	Delete	Fixed Bridge Label	FIXED BRIDGE NORTH SPAN HOR CL 242 FT VERT CL 55 FT SOUTH SPAN HOR CL 150 FT VERT CL 32 FT	N 42 50' 04.620"	W 070 54' 41.380"	42.83462	-70.91149	LNM 08/14, 1st Dist	2065	13282_1	2/27/2014
+13282	Relocate	Plum Island Sound Buoy 12	R N "12"	N 42 42' 35.960"	W 070 47' 29.474"	42.70999	-70.79152	LNM 49/13, 1st Dist	2065	13282_1	12/6/2013
+13282	Relocate	Plum Island Sound Buoy 18	R N "18"	N 42 43' 00.890"	W 070 48' 52.718"	42.71692	-70.81464	LNM 49/13, 1st Dist	2065	13282_1	12/6/2013
+13282	Relocate	Plum Island Sound Buoy 19	G C "19"	N 42 43' 13.874"	W 070 48' 46.928"	42.72052	-70.81303	LNM 49/13, 1st Dist	2065	13282_1	12/6/2013
+13282	Relocate	Plum Island Sound Buoy 21	G C "21"	N 42 43' 30.693"	W 070 48' 44.804"	42.72519	-70.81245	LNM 49/13, 1st Dist	2065	13282_1	12/6/2013
+13282	Change	Plum Island Sound Buoy 23	G C "23"	N 42 43' 38.040"	W 070 48' 27.216"	42.72723	-70.80756	LNM 49/13, 1st Dist	2065	13282_1	12/6/2013
+13282	Relocate	Plum Island Sound Buoy 23	G C "23"	N 42 43' 38.040"	W 070 48' 27.216"	42.72723	-70.80756	LNM 49/13, 1st Dist	2065	13282_1	12/6/2013
+13282	Change	Plum Island Sound Buoy 23A	G C "23A"	N 42 43' 43.862"	W 070 48' 06.608"	42.72885	-70.80183	LNM 49/13, 1st Dist	2065	13282_1	12/6/2013
+13282	Relocate	Plum Island Sound Buoy 23A	G C "23A"	N 42 43' 43.862"	W 070 48' 06.608"	42.72885	-70.80183	LNM 49/13, 1st Dist	2065	13282_1	12/6/2013
+13282	Relocate	Plum Island Sound Buoy 25	G C "25"	N 42 44' 01.826"	W 070 48' 04.328"	42.73384	-70.8012	LNM 49/13, 1st Dist	2065	13282_1	12/6/2013
+13282	Relocate	Plum Island Sound Buoy 27	G C "27"	N 42 44' 11.593"	W 070 48' 13.626"	42.73655	-70.80379	LNM 49/13, 1st Dist	2065	13282_1	12/6/2013
+13282	Relocate	Plum Island Sound Buoy 29	G C "29"	N 42 44' 23.372"	W 070 48' 39.686"	42.73983	-70.81103	LNM 49/13, 1st Dist	2065	13282_1	12/6/2013
+13282	Relocate	Plum Island Sound Buoy 30	R N "30"	N 42 44' 31.968"	W 070 49' 01.980"	42.74221	-70.81721	LNM 49/13, 1st Dist	2065	13282_1	12/6/2013
+13282	Change	NOTE C to:	Positions of Private Aids to Navigation in the Ipswich and Eagle Hill Rivers are frequently shifted with changing conditions and are not charted.	N 42 41' 25.000"	W 070 47' 03.000"	42.69028	-70.78416	LNM 35/13, 1st Dist	2065	13282_1	9/3/2013
+13282	Change	Tabulation - Newburyport Harbor Channel Depths	Tabulation - Newburyport Harbor Channel Depths	N 42 49' 54.000"	W 070 51' 06.000"	42.83167	-70.85167	LNM 20/13, 1st Dist	2065	13282_1	5/10/2013
+13282	Relocate	Plum Island Sound Buoy 16	R N "16"	N 42 42' 48.598"	W 070 48' 49.710"	42.7135	-70.8138	LNM 18/13, 1st Dist	2065	13282_1	5/8/2013
+13282	Change	Plum Island Point Daybeacon P	GW "P" (delete green sector lines)	N 42 49' 01.122"	W 070 49' 13.356"	42.81698	-70.82037	LNM 19/13, 1st Dist	2065	13282_1	4/30/2013
+13282	Change	Plum Island Sound Entrance Lighted Buoy 2	R "2" Fl R 4s (delete BELL)	N 42 42' 10.000"	W 070 44' 24.000"	42.70278	-70.74	LNM 14/13, 1st Dist	2065	13282_1	4/9/2013
+13282	Relocate	Merrimack River North Jetty Light 4	Fl R 2.5s 15ft 4M "4"	N 42 49' 08.124"	W 070 48' 13.956"	42.81892	-70.80388	LNM 43/12, 1st Dist	2065	13282_1	10/31/2012
+13282	Relocate	Plum Island Point Daybeacon P	GW "P"	N 42 49' 01.122"	W 070 49' 13.356"	42.81698	-70.82037	LNM 43/12, 1st Dist	2065	13282_1	10/31/2012
+13282	Relocate	North Pier Light 18	Fl R 6s 22ft 3M "18"	N 42 48' 48.840"	W 070 51' 27.372"	42.81357	-70.8576	LNM 43/12, 1st Dist	2065	13282_1	10/31/2012
+13282	Relocate	Bass Rock Daybeacon BR	RW "BR"	N 42 41' 52.248"	W 070 47' 00.822"	42.69785	-70.78356	LNM 43/12, 1st Dist	2065	13282_1	10/31/2012
+13282	Change	Plum Island Point Daybeacon P	GW Bn "P"	N 42 49' 00.200"	W 070 49' 12.000"	42.81672	-70.82	LNM 02/12, 1st Dist	2065	13282_1	1/18/2012
+13282	Add	Note - CAUTION:	Fixed and floating obstructions, some submerged, may exist within the magenta tinted bridge construction area.  Mariners are advised to proceed with caution.	N 42 49' 25.100"	W 070 54' 30.600"	42.82364	-70.9085	LNM 48/11, 1st Dist	2065	13282_1	11/29/2011
+13282	Change	Bridge Construction PT 1 OF 2	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 42 50' 05.400"	W 070 54' 25.600"	42.83484	-70.90711	LNM 48/11, 1st Dist	2065	13282_1	11/29/2011
+13282	Change	Bridge Construction PT 2 OF 2	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 42 50' 09.300"	W 070 54' 27.300"	42.83592	-70.90759	LNM 48/11, 1st Dist	2065	13282_1	11/29/2011
+13282	Delete	Swing Bridge Label	SWING BRIDGE HOR CL 56 VERT CL 15 FT	N 42 50' 07.100"	W 070 54' 26.400"	42.8353	-70.90733	LNM 48/11, 1st Dist	2065	13282_1	11/29/2011
+13282	Add	Bridge Construction Label	Bridge under construction (see note)	N 42 50' 07.100"	W 070 54' 26.400"	42.8353	-70.90733	LNM 48/11, 1st Dist	2065	13282_1	11/29/2011
+13282	Change	Tabulation - NEWBURYPORT HARBOR CHANNEL DEPTHS	Tabulation - NEWBURYPORT HARBOR CHANNEL DEPTHS	N 42 49' 54.000"	W 070 51' 06.000"	42.83167	-70.85167	LNM 10/11, 1st Dist	2065	13282_1	3/8/2011
+13282	Relocate	Merrimack River Entrance Buoy 3	G C "3"	N 42 48' 49.863"	W 070 47' 50.972"	42.81385	-70.79749	LNM 02/11, 1st Dist	2065	13282_1	1/21/2011
+13282	Relocate	Merrimack River Entrance Buoy 3	G C "3"	N 42 48' 44.025"	W 070 47' 35.533"	42.81223	-70.79321	LNM 50/10, 1st Dist	2065	13282_1	12/22/2010
+13282	Relocate	Merrimack River Entrance Buoy 3	G C "3"	N 42 48' 49.863"	W 070 47' 50.972"	42.81385	-70.79749	Not Yet Published	2065	13282_1	12/6/2010
+13282	Add	No-Discharge Zone Label:	NO-DISCHARGE ZONE (see note Z)	N 42 42' 02.400"	W 070 44' 17.800"	42.70067	-70.73828	LNM 46/10, 1st Dist	2065	13282_1	11/12/2010
+13282	Add	No-Discharge Zone PT 1 OF 2	Chart No. 1 N1.2	N 42 46' 01.000"	W 070 43' 40.700"	42.76694	-70.72797	LNM 46/10, 1st Dist	2065	13282_1	11/12/2010
+13282	Add	No-Discharge Zone PT 2 OF 2	Chart No. 1 N1.2	N 42 50' 36.100"	W 070 44' 37.500"	42.84336	-70.74375	LNM 46/10, 1st Dist	2065	13282_1	11/12/2010
+13282	Add	NOTE Z NO-DISCHARGE ZONE, 40 CFR 140:	Under the Clean Water Act, Section 312, all vessels operating within a No-Discharge Zone (NDZ) are completely prohibited from discharging any sewage, treated or untreated, into the waters.  All vessels with an installed marine sanitation device (MSD) that are navigating, moored, anchored, or docked within a NDZ must have the MSD disabled to prevent the overboard discharge of sewage (treated or untreated) or install a holding tank.  Regulationsfor the NDZ are contained in the U.S. Coast Pilot.  Additional information concerning the regulations and requirements may be obtained from the Environmental Protection Agency (EPA) website: http://www.epa.gov/owow/oceans/regulatory/vessel_sewage/.	N 42 47' 37.000"	W 070 52' 09.000"	42.79361	-70.86916	LNM 46/10, 1st Dist	2065	13282_1	11/12/2010
+13282	Add	No-Discharge Zone Label:	NO-DISCHARGE ZONE (see note Z)	N 42 46' 07.500"	W 070 44' 35.100"	42.76875	-70.74308	LNM 46/10, 1st Dist	2065	13282_1	11/12/2010
+13282	Add	No-Discharge Zone Label:	NO-DISCHARGE ZONE (see note Z)	N 42 50' 12.400"	W 070 45' 05.500"	42.83678	-70.75153	LNM 46/10, 1st Dist	2065	13282_1	11/12/2010
+13282	Add	magenta reach separation line PT 1 OF 2	(solid magenta line)	N 42 49' 16.700"	W 070 48' 42.900"	42.8213	-70.81192	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Add	magenta reach separation line PT 2 OF 2	(solid magenta line)	N 42 49' 13.700"	W 070 48' 43.400"	42.82047	-70.81206	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Add	legend:	9 FOOT CHANNEL	N 42 48' 57.000"	W 070 50' 41.000"	42.81583	-70.84472	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Delete	Depth Legend - Merrimack River to:	10 FEET FOR A WIDTH OF 400 FT SEP 1998-OCT 2001	N 42 48' 58.000"	W 070 48' 07.000"	42.81611	-70.80194	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Add	legend:	15 FOOT CHANNEL	N 42 49' 00.000"	W 070 48' 12.000"	42.81667	-70.80334	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Delete	Channel Limits PT 1 OF 2	Chart No. 1 I20	N 42 48' 48.700"	W 070 47' 48.900"	42.81353	-70.79691	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Delete	Channel Limits PT 2 OF 2	Chart No. 1 I20	N 42 49' 03.300"	W 070 48' 26.500"	42.81758	-70.80736	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Delete	Channel Limits PT 1 OF 2	Chart No. 1 I20	N 42 48' 52.300"	W 070 47' 46.800"	42.81453	-70.79633	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Delete	Channel Limits PT 2 OF 2	Chart No. 1 I20	N 42 49' 06.200"	W 070 48' 22.000"	42.81839	-70.80611	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Add	Channel Limits PT 1 OF 19	Chart No. 1 I20	N 42 48' 41.700"	W 070 47' 30.500"	42.81158	-70.79181	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Add	Channel Limits PT 2 OF 19	Chart No. 1 I20	N 42 49' 04.200"	W 070 48' 28.700"	42.81783	-70.80798	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Add	Channel Limits PT 3 OF 19	Chart No. 1 I20	N 42 49' 13.700"	W 070 48' 43.400"	42.82047	-70.81206	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Add	Channel Limits PT 4 OF 19	Chart No. 1 I20	N 42 49' 14.400"	W 070 48' 46.600"	42.82067	-70.81294	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Add	Channel Limits PT 5 OF 19	Chart No. 1 I20	N 42 49' 06.100"	W 070 49' 17.900"	42.81836	-70.82164	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Add	Channel Limits PT 6 OF 19	Chart No. 1 I20	N 42 49' 02.300"	W 070 50' 19.500"	42.81731	-70.83875	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Add	Channel Limits PT 7 OF 19	Chart No. 1 I20	N 42 48' 47.800"	W 070 51' 09.100"	42.81328	-70.85253	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Add	Channel Limits PT 8 OF 19	Chart No. 1 I20	N 42 48' 45.100"	W 070 51' 50.300"	42.81253	-70.86398	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Add	Channel Limits PT 9 OF 19	Chart No. 1 I20	N 42 48' 53.800"	W 070 52' 20.300"	42.81495	-70.87231	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Add	Channel Limits PT 10 OF 19	Chart No. 1 I20	N 42 48' 55.400"	W 070 52' 18.500"	42.81539	-70.8718	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Add	Channel Limits PT 11 OF 19	Chart No. 1 I20	N 42 48' 47.100"	W 070 51' 50.000"	42.81308	-70.86389	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Add	Channel Limits PT 12 OF 19	Chart No. 1 I20	N 42 48' 49.400"	W 070 51' 15.900"	42.81372	-70.85442	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Add	Channel Limits PT 13 OF 19	Chart No. 1 I20	N 42 48' 51.000"	W 070 51' 05.600"	42.81417	-70.85155	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Add	Channel Limits PT 14 OF 19	Chart No. 1 I20	N 42 49' 04.300"	W 070 50' 20.100"	42.81786	-70.83891	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Add	Channel Limits PT 15 OF 19	Chart No. 1 I20	N 42 49' 07.900"	W 070 49' 19.800"	42.81886	-70.82217	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Add	Channel Limits PT 16 OF 19	Chart No. 1 I20	N 42 49' 18.200"	W 070 48' 49.600"	42.82172	-70.81377	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Add	Channel Limits PT 17 OF 19	Chart No. 1 I20	N 42 49' 16.700"	W 070 48' 42.900"	42.8213	-70.81192	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Add	Channel Limits PT 18 OF 19	Chart No. 1 I20	N 42 49' 10.500"	W 070 48' 33.300"	42.81958	-70.80925	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Add	Channel Limits PT 19 OF 19	Chart No. 1 I20	N 42 48' 45.200"	W 070 47' 28.000"	42.81256	-70.79111	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Add	Tabulation - NEWBURYPORT HARBOR CHANNEL DEPTHS	Tabulation - NEWBURYPORT HARBOR CHANNEL DEPTHS	N 42 49' 54.000"	W 070 51' 06.000"	42.83167	-70.85167	LNM 23/10, 1st Dist	2065	13282_1	6/9/2010
+13282	Change	Bridge Construction Label	Bridge under construction	N 42 45' 44.600"	W 070 50' 51.500"	42.76239	-70.84764	LNM 03/10, 1st Dist	2065	13282_1	1/14/2010
+13282	Change	Bridge Construction	Chart No. 1: D.d	N 42 45' 44.600"	W 070 50' 51.500"	42.76239	-70.84764	LNM 03/10, 1st Dist	2065	13282_1	1/14/2010

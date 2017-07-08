@@ -1,0 +1,23 @@
+Chart: 11380, Current Edition: 4, Print Date: Nov. /2015, Mobile Bay East Fowl River to Deer River Pt; Mobile Middle Bay Terminal
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11380	Change	Mobile Channel Lighted Buoy 54	R "54" Fl R 4s	N 30 28' 37.352"	W 088 00' 56.393"	30.47704	-88.01566	LNM 23/17, 8th Dist	2888	11380_2	6/15/2017
+11380	Change	Mobile Channel Lighted Buoy 46	R "46" Q R	N 30 25' 44.489"	W 088 00' 44.895"	30.42903	-88.01247	LNM 23/17, 8th Dist	2888	11380_2	6/15/2017
+11380	Relocate	Mobile Channel Lighted Buoy 46	R "46" Q R	N 30 25' 44.329"	W 088 00' 44.989"	30.42898	-88.0125	LNM 23/17, 8th Dist	2888	11380_2	6/15/2017
+11380	Change	tabulation - MOBILE BAY AND RIVER CHANNEL DEPTHS	tabulation - MOBILE BAY AND RIVER CHANNEL DEPTHS	N 30 32' 54.000"	W 088 05' 30.000"	30.54833	-88.09167	LNM 13/17, 8th Dist	2888	11380_2	3/23/2017
+11380	Change	Mobile Channel Lighted Buoy 59	G "59" Oc G 4s	N 30 31' 20.460"	W 088 01' 24.512"	30.52235	-88.02348	LNM 07/17, 8th Dist	2888	11380_2	3/2/2017
+11380	Add	magenta channel reach separator PT 1 OF 2	magenta channel reach separator	N 30 26' 44.040"	W 088 00' 52.150"	30.44557	-88.01449	LNM 09/17, 8th Dist	2888	11380_2	2/23/2017
+11380	Add	magenta channel reach separator PT 2 OF 2	magenta channel reach separator	N 30 26' 44.250"	W 088 00' 46.460"	30.44563	-88.01291	LNM 09/17, 8th Dist	2888	11380_2	2/23/2017
+11380	Delete	magenta channel reach separator PT 1 OF 2	magenta channel reach separator	N 30 26' 44.700"	W 088 00' 52.190"	30.44575	-88.0145	LNM 09/17, 8th Dist	2888	11380_2	2/23/2017
+11380	Delete	magenta channel reach separator PT 2 OF 2	magenta channel reach separator	N 30 26' 44.690"	W 088 00' 46.340"	30.44575	-88.01287	LNM 09/17, 8th Dist	2888	11380_2	2/23/2017
+11380	Change	tabulation - Mobile Bay and River Channel Depths	tabulation - Mobile Bay and River Channel Depths	N 30 32' 54.000"	W 088 05' 30.000"	30.54833	-88.09167	LNM 08/17, 8th Dist	2888	11380_2	2/16/2017
+11380	Change	tabulation - Mobile Bay and River Channel Depths	tabulation - Mobile Bay and River Channel Depths	N 30 32' 54.000"	W 088 05' 30.000"	30.54833	-88.09167	LNM 46/16, 8th Dist	2888	11380_2	11/10/2016
+11380	Change	Depth Note - Fowl River Channel to:	FOWL RIVER The controlling depth was 2 feet for a width of 100 feet from the entrance (30°26'58"N, 88°05'06"W) in Mobile Bay to a point located at (30°26'20"N, 88°07'09"W).	N 30 27' 04.000"	W 088 07' 09.000"	30.45111	-88.11916	LNM 44/16, 8th Dist	2888	11380_2	10/27/2016
+11380	Change	Mobile Channel Lighted Buoy 47	G "47" Fl G 2.5s	N 30 26' 14.872"	W 088 00' 54.804"	30.43746	-88.01522	LNM 39/16, 8th Dist	2888	11380_2	10/6/2016
+11380	Change	Mobile Channel Lighted Buoy 52	R "52" Fl R 2.5s	N 30 27' 53.028"	W 088 00' 51.847"	30.46473	-88.0144	LNM 39/16, 8th Dist	2888	11380_2	10/6/2016
+11380	Change	Mobile Channel Lighted Buoy 55	G "55" Fl G 4s	N 30 29' 22.305"	W 088 01' 10.486"	30.48953	-88.01958	LNM 39/16, 8th Dist	2888	11380_2	10/6/2016
+11380	Add	Mobile Bay National Estuary Danger Breakwater Light	Fl 2.5s Priv	N 30 27' 00.630"	W 088 06' 28.180"	30.45017	-88.10783	LNM 15/16, 8th Dist	2888	11380_2	4/21/2016
+11380	Add	Mobile Bay National Estuary Danger Breakwater Light	Fl 2.5s Priv	N 30 26' 59.160"	W 088 06' 25.070"	30.44977	-88.10696	LNM 15/16, 8th Dist	2888	11380_2	4/21/2016
+11380	Add	Mobile Bay National Estuary Danger Breakwater Light	Fl 2.5s Priv	N 30 26' 55.680"	W 088 06' 23.980"	30.4488	-88.10666	LNM 15/16, 8th Dist	2888	11380_2	4/21/2016
+11380	Add	Mobile Bay National Estuary Danger Breakwater Light	Fl 2.5s Priv	N 30 26' 51.320"	W 088 06' 23.760"	30.44759	-88.1066	LNM 15/16, 8th Dist	2888	11380_2	4/21/2016
+11380	Change	tabulation - MOBILE BAY AND RIVER CHANNEL DEPTHS	tabulation - MOBILE BAY AND RIVER CHANNEL DEPTHS	N 30 32' 54.000"	W 088 05' 30.000"	30.54833	-88.09167	LNM 15/16, 8th Dist	2888	11380_2	4/7/2016
+11380	Change	tabulation - MOBILE BAY AND RIVER CHANNEL DEPTHS	tabulation - MOBILE BAY AND RIVER CHANNEL DEPTHS	N 30 32' 54.000"	W 088 05' 30.000"	30.54833	-88.09167	LNM 51/15, 8th Dist	2888	11380_2	12/17/2015

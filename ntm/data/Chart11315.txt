@@ -1,0 +1,221 @@
+Chart: 11315, Current Edition: 33, Print Date: Oct. /2010, Intracoastal Waterway Espiritu Santo Bay to Carlos Bay including San Antonio Bay and Victoria Barge Canal
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11315	Delete	Overhead Power Cable  PT 2 OF 2	Chart No. 1: D26  	N 28 30' 15.230"	W 096 47' 49.860"	28.50423	-96.79718	LNM 22/17, 8th Dist	109	11315_2	5/25/2017
+11315	Delete	Overhead Power Cable Label	OVHD PWR CAB AUTH CL 78 FT	N 28 30' 09.930"	W 096 47' 43.740"	28.50276	-96.79549	LNM 22/17, 8th Dist	109	11315_2	5/25/2017
+11315	Delete	Overhead Power Cable  PT 1 OF 2	Chart No. 1: D26  	N 28 30' 12.640"	W 096 47' 57.940"	28.50351	-96.79943	LNM 22/17, 8th Dist	109	11315_2	5/25/2017
+11315	Change	Seadrift Channel Buoy 4	R N "4"	N 28 23' 28.727"	W 096 43' 34.897"	28.39131	-96.72636	LNM 16/17, 8th Dist	109	11315_2	4/27/2017
+11315	Relocate	Victoria West Entrance Channel Buoy 4W	R "4W"	N 28 18' 49.687"	W 096 40' 45.264"	28.3138	-96.67924	LNM 14/17, 8th Dist	108	11315_1	4/13/2017
+11315	Relocate	Victoria West Entrance Channel Buoy 4W	R "4W"	N 28 18' 49.687"	W 096 40' 45.264"	28.3138	-96.67924	LNM 14/17, 8th Dist	109	11315_2	4/13/2017
+11315	Relocate	Victoria West Entrance Channel Buoy 3W	G "3W"	N 28 18' 45.388"	W 096 40' 47.632"	28.31261	-96.6799	LNM 50/16, 8th Dist	108	11315_1	12/22/2016
+11315	Relocate	Victoria West Entrance Channel Buoy 3W	G "3W"	N 28 18' 45.388"	W 096 40' 47.632"	28.31261	-96.6799	LNM 50/16, 8th Dist	109	11315_2	12/22/2016
+11315	Relocate	San Antonio Bay Daybeacon 30	R "30" Ra Ref	N 28 13' 17.226"	W 096 48' 17.630"	28.22145	-96.80489	LNM 30/16, 8th Dist	108	11315_1	8/11/2016
+11315	Relocate	San Antonio Bay Daybeacon 24	R "24"	N 28 14' 55.358"	W 096 46' 00.406"	28.24871	-96.76678	LNM 21/16, 8th Dist	108	11315_1	6/2/2016
+11315	Relocate	San Antonio Bay Daybeacon 24	R "24"	N 28 14' 55.358"	W 096 46' 00.406"	28.24871	-96.76678	LNM 21/16, 8th Dist	109	11315_2	6/2/2016
+11315	Relocate	San Antonio Bay Daybeacon 32	R "32" Ra Ref	N 28 13' 02.797"	W 096 48' 40.270"	28.21744	-96.81119	LNM 21/16, 8th Dist	108	11315_1	6/2/2016
+11315	Relocate	San Antonio Bay Daybeacon 6	R "6"	N 28 18' 00.104"	W 096 41' 40.071"	28.30003	-96.69447	LNM 21/16, 8th Dist	108	11315_1	6/2/2016
+11315	Relocate	San Antonio Bay Daybeacon 6	R "6"	N 28 18' 00.104"	W 096 41' 40.071"	28.30003	-96.69447	LNM 21/16, 8th Dist	109	11315_2	6/2/2016
+11315	Relocate	San Antonio Bay Daybeacon 4	R "4"	N 28 18' 14.876"	W 096 41' 20.720"	28.30413	-96.68909	LNM 21/16, 8th Dist	108	11315_1	6/2/2016
+11315	Relocate	San Antonio Bay Daybeacon 4	R "4"	N 28 18' 14.876"	W 096 41' 20.720"	28.30413	-96.68909	LNM 21/16, 8th Dist	109	11315_2	6/2/2016
+11315	Relocate	San Antonio Bay Light 5	Fl G 2.5s 17ft 4M "5" Ra Ref	N 28 17' 57.455"	W 096 41' 37.889"	28.29929	-96.69386	LNM 11/16, 8th Dist	108	11315_1	3/24/2016
+11315	Relocate	San Antonio Bay Light 5	Fl G 2.5s 17ft 4M "5" Ra Ref	N 28 17' 57.455"	W 096 41' 37.889"	28.29929	-96.69386	LNM 11/16, 8th Dist	109	11315_2	3/24/2016
+11315	Relocate	San Antonio Bay Daybeacon 36	R "36"	N 28 12' 25.226"	W 096 49' 20.021"	28.20701	-96.82223	LNM 11/16, 8th Dist	108	11315_1	3/24/2016
+11315	Relocate	San Antonio Bay Daybeacon 16	R "16"	N 28 16' 27.721"	W 096 43' 50.218"	28.27437	-96.73061	LNM 11/16, 8th Dist	108	11315_1	3/24/2016
+11315	Relocate	San Antonio Bay Daybeacon 16	R "16"	N 28 16' 27.721"	W 096 43' 50.218"	28.27437	-96.73061	LNM 11/16, 8th Dist	109	11315_2	3/24/2016
+11315	Relocate	San Antonio Bay Daybeacon 12	R "12" Ra Ref	N 28 17' 13.822"	W 096 42' 44.610"	28.28717	-96.71239	LNM 03/16, 8th Dist	108	11315_1	1/28/2016
+11315	Relocate	San Antonio Bay Daybeacon 12	R "12" Ra Ref	N 28 17' 13.822"	W 096 42' 44.610"	28.28717	-96.71239	LNM 03/16, 8th Dist	109	11315_2	1/28/2016
+11315	Relocate	San Antonio Bay Daybeacon 4	R "4" Ra Ref	N 28 18' 21.435"	W 096 41' 12.241"	28.30595	-96.68674	LNM 03/16, 8th Dist	108	11315_1	1/28/2016
+11315	Relocate	San Antonio Bay Daybeacon 4	R "4" Ra Ref	N 28 18' 21.435"	W 096 41' 12.241"	28.30595	-96.68674	LNM 03/16, 8th Dist	109	11315_2	1/28/2016
+11315	Relocate	San Antonio Bay Daybeacon 25	G "25" Ra Ref	N 28 14' 22.154"	W 096 46' 41.115"	28.23949	-96.77808	LNM 45/15, 8th Dist	108	11315_1	11/19/2015
+11315	Relocate	San Antonio Bay Daybeacon 25	G "25" Ra Ref	N 28 14' 22.154"	W 096 46' 41.115"	28.23949	-96.77808	LNM 45/15, 8th Dist	109	11315_2	11/19/2015
+11315	Change	Depth Note - CHANNEL TO SEADRIFT to:	The controlling depth was 4 1/2 feet for a width of 100 feet from the Victoria Barge Canal, via the entrance curves, to the turning basin and 5 1/2 feet in the basin. Mar 2015	N 28 25' 40.000"	W 096 43' 37.000"	28.42778	-96.72694	LNM 41/15, 8th Dist	109	11315_2	10/8/2015
+11315	Add	Channel Limits PT 10 OF 10	Chart No. 1: I20	N 28 14' 06.970"	W 096 47' 03.440"	28.23527	-96.78429	LNM 37/15, 8th Dist	108	11315_1	9/17/2015
+11315	Add	Channel Limits PT 9 OF 10	Chart No. 1: I20	N 28 12' 53.920"	W 096 48' 45.960"	28.21498	-96.81277	LNM 37/15, 8th Dist	108	11315_1	9/17/2015
+11315	Add	Channel Limits PT 8 OF 10	Chart No. 1: I20	N 28 12' 36.300"	W 096 49' 07.560"	28.21008	-96.81876	LNM 37/15, 8th Dist	108	11315_1	9/17/2015
+11315	Add	Channel Limits PT 7 OF 10	Chart No. 1: I20	N 28 12' 03.650"	W 096 49' 35.820"	28.20101	-96.82661	LNM 37/15, 8th Dist	108	11315_1	9/17/2015
+11315	Add	Channel Limits PT 6 OF 10	Chart No. 1: I20	N 28 10' 25.520"	W 096 51' 55.020"	28.17376	-96.86528	LNM 37/15, 8th Dist	108	11315_1	9/17/2015
+11315	Add	Channel Limits PT 5 OF 10	Chart No. 1: I20	N 28 14' 07.950"	W 096 47' 04.310"	28.23554	-96.78453	LNM 37/15, 8th Dist	108	11315_1	9/17/2015
+11315	Add	Channel Limits PT 4 OF 10	Chart No. 1: I20	N 28 12' 54.920"	W 096 48' 46.790"	28.21526	-96.813	LNM 37/15, 8th Dist	108	11315_1	9/17/2015
+11315	Add	Channel Limits PT 3 OF 10	Chart No. 1: I20	N 28 12' 37.050"	W 096 49' 08.680"	28.21029	-96.81908	LNM 37/15, 8th Dist	108	11315_1	9/17/2015
+11315	Add	Channel Limits PT 2 OF 10	Chart No. 1: I20	N 28 12' 04.540"	W 096 49' 36.800"	28.20126	-96.82689	LNM 37/15, 8th Dist	108	11315_1	9/17/2015
+11315	Add	Channel Limits PT 1 OF 10	Chart No. 1: I20	N 28 10' 26.520"	W 096 51' 55.860"	28.17403	-96.86552	LNM 37/15, 8th Dist	108	11315_1	9/17/2015
+11315	Delete	Channel Limits PT 3 OF 4	Chart No. 1: I20	N 28 14' 12.610"	W 096 46' 54.080"	28.23684	-96.78169	LNM 37/15, 8th Dist	109	11315_2	9/17/2015
+11315	Delete	Channel Limits PT 1 OF 4	Chart No. 1: I20	N 28 14' 14.790"	W 096 46' 55.670"	28.23744	-96.78213	LNM 37/15, 8th Dist	109	11315_2	9/17/2015
+11315	Delete	Channel Limits PT 12 OF 12	Chart No. 1: I20	N 28 14' 12.610"	W 096 46' 54.080"	28.23684	-96.78169	LNM 37/15, 8th Dist	108	11315_1	9/17/2015
+11315	Delete	Channel Limits PT 11 OF 12	Chart No. 1: I20	N 28 12' 42.660"	W 096 48' 59.670"	28.21185	-96.81657	LNM 37/15, 8th Dist	108	11315_1	9/17/2015
+11315	Delete	Channel Limits PT 10 OF 12	Chart No. 1: I20	N 28 12' 37.520"	W 096 49' 05.570"	28.21042	-96.81821	LNM 37/15, 8th Dist	108	11315_1	9/17/2015
+11315	Delete	Channel Limits PT 9 OF 12	Chart No. 1: I20	N 28 12' 09.380"	W 096 49' 28.370"	28.20261	-96.82455	LNM 37/15, 8th Dist	108	11315_1	9/17/2015
+11315	Delete	Channel Limits PT 8 OF 12	Chart No. 1: I20	N 28 11' 41.110"	W 096 50' 06.500"	28.19475	-96.83514	LNM 37/15, 8th Dist	108	11315_1	9/17/2015
+11315	Delete	Channel Limits PT 7 OF 12	Chart No. 1: I20	N 28 10' 28.360"	W 096 51' 50.050"	28.17455	-96.8639	LNM 37/15, 8th Dist	108	11315_1	9/17/2015
+11315	Delete	Channel Limits PT 6 OF 12	Chart No. 1: I20	N 28 14' 14.790"	W 096 46' 55.670"	28.23744	-96.78213	LNM 37/15, 8th Dist	108	11315_1	9/17/2015
+11315	Delete	Channel Limits PT 5 OF 12	Chart No. 1: I20	N 28 12' 47.400"	W 096 48' 57.840"	28.21317	-96.81606	LNM 37/15, 8th Dist	108	11315_1	9/17/2015
+11315	Delete	Channel Limits PT 4 OF 12	Chart No. 1: I20	N 28 12' 35.330"	W 096 49' 10.700"	28.20981	-96.81964	LNM 37/15, 8th Dist	108	11315_1	9/17/2015
+11315	Delete	Channel Limits PT 3 OF 12	Chart No. 1: I20	N 28 12' 12.730"	W 096 49' 29.200"	28.20354	-96.82478	LNM 37/15, 8th Dist	108	11315_1	9/17/2015
+11315	Delete	Channel Limits PT 2 OF 12	Chart No. 1: I20	N 28 11' 45.880"	W 096 50' 03.890"	28.19608	-96.83441	LNM 37/15, 8th Dist	108	11315_1	9/17/2015
+11315	Delete	Channel Limits PT 1 OF 12	Chart No. 1: I20	N 28 10' 26.660"	W 096 51' 57.120"	28.17407	-96.86587	LNM 37/15, 8th Dist	108	11315_1	9/17/2015
+11315	Delete	Channel Limits PT 2 OF 4	Chart No. 1: I20	N 28 14' 11.710"	W 096 46' 59.870"	28.23659	-96.78329	LNM 37/15, 8th Dist	109	11315_2	9/17/2015
+11315	Delete	Channel Limits PT 4 OF 4	Chart No. 1: I20	N 28 14' 09.200"	W 096 46' 58.620"	28.23589	-96.78295	LNM 37/15, 8th Dist	109	11315_2	9/17/2015
+11315	Relocate	San Antonio Bay Daybeacon 25	G "25" Ra Ref	N 28 14' 22.103"	W 096 46' 41.308"	28.23947	-96.77814	LNM 31/15, 8th Dist	108	11315_1	8/20/2015
+11315	Relocate	San Antonio Bay Daybeacon 25	G "25" Ra Ref	N 28 14' 22.103"	W 096 46' 41.308"	28.23947	-96.77814	LNM 31/15, 8th Dist	109	11315_2	8/20/2015
+11315	Change	Depth Note - CHANNEL TO SEADRIFT to:	 5 1/2 feet for a width of 100 feet from the Victoria Barge Canal, via the entrance curves, to the turning basin and 5 1/2 feet in the basin. Mar 2015	N 28 25' 40.000"	W 096 43' 37.000"	28.42778	-96.72694	LNM 31/15, 8th Dist	109	11315_2	7/30/2015
+11315	Change	Depth Note - VICTORIA BARGE CANAL to:	Numerous high-pressure gas pipelines marked with signs are reported crossing the channel. The controlling depth was 9 1/2 feet for a mid-width of 60 feet from the junction with the intracoastal Waterway, via the entrance curves, to the turning basin at mile 34.7, thence 11 feet in the turning basin. May 2010 - Mar 2015	N 28 21' 21.000"	W 096 41' 18.000"	28.35583	-96.68833	LNM 31/15, 8th Dist	109	11315_2	7/30/2015
+11315	Change	Depth Note - VICTORIA BARGE CANAL to:	Numerous high-pressure gas pipelines marked with signs are reported crossing the channel. The controlling depth was 9 1/2 feet for a mid-width of 60 feet from the junction with the intracoastal Waterway, via the entrance curves, to the turning basin at mile 34.7, thence 11 feet in the turning basin. May 2010 - Mar 2015	N 28 22' 46.000"	W 096 35' 46.000"	28.37944	-96.59611	LNM 31/15, 8th Dist	108	11315_1	7/30/2015
+11315	Relocate	Victoria Channel Light 50	Fl R 4s 17ft 3M "50" Ra Ref	N 28 24' 01.850"	W 096 44' 17.428"	28.40051	-96.73817	LNM 23/15, 8th Dist	109	11315_2	6/18/2015
+11315	Relocate	San Antonio Bay Daybeacon 32	R "32" Ra Ref	N 28 13' 02.299"	W 096 48' 40.312"	28.21731	-96.8112	LNM 23/15, 8th Dist	108	11315_1	6/18/2015
+11315	Relocate	San Antonio Bay Daybeacon 4	R "4" Ra Ref	N 28 18' 28.122"	W 096 41' 00.290"	28.30781	-96.68341	LNM 23/15, 8th Dist	108	11315_1	6/18/2015
+11315	Relocate	San Antonio Bay Daybeacon 4	R "4" Ra Ref	N 28 18' 28.122"	W 096 41' 00.290"	28.30781	-96.68341	LNM 23/15, 8th Dist	109	11315_2	6/18/2015
+11315	Relocate	San Antonio Bay Daybeacon 13	G "13" Ra Ref	N 28 16' 48.947"	W 096 43' 14.617"	28.28026	-96.72073	LNM 11/15, 8th Dist	108	11315_1	3/26/2015
+11315	Relocate	San Antonio Bay Daybeacon 13	G "13" Ra Ref	N 28 16' 48.947"	W 096 43' 14.617"	28.28026	-96.72073	LNM 11/15, 8th Dist	109	11315_2	3/26/2015
+11315	Relocate	San Antonio Bay Light 11	Fl G 4s 17ft 4M "11" Ra Ref	N 28 17' 11.255"	W 096 42' 42.301"	28.28646	-96.71175	LNM 11/15, 8th Dist	108	11315_1	3/26/2015
+11315	Relocate	San Antonio Bay Light 11	Fl G 4s 17ft 4M "11" Ra Ref	N 28 17' 11.255"	W 096 42' 42.301"	28.28646	-96.71175	LNM 11/15, 8th Dist	109	11315_2	3/26/2015
+11315	Relocate	San Antonio Bay Daybeacon 35	G "35" Ra Ref	N 28 12' 31.428"	W 096 49' 10.332"	28.20873	-96.81953	LNM 50/14, 8th Dist	108	11315_1	1/1/2015
+11315	Relocate	San Antonio Bay Daybeacon 9	G "9" Ra Ref	N 28 17' 34.694"	W 096 42' 10.405"	28.29297	-96.70289	LNM 50/14, 8th Dist	108	11315_1	1/1/2015
+11315	Relocate	San Antonio Bay Daybeacon 9	G "9" Ra Ref	N 28 17' 34.694"	W 096 42' 10.405"	28.29297	-96.70289	LNM 50/14, 8th Dist	109	11315_2	1/1/2015
+11315	Relocate	San Antonio Bay Daybeacon 1	G "1" Ra Ref	N 28 18' 46.399"	W 096 40' 28.533"	28.31289	-96.67459	LNM 50/14, 8th Dist	108	11315_1	1/1/2015
+11315	Relocate	San Antonio Bay Daybeacon 1	G "1" Ra Ref	N 28 18' 46.399"	W 096 40' 28.533"	28.31289	-96.67459	LNM 50/14, 8th Dist	109	11315_2	1/1/2015
+11315	Change	Depth Note - VICTORIA BARGE CANAL to:	Numerous high-pressure gas pipelines marked with signs are reported crossing the channel. The controlling depth was 12 feet for a mid-width of 60 feet from the junction with the Intracoastal Waterway, via the entrance curves, to the turning basin at mile 34.7, thence 11 feet in the turning basin. May 2010 - Sep 2014	N 28 22' 46.000"	W 096 35' 46.000"	28.37944	-96.59611	LNM 50/14, 8th Dist	108	11315_1	12/11/2014
+11315	Change	Depth Note - VICTORIA BARGE CANAL to:	Numerous high-pressure gas pipelines marked with signs are reported crossing the channel. The controlling depth was 12 feet for a mid-width of 60 feet from the junction with the Intracoastal Waterway, via the entrance curves, to the turning basin at mile 34.7, thence 11 feet in the turning basin. May 2010 - Sep 2014	N 28 21' 21.000"	W 096 41' 18.000"	28.35583	-96.68833	LNM 50/14, 8th Dist	109	11315_2	12/11/2014
+11315	Relocate	San Antonio Bay Daybeacon 16	R "16"	N 28 16' 27.628"	W 096 43' 50.090"	28.27434	-96.73058	LNM 43/14, 8th Dist	108	11315_1	11/6/2014
+11315	Relocate	San Antonio Bay Daybeacon 16	R "16"	N 28 16' 27.628"	W 096 43' 50.090"	28.27434	-96.73058	LNM 43/14, 8th Dist	109	11315_2	11/6/2014
+11315	Relocate	Victoria Channel Light 16	Fl R 2.5s 17ft 3M "16"  Ra Ref	N 28 20' 17.449"	W 096 41' 49.091"	28.33818	-96.69697	LNM 40/14, 8th Dist	109	11315_2	10/23/2014
+11315	Relocate	San Antonio Bay Daybeacon 37	G "37" Ra Ref	N 28 12' 14.417"	W 096 49' 24.675"	28.204	-96.82352	LNM 40/14, 8th Dist	108	11315_1	10/23/2014
+11315	Relocate	San Antonio Bay Daybeacon 21	G "21" Ra Ref	N 28 15' 17.381"	W 096 45' 22.838"	28.25483	-96.75635	LNM 40/14, 8th Dist	108	11315_1	10/23/2014
+11315	Relocate	San Antonio Bay Daybeacon 21	G "21" Ra Ref	N 28 15' 17.381"	W 096 45' 22.838"	28.25483	-96.75635	LNM 40/14, 8th Dist	109	11315_2	10/23/2014
+11315	Relocate	San Antonio Bay Daybeacon 12	R "12" Ra Ref	N 28 17' 13.304"	W 096 42' 44.648"	28.28703	-96.7124	LNM 40/14, 8th Dist	108	11315_1	10/23/2014
+11315	Relocate	San Antonio Bay Daybeacon 12	R "12" Ra Ref	N 28 17' 13.304"	W 096 42' 44.648"	28.28703	-96.7124	LNM 40/14, 8th Dist	109	11315_2	10/23/2014
+11315	Relocate	San Antonio Bay Daybeacon 4	R "4" Ra Ref	N 28 18' 27.935"	W 096 41' 00.289"	28.30776	-96.68341	LNM 40/14, 8th Dist	108	11315_1	10/23/2014
+11315	Relocate	San Antonio Bay Daybeacon 4	R "4" Ra Ref	N 28 18' 27.935"	W 096 41' 00.289"	28.30776	-96.68341	LNM 40/14, 8th Dist	109	11315_2	10/23/2014
+11315	Change	Depth Note - VICTORIA BARGE CANAL to:	Numerous high-pressure gas pipelines marked with signs are reported crossing the channel.  The controlling depth was 11 feet for a mid-width of 60 feet from the junction with the Intracoastal Waterway, via the entrance curves, to the turning basin at mile 34.7, thence 11 feet in the turning basin.  May 2010 - May 2014	N 28 22' 46.000"	W 096 35' 46.000"	28.37944	-96.59611	LNM 38/14, 8th Dist	108	11315_1	9/25/2014
+11315	Change	Depth Note - VICTORIA BARGE CANAL to:	Numerous high-pressure gas pipelines marked with signs are reported crossing the channel. The controlling depth was 11 feet for a mid-width of 60 feet from the junction with the Intracoastal Waterway, via the entrance curves, to the turning basin at mile 34.7, thence 11 feet in the turning basin.  May 2010 - May 2014	N 28 21' 21.000"	W 096 41' 18.000"	28.35583	-96.68833	LNM 38/14, 8th Dist	109	11315_2	9/25/2014
+11315	Change	Depth Note - CHANNEL TO SEADRIFT to:	The controlling depth was 5 1/2 feet for a width of 100 feet from the Victoria Barge Canal, via the entrance curves, to the turning basin and 9 1/2 feet in the basin.  Apr 2014	N 28 25' 40.000"	W 096 43' 37.000"	28.42778	-96.72694	LNM 38/14, 8th Dist	109	11315_2	9/25/2014
+11315	Relocate	San Antonio Bay Daybeacon 40	R "40" Ra Ref	N 28 11' 45.748"	W 096 50' 05.806"	28.19604	-96.83495	LNM 29/14, 8th Dist	108	11315_1	7/31/2014
+11315	Relocate	San Antonio Bay Daybeacon 28	R "28" Ra Ref	N 28 14' 01.447"	W 096 47' 15.265"	28.23374	-96.78757	LNM 29/14, 8th Dist	108	11315_1	7/31/2014
+11315	Relocate	San Antonio Bay Daybeacon 20	R "20" Ra Ref	N 28 15' 41.195"	W 096 44' 55.758"	28.26144	-96.74883	LNM 29/14, 8th Dist	108	11315_1	7/31/2014
+11315	Relocate	San Antonio Bay Daybeacon 20	R "20" Ra Ref	N 28 15' 41.195"	W 096 44' 55.758"	28.26144	-96.74883	LNM 29/14, 8th Dist	109	11315_2	7/31/2014
+11315	Relocate	San Antonio Bay Daybeacon 3	G "3" Ra Ref	N 28 18' 24.184"	W 096 41' 00.751"	28.30672	-96.68354	LNM 29/14, 8th Dist	108	11315_1	7/31/2014
+11315	Relocate	San Antonio Bay Daybeacon 3	G "3" Ra Ref	N 28 18' 24.184"	W 096 41' 00.751"	28.30672	-96.68354	LNM 29/14, 8th Dist	109	11315_2	7/31/2014
+11315	Relocate	San Antonio Bay Daybeacon 36	R "36" Ra Ref	N 28 12' 24.986"	W 096 49' 19.784"	28.20694	-96.82216	LNM 29/14, 8th Dist	108	11315_1	7/31/2014
+11315	Delete	Espiritu Santo Bay Ferry Channel Daybeacon 21	G "21" Ra Ref PA	N 28 20' 50.017"	W 096 28' 32.115"	28.34723	-96.47559	LNM 22/14, 8th Dist	108	11315_1	6/12/2014
+11315	Delete	Espiritu Santo Bay Ferry Channel Daybeacon 19	G "19" Ra Ref PA	N 28 21' 15.017"	W 096 28' 59.916"	28.35417	-96.48331	LNM 22/14, 8th Dist	108	11315_1	6/12/2014
+11315	Delete	Espiritu Santo Bay Ferry Channel Daybeacon 15	G "15" Ra Ref PA	N 28 22' 18.213"	W 096 29' 20.415"	28.37173	-96.48901	LNM 22/14, 8th Dist	108	11315_1	6/12/2014
+11315	Delete	Espiritu Santo Bay Ferry Channel Light 17	Q G 17ft 4M "17" Ra Ref	N 28 21' 40.724"	W 096 29' 29.361"	28.36131	-96.49149	LNM 22/14, 8th Dist	108	11315_1	6/12/2014
+11315	Delete	Espiritu Santo Bay Ferry Channel Light 24	Q R 17ft 4M "24" Ra Ref	N 28 20' 17.518"	W 096 27' 58.915"	28.3382	-96.46636	LNM 22/14, 8th Dist	108	11315_1	6/12/2014
+11315	Add	Espiritu Santo Bay Ferry Channel Daybeacon 24	R "24" Ra Ref	N 28 20' 17.518"	W 096 27' 58.915"	28.3382	-96.46636	LNM 22/14, 8th Dist	108	11315_1	6/12/2014
+11315	Add	Espiritu Santo Bay Ferry Channel Daybeacon 17	G "17" Ra Ref	N 28 21' 40.724"	W 096 29' 29.361"	28.36131	-96.49149	LNM 22/14, 8th Dist	108	11315_1	6/12/2014
+11315	Delete	Espiritu Santo Bay Ferry Channel Light 1	Fl G 4s 17ft 4M "1" Ra Ref	N 28 24' 33.832"	W 096 28' 44.534"	28.4094	-96.47903	LNM 20/14, 8th Dist	108	11315_1	6/5/2014
+11315	Change	Depth Note - VICTORIA BARGE CANAL to:	The controlling depth was 12 feet for a mid-width of 60 feet from the junction with the Intracoastal Waterway, via the entrance curves, to the turning basin at mile 34.7, thence 11 feet in the turning basin. May 2010 - May 2013	N 28 21' 21.000"	W 096 41' 18.000"	28.35583	-96.68833	LNM 39/13, 8th Dist	109	11315_2	9/16/2013
+11315	Change	Depth Legend - VICTORIA BARGE CANAL to:	The controlling depth was 12 feet for a mid-width of 60 feet from the junction with the Intracoastal Waterway, via the entrance curves, to the turning basin at mile 34.7, thence 11 feet in the turning basin.  May 2010 - May 2013	N 28 22' 46.000"	W 096 35' 46.000"	28.37944	-96.59611	LNM 39/13, 8th Dist	108	11315_1	9/16/2013
+11315	Relocate	San Antonio Bay Daybeacon 17	G "17" Ra Ref	N 28 16' 01.487"	W 096 44' 20.778"	28.26708	-96.73911	LNM 06/13, 8th Dist	108	11315_1	2/11/2013
+11315	Relocate	San Antonio Bay Daybeacon 17	G "17" Ra Ref	N 28 16' 01.487"	W 096 44' 20.778"	28.26708	-96.73911	LNM 06/13, 8th Dist	109	11315_2	2/11/2013
+11315	Change	Depth Note - VICTORIA BARGE CANAL to:	The controlling depth was 12 feet for a mid-width of 60 feet from the junction with the Intracoastal Waterway, via the entrance curves, to the turning basin at mile 34.7. Shoaling to 2 feet in the outside quarters. The controlling depth in the turning basin was 11 feet.  May 2010 - Aug 2012	N 28 22' 46.000"	W 096 35' 46.000"	28.37944	-96.59611	LNM 05/13, 8th Dist	108	11315_1	1/29/2013
+11315	Change	Depth Note - VICTORIA BARGE CANAL to:	The controlling depth was 12 feet for a mid-width of 60 feet from the junction with the Intracoastal Waterway, via the entrance curves, to the turning basin at mile 34.7. Shoaling to 2 feet in the outside quarters. The controlling depth in the turning basin was 11 feet. May 2010 - Aug 2012	N 28 21' 21.000"	W 096 41' 18.000"	28.35583	-96.68833	LNM 05/13, 8th Dist	109	11315_2	1/29/2013
+11315	Change	Depth Note - CHANNEL TO SEADRIFT to:	The controlling depth was 6 feet for a width of 100 feet from the Victoria Barge Canal, via the entrance curves, to the turning basin and 11 feet in the basin.  Mar 2012	N 28 25' 40.000"	W 096 43' 37.000"	28.42778	-96.72694	LNM 05/13, 8th Dist	109	11315_2	1/29/2013
+11315	Delete	San Antonio Bay Buoy 1	G C "1"	N 28 18' 46.648"	W 096 40' 29.001"	28.31296	-96.67472	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 1	G C "1"	N 28 18' 46.648"	W 096 40' 29.001"	28.31296	-96.67472	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Delete	San Antonio Bay Buoy 3	G C "3"	N 28 18' 38.088"	W 096 40' 41.884"	28.31058	-96.6783	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 3	G C "3"	N 28 18' 38.088"	W 096 40' 41.884"	28.31058	-96.6783	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Delete	San Antonio Bay Buoy 3A	G C "3A"	N 28 18' 24.171"	W 096 41' 00.959"	28.30672	-96.6836	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 3A	G C "3A"	N 28 18' 24.171"	W 096 41' 00.959"	28.30672	-96.6836	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Delete	San Antonio Bay Buoy 4	R N "4"	N 28 18' 27.626"	W 096 41' 00.175"	28.30767	-96.68338	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 4	R N "4"	N 28 18' 27.626"	W 096 41' 00.175"	28.30767	-96.68338	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Delete	San Antonio Bay Buoy 5	G C "5"	N 28 18' 10.670"	W 096 41' 20.693"	28.30296	-96.68908	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 5	G C "5"	N 28 18' 10.670"	W 096 41' 20.693"	28.30296	-96.68908	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Delete	San Antonio Bay Buoy 9A	G C "9A"	N 28 17' 34.720"	W 096 42' 10.746"	28.29298	-96.70299	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 9A	G C "9A"	N 28 17' 34.720"	W 096 42' 10.746"	28.29298	-96.70299	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Delete	San Antonio Bay Buoy 11	G C "11"	N 28 17' 23.246"	W 096 42' 26.883"	28.28979	-96.70747	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 11	G C "11"	N 28 17' 23.246"	W 096 42' 26.883"	28.28979	-96.70747	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Delete	San Antonio Bay Buoy 14	R N "14"	N 28 17' 12.973"	W 096 42' 44.403"	28.28694	-96.71233	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 14	R N "14"	N 28 17' 12.973"	W 096 42' 44.403"	28.28694	-96.71233	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Delete	San Antonio Bay Buoy 15	G C "15"	N 28 17' 00.292"	W 096 42' 59.064"	28.28341	-96.71641	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 15	G C "15"	N 28 17' 00.292"	W 096 42' 59.064"	28.28341	-96.71641	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Delete	San Antonio Bay Buoy 15A	G C "15A"	N 28 16' 48.614"	W 096 43' 15.438"	28.28017	-96.72095	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 15A	G C "15A"	N 28 16' 48.614"	W 096 43' 15.438"	28.28017	-96.72095	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Delete	San Antonio Bay Buoy 17	G C "17"	N 28 16' 36.820"	W 096 43' 31.849"	28.27689	-96.72552	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 17	G C "17"	N 28 16' 36.820"	W 096 43' 31.849"	28.27689	-96.72552	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Delete	San Antonio Bay Buoy 21	G C "21"	N 28 16' 14.249"	W 096 44' 04.091"	28.27062	-96.73447	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 21	G C "21"	N 28 16' 14.249"	W 096 44' 04.091"	28.27062	-96.73447	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Delete	San Antonio Bay Buoy 21A	G C "21A"	N 28 16' 02.203"	W 096 44' 20.611"	28.26728	-96.73906	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 21A	G C "21A"	N 28 16' 02.203"	W 096 44' 20.611"	28.26728	-96.73906	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Delete	San Antonio Bay Buoy 23	G C "23"	N 28 15' 50.615"	W 096 44' 36.988"	28.26406	-96.74361	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 23	G C "23"	N 28 15' 50.615"	W 096 44' 36.988"	28.26406	-96.74361	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Delete	San Antonio Bay Buoy 26	R N "26"	N 28 15' 40.461"	W 096 44' 54.414"	28.26124	-96.74845	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 26	R N "26"	N 28 15' 40.461"	W 096 44' 54.414"	28.26124	-96.74845	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Delete	San Antonio Bay Buoy 27	G C "27"	N 28 15' 27.487"	W 096 45' 09.661"	28.25764	-96.75269	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 27	G C "27"	N 28 15' 27.487"	W 096 45' 09.661"	28.25764	-96.75269	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Delete	San Antonio Bay Buoy 27A	G C "27A"	N 28 15' 16.044"	W 096 45' 25.588"	28.25446	-96.75711	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 27A	G C "27A"	N 28 15' 16.044"	W 096 45' 25.588"	28.25446	-96.75711	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Delete	San Antonio Bay Buoy 29	G C "29"	N 28 15' 04.415"	W 096 45' 41.605"	28.25123	-96.76156	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 29	G C "29"	N 28 15' 04.415"	W 096 45' 41.605"	28.25123	-96.76156	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Delete	San Antonio Bay Buoy 33	G C "33"	N 28 14' 37.622"	W 096 46' 19.820"	28.24378	-96.77217	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 33	G C "33"	N 28 14' 37.622"	W 096 46' 19.820"	28.24378	-96.77217	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Delete	San Antonio Bay Buoy 35	G C "35"	N 28 14' 22.213"	W 096 46' 41.449"	28.2395	-96.77818	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 35	G C "35"	N 28 14' 22.213"	W 096 46' 41.449"	28.2395	-96.77818	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Delete	San Antonio Bay Buoy 37	G C "37"	N 28 14' 14.508"	W 096 46' 52.263"	28.23736	-96.78118	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 37	G C "37"	N 28 14' 14.508"	W 096 46' 52.263"	28.23736	-96.78118	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Delete	San Antonio Bay Buoy 39A	G C "39A"	N 28 13' 52.366"	W 096 47' 23.029"	28.23121	-96.78973	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 40	R N "40"	N 28 14' 00.642"	W 096 47' 15.290"	28.23351	-96.78758	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 41	G C "41"	N 28 13' 38.224"	W 096 47' 42.991"	28.22729	-96.79527	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 44	R N "44"	N 28 13' 17.243"	W 096 48' 16.636"	28.22146	-96.80462	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 45	G C "45"	N 28 13' 06.023"	W 096 48' 28.536"	28.21834	-96.80793	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 46	R N "46"	N 28 13' 00.130"	W 096 48' 40.627"	28.2167	-96.81129	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 47	G C "47"	N 28 12' 49.840"	W 096 48' 51.046"	28.21384	-96.81418	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 49	G C "49"	N 28 12' 32.502"	W 096 49' 10.297"	28.20903	-96.81953	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 50	R N "50"	N 28 12' 24.799"	W 096 49' 19.713"	28.20689	-96.82214	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 51	G C "51"	N 28 12' 14.479"	W 096 49' 25.059"	28.20402	-96.82363	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Delete	San Antonio Bay Buoy 54	R N "54"	N 28 11' 45.389"	W 096 50' 05.554"	28.19594	-96.83488	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Change	San Antonio Light 5	Fl G 2.5s 17ft 4M "5" Ra Ref	N 28 17' 57.347"	W 096 41' 38.031"	28.29926	-96.6939	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Change	San Antonio Light 5	Fl G 2.5s 17ft 4M "5" Ra Ref	N 28 17' 57.347"	W 096 41' 38.031"	28.29926	-96.6939	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Change	San Antonio Bay Daybeacon 6	R "6"	N 28 17' 59.676"	W 096 41' 40.171"	28.29991	-96.69449	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Change	San Antonio Bay Daybeacon 6	R "6"	N 28 17' 59.676"	W 096 41' 40.171"	28.29991	-96.69449	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Change	San Antonio Bay Buoy 7	G C "7"	N 28 17' 46.072"	W 096 41' 54.774"	28.29613	-96.69855	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Change	San Antonio Bay Buoy 7	G C "7"	N 28 17' 46.072"	W 096 41' 54.774"	28.29613	-96.69855	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Change	San Antonio Bay Light 11	Fl G 4s 17ft 4M "11" Ra Ref	N 28 17' 11.285"	W 096 42' 42.883"	28.28647	-96.71191	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Change	San Antonio Bay Light 11	Fl G 4s 17ft 4M "11" Ra Ref	N 28 17' 11.285"	W 096 42' 42.883"	28.28647	-96.71191	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Change	San Antonio Bay Light 15	Fl G 4s 17ft 4M "15" Ra Ref	N 28 16' 24.955"	W 096 43' 47.914"	28.2736	-96.72997	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Change	San Antonio Bay Light 15	Fl G 4s 17ft 4M "15" Ra Ref	N 28 16' 24.955"	W 096 43' 47.914"	28.2736	-96.72997	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Change	San Antonio Bay Daybeacon 16	R "16"	N 28 16' 27.351"	W 096 43' 50.002"	28.27426	-96.73055	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Change	San Antonio Bay Daybeacon 16	R "16"	N 28 16' 27.351"	W 096 43' 50.002"	28.27426	-96.73055	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Change	San Antonio Bay Light 19	Fl G 4s 17ft 4M "19" Ra Ref	N 28 15' 38.746"	W 096 44' 52.832"	28.26076	-96.74801	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Change	San Antonio Bay Light 19	Fl G 4s 17ft 4M "19" Ra Ref	N 28 15' 38.746"	W 096 44' 52.832"	28.26076	-96.74801	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Change	San Antonio Bay Light 23	Fl G 4s 17ft 4M "23" Ra Ref	N 28 14' 52.528"	W 096 45' 57.735"	28.24792	-96.76604	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Change	San Antonio Bay Light 23	Fl G 4s 17ft 4M "23" Ra Ref	N 28 14' 52.528"	W 096 45' 57.735"	28.24792	-96.76604	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Change	San Antonio Bay Daybeacon 24	R "24" Ra Ref	N 28 14' 54.899"	W 096 45' 59.839"	28.24858	-96.76662	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Change	San Antonio Bay Daybeacon 24	R "24" Ra Ref	N 28 14' 54.899"	W 096 45' 59.839"	28.24858	-96.76662	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Change	San Antonio Bay Light 27	Fl G 4s 17ft 4M "27" Ra Ref	N 28 14' 06.411"	W 096 47' 02.796"	28.23512	-96.78411	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Change	San Antonio Bay Light 29	Fl G 2.5s 17ft 4M "29" Ra Ref	N 28 13' 23.547"	W 096 48' 02.610"	28.22321	-96.80073	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Change	San Antonio Bay Light 34	Q R 17ft 4M "34" Ra Ref	N 28 12' 43.072"	W 096 49' 04.953"	28.21196	-96.81804	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Change	San Antonio Bay Light 39	Q G 17ft 4M "39" Ra Ref	N 28 12' 05.485"	W 096 49' 32.654"	28.20152	-96.82574	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 1	G "1" Ra Ref	N 28 18' 46.653"	W 096 40' 28.980"	28.31296	-96.67471	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 1	G "1" Ra Ref	N 28 18' 46.653"	W 096 40' 28.980"	28.31296	-96.67471	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 3	G "3" Ra Ref	N 28 18' 24.172"	W 096 41' 00.986"	28.30672	-96.68361	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 3	G "3" Ra Ref	N 28 18' 24.172"	W 096 41' 00.986"	28.30672	-96.68361	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 4	R "4" Ra Ref	N 28 18' 27.624"	W 096 41' 00.176"	28.30767	-96.68338	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 4	R "4" Ra Ref	N 28 18' 27.624"	W 096 41' 00.176"	28.30767	-96.68338	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 21	G "21" Ra Ref	N 28 15' 17.917"	W 096 45' 24.669"	28.25498	-96.75685	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 21	G "21" Ra Ref	N 28 15' 17.917"	W 096 45' 24.669"	28.25498	-96.75685	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 35	G "35" Ra Ref	N 28 12' 32.465"	W 096 49' 10.335"	28.20902	-96.81953	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 12	R "12" Ra Ref	N 28 17' 12.969"	W 096 42' 44.439"	28.28694	-96.71234	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 12	R "12" Ra Ref	N 28 17' 12.969"	W 096 42' 44.439"	28.28694	-96.71234	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 9	G "9" Ra Ref	N 28 17' 34.705"	W 096 42' 10.752"	28.29297	-96.70299	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 9	G "9" Ra Ref	N 28 17' 34.705"	W 096 42' 10.752"	28.29297	-96.70299	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 13	G "13" Ra Ref	N 28 16' 48.600"	W 096 43' 15.406"	28.28017	-96.72095	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 13	G "13" Ra Ref	N 28 16' 48.600"	W 096 43' 15.406"	28.28017	-96.72095	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 17	G "17" Ra Ref	N 28 16' 02.218"	W 096 44' 20.592"	28.26728	-96.73905	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 17	G "17" Ra Ref	N 28 16' 02.218"	W 096 44' 20.592"	28.26728	-96.73905	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 20	R "20" Ra Ref	N 28 15' 40.459"	W 096 44' 54.405"	28.26124	-96.74844	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 20	R "20" Ra Ref	N 28 15' 40.459"	W 096 44' 54.405"	28.26124	-96.74844	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 25	G "25" Ra Ref	N 28 14' 22.225"	W 096 46' 41.460"	28.23951	-96.77818	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 25	G "25" Ra Ref	N 28 14' 22.225"	W 096 46' 41.460"	28.23951	-96.77818	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 28	R "28" Ra Ref	N 28 14' 00.661"	W 096 47' 15.267"	28.23352	-96.78757	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 30	R "30" Ra Ref	N 28 13' 17.239"	W 096 48' 16.633"	28.22145	-96.80462	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 31	G "31" Ra Ref	N 28 13' 06.002"	W 096 48' 28.542"	28.21833	-96.80793	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 32	R "32" Ra Ref	N 28 13' 00.116"	W 096 48' 40.636"	28.2167	-96.81129	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 33	G "33" Ra Ref	N 28 12' 49.832"	W 096 48' 51.036"	28.21384	-96.81418	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 36	R "36" Ra Ref	N 28 12' 24.777"	W 096 49' 19.745"	28.20688	-96.82215	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 37	G "37" Ra Ref	N 28 12' 14.471"	W 096 49' 25.037"	28.20402	-96.82362	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Add	San Antonio Bay Daybeacon 40	R "40" Ra Ref	N 28 11' 45.378"	W 096 50' 05.582"	28.19594	-96.83488	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Relocate	San Antonio Light 5	Fl G 2.5s 17ft 4M "5" Ra Ref	N 28 17' 57.347"	W 096 41' 38.031"	28.29926	-96.6939	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Relocate	San Antonio Light 5	Fl G 2.5s 17ft 4M "5" Ra Ref	N 28 17' 57.347"	W 096 41' 38.031"	28.29926	-96.6939	LNM 33/12, 8th Dist	109	11315_2	8/23/2012
+11315	Relocate	San Antonio Bay Light 34	Q R 17ft 4M "34" Ra Ref	N 28 12' 43.072"	W 096 49' 04.953"	28.21196	-96.81804	LNM 33/12, 8th Dist	108	11315_1	8/23/2012
+11315	Add	Submerged Obstructions	Obstns PA         Chart No. 1: K40	N 28 09' 27.000"	W 096 53' 16.400"	28.1575	-96.88789	LNM 43/11, 8th Dist	108	11315_1	11/3/2011
+11315	Change	Depth Note - Victoria Barge Canal to:	Numerous high-pressure gas pipelines marked with signs are reported crossing the channel. The controlling depth was 10 feet for a mid-width of 60 feet from the junction with the Intracoastal Waterway, via the entrance curves, to the turning basin at mile 34.7. Shoaling to 4 feet in the outside quarters. The controlling depth in the turning basin was 11 feet. May 2010-Mar 2011	N 28 22' 46.000"	W 096 35' 46.000"	28.37944	-96.59611	LNM 24/11, 8th Dist	108	11315_1	6/8/2011
+11315	Change	Depth Note - Victoria Barge Canal to:	Numerous high-pressure gas pipelines marked with signs are reported crossing the channel. The controlling depth was 10 feet for a mid-width of 60 feet from the junction with the Intracoastal Waterway, via the entrance curves, to the turning basin at mile 34.7. Shoaling to 4 feet in the outside quarters. The controlling depth in the turning basin was 11 feet. May 2010-Mar 2011	N 28 21' 21.000"	W 096 41' 18.000"	28.35583	-96.68833	LNM 24/11, 8th Dist	109	11315_2	6/8/2011

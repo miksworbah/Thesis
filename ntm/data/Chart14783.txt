@@ -1,0 +1,25 @@
+Chart: 14783, Current Edition: 20, Print Date: Dec. /2005, Four Brothers Islands to Barber Point
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14783	Relocate	JUNIPER ISLAND LIGHT	Fl 4s 125ft 7 St M	N 44 26' 58.308"	W 073 16' 34.470"	44.44953	-73.27625	LNM 24/17, 1st Dist	1025	14783_1	6/22/2017
+14783	Change	JUNIPER ISLAND LIGHT	Fl 4s 125ft 7M	N 44 26' 58.200"	W 073 16' 34.200"	44.4495	-73.27617	LNM 19/17, 1st Dist	1025	14783_1	5/18/2017
+14783	Relocate	QUAKER SMITH POINT SHOAL BUOY 49	G C "49"	N 44 22' 57.579"	W 073 17' 12.908"	44.38266	-73.28692	LNM 35/16, 1st Dist	1025	14783_1	9/8/2016
+14783	Relocate	BASIN HARBOR REEF BUOY 53	G C "53"	N 44 11' 38.970"	W 073 22' 21.829"	44.19416	-73.37273	LNM 31/16, 1st Dist	1025	14783_1	8/11/2016
+14783	Relocate	ESSEX FERRY DOCK NORTH LIGHT	F R 14ft Priv	N 44 18' 39.480"	W 073 21' 01.140"	44.31097	-73.35032	LNM 40/15, 1st Dist	1025	14783_1	10/15/2015
+14783	Add	ESSEX FERRY DOCK SOUTH LIGHT	F G 14ft Priv	N 44 18' 38.700"	W 073 21' 01.140"	44.31075	-73.35032	LNM 40/15, 1st Dist	1025	14783_1	10/15/2015
+14783	Relocate	CHARLOTTE FERRY DOCK NORTH SLIP SOUTH LT	F R 14ft Priv	N 44 18' 03.690"	W 073 17' 51.600"	44.30103	-73.29767	LNM 40/15, 1st Dist	1025	14783_1	10/15/2015
+14783	Change	Barber Point Light B characteristics	Fl 4s 72ft 7M "B"	N 44 09' 15.590"	W 073 24' 14.650"	44.15433	-73.40407	LNM 32/15, 1st Dist	1025	14783_1	8/6/2015
+14783	Add	LAKE CHAMPLAIN YACHT CLUB RACING MARK E	Y C "E" Priv	N 44 25' 36.000"	W 073 13' 27.000"	44.42667	-73.22417	LNM 21/15, 1st Dist	1025	14783_1	6/4/2015
+14783	Add	LAKE CHAMPLAIN YACHT CLUB RACING MARK P	Y C "P" Priv	N 44 26' 58.200"	W 073 14' 58.800"	44.4495	-73.24966	LNM 21/15, 1st Dist	1025	14783_1	6/4/2015
+14783	Add	LAKE CHAMPLAIN YACHT CLUB RACING MARK S	Y C "S" Priv	N 44 26' 01.200"	W 073 14' 24.600"	44.43367	-73.24017	LNM 21/15, 1st Dist	1025	14783_1	6/4/2015
+14783	Add	LAKE CHAMPLAIN YACHT CLUB RACING MARK W	Y C "W" Priv	N 44 25' 29.400"	W 073 13' 39.000"	44.42484	-73.2275	LNM 21/15, 1st Dist	1025	14783_1	6/4/2015
+14783	Add	LAKE CHAMPLAIN YACHT CLUB RACING MARK C	Y C "C" Priv	N 44 24' 38.400"	W 073 13' 53.400"	44.41067	-73.2315	LNM 21/15, 1st Dist	1025	14783_1	6/4/2015
+14783	Change	Diamond Island Light characteristics	Fl 2.5s 37ft 6M	N 44 14' 11.200"	W 073 20' 04.900"	44.23644	-73.33469	LNM 14/15, 1st Dist	1025	14783_1	4/2/2015
+14783	Change	Split Rock Point Light characteristics	Fl 4s 93ft 7M 	N 44 16' 05.890"	W 073 19' 19.340"	44.2683	-73.32204	LNM 14/15, 1st Dist	1025	14783_1	4/2/2015
+14783	Change	Juniper Island Light characteristics	Fl 4s 125ft 8M	N 44 26' 58.200"	W 073 16' 34.200"	44.4495	-73.27617	LNM 14/15, 1st Dist	1025	14783_1	4/2/2015
+14783	Relocate	SUMMER POINT SHOAL BUOY 51	G C "51"	N 44 13' 36.528"	W 073 20' 15.114"	44.22681	-73.33753	LNM 05/15, 1st Dist	1025	14783_1	2/12/2015
+14783	Change	SPLIT ROCK POINT LIGHT	Fl 4s 93ft 7M	N 44 16' 05.894"	W 073 19' 19.347"	44.2683	-73.32204	LNM 43/14, 1st Dist	1025	14783_1	11/6/2014
+14783	Relocate	Juniper Island Reef Buoy 3	G C "3"	N 44 26' 55.806"	W 073 16' 14.004"	44.44883	-73.27055	LNM 36/06, 1st Dist	1025	14783_1	2/13/2008
+14783	Add	NOTE Z NO-DISCHARGE ZONE	NOTE Z NO-DISCHARGE ZONE, 40 CFR 140 Under the Clean Water Act, Section 312, all vessels operating within a No-Discharge Zone (NDZ) are completely prohibited from discharging any sewage, treated or untreated, into the waters. All vessels with an installed marine sanitation device (MSD) that are navigation, moored, anchored, or docked within a NDZ must have the MSD disabled to prevent the overboard discharge of sewage (treated or untreated) or install a holding tank. Regulations for the NDZ are contained in the U.S. Coast Pilot. Additional information concerning the regulations and requirements may be obtained from the Environmental Protection Agency (EPA) web site: http://www.epa.gov/owow/oceans/regulatory/vessel_sewage/.	N 44 09' 41.000"	W 073 13' 15.000"	44.16139	-73.22083	LNM 30/06, 1st Dist	1025	14783_1	2/13/2008
+14783	Add	NO-DISCHARGE ZONE label	NO-DISCHARGE ZONE (see note Z)	N 44 16' 35.000"	W 073 19' 36.000"	44.27639	-73.32667	LNM 30/06, 1st Dist	1025	14783_1	2/13/2008
+14783	Add	NO-DISCHARGE ZONE label	NO-DISCHARGE ZONE (see note Z)	N 44 08' 22.000"	W 073 24' 15.000"	44.13945	-73.40417	LNM 30/06, 1st Dist	1025	14783_1	2/13/2008
+14783	Add	NO-DISCHARGE ZONE label	NO-DISCHARGE ZONE (see note Z)	N 44 25' 41.000"	W 073 18' 20.000"	44.42805	-73.30556	LNM 30/06, 1st Dist	1025	14783_1	2/13/2008

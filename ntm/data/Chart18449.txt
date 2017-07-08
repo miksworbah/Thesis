@@ -1,0 +1,93 @@
+Chart: 18449, Current Edition: 20, Print Date: Aug. /2014, Puget Sound-Seattle to Bremerton
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18449	Change	Colman Ferry Terminal North Dolphin Lights	SIREN	N 47 36' 09.890"	W 122 20' 22.100"	47.60275	-122.3395	LNM 26/17, 13th Dist	1713	18449_1	7/6/2017
+18449	Change	Colman Ferry Terminal Fog Signal Note	The light showing fixed white and siren is privately maintained and operated during fog only.	N 47 36' 50.000"	W 122 20' 10.000"	47.61389	-122.3361	LNM 26/17, 13th Dist	1713	18449_1	7/6/2017
+18449	Relocate	Puget Sound Traffic Separation Lane Lighted Buoy T	Y "T" Fl Y 2.5s	N 47 34' 33.352"	W 122 27' 04.467"	47.57593	-122.4512	LNM 01/17, 13th Dist	1713	18449_1	1/12/2017
+18449	Change	Puget Sound Traffic Separation Lane Lighted Buoy SG	Y "SG" Fl Y 2.5s RACON (-.) AIS	N 47 39' 41.091"	W 122 27' 52.253"	47.66142	-122.4645	LNM 43/16, 13th Dist	1713	18449_1	10/27/2016
+18449	Relocate	Elliot Bay Fish Pen Light B	Fl Y 6s "B" Priv	N 47 37' 19.689"	W 122 22' 02.784"	47.62214	-122.3674	LNM 19/16, 13th Dist	1713	18449_1	5/19/2016
+18449	Change	Elliot Bay Fish Pen Light B	Fl Y 6s "B" Priv	N 47 37' 19.689"	W 122 22' 02.784"	47.62214	-122.3674	LNM 19/16, 13th Dist	1713	18449_1	5/19/2016
+18449	Change	Elliot Bay Fish Pen Light A	Fl Y 6s "A" Priv	N 47 37' 20.705"	W 122 22' 04.213"	47.62242	-122.3678	LNM 19/16, 13th Dist	1713	18449_1	5/19/2016
+18449	Relocate	Elliot Bay Fish Pen Light A	Fl Y 6s "A" Priv	N 47 37' 20.705"	W 122 22' 04.213"	47.62242	-122.3678	LNM 19/16, 13th Dist	1713	18449_1	5/19/2016
+18449	Add	Wyckoff Regulatory Buoy C	W Or "C" Priv	N 47 37' 03.327"	W 122 30' 15.344"	47.61759	-122.5043	LNM 06/16, 13th Dist	1713	18449_1	2/18/2016
+18449	Add	Wyckoff Regulatory Buoy D	W Or "D" Priv	N 47 37' 03.600"	W 122 30' 25.686"	47.61767	-122.5071	LNM 06/16, 13th Dist	1713	18449_1	2/18/2016
+18449	Add	NOTE G CAUTION UNEXPLODED ORDNANCE	Mariners and divers are cautioned against anchoring, dredging, trawling orotherwise disturbing the bottom sediments in this vicinity due to the possibleexistence of unexploded ordnance. For additional information contact Naval BaseKitsap Public Affairs Office at (360) 396-1631.	N 47 33' 50.000"	W 122 41' 48.000"	47.56389	-122.6967	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 1 OF 6	(chart no.1 symbol N.g) A3	N 47 35' 17.100"	W 122 41' 01.900"	47.58809	-122.6839	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 2 OF 6	(chart no.1 symbol N.g) A3	N 47 35' 22.900"	W 122 41' 02.100"	47.58969	-122.6839	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 3 OF 6	(chart no.1 symbol N.g) A3	N 47 35' 23.100"	W 122 40' 56.300"	47.58975	-122.6823	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 4 OF 6	(chart no.1 symbol N.g) A3	N 47 35' 19.100"	W 122 40' 56.100"	47.58864	-122.6823	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 5 OF 6	(chart no.1 symbol N.g) A3	N 47 35' 19.100"	W 122 40' 59.100"	47.58864	-122.6831	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 6 OF 6	(chart no.1 symbol N.g) A3	N 47 35' 17.100"	W 122 40' 59.000"	47.58809	-122.6831	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 1 OF 5	(chart no.1 symbol N.g) A4	N 47 35' 09.200"	W 122 40' 58.700"	47.58589	-122.683	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 2 OF 5	(chart no.1 symbol N.g) A4	N 47 35' 13.100"	W 122 40' 58.800"	47.58697	-122.683	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 3 OF 5	(chart no.1 symbol N.g) A4	N 47 35' 13.200"	W 122 40' 55.100"	47.587	-122.682	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 4 OF 5	(chart no.1 symbol N.g) A4	N 47 35' 11.300"	W 122 40' 55.400"	47.58647	-122.6821	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 5 OF 5	(chart no.1 symbol N.g) A4	N 47 35' 09.200"	W 122 40' 56.200"	47.58589	-122.6823	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 1 OF 11	(chart no.1 symbol N.g) A5	N 47 34' 55.200"	W 122 41' 09.900"	47.582	-122.6861	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 2 OF 11	(chart no.1 symbol N.g) A5	N 47 34' 59.100"	W 122 41' 10.100"	47.58308	-122.6861	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 3 OF 11	(chart no.1 symbol N.g) A5	N 47 34' 59.200"	W 122 41' 07.100"	47.58311	-122.6853	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 4 OF 11	(chart no.1 symbol N.g) A5	N 47 35' 03.100"	W 122 41' 07.200"	47.58419	-122.6853	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 5 OF 11	(chart no.1 symbol N.g) A5	N 47 35' 03.300"	W 122 40' 58.500"	47.58425	-122.6829	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 6 OF 11	(chart no.1 symbol N.g) A5	N 47 35' 02.400"	W 122 40' 58.500"	47.584	-122.6829	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 7 OF 11	(chart no.1 symbol N.g) A5	N 47 34' 59.300"	W 122 40' 59.500"	47.58314	-122.6832	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 8 OF 11	(chart no.1 symbol N.g) A5	N 47 34' 59.300"	W 122 41' 01.300"	47.58314	-122.6837	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 9 OF 11	(chart no.1 symbol N.g) A5	N 47 34' 57.300"	W 122 41' 01.200"	47.58258	-122.6837	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 10 OF 11	(chart no.1 symbol N.g) A5	N 47 34' 57.200"	W 122 41' 04.100"	47.58255	-122.6845	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 11 OF 11	(chart no.1 symbol N.g) A5	N 47 34' 55.300"	W 122 41' 04.100"	47.58203	-122.6845	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 1 OF 4	(chart no.1 symbol N.g) A5	N 47 35' 03.000"	W 122 41' 13.100"	47.58417	-122.687	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 2 OF 4	(chart no.1 symbol N.g) A5	N 47 35' 07.000"	W 122 41' 13.200"	47.58528	-122.687	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 3 OF 4	(chart no.1 symbol N.g) A5	N 47 35' 07.100"	W 122 41' 07.400"	47.5853	-122.6854	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 4 OF 4	(chart no.1 symbol N.g) A5	N 47 35' 03.100"	W 122 41' 07.200"	47.58419	-122.6853	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 1 OF 6	(chart no.1 symbol N.g) A2	N 47 35' 42.800"	W 122 40' 57.100"	47.59522	-122.6825	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 2 OF 6	(chart no.1 symbol N.g) A2	N 47 35' 42.800"	W 122 40' 51.100"	47.59522	-122.6809	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 3 OF 6	(chart no.1 symbol N.g) A2	N 47 35' 40.900"	W 122 40' 51.100"	47.5947	-122.6809	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 4 OF 6	(chart no.1 symbol N.g) A2	N 47 35' 40.900"	W 122 40' 46.500"	47.5947	-122.6796	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 5 OF 6	(chart no.1 symbol N.g) A2	N 47 35' 36.900"	W 122 40' 49.300"	47.59358	-122.6804	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 6 OF 6	(chart no.1 symbol N.g) A2	N 47 35' 36.800"	W 122 40' 56.700"	47.59356	-122.6824	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 1 OF 4	(chart no.1 symbol N.g) A1	N 47 35' 06.700"	W 122 41' 20.400"	47.58519	-122.689	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 2 OF 4	(chart no.1 symbol N.g) A1	N 47 35' 12.800"	W 122 41' 19.900"	47.58689	-122.6889	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 3 OF 4	(chart no.1 symbol N.g) A1	N 47 35' 12.900"	W 122 41' 10.600"	47.58692	-122.6863	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance area PT 4 OF 4	(chart no.1 symbol N.g) A1	N 47 35' 06.900"	W 122 41' 10.400"	47.58525	-122.6862	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	unexploded ordnance label	Unexploded ordnance areas A1 to A5 (reported 2015) (see note G)	N 47 35' 19.100"	W 122 41' 29.600"	47.58864	-122.6916	LNM 05/16, 13th Dist	1713	18449_1	1/28/2016
+18449	Add	Point Williams Research Lighted Buoy	Y Fl Y 4s Priv	N 47 32' 13.790"	W 122 24' 22.020"	47.53716	-122.4061	LNM 34/15, 13th Dist	1713	18449_1	9/3/2015
+18449	Delete	Point Williams Research Lighted Buoy	Y Fl Y 4s Priv	N 47 33' 13.790"	W 122 24' 22.020"	47.55383	-122.4061	LNM 34/15, 13th Dist	1713	18449_1	9/3/2015
+18449	Add	Obstruction in Feet	33 Obstn       Chart No. 1: K41	N 47 33' 50.800"	W 122 20' 52.600"	47.56411	-122.3479	LNM 21/15, 13th Dist	1713	18449_1	5/28/2015
+18449	Add	Obstruction in Feet	31 Obstn       Chart No. 1: K41	N 47 35' 11.800"	W 122 21' 46.200"	47.58661	-122.3628	LNM 21/15, 13th Dist	1713	18449_1	5/28/2015
+18449	Add	Obstruction in Feet	36 Obstn       Chart No. 1: K41	N 47 35' 15.500"	W 122 20' 36.400"	47.58764	-122.3434	LNM 21/15, 13th Dist	1713	18449_1	5/28/2015
+18449	Add	Obstruction in Feet	83 Obstn       Chart No. 1: K41	N 47 35' 17.500"	W 122 22' 33.300"	47.5882	-122.3759	LNM 21/15, 13th Dist	1713	18449_1	5/28/2015
+18449	Add	Obstruction in Feet	42 Obstn       Chart No. 1: K41	N 47 35' 20.600"	W 122 21' 10.700"	47.58905	-122.353	LNM 21/15, 13th Dist	1713	18449_1	5/28/2015
+18449	Add	Obstruction in Feet	55 Obstn       Chart No. 1: K41	N 47 35' 26.000"	W 122 20' 41.500"	47.59056	-122.3449	LNM 21/15, 13th Dist	1713	18449_1	5/28/2015
+18449	Add	Obstruction in Feet	21 Obstn       Chart No. 1: K41	N 47 35' 32.900"	W 122 22' 52.400"	47.59247	-122.3812	LNM 21/15, 13th Dist	1713	18449_1	5/28/2015
+18449	Add	Obstruction in Feet	8 Obstn       Chart No. 1: K41	N 47 35' 04.600"	W 122 21' 44.100"	47.58461	-122.3623	LNM 21/15, 13th Dist	1713	18449_1	5/28/2015
+18449	Add	Obstruction in Feet	62 Obstn       Chart No. 1: K41	N 47 35' 35.800"	W 122 20' 37.200"	47.59328	-122.3437	LNM 21/15, 13th Dist	1713	18449_1	5/28/2015
+18449	Add	Obstruction in Feet	14 Obstn       Chart No. 1: K41	N 47 35' 08.600"	W 122 21' 58.100"	47.58572	-122.3661	LNM 21/15, 13th Dist	1713	18449_1	5/28/2015
+18449	Add	Obstruction in Feet	66 Obstn       Chart No. 1: K41	N 47 37' 29.800"	W 122 22' 44.700"	47.62494	-122.3791	LNM 21/15, 13th Dist	1713	18449_1	5/28/2015
+18449	Add	Obstruction in Feet	30 Obstn       Chart No. 1: K41	N 47 37' 36.500"	W 122 23' 08.700"	47.6268	-122.3857	LNM 21/15, 13th Dist	1713	18449_1	5/28/2015
+18449	Add	Obstruction in Feet	33 Obstn       Chart No. 1: K41	N 47 37' 48.300"	W 122 23' 02.100"	47.63008	-122.3839	LNM 21/15, 13th Dist	1713	18449_1	5/28/2015
+18449	Add	Obstruction in Feet	19 Obstn       Chart No. 1: K41	N 47 33' 22.600"	W 122 20' 27.500"	47.55628	-122.341	LNM 21/15, 13th Dist	1713	18449_1	5/28/2015
+18449	Add	Obstruction in Feet	24 Obstn       Chart No. 1: K41	N 47 35' 42.900"	W 122 22' 59.400"	47.59525	-122.3832	LNM 21/15, 13th Dist	1713	18449_1	5/28/2015
+18449	Add	Obstruction in Feet	16 Obstn       Chart No. 1: K41	N 47 35' 46.000"	W 122 23' 03.400"	47.59611	-122.3843	LNM 21/15, 13th Dist	1713	18449_1	5/28/2015
+18449	Add	Obstruction in Feet	22 Obstn       Chart No. 1: K41	N 47 37' 38.600"	W 122 23' 10.900"	47.62739	-122.3864	LNM 21/15, 13th Dist	1713	18449_1	5/28/2015
+18449	Add	Obstruction in Feet	33 Obstn       Chart No. 1: K41	N 47 37' 44.700"	W 122 23' 01.800"	47.62908	-122.3838	LNM 21/15, 13th Dist	1713	18449_1	5/28/2015
+18449	Add	Obstruction in Feet	29 Obstn       Chart No. 1: K41	N 47 37' 56.000"	W 122 23' 01.800"	47.63222	-122.3838	LNM 21/15, 13th Dist	1713	18449_1	5/28/2015
+18449	Add	Obstruction in Feet	40 Obstn       Chart No. 1: K41	N 47 37' 32.700"	W 122 22' 46.500"	47.62575	-122.3796	LNM 21/15, 13th Dist	1713	18449_1	5/28/2015
+18449	Add	Obstruction in Feet	12 Obstn       Chart No. 1: K41	N 47 37' 43.900"	W 122 23' 09.500"	47.62886	-122.386	LNM 21/15, 13th Dist	1713	18449_1	5/28/2015
+18449	Add	Obstruction in Feet	28 Obstn       Chart No. 1: K41	N 47 35' 10.100"	W 122 21' 54.000"	47.58614	-122.365	LNM 21/15, 13th Dist	1713	18449_1	5/28/2015
+18449	Add	Obstruction in Feet	26 Obstn       Chart No. 1: K41	N 47 35' 12.000"	W 122 21' 50.000"	47.58667	-122.3639	LNM 21/15, 13th Dist	1713	18449_1	5/28/2015
+18449	Relocate	Bainbridge Island Boat Yard Light A	Fl Y 4s "A" Priv	N 47 37' 03.000"	W 122 30' 39.420"	47.6175	-122.5109	LNM 12/15, 13th Dist	1713	18449_1	3/26/2015
+18449	Change	Bainbridge Island Boat Yard Light A	Fl Y 4s "A" Priv	N 47 37' 03.000"	W 122 30' 39.420"	47.6175	-122.5109	LNM 12/15, 13th Dist	1713	18449_1	3/26/2015
+18449	Add	Pipeline Area  PT 1 OF 12	Chart No. 1: L40.2	N 47 35' 31.200"	W 122 23' 30.920"	47.592	-122.3919	LNM 03/15, 13th Dist	1713	18449_1	1/15/2015
+18449	Add	Pipeline Area  PT 2 OF 12	Chart No. 1: L40.2	N 47 35' 35.120"	W 122 23' 37.150"	47.59309	-122.3937	LNM 03/15, 13th Dist	1713	18449_1	1/15/2015
+18449	Add	Pipeline Area  PT 3 OF 12	Chart No. 1: L40.2	N 47 35' 36.650"	W 122 23' 39.580"	47.59351	-122.3943	LNM 03/15, 13th Dist	1713	18449_1	1/15/2015
+18449	Add	Pipeline Area  PT 4 OF 12	Chart No. 1: L40.2	N 47 35' 38.280"	W 122 23' 41.990"	47.59397	-122.395	LNM 03/15, 13th Dist	1713	18449_1	1/15/2015
+18449	Add	Pipeline Area  PT 5 OF 12	Chart No. 1: L40.2	N 47 35' 40.470"	W 122 23' 43.860"	47.59457	-122.3955	LNM 03/15, 13th Dist	1713	18449_1	1/15/2015
+18449	Add	Pipeline Area  PT 6 OF 12	Chart No. 1: L40.2	N 47 35' 43.740"	W 122 23' 43.500"	47.59548	-122.3954	LNM 03/15, 13th Dist	1713	18449_1	1/15/2015
+18449	Add	Pipeline Area  PT 7 OF 12	Chart No. 1: L40.2	N 47 35' 45.900"	W 122 23' 40.810"	47.59608	-122.3947	LNM 03/15, 13th Dist	1713	18449_1	1/15/2015
+18449	Add	Pipeline Area  PT 8 OF 12	Chart No. 1: L40.2	N 47 35' 46.690"	W 122 23' 36.200"	47.5963	-122.3934	LNM 03/15, 13th Dist	1713	18449_1	1/15/2015
+18449	Add	Pipeline Area  PT 9 OF 12	Chart No. 1: L40.2	N 47 35' 45.260"	W 122 23' 31.670"	47.59591	-122.3921	LNM 03/15, 13th Dist	1713	18449_1	1/15/2015
+18449	Add	Pipeline Area  PT 10 OF 12	Chart No. 1: L40.2	N 47 35' 43.620"	W 122 23' 29.260"	47.59545	-122.3915	LNM 03/15, 13th Dist	1713	18449_1	1/15/2015
+18449	Add	Pipeline Area  PT 11 OF 12	Chart No. 1: L40.2	N 47 35' 42.350"	W 122 23' 27.220"	47.5951	-122.3909	LNM 03/15, 13th Dist	1713	18449_1	1/15/2015
+18449	Add	Pipeline Area  PT 12 OF 12	Chart No. 1: L40.2	N 47 35' 39.260"	W 122 23' 22.300"	47.59424	-122.3895	LNM 03/15, 13th Dist	1713	18449_1	1/15/2015
+18449	Add	Pipeline Area Label	Pipeline Area	N 47 35' 40.000"	W 122 23' 33.000"	47.59444	-122.3925	LNM 03/15, 13th Dist	1713	18449_1	1/15/2015
+18449	Relocate	NOAA Sea Lion Float Light B	Fl Y 4s "B" Priv	N 47 33' 13.320"	W 122 38' 17.040"	47.5537	-122.6381	LNM 44/14, 13th Dist	1713	18449_1	11/6/2014
+18449	Add	NOAA Sea Lion Float Light B	Fl Y 4s "B" Priv	N 47 33' 27.000"	W 122 37' 42.240"	47.5575	-122.6284	LNM 43/14, 13th Dist	1713	18449_1	11/6/2014
+18449	Add	Obstruction in Feet	6     Chart No. 1: K41	N 47 37' 43.000"	W 122 23' 11.600"	47.62861	-122.3866	LNM 41/14, 13th Dist	1713	18449_1	10/16/2014

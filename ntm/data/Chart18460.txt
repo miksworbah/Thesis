@@ -1,0 +1,8 @@
+Chart: 18460, Current Edition: 14, Print Date: Jan. /2013, Stait of Juan de Fuca Entrance
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18460	Change	Strait of Juan De Fuca Traffic Separation Lane Lighted Whistle Buoy J	Y "J" Fl Y 2.5s WHIS RACON (---) AIS	N 48 29' 36.817"	W 125 00' 00.000"	48.49356	-125	LNM 34/16, 13th Dist	1720	18460_1	9/1/2016
+18460	Add	Submerged mooring buoy	Subm buoy (97 fms rep)	N 48 21' 38.376"	W 124 13' 48.878"	48.36066	-124.2302	LNM 18/16, 13th Dist	1720	18460_1	5/12/2016
+18460	Relocate	Duntze Rock Lighted Whistle Buoy 2	R "2" Fl R 4s WHIS	N 48 24' 50.637"	W 124 45' 01.249"	48.41407	-124.7503	LNM 08/16, 13th Dist	1720	18460_1	3/3/2016
+18460	Change	Strait of Juan De Fuca Traffic Separation Lane Lighted Buoy J	Y "J" Fl Y 2.5s RACON (---) AIS	N 48 29' 36.817"	W 125 00' 00.000"	48.49356	-125	LNM 35/15, 13th Dist	1720	18460_1	9/10/2015
+18460	Change	Cape Flattery Light	Fl (2) 20s 112ft 14M	N 48 23' 31.169"	W 124 44' 12.950"	48.39199	-124.7369	LNM 22/13, 13th Dist	1720	18460_1	6/21/2013
+18460	Relocate	Cape Flattery Light	Fl (2) 20s 112ft 14M	N 48 23' 31.169"	W 124 44' 12.950"	48.39199	-124.7369	LNM 22/13, 13th Dist	1720	18460_1	6/7/2013

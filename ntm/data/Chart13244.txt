@@ -1,0 +1,4 @@
+Chart: 13244, Current Edition: 42, Print Date: Mar. /2014, Eastern Entrance to Nantucket Sound
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+13244	Change	POLLOCK RIP CHANNEL LTD BUOY 4	R "4" Fl R 4s	N 41 33' 14.272"	W 069 54' 34.225"	41.55396	-69.90951	LNM 23/17, 1st Dist	2099	13244_1	6/15/2017
+13244	Change	GREAT ROUND SHOAL CHANNEL LTD BUOY 13	G "13" Fl G 2.5s	N 41 25' 55.326"	W 069 58' 54.401"	41.43203	-69.98178	LNM 20/17, 1st Dist	2099	13244_1	5/25/2017

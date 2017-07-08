@@ -1,0 +1,4 @@
+Chart: 17320, Current Edition: 20, Print Date: Feb. /2017, Coronation Island to Lisianski Strait
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+17320	Delete	Tenakee Inlet Entrance Light 1	Fl G 4s 33ft 4M "1"	N 57 46' 20.418"	W 134 56' 04.158"	57.77234	-134.9345	LNM 11/17, 17th Dist	2644	17320_1	3/23/2017
+17320	Add	Tenakee Inlet Entrance Lighted Buoy 1	G "1" Fl G 4s	N 57 46' 19.259"	W 134 55' 37.048"	57.77201	-134.927	LNM 11/17, 17th Dist	2644	17320_1	3/23/2017

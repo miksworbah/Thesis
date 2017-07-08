@@ -1,0 +1,4 @@
+Chart: 17341, Current Edition: 10, Print Date: Apr. /2012, Whitewater Bay and Chaik Bay, Chatham Strait
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+17341	Delete	CAUTION NOTE	There are numerous uncharted rocks in Chaik Bay which are hazards to navigation. The mariner should use caution when navigating in this area. 	N 57 20' 25.570"	W 134 32' 57.260"	57.34044	-134.5492	LNM 24/12, 17th Dist	2678	17341_1	6/5/2012
+17341	Delete	text	CAUTION (see note)	N 57 19' 17.180"	W 134 33' 16.190"	57.32144	-134.5545	LNM 24/12, 17th Dist	2678	17341_1	6/5/2012

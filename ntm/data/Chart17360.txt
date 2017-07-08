@@ -1,0 +1,11 @@
+Chart: 17360, Current Edition: 37, Print Date: Jun. /2015, Etolin Island to Midway Islands, including Sumner Strait;Holkham Bay;Big Castle Island
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+17360	Change	Kake Harbor Light	Fl 4s 16ft 5M  Obscured sector to 270° to 097°	N 56 57' 38.632"	W 133 57' 10.093"	56.96073	-133.9528	LNM 48/16, 17th Dist	2679	17360_1	12/15/2016
+17360	Change	Nesbitt Reef Light	Fl 2.5s 27ft 6M	N 56 13' 13.232"	W 132 51' 50.077"	56.22034	-132.8639	LNM 21/16, 17th Dist	2679	17360_1	6/16/2016
+17360	Change	Snow Passage Lighted Buoy 4	R "4" Fl R 2.5s	N 56 16' 07.022"	W 132 56' 34.855"	56.26862	-132.943	LNM 21/16, 17th Dist	2679	17360_1	6/16/2016
+17360	Add	Dangerous Submerged Rock	Chart No. 1: K13	N 56 53' 33.900"	W 134 21' 50.400"	56.89275	-134.364	LNM 49/15, 9th Dist	2679	17360_1	12/3/2015
+17360	Add	Dangerous Submerged Rock	Chart No. 1: K13	N 56 53' 17.100"	W 134 21' 46.900"	56.88808	-134.363	LNM 49/15, 9th Dist	2679	17360_1	12/3/2015
+17360	Add	Dangerous Submerged Rock	Chart No. 1: K13	N 56 49' 54.100"	W 134 19' 16.000"	56.8317	-134.3211	LNM 49/15, 9th Dist	2679	17360_1	12/3/2015
+17360	Add	Submerged Rock	Chart No. 1: K13	N 56 50' 59.700"	W 134 19' 39.700"	56.84992	-134.3277	LNM 31/15, 9th Dist	2679	17360_1	7/30/2015
+17360	Delete	Sounding in Fathoms 	4	N 56 50' 48.900"	W 134 19' 39.400"	56.84692	-134.3276	LNM 31/15, 9th Dist	2679	17360_1	7/30/2015
+17360	Add	Submerged Rock	Chart No. 1: K13	N 56 50' 48.900"	W 134 19' 39.400"	56.84692	-134.3276	LNM 31/15, 9th Dist	2679	17360_1	7/30/2015

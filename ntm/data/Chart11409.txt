@@ -1,0 +1,5 @@
+Chart: 11409, Current Edition: 31, Print Date: Jan. /2017, Anclote Keys to Crystal River
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11409	Add	Homosassa River Buoy 74A	R N "74A"	N 28 47' 01.433"	W 082 37' 49.269"	28.78373	-82.63036	LNM 26/17, 7th Dist	174	11409_1	6/29/2017
+11409	Delete	Homosassa Bay Lighted Buoy 26	R "26" Fl R 4s	N 28 46' 19.566"	W 082 42' 25.566"	28.7721	-82.7071	LNM 13/17, 7th Dist	174	11409_1	4/13/2017
+11409	Add	Homosassa Bay Light 26	Fl R 4s 5M "26"	N 28 46' 19.503"	W 082 42' 25.521"	28.77208	-82.70709	LNM 13/17, 7th Dist	174	11409_1	4/13/2017

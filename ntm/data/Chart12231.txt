@@ -1,0 +1,41 @@
+Chart: 12231, Current Edition: 31, Print Date: May. /2016, Chesapeake Bay Tangier Sound Northern Part
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12231	Relocate	Kedges Straits Buoy 2	R N "2"	N 38 03' 12.846"	W 076 03' 21.264"	38.05357	-76.05591	LNM 24/17, 5th Dist	569	12231_1	6/22/2017
+12231	Change	Big Thorofare West Warning Light A	Fl 2.5s 15ft 3M "A"	N 38 00' 05.286"	W 076 02' 54.192"	38.00147	-76.04839	LNM 18/17, 5th Dist	569	12231_1	5/11/2017
+12231	Add	Big Thorofare West Buoy 4	R N "4"	N 38 00' 05.418"	W 076 02' 56.160"	38.00151	-76.04893	LNM 18/17, 5th Dist	569	12231_1	5/11/2017
+12231	Relocate	Wicomico River Channel Buoy 11	G C "11"	N 38 13' 48.640"	W 075 52' 22.553"	38.23018	-75.87293	LNM 18/17, 5th Dist	569	12231_1	5/11/2017
+12231	Add	Obstruction	Obstns         Chart No. 1: K40	N 38 10' 22.220"	W 076 05' 41.750"	38.17284	-76.09493	LNM 15/17, 5th Dist	569	12231_1	4/13/2017
+12231	Add	Obstruction	Obstns         Chart No. 1: K40	N 38 11' 25.120"	W 076 05' 24.070"	38.19031	-76.09002	LNM 15/17, 5th Dist	569	12231_1	4/13/2017
+12231	Add	Obstruction	Obstns         Chart No. 1: K40	N 38 10' 18.520"	W 076 05' 37.180"	38.17181	-76.09366	LNM 15/17, 5th Dist	569	12231_1	4/13/2017
+12231	Add	Obstruction	Obstns         Chart No. 1: K40	N 38 11' 25.690"	W 076 05' 24.040"	38.19047	-76.09001	LNM 15/17, 5th Dist	569	12231_1	4/13/2017
+12231	Add	Obstruction	Obstns         Chart No. 1: K40	N 38 11' 25.010"	W 076 05' 23.750"	38.19028	-76.08993	LNM 15/17, 5th Dist	569	12231_1	4/13/2017
+12231	Substitute	Obstruction	Obstn         Chart No. 1: K40	N 38 11' 06.290"	W 076 05' 02.330"	38.18508	-76.08398	LNM 15/17, 5th Dist	569	12231_1	4/13/2017
+12231	Add	Obstruction	Obstn         Chart No. 1: K40	N 38 10' 43.140"	W 076 05' 00.740"	38.17865	-76.08354	LNM 15/17, 5th Dist	569	12231_1	4/13/2017
+12231	Add	Obstruction	Obstns         Chart No. 1: K40	N 38 10' 25.900"	W 076 05' 46.320"	38.17386	-76.0962	LNM 15/17, 5th Dist	569	12231_1	4/13/2017
+12231	Relocate	Sharkfin Shoal Warning Buoy	W Or C	N 38 12' 09.385"	W 075 59' 12.674"	38.20261	-75.98685	LNM 13/17, 5th Dist	569	12231_1	4/6/2017
+12231	Relocate	Big Thorofare Channel Light 1T	Fl G 2.5s 15ft 5M "1T"	N 37 57' 54.199"	W 075 58' 40.035"	37.96505	-75.97779	LNM 10/17, 5th Dist	569	12231_1	3/16/2017
+12231	Change	Kedges Straits Buoy 5	G C "5"	N 38 02' 58.744"	W 075 59' 38.363"	38.04965	-75.99399	LNM 51/16, 5th Dist	569	12231_1	12/22/2016
+12231	Change	Holland Island Bar Light	Fl 2.5s 37ft 6M	N 38 04' 07.345"	W 076 05' 44.906"	38.06871	-76.09581	LNM 51/16, 5th Dist	569	12231_1	12/22/2016
+12231	Change	Lower Thorofare Channel Light 6	Fl R 4s 15ft 4M "6"	N 38 07' 39.905"	W 075 56' 47.713"	38.12775	-75.94659	LNM 49/16, 5th Dist	569	12231_1	12/15/2016
+12231	Relocate	Goose Creek Channel Lighted Wreck Buoy WR6	R "WR6" Q R	N 38 05' 34.194"	W 075 51' 35.545"	38.09283	-75.85987	LNM 41/16, 5th Dist	569	12231_1	10/20/2016
+12231	Relocate	Lower Thorofare Channel Light 2LT	Fl R 4s 15ft 4M "2LT"	N 38 07' 21.821"	W 075 57' 18.951"	38.12273	-75.95526	LNM 40/16, 5th Dist	569	12231_1	10/13/2016
+12231	Relocate	Upper Thorofare Channel Light 1UT	Fl G 2.5s 15ft 4M "1UT"	N 38 10' 12.214"	W 075 57' 20.838"	38.17006	-75.95579	LNM 40/16, 5th Dist	569	12231_1	10/13/2016
+12231	Change	Goose Creek Channel Lighted Wreck Buoy WR6	R "WR6" Q R	N 38 05' 34.336"	W 075 51' 35.210"	38.09287	-75.85978	LNM 39/16, 5th Dist	569	12231_1	10/6/2016
+12231	Change	Lower Thorofare Channel Light 2LT	Fl R 4s 15ft 4M "2LT"	N 38 07' 21.878"	W 075 57' 18.664"	38.12275	-75.95518	LNM 39/16, 5th Dist	569	12231_1	10/6/2016
+12231	Relocate	Big Thorofare Channel Daybeacon 20	R "20"	N 37 58' 46.001"	W 076 00' 25.668"	37.97945	-76.00713	LNM 38/16, 5th Dist	569	12231_1	9/22/2016
+12231	Relocate	Big Thorofare Channel Daybeacon 21	G "21"	N 37 59' 06.240"	W 076 00' 37.493"	37.98507	-76.01041	LNM 36/16, 5th Dist	569	12231_1	9/15/2016
+12231	Relocate	Big Thorofare Channel Light 3	Fl G 4s 15ft 3M "3"	N 37 58' 05.795"	W 075 59' 16.330"	37.96828	-75.98787	LNM 36/16, 5th Dist	569	12231_1	9/15/2016
+12231	Add	Rhodes Point Gut Channel Buoy 4	R N "4"	N 37 58' 12.356"	W 076 02' 25.947"	37.9701	-76.04054	LNM 33/16, 5th Dist	569	12231_1	8/25/2016
+12231	Relocate	Big Annemessex River Daybeacon 2	R "2"	N 38 02' 41.288"	W 075 51' 26.485"	38.0448	-75.85735	LNM 31/16, 5th Dist	569	12231_1	8/11/2016
+12231	Change	Dames Quarter Creek Channel Buoy 3	G C "3" Priv	N 38 12' 05.041"	W 075 52' 51.655"	38.2014	-75.88101	LNM 31/16, 5th Dist	569	12231_1	8/11/2016
+12231	Relocate	Dames Quarter Creek Channel Buoy 3	G C "3" Priv	N 38 12' 05.041"	W 075 52' 51.655"	38.2014	-75.88101	LNM 31/16, 5th Dist	569	12231_1	8/11/2016
+12231	Relocate	Big Annemessex River Light 1BA	Fl G 2.5s 18ft 4M "1BA"	N 38 03' 09.657"	W 075 52' 09.384"	38.05268	-75.86927	LNM 26/16, 5th Dist	569	12231_1	6/30/2016
+12231	Relocate	Big Annemessex River Daybeacon 2	R "2"	N 38 02' 41.341"	W 075 51' 26.310"	38.04482	-75.85731	LNM 26/16, 5th Dist	569	12231_1	6/30/2016
+12231	Relocate	Big Annemessex River Daybeacon 4	R "4"	N 38 03' 19.821"	W 075 49' 32.088"	38.05551	-75.82558	LNM 26/16, 5th Dist	569	12231_1	6/30/2016
+12231	Relocate	Big Annemessex River Daybeacon 5	G "5"	N 38 03' 18.547"	W 075 48' 54.277"	38.05515	-75.81508	LNM 26/16, 5th Dist	569	12231_1	6/30/2016
+12231	Relocate	Daugherty Creek Channel Daybeacon 3	G "3"	N 38 01' 50.902"	W 075 50' 35.957"	38.03081	-75.84332	LNM 26/16, 5th Dist	569	12231_1	6/30/2016
+12231	Change	Big Annemessex River Light 1BA	Fl G 2.5s 18ft 4M "1BA"	N 38 03' 09.668"	W 075 52' 09.630"	38.05268	-75.86934	LNM 24/16, 5th Dist	569	12231_1	6/23/2016
+12231	Change	Big Annemessex River Light 6	Fl R 4s 15ft 4M "6"	N 38 03' 22.094"	W 075 48' 16.441"	38.05614	-75.80457	LNM 24/16, 5th Dist	569	12231_1	6/23/2016
+12231	Relocate	Big Annemessex River Light 1BA	Fl G 2.5s 18ft 4M "1BA"	N 38 03' 09.668"	W 075 52' 09.630"	38.05268	-75.86934	LNM 24/16, 5th Dist	569	12231_1	6/23/2016
+12231	Relocate	Big Thorofare Channel Daybeacon 12	R "12"	N 37 58' 06.671"	W 075 59' 46.788"	37.96852	-75.99633	LNM 21/16, 5th Dist	569	12231_1	5/26/2016
+12231	Relocate	Big Thorofare Channel Daybeacon 10	R "10"	N 37 58' 03.839"	W 075 59' 35.354"	37.96773	-75.99316	LNM 21/16, 5th Dist	569	12231_1	5/26/2016

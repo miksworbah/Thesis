@@ -1,0 +1,2 @@
+Chart: 14942, Current Edition: 27, Print Date: Dec. /2015, Lake Charlevoix;Charlevoix, South Point to Round Lake
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

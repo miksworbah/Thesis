@@ -1,0 +1,4 @@
+Chart: 16520, Current Edition: 25, Print Date: Dec. /2015, Unimak and Akutan Passes and approaches;Amak Island 
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16520	Relocate	Pankof Breaker Buoy 1	G C "1"	N 54 42' 53.219"	W 162 59' 56.445"	54.71478	-162.999	LNM 49/16, 17th Dist	2518	16520_1	12/15/2016
+16520	Relocate	West Cape Shoal Buoy 1	G C "1"	N 54 55' 31.228"	W 162 27' 56.645"	54.92534	-162.4657	LNM 42/16, 17th Dist	2518	16520_1	11/17/2016

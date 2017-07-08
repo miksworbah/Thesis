@@ -1,0 +1,8 @@
+Chart: 11389, Current Edition: 35, Print Date: Jan. /2017, St Joseph and St Andrew Bays
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11389	Delete	COLREG Demarcation Line and label PT 1 OF 2	COLREGS DEMARCATION LINE 80.810d (see note A)	N 30 04' 07.000"	W 085 37' 33.050"	30.06861	-85.62585	LNM 10/17, 8th Dist	166	11389_1	3/9/2017
+11389	Delete	COLREG Demarcation Line and label PT 2 OF 2	COLREGS DEMARCATION LINE 80.810d (see note A)	N 30 03' 49.280"	W 085 36' 47.480"	30.06369	-85.61319	LNM 10/17, 8th Dist	166	11389_1	3/9/2017
+11389	Delete	TERRITORIAL SEA line and label PT 1 OF 2	TERRITORIAL SEA (see note X)	N 30 04' 07.960"	W 085 37' 24.050"	30.06888	-85.62334	LNM 10/17, 8th Dist	166	11389_1	3/9/2017
+11389	Delete	TERRITORIAL SEA line and label PT 2 OF 2	TERRITORIAL SEA (see note X)	N 30 04' 01.730"	W 085 36' 56.970"	30.06715	-85.61582	LNM 10/17, 8th Dist	166	11389_1	3/9/2017
+11389	Delete	Note C	St. Andrew Bay east entrance channel is constantly shifting. Use new channel 7 mile NW.	N 30 04' 24.300"	W 085 33' 36.520"	30.07342	-85.56014	LNM 10/17, 8th Dist	166	11389_1	3/9/2017
+11389	Delete	Label	(see note C)	N 30 03' 40.890"	W 085 37' 38.380"	30.06136	-85.62733	LNM 10/17, 8th Dist	166	11389_1	3/9/2017

@@ -1,0 +1,40 @@
+Chart: 13283, Current Edition: 23, Print Date: Dec. /2014, Portsmouth Harbor Cape Neddick Harbor to Isles of Shoals; Portsmouth Harbor
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+13283	Change	tabulation - PORTSMOUTH HARBOR AND SAGAMORE CREEK CHANNEL DEPTHS	tabulation - PORTSMOUTH HARBOR AND SAGAMORE CREEK CHANNEL DEPTHS	N 43 02' 12.000"	W 070 43' 57.000"	43.03667	-70.7325	Not Yet Published	2062	13283_1	7/6/2017
+13283	Add	Caution note for bridge under construction	 Fixed and floating obstructions, some submerged, may exist within the magenta tinted bridge construction area. Mariners are advised to proceed with caution.	N 43 05' 46.850"	W 070 45' 12.400"	43.09635	-70.75344	LNM 03/17, 1st Dist	2062	13283_1	1/12/2017
+13283	Add	Bridge Construction PT 1 OF 3	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 43 05' 05.340"	W 070 45' 48.040"	43.08482	-70.76334	LNM 03/17, 1st Dist	2062	13283_1	1/12/2017
+13283	Add	Bridge Construction PT 2 OF 3	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 43 05' 08.470"	W 070 45' 44.470"	43.08569	-70.76235	LNM 03/17, 1st Dist	2062	13283_1	1/12/2017
+13283	Add	Bridge Construction PT 3 OF 3	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 43 05' 17.450"	W 070 45' 32.050"	43.08818	-70.7589	LNM 03/17, 1st Dist	2062	13283_1	1/12/2017
+13283	Add	Bridge Construction Label	Bridge under construction (see note)	N 43 05' 14.460"	W 070 45' 15.000"	43.08735	-70.75417	LNM 03/17, 1st Dist	2062	13283_1	1/12/2017
+13283	Change	Fixed Bridge Label	FIXED BRIDGE HOR CL 56 FT VERT CL 7 FT	N 43 05' 05.240"	W 070 44' 29.450"	43.08479	-70.74152	LNM 51/16, 1st Dist	2063	13283_2	12/15/2016
+13283	Change	Fixed Bridge Label	FIXED BRIDGE HOR CL 56 FT VERT CL 7 FT	N 43 05' 05.240"	W 070 44' 29.450"	43.08479	-70.74152	LNM 51/16, 1st Dist	2062	13283_1	12/15/2016
+13283	Delete	bridge construction note	 CAUTION Fixed and floating obstructions, some submerged, may exist within the magenta tinted bridge construction area. Mariners are advised to proceed with caution.	N 43 05' 27.700"	W 070 44' 27.810"	43.09103	-70.74106	LNM 51/16, 1st Dist	2062	13283_1	12/15/2016
+13283	Change	Fixed Bridge	Chart No. 1: D22	N 43 05' 05.240"	W 070 44' 29.450"	43.08479	-70.74152	LNM 51/16, 1st Dist	2063	13283_2	12/15/2016
+13283	Change	Fixed Bridge	Chart No. 1: D22	N 43 05' 05.240"	W 070 44' 29.450"	43.08479	-70.74152	LNM 51/16, 1st Dist	2062	13283_1	12/15/2016
+13283	Delete	fixed bridge label	FIXED BRIDGE HOR CL 67 FT VERT CL 7 FT	N 43 05' 05.040"	W 070 44' 29.710"	43.08473	-70.74158	LNM 37/16, 1st Dist	2063	13283_2	9/8/2016
+13283	Delete	fixed bridge label	FIXED BRIDGE HOR CL 67 FT VERT CL 7 FT	N 43 05' 05.040"	W 070 44' 29.710"	43.08473	-70.74158	LNM 37/16, 1st Dist	2062	13283_1	9/8/2016
+13283	Add	Note - CAUTION: Fixed and floating obstructions	CAUTION Fixed and floating obstructions, some submerged, may exist within the magenta tinted bridge construction area.Mariners are advised to proceed with caution.	N 43 05' 27.970"	W 070 44' 28.340"	43.0911	-70.7412	LNM 37/16, 1st Dist	2062	13283_1	9/8/2016
+13283	Change	bridge construction 	None	N 43 05' 05.040"	W 070 44' 29.710"	43.08473	-70.74158	LNM 37/16, 1st Dist	2063	13283_2	9/8/2016
+13283	Change	bridge construction 	None	N 43 05' 05.040"	W 070 44' 29.710"	43.08473	-70.74158	LNM 37/16, 1st Dist	2062	13283_1	9/8/2016
+13283	Add	Bridge Construction Label	Bridge under construction (see note)	N 43 05' 05.040"	W 070 44' 29.710"	43.08473	-70.74158	LNM 37/16, 1st Dist	2063	13283_2	9/8/2016
+13283	Add	Bridge Construction Label	Bridge under construction (see note)	N 43 05' 05.040"	W 070 44' 29.710"	43.08473	-70.74158	LNM 37/16, 1st Dist	2062	13283_1	9/8/2016
+13283	Delete	Bridge construction note	Fixed and floating obstructions, some submerged, may exist within the magenta tinted bridge construction area.Mariners are advised to proceed with caution.	N 43 03' 27.300"	W 070 45' 00.900"	43.05758	-70.75025	LNM 19/16, 1st Dist	2062	13283_1	5/5/2016
+13283	Delete	Bridge Construction	None	N 43 03' 17.060"	W 070 44' 56.510"	43.05474	-70.74903	LNM 19/16, 1st Dist	2062	13283_1	5/5/2016
+13283	Add	Fixed Bridge PT 1 OF 4	None	N 43 03' 18.440"	W 070 44' 58.100"	43.05512	-70.74947	LNM 19/16, 1st Dist	2062	13283_1	5/5/2016
+13283	Add	Fixed Bridge PT 2 OF 4	None	N 43 03' 15.270"	W 070 44' 55.240"	43.05424	-70.74868	LNM 19/16, 1st Dist	2062	13283_1	5/5/2016
+13283	Add	Fixed Bridge PT 3 OF 4	None	N 43 03' 18.660"	W 070 44' 57.650"	43.05518	-70.74934	LNM 19/16, 1st Dist	2062	13283_1	5/5/2016
+13283	Add	Fixed Bridge PT 4 OF 4	None	N 43 03' 15.500"	W 070 44' 54.770"	43.05431	-70.74855	LNM 19/16, 1st Dist	2062	13283_1	5/5/2016
+13283	Delete	Bridge Construction Label	Bridge under construction	N 43 03' 18.180"	W 070 45' 11.460"	43.05505	-70.75318	LNM 19/16, 1st Dist	2062	13283_1	5/5/2016
+13283	Add	Fixed Bridge Label	FIXED BRIDGE HOR CL 171 FT VERT CL 11 FT	N 43 03' 17.060"	W 070 44' 56.510"	43.05474	-70.74903	LNM 19/16, 1st Dist	2062	13283_1	5/5/2016
+13283	Relocate	CEDAR ISLAND LEDGE DANGER BUOY DC	BR C "DC"	N 42 58' 24.960"	W 070 35' 57.816"	42.9736	-70.5994	LNM 34/15, 1st Dist	2062	13283_1	9/3/2015
+13283	Delete	SEAVEY ISLAND NAVAL SECURITY ZONE BUOY A	"A" Priv	N 43 05' 02.520"	W 070 44' 34.320"	43.08403	-70.74287	LNM 32/15, 1st Dist	2063	13283_2	8/20/2015
+13283	Delete	SEAVEY ISLAND NAVAL SECURITY ZONE BUOY J	"J" Priv	N 43 04' 57.120"	W 070 44' 45.420"	43.08253	-70.74595	LNM 32/15, 1st Dist	2063	13283_2	8/20/2015
+13283	Change	Lift Bridge	None	N 43 04' 46.200"	W 070 45' 09.300"	43.0795	-70.75259	LNM 26/15, 1st Dist	2062	13283_1	6/25/2015
+13283	Change	Lift Bridge Label	LIFT BRIDGE HOR CL 275 FT VERT CL 21 FT (CLOSED) VERT CL 150 FT (OPEN)	N 43 04' 46.200"	W 070 45' 09.300"	43.0795	-70.75259	LNM 26/15, 1st Dist	2062	13283_1	6/25/2015
+13283	Change	CAPE NEDDICK LIGHT	Iso R 6s 88ft 13M HORN (MRASS)	N 43 09' 54.733"	W 070 35' 27.943"	43.1652	-70.59109	LNM 10/15, 1st Dist	2062	13283_1	4/2/2015
+13283	Change	CAPE NEDDICK LIGHT	Iso R 6s 88ft 13M HORN (MRASS)	N 43 09' 54.733"	W 070 35' 27.943"	43.1652	-70.59109	LNM 10/15, 1st Dist	2064	13283_3	4/2/2015
+13283	Change	PORTSMOUTH HARBOR (NEW CASTLE) LIGHT	F G 52ft 12M HORN (MRASS)	N 43 04' 15.840"	W 070 42' 31.063"	43.07107	-70.70863	LNM 10/15, 1st Dist	2063	13283_2	4/2/2015
+13283	Change	PORTSMOUTH HARBOR (NEW CASTLE) LIGHT	F G 52ft 12M HORN (MRASS)	N 43 04' 15.840"	W 070 42' 31.063"	43.07107	-70.70863	LNM 10/15, 1st Dist	2062	13283_1	4/2/2015
+13283	Add	MRASS NOTE	CELL RASS01	N 43 04' 29.400"	W 070 40' 55.400"	43.07483	-70.68205	LNM 08/15, 1st Dist	2062	13283_1	3/5/2015
+13283	Add	Pilot boarding area	Pilots	N 43 02' 00.060"	W 070 40' 59.940"	43.03335	-70.68332	LNM 08/15, 1st Dist	2062	13283_1	2/26/2015
+13283	Change	WHALEBACK LIGHT	Fl (2) 10s 59ft 11M HORN (MRASS)	N 43 03' 31.534"	W 070 41' 46.701"	43.05876	-70.6963	LNM 05/15, 1st Dist	2062	13283_1	2/12/2015

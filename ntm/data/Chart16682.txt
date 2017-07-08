@@ -1,0 +1,3 @@
+Chart: 16682, Current Edition: 18, Print Date: May. /2015, Cape Resurrection to Two Arm Bay;Seward
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16682	Add	Rock in Fathoms & Feet (Within Corresponding Depth Area)	1_4 Rk	N 60 00' 22.200"	W 149 20' 05.000"	60.00617	-149.3347	LNM 07/17, 17th Dist	2594	16682_1	2/9/2017

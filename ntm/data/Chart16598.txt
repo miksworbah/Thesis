@@ -1,0 +1,2 @@
+Chart: 16598, Current Edition: 11, Print Date: Apr. /2015, Cape Ikolik to Cape Kuliuk
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

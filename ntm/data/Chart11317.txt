@@ -1,0 +1,49 @@
+Chart: 11317, Current Edition: 33, Print Date: May. /2014, Matagorda Bay including Lavaca and Tres Palacios Bays; Port Lavaca; Continuation of Lavaca River; Continuation of Tres Palacios Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11317	Relocate	Matagorda Bay - Alternate Route Lighted Buoy 14	R "14" Fl R 6s	N 28 28' 07.220"	W 096 22' 37.944"	28.46867	-96.3772	LNM 13/17, 8th Dist	154	11317_1	4/6/2017
+11317	Change	tabulation - MATAGORDA SHIP CHANNEL	tabulation - MATAGORDA SHIP CHANNEL	N 28 29' 11.000"	W 096 30' 02.000"	28.48639	-96.50056	LNM 12/17, 8th Dist	154	11317_1	3/16/2017
+11317	Change	tabulation - PORT LAVACA HARBOR	tabulation - PORT LAVACA HARBOR	N 28 41' 04.000"	W 096 27' 34.000"	28.68444	-96.45944	LNM 12/17, 8th Dist	154	11317_1	3/16/2017
+11317	Change	Depth Legend - Point Comfort Turning Basin, TX to:	34 ft 2015	N 28 38' 35.170"	W 096 33' 05.960"	28.6431	-96.55166	LNM 12/17, 8th Dist	155	11317_2	3/16/2017
+11317	Relocate	MATAGORDA SHIP CHANNEL LIGHT 21	Fl G 4s 17ft 3M "21" Ra Ref	N 28 27' 12.540"	W 096 21' 51.789"	28.45348	-96.36439	LNM 07/17, 8th Dist	154	11317_1	3/2/2017
+11317	Delete	Lavaca Bay Channel Daybeacon 14	R "14" Ra Ref	N 28 39' 21.804"	W 096 35' 56.346"	28.65606	-96.59898	LNM 47/16, 8th Dist	155	11317_2	12/1/2016
+11317	Delete	Lavaca Bay Channel Daybeacon 14	R "14" Ra Ref	N 28 39' 21.804"	W 096 35' 56.346"	28.65606	-96.59898	LNM 47/16, 8th Dist	154	11317_1	12/1/2016
+11317	Relocate	Matagorda Ship Channel D Range Front Light	Q G 25ft     Fl 4s 27ft 5M	N 28 35' 46.227"	W 096 34' 02.456"	28.59617	-96.56735	LNM 47/16, 8th Dist	155	11317_2	12/1/2016
+11317	Relocate	Matagorda Ship Channel D Range Front Light	Q G 25ft     Fl 4s 27ft 5M	N 28 35' 46.227"	W 096 34' 02.456"	28.59617	-96.56735	LNM 47/16, 8th Dist	154	11317_1	12/1/2016
+11317	Relocate	Palacios Channel Light 46	Fl R 4s 17ft 3M "46" Ra Ref	N 28 40' 51.226"	W 096 14' 03.333"	28.6809	-96.23426	LNM 47/16, 8th Dist	154	11317_1	12/1/2016
+11317	Relocate	Matagorda Ship Channel D Range Front Light Passing Light	Q G 25ft    Fl 4s 27ft 5M	N 28 35' 46.227"	W 096 34' 02.456"	28.59617	-96.56735	LNM 47/16, 8th Dist	155	11317_2	12/1/2016
+11317	Relocate	Matagorda Ship Channel D Range Front Light Passing Light	Q G 25ft    Fl 4s 27ft 5M	N 28 35' 46.227"	W 096 34' 02.456"	28.59617	-96.56735	LNM 47/16, 8th Dist	154	11317_1	12/1/2016
+11317	Change	Port Lavaca Channel Buoy 6	R N "6"	N 28 36' 24.511"	W 096 35' 15.389"	28.60681	-96.58761	LNM 46/16, 8th Dist	155	11317_2	11/24/2016
+11317	Change	Port Lavaca Channel Buoy 6	R N "6"	N 28 36' 24.511"	W 096 35' 15.389"	28.60681	-96.58761	LNM 46/16, 8th Dist	154	11317_1	11/24/2016
+11317	Change	Port Lavaca Channel Lighted Buoy 9	G "9" Fl G 4s	N 28 36' 48.278"	W 096 36' 15.570"	28.61341	-96.60432	LNM 46/16, 8th Dist	155	11317_2	11/24/2016
+11317	Change	Port Lavaca Channel Lighted Buoy 9	G "9" Fl G 4s	N 28 36' 48.278"	W 096 36' 15.570"	28.61341	-96.60432	LNM 46/16, 8th Dist	154	11317_1	11/24/2016
+11317	Delete	Lavaca Bay Channel Buoy 20	R N "20"	N 28 40' 20.482"	W 096 35' 26.916"	28.67236	-96.59081	LNM 46/16, 8th Dist	154	11317_1	11/24/2016
+11317	Change	Port Lavaca Channel Junction Light PL	Fl (2+1) G 6s 17ft 3M "PL" Ra Ref	N 28 35' 50.039"	W 096 34' 00.254"	28.59723	-96.56673	LNM 42/16, 8th Dist	155	11317_2	10/27/2016
+11317	Change	Port Lavaca Channel Junction Light PL	Fl (2+1) G 6s 17ft 3M "PL" Ra Ref	N 28 35' 50.039"	W 096 34' 00.254"	28.59723	-96.56673	LNM 42/16, 8th Dist	154	11317_1	10/27/2016
+11317	Add	MATAGORDA SHIP CHANNEL LIGHT 21	Fl G 4s 17ft 3M "21" Ra Ref	N 28 27' 12.577"	W 096 21' 51.996"	28.45349	-96.36444	LNM 31/16, 8th Dist	154	11317_1	8/11/2016
+11317	Add	MATAGORDA SHIP CHANNEL LIGHT 22	Fl R 4s 17ft 3M "22" Ra Ref	N 28 27' 16.287"	W 096 21' 48.345"	28.45452	-96.36343	LNM 11/16, 8th Dist	154	11317_1	3/24/2016
+11317	Add	The Nature Conservancy Halfmoon Reef Lighted Danger Buoy	W Or Fl 2.5s Priv	N 28 34' 18.813"	W 096 14' 08.396"	28.57189	-96.23566	LNM 11/16, 8th Dist	154	11317_1	3/24/2016
+11317	Add	The Nature Conservancy Halfmoon Reef Lighted Danger Buoy	W Or Fl 2.5s Priv	N 28 34' 07.787"	W 096 14' 18.338"	28.56883	-96.23843	LNM 11/16, 8th Dist	154	11317_1	3/24/2016
+11317	Add	The Nature Conservancy Halfmoon Reef Lighted Danger Buoy	W Or Fl 2.5s Priv	N 28 33' 56.968"	W 096 14' 28.968"	28.56582	-96.24138	LNM 11/16, 8th Dist	154	11317_1	3/24/2016
+11317	Add	The Nature Conservancy Halfmoon Reef Lighted Danger Buoy	W Or Fl 2.5s Priv	N 28 34' 15.692"	W 096 13' 59.352"	28.57103	-96.23315	LNM 11/16, 8th Dist	154	11317_1	3/24/2016
+11317	Add	The Nature Conservancy Halfmoon Reef Lighted Danger Buoy	W Or Fl 2.5s Priv	N 28 34' 04.928"	W 096 14' 09.614"	28.56804	-96.23601	LNM 11/16, 8th Dist	154	11317_1	3/24/2016
+11317	Add	The Nature Conservancy Halfmoon Reef Lighted Danger Buoy	W Or Fl 2.5s Priv	N 28 33' 53.847"	W 096 14' 19.472"	28.56496	-96.23874	LNM 11/16, 8th Dist	154	11317_1	3/24/2016
+11317	Change	Matagorda Ship Channel A Range Front Light	Iso 2s 24ft (Day)  Iso 2s 22ft (Night)	N 28 26' 34.408"	W 096 20' 42.437"	28.44289	-96.34512	LNM 07/16, 8th Dist	154	11317_1	2/25/2016
+11317	Delete	Bird Island Daybeacon	RW Bn	N 28 27' 02.194"	W 096 21' 02.783"	28.45061	-96.35078	LNM 46/15, 8th Dist	154	11317_1	11/26/2015
+11317	Relocate	Matagorda Ship Channel D Range Front Light	Q G 25ft Fl 4s 27ft 5M	N 28 35' 46.226"	W 096 34' 02.463"	28.59617	-96.56735	LNM 37/15, 8th Dist	155	11317_2	9/24/2015
+11317	Relocate	Matagorda Ship Channel D Range Front Light	Q G 25ft Fl 4s 27ft 5M	N 28 35' 46.226"	W 096 34' 02.463"	28.59617	-96.56735	LNM 37/15, 8th Dist	154	11317_1	9/24/2015
+11317	Change	tabulation - CHANNEL TO PALACIOS	tabulation - CHANNEL TO PALACIOS	N 28 39' 52.000"	W 096 10' 40.000"	28.66444	-96.17778	LNM 36/15, 8th Dist	154	11317_1	9/3/2015
+11317	Change	tabulation - MATAGORDA SHIP CHANNEL	tabulation - MATAGORDA SHIP CHANNEL	N 28 29' 11.000"	W 096 30' 02.000"	28.48639	-96.50056	LNM 36/15, 8th Dist	154	11317_1	9/3/2015
+11317	Change	tabulation - PORT LAVACA HARBOR	tabulation - PORT LAVACA HARBOR	N 28 41' 04.000"	W 096 27' 34.000"	28.68444	-96.45944	LNM 36/15, 8th Dist	154	11317_1	9/3/2015
+11317	Relocate	Matagorda Ship Channel Lighted Buoy 8	R "8" Q R	N 28 24' 54.092"	W 096 18' 48.716"	28.41503	-96.31353	LNM 26/15, 8th Dist	154	11317_1	7/16/2015
+11317	Relocate	Matagorda Ship Channel Lighted Buoy 7	G "7" Q G	N 28 24' 48.507"	W 096 18' 54.448"	28.41348	-96.31512	LNM 26/15, 8th Dist	154	11317_1	7/16/2015
+11317	Delete	Tres Palacios Wreck Light WR2	Q R 17ft 3M "WR2" Ra Ref	N 28 39' 25.974"	W 096 13' 50.884"	28.65722	-96.2308	LNM 23/15, 8th Dist	154	11317_1	6/18/2015
+11317	Add	Jackson County Carancahua Bay East Danger Breakwater Light	Fl 2.5s Priv	N 28 44' 09.450"	W 096 24' 06.760"	28.73596	-96.40188	LNM 11/15, 8th Dist	154	11317_1	3/26/2015
+11317	Add	Jackson County Carancahua Bay West Danger Breakwater Light	Fl 2.5s Priv	N 28 44' 09.630"	W 096 24' 07.410"	28.73601	-96.40206	LNM 11/15, 8th Dist	154	11317_1	3/26/2015
+11317	Delete	Matagorda Bay H Range Rear Light Passing Light	Fl 4s 69ft 5M	N 28 29' 45.561"	W 096 15' 16.474"	28.49599	-96.25458	LNM 43/14, 8th Dist	154	11317_1	11/6/2014
+11317	Change	tabulation - MATAGORDA SHIP CHANNEL	tabulation - MATAGORDA SHIP CHANNEL	N 28 29' 11.000"	W 096 30' 02.000"	28.48639	-96.50056	LNM 40/14, 8th Dist	154	11317_1	10/2/2014
+11317	Change	tabulation - CHANNEL TO PALACIOS	tabulation - CHANNEL TO PALACIOS	N 28 39' 52.000"	W 096 10' 40.000"	28.66444	-96.17778	LNM 40/14, 8th Dist	154	11317_1	10/2/2014
+11317	Change	tabulation - PORT LAVACA HARBOR	tabulation - PORT LAVACA HARBOR	N 28 41' 04.000"	W 096 27' 34.000"	28.68444	-96.45944	LNM 40/14, 8th Dist	154	11317_1	10/2/2014
+11317	Delete	Matagorda Bay L Range Front Light P/L	Q 25ft	N 28 28' 23.799"	W 096 18' 36.762"	28.47328	-96.31021	LNM 32/14, 8th Dist	154	11317_1	8/21/2014
+11317	Delete	Matagorda Bay L Range Front Light	Fl 4s 15ft 5M	N 28 28' 23.799"	W 096 18' 36.762"	28.47328	-96.31021	LNM 32/14, 8th Dist	154	11317_1	8/21/2014
+11317	Delete	Espiritu Santo Bay Ferry Channel Daybeacon 15	G "15" Ra Ref PA	N 28 22' 18.213"	W 096 29' 20.415"	28.37173	-96.48901	LNM 22/14, 8th Dist	154	11317_1	6/12/2014
+11317	Delete	Palacios Wreck Light	Fl 2.5s 17ft 5M	N 28 33' 50.908"	W 096 13' 22.588"	28.56414	-96.22294	LNM 21/14, 8th Dist	154	11317_1	6/12/2014

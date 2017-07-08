@@ -1,0 +1,21 @@
+Chart: 18448, Current Edition: 36, Print Date: Dec. /2015, Puget Sound-southern part
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18448	Relocate	Church Point Light 6	Fl R 6s 20ft 4M "6"	N 47 12' 27.654"	W 123 00' 45.198"	47.20768	-123.0126	LNM 23/17, 13th Dist	1712	18448_1	6/8/2017
+18448	Relocate	Nisqually Flats Light 3	Fl G 4s 15ft 4M "3"	N 47 07' 14.979"	W 122 45' 00.070"	47.12083	-122.75	LNM 23/17, 13th Dist	1712	18448_1	6/8/2017
+18448	Relocate	Tacoma Outfall Lighted Buoy	Y Fl Y 4s Priv	N 47 16' 42.000"	W 122 25' 12.000"	47.27833	-122.42	LNM 17/17, 13th Dist	1712	18448_1	4/27/2017
+18448	Relocate	Puget Sound Traffic Separation Lane Lighted Buoy TB	Y "TB" Fl Y 2.5s	N 47 23' 06.357"	W 122 21' 12.446"	47.3851	-122.3535	LNM 13/17, 13th Dist	1712	18448_1	4/6/2017
+18448	Relocate	Puget Sound Traffic Separation Lane Lighted Buoy T	Y "T" Fl Y 2.5s	N 47 34' 33.352"	W 122 27' 04.467"	47.57593	-122.4512	LNM 01/17, 13th Dist	1712	18448_1	1/12/2017
+18448	Relocate	Totten Inlet Mussel Raft Light B	Fl Y 4s "B" Priv	N 47 08' 51.238"	W 122 58' 32.023"	47.14757	-122.9756	LNM 14/16, 13th Dist	1712	18448_1	12/8/2016
+18448	Relocate	Browns Point Light	Fl 5s 38ft 14M	N 47 18' 21.277"	W 122 26' 39.350"	47.30591	-122.4443	LNM 34/16, 13th Dist	1712	18448_1	9/1/2016
+18448	Change	Browns Point Light	Fl 5s 38ft 14M	N 47 18' 21.277"	W 122 26' 39.350"	47.30591	-122.4443	LNM 34/16, 13th Dist	1712	18448_1	9/1/2016
+18448	Relocate	Puget Sound Traffic Separation Lane Lighted Buoy TC	Y "TC" Fl Y 2.5s	N 47 19' 29.355"	W 122 27' 23.451"	47.32482	-122.4565	LNM 27/16, 13th Dist	1712	18448_1	7/14/2016
+18448	Relocate	Totten Inlet Aquaculture Light A	Fl Y 6s "A" Priv	N 47 07' 41.322"	W 123 00' 59.789"	47.12814	-123.0166	LNM 14/16, 13th Dist	1712	18448_1	4/14/2016
+18448	Change	Totten Inlet Aquaculture Light A	Fl Y 6s "A" Priv	N 47 07' 41.322"	W 123 00' 59.789"	47.12814	-123.0166	LNM 14/16, 13th Dist	1712	18448_1	4/14/2016
+18448	Change	Totten Inlet Mussel Raft Light B	Fl Y 4s "B" Priv	N 47 08' 51.238"	W 122 58' 32.023"	47.14757	-122.9756	LNM 14/16, 13th Dist	1712	18448_1	4/14/2016
+18448	Add	Totten Inlet Aquaculture Light B	Fl Y 6s "B" Priv	N 47 07' 39.504"	W 123 01' 00.264"	47.12764	-123.0167	LNM 14/16, 13th Dist	1712	18448_1	4/14/2016
+18448	Add	Totten Inlet Mussel Raft Light A	Fl Y 4s "A" Priv	N 47 08' 55.993"	W 122 58' 31.238"	47.14889	-122.9753	LNM 14/16, 13th Dist	1712	18448_1	4/14/2016
+18448	Relocate	Colvos Passage Light 6	Fl R 4s 15ft 4M "6"	N 47 22' 36.659"	W 122 32' 17.955"	47.37685	-122.5383	LNM 08/16, 13th Dist	1712	18448_1	3/3/2016
+18448	Relocate	Point Evans Light 4	Fl R 4s 18ft 4M "4"	N 47 17' 06.947"	W 122 32' 51.771"	47.28526	-122.5477	LNM 08/16, 13th Dist	1712	18448_1	3/3/2016
+18448	Add	Windy Point Shellfish Pen Light A	Fl Y 4s "A" Priv	N 47 10' 20.130"	W 122 57' 32.772"	47.17226	-122.9591	LNM 08/16, 13th Dist	1712	18448_1	3/3/2016
+18448	Relocate	Kamilche Sea Farms Lighted Buoy A	Y "A" Fl Y 5s Priv	N 47 07' 31.379"	W 123 01' 05.124"	47.12538	-123.0181	LNM 04/16, 13th Dist	1712	18448_1	2/4/2016
+18448	Change	Kamilche Sea Farms Lighted Buoy A	Y "A" Fl Y 5s Priv	N 47 07' 31.379"	W 123 01' 05.124"	47.12538	-123.0181	LNM 04/16, 13th Dist	1712	18448_1	2/4/2016

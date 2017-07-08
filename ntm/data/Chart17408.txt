@@ -1,0 +1,9 @@
+Chart: 17408, Current Edition: 9, Print Date: Dec. /2014, Central Dall Island and vicinity
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+17408	Add	Sounding in Fathoms 	3/4	N 54 58' 28.600"	W 132 50' 21.500"	54.97461	-132.8393	LNM 27/17, 17th Dist	2727	17408_1	6/29/2017
+17408	Delete	Sounding in Fathoms 	13	N 54 58' 27.500"	W 132 50' 19.000"	54.9743	-132.8386	LNM 27/17, 17th Dist	2727	17408_1	6/29/2017
+17408	Delete	Sounding in Fathoms 	9	N 54 57' 06.000"	W 132 48' 38.000"	54.95167	-132.8106	LNM 27/17, 17th Dist	2727	17408_1	6/29/2017
+17408	Add	Sounding in Fathoms 	1	N 54 57' 04.700"	W 132 48' 39.600"	54.95131	-132.811	LNM 27/17, 17th Dist	2727	17408_1	6/29/2017
+17408	Delete	Sounding in Fathoms 	4 1/2	N 55 04' 27.400"	W 132 50' 36.300"	55.07428	-132.8434	LNM 35/16, 17th Dist	2727	17408_1	8/18/2016
+17408	Add	Rock in Fathoms	1 1/4 Rk  Chart No. 1: K14.2	N 55 05' 16.500"	W 132 48' 49.200"	55.08792	-132.8137	LNM 35/16, 17th Dist	2727	17408_1	8/18/2016
+17408	Add	Rock in Fathoms	1 1/2 Rk  Chart No. 1: K14.2	N 55 04' 27.700"	W 132 50' 37.000"	55.07436	-132.8436	LNM 35/16, 17th Dist	2727	17408_1	8/18/2016

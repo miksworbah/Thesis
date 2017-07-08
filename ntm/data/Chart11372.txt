@@ -1,0 +1,330 @@
+Chart: 11372, Current Edition: 35, Print Date: Sep. /2012, Intracoastal Waterway Dog Keys Pass to Waveland
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11372	Add	Port of Gulfport Mooring Pile Light	Fl 2.5s Priv	N 30 21' 31.300"	W 089 05' 33.370"	30.35869	-89.09261	LNM 15/17, 8th Dist	22	11372_2	4/20/2017
+11372	Add	Port of Gulfport Mooring Pile Light	Fl 2.5s Priv	N 30 21' 33.930"	W 089 05' 35.340"	30.35942	-89.09315	LNM 15/17, 8th Dist	22	11372_2	4/20/2017
+11372	Add	Port of Gulfport Mooring Pile Light	Fl 2.5s Priv	N 30 21' 35.780"	W 089 05' 38.430"	30.35994	-89.09401	LNM 15/17, 8th Dist	22	11372_2	4/20/2017
+11372	Add	Port of Gulfport Mooring Pile Light	Fl 2.5s Priv	N 30 21' 37.130"	W 089 05' 36.040"	30.36031	-89.09335	LNM 15/17, 8th Dist	22	11372_2	4/20/2017
+11372	Change	tabulation - Gulfport Harbor Channels	tabulation - Gulfport Harbor Channels	N 30 25' 10.000"	W 089 08' 43.000"	30.41945	-89.14528	LNM 15/17, 8th Dist	22	11372_2	4/13/2017
+11372	Change	Depth Legend - Wolf River to:	2 1/2 FT FOR A WIDTH OF 100FT OCT 2016	N 30 21' 02.190"	W 089 17' 53.030"	30.35061	-89.29807	LNM 14/17, 8th Dist	22	11372_2	4/6/2017
+11372	Change	Depth Legend - BAYOU PORTAGE to:	5 1/2 FT FOR A WIDTH OF 100 FT OCT 2016	N 30 20' 31.270"	W 089 16' 34.920"	30.34202	-89.27637	LNM 14/17, 8th Dist	22	11372_2	4/6/2017
+11372	Change	Depth Legend - BAYOU PORTAGE to:	5 1/2 FT FOR A WIDTH OF 100 FT OCT 2016	N 30 20' 04.700"	W 089 15' 05.510"	30.33464	-89.25153	LNM 14/17, 8th Dist	22	11372_2	4/6/2017
+11372	Change	tabulation - Gulfport Harbor Channels	tabulation - Gulfport Harbor Channels	N 30 25' 10.000"	W 089 08' 43.000"	30.41945	-89.14528	LNM 12/17, 8th Dist	22	11372_2	3/16/2017
+11372	Change	Depth Legend - Jourdan River to:	5 1/2FT FOR A WIDTH OF 100FT OCT 2016	N 30 20' 33.690"	W 089 19' 17.590"	30.34269	-89.32156	LNM 12/17, 8th Dist	22	11372_2	3/16/2017
+11372	Change	Depth Legend - Jourdan River to:	4 1/2 FT FOR A WIDTH OF 100 FT OCT 2016	N 30 20' 44.620"	W 089 20' 34.870"	30.34573	-89.34302	LNM 12/17, 8th Dist	22	11372_2	3/16/2017
+11372	Change	Depth Legend - 7 1/2 FT BY 100 FT APR 2016 to:	7 FT BY 100 FT SEP 2016	N 30 20' 40.920"	W 089 05' 29.870"	30.3447	-89.09163	LNM 12/17, 8th Dist	22	11372_2	3/16/2017
+11372	Change	Depth Note - Note B Gulfport Small Craft Harbor to:	The controlling depth in the Basin was 4 feet. Sep 2016	N 30 25' 10.020"	W 089 08' 43.350"	30.41945	-89.14538	LNM 12/17, 8th Dist	22	11372_2	3/16/2017
+11372	Add	University of Southern Mississippi Research Vessel Preferred Channel Daybeacon B	RG "B" Priv	N 30 23' 30.966"	W 088 47' 46.248"	30.39194	-88.79618	LNM 02/17, 8th Dist	22	11372_2	1/26/2017
+11372	Change	Depth Legend - Back Bay Channel to:	10 1/2 FT FOR A MID 75 FT FEB 2016	N 30 25' 20.000"	W 088 55' 12.900"	30.42222	-88.92025	LNM 47/16, 8th Dist	22	11372_2	11/17/2016
+11372	Change	Depth Legend - Biloxi Cranes Neck Channel to:	12 FT FOR MID 75 FT DEC 2015	N 30 24' 47.000"	W 088 59' 28.000"	30.41306	-88.99111	LNM 47/16, 8th Dist	22	11372_2	11/17/2016
+11372	Change	Depth Note - NOTE D EAST HARRISON COUNTY CHANNEL to:	The controlling depth was 6 feet for a width of 130 feet to the basin; thence 7 feet in the basin with shoaling to 4 1/2 feet in the right outside quarter. Nov 2015	N 30 27' 30.000"	W 088 51' 19.000"	30.45833	-88.85528	LNM 47/16, 8th Dist	22	11372_2	11/17/2016
+11372	Change	Depth Legend - Ott Bayou to:	6 FT BY 150 FT NOV 2015	N 30 24' 14.000"	W 088 51' 27.000"	30.40389	-88.8575	LNM 47/16, 8th Dist	22	11372_2	11/17/2016
+11372	Change	Depth Legend - Bernard Bayou to:	5 FT WIDTH 80 FT FEB 2016	N 30 24' 33.000"	W 089 01' 10.000"	30.40917	-89.01945	LNM 47/16, 8th Dist	22	11372_2	11/17/2016
+11372	Change	Depth Legend - Back Bay Channel to:	10 1/2 FT FOR A MID 75 FT FEB 2016	N 30 24' 43.400"	W 088 51' 55.700"	30.41206	-88.86547	LNM 47/16, 8th Dist	22	11372_2	11/17/2016
+11372	Change	tabulation - Gulfport Harbor Channels.	tabulation - Gulfport Harbor Channels	N 30 24' 21.000"	W 089 07' 30.000"	30.40583	-89.125	LNM 34/16, 8th Dist	22	11372_2	8/25/2016
+11372	Change	Depth Legend - Gulfport Small Craft Harbor to:	7 1/2 FT BY 100 FT APR 2016	N 30 20' 43.000"	W 089 05' 30.000"	30.34528	-89.09167	LNM 34/16, 8th Dist	22	11372_2	8/18/2016
+11372	Change	Depth Note - Note B GULFPORT SMALL CRAFT HARBOR to:	The controlling depth in the basin was 2 1/2 feet.  Apr 2016	N 30 25' 10.000"	W 089 08' 43.000"	30.41945	-89.14528	LNM 34/16, 8th Dist	22	11372_2	8/18/2016
+11372	Relocate	City of Bay St. Louis Municipal Pier Light 1	Fl G 2.5s "1" Priv	N 30 18' 40.700"	W 089 19' 12.200"	30.31131	-89.32005	LNM 31/16, 8th Dist	22	11372_2	8/11/2016
+11372	Relocate	City of Bay St. Louis Municipal Pier Light 2	Fl R 2.5s "2" Priv	N 30 18' 41.700"	W 089 19' 12.700"	30.31158	-89.3202	LNM 31/16, 8th Dist	22	11372_2	8/11/2016
+11372	Delete	Dangerous Wreck	PA      Chart No. 1: K28	N 30 16' 54.000"	W 088 57' 18.000"	30.28167	-88.955	LNM 32/16, 8th Dist	21	11372_1	8/11/2016
+11372	Add	Submerged Pipe (PA)	Subm Pipe PA  Chart No. 1: L21.2	N 30 16' 50.200"	W 089 13' 36.500"	30.28061	-89.22681	LNM 27/16, 8th Dist	21	11372_1	7/14/2016
+11372	Add	Submerged Pipe (PA)	Subm Pipe PA  Chart No. 1: L21.2	N 30 16' 50.200"	W 089 13' 36.500"	30.28061	-89.22681	LNM 27/16, 8th Dist	22	11372_2	7/14/2016
+11372	Change	Depth Legend - BILOXI WEST APPROACH to:	6 FT BY 150 FT OCT 2015	N 30 22' 44.600"	W 088 54' 07.200"	30.37906	-88.902	LNM 07/16, 8th Dist	22	11372_2	2/18/2016
+11372	Change	Depth Note - PASS CHRISTIAN HARBOR to:	The controlling depth in the entrance channel was 7 feet, thence 5 feet in the harbor. Oct 2015	N 30 21' 00.000"	W 089 13' 07.000"	30.35	-89.21861	LNM 02/16, 8th Dist	22	11372_2	1/14/2016
+11372	Change	Depth Note - HARRISON COUNTY INDUSTRIAL SEAWAY to:	The controlling depth for the Industrial Seaway from Big Lake to the eastern end of Gulfport Lake, 30°25'35.58"N 089°03'09.16"W, was 12 feet for a mid-width of 75 feet; thence 10 feet for a mid-width of 50-75 feet to the overhead power lines at 30°25'52.76"N 089°05'00.37"W; thence 1 1/2 feet to the end of the project. Shoaling exists in the channel's outside quarters and bend widening areas. Oct 2015	N 30 25' 21.900"	W 089 07' 01.200"	30.42275	-89.117	LNM 51/15, 8th Dist	22	11372_2	12/17/2015
+11372	Change	tabulation - GULFPORT HARBOR CHANNELS	tabulation - GULFPORT HARBOR CHANNELS	N 30 24' 21.000"	W 089 07' 30.000"	30.40583	-89.125	LNM 45/15, 8th Dist	22	11372_2	11/5/2015
+11372	Change	tabulation - GULFPORT HARBOR CHANNELS	tabulation - GULFPORT HARBOR CHANNELS	N 30 24' 21.000"	W 089 07' 30.000"	30.40583	-89.125	LNM 39/15, 8th Dist	22	11372_2	10/1/2015
+11372	Relocate	Gulfport Upper Reach Inbound Range Front Light	Q R 35ft	N 30 21' 12.217"	W 089 05' 07.514"	30.35339	-89.08542	LNM 36/15, 8th Dist	22	11372_2	9/17/2015
+11372	Relocate	Gulfport Upper Reach Inbound Range Rear Light	Oc R 4s 81ft	N 30 21' 52.325"	W 089 05' 41.541"	30.36453	-89.09487	LNM 36/15, 8th Dist	22	11372_2	9/17/2015
+11372	Relocate	Ship Island Pass Entrance Range Front Light	Q 37ft (Day)  Q 39ft (Night)	N 30 12' 09.243"	W 089 00' 00.284"	30.20257	-89.00008	LNM 35/15, 8th Dist	21	11372_1	9/17/2015
+11372	Relocate	City of Bay St. Louis Municipal Pier Light 1	Fl G 2.5s "1" Priv	N 30 18' 40.400"	W 089 19' 13.900"	30.31122	-89.32053	LNM 34/15, 8th Dist	22	11372_2	9/10/2015
+11372	Relocate	City of Bay St. Louis Municipal Pier Light 2	Fl R 2.5s "2" Priv	N 30 18' 41.100"	W 089 19' 13.900"	30.31142	-89.32053	LNM 34/15, 8th Dist	22	11372_2	9/10/2015
+11372	Change	Depth Legend - BILOXI HARBOR to:	6 1/2 FT BY 150 FT JUL 2015	N 30 23' 21.100"	W 088 52' 15.900"	30.38919	-88.87109	LNM 36/15, 8th Dist	22	11372_2	9/3/2015
+11372	Change	tabulation - GULFPORT HARBOR CHANNELS	tabulation - GULFPORT HARBOR CHANNELS	N 30 24' 21.000"	W 089 07' 30.000"	30.40583	-89.125	LNM 36/15, 8th Dist	22	11372_2	9/3/2015
+11372	Change	Gulfport Ship Channel Light 63 	Q G 17ft 3M "63" Ra Ref	N 30 20' 54.269"	W 089 04' 56.576"	30.34841	-89.08238	LNM 31/15, 8th Dist	22	11372_2	8/20/2015
+11372	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 30 18' 36.940"	W 089 14' 48.670"	30.31026	-89.24685	LNM 31/15, 8th Dist	22	11372_2	8/6/2015
+11372	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 30 18' 36.250"	W 089 14' 43.590"	30.31007	-89.24545	LNM 31/15, 8th Dist	22	11372_2	8/6/2015
+11372	Change	Depth Legend - Back Bay Channel to:	12 FT FOR A MID 75 FT MAY 2015	N 30 25' 20.000"	W 088 55' 12.900"	30.42222	-88.92025	LNM 30/15, 8th Dist	22	11372_2	7/23/2015
+11372	Change	Depth Legend - Bernard Bayou to:	6 FT WIDTH 80 FT MAY 2015	N 30 24' 33.000"	W 089 01' 10.000"	30.40917	-89.01945	LNM 30/15, 8th Dist	22	11372_2	7/23/2015
+11372	Change	Depth Legend - BAY ST. LOUIS to:	6 FT MAY 2015	N 30 20' 03.400"	W 089 18' 09.700"	30.33428	-89.3027	LNM 30/15, 8th Dist	22	11372_2	7/23/2015
+11372	Change	Depth Legend - BAY ST. LOUIS to:	6 FT FOR A WIDTH OF 100 FT MAY 2015	N 30 20' 32.200"	W 089 16' 37.700"	30.34228	-89.27714	LNM 30/15, 8th Dist	22	11372_2	7/23/2015
+11372	Change	Depth Legend - BAY ST. LOUIS to:	6 FT FOR A WIDTH OF 100 FT MAY 2015	N 30 20' 29.700"	W 089 19' 12.500"	30.34158	-89.32014	LNM 30/15, 8th Dist	22	11372_2	7/23/2015
+11372	Change	Depth Legend - BAY ST. LOUIS to:	5 FT FOR A WIDTH OF 100 FT MAY 2015	N 30 20' 41.900"	W 089 20' 39.800"	30.34497	-89.34439	LNM 30/15, 8th Dist	22	11372_2	7/23/2015
+11372	Change	Depth Note - NOTE D EAST HARRISON COUNTY CANAL to:	The controlling depth was 6 1/2 feet for a width of 130 feet to the basin; thence 7 1/2 feet in the basin with shoaling to 4 feet in the right outside quarter. May 2015	N 30 27' 30.000"	W 088 51' 19.000"	30.45833	-88.85528	LNM 28/15, 8th Dist	22	11372_2	7/16/2015
+11372	Change	Depth Legend - Wolf River to:	3 1/2 FT FOR A WIDTH OF 100 FT MAY 2015	N 30 20' 50.000"	W 089 18' 00.000"	30.34722	-89.3	LNM 28/15, 8th Dist	22	11372_2	7/16/2015
+11372	Change	tabulation - GULFPORT HARBOR CHANNELS	tabulation - GULFPORT HARBOR CHANNELS	N 30 24' 21.000"	W 089 07' 30.000"	30.40583	-89.125	LNM 25/15, 8th Dist	22	11372_2	6/18/2015
+11372	Add	Deer Island Breakwater Northwest Danger Light	Fl 2.5s 10ft Priv	N 30 21' 32.460"	W 088 50' 44.820"	30.35902	-88.84579	LNM 22/15, 8th Dist	22	11372_2	6/11/2015
+11372	Add	Deer Island Breakwater Southeast Danger Light	Fl 2.5s 10ft Priv	N 30 21' 14.820"	W 088 49' 54.660"	30.35412	-88.83185	LNM 22/15, 8th Dist	22	11372_2	6/11/2015
+11372	Delete	Gulfport Ship Channel Wreck Light WR54A	Q R 17ft 3M "WR54A" Ra Ref	N 30 19' 21.590"	W 089 03' 18.308"	30.32266	-89.05508	LNM 20/15, 8th Dist	22	11372_2	5/28/2015
+11372	Change	tabulation - Gulfport Harbor Channels	tabulation - Gulfport Harbor Channels	N 30 25' 49.000"	W 088 55' 00.000"	30.43028	-88.91666	LNM 18/15, 8th Dist	22	11372_2	4/30/2015
+11372	Change	tabulation - Gulfport Harbor Channels	tabulation - Gulfport Harbor Channels	N 30 24' 21.000"	W 089 07' 30.000"	30.40583	-89.125	LNM 18/15, 8th Dist	22	11372_2	4/30/2015
+11372	Change	Depth Legend - BILOXI EAST ACCESS to:	9 1/2 FT BY 150 FT JAN 2015	N 30 22' 35.600"	W 088 48' 31.600"	30.37656	-88.80878	LNM 16/15, 8th Dist	22	11372_2	4/16/2015
+11372	Change	Depth Legend - BILOXI EAST ACCESS to:	9 1/2 FT BY 150 FT JAN 2015	N 30 18' 01.000"	W 088 46' 31.300"	30.30028	-88.77536	LNM 16/15, 8th Dist	21	11372_1	4/16/2015
+11372	Change	Depth Legend - BILOXI WEST APPROACH to:	7 FT BY 150 FT JAN 2015	N 30 22' 44.600"	W 088 54' 07.200"	30.37906	-88.902	LNM 16/15, 8th Dist	22	11372_2	4/16/2015
+11372	Change	Depth Legend - BILOXI LATERAL to:	6 FT BY 150 FT JAN 2015	N 30 23' 21.550"	W 088 52' 19.520"	30.38932	-88.87209	LNM 16/15, 8th Dist	22	11372_2	4/16/2015
+11372	Change	Depth Legend - BILOXI EAST ACCESS to:	9 1/2 FT BY 150 FT JAN 2015	N 30 23' 57.000"	W 088 50' 21.000"	30.39917	-88.83916	LNM 16/15, 8th Dist	22	11372_2	4/16/2015
+11372	Delete	Dolphin	Pole	N 30 14' 57.900"	W 088 49' 13.300"	30.24942	-88.82036	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Delete	Dangerous Wreck	PA (12 ft rep 1967)	N 30 14' 10.700"	W 088 49' 51.100"	30.23631	-88.83086	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Delete	Islet	Chart No 1: K10	N 30 14' 30.600"	W 088 52' 25.100"	30.24183	-88.87364	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Delete	Dolphin	Stake	N 30 15' 00.800"	W 088 51' 49.600"	30.25022	-88.86378	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Delete	Dangerous Wreck	PD	N 30 16' 06.000"	W 088 46' 42.000"	30.26833	-88.77834	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Add	Dangerous Wreck	PA	N 30 14' 12.900"	W 088 46' 41.900"	30.23692	-88.77831	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Change	Dolphin	Subm pipe	N 30 15' 16.500"	W 088 47' 20.500"	30.25458	-88.78902	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Add	Wreck in Feet	12 ft Wk	N 30 14' 22.200"	W 088 49' 12.300"	30.2395	-88.82008	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Delete	Dolphin	Pole	N 30 14' 48.900"	W 088 49' 59.300"	30.24692	-88.83314	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Delete	Visible Wreck	PA	N 30 14' 43.400"	W 088 52' 16.200"	30.24539	-88.87117	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Delete	Visible Wreck	PA	N 30 15' 36.700"	W 088 48' 48.100"	30.26019	-88.81336	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Delete	Dolphin	Tide gage PA	N 30 13' 54.900"	W 088 50' 51.700"	30.23192	-88.84769	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Delete	Wreck in feet	PA	N 30 14' 12.900"	W 088 46' 41.900"	30.23692	-88.77831	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Delete	Dolphin	Subm pile PA	N 30 17' 05.000"	W 088 46' 31.900"	30.28472	-88.77553	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Delete	Dolphin	Pile PA	N 30 16' 30.400"	W 088 46' 12.300"	30.27511	-88.77008	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Delete	Visible Wreck	PA	N 30 14' 12.900"	W 088 46' 41.900"	30.23692	-88.77831	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Delete	Visible Wreck	PA	N 30 14' 58.000"	W 088 51' 43.600"	30.24944	-88.86211	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Change	Pile	Subm piles	N 30 14' 53.500"	W 088 51' 45.600"	30.24819	-88.86266	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Add	Obstruction	Obstn	N 30 14' 48.900"	W 088 49' 59.300"	30.24692	-88.83314	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Delete	Dolphin	Pole	N 30 14' 31.700"	W 088 49' 56.100"	30.24214	-88.83225	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Add	Obstruction	Obstn PA	N 30 14' 31.700"	W 088 49' 56.100"	30.24214	-88.83225	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Add	Obstruction	Obstn	N 30 15' 00.800"	W 088 51' 49.600"	30.25022	-88.86378	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Delete	Islet	Chart No 1: K10	N 30 14' 35.000"	W 088 52' 20.500"	30.24306	-88.87236	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Delete	Dolphin	Obstn PA	N 30 14' 48.000"	W 088 51' 24.000"	30.24667	-88.85667	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Add	Wreck in Feet	27 Wk	N 30 14' 42.000"	W 088 49' 42.300"	30.245	-88.82841	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Delete	Arrow	Shi PA (6 ft rep 1994)	N 30 13' 03.500"	W 088 47' 00.800"	30.21764	-88.78355	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Add	Dangerous Wreck	PA	N 30 14' 43.400"	W 088 52' 16.200"	30.24539	-88.87117	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Delete	Dolphin	Pole	N 30 14' 37.700"	W 088 49' 27.000"	30.2438	-88.82417	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Add	Dangerous Wreck	PA	N 30 14' 58.000"	W 088 51' 43.600"	30.24944	-88.86211	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Add	Dangerous Wreck	PA	N 30 15' 36.700"	W 088 48' 48.100"	30.26019	-88.81336	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Add	Obstruction	Obstn PA	N 30 14' 37.700"	W 088 49' 27.000"	30.2438	-88.82417	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Add	Obstruction	Obstn PA	N 30 14' 48.000"	W 088 51' 24.000"	30.24667	-88.85667	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Change	Dolphin	Subm Pipe	N 30 15' 10.400"	W 088 48' 30.100"	30.25289	-88.80836	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Delete	Wreck in Feet	26 Wk (Rep 2011)	N 30 14' 42.000"	W 088 49' 42.300"	30.245	-88.82841	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Add	Obstruction	Obstn	N 30 14' 57.900"	W 088 49' 13.300"	30.24942	-88.82036	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Delete	Islet	Chart No 1: K10	N 30 14' 32.800"	W 088 52' 21.400"	30.24244	-88.87261	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Delete	Dolphin	Subm pipe	N 30 14' 35.200"	W 088 49' 51.200"	30.24311	-88.83089	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Add	Wreck in Feet	11 Wk	N 30 13' 43.900"	W 088 49' 44.500"	30.22886	-88.82903	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Change	Dolphin	Subm pipe	N 30 14' 30.600"	W 088 49' 23.900"	30.24183	-88.8233	LNM 12/15, 8th Dist	21	11372_1	3/26/2015
+11372	Substitute	Obstruction in Feet	10 Obstn (Chart No. 1: K41) for 16 Obstn	N 30 14' 53.900"	W 089 00' 01.900"	30.24831	-89.00053	LNM 12/15, 8th Dist	21	11372_1	3/19/2015
+11372	Add	Obstruction in Feet	3 Obstn       Chart No. 1: K41	N 30 15' 41.400"	W 089 00' 30.800"	30.2615	-89.00855	LNM 11/15, 8th Dist	21	11372_1	3/12/2015
+11372	Change	visible wreck to dangerous wreck	PA      Chart No. 1: K28	N 30 13' 04.340"	W 088 55' 31.720"	30.21787	-88.92548	LNM 10/15, 8th Dist	21	11372_1	3/5/2015
+11372	Change	visible wreck to dangerous wreck	PA      Chart No. 1: K28	N 30 13' 12.280"	W 088 55' 05.740"	30.22008	-88.91826	LNM 10/15, 8th Dist	21	11372_1	3/5/2015
+11372	Change	visible wreck to dangerous wreck	PA      Chart No. 1: K28	N 30 13' 43.520"	W 088 54' 06.190"	30.22876	-88.90172	LNM 10/15, 8th Dist	21	11372_1	3/5/2015
+11372	Change	visible wreck to dangerous wreck	PA      Chart No. 1: K28	N 30 14' 43.510"	W 088 52' 16.080"	30.24542	-88.87113	LNM 10/15, 8th Dist	21	11372_1	3/5/2015
+11372	Change	visible wreck to dangerous wreck	PA      Chart No. 1: K28	N 30 14' 57.830"	W 088 51' 43.460"	30.2494	-88.86208	LNM 10/15, 8th Dist	21	11372_1	3/5/2015
+11372	Change	visible wreck to dangerous wreck	PA      Chart No. 1: K28	N 30 14' 13.000"	W 088 46' 42.070"	30.23694	-88.77835	LNM 10/15, 8th Dist	21	11372_1	3/5/2015
+11372	Change	visible wreck to dangerous wreck	PA      Chart No. 1: K28	N 30 14' 44.830"	W 088 45' 39.080"	30.24579	-88.76086	LNM 10/15, 8th Dist	21	11372_1	3/5/2015
+11372	Add	Marianne Channel Wreck Light WR2	Q R 17ft 3M "WR2" Ra Ref	N 30 16' 41.782"	W 089 09' 37.600"	30.27827	-89.16045	LNM 05/15, 8th Dist	21	11372_1	2/12/2015
+11372	Relocate	Ship Island Pass Entrance Range Rear Passing Light	Fl 4s 43ft 6M	N 30 14' 34.298"	W 089 01' 59.409"	30.24286	-89.03317	LNM 03/15, 8th Dist	21	11372_1	1/29/2015
+11372	Change	tabulation - GULFPORT HARBOR CHANNELS	tabulation - GULFPORT HARBOR CHANNELS	N 30 24' 21.000"	W 089 07' 30.000"	30.40583	-89.125	LNM 51/14, 8th Dist	22	11372_2	12/18/2014
+11372	Add	Obstruction in Feet	13 Obstn       Chart No. 1: K41	N 30 14' 27.000"	W 088 59' 25.100"	30.24083	-88.9903	LNM 51/14, 8th Dist	21	11372_1	12/18/2014
+11372	Add	Obstruction in Feet	6 Obstn       Chart No. 1: K41	N 30 18' 14.300"	W 089 02' 32.200"	30.30397	-89.04227	LNM 51/14, 8th Dist	21	11372_1	12/18/2014
+11372	Add	Obstruction in Feet	16 Obstn       Chart No. 1: K41	N 30 14' 53.900"	W 089 00' 01.900"	30.24831	-89.00053	LNM 51/14, 8th Dist	21	11372_1	12/18/2014
+11372	Change	Depth Note - HARRISON COUNTY INDUSTRIAL SEAWAY to:	The controlling depth for the Industrial Seaway from Big Lake to the western end of Gulfport Lake, 30°25'35"N 089°03'40"W, was 9 1/2 feet for a mid-width of 75 feet; thence 5 feet for a mid-width of 50-75 feet to the end of the project.  Shoaling exists in the channel's outside quarters and bend widening areas.  Aug 2014	N 30 25' 21.900"	W 089 07' 01.200"	30.42275	-89.117	LNM 50/14, 8th Dist	22	11372_2	12/18/2014
+11372	Change	Depth Note - BACK BAY CHANNEL to:	11 FT FOR A MID 75 FT AUG 2014	N 30 24' 43.400"	W 088 51' 55.700"	30.41206	-88.86547	LNM 50/14, 8th Dist	22	11372_2	12/18/2014
+11372	Change	Depth Note - BACK BAY CHANNEL to:	11 FT FOR A MID 75 FT AUG 2014	N 30 25' 20.000"	W 088 55' 12.900"	30.42222	-88.92025	LNM 50/14, 8th Dist	22	11372_2	12/18/2014
+11372	Change	Depth Note - BILOXI EAST ACCESS to:	9 FT BY 150 FT AUG 2014	N 30 23' 57.000"	W 088 50' 21.000"	30.39917	-88.83916	LNM 50/14, 8th Dist	22	11372_2	12/18/2014
+11372	Change	Depth Note - BILOXI EAST ACCESS to:	9 FT BY 150 FT AUG 2014	N 30 22' 33.200"	W 088 48' 28.500"	30.37589	-88.80791	LNM 50/14, 8th Dist	22	11372_2	12/18/2014
+11372	Change	Depth Note - NOTE D EAST HARRISON COUNTY CANAL to:	The controlling depth was 6 1/2 feet for a width of 130 feet to the basin; thence 7 1/2 feet in the basin with shoaling to 3 1/2 feet in the right outside quarter.  Aug 2014 	N 30 27' 30.000"	W 088 51' 19.000"	30.45833	-88.85528	LNM 50/14, 8th Dist	22	11372_2	12/18/2014
+11372	Change	Depth Legend - BERNARD BAYOU to:	6 1/2 FT WIDTH 80 FT SEP 2014	N 30 24' 33.000"	W 089 01' 10.000"	30.40917	-89.01945	LNM 50/14, 8th Dist	22	11372_2	12/18/2014
+11372	Change	Depth Legend - BILOXI CRANES NECK to:	10 FT FOR MID 75 FT SEP 2014	N 30 24' 47.000"	W 088 59' 28.000"	30.41306	-88.99111	LNM 50/14, 8th Dist	22	11372_2	12/18/2014
+11372	Change	Depth Legend - BILOXI EAST ACCESS to:	9 FT BY 150 FT AUG 2014 	N 30 18' 39.000"	W 088 46' 30.900"	30.31083	-88.77525	LNM 50/14, 8th Dist	21	11372_1	12/18/2014
+11372	Change	Depth Legend - BILOXI WEST APPROACH to:	6 1/2 FT BY 150 FT AUG 2014	N 30 22' 44.600"	W 088 54' 07.200"	30.37906	-88.902	LNM 50/14, 8th Dist	22	11372_2	12/18/2014
+11372	Change	Depth Legend - BILOXI LATERAL to:	5 1/2 FT BY 150 FT AUG 2014	N 30 23' 24.600"	W 088 50' 24.400"	30.39017	-88.84011	LNM 50/14, 8th Dist	22	11372_2	12/18/2014
+11372	Relocate	Marianne Channel Lighted Buoy 1	G "1" Fl G 2.5s	N 30 16' 37.537"	W 089 08' 59.279"	30.27709	-89.1498	LNM 47/14, 8th Dist	21	11372_1	12/11/2014
+11372	Change	Channel Limits PT 13 OF 13	Chart No. 1: I20	N 30 11' 13.240"	W 088 59' 17.000"	30.18701	-88.98805	LNM 47/14, 8th Dist	21	11372_1	11/27/2014
+11372	Change	Channel Limits PT 12 OF 13	Chart No. 1: I20	N 30 11' 20.090"	W 088 59' 22.620"	30.18891	-88.98962	LNM 47/14, 8th Dist	21	11372_1	11/27/2014
+11372	Change	Channel Limits PT 11 OF 13	Chart No. 1: I20	N 30 13' 02.310"	W 088 59' 46.690"	30.21731	-88.9963	LNM 47/14, 8th Dist	21	11372_1	11/27/2014
+11372	Change	Channel Limits PT 10 OF 13	Chart No. 1: I20	N 30 13' 12.300"	W 088 59' 48.460"	30.22008	-88.9968	LNM 47/14, 8th Dist	21	11372_1	11/27/2014
+11372	Change	Channel Limits PT 9 OF 13	Chart No. 1: I20	N 30 15' 20.100"	W 089 00' 18.580"	30.25558	-89.00516	LNM 47/14, 8th Dist	21	11372_1	11/27/2014
+11372	Change	Channel Limits PT 8 OF 13	Chart No. 1: I20	N 30 15' 41.090"	W 089 00' 29.040"	30.26141	-89.00806	LNM 47/14, 8th Dist	21	11372_1	11/27/2014
+11372	Change	Channel Limits PT 7 OF 13	Chart No. 1: I20	N 30 18' 43.740"	W 089 03' 03.730"	30.31215	-89.05103	LNM 47/14, 8th Dist	21	11372_1	11/27/2014
+11372	Change	Channel Limits PT 6 OF 13	Chart No. 1: I20	N 30 11' 14.200"	W 088 59' 10.220"	30.18728	-88.98618	LNM 47/14, 8th Dist	21	11372_1	11/27/2014
+11372	Change	Channel Limits PT 5 OF 13	Chart No. 1: I20	N 30 11' 38.120"	W 088 59' 22.210"	30.19392	-88.9895	LNM 47/14, 8th Dist	21	11372_1	11/27/2014
+11372	Change	Channel Limits PT 4 OF 13	Chart No. 1: I20	N 30 13' 03.100"	W 088 59' 42.220"	30.21753	-88.99506	LNM 47/14, 8th Dist	21	11372_1	11/27/2014
+11372	Change	Channel Limits PT 3 OF 13	Chart No. 1: I20	N 30 13' 12.850"	W 088 59' 45.100"	30.22024	-88.99586	LNM 47/14, 8th Dist	21	11372_1	11/27/2014
+11372	Change	Channel Limits PT 2 OF 13	Chart No. 1: I20	N 30 15' 33.280"	W 089 00' 18.190"	30.25924	-89.00505	LNM 47/14, 8th Dist	21	11372_1	11/27/2014
+11372	Change	Channel Limits PT 1 OF 13	Chart No. 1: I20	N 30 18' 43.660"	W 089 02' 59.420"	30.31213	-89.04984	LNM 47/14, 8th Dist	21	11372_1	11/27/2014
+11372	Change	Channel Limits PT 5 OF 5	Chart No. 1: I20	N 30 18' 17.690"	W 089 02' 41.680"	30.30491	-89.04491	LNM 47/14, 8th Dist	22	11372_2	11/27/2014
+11372	Change	Channel Limits PT 4 OF 5	Chart No. 1: I20	N 30 20' 56.080"	W 089 04' 55.920"	30.34891	-89.0822	LNM 47/14, 8th Dist	22	11372_2	11/27/2014
+11372	Change	Channel Limits PT 3 OF 5	Chart No. 1: I20	N 30 18' 18.220"	W 089 02' 37.880"	30.30506	-89.04385	LNM 47/14, 8th Dist	22	11372_2	11/27/2014
+11372	Change	Channel Limits PT 2 OF 5	Chart No. 1: I20	N 30 20' 57.840"	W 089 04' 53.170"	30.3494	-89.08144	LNM 47/14, 8th Dist	22	11372_2	11/27/2014
+11372	Change	Channel Limits PT 1 OF 5	Chart No. 1: I20	N 30 21' 04.300"	W 089 04' 59.220"	30.35119	-89.08311	LNM 47/14, 8th Dist	22	11372_2	11/27/2014
+11372	Change	Depth Legend - Wolf River to:	3 FT FOR A WIDTH OF 100 FT AUG 2014	N 30 20' 50.000"	W 089 18' 00.000"	30.34722	-89.3	LNM 47/14, 8th Dist	22	11372_2	11/20/2014
+11372	Change	Depth Legend - Bayou Portage to:	5 1/2 AUG 2014	N 30 20' 03.400"	W 089 18' 09.700"	30.33428	-89.3027	LNM 46/14, 8th Dist	22	11372_2	11/13/2014
+11372	Change	Depth Legend - Bayou Portage to:	6 1/2 FT FOR A WIDTH OF 100 FT AUG 2014	N 30 20' 04.500"	W 089 15' 07.100"	30.33458	-89.25198	LNM 46/14, 8th Dist	22	11372_2	11/13/2014
+11372	Delete	University of Southern Mississippi Scientific Monitoring Buoy A	Y "A" Priv	N 30 22' 28.710"	W 088 58' 32.817"	30.37464	-88.97578	LNM 42/14, 8th Dist	22	11372_2	11/6/2014
+11372	Delete	University of Southern Mississippi Scientific Monitoring Buoy B	Y "B" Priv	N 30 22' 48.059"	W 088 58' 32.305"	30.38002	-88.97564	LNM 42/14, 8th Dist	22	11372_2	11/6/2014
+11372	Delete	University of Southern Mississippi Scientific Monitoring Buoy C	Y "C" Priv	N 30 23' 07.559"	W 088 58' 32.592"	30.38543	-88.97572	LNM 42/14, 8th Dist	22	11372_2	11/6/2014
+11372	Delete	University of Southern Mississippi Scientific Monitoring Buoy D	Y "D" Priv	N 30 20' 44.063"	W 089 03' 52.771"	30.34557	-89.06466	LNM 42/14, 8th Dist	22	11372_2	11/6/2014
+11372	Delete	University of Southern Mississippi Scientific Monitoring Buoy E	Y "E" Priv	N 30 21' 00.195"	W 089 04' 05.333"	30.35005	-89.06815	LNM 42/14, 8th Dist	22	11372_2	11/6/2014
+11372	Delete	University of Southern Mississippi Scientific Monitoring Buoy F	Y "F" Priv	N 30 21' 18.046"	W 089 04' 14.318"	30.35501	-89.07064	LNM 42/14, 8th Dist	22	11372_2	11/6/2014
+11372	Delete	University of Southern Mississippi Scientific Monitoring Buoy G	Y "G" Priv	N 30 21' 36.216"	W 089 04' 22.476"	30.36006	-89.07291	LNM 42/14, 8th Dist	22	11372_2	11/6/2014
+11372	Delete	University of Southern Mississippi Scientific Monitoring Buoy H	Y "H" Priv	N 30 21' 53.039"	W 089 04' 33.564"	30.36473	-89.07599	LNM 42/14, 8th Dist	22	11372_2	11/6/2014
+11372	Delete	University of Southern Mississippi Scientific Monitoring Buoy I	Y "I" Priv	N 30 19' 46.353"	W 089 04' 46.327"	30.32954	-89.07954	LNM 42/14, 8th Dist	22	11372_2	11/6/2014
+11372	Delete	University of Southern Mississippi Scientific Monitoring Buoy J	Y "J" Priv	N 30 19' 56.844"	W 089 05' 05.273"	30.33246	-89.0848	LNM 42/14, 8th Dist	22	11372_2	11/6/2014
+11372	Delete	University of Southern Mississippi Scientific Monitoring Buoy K	Y "K" Priv	N 30 20' 06.146"	W 089 05' 24.799"	30.33504	-89.09023	LNM 42/14, 8th Dist	22	11372_2	11/6/2014
+11372	Delete	University of Southern Mississippi Scientific Monitoring Buoy L	Y "L" Priv	N 30 20' 08.402"	W 089 05' 46.966"	30.33567	-89.09638	LNM 42/14, 8th Dist	22	11372_2	11/6/2014
+11372	Delete	University of Southern Mississippi Scientific Monitoring Buoy M	Y "M" Priv	N 30 20' 17.525"	W 089 06' 06.965"	30.3382	-89.10194	LNM 42/14, 8th Dist	22	11372_2	11/6/2014
+11372	Delete	University of Southern Mississippi Scientific Monitoring Buoy N	Y "N" Priv	N 30 20' 33.328"	W 089 06' 20.074"	30.34259	-89.10558	LNM 42/14, 8th Dist	22	11372_2	11/6/2014
+11372	Delete	University of Southern Mississippi Scientific Monitoring Buoy O	Y "O" Priv	N 30 20' 50.561"	W 089 06' 31.147"	30.34738	-89.10865	LNM 42/14, 8th Dist	22	11372_2	11/6/2014
+11372	Delete	University of Southern Mississippi Scientific Monitoring Buoy P	Y "P" Priv	N 30 21' 08.389"	W 089 06' 41.583"	30.35233	-89.11155	LNM 42/14, 8th Dist	22	11372_2	11/6/2014
+11372	Delete	University of Southern Mississippi Scientific Monitoring Buoy Q	Y "Q" Priv	N 30 18' 32.313"	W 089 12' 09.885"	30.30898	-89.20274	LNM 42/14, 8th Dist	22	11372_2	11/6/2014
+11372	Delete	University of Southern Mississippi Scientific Monitoring Buoy R	Y "R" Priv	N 30 18' 48.935"	W 089 12' 21.304"	30.31359	-89.20592	LNM 42/14, 8th Dist	22	11372_2	11/6/2014
+11372	Delete	University of Southern Mississippi Scientific Monitoring Buoy S	Y "S" Priv	N 30 19' 05.736"	W 089 12' 32.976"	30.31826	-89.20916	LNM 42/14, 8th Dist	22	11372_2	11/6/2014
+11372	Change	tabulation - GULFPORT HARBOR CHANNELS	tabulation - GULFPORT HARBOR CHANNELS	N 30 24' 21.000"	W 089 07' 30.000"	30.40583	-89.125	LNM 40/14, 8th Dist	22	11372_2	10/9/2014
+11372	Delete	Deer Island Breakwater Lighted Danger Buoy	W Or  Fl 2.5s Priv	N 30 21' 15.440"	W 088 49' 59.080"	30.35429	-88.83308	LNM 38/14, 8th Dist	22	11372_2	10/2/2014
+11372	Delete	Deer Island Breakwater Lighted Danger Buoy	W Or  Fl 2.5s Priv	N 30 21' 15.800"	W 088 50' 11.030"	30.35439	-88.8364	LNM 38/14, 8th Dist	22	11372_2	10/2/2014
+11372	Delete	Deer Island Breakwater Lighted Danger Buoy	W Or  Fl 2.5s Priv	N 30 21' 23.420"	W 088 50' 21.780"	30.35651	-88.83939	LNM 38/14, 8th Dist	22	11372_2	10/2/2014
+11372	Delete	Deer Island Breakwater Lighted Danger Buoy	W Or  Fl 2.5s Priv	N 30 21' 25.450"	W 088 50' 35.460"	30.35707	-88.84319	LNM 38/14, 8th Dist	22	11372_2	10/2/2014
+11372	Delete	Deer Island Breakwater Lighted Danger Buoy	W Or  Fl 2.5s Priv	N 30 21' 21.830"	W 088 50' 32.500"	30.35606	-88.84236	LNM 38/14, 8th Dist	22	11372_2	10/2/2014
+11372	Delete	Deer Island Breakwater Lighted Danger Buoy	W Or  Fl 2.5s Priv	N 30 21' 28.610"	W 088 50' 21.630"	30.35795	-88.83934	LNM 38/14, 8th Dist	22	11372_2	10/2/2014
+11372	Delete	Deer Island Breakwater Lighted Danger Buoy	W Or  Fl 2.5s Priv	N 30 21' 18.640"	W 088 50' 08.520"	30.35518	-88.8357	LNM 38/14, 8th Dist	22	11372_2	10/2/2014
+11372	Relocate	Marianne Channel Buoy 17	G C "17" 	N 30 12' 35.852"	W 089 15' 06.211"	30.20996	-89.25172	LNM 34/14, 8th Dist	21	11372_1	9/4/2014
+11372	Add	Dangerous submerged wreck	PA (Chart no 1: K-28)	N 30 14' 03.100"	W 088 45' 24.000"	30.23419	-88.75667	LNM 32/14, 8th Dist	21	11372_1	8/21/2014
+11372	Relocate	Bernard Bayou Light 1	Fl G 6s 17ft 4M "1"	N 30 24' 57.412"	W 089 00' 15.346"	30.41595	-89.00426	LNM 29/14, 8th Dist	22	11372_2	7/31/2014
+11372	Change	Depth Legend - BILOXI EAST APPROACH to:	10 FT BY 150 FT MAR 2014	N 30 20' 56.600"	W 088 46' 49.100"	30.34906	-88.7803	LNM 30/14, 8th Dist	22	11372_2	7/24/2014
+11372	Change	Depth Legend - BILOXI WEST APPROACH to:	7 FT BY 150 FT MAR 2014	N 30 22' 44.600"	W 088 54' 07.200"	30.37906	-88.902	LNM 30/14, 8th Dist	22	11372_2	7/24/2014
+11372	Change	Depth Legend - OTTS BAYOU to:	6 1/2 FT BY 150 FT MAR 2014	N 30 24' 14.000"	W 088 51' 27.000"	30.40389	-88.8575	LNM 30/14, 8th Dist	22	11372_2	7/24/2014
+11372	Change	Depth Legend - BERNARD BAYOU to:	5 1/2 FT WIDTH 80 FT MAR 2014	N 30 24' 33.000"	W 089 01' 10.000"	30.40917	-89.01945	LNM 30/14, 8th Dist	22	11372_2	7/24/2014
+11372	Change	Depth Legend - BILOXI CRANES NECK to:	12 FT FOR MID 75 FT MAR 2014	N 30 24' 47.000"	W 088 59' 28.000"	30.41306	-88.99111	LNM 30/14, 8th Dist	22	11372_2	7/24/2014
+11372	Change	Depth Note - NOTE D EAST HARRISON COUNTY CANAL to:	The controlling depth was 6  feet for a width of 130 feet to the basin; thence 7 1/2 feet in the basin with shoaling to 3 feet in the right outside quarter.  Mar 2014	N 30 27' 30.000"	W 088 51' 19.000"	30.45833	-88.85528	LNM 30/14, 8th Dist	22	11372_2	7/24/2014
+11372	Change	Depth Legend - BACK BAY CHANNEL to:	10 FT FOR MID 75 FT MAR 2014	N 30 25' 20.000"	W 088 55' 12.900"	30.42222	-88.92025	LNM 30/14, 8th Dist	22	11372_2	7/24/2014
+11372	Change	Depth Note - HARRISON COUNTY INDUSTRIAL SEAWAY to:	The controlling depth for the Industrial Seaway from Big Lake to the western end of Gulfport Lake, 30°25'35"N 089°03'40"W, was 9 1/2 feet for a mid-width of 75 feet; thence 7 feet for a mid-width of 50-75 feet to the end of the project. Shoaling exists in the channel's outside quarters and bend widening areas.    Mar 2014	N 30 25' 21.900"	W 089 07' 01.200"	30.42275	-89.117	LNM 30/14, 8th Dist	22	11372_2	7/24/2014
+11372	Change	Depth Legend - BILOXI EAST APPROACH to:	10 FT BY 150 FT MAR 2014	N 30 23' 57.000"	W 088 50' 21.000"	30.39917	-88.83916	LNM 30/14, 8th Dist	22	11372_2	7/24/2014
+11372	Change	Depth Legend - BILOXI LATERAL to:	7 FT BY 150 FT MAR 2014	N 30 23' 21.200"	W 088 52' 13.900"	30.38922	-88.87053	LNM 30/14, 8th Dist	22	11372_2	7/24/2014
+11372	Change	Depth Legend - BILOXI LATERAL to:	6 FT BY 150 FT MAR 2014	N 30 23' 24.600"	W 088 50' 24.400"	30.39017	-88.84011	LNM 30/14, 8th Dist	22	11372_2	7/24/2014
+11372	Change	Depth Legend - BILOXI EAST APPROACH to:	10 FT BY 150 FT MAR 2014	N 30 18' 01.000"	W 088 46' 31.300"	30.30028	-88.77536	LNM 30/14, 8th Dist	21	11372_1	7/24/2014
+11372	Change	Depth Legend - BACK BAY CHANNEL to:	10 FT FOR MID 75 FT MAR 2014	N 30 24' 43.400"	W 088 51' 55.700"	30.41206	-88.86547	LNM 30/14, 8th Dist	22	11372_2	7/24/2014
+11372	Change	Ship Island Light 2	Fl R 2.5s 17ft 5M "2" Ra Ref	N 30 17' 10.969"	W 088 52' 00.018"	30.28638	-88.86667	LNM 25/14, 8th Dist	21	11372_1	7/3/2014
+11372	Change	Depth Legend - Wolf River to:	4 FT FOR A WIDTH OF 100 FT DEC 2013	N 30 20' 50.000"	W 089 18' 00.000"	30.34722	-89.3	LNM 21/14, 8th Dist	22	11372_2	5/22/2014
+11372	Add	Safety Zone PT 1 OF 4	SAFETY ZONE 165.841 (see note A)      Chart No. 1: N1.2	N 30 25' 37.200"	W 089 03' 09.700"	30.427	-89.0527	LNM 06/14, 8th Dist	22	11372_2	2/13/2014
+11372	Add	Safety Zone PT 2 OF 4	SAFETY ZONE 165.841 (see note A)      Chart No. 1: N1.2	N 30 25' 27.000"	W 089 03' 09.700"	30.42417	-89.0527	LNM 06/14, 8th Dist	22	11372_2	2/13/2014
+11372	Add	Safety Zone PT 3 OF 4	SAFETY ZONE 165.841 (see note A)      Chart No. 1: N1.2	N 30 25' 35.400"	W 089 03' 45.700"	30.4265	-89.06269	LNM 06/14, 8th Dist	22	11372_2	2/13/2014
+11372	Add	Safety Zone PT 4 OF 4	SAFETY ZONE 165.841 (see note A)      Chart No. 1: N1.2	N 30 25' 28.800"	W 089 03' 45.700"	30.42467	-89.06269	LNM 06/14, 8th Dist	22	11372_2	2/13/2014
+11372	Change	Depth Legend - BILOXI LATERAL to:	5 1/2 FT BY 150 FT OCT 2013	N 30 23' 24.600"	W 088 50' 24.400"	30.39017	-88.84011	LNM 02/14, 8th Dist	22	11372_2	1/9/2014
+11372	Change	Depth Legend - BILOXI WEST APPROACH to:	6 1/2 FT BY 150 FT OCT 2013	N 30 22' 44.600"	W 088 54' 07.200"	30.37906	-88.902	LNM 02/14, 8th Dist	22	11372_2	1/9/2014
+11372	Change	Depth Legend - BILOXI LATERAL to:	6 1/2 FT BY 150 FT OCT 2013	N 30 23' 21.200"	W 088 52' 13.900"	30.38922	-88.87053	LNM 02/14, 8th Dist	22	11372_2	1/9/2014
+11372	Change	Gulfport Yacht Basin Channel Light 4	Fl R 2.5s 17ft 3M "4" Ra Ref	N 30 21' 20.395"	W 089 05' 01.844"	30.35567	-89.08385	LNM 52/13, 8th Dist	22	11372_2	1/9/2014
+11372	Change	Gulfport Yacht Basin Channel Light 6	Fl R 6s 17ft 3M "6" Ra Ref	N 30 21' 29.207"	W 089 05' 08.699"	30.35811	-89.08575	LNM 52/13, 8th Dist	22	11372_2	1/9/2014
+11372	Change	Gulfport Yacht Basin Channel Light 10	Fl (2) R 5s 17ft 3M "10" Ra Ref	N 30 21' 35.960"	W 089 05' 15.360"	30.35999	-89.0876	LNM 52/13, 8th Dist	22	11372_2	1/9/2014
+11372	Change	Depth Legend - Bayou Portage to:	5 FT SEP 2012	N 30 20' 03.400"	W 089 18' 09.700"	30.33428	-89.3027	LNM 49/13, 8th Dist	22	11372_2	12/2/2013
+11372	Change	Depth Legend - Bayou Portage to:	6 FT FOR A WIDTH OF 100 FT SEP 2012	N 30 20' 32.200"	W 089 16' 37.700"	30.34228	-89.27714	LNM 49/13, 8th Dist	22	11372_2	12/2/2013
+11372	Change	Depth Legend - Bayou Portage to:	6 FT FOR A WIDTH OF 100 FT SEP 2012	N 30 20' 04.500"	W 089 15' 07.100"	30.33458	-89.25198	LNM 49/13, 8th Dist	22	11372_2	12/2/2013
+11372	Change	Depth Legend - Jourdan River to:	5 FT FOR A WIDTH OF 100 FT SEP 2012	N 30 20' 41.900"	W 089 20' 39.800"	30.34497	-89.34439	LNM 49/13, 8th Dist	22	11372_2	12/2/2013
+11372	Change	Depth Legend - Jourdan River to:	6 FT FOR A WIDTH OF 100 FT SEP 2012	N 30 20' 29.700"	W 089 19' 12.500"	30.34158	-89.32014	LNM 49/13, 8th Dist	22	11372_2	12/2/2013
+11372	Change	Depth Legend - Wolf River to:	3 FT FOR A WIDTH OF 100 FT JUL 2013	N 30 20' 50.000"	W 089 18' 00.000"	30.34722	-89.3	LNM 49/13, 8th Dist	22	11372_2	12/2/2013
+11372	Change	tabulation - GULFPORT HARBOR CHANNELS	tabulation - GULFPORT HARBOR CHANNELS	N 30 24' 21.000"	W 089 07' 30.000"	30.40583	-89.125	LNM 48/13, 8th Dist	22	11372_2	11/22/2013
+11372	Change	Depth Note - HARRISON COUNTY INDUSTRIAL CANAL to:	The controlling depth for the Industrial Seaway from Big Lake to the western end of Gulfport Lake, 30°25'35"N 089°03'40"W, was 9 1/2 feet for a mid-width of 75 feet; thence 7 1/2 feet for a mid-width of 50-75 feet to the end of the project. Shoaling exists in the channel's outside quarters and bend widening areas.  Feb 2013	N 30 25' 22.000"	W 089 07' 02.000"	30.42278	-89.11723	LNM 46/13, 8th Dist	22	11372_2	11/6/2013
+11372	Change	Depth Legend - BILOXI CRANES NECK to:	10 FT FOR MID 75 FT AUG 2013	N 30 24' 47.000"	W 088 59' 28.000"	30.41306	-88.99111	LNM 46/13, 8th Dist	22	11372_2	11/6/2013
+11372	Change	Depth Note - NOTE B COMMERCIAL SMALL BOAT HARBOR to:	The controlling depth in the basin was 4 1/2 feet.  May 2012	N 30 25' 10.400"	W 089 08' 43.400"	30.41956	-89.14539	LNM 46/13, 8th Dist	22	11372_2	11/6/2013
+11372	Change	Depth Legend - BILOXI WEST APPROACH to:	7 FT BY 150 FT MAY 2013	N 30 22' 44.600"	W 088 54' 07.200"	30.37906	-88.902	LNM 46/13, 8th Dist	22	11372_2	11/6/2013
+11372	Change	Depth Legend - BACK BAY CHANNEL to:	10 1/2 FT FOR MID 75 FT AUG 2013	N 30 25' 20.000"	W 088 55' 12.900"	30.42222	-88.92025	LNM 46/13, 8th Dist	22	11372_2	11/6/2013
+11372	Change	Depth Legend - OTT BAYOU to:	7 FT BY 150 FT SEP 2013	N 30 24' 14.000"	W 088 51' 27.000"	30.40389	-88.8575	LNM 46/13, 8th Dist	22	11372_2	11/6/2013
+11372	Change	Depth Legend - BACK BAY CHANNEL to:	10 1/2 FT FOR MID 75 FT AUG 2013	N 30 24' 43.400"	W 088 51' 55.700"	30.41206	-88.86547	LNM 46/13, 8th Dist	22	11372_2	11/6/2013
+11372	Change	Depth Note - NOTE D EAST HARRISON COUNTY CHANNEL to:	The controlling depth was 6 1/2 feet for a width of 130 feet to the basin; thence 7 1/2 feet in the basin with shoaling to 5 feet in the right outside quarter.  Sep 2013	N 30 27' 30.000"	W 088 51' 19.000"	30.45833	-88.85528	LNM 46/13, 8th Dist	22	11372_2	11/6/2013
+11372	Change	Depth Legend - Biloxi East Access to:	9 1/2 FT BY 150 FT AUG 2013	N 30 22' 36.000"	W 088 48' 32.000"	30.37667	-88.80889	LNM 45/13, 8th Dist	22	11372_2	10/28/2013
+11372	Change	Depth Legend - Biloxi East Access to:	9 1/2 FT BY 150 FT AUG 2013	N 30 23' 57.000"	W 088 50' 21.000"	30.39917	-88.83916	LNM 45/13, 8th Dist	22	11372_2	10/28/2013
+11372	Change	Depth Legend - Biloxi East Access to:	9 1/2 FT BY 150 FT AUG 2013	N 30 19' 28.000"	W 088 46' 31.000"	30.32444	-88.77528	LNM 45/13, 8th Dist	21	11372_1	10/28/2013
+11372	Relocate	Ship Island Light 2	Mo (A) 17ft 5M "S" Ra Ref	N 30 17' 10.969"	W 088 52' 00.018"	30.28638	-88.86667	LNM 26/13, 8th Dist	21	11372_1	6/29/2013
+11372	Add	Dangerous Wreck	PA      Chart No. 1: K28	N 30 16' 40.800"	W 089 09' 40.800"	30.278	-89.16133	LNM 24/13, 8th Dist	21	11372_1	6/17/2013
+11372	Delete	Sounding in Feet	16	N 30 14' 52.100"	W 088 49' 37.100"	30.2478	-88.82697	LNM 25/13, 8th Dist	21	11372_1	6/17/2013
+11372	Add	Sounding in Feet	5	N 30 14' 54.400"	W 088 49' 35.600"	30.24844	-88.82655	LNM 25/13, 8th Dist	21	11372_1	6/17/2013
+11372	Delete	Sounding in Feet	13	N 30 15' 01.800"	W 088 50' 32.200"	30.2505	-88.84228	LNM 25/13, 8th Dist	21	11372_1	6/17/2013
+11372	Add	Sounding in Feet	6	N 30 15' 00.800"	W 088 50' 32.100"	30.25022	-88.84225	LNM 25/13, 8th Dist	21	11372_1	6/17/2013
+11372	Delete	Sounding in Feet	5	N 30 14' 26.200"	W 088 50' 14.000"	30.24061	-88.83722	LNM 25/13, 8th Dist	21	11372_1	6/17/2013
+11372	Add	Sounding in Feet	5	N 30 14' 10.000"	W 088 50' 42.400"	30.23611	-88.84511	LNM 25/13, 8th Dist	21	11372_1	6/17/2013
+11372	Add	Sounding in Feet	5	N 30 14' 10.500"	W 088 47' 07.800"	30.23625	-88.7855	LNM 25/13, 8th Dist	21	11372_1	6/17/2013
+11372	Add	Sounding in Feet	4	N 30 14' 17.500"	W 088 48' 32.500"	30.23819	-88.80903	LNM 25/13, 8th Dist	21	11372_1	6/17/2013
+11372	Add	Sounding in Feet	3	N 30 14' 27.100"	W 088 50' 14.500"	30.24086	-88.83736	LNM 25/13, 8th Dist	21	11372_1	6/17/2013
+11372	Change	Ship Island Light 4	Fl R 2.5s 17ft 4M "4" Ra Ref	N 30 17' 00.937"	W 088 57' 11.687"	30.28359	-88.95325	LNM 23/13, 8th Dist	21	11372_1	6/11/2013
+11372	Relocate	Ship Island Light 4	Fl R 2.5s 17ft 4M "4" Ra Ref	N 30 17' 00.937"	W 088 57' 11.687"	30.28359	-88.95325	LNM 23/13, 8th Dist	21	11372_1	6/11/2013
+11372	Relocate	Ship Island Light S	Mo (A) 17ft 5M "S" Ra Ref	N 30 17' 11.000"	W 088 52' 00.000"	30.28639	-88.86667	LNM 19/13, 8th Dist	21	11372_1	5/10/2013
+11372	Delete	Cat Island Channel West Buoy 4	R N "4"	N 30 10' 48.715"	W 089 16' 03.652"	30.1802	-89.26768	LNM 13/13, 8th Dist	21	11372_1	3/20/2013
+11372	Change	Davis Bayou Channel Danger Light	Fl 2.5s Priv	N 30 23' 33.320"	W 088 48' 29.230"	30.39259	-88.80812	LNM 09/13, 8th Dist	22	11372_2	3/7/2013
+11372	Add	Davis Bayou Channel Daybeacon 1	G "1" Priv	N 30 23' 31.610"	W 088 48' 52.760"	30.39211	-88.81466	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Davis Bayou Channel Light 2	Fl R 2.5s "2" Priv	N 30 23' 30.040"	W 088 48' 51.900"	30.39168	-88.81441	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Davis Bayou Channel Daybeacon 4	R "4" Priv	N 30 23' 31.420"	W 088 48' 45.620"	30.39206	-88.81268	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Davis Bayou Channel Daybeacon 6	R "6" Priv	N 30 23' 32.340"	W 088 48' 42.050"	30.39232	-88.81168	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Davis Bayou Channel Daybeacon 3	G "3" Priv	N 30 23' 34.730"	W 088 48' 39.710"	30.39298	-88.81103	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Davis Bayou Channel Daybeacon 8	R "8" Priv	N 30 23' 32.010"	W 088 48' 32.620"	30.39223	-88.80906	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Davis Bayou Channel Danger Light	W Or Priv	N 30 23' 33.320"	W 088 48' 29.230"	30.39259	-88.80812	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Davis Bayou Channel Daybeacon 10	R "10" Priv	N 30 23' 29.200"	W 088 48' 19.000"	30.39145	-88.80527	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Davis Bayou Channel Daybeacon 12	R "12" Priv	N 30 23' 28.430"	W 088 48' 11.000"	30.39123	-88.80305	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Davis Bayou Channel Daybeacon 14	R "14" Priv	N 30 23' 28.440"	W 088 48' 06.150"	30.39123	-88.80171	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Davis Bayou Channel Daybeacon 5	G "5" Priv	N 30 23' 29.720"	W 088 48' 05.880"	30.39159	-88.80164	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Davis Bayou Channel Daybeacon 18	R "18" Priv	N 30 23' 27.780"	W 088 47' 51.740"	30.39105	-88.79771	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Davis Bayou Channel Daybeacon 7	G "7" Priv	N 30 23' 28.800"	W 088 47' 50.230"	30.39133	-88.79729	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Davis Bayou Channel Daybeacon 9	G "9" Priv	N 30 23' 27.960"	W 088 47' 46.660"	30.3911	-88.7963	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Davis Bayou Channel Daybeacon 20	R "20" Priv	N 30 23' 26.530"	W 088 47' 46.250"	30.3907	-88.79618	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Davis Bayou Channel Daybeacon 22	R "22" Priv	N 30 23' 24.460"	W 088 47' 40.120"	30.39013	-88.79448	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Davis Bayou Channel Daybeacon 11	G "11" Priv	N 30 23' 25.590"	W 088 47' 39.860"	30.39044	-88.7944	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Davis Bayou Channel Daybeacon 24	R "24" Priv	N 30 23' 19.780"	W 088 47' 34.880"	30.38883	-88.79302	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Davis Bayou Channel Daybeacon 13	G "13" Priv	N 30 23' 20.780"	W 088 47' 34.000"	30.3891	-88.79278	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Davis Bayou Channel Daybeacon 26	R "26" Priv	N 30 23' 15.430"	W 088 47' 29.040"	30.38762	-88.7914	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Old Fort Bayou Channel Daybeacon 1	G "1" Priv	N 30 25' 24.521"	W 088 51' 18.553"	30.42348	-88.85516	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Old Fort Bayou Channel Light 2	Fl R 2.5s "2" Priv	N 30 25' 24.572"	W 088 51' 16.814"	30.42349	-88.85467	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Old Fort Bayou Channel Daybeacon 3	G "3" Priv	N 30 25' 29.203"	W 088 51' 15.952"	30.42478	-88.85443	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Old Fort Bayou Channel Daybeacon 4	R "4" Priv	N 30 25' 29.814"	W 088 51' 13.801"	30.42495	-88.85384	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Old Fort Bayou Channel Daybeacon 5	G "5" Priv	N 30 25' 38.647"	W 088 51' 04.864"	30.4274	-88.85135	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Old Fort Bayou Channel Daybeacon 6	R "6" Priv	N 30 25' 35.066"	W 088 51' 09.290"	30.42641	-88.85258	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Old Fort Bayou Channel Daybeacon 7	G "7" Priv	N 30 25' 35.471"	W 088 50' 53.006"	30.42652	-88.84806	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Old Fort Bayou Channel Daybeacon 8	R "8" Priv	N 30 25' 36.628"	W 088 51' 03.180"	30.42684	-88.85088	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Old Fort Bayou Channel Daybeacon 9	G "9" Priv	N 30 25' 21.885"	W 088 50' 37.136"	30.42275	-88.84365	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Old Fort Bayou Channel Daybeacon 10	R "10" Priv	N 30 25' 35.410"	W 088 50' 55.782"	30.4265	-88.84883	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Old Fort Bayou Channel Daybeacon 11	G "11" Priv	N 30 25' 19.399"	W 088 50' 21.250"	30.42206	-88.83923	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Old Fort Bayou Channel Daybeacon 12	R "12" Priv	N 30 25' 27.612"	W 088 50' 46.853"	30.42434	-88.84635	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Old Fort Bayou Channel Daybeacon 13	G "13" Priv	N 30 25' 10.507"	W 088 50' 00.480"	30.41959	-88.83347	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Old Fort Bayou Channel Daybeacon 14	R "14" Priv	N 30 25' 23.164"	W 088 50' 42.571"	30.4231	-88.84516	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Old Fort Bayou Channel Daybeacon 16	R "16" Priv	N 30 25' 17.356"	W 088 50' 35.213"	30.42149	-88.84312	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Old Fort Bayou Channel Daybeacon 18	R "18" Priv	N 30 25' 17.160"	W 088 50' 24.691"	30.42143	-88.84019	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Old Fort Bayou Channel Daybeacon 20	R "20" Priv	N 30 25' 17.360"	W 088 50' 21.613"	30.42149	-88.83934	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Old Fort Bayou Channel Daybeacon 22	R "22" Priv	N 30 25' 16.972"	W 088 50' 18.671"	30.42138	-88.83852	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Old Fort Bayou Channel Daybeacon 24	R "24" Priv	N 30 25' 16.134"	W 088 50' 14.724"	30.42115	-88.83743	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Old Fort Bayou Channel Daybeacon 26	R "26" Priv	N 30 25' 12.805"	W 088 50' 09.512"	30.42022	-88.83598	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Add	Old Fort Bayou Channel Daybeacon 28	28" Priv	N 30 25' 07.108"	W 088 49' 54.782"	30.41864	-88.83189	LNM 09/13, 8th Dist	22	11372_2	3/5/2013
+11372	Delete	Davis Bayou Channel Daybeacon 4	R "4" Priv	N 30 23' 26.000"	W 088 49' 03.000"	30.39056	-88.8175	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Davis Bayou Channel Daybeacon 6	R "6" Priv	N 30 23' 27.000"	W 088 48' 57.000"	30.39083	-88.81583	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Davis Bayou Channel Daybeacon 8	R "8" Priv	N 30 23' 28.000"	W 088 48' 53.000"	30.39111	-88.81472	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Davis Bayou Channel Daybeacon 10	R "10" Priv	N 30 23' 29.000"	W 088 48' 49.000"	30.39139	-88.81361	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Davis Bayou Channel Daybeacon 12	R "12" Priv	N 30 23' 31.000"	W 088 48' 45.000"	30.39194	-88.8125	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Davis Bayou Channel Daybeacon 13	G "13" Priv	N 30 23' 34.000"	W 088 48' 37.000"	30.39278	-88.81028	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Davis Bayou Channel Daybeacon 14	R "14" Priv	N 30 23' 33.000"	W 088 48' 38.000"	30.3925	-88.81055	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Davis Bayou Channel Daybeacon 16	R "16" Priv	N 30 23' 32.000"	W 088 48' 32.000"	30.39222	-88.80889	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Davis Bayou Channel Daybeacon 17A	G "17A" Priv	N 30 23' 33.500"	W 088 48' 33.000"	30.39264	-88.80917	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Davis Bayou Channel Daybeacon 17B	G "17B" Priv	N 30 23' 33.500"	W 088 48' 31.500"	30.39264	-88.80875	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Davis Bayou Channel Daybeacon 18	R "18" Priv	N 30 23' 31.000"	W 088 48' 28.000"	30.39194	-88.80778	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Davis Bayou Channel Daybeacon 20	R N "20" Priv	N 30 23' 29.000"	W 088 48' 19.000"	30.39139	-88.80527	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Davis Bayou Channel Daybeacon 22	R "22" Priv	N 30 23' 28.000"	W 088 48' 11.500"	30.39111	-88.80319	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Davis Bayou Channel Daybeacon 23	G "23" Priv	N 30 23' 29.000"	W 088 48' 05.000"	30.39139	-88.80139	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Davis Bayou Channel Daybeacon 24	R "24" Priv	N 30 23' 28.000"	W 088 48' 05.000"	30.39111	-88.80139	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Davis Bayou Channel Daybeacon 27	G "27" Priv	N 30 23' 27.000"	W 088 48' 00.000"	30.39083	-88.8	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Davis Bayou Channel Daybeacon 28	R "28" Priv	N 30 23' 27.000"	W 088 47' 52.000"	30.39083	-88.79778	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Davis Bayou Channel Daybeacon 29	G "29" Priv	N 30 23' 27.000"	W 088 47' 45.000"	30.39083	-88.79583	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Davis Bayou Channel Daybeacon 30	R "30" Priv	N 30 23' 26.000"	W 088 47' 45.000"	30.39056	-88.79583	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Davis Bayou Channel Daybeacon 32	R "32" Priv	N 30 23' 23.000"	W 088 47' 40.000"	30.38972	-88.79444	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Davis Bayou Channel Daybeacon 33	G "33" Priv	N 30 23' 20.000"	W 088 47' 32.500"	30.38889	-88.79236	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Davis Bayou Channel Daybeacon 34	R "34" Priv	N 30 23' 19.000"	W 088 47' 34.000"	30.38861	-88.79278	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Davis Bayou Channel Daybeacon 36	R "36" Priv	N 30 23' 15.000"	W 088 47' 29.000"	30.3875	-88.79139	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Old Fort Bayou Channel Daybeacon 4	R "4" Priv	N 30 25' 00.000"	W 088 51' 11.000"	30.41667	-88.85306	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Old Fort Bayou Channel Daybeacon 5	G "5" Priv	N 30 25' 08.000"	W 088 51' 15.000"	30.41889	-88.85416	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Old Fort Bayou Channel Daybeacon 8	R "8" Priv	N 30 25' 27.000"	W 088 51' 16.000"	30.42417	-88.85445	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Old Fort Bayou Channel Daybeacon 9	G "9" Priv	N 30 25' 35.000"	W 088 51' 15.000"	30.42639	-88.85416	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Old Fort Bayou Channel Daybeacon 10	R "10" Priv	N 30 25' 35.000"	W 088 51' 14.000"	30.42639	-88.85389	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Old Fort Bayou Channel Daybeacon 12	R "12" Priv	N 30 25' 38.000"	W 088 51' 07.000"	30.42722	-88.85194	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Old Fort Bayou Channel Daybeacon 13	G "13" Priv	N 30 25' 37.000"	W 088 51' 04.000"	30.42694	-88.85111	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Old Fort Bayou Channel Daybeacon 14	R "14" Priv	N 30 25' 37.000"	W 088 51' 01.000"	30.42694	-88.85028	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Old Fort Bayou Channel Daybeacon 16	R "16" Priv	N 30 25' 44.000"	W 088 50' 53.000"	30.42889	-88.84805	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Old Fort Bayou Channel Daybeacon 18	R "18" Priv	N 30 25' 24.000"	W 088 50' 44.000"	30.42333	-88.84556	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Old Fort Bayou Channel Daybeacon 20	R "20" Priv	N 30 25' 20.000"	W 088 50' 41.000"	30.42222	-88.84472	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Old Fort Bayou Channel Daybeacon 21	G "21" Priv	N 30 25' 17.000"	W 088 50' 32.000"	30.42139	-88.84222	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Old Fort Bayou Channel Daybeacon 22	R "22" Priv	N 30 25' 17.000"	W 088 50' 26.000"	30.42139	-88.84055	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Old Fort Bayou Channel Daybeacon 24	R "24" Priv	N 30 25' 17.000"	W 088 50' 18.000"	30.42139	-88.83833	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Old Fort Bayou Channel Daybeacon 26	R "26" Priv	N 30 25' 15.000"	W 088 50' 14.000"	30.42083	-88.83722	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Old Fort Bayou Channel Daybeacon 28	R "28" Priv	N 30 25' 10.000"	W 088 50' 09.000"	30.41945	-88.83583	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Old Fort Bayou Channel Daybeacon 30	R "30" Priv	N 30 25' 07.000"	W 088 49' 56.000"	30.41861	-88.83222	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Delete	Davis Bayou Channel Daybeacon 26	R "26" Priv	N 30 23' 27.000"	W 088 48' 00.000"	30.39083	-88.8	LNM 08/13, 8th Dist	22	11372_2	2/28/2013
+11372	Relocate	Ship Island Light	Fl 6s 82ft 6M	N 30 12' 45.414"	W 088 57' 58.736"	30.21261	-88.96632	LNM 04/13, 8th Dist	21	11372_1	2/4/2013
+11372	Relocate	Gulfport Upper Reach Outbound Range Rear Light	{Fl 6s 82ft 6M, Iso 6s 81ft	N 30 12' 45.414"	W 088 57' 58.736"	30.21261	-88.96632	LNM 02/13, 8th Dist	21	11372_1	1/23/2013
+11372	Delete	Bernard Bayou Light 13	Fl G 2.5s 17ft 3M "13" PA Ra Ref	N 30 25' 43.408"	W 089 04' 24.535"	30.42872	-89.07348	LNM 50/12, 8th Dist	22	11372_2	12/20/2012
+11372	Add	Bernard Bayou Lighted Buoy 13	G "13" Fl G 2.5s	N 30 25' 43.528"	W 089 04' 24.528"	30.42876	-89.07348	LNM 50/12, 8th Dist	22	11372_2	12/20/2012
+11372	Relocate	Bernard Bayou Light 1	Fl G 6s 17ft 4M "1"	N 30 24' 57.428"	W 089 00' 14.901"	30.41595	-89.00414	LNM 48/12, 8th Dist	22	11372_2	12/6/2012
+11372	Relocate	Square Handkerchief Shoal Light 4	Fl R 4s 17ft 4M "4" Ra Ref	N 30 16' 23.365"	W 089 18' 58.347"	30.27316	-89.31621	LNM 48/12, 8th Dist	21	11372_1	12/6/2012
+11372	Relocate	Square Handkerchief Shoal Light 4	Fl R 4s 17ft 4M "4" Ra Ref	N 30 16' 23.365"	W 089 18' 58.347"	30.27316	-89.31621	LNM 48/12, 8th Dist	22	11372_2	12/6/2012
+11372	Add	Pile	Pile PA      Chart No. 1: F22	N 30 18' 30.000"	W 089 18' 30.000"	30.30833	-89.30833	LNM 47/12, 8th Dist	22	11372_2	11/29/2012

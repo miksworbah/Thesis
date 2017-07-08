@@ -1,0 +1,2 @@
+Chart: 19326, Current Edition: 7, Print Date: Jul. /2014, Pa‘auhau Landing Island Of Hawai‘i
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

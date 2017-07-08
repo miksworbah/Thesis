@@ -1,0 +1,11 @@
+Chart: 14845, Current Edition: 28, Print Date: Mar. /2014, Sandusky Harbor
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14845	Change	tabulation - SANDUSKY HARBOR CHANNEL DEPTHS	tabulation - SANDUSKY HARBOR CHANNEL DEPTHS	N 41 26' 56.000"	W 082 42' 02.000"	41.44889	-82.70055	LNM 06/17, 9th Dist	1210	14845_1	2/2/2017
+14845	Change	Moseley Channel Lighted Bell Buoy 1 AIS	G "1" Fl G 4s BELL AIS	N 41 30' 20.276"	W 082 39' 45.647"	41.50563	-82.66268	LNM 50/16, 9th Dist	1210	14845_1	1/19/2017
+14845	Change	Moseley Channel Lighted Buoy 2 AIS	R "2" Fl R 4s AIS	N 41 30' 23.576"	W 082 39' 48.647"	41.50655	-82.66351	LNM 50/16, 9th Dist	1210	14845_1	1/19/2017
+14845	Change	tabulation - Sandusky Harbor Channel	tabulation - Sandusky Harbor Channel	N 41 27' 02.000"	W 082 42' 03.000"	41.45055	-82.70084	LNM 08/16, 9th Dist	1210	14845_1	12/31/2015
+14845	Change	Sandusky Harbor Breakwater Light	Fl 6s 30ft 12 St M HORN (MRASS)	N 41 29' 57.148"	W 082 40' 28.880"	41.49921	-82.67469	LNM 38/15, 9th Dist	1210	14845_1	12/3/2015
+14845	Add	Note: MARINER ACTIVATED SOUND SIGNAL: SANDUSKY HARBOR BREAKWATER LIGHT (MRASS)	MARINER ACTIVATED SOUND SIGNAL:SANDUSKY HARBOR BREAKWATER LIGHT (MRASS) Horn is activated by keying the mic 5 times on VHF-FM Ch 83A.	N 41 29' 57.148"	W 082 40' 28.880"	41.49921	-82.67469	LNM 38/15, 9th Dist	1210	14845_1	12/3/2015
+14845	Change	tabulation - Sandusky Harbor, OH	tabulation - Sandusky Harbor, OH	N 41 27' 02.000"	W 082 42' 03.000"	41.45055	-82.70084	LNM 34/15, 9th Dist	1210	14845_1	10/1/2015
+14845	Delete	Sandusky Turning Basin Buoy 25	G C "25"	N 41 27' 12.684"	W 082 43' 44.563"	41.45352	-82.72904	LNM 17/15, 9th Dist	1210	14845_1	5/21/2015
+14845	Add	Obstruction	Obstn PA	N 41 28' 14.220"	W 082 42' 09.420"	41.47062	-82.70261	LNM 27/14, 9th Dist	1210	14845_1	7/17/2014

@@ -1,0 +1,4 @@
+Chart: 17404, Current Edition: 15, Print Date: Oct. /2013, San Christoval Channel to Cape Lynch
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+17404	Change	Hermanos Islands Reef Lighted Buoy 8	R "8" Fl R 4s	N 55 33' 44.065"	W 133 17' 46.759"	55.56224	-133.2963	LNM 19/16, 17th Dist	2720	17404_1	5/26/2016
+17404	Change	White Cliff Lighted Buoy 12	R "12" Fl R 4s	N 55 43' 55.262"	W 133 39' 41.081"	55.73202	-133.6614	LNM 02/16, 17th Dist	2720	17404_1	1/28/2016

@@ -1,0 +1,18 @@
+Chart: 14816, Current Edition: 24, Print Date: Feb. /2004, Lower Niagara River
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14816	Add	Safety Zone Label	SAFETY ZONE 165.02 (see note A)	N 43 07' 08.990"	W 079 03' 44.340"	43.11916	-79.06232	Not Yet Published	1132	14816_1	7/6/2017
+14816	Add	Safety Zone PT 1 OF 4	Chart No. 1: N1.2	N 43 07' 10.730"	W 079 04' 01.920"	43.11965	-79.0672	Not Yet Published	1132	14816_1	7/6/2017
+14816	Add	Safety Zone PT 2 OF 4	Chart No. 1: N1.2	N 43 07' 09.660"	W 079 04' 04.900"	43.11935	-79.06803	Not Yet Published	1132	14816_1	7/6/2017
+14816	Add	Safety Zone PT 3 OF 4	Chart No. 1: N1.2	N 43 06' 33.900"	W 079 03' 27.710"	43.10942	-79.05769	Not Yet Published	1132	14816_1	7/6/2017
+14816	Add	Safety Zone PT 4 OF 4	Chart No. 1: N1.2	N 43 06' 33.590"	W 079 03' 30.080"	43.10933	-79.05836	Not Yet Published	1132	14816_1	7/6/2017
+14816	Add	Safety Zone Label	SAFETY ZONE 165.02 (see note A)	N 43 06' 38.370"	W 079 03' 11.060"	43.11066	-79.05307	Not Yet Published	1132	14816_1	7/6/2017
+14816	Delete	Overhead Power Cable  PT 1 OF 4	Chart No. 1: D26  	N 43 08' 58.510"	W 079 02' 40.580"	43.14959	-79.04461	LNM 35/16, 9th Dist	1132	14816_1	7/7/2016
+14816	Delete	Overhead Power Cable  PT 2 OF 4	Chart No. 1: D26  	N 43 08' 59.230"	W 079 02' 25.510"	43.14979	-79.04042	LNM 35/16, 9th Dist	1132	14816_1	7/7/2016
+14816	Delete	Overhead Power Cable  PT 3 OF 4	Chart No. 1: D26  	N 43 08' 55.570"	W 079 02' 38.660"	43.14877	-79.04408	LNM 35/16, 9th Dist	1132	14816_1	7/7/2016
+14816	Delete	Overhead Power Cable  PT 4 OF 4	Chart No. 1: D26  	N 43 08' 59.230"	W 079 02' 25.510"	43.14979	-79.04042	LNM 35/16, 9th Dist	1132	14816_1	7/7/2016
+14816	Delete	Overhead Power Cable Label	OVHD CABS	N 43 08' 59.910"	W 079 02' 19.600"	43.14997	-79.03878	LNM 35/16, 9th Dist	1132	14816_1	7/7/2016
+14816	Change	FORT NIAGARA LIGHT 5	Oc G 4s 80ft 10 St M(24m 9NM) "5"	N 43 15' 42.530"	W 079 03' 50.040"	43.26181	-79.0639	LNM 33/13, 9th Dist	1132	14816_1	8/15/2013
+14816	Add	note Z No-Discharge Zone	note Z No-Discharge Zone, 40 CFR 140 Under the Clean Water Act, Section 312, all vessels operating within a No-Discharge Zone (NDZ) are completely prohibited from discharging any sewage, treated or untreated, into the waters. Commercial vessel sewage shall include graywater. All vessels with an installed marine sanitation device (MSD) that are navigating, moored, anchored, or docked within a NDZ must have the MSD disabled to prevent the overboard discharge of sewage (treated or untreated) or install a holding tank. Regulations for the NDZ are contained in the U. S. Coast Pilot. Additional information concerning the regulations and requirements may be obtained from the Environmental Protection Agency (EPA) web site: http://www.epa.gov/owow/oceans/regulatory/vessel_sewage/. 	N 43 10' 26.000"	W 078 59' 00.000"	43.17389	-78.98333	LNM 20/12, 9th Dist	1132	14816_1	5/17/2012
+14816	Add	No-Discharge Zone Label	NO-DISCHARGE ZONE(see note Z)	N 43 18' 20.000"	W 079 01' 31.000"	43.30556	-79.02528	LNM 20/12, 9th Dist	1132	14816_1	5/17/2012
+14816	Change	Fort Niagara Light	Oc 4s 24m 9NM (or 80ft 10 St M)	N 43 15' 42.530"	W 079 03' 50.040"	43.26181	-79.0639	LNM 37/06, 9th Dist	1132	14816_1	2/13/2008
+14816	Add	chartlet	chartlet	N 43 06' 00.000"	W 078 58' 00.000"	43.1	-78.96667	LNM 12/05, 9th Dist	1132	14816_1	2/13/2008

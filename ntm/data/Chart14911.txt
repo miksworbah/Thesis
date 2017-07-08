@@ -1,0 +1,8 @@
+Chart: 14911, Current Edition: 22, Print Date: Feb. /2016, Waugoshance Point to Seul Choix Point, including Beaver Island Group;Port Inland;Beaver Harbor
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14911	Change	Grays Reef Passage Channel Lighted Buoy 7 AIS	G "7" Fl G 4s AIS	N 45 45' 44.377"	W 085 08' 29.152"	45.76233	-85.14143	LNM 50/16, 9th Dist	1391	14911_1	1/19/2017
+14911	Change	New Shoal Lighted Buoy 1 AIS	G "1" Fl G 4s AIS	N 45 49' 16.280"	W 085 05' 16.788"	45.82119	-85.088	LNM 50/16, 9th Dist	1391	14911_1	1/19/2017
+14911	Change	New Shoal Lighted Bell Buoy 3 AIS	G "3" Fl G 2.5s BELL AIS	N 45 48' 53.619"	W 085 08' 00.517"	45.8149	-85.13348	LNM 50/16, 9th Dist	1391	14911_1	1/19/2017
+14911	Change	St. James Light	Iso R 6s 38ft 11 St M	N 45 44' 34.030"	W 085 30' 31.010"	45.74279	-85.50861	LNM 47/16, 9th Dist	1393	14911_3	12/1/2016
+14911	Change	St. James Light	Iso R 6s 38ft 11 St M	N 45 44' 34.030"	W 085 30' 31.010"	45.74279	-85.50861	LNM 47/16, 9th Dist	1391	14911_1	12/1/2016
+14911	Change	Grays Reef Light	Fl R 10s 82ft 14 St M HORN RACON (--.)	N 45 45' 59.590"	W 085 09' 13.611"	45.76655	-85.15378	LNM 11/16, 9th Dist	1391	14911_1	3/31/2016

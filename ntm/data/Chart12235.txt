@@ -1,0 +1,48 @@
+Chart: 12235, Current Edition: 35, Print Date: Jan. /2017, Chesapeake Bay Rappahannock River Entrance, Piankatank and Great Wicomico Rivers
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12235	Relocate	Queens Creek Channel Daybeacon 11	G "11"	N 37 29' 11.956"	W 076 19' 58.063"	37.48666	-76.33279	LNM 25/17, 5th Dist	571	12235_1	6/29/2017
+12235	Add	Cockrell Creek Buoy 1A	G C "1A"	N 37 49' 10.244"	W 076 17' 03.043"	37.81951	-76.28418	LNM 25/17, 5th Dist	571	12235_1	6/29/2017
+12235	Add	Great Wicomico River Buoy 9A	G C "9A"	N 37 49' 28.011"	W 076 18' 12.557"	37.82445	-76.30349	LNM 25/17, 5th Dist	571	12235_1	6/29/2017
+12235	Change	Piankatank River Light 13	Fl G 2.5s 15ft 4M "13"	N 37 31' 57.838"	W 076 22' 27.186"	37.53273	-76.37422	LNM 25/17, 5th Dist	571	12235_1	6/29/2017
+12235	Relocate	Broad Creek Channel Daybeacon 10	R "10"	N 37 33' 33.837"	W 076 18' 50.604"	37.5594	-76.31406	LNM 21/17, 5th Dist	571	12235_1	6/1/2017
+12235	Delete	Cranes Creek Channel Daybeacon 2	R "2"	N 37 48' 55.348"	W 076 18' 20.229"	37.81538	-76.30562	LNM 20/17, 5th Dist	571	12235_1	5/25/2017
+12235	Delete	Cranes Creek Channel Daybeacon 6	R "6"	N 37 48' 57.703"	W 076 18' 37.474"	37.81603	-76.31041	LNM 20/17, 5th Dist	571	12235_1	5/25/2017
+12235	Delete	Cranes Creek Channel Daybeacon 4	R "4"	N 37 48' 59.555"	W 076 18' 31.522"	37.81654	-76.30875	LNM 20/17, 5th Dist	571	12235_1	5/25/2017
+12235	Add	Cranes Creek Buoy 2	R N "2"	N 37 48' 55.319"	W 076 18' 20.205"	37.81536	-76.30561	LNM 20/17, 5th Dist	571	12235_1	5/25/2017
+12235	Add	Cranes Creek Buoy 3	G C "3"	N 37 48' 57.851"	W 076 18' 31.167"	37.81607	-76.30865	LNM 20/17, 5th Dist	571	12235_1	5/25/2017
+12235	Add	Cranes Creek Buoy 5	G C "5"	N 37 48' 56.933"	W 076 18' 36.001"	37.81581	-76.31	LNM 20/17, 5th Dist	571	12235_1	5/25/2017
+12235	Relocate	Carter Creek Daybeacon 3	G "3"	N 37 39' 00.354"	W 076 26' 34.275"	37.6501	-76.44286	LNM 17/17, 5th Dist	571	12235_1	5/4/2017
+12235	Relocate	Carter Creek Daybeacon 4	R "4"	N 37 39' 08.806"	W 076 26' 26.946"	37.65245	-76.44082	LNM 17/17, 5th Dist	571	12235_1	5/4/2017
+12235	Relocate	Carter Creek Light 7	Fl G 2.5s 15ft 4M "7"	N 37 39' 12.945"	W 076 26' 27.716"	37.65359	-76.44103	LNM 17/17, 5th Dist	571	12235_1	5/4/2017
+12235	Relocate	Carter Creek Eastern Branch Light 1	Fl G 4s 15ft 4M "1"	N 37 39' 12.749"	W 076 25' 51.806"	37.65354	-76.43106	LNM 17/17, 5th Dist	571	12235_1	5/4/2017
+12235	Change	Piankatank River Light 5	Q G 15ft 4M "5"	N 37 31' 41.927"	W 076 18' 22.614"	37.52831	-76.30628	LNM 16/17, 5th Dist	571	12235_1	4/27/2017
+12235	Relocate	Jackson Creek Channel Buoy 6	R N "6"	N 37 32' 50.158"	W 076 19' 19.673"	37.54727	-76.32213	LNM 16/17, 5th Dist	571	12235_1	4/27/2017
+12235	Relocate	Piankatank River Warning Daybeacon	W Bn	N 37 31' 55.240"	W 076 22' 21.546"	37.53201	-76.37265	LNM 16/17, 5th Dist	571	12235_1	4/27/2017
+12235	Change	Piankatank River Warning Daybeacon	W Bn	N 37 31' 55.240"	W 076 22' 21.546"	37.53201	-76.37265	LNM 16/17, 5th Dist	571	12235_1	4/27/2017
+12235	Add	Piankatank River Light 13	Fl G 2.5s 4M "13"	N 37 31' 57.838"	W 076 22' 27.186"	37.53273	-76.37422	LNM 16/17, 5th Dist	571	12235_1	4/27/2017
+12235	Relocate	Jackson Creek Channel Buoy 3	G C "3"	N 37 32' 46.311"	W 076 19' 17.971"	37.5462	-76.32166	LNM 16/17, 5th Dist	571	12235_1	4/27/2017
+12235	Relocate	Jackson Creek Channel Buoy 4	R N "4"	N 37 32' 46.852"	W 076 19' 17.008"	37.54635	-76.32139	LNM 16/17, 5th Dist	571	12235_1	4/27/2017
+12235	Relocate	Jackson Creek Channel Buoy 5	G C "5"	N 37 32' 49.018"	W 076 19' 19.858"	37.54695	-76.32218	LNM 16/17, 5th Dist	571	12235_1	4/27/2017
+12235	Delete	Piankatank River Light 8	Fl R 2.5s 15ft 4M "8"	N 37 30' 51.524"	W 076 18' 54.890"	37.51431	-76.31525	LNM 15/17, 5th Dist	571	12235_1	4/20/2017
+12235	Add	Piankatank River Lighted Buoy 8	R "8" Q R	N 37 30' 47.562"	W 076 18' 54.020"	37.51321	-76.315	LNM 15/17, 5th Dist	571	12235_1	4/20/2017
+12235	Delete	Piankatank River Buoy 8A	R N "8A"	N 37 30' 47.483"	W 076 19' 00.793"	37.51319	-76.31689	LNM 15/17, 5th Dist	571	12235_1	4/20/2017
+12235	Delete	Piankatank River Daybeacon 10A	R "10A"	N 37 31' 24.960"	W 076 20' 09.473"	37.5236	-76.33597	LNM 15/17, 5th Dist	571	12235_1	4/20/2017
+12235	Relocate	Piankatank River Light 7	Fl G 2.5s 16ft 4M "7"	N 37 31' 15.220"	W 076 18' 41.421"	37.52089	-76.31151	LNM 15/17, 5th Dist	571	12235_1	4/20/2017
+12235	Relocate	Piankatank River Light 10	Fl R 4s 15ft 4M "10"	N 37 31' 29.423"	W 076 20' 19.471"	37.52484	-76.33875	LNM 15/17, 5th Dist	571	12235_1	4/20/2017
+12235	Delete	Jackson Creek Channel Daybeacon 7	G "7"	N 37 32' 48.692"	W 076 19' 21.995"	37.54686	-76.32278	LNM 15/17, 5th Dist	571	12235_1	4/20/2017
+12235	Relocate	Jackson Creek Channel Daybeacon 8	R "8"	N 37 32' 46.647"	W 076 19' 39.269"	37.54629	-76.32758	LNM 15/17, 5th Dist	571	12235_1	4/20/2017
+12235	Change	Jackson Creek Channel Daybeacon 8	R "8"	N 37 32' 46.647"	W 076 19' 39.269"	37.54629	-76.32758	LNM 15/17, 5th Dist	571	12235_1	4/20/2017
+12235	Relocate	Jackson Creek Channel Daybeacon 7	G "7"	N 37 32' 47.690"	W 076 19' 30.098"	37.54658	-76.32503	LNM 15/17, 5th Dist	571	12235_1	4/20/2017
+12235	Change	Jackson Creek Channel Daybeacon 7	G "7"	N 37 32' 47.690"	W 076 19' 30.098"	37.54658	-76.32503	LNM 15/17, 5th Dist	571	12235_1	4/20/2017
+12235	Relocate	Jackson Creek Channel Buoy 3	G C "3"	N 37 32' 46.311"	W 076 19' 17.971"	37.5462	-76.32166	LNM 11/17, 5th Dist	571	12235_1	3/23/2017
+12235	Relocate	Jackson Creek Channel Buoy 4	R N "4"	N 37 32' 46.852"	W 076 19' 17.008"	37.54635	-76.32139	LNM 11/17, 5th Dist	571	12235_1	3/23/2017
+12235	Add	Jackson Creek Channel Buoy 6	R N "6"	N 37 32' 50.158"	W 076 19' 19.673"	37.54727	-76.32213	LNM 11/17, 5th Dist	571	12235_1	3/23/2017
+12235	Relocate	Piankatank River Light 6	Q R 15ft 4M "6"	N 37 31' 55.003"	W 076 19' 06.090"	37.53194	-76.31836	LNM 10/17, 5th Dist	571	12235_1	3/16/2017
+12235	Relocate	Jackson Creek Channel Buoy 3	G C "3"	N 37 32' 47.302"	W 076 19' 18.112"	37.54647	-76.3217	LNM 07/17, 5th Dist	571	12235_1	2/23/2017
+12235	Relocate	Jackson Creek Channel Buoy 5	G C "5"	N 37 32' 49.018"	W 076 19' 19.858"	37.54695	-76.32218	LNM 07/17, 5th Dist	571	12235_1	2/23/2017
+12235	Relocate	Jackson Creek Channel Daybeacon 7	G "7"	N 37 32' 48.692"	W 076 19' 21.995"	37.54686	-76.32278	LNM 07/17, 5th Dist	571	12235_1	2/23/2017
+12235	Relocate	Jackson Creek Channel Daybeacon 9	G "9"	N 37 32' 47.390"	W 076 19' 30.175"	37.5465	-76.32505	LNM 07/17, 5th Dist	571	12235_1	2/23/2017
+12235	Change	Jackson Creek Channel Daybeacon 7	G "7"	N 37 32' 48.692"	W 076 19' 21.995"	37.54686	-76.32278	LNM 07/17, 5th Dist	571	12235_1	2/23/2017
+12235	Change	Jackson Creek Channel Daybeacon 9	G "9"	N 37 32' 47.390"	W 076 19' 30.175"	37.5465	-76.32505	LNM 07/17, 5th Dist	571	12235_1	2/23/2017
+12235	Relocate	Jackson Creek Channel Daybeacon 10	R "10"	N 37 32' 46.742"	W 076 19' 38.811"	37.54632	-76.32745	LNM 07/17, 5th Dist	571	12235_1	2/23/2017
+12235	Relocate	Jackson Creek Channel Buoy 4	R N "4"	N 37 32' 47.695"	W 076 19' 17.429"	37.54658	-76.32151	LNM 07/17, 5th Dist	571	12235_1	2/23/2017

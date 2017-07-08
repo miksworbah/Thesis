@@ -1,0 +1,4 @@
+Chart: 14939, Current Edition: 24, Print Date: Oct. /2015, Portage Lake
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14939	Change	Portage Lake North Pierhead Light	Fl G 4s 32ft 5 St M HORN (MRASS)	N 44 21' 37.470"	W 086 16' 04.940"	44.36041	-86.26804	LNM 38/15, 9th Dist	1495	14939_1	12/3/2015
+14939	Add	Note: MARINER ACTIVATED SOUND SIGNAL: PORTAGE LAKE NORTH PIERHEAD LIGHT (MRASS)	MARINER ACTIVATED SOUND SIGNAL: PORTAGE LAKE NORTH PIERHEAD LIGHT (MRASS) Horn is activated by keying the mic 5 times on VHF-FM Ch 83A.	N 44 21' 37.470"	W 086 16' 14.940"	44.36041	-86.27081	LNM 38/15, 9th Dist	1495	14939_1	12/3/2015

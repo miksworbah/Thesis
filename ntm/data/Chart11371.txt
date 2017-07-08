@@ -1,0 +1,40 @@
+Chart: 11371, Current Edition: 41, Print Date: Mar. /2017, Lake Borgne and approaches Cat Island to Point aux Herbes
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 13' 04.396"	W 089 26' 04.780"	30.21789	-89.43466	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 12' 56.964"	W 089 26' 08.810"	30.21582	-89.43578	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 12' 51.776"	W 089 26' 12.790"	30.21438	-89.43689	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 12' 42.227"	W 089 26' 25.430"	30.21173	-89.4404	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 12' 40.748"	W 089 26' 27.420"	30.21132	-89.44095	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 12' 39.889"	W 089 26' 29.340"	30.21108	-89.44148	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 12' 38.901"	W 089 26' 31.450"	30.21081	-89.44207	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 12' 34.230"	W 089 26' 36.110"	30.20951	-89.44337	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 12' 19.085"	W 089 26' 48.590"	30.2053	-89.44683	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 12' 08.692"	W 089 26' 48.560"	30.20241	-89.44682	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 12' 05.917"	W 089 26' 55.250"	30.20164	-89.44868	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 12' 03.263"	W 089 26' 56.090"	30.20091	-89.44891	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 11' 53.420"	W 089 26' 54.800"	30.19817	-89.44855	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 11' 40.977"	W 089 26' 51.770"	30.19472	-89.44772	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 11' 39.868"	W 089 26' 50.460"	30.19441	-89.44735	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 11' 33.649"	W 089 26' 50.980"	30.19268	-89.44749	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 11' 23.714"	W 089 26' 48.020"	30.18992	-89.44667	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 11' 15.831"	W 089 26' 50.930"	30.18773	-89.44748	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 11' 14.153"	W 089 26' 52.350"	30.18727	-89.44788	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 11' 08.034"	W 089 26' 59.620"	30.18557	-89.4499	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 11' 01.549"	W 089 27' 05.210"	30.18376	-89.45145	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 11' 00.085"	W 089 27' 09.430"	30.18336	-89.45262	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 11' 00.001"	W 089 27' 11.130"	30.18333	-89.45309	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 10' 53.429"	W 089 27' 20.820"	30.18151	-89.45578	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 10' 45.203"	W 089 27' 26.920"	30.17922	-89.45748	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 10' 38.495"	W 089 27' 32.450"	30.17736	-89.45901	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 10' 33.979"	W 089 27' 40.470"	30.17611	-89.46124	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 10' 36.562"	W 089 27' 59.130"	30.17682	-89.46642	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 10' 32.804"	W 089 27' 56.840"	30.17578	-89.46579	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 10' 31.483"	W 089 27' 51.970"	30.17541	-89.46444	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Mississippi DEQ Danger Breakwater Light	Fl 2.5s Priv	N 30 10' 32.433"	W 089 27' 44.910"	30.17568	-89.46248	LNM 21/17, 8th Dist	53	11371_1	6/8/2017
+11371	Add	Dangerous Wreck	PA     Chart No. 1: K28	N 30 12' 12.700"	W 089 49' 59.200"	30.20353	-89.83311	LNM 20/17, 8th Dist	53	11371_1	6/1/2017
+11371	Add	Port of Gulfport Mooring Pile Light	Fl 2.5s Priv	N 30 21' 31.300"	W 089 05' 33.370"	30.35869	-89.09261	LNM 15/17, 8th Dist	53	11371_1	4/20/2017
+11371	Add	Port of Gulfport Mooring Pile Light	Fl 2.5s Priv	N 30 21' 37.130"	W 089 05' 36.040"	30.36031	-89.09335	LNM 15/17, 8th Dist	53	11371_1	4/20/2017
+11371	Change	Depth Note - Bayou Caddy to:	The controlling depth from Lt 1 to Lt 5 was 6 feet for a mid-width of 50 feet; thence 7 1/2 feet for a mid width of 40 feet to 1800' upstream of beacon 5; thence 1 foot for a width of 60 feet to the end of the project. Oct 2016	N 30 14' 59.500"	W 089 29' 11.490"	30.24986	-89.48653	LNM 14/17, 8th Dist	53	11371_1	4/6/2017
+11371	Change	Depth Legend - BAYOU PORTAGE to:	5 1/2 FT FOR A WIDTH OF 100 FT OCT 2016	N 30 20' 31.270"	W 089 16' 34.920"	30.34202	-89.27637	LNM 14/17, 8th Dist	53	11371_1	4/6/2017
+11371	Change	Depth Legend - BAYOU PORTAGE to:	5 1/2 FT FOR A WIDTH OF 100 FT OCT 2016	N 30 20' 04.700"	W 089 15' 05.510"	30.33464	-89.25153	LNM 14/17, 8th Dist	53	11371_1	4/6/2017
+11371	Change	Depth Legend - Wolf River to:	2 1/2 FT OCT 2016	N 30 21' 02.190"	W 089 17' 53.030"	30.35061	-89.29807	LNM 14/17, 8th Dist	53	11371_1	4/6/2017

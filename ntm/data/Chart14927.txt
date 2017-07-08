@@ -1,0 +1,7 @@
+Chart: 14927, Current Edition: 26, Print Date: Dec. /2016, Chicago Lake Front;Gary Harbor
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14927	Change	Chicago Lake Front Northeast Shoal Lighted Buoy 2 AIS	R "2" Fl R 4s RACON (-.-.) AIS	N 41 45' 36.268"	W 087 28' 02.018"	41.76007	-87.46722	LNM 50/16, 9th Dist	1482	14927_1	1/19/2017
+14927	Relocate	Calumet Harbor Lighted Buoy 7	G "7" Fl G 4s	N 41 43' 48.248"	W 087 30' 43.758"	41.73007	-87.51215	Not Yet Published	1482	14927_1	12/15/2016
+14927	Relocate	Calumet Harbor Lighted Buoy 1	G "1" Fl G 4s	N 41 43' 07.704"	W 087 29' 48.694"	41.71881	-87.49686	Not Yet Published	1482	14927_1	12/15/2016
+14927	Relocate	Calumet Harbor Buoy 3	G C "3" 	N 41 43' 15.125"	W 087 29' 58.770"	41.72087	-87.49966	Not Yet Published	1482	14927_1	12/15/2016
+14927	Relocate	Calumet Harbor Buoy 5	G C "5"	N 41 43' 38.376"	W 087 30' 30.348"	41.72733	-87.50843	Not Yet Published	1482	14927_1	12/15/2016

@@ -1,0 +1,9 @@
+Chart: 1116A, Current Edition: 80, Print Date: Jul. /2017, Mississippi River to Galveston (Oil and Gas Leasing Areas)
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+1116A	Delete	Submerged Obstruction	Chart No. 1: K40	N 28 37' 31.000"	W 092 53' 30.000"	28.62528	-92.89167	LNM 26/17, 8th Dist	2996	1116A_1	Not Yet
+1116A	Delete	Submerged Obstruction	Subm platform (ruins) PA      Chart No. 1: Kl	N 28 37' 36.000"	W 092 53' 54.900"	28.62667	-92.89858	LNM 26/17, 8th Dist	2996	1116A_1	Not Yet
+1116A	Delete	Visible Obstruction	Obstn PA      Chart No. 1: F22	N 28 37' 19.800"	W 092 53' 20.400"	28.62217	-92.889	LNM 26/17, 8th Dist	2996	1116A_1	Not Yet
+1116A	Add	Dangerous Wreck	PA     Chart No. 1: K28	N 28 52' 48.000"	W 094 27' 12.000"	28.88	-94.45333	LNM 26/17, 8th Dist	2996	1116A_1	Not Yet
+1116A	Delete	WELL LIGHTED BUOY	G Q G Priv Well (cov 198 ft)	N 28 15' 43.886"	W 092 59' 34.651"	28.26219	-92.99296	LNM 26/17, 8th Dist	2996	1116A_1	Not Yet
+1116A	Delete	Platform (Explore-100-1)	Chart No. 1: L10	N 28 39' 01.630"	W 092 39' 41.740"	28.65045	-92.6616	LNM 26/17, 8th Dist	2996	1116A_1	Not Yet
+1116A	Delete	TEXACO-SP-54-A RACON	RACON (-..-)     Chart No. 1: S3.1	N 28 51' 58.000"	W 089 15' 39.000"	28.86611	-89.26083	LNM 26/17, 8th Dist	2996	1116A_1	Not Yet

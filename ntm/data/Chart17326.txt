@@ -1,0 +1,19 @@
+Chart: 17326, Current Edition: 17, Print Date: Nov. /2011, Crawfish Inlet to Sitka, Baranof I.;Sawmill Cove
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+17326	Add	Japonski Island Buoy 2	R "2"	N 57 03' 25.396"	W 135 22' 28.221"	57.05705	-135.3745	LNM 49/16, 17th Dist	2654	17326_1	12/15/2016
+17326	Delete	Japonski Island Daybeacon 2	R "2"	N 57 03' 25.386"	W 135 22' 27.282"	57.05705	-135.3743	LNM 49/16, 17th Dist	2654	17326_1	12/15/2016
+17326	Relocate	Crescent Harbor East Breakwater Light 4	Fl R 2.5s 19ft 4M "4"	N 57 02' 57.414"	W 135 19' 48.774"	57.04928	-135.3302	LNM 11/16, 17th Dist	2654	17326_1	3/31/2016
+17326	Relocate	Battery Island Light 6	Fl R 6s 16ft 4M "6"	N 57 03' 34.614"	W 135 22' 54.534"	57.05962	-135.3818	LNM 11/16, 17th Dist	2654	17326_1	3/31/2016
+17326	Relocate	Turning Island Light 11	Fl G 2.5s 16ft 4M "11"	N 57 02' 35.922"	W 135 20' 11.586"	57.04331	-135.3365	LNM 51/15, 17th Dist	2654	17326_1	1/7/2016
+17326	Add	Breakwater PT 1 OF 3	**Chart No. 1: F4.1**	N 57 03' 31.360"	W 135 22' 05.180"	57.05871	-135.3681	LNM 01/15, 17th Dist	2654	17326_1	1/15/2015
+17326	Add	Breakwater PT 2 OF 3	**Chart No. 1: F4.1**	N 57 03' 31.090"	W 135 22' 05.010"	57.05864	-135.3681	LNM 01/15, 17th Dist	2654	17326_1	1/15/2015
+17326	Add	Breakwater PT 3 OF 3	**Chart No. 1: F4.1**	N 57 03' 29.550"	W 135 22' 00.510"	57.05821	-135.3668	LNM 01/15, 17th Dist	2654	17326_1	1/15/2015
+17326	Delete	Sitka Breakwater Lighted Buoy 8	R "8" Fl R 2.5s	N 57 03' 45.832"	W 135 22' 00.773"	57.06273	-135.3669	LNM 36/14, 17th Dist	2654	17326_1	10/2/2014
+17326	Relocate	Sitka Breakwater Light 8	Fl R 2.5s 19ft 4M "8"	N 57 03' 43.494"	W 135 22' 00.390"	57.06208	-135.3668	LNM 36/14, 17th Dist	2654	17326_1	10/2/2014
+17326	Add	Dangerous Wreck	**Chart No. 1 K:28**	N 57 03' 20.340"	W 135 21' 08.760"	57.05565	-135.3524	LNM 30/14, 17th Dist	2654	17326_1	8/7/2014
+17326	Add	Sitka Breakwater Lighted Buoy 8	R "8" Fl R 2.5s	N 57 03' 45.832"	W 135 22' 00.773"	57.06273	-135.3669	LNM 25/14, 17th Dist	2654	17326_1	7/10/2014
+17326	Change	Vitskari Island Light	Fl 6s 53ft 8M RACON ( - - - )	N 57 00' 00.048"	W 135 32' 42.258"	57.00001	-135.5451	LNM 19/14, 17th Dist	2654	17326_1	5/22/2014
+17326	Add	Submerged Wreck (Dangerous)	Chart No 1 K-28	N 57 03' 24.660"	W 135 21' 17.400"	57.05685	-135.3548	LNM 49/13, 17th Dist	2654	17326_1	12/10/2013
+17326	Relocate	Mitchell Rock Daybeacon	RW Bn	N 57 02' 20.296"	W 135 20' 26.552"	57.03897	-135.3407	LNM 30/13, 17th Dist	2654	17326_1	7/31/2013
+17326	Delete	Sitka Southwest Entrance Light 3	Fl G 2.5s 15ft 3M "3"	N 57 03' 31.402"	W 135 22' 05.079"	57.05872	-135.3681	LNM 23/13, 17th Dist	2654	17326_1	6/17/2013
+17326	Delete	Sitka Southwest Entrance Daybeacon 4	R "4"	N 57 03' 29.052"	W 135 21' 59.881"	57.05807	-135.3666	LNM 23/13, 17th Dist	2654	17326_1	6/17/2013

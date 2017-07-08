@@ -1,0 +1,34 @@
+Chart: 11516, Current Edition: 32, Print Date: Dec. /2013, Port Royal Sound and Inland Passages
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11516	Change	Calibogue Sound Light 32	Q R 16ft 5M "32"	N 32 08' 59.617"	W 080 49' 49.530"	32.14989	-80.83042	LNM 06/17, 7th Dist	223	11516_1	2/23/2017
+11516	Relocate	Beaufort River Daybeacon 241A	G "241A"	N 32 24' 54.830"	W 080 40' 56.206"	32.41523	-80.68228	LNM 52/16, 7th Dist	223	11516_1	12/29/2016
+11516	Relocate	Calibogue Sound Entrance Lighted Buoy 6	R "6" Fl R 6s	N 32 06' 19.187"	W 080 49' 46.901"	32.10533	-80.8297	LNM 44/16, 7th Dist	223	11516_1	11/3/2016
+11516	Relocate	Jenkins Island Flat Daybeacon 27	G "27"	N 32 13' 07.139"	W 080 47' 12.191"	32.21865	-80.78672	LNM 28/16, 7th Dist	223	11516_1	7/21/2016
+11516	Delete	Port Royal Sound Light 1	Fl G 4s 16ft 4M "1"	N 32 15' 57.488"	W 080 41' 54.141"	32.26597	-80.69837	LNM 11/16, 7th Dist	223	11516_1	3/24/2016
+11516	Add	Port Royal Sound Lighted Buoy 1	G "1" Fl G 4s	N 32 15' 57.488"	W 080 41' 54.141"	32.26597	-80.69837	LNM 11/16, 7th Dist	223	11516_1	3/24/2016
+11516	Relocate	Beaufort River Light 240	Fl R 4s 16ft 3M "240"	N 32 25' 36.365"	W 080 41' 04.913"	32.42677	-80.6847	LNM 50/15, 7th Dist	223	11516_1	12/24/2015
+11516	Change	Beaufort River Light 240	Fl R 4s 16ft 5M "240"	N 32 25' 36.365"	W 080 41' 04.913"	32.42677	-80.6847	LNM 50/15, 7th Dist	223	11516_1	12/24/2015
+11516	Relocate	Port Royal Sound Channel Lighted Buoy 4	R "4" Fl R 4s	N 32 05' 55.200"	W 080 35' 03.760"	32.09867	-80.58438	LNM 44/15, 7th Dist	223	11516_1	11/12/2015
+11516	Delete	Port Royal Sound Channel Obstruction Light North	Fl 4s 20ft 5M	N 32 13' 43.784"	W 080 35' 59.062"	32.22883	-80.59974	LNM 43/15, 7th Dist	223	11516_1	11/5/2015
+11516	Delete	Port Royal Sound Channel Obstruction Light South	Fl 2.5s 33ft 5M	N 32 11' 53.548"	W 080 35' 46.641"	32.19821	-80.59629	LNM 43/15, 7th Dist	223	11516_1	11/5/2015
+11516	Change	Jenkins Island Flat Light 24	Fl R 4s 12ft 5M "24"	N 32 13' 09.620"	W 080 47' 18.495"	32.21934	-80.78847	LNM 40/15, 7th Dist	223	11516_1	10/15/2015
+11516	Change	Skull Creek Light 18	Fl R 2.5s 16ft 5M "18"	N 32 13' 32.597"	W 080 46' 01.905"	32.22572	-80.7672	LNM 40/15, 7th Dist	223	11516_1	10/15/2015
+11516	Change	Skull Creek Light 19	Fl G 4s 12ft 5M "19"	N 32 13' 26.053"	W 080 46' 01.532"	32.2239	-80.76709	LNM 28/15, 7th Dist	223	11516_1	7/23/2015
+11516	Relocate	Calibogue Sound Light 31	Fl G 4s 18ft 5M "31"	N 32 10' 01.731"	W 080 47' 45.848"	32.16715	-80.79607	LNM 23/15, 7th Dist	223	11516_1	6/18/2015
+11516	Change	Calibogue Sound Light 31	Fl G 4s 18ft 5M "31"	N 32 10' 01.731"	W 080 47' 45.848"	32.16715	-80.79607	LNM 23/15, 7th Dist	223	11516_1	6/18/2015
+11516	Change	Depth Legend - HARBOR TOWN MARINA to:	8 ft rep 2014	N 32 08' 16.500"	W 080 48' 41.000"	32.13792	-80.81139	LNM 23/15, 7th Dist	223	11516_1	6/11/2015
+11516	Delete	Sounding in Feet	4	N 32 08' 16.900"	W 080 48' 42.600"	32.13803	-80.81184	LNM 23/15, 7th Dist	223	11516_1	6/11/2015
+11516	Add	Beaufort River Obstruction Daybeacon A	W "A" Priv	N 32 25' 44.400"	W 080 39' 39.960"	32.429	-80.6611	LNM 21/15, 7th Dist	223	11516_1	6/4/2015
+11516	Add	Beaufort River Obstruction Daybeacon C	W "C" Priv	N 32 25' 45.840"	W 080 39' 39.240"	32.4294	-80.6609	LNM 21/15, 7th Dist	223	11516_1	6/4/2015
+11516	Change	Battery Creek Light 43	Fl G 4s 12ft 5M "43"	N 32 21' 58.716"	W 080 41' 04.714"	32.36631	-80.68464	LNM 18/15, 7th Dist	223	11516_1	5/14/2015
+11516	Change	Skull Creek Light 11	Fl G 4s 16ft 5M "11"	N 32 14' 34.364"	W 080 44' 54.241"	32.24288	-80.7484	LNM 16/15, 7th Dist	223	11516_1	4/30/2015
+11516	Change	Skull Creek Light 15	Fl G 4s 12ft 5M "15"	N 32 14' 00.732"	W 080 45' 30.444"	32.23354	-80.75845	LNM 16/15, 7th Dist	223	11516_1	4/30/2015
+11516	Change	Skull Creek Light 6	Fl R 4s 12ft 5M "6'	N 32 15' 46.968"	W 080 44' 31.848"	32.26305	-80.74218	LNM 16/15, 7th Dist	223	11516_1	4/30/2015
+11516	Change	Skull Creek Light 8	Fl R 4s 16ft 5M "8'	N 32 15' 05.570"	W 080 45' 13.045"	32.25155	-80.75362	LNM 16/15, 7th Dist	223	11516_1	4/30/2015
+11516	Change	Beaufort River Light 241	Fl G 4s 12ft 5M "241"	N 32 25' 04.957"	W 080 41' 00.898"	32.41805	-80.68359	LNM 10/15, 7th Dist	223	11516_1	3/19/2015
+11516	Change	Beaufort River Light 242	Fl R 4s 12ft 5M "242"	N 32 24' 26.743"	W 080 40' 30.494"	32.40743	-80.67514	LNM 10/15, 7th Dist	223	11516_1	3/19/2015
+11516	Relocate	Calibogue Sound Light 30	Fl R 2.5s 16ft 5M "30"	N 32 09' 59.819"	W 080 48' 31.549"	32.16661	-80.80876	LNM 51/14, 7th Dist	223	11516_1	1/1/2015
+11516	Relocate	Port Royal Sound Channel Lighted Buoy 8	R "8" Fl R 4s	N 32 07' 37.752"	W 080 35' 15.969"	32.12715	-80.58777	LNM 51/14, 7th Dist	223	11516_1	1/1/2015
+11516	Relocate	Skull Creek Light 14	Fl R 6s 16ft 5M "14"	N 32 14' 17.648"	W 080 45' 11.291"	32.23824	-80.75314	LNM 42/14, 7th Dist	223	11516_1	10/30/2014
+11516	Add	Obstruction in Feet	9 Obstn       Chart No. 1: K41	N 32 04' 13.100"	W 080 49' 56.400"	32.0703	-80.83234	LNM 31/14, 7th Dist	223	11516_1	7/31/2014
+11516	Delete	Sounding in Feet	12	N 32 04' 14.860"	W 080 49' 55.390"	32.07079	-80.83205	LNM 31/14, 7th Dist	223	11516_1	7/31/2014

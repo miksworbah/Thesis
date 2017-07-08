@@ -1,0 +1,50 @@
+Chart: 19362, Current Edition: 14, Print Date: Aug. /2009, South Coast of O‘ahu Kalaeloa
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+19362	Change	PacIOOSWB 165	Y "PIOOS 165" Fl (5) Y 20s Priv	N 21 16' 53.000"	W 158 07' 25.000"	21.28139	-158.1236	LNM 12/17, 14th Dist	2805	19362_1	3/30/2017
+19362	Add	Submarine Cable  PT 1 OF 7	Chart No. 1: L30.1	N 21 17' 47.000"	W 158 06' 23.900"	21.29639	-158.1066	LNM 31/16, 14th Dist	2805	19362_1	7/28/2016
+19362	Add	Submarine Cable  PT 2 OF 7	Chart No. 1: L30.1	N 21 17' 02.900"	W 158 08' 07.100"	21.28414	-158.1353	LNM 31/16, 14th Dist	2805	19362_1	7/28/2016
+19362	Add	Submarine Cable  PT 3 OF 7	Chart No. 1: L30.1	N 21 17' 52.600"	W 158 10' 03.100"	21.29795	-158.1675	LNM 31/16, 14th Dist	2805	19362_1	7/28/2016
+19362	Add	Submarine Cable  PT 4 OF 7	Chart No. 1: L30.1	N 21 17' 52.100"	W 158 10' 35.400"	21.29781	-158.1765	LNM 31/16, 14th Dist	2805	19362_1	7/28/2016
+19362	Add	Submarine Cable  PT 5 OF 7	Chart No. 1: L30.1	N 21 17' 59.900"	W 158 10' 43.700"	21.29997	-158.1788	LNM 31/16, 14th Dist	2805	19362_1	7/28/2016
+19362	Add	Submarine Cable  PT 6 OF 7	Chart No. 1: L30.1	N 21 19' 15.000"	W 158 11' 05.800"	21.32083	-158.185	LNM 31/16, 14th Dist	2805	19362_1	7/28/2016
+19362	Add	Submarine Cable  PT 7 OF 7	Chart No. 1: L30.1	N 21 19' 22.900"	W 158 10' 55.700"	21.32303	-158.1821	LNM 31/16, 14th Dist	2805	19362_1	7/28/2016
+19362	Change	Barbers Point Harbor Entrance Channel Lighted Buoy 2	R "2" Fl R 2.5s	N 21 18' 55.404"	W 158 07' 40.668"	21.31539	-158.128	LNM 12/15, 14th Dist	2805	19362_1	3/26/2015
+19362	Relocate	Barbers Point Harbor Entrance Channel Lighted Buoy 2	R "2" Fl R 2.5s	N 21 18' 55.404"	W 158 07' 40.668"	21.31539	-158.128	LNM 12/15, 14th Dist	2805	19362_1	3/26/2015
+19362	Change	PIOOS Buoy 165	Y "PIOOS 165" Priv	N 21 16' 53.000"	W 158 07' 25.000"	21.28139	-158.1236	LNM 40/14, 14th Dist	2805	19362_1	10/16/2014
+19362	Add	Pilot Station	Pilots, Chart No. 1: T1.1	N 21 17' 30.000"	W 158 09' 12.000"	21.29167	-158.1533	LNM 48/13, 14th Dist	2805	19362_1	11/20/2013
+19362	Relocate	Barbers Point Harbor Entrance Channel Light 4	Fl R 2.5s 25ft 4M "4"	N 21 19' 07.550"	W 158 07' 28.463"	21.31876	-158.1246	LNM 41/13, 14th Dist	2805	19362_1	10/11/2013
+19362	Relocate	Barbers Point Harbor Entrance Channel Light 5	Fl G 2.5s 25ft 4M "5"	N 21 19' 13.423"	W 158 07' 30.977"	21.32039	-158.1253	LNM 41/13, 14th Dist	2805	19362_1	10/11/2013
+19362	Change	BARBERS POINT HARBOR ENTRANCE CHANNEL RANGE FRONT LIGHT	Q G 50ft	N 21 19' 44.963"	W 158 06' 53.148"	21.32916	-158.1148	LNM 29/13, 14th Dist	2805	19362_1	8/8/2013
+19362	Relocate	Barbers Point Harbor Entrance Channel Range Front Light	F G 50ft	N 21 19' 44.963"	W 158 06' 53.148"	21.32916	-158.1148	LNM 26/13, 14th Dist	2805	19362_1	8/7/2013
+19362	Relocate	Barbers Point Harbor Entrance Channel Range Rear Light	Iso G 6s 72ft	N 21 19' 47.594"	W 158 06' 50.346"	21.32989	-158.114	LNM 26/13, 14th Dist	2805	19362_1	8/7/2013
+19362	Change	BARBERS POINT HARBOR ENTRANCE CHANNEL RANGE REAR LIGHT	Iso G 6s 72ft	N 21 19' 47.526"	W 158 06' 50.236"	21.32987	-158.114	LNM 51/12, 14th Dist	2805	19362_1	8/7/2013
+19362	Add	Barbers Point Harbor Entrance Channel Range Front Light	F G 50ft	N 21 19' 44.897"	W 158 06' 53.039"	21.32914	-158.1147	LNM 26/13, 14th Dist	2805	19362_1	1/3/2013
+19362	Delete	Barbers Point Harbor Entrance Channel Range Front Light	F G 50ft	N 21 19' 44.910"	W 158 06' 52.540"	21.32914	-158.1146	LNM 26/13, 14th Dist	2805	19362_1	1/3/2013
+19362	Change	Submarine Operations Note B to:	Submerged submarine operations are conducted at various times in the waters contained on this chart. Proceed with caution.	N 21 20' 53.800"	W 158 08' 37.000"	21.34828	-158.1436	LNM 17/12, 14th Dist	2805	19362_1	4/18/2012
+19362	Delete	Submarine Operations Label	SUBMERGED SUBMARINE OPERATING AREA (see note B)	N 21 17' 44.000"	W 158 12' 08.300"	21.29556	-158.2023	LNM 17/12, 14th Dist	2805	19362_1	4/18/2012
+19362	Delete	Submarine Operations Label	SUBMERGED SUBMARINE OPERATING AREA (see note B)	N 21 13' 44.200"	W 158 09' 18.000"	21.22894	-158.155	LNM 17/12, 14th Dist	2805	19362_1	4/18/2012
+19362	Delete	Submarine Operations Label	SUBMERGED SUBMARINE OPERATING AREA (see note B)	N 21 14' 20.100"	W 158 03' 01.900"	21.23892	-158.0505	LNM 17/12, 14th Dist	2805	19362_1	4/18/2012
+19362	Delete	Submarine Operating Area PT 1 OF 3	magenta solid line	N 21 19' 08.000"	W 158 12' 47.800"	21.31889	-158.2133	LNM 17/12, 14th Dist	2805	19362_1	4/18/2012
+19362	Delete	Submarine Operating Area PT 2 OF 3	magenta solid line	N 21 14' 48.700"	W 158 08' 01.300"	21.24686	-158.1337	LNM 17/12, 14th Dist	2805	19362_1	4/18/2012
+19362	Delete	Submarine Operating Area PT 3 OF 3	magenta solid line	N 21 14' 48.500"	W 158 00' 00.000"	21.24681	-158	LNM 17/12, 14th Dist	2805	19362_1	4/18/2012
+19362	Change	Barbers Point Harbor Entrance Channel Lighted Bouy 2	R "2" Fl R 2.5s	N 21 18' 55.404"	W 158 07' 40.668"	21.31539	-158.128	LNM 49/11, 14th Dist	2805	19362_1	12/20/2011
+19362	Add	Ko'Olina CG Mooring Buoy	"CG"	N 21 20' 21.600"	W 158 08' 13.800"	21.33933	-158.1372	LNM 38/11, 14th Dist	2805	19362_1	9/26/2011
+19362	Delete	Honouliuli Buoy B1	Y "B1" Priv	N 21 17' 00.830"	W 158 01' 24.000"	21.28356	-158.0233	LNM 07/11, 14th Dist	2805	19362_1	2/18/2011
+19362	Delete	Honouliuli Buoy D1	Y "D1" Fl Y 4s Priv	N 21 16' 39.000"	W 158 01' 32.400"	21.2775	-158.0257	LNM 07/11, 14th Dist	2805	19362_1	2/18/2011
+19362	Delete	American Marine Barge	Platform Fl 4s	N 21 20' 00.000"	W 158 12' 00.000"	21.33333	-158.2	LNM 06/11, 14th Dist	2805	19362_1	2/14/2011
+19362	Relocate	Anchorage Area Charlie Buoy C	Y S "C" Priv	N 21 16' 48.000"	W 158 04' 30.000"	21.28	-158.075	LNM 47/10, 14th Dist	2805	19362_1	12/1/2010
+19362	Relocate	Anchorage Area Charlie Buoy D	Y S "D" Priv	N 21 16' 48.000"	W 158 04' 00.000"	21.28	-158.0667	LNM 47/10, 14th Dist	2805	19362_1	12/1/2010
+19362	Relocate	Anchorage Area Charlie Lighted Buoy A	Y "A" Fl Y 4s Priv	N 21 16' 30.000"	W 158 04' 00.000"	21.275	-158.0667	LNM 47/10, 14th Dist	2805	19362_1	12/1/2010
+19362	Relocate	Anchorage Area Charlie Lighted Buoy B	Y "B" Fl Y 4s Priv	N 21 16' 30.000"	W 158 04' 30.000"	21.275	-158.075	LNM 47/10, 14th Dist	2805	19362_1	12/1/2010
+19362	Change	American Marine Barge	Platform Fl W 4s	N 21 20' 00.000"	W 158 12' 00.000"	21.33333	-158.2	LNM 41/10, 14th Dist	2805	19362_1	10/22/2010
+19362	Add	HIOOS Buoy	Y Priv	N 21 16' 53.000"	W 158 07' 25.000"	21.28139	-158.1236	LNM 41/10, 14th Dist	2805	19362_1	10/22/2010
+19362	Change	Honouliuli Lighted Buoy D1	Y "D1" Fl Y 4s Priv	N 21 16' 39.000"	W 158 01' 32.400"	21.2775	-158.0257	LNM 37/10, 14th Dist	2805	19362_1	9/16/2010
+19362	Add	Honouliuli Buoy B1	Y "B1" Priv	N 21 17' 00.830"	W 158 01' 24.000"	21.28356	-158.0233	LNM 06/10, 14th Dist	2805	19362_1	2/24/2010
+19362	Add	Honouliuli Buoy D1	Y "D1" Priv	N 21 16' 39.000"	W 158 01' 32.400"	21.2775	-158.0257	LNM 06/10, 14th Dist	2805	19362_1	2/24/2010
+19362	Add	MAH Mooring Buoy	Priv (Cht No. 1 symbol Q 40)	N 21 19' 59.340"	W 158 11' 12.600"	21.33315	-158.1868	LNM 02/10, 14th Dist	2805	19362_1	1/21/2010
+19362	Change	Barbers Point Harbor Entrance Channel Light 6	Q R 25ft 6M."6"	N 21 19' 19.075"	W 158 07' 16.076"	21.32197	-158.1211	LNM 43/09, 14th Dist	2805	19362_1	11/12/2009
+19362	Change	Barbers Point Harbor Entrance Channel Light 7	Q G 25ft 6M."7"	N 21 19' 23.809"	W 158 07' 19.817"	21.32328	-158.1222	LNM 43/09, 14th Dist	2805	19362_1	11/12/2009
+19362	Delete	Barbers Point Security Zone Platform Buoy "A"	Chart No 1: Q40	N 21 15' 32.000"	W 158 05' 33.000"	21.25889	-158.0925	LNM 36/09, 14th Dist	2805	19362_1	9/23/2009
+19362	Delete	Barbers Point Security Zone Platform Buoy "B"	Chart No 1: Q40	N 21 16' 28.000"	W 158 03' 30.000"	21.27444	-158.0583	LNM 36/09, 14th Dist	2805	19362_1	9/23/2009
+19362	Delete	Barbers Point Security Zone Platform Buoy "C"	Chart No 1: Q40	N 21 17' 20.000"	W 158 03' 56.000"	21.28889	-158.0656	LNM 36/09, 14th Dist	2805	19362_1	9/23/2009
+19362	Delete	Barbers Point Security Zone Platform Buoy "D"	Chart No 1: Q40	N 21 16' 26.000"	W 158 06' 02.000"	21.27389	-158.1006	LNM 36/09, 14th Dist	2805	19362_1	9/23/2009

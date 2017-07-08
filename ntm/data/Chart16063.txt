@@ -1,0 +1,2 @@
+Chart: 16063, Current Edition: 8, Print Date: Jan. /2015, Harrison Bay-eastern part
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

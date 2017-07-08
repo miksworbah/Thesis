@@ -1,3 +1,3 @@
-Chart: 12317, Current Edition: 34, Print Date: Mar. /2017, Cape May Harbor
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-12317	Add	Coast Guard Pier Warning Light	Fl Y 2.5s 4M	N 38 56' 57.767"	W 074 53' 22.243"	38.94938	-74.88951	LNM 15/17, 5th Dist	679	12317_1	4/20/2017
+Chart: 12317, Current Edition: 34, Print Date: Mar. /2017, Cape May Harbor
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12317	Add	Coast Guard Pier Warning Light	Fl Y 2.5s 4M	N 38 56' 57.767"	W 074 53' 22.243"	38.94938	-74.88951	LNM 15/17, 5th Dist	679	12317_1	4/20/2017

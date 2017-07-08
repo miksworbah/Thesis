@@ -1,0 +1,203 @@
+Chart: 11330, Current Edition: 22, Print Date: Apr. /2013, Mermentau River to Freeport
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11330	Delete	Submerged Obstruction	Chart No. 1: K40	N 28 37' 31.000"	W 092 53' 30.000"	28.62528	-92.89167	LNM 26/17, 8th Dist	195	11330_1	Not Yet
+11330	Delete	Submerged Obstruction	Subm platform (ruins) PA      Chart No. 1: Kl	N 28 37' 36.000"	W 092 53' 54.900"	28.62667	-92.89858	LNM 26/17, 8th Dist	195	11330_1	Not Yet
+11330	Delete	Visible Obstruction	Obstn PA      Chart No. 1: F22	N 28 37' 19.800"	W 092 53' 20.400"	28.62217	-92.889	LNM 26/17, 8th Dist	195	11330_1	Not Yet
+11330	Add	Dangerous Wreck	PA     Chart No. 1: K28	N 28 52' 48.000"	W 094 27' 12.000"	28.88	-94.45333	LNM 26/17, 8th Dist	195	11330_1	Not Yet
+11330	Delete	WELL LIGHTED BUOY	G Q G Priv Well (cov 198 ft)	N 28 15' 43.886"	W 092 59' 34.651"	28.26219	-92.99296	LNM 26/17, 8th Dist	195	11330_1	Not Yet
+11330	Delete	Platform (Union-171-9)	Chart No. 1: L10	N 28 48' 45.324"	W 093 03' 51.573"	28.81259	-93.06432	LNM 25/17, 8th Dist	195	11330_1	6/29/2017
+11330	Delete	Platform (Union-171-5)	Chart No. 1: L10	N 28 48' 11.000"	W 093 01' 07.000"	28.80305	-93.01861	LNM 25/17, 8th Dist	195	11330_1	6/29/2017
+11330	Delete	Platform (Union-171-1)	Chart No. 1: L10	N 28 47' 23.000"	W 093 01' 35.000"	28.78972	-93.02639	LNM 25/17, 8th Dist	195	11330_1	6/29/2017
+11330	Delete	Mooring Buoy	Chart No. 1: Q40	N 28 19' 00.000"	W 092 58' 54.000"	28.31667	-92.98167	WNM 21/17, NGA	195	11330_1	6/29/2017
+11330	Delete	Platform (Union-183-2)	Chart No. 1: L10	N 28 14' 27.000"	W 093 52' 39.000"	28.24083	-93.8775	LNM 24/17, 8th Dist	195	11330_1	6/22/2017
+11330	Delete	Platform (Union-185-4)	Chart No. 1: L10	N 28 29' 28.215"	W 093 54' 52.331"	28.49117	-93.91454	LNM 24/17, 8th Dist	195	11330_1	6/22/2017
+11330	Delete	Platform (Texaco-204-9)	Chart No. 1: L10	N 28 47' 14.000"	W 093 14' 23.000"	28.78722	-93.23972	LNM 22/17, 8th Dist	195	11330_1	6/8/2017
+11330	Add	Channel Limits PT 1 OF 4	Chart No. 1: I20	N 28 52' 03.600"	W 095 13' 36.480"	28.86767	-95.2268	LNM 20/17, 8th Dist	195	11330_1	5/11/2017
+11330	Add	Channel Limits PT 2 OF 4	Chart No. 1: I20	N 28 55' 42.910"	W 095 17' 24.430"	28.92859	-95.29012	LNM 20/17, 8th Dist	195	11330_1	5/11/2017
+11330	Add	Channel Limits PT 3 OF 4	Chart No. 1: I20	N 28 52' 07.630"	W 095 13' 31.460"	28.86879	-95.2254	LNM 20/17, 8th Dist	195	11330_1	5/11/2017
+11330	Add	Channel Limits PT 4 OF 4	Chart No. 1: I20	N 28 55' 46.870"	W 095 17' 19.350"	28.92969	-95.28871	LNM 20/17, 8th Dist	195	11330_1	5/11/2017
+11330	Delete	Channel Limits PT 1 OF 4	Chart No. 1: I20	N 28 54' 15.290"	W 095 15' 54.670"	28.90425	-95.26518	LNM 20/17, 8th Dist	195	11330_1	5/11/2017
+11330	Delete	Channel Limits PT 2 OF 4	Chart No. 1: I20	N 28 55' 34.180"	W 095 17' 18.070"	28.92616	-95.28835	LNM 20/17, 8th Dist	195	11330_1	5/11/2017
+11330	Delete	Channel Limits PT 3 OF 4	Chart No. 1: I20	N 28 54' 04.940"	W 095 15' 35.360"	28.90137	-95.25982	LNM 20/17, 8th Dist	195	11330_1	5/11/2017
+11330	Delete	Channel Limits PT 4 OF 4	Chart No. 1: I20	N 28 55' 37.180"	W 095 17' 13.970"	28.92699	-95.28722	LNM 20/17, 8th Dist	195	11330_1	5/11/2017
+11330	Delete	Platform (Chevron-193-10)	Chart No. 1: L10	N 28 22' 05.000"	W 092 59' 05.000"	28.36806	-92.98473	LNM 17/17, 8th Dist	195	11330_1	5/4/2017
+11330	Delete	Platform (Chevron-181-1)	Chart No. 1: L10	N 28 16' 12.000"	W 093 20' 35.000"	28.27	-93.34306	LNM 14/17, 8th Dist	195	11330_1	4/13/2017
+11330	Delete	Platform (Chevron-181-5)	Chart No. 1: L10	N 28 15' 15.000"	W 093 21' 19.000"	28.25417	-93.35528	LNM 14/17, 8th Dist	195	11330_1	4/13/2017
+11330	Delete	Platform (Chevron-181-6)	Chart No. 1: L10	N 28 17' 21.000"	W 093 20' 48.000"	28.28917	-93.34666	LNM 14/17, 8th Dist	195	11330_1	4/13/2017
+11330	Delete	Well 	Well (cov 15 fms)     Chart No. 1: L20	N 28 47' 51.700"	W 093 01' 29.700"	28.7977	-93.02492	LNM 12/17, 8th Dist	195	11330_1	3/30/2017
+11330	Delete	Tarpon-100-6 Lighted Buoy	W Or  Fl 2.5s Priv 	N 28 47' 51.700"	W 093 01' 29.700"	28.7977	-93.02492	LNM 12/17, 8th Dist	195	11330_1	3/30/2017
+11330	Delete	Platform:  (Tarpon-105-5)	Chart No. 1: L10	N 28 34' 04.196"	W 092 46' 56.206"	28.56783	-92.78228	LNM 11/17, 8th Dist	195	11330_1	3/23/2017
+11330	Delete	Platform:  (Virgin-100-5)	Chart No. 1: L10	N 29 10' 54.442"	W 092 51' 53.410"	29.18179	-92.86484	LNM 05/17, 8th Dist	195	11330_1	2/16/2017
+11330	Add	Dangerous Wreck	PA     Chart No. 1: K28	N 29 19' 48.500"	W 094 42' 48.500"	29.33014	-94.71347	Not Yet Published	195	11330_1	1/12/2017
+11330	Delete	Platform:  (Apache-105-46)	Chart No. 1: L10	N 28 08' 54.000"	W 093 21' 36.000"	28.14833	-93.36	LNM 48/16, 8th Dist	195	11330_1	12/8/2016
+11330	Delete	Platform:  (Apache-105-45)	Chart No. 1: L10	N 28 16' 04.163"	W 093 00' 08.723"	28.26782	-93.00243	LNM 48/16, 8th Dist	195	11330_1	12/8/2016
+11330	Add	Submerged Obstruction 	Obstn PA	N 29 44' 08.800"	W 093 20' 24.100"	29.73578	-93.34003	LNM 43/16, 8th Dist	195	11330_1	11/3/2016
+11330	Add	Submerged Obstruction	Obstn PA	N 29 44' 11.000"	W 093 20' 21.000"	29.73639	-93.33916	LNM 43/16, 8th Dist	195	11330_1	11/3/2016
+11330	Delete	Platform:  (Apache-111-21)	Chart No. 1: L10	N 28 18' 05.000"	W 092 58' 59.940"	28.30139	-92.98331	LNM 41/16, 8th Dist	195	11330_1	10/27/2016
+11330	Delete	Platform:  (Devon-102-27)	Chart No. 1: L10	N 28 13' 57.220"	W 093 12' 26.160"	28.23256	-93.20727	LNM 39/16, 8th Dist	195	11330_1	10/6/2016
+11330	Add	Dangerous Wreck 	PA     Chart No. 1: K28	N 29 42' 34.000"	W 093 04' 54.000"	29.70944	-93.08167	LNM 38/16, 8th Dist	195	11330_1	9/29/2016
+11330	Delete	Platform:  (Devon-102-36)	Chart No. 1: L10	N 28 29' 34.900"	W 093 28' 35.700"	28.49303	-93.47659	LNM 38/16, 8th Dist	195	11330_1	9/29/2016
+11330	Add	Submerged Obstruction 	Obstn PA      Chart No. 1: K40	N 29 37' 40.400"	W 092 48' 24.700"	29.62789	-92.80686	LNM 33/16, 8th Dist	195	11330_1	8/25/2016
+11330	Add	Submerged Obstruction 	Obstn PA     Chart No. 1: K40	N 29 30' 00.000"	W 092 48' 00.000"	29.5	-92.8	LNM 33/16, 8th Dist	195	11330_1	8/25/2016
+11330	Add	Wreck in Feet	53 Wk      Chart No. 1: K26	N 29 15' 37.100"	W 093 20' 08.900"	29.26031	-93.33581	LNM 30/16, 8th Dist	195	11330_1	8/25/2016
+11330	Add	Dangerous Wreck PA Masts	Masts PA    Chart No. 1: K25	N 29 45' 57.000"	W 093 26' 19.000"	29.76583	-93.43861	LNM 27/16, 8th Dist	195	11330_1	7/14/2016
+11330	Add	obsNonetruction with 48 ft sounding	Obstn 48	N 29 12' 21.900"	W 093 28' 03.500"	29.20608	-93.46764	LNM 29/16, 8th Dist	195	11330_1	7/14/2016
+11330	Add	obstruction with 52 ft sounding	Wk  Chart No. 1: K41	N 29 13' 00.900"	W 093 26' 29.700"	29.21692	-93.44158	LNM 29/16, 8th Dist	195	11330_1	7/14/2016
+11330	Add	Wreck in Feet	30 Wk      Chart No. 1: K26	N 29 14' 48.200"	W 093 31' 53.300"	29.24672	-93.53147	LNM 26/16, 8th Dist	195	11330_1	6/23/2016
+11330	Add	Obstruction in Feet	43 Obstn       Chart No. 1: K41	N 29 14' 41.900"	W 093 27' 39.000"	29.24497	-93.46083	LNM 26/16, 8th Dist	195	11330_1	6/23/2016
+11330	Add	Obstruction in Feet	50 Obstn       Chart No. 1: K41	N 29 18' 29.600"	W 093 18' 50.800"	29.30822	-93.31411	LNM 26/16, 8th Dist	195	11330_1	6/23/2016
+11330	Add	Dangerous Wreck	PA      Chart No. 1: K28	N 29 19' 48.500"	W 094 42' 48.500"	29.33014	-94.71347	LNM 16/16, 8th Dist	195	11330_1	4/28/2016
+11330	Delete	Legend: RACON (- . . .) to Platform (EnVen-100-3)	RACON (-...)	N 28 27' 00.562"	W 093 13' 13.049"	28.45016	-93.22029	LNM 03/16, 8th Dist	195	11330_1	2/25/2016
+11330	Add	Obstruction in Feet	35 Obstn       Chart No. 1: K41	N 29 24' 00.800"	W 093 23' 15.000"	29.40022	-93.3875	LNM 04/16, 8th Dist	195	11330_1	1/28/2016
+11330	Delete	Fieldwood-100-21 RACON	RACON (-.--) Priv	N 28 12' 47.000"	W 092 50' 54.000"	28.21305	-92.84834	LNM 02/16, 8th Dist	195	11330_1	1/21/2016
+11330	Delete	Platform: (Fieldwood-100-21)	Chart No. 1: L10	N 28 12' 47.160"	W 092 50' 55.000"	28.2131	-92.84861	LNM 02/16, 8th Dist	195	11330_1	1/21/2016
+11330	Add	Submerged Obstruction	PA	N 29 10' 41.100"	W 094 41' 57.000"	29.17808	-94.69917	LNM 52/15, 8th Dist	195	11330_1	1/7/2016
+11330	Add	Obstruction in Feet	37 Obstn       Chart No. 1: K41	N 29 26' 22.000"	W 093 27' 46.900"	29.43944	-93.46303	LNM 51/15, 8th Dist	195	11330_1	12/17/2015
+11330	Add	Obstruction in Feet	37 Obstn       Chart No. 1: K41	N 29 26' 23.600"	W 093 33' 47.500"	29.43989	-93.56319	LNM 51/15, 8th Dist	195	11330_1	12/17/2015
+11330	Add	Obstruction in Feet	34 Obstn       Chart No. 1: K41	N 29 26' 50.100"	W 093 30' 24.900"	29.44725	-93.50692	LNM 51/15, 8th Dist	195	11330_1	12/17/2015
+11330	Add	Obstruction in Feet	29 Obstn       Chart No. 1: K41	N 29 29' 03.100"	W 093 30' 09.600"	29.48419	-93.50267	LNM 50/15, 8th Dist	195	11330_1	12/17/2015
+11330	Change	Freeport Entrance Lighted  Buoy FP	RW "FP" Mo (A) AIS	N 28 52' 36.699"	W 095 14' 08.815"	28.87686	-95.23578	LNM 47/15, 8th Dist	195	11330_1	12/10/2015
+11330	Change	Galveston Bay Entrance Lighted Buoy GB	RW "GB" Mo (A) AIS	N 29 14' 44.348"	W 094 32' 41.467"	29.24565	-94.54485	LNM 47/15, 8th Dist	195	11330_1	12/10/2015
+11330	Add	Submerged Obstruction 	PA	N 28 32' 42.000"	W 094 29' 18.000"	28.545	-94.48833	LNM 44/15, 8th Dist	195	11330_1	11/12/2015
+11330	Add	Submarine Pipeline  PT 1 OF 2	Chart No. 1: L40.1	N 28 13' 43.400"	W 093 56' 14.020"	28.22872	-93.93723	LNM 43/15, 8th Dist	195	11330_1	10/29/2015
+11330	Add	Submarine Pipeline  PT 2 OF 2	Chart No. 1: L40.1	N 28 15' 09.990"	W 093 57' 54.190"	28.25278	-93.96505	LNM 43/15, 8th Dist	195	11330_1	10/29/2015
+11330	Delete	Platform: (Century Exploration-600-1)	Chart No. 1: L10	N 28 20' 12.869"	W 093 20' 45.551"	28.33691	-93.34599	LNM 37/15, 8th Dist	195	11330_1	9/24/2015
+11330	Delete	Platform: (Stone-Energy-106-04)	Chart No. 1: L10	N 29 06' 27.000"	W 092 53' 29.882"	29.1075	-92.89163	LNM 36/15, 8th Dist	195	11330_1	9/17/2015
+11330	Delete	Platform (Walter-112-19)	Chart No. 1: L10	N 29 11' 23.180"	W 093 50' 09.555"	29.18977	-93.83599	LNM 33/15, 8th Dist	195	11330_1	8/27/2015
+11330	Delete	Platform (Century Exploration-101-1)	Chart No. 1: L10	N 28 54' 18.955"	W 093 21' 54.554"	28.90527	-93.36515	LNM 32/15, 8th Dist	195	11330_1	8/27/2015
+11330	Delete	Platform: (McMoran-600-03)	Chart No. 1: L10	N 28 14' 59.700"	W 094 05' 21.610"	28.24992	-94.08933	LNM 32/15, 8th Dist	195	11330_1	8/27/2015
+11330	Delete	Platform (Fieldwood-111-32)	Chart No. 1: L10	N 28 18' 50.000"	W 093 59' 16.000"	28.31389	-93.98778	LNM 26/15, 8th Dist	195	11330_1	7/16/2015
+11330	Relocate	Calcasieu Channel Lighted Buoy 16	R "16" Fl R 6s	N 29 33' 34.900"	W 093 15' 35.345"	29.55969	-93.25982	LNM 24/15, 8th Dist	195	11330_1	6/25/2015
+11330	Add	Platform (Devon-102-28)	Chart No. 1: L10	N 28 16' 17.000"	W 093 10' 10.000"	28.27139	-93.16944	LNM 23/15, 8th Dist	195	11330_1	6/18/2015
+11330	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 28 38' 36.000"	W 094 10' 18.000"	28.64333	-94.17167	WNM 18/15, NGA	195	11330_1	6/18/2015
+11330	Delete	Platform: (McMoran-160-500)	Chart No. 1: L10	N 28 20' 59.855"	W 095 21' 43.870"	28.34996	-95.36218	LNM 22/15, 8th Dist	195	11330_1	6/11/2015
+11330	Delete	Texas A&M Lighted Buoy M	Y "M" Fl Y 4s Priv	N 28 11' 30.000"	W 094 11' 30.000"	28.19167	-94.19167	LNM 19/15, 8th Dist	195	11330_1	5/21/2015
+11330	Delete	Dangerous Wreck	PA      Chart No. 1: K28	N 29 19' 59.930"	W 094 41' 59.870"	29.33331	-94.69997	LNM 19/15, 8th Dist	195	11330_1	5/7/2015
+11330	Add	Submerged Obstruction	Obstn PA	N 29 36' 14.700"	W 092 43' 52.200"	29.60408	-92.73116	LNM 14/15, 8th Dist	195	11330_1	4/16/2015
+11330	Delete	Platform: (McMoran-180-300)	Chart No. 1: L10	N 28 58' 33.797"	W 092 51' 23.324"	28.97606	-92.85648	LNM 13/15, 8th Dist	195	11330_1	4/9/2015
+11330	Delete	Racon from platform Mariner 100-1	RACON ( - . . . )	N 29 13' 31.000"	W 094 34' 42.000"	29.22528	-94.57833	LNM 05/15, 8th Dist	195	11330_1	2/12/2015
+11330	Delete	Submerged Obstruction	Obstn PA        Chart No. 1: K40	N 28 39' 42.000"	W 094 23' 18.000"	28.66167	-94.38834	LNM 04/15, 8th Dist	195	11330_1	2/5/2015
+11330	Change	Racon	RACON (-.--) Priv	N 28 12' 47.148"	W 092 50' 54.976"	28.2131	-92.8486	LNM 03/15, 8th Dist	195	11330_1	1/29/2015
+11330	Change	Racon	RACON (--.)	N 28 09' 51.956"	W 092 52' 45.514"	28.16443	-92.87931	LNM 03/15, 8th Dist	195	11330_1	1/29/2015
+11330	Add	Visible Obstruction	Obstn PA      Chart No. 1: F22	N 28 37' 19.800"	W 092 53' 20.400"	28.62217	-92.889	LNM 03/15, 8th Dist	195	11330_1	1/29/2015
+11330	Delete	Platform	Chart No. 1: L10	N 28 51' 30.970"	W 094 53' 01.410"	28.8586	-94.88373	LNM 03/15, 8th Dist	195	11330_1	1/29/2015
+11330	Delete	Platform: (Petroquest-103-3)	Chart No. 1: L10	N 29 08' 16.224"	W 093 16' 11.028"	29.13784	-93.26973	LNM 02/15, 8th Dist	195	11330_1	1/22/2015
+11330	Delete	Platform: (Apache-105-500)	Chart No. 1: L10	N 28 13' 20.820"	W 093 10' 45.432"	28.22245	-93.17928	LNM 02/15, 8th Dist	195	11330_1	1/22/2015
+11330	Change	Sabine Bank Channel Lighted Buoy 29	G "29" Q G	N 29 35' 53.812"	W 093 48' 20.590"	29.59828	-93.80572	LNM 02/15, 8th Dist	195	11330_1	1/22/2015
+11330	Add	Submerged Obstruction 	PA        Chart No. 1: K40	N 29 27' 26.000"	W 093 12' 07.000"	29.45722	-93.20194	LNM 51/14, 8th Dist	195	11330_1	1/8/2015
+11330	Delete	Lighted Buoy	W Or Q Priv	N 28 28' 02.149"	W 093 03' 12.948"	28.46726	-93.0536	LNM 50/14, 8th Dist	195	11330_1	1/1/2015
+11330	Add	Platform:(Fieldwood-109-23)	Chart No. 1: L10	N 28 28' 02.168"	W 093 03' 12.859"	28.46727	-93.05357	LNM 50/14, 8th Dist	195	11330_1	1/1/2015
+11330	Add	Platform: (Fieldwood-111-26)	Chart No. 1: L10	N 29 13' 43.961"	W 093 47' 27.838"	29.22888	-93.79107	LNM 50/14, 8th Dist	195	11330_1	1/1/2015
+11330	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 28 21' 22.800"	W 093 44' 16.800"	28.35633	-93.738	LNM 50/14, 8th Dist	195	11330_1	12/11/2014
+11330	Add	Submarine Pipeline  PT 1 OF 4	Chart No. 1: L40.1	N 28 30' 33.680"	W 093 09' 32.490"	28.50936	-93.15903	LNM 50/14, 8th Dist	195	11330_1	12/11/2014
+11330	Add	Submarine Pipeline  PT 2 OF 4	Chart No. 1: L40.1	N 28 30' 34.500"	W 093 09' 32.100"	28.50958	-93.15892	LNM 50/14, 8th Dist	195	11330_1	12/11/2014
+11330	Add	Submarine Pipeline  PT 3 OF 4	Chart No. 1: L40.1	N 28 31' 38.550"	W 093 10' 25.270"	28.52737	-93.17368	LNM 50/14, 8th Dist	195	11330_1	12/11/2014
+11330	Add	Submarine Pipeline  PT 4 OF 4	Chart No. 1: L40.1	N 28 31' 55.000"	W 093 10' 31.640"	28.53194	-93.17545	LNM 50/14, 8th Dist	195	11330_1	12/11/2014
+11330	Delete	Platform: (Tarpon-103-5)	Chart No 1: L-10	N 28 27' 53.776"	W 093 35' 09.413"	28.46494	-93.58595	LNM 47/14, 8th Dist	195	11330_1	12/11/2014
+11330	Add	Submerged Obstruction  	Obstn PA (Chart No 1: K-40)	N 28 39' 42.000"	W 094 23' 18.000"	28.66167	-94.38834	LNM 47/14, 8th Dist	195	11330_1	12/11/2014
+11330	Delete	Platform: (Mariner-104-12)	Chart No 1: L-10	N 29 11' 19.498"	W 093 20' 06.971"	29.18875	-93.33527	LNM 42/14, 8th Dist	195	11330_1	11/6/2014
+11330	Delete	Platform: (ROYAL-104-1)	Chart No 1: L-10	N 28 22' 15.971"	W 095 20' 11.616"	28.3711	-95.33656	LNM 40/14, 8th Dist	195	11330_1	10/23/2014
+11330	Delete	Platform: (Fieldwood-100-5)	Chart No 1: L-10	N 28 54' 01.666"	W 092 57' 40.972"	28.90046	-92.96138	LNM 40/14, 8th Dist	195	11330_1	10/23/2014
+11330	Delete	Platform: (McMoran-999-12)	Chart No 1: L-10	N 28 22' 33.298"	W 093 29' 28.392"	28.37592	-93.49122	LNM 39/14, 8th Dist	195	11330_1	10/9/2014
+11330	Delete	Platform: (SandRidge-107-1)	Chart No 1: L-10	N 28 42' 23.680"	W 093 03' 57.620"	28.70658	-93.066	LNM 39/14, 8th Dist	195	11330_1	10/9/2014
+11330	Delete	Platform: (Sandridge-106-1)	Chart No 1: L-10	N 29 04' 55.740"	W 093 11' 40.600"	29.08215	-93.19461	LNM 38/14, 8th Dist	195	11330_1	10/2/2014
+11330	Add	Submerged Obstruction  	PA: Chart No 1: K-40	N 28 53' 41.500"	W 095 11' 42.200"	28.89486	-95.19505	LNM 35/14, 8th Dist	195	11330_1	9/11/2014
+11330	Delete	Platform: (Badger-104-200)	chart No 1: L-10	N 29 07' 09.175"	W 093 11' 40.892"	29.11922	-93.19469	LNM 35/14, 8th Dist	195	11330_1	9/11/2014
+11330	Add	PORT ARTHUR VTS AREA NOTE C:	The U.S. Coast Guard operates a mandatory Vessel Traffic Service (VTS) on the Sabine -Neches Waterway and offshore approaches. Vessel operating procedures, mandatory participation boundaries, and designated radiotelephone frequencies are published in 33 CFR 161, the U.S. Coast Pilot, and the VTS Port Arthur User Manual. Mariners should consult these sources for applicable rules and reporting requirements. "Port Arthur Traffic" is a full service VTS, providing a continuous Information Service; Traffic Organization Services and Navigational Assistance Services as required.	N 29 37' 06.400"	W 094 30' 17.600"	29.61844	-94.50489	LNM 37/14, 8th Dist	195	11330_1	9/11/2014
+11330	Add	label:	PORT ARTHUR VTS AREA (see note C) 	N 29 36' 16.900"	W 093 44' 49.900"	29.60469	-93.74719	LNM 37/14, 8th Dist	195	11330_1	9/11/2014
+11330	Add	label:	PORT ARTHUR VTS AREA (see note C) 	N 29 28' 19.300"	W 093 57' 12.900"	29.47203	-93.95358	LNM 37/14, 8th Dist	195	11330_1	9/11/2014
+11330	Add	label:	PORT ARTHUR VTS AREA (see note C) 	N 29 34' 58.200"	W 093 28' 06.300"	29.58283	-93.46841	LNM 37/14, 8th Dist	195	11330_1	9/11/2014
+11330	Add	label:	PORT ARTHUR VTS AREA (see note C)	N 29 24' 27.500"	W 093 35' 55.000"	29.40764	-93.59861	LNM 37/14, 8th Dist	195	11330_1	9/11/2014
+11330	Delete	Platform (SandRidge-106-100)	Chart No. 1 L-10	N 28 51' 56.653"	W 092 44' 16.048"	28.86574	-92.73779	LNM 33/14, 8th Dist	195	11330_1	8/28/2014
+11330	Delete	Platform: (Hall Houston-129-10)	Chart No. 1: L10	N 28 31' 12.289"	W 094 50' 20.192"	28.52008	-94.83894	LNM 31/14, 8th Dist	195	11330_1	8/14/2014
+11330	Add	Platform: (Fieldwood-100-5)	Chart No. 1: L10	N 28 54' 01.666"	W 092 57' 40.972"	28.90046	-92.96138	LNM 27/14, 8th Dist	195	11330_1	7/17/2014
+11330	Add	Well	Well (cov 198 ft)	N 28 15' 08.900"	W 093 57' 53.794"	28.25247	-93.96494	LNM 22/14, 8th Dist	195	11330_1	6/12/2014
+11330	Add	Walter-112-9 Lighted Buoy	W Or Fl 2.5s Priv	N 28 15' 08.900"	W 093 57' 53.794"	28.25247	-93.96494	LNM 22/14, 8th Dist	195	11330_1	6/12/2014
+11330	Add	Minimum Size (2mm sq.) Dashed Fish Haven and Label	Fish Haven (auth min 85 ft), Chart No.1: K46.2	N 28 25' 39.600"	W 093 48' 56.240"	28.42767	-93.81562	LNM 23/14, 8th Dist	195	11330_1	6/5/2014
+11330	Add	Obstruction	Obstn PA (cov 60 ft) Rep 2014      Chart No. 1: K40	N 28 26' 38.430"	W 094 17' 06.160"	28.44401	-94.28504	LNM 15/14, 8th Dist	195	11330_1	4/24/2014
+11330	Add	Texas Fishing Reef FR-TX-53 Lighted Buoy	Y Fl Y 2.5s Priv	N 28 26' 38.430"	W 094 17' 06.160"	28.44401	-94.28504	LNM 15/14, 8th Dist	195	11330_1	4/24/2014
+11330	Add	Dump Site Legend	Dump Site (dredged material) (see note S) Depths from surveys of 1922-1999	N 29 23' 45.000"	W 093 42' 19.000"	29.39583	-93.70528	LNM 15/14, 8th Dist	195	11330_1	4/10/2014
+11330	Add	Dump Site Label	Dump Site (dredged material) (see note S) Depths from surveys of 1923-2000	N 29 18' 11.000"	W 093 42' 18.000"	29.30305	-93.705	LNM 15/14, 8th Dist	195	11330_1	4/10/2014
+11330	Add	Sabine-Neches Waterway site D dump site PT 1 OF 4	Chart No. 1 N24	N 29 16' 22.000"	W 093 43' 29.000"	29.27278	-93.72472	LNM 15/14, 8th Dist	195	11330_1	4/10/2014
+11330	Add	Sabine-Neches Waterway site D dump site PT 2 OF 4	Chart No. 1 N24	N 29 16' 22.000"	W 093 41' 10.000"	29.27278	-93.68611	LNM 15/14, 8th Dist	195	11330_1	4/10/2014
+11330	Add	Sabine-Neches Waterway site D dump site PT 3 OF 4	Chart No. 1 N24	N 29 14' 24.000"	W 093 41' 10.000"	29.24	-93.68611	LNM 15/14, 8th Dist	195	11330_1	4/10/2014
+11330	Add	Sabine-Neches Waterway site D dump site PT 4 OF 4	Chart No. 1 N24	N 29 14' 24.000"	W 093 43' 29.000"	29.24	-93.72472	LNM 15/14, 8th Dist	195	11330_1	4/10/2014
+11330	Add	Dump Site Label	Dump Site (dredged material) (see note S) Depths from survey of 2000	N 29 15' 31.000"	W 093 42' 15.000"	29.25861	-93.70417	LNM 15/14, 8th Dist	195	11330_1	4/10/2014
+11330	Add	Sabine-Neches Waterway site A dump site PT 1 OF 4	Chart No. 1 N24	N 29 24' 47.000"	W 093 43' 29.000"	29.41306	-93.72472	LNM 15/14, 8th Dist	195	11330_1	4/10/2014
+11330	Add	Sabine-Neches Waterway site A dump site PT 2 OF 4	Chart No. 1 N24	N 29 24' 47.000"	W 093 41' 08.000"	29.41306	-93.68555	LNM 15/14, 8th Dist	195	11330_1	4/10/2014
+11330	Add	Sabine-Neches Waterway site A dump site PT 3 OF 4	Chart No. 1 N24	N 29 22' 48.000"	W 093 41' 09.000"	29.38	-93.68584	LNM 15/14, 8th Dist	195	11330_1	4/10/2014
+11330	Add	Sabine-Neches Waterway site A dump site PT 4 OF 4	Chart No. 1 N24	N 29 22' 49.000"	W 093 43' 29.000"	29.38028	-93.72472	LNM 15/14, 8th Dist	195	11330_1	4/10/2014
+11330	Add	Sabine-Neches Waterway site C dump site PT 1 OF 4	Chart No. 1 N24	N 29 19' 11.000"	W 093 43' 29.000"	29.31972	-93.72472	LNM 15/14, 8th Dist	195	11330_1	4/10/2014
+11330	Add	Sabine-Neches Waterway site C dump site PT 2 OF 4	Chart No. 1 N24	N 29 19' 11.000"	W 093 41' 09.000"	29.31972	-93.68584	LNM 15/14, 8th Dist	195	11330_1	4/10/2014
+11330	Add	Sabine-Neches Waterway site C dump site PT 3 OF 4	Chart No. 1 N24	N 29 17' 12.000"	W 093 41' 09.000"	29.28667	-93.68584	LNM 15/14, 8th Dist	195	11330_1	4/10/2014
+11330	Add	Sabine-Neches Waterway site C dump site PT 4 OF 4	Chart No. 1 N24	N 29 17' 12.000"	W 093 43' 29.000"	29.28667	-93.72472	LNM 15/14, 8th Dist	195	11330_1	4/10/2014
+11330	Add	Sabine-Neches Waterway site B dump site PT 1 OF 4	Chart No. 1 N24	N 29 21' 59.000"	W 093 43' 29.000"	29.36639	-93.72472	LNM 15/14, 8th Dist	195	11330_1	4/10/2014
+11330	Add	Sabine-Neches Waterway site B dump site PT 2 OF 4	Chart No. 1 N24	N 29 21' 59.000"	W 093 41' 08.000"	29.36639	-93.68555	LNM 15/14, 8th Dist	195	11330_1	4/10/2014
+11330	Add	Sabine-Neches Waterway site B dump site PT 3 OF 4	Chart No. 1 N24	N 29 20' 00.000"	W 093 41' 09.000"	29.33333	-93.68584	LNM 15/14, 8th Dist	195	11330_1	4/10/2014
+11330	Add	Sabine-Neches Waterway site B dump site PT 4 OF 4	Chart No. 1 N24	N 29 20' 00.000"	W 093 43' 29.000"	29.33333	-93.72472	LNM 15/14, 8th Dist	195	11330_1	4/10/2014
+11330	Add	Dump Site Label	Dump Site (dredged material) (see note S) Depths from surveys of 1923-1999	N 29 20' 53.000"	W 093 42' 17.000"	29.34805	-93.70472	LNM 15/14, 8th Dist	195	11330_1	4/10/2014
+11330	Delete	Platform: (SandRidge-110-1)	Chart No. 1: L10	N 28 51' 02.915"	W 094 48' 16.927"	28.85081	-94.8047	LNM 12/14, 8th Dist	195	11330_1	4/3/2014
+11330	Delete	Platform: (Black Elk-102-8)	Chart No. 1: L10	N 28 25' 40.050"	W 093 48' 54.860"	28.42779	-93.81524	LNM 11/14, 8th Dist	195	11330_1	3/27/2014
+11330	Delete	Galveston-Sabine-Calcasieu Fairway Junction RACON	RACON (-.-.)      Chart No. 1: S3.1	N 28 18' 05.983"	W 092 59' 00.433"	28.30166	-92.98345	LNM 11/14, 8th Dist	195	11330_1	3/27/2014
+11330	Delete	Platform: (Black Elk-102-14)	Chart No. 1: L10	N 28 22' 24.413"	W 093 53' 27.920"	28.37345	-93.89109	LNM 10/14, 8th Dist	195	11330_1	3/20/2014
+11330	Add	Submerged platform	Subm platform PA      Chart No. 1: Kl	N 28 37' 36.000"	W 092 53' 54.900"	28.62667	-92.89858	LNM 04/14, 8th Dist	195	11330_1	2/6/2014
+11330	Add	Channel Limits PT 1 OF 10	Chart No. 1: I20	N 29 31' 42.870"	W 093 14' 07.020"	29.52858	-93.23528	LNM 05/14, 8th Dist	195	11330_1	1/30/2014
+11330	Add	Channel Limits PT 2 OF 10	Chart No. 1: I20	N 29 31' 20.170"	W 093 13' 46.500"	29.52227	-93.22958	LNM 05/14, 8th Dist	195	11330_1	1/30/2014
+11330	Add	Channel Limits PT 3 OF 10	Chart No. 1: I20	N 29 31' 07.110"	W 093 13' 38.130"	29.51864	-93.22726	LNM 05/14, 8th Dist	195	11330_1	1/30/2014
+11330	Add	Channel Limits PT 4 OF 10	Chart No. 1: I20	N 29 30' 48.300"	W 093 13' 33.580"	29.51342	-93.226	LNM 05/14, 8th Dist	195	11330_1	1/30/2014
+11330	Add	Channel Limits PT 5 OF 10	Chart No. 1: I20	N 29 20' 00.770"	W 093 13' 23.060"	29.33355	-93.22308	LNM 05/14, 8th Dist	195	11330_1	1/30/2014
+11330	Add	Channel Limits PT 6 OF 10	Chart No. 1: I20	N 29 31' 47.470"	W 093 13' 59.630"	29.52985	-93.23323	LNM 05/14, 8th Dist	195	11330_1	1/30/2014
+11330	Add	Channel Limits PT 7 OF 10	Chart No. 1: I20	N 29 31' 25.420"	W 093 13' 39.690"	29.52373	-93.22769	LNM 05/14, 8th Dist	195	11330_1	1/30/2014
+11330	Add	Channel Limits PT 8 OF 10	Chart No. 1: I20	N 29 31' 08.840"	W 093 13' 28.640"	29.51912	-93.22462	LNM 05/14, 8th Dist	195	11330_1	1/30/2014
+11330	Add	Channel Limits PT 9 OF 10	Chart No. 1: I20	N 29 30' 48.760"	W 093 13' 24.530"	29.51354	-93.22348	LNM 05/14, 8th Dist	195	11330_1	1/30/2014
+11330	Add	Channel Limits PT 10 OF 10	Chart No. 1: I20	N 29 20' 00.830"	W 093 13' 14.020"	29.33356	-93.22056	LNM 05/14, 8th Dist	195	11330_1	1/30/2014
+11330	Delete	Channel Limits PT 1 OF 10	Chart No. 1: I20	N 29 31' 47.610"	W 093 14' 09.820"	29.52989	-93.23606	LNM 05/14, 8th Dist	195	11330_1	1/30/2014
+11330	Delete	Channel Limits PT 2 OF 10	Chart No. 1: I20	N 29 31' 24.040"	W 093 13' 49.810"	29.52334	-93.2305	LNM 05/14, 8th Dist	195	11330_1	1/30/2014
+11330	Delete	Channel Limits PT 3 OF 10	Chart No. 1: I20	N 29 31' 04.530"	W 093 13' 36.560"	29.51793	-93.22682	LNM 05/14, 8th Dist	195	11330_1	1/30/2014
+11330	Delete	Channel Limits PT 4 OF 10	Chart No. 1: I20	N 29 30' 48.380"	W 093 13' 33.470"	29.51344	-93.22597	LNM 05/14, 8th Dist	195	11330_1	1/30/2014
+11330	Delete	Channel Limits PT 5 OF 10	Chart No. 1: I20	N 29 20' 02.130"	W 093 13' 20.420"	29.33393	-93.22234	LNM 05/14, 8th Dist	195	11330_1	1/30/2014
+11330	Delete	Channel Limits PT 6 OF 10	Chart No. 1: I20	N 29 31' 52.840"	W 093 14' 03.290"	29.53135	-93.23425	LNM 05/14, 8th Dist	195	11330_1	1/30/2014
+11330	Delete	Channel Limits PT 7 OF 10	Chart No. 1: I20	N 29 31' 28.300"	W 093 13' 42.220"	29.52453	-93.22839	LNM 05/14, 8th Dist	195	11330_1	1/30/2014
+11330	Delete	Channel Limits PT 8 OF 10	Chart No. 1: I20	N 29 31' 09.870"	W 093 13' 29.270"	29.51941	-93.2248	LNM 05/14, 8th Dist	195	11330_1	1/30/2014
+11330	Delete	Channel Limits PT 9 OF 10	Chart No. 1: I20	N 29 30' 48.400"	W 093 13' 24.410"	29.51344	-93.22345	LNM 05/14, 8th Dist	195	11330_1	1/30/2014
+11330	Delete	Channel Limits PT 10 OF 10	Chart No. 1: I20	N 29 20' 02.170"	W 093 13' 11.350"	29.33394	-93.21982	LNM 05/14, 8th Dist	195	11330_1	1/30/2014
+11330	Delete	Platform: (Apache-111-50)	Chart No. 1: L10	N 28 14' 20.810"	W 092 47' 54.650"	28.23911	-92.79852	LNM 03/14, 8th Dist	195	11330_1	1/30/2014
+11330	Add	Minimum Size (2mm sq.) Dashed Fish Haven and Label	Fish Haven (auth min 85 ft), Chart No.1: K46.2	N 28 21' 50.000"	W 094 09' 23.000"	28.36389	-94.15639	LNM 52/13, 8th Dist	195	11330_1	12/20/2013
+11330	Delete	Platform: (El Paso-140-8)	Chart No. 1: L10	N 28 26' 30.000"	W 094 08' 24.000"	28.44167	-94.14	LNM 50/13, 8th Dist	195	11330_1	12/13/2013
+11330	Delete	Platform: (Apache-115-47)	Chart No. 1: L10	N 28 26' 59.999"	W 094 09' 24.000"	28.45	-94.15667	LNM 50/13, 8th Dist	195	11330_1	12/13/2013
+11330	Delete	Platform: (Pogo-100-1)	Chart No. 1: L10	N 28 22' 18.000"	W 094 19' 42.000"	28.37167	-94.32833	LNM 50/13, 8th Dist	195	11330_1	12/13/2013
+11330	Delete	Platform: (Beryl-104-3)	Chart No. 1: L10	N 28 21' 54.000"	W 094 07' 42.000"	28.365	-94.12833	LNM 50/13, 8th Dist	195	11330_1	12/13/2013
+11330	Delete	Platform: (Beryl-104-1)	Chart No. 1: L10	N 28 21' 42.000"	W 094 09' 18.000"	28.36167	-94.155	LNM 50/13, 8th Dist	195	11330_1	12/13/2013
+11330	Add	Visible Obstruction	Obstn PA      Chart No. 1: F22	N 29 21' 15.000"	W 093 38' 00.000"	29.35417	-93.63333	LNM 45/13, 8th Dist	195	11330_1	11/8/2013
+11330	Add	Submarine Pipeline  PT 1 OF 7	Chart No. 1: L40.1	N 29 10' 55.060"	W 093 18' 50.780"	29.18196	-93.3141	LNM 43/13, 8th Dist	195	11330_1	10/17/2013
+11330	Add	Submarine Pipeline  PT 2 OF 7	Chart No. 1: L40.1	N 29 11' 01.980"	W 093 18' 42.780"	29.18388	-93.31188	LNM 43/13, 8th Dist	195	11330_1	10/17/2013
+11330	Add	Submarine Pipeline  PT 3 OF 7	Chart No. 1: L40.1	N 29 11' 39.660"	W 093 18' 43.670"	29.19435	-93.31213	LNM 43/13, 8th Dist	195	11330_1	10/17/2013
+11330	Add	Submarine Pipeline  PT 4 OF 7	Chart No. 1: L40.1	N 29 11' 52.700"	W 093 18' 50.390"	29.19797	-93.314	LNM 43/13, 8th Dist	195	11330_1	10/17/2013
+11330	Add	Submarine Pipeline  PT 5 OF 7	Chart No. 1: L40.1	N 29 12' 00.860"	W 093 19' 05.210"	29.20024	-93.31812	LNM 43/13, 8th Dist	195	11330_1	10/17/2013
+11330	Add	Submarine Pipeline  PT 6 OF 7	Chart No. 1: L40.1	N 29 12' 01.450"	W 093 19' 17.190"	29.2004	-93.32144	LNM 43/13, 8th Dist	195	11330_1	10/17/2013
+11330	Add	Submarine Pipeline  PT 7 OF 7	Chart No. 1: L40.1	N 29 12' 18.230"	W 093 19' 13.230"	29.20506	-93.32034	LNM 43/13, 8th Dist	195	11330_1	10/17/2013
+11330	Add	Submarine Pipeline  PT 1 OF 2	Chart No. 1: L40.1	N 29 11' 28.630"	W 093 16' 32.250"	29.19129	-93.27563	LNM 43/13, 8th Dist	195	11330_1	10/17/2013
+11330	Add	Submarine Pipeline  PT 2 OF 2	Chart No. 1: L40.1	N 29 13' 00.790"	W 093 17' 24.190"	29.21689	-93.29005	LNM 43/13, 8th Dist	195	11330_1	10/17/2013
+11330	Add	Submarine Pipeline  PT 1 OF 2	Chart No. 1: L40.1	N 29 11' 29.260"	W 093 19' 27.880"	29.19146	-93.32441	LNM 43/13, 8th Dist	195	11330_1	10/17/2013
+11330	Add	Submarine Pipeline  PT 2 OF 2	Chart No. 1: L40.1	N 29 11' 28.630"	W 093 16' 32.250"	29.19129	-93.27563	LNM 43/13, 8th Dist	195	11330_1	10/17/2013
+11330	Add	Submarine Pipeline  PT 1 OF 2	Chart No. 1: L40.1	N 29 11' 23.530"	W 093 50' 10.350"	29.18987	-93.8362	LNM 43/13, 8th Dist	195	11330_1	10/17/2013
+11330	Add	Submarine Pipeline  PT 2 OF 2	Chart No. 1: L40.1	N 29 13' 33.170"	W 093 47' 40.340"	29.22588	-93.79454	LNM 43/13, 8th Dist	195	11330_1	10/17/2013
+11330	Add	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn Fish Haven (auth min 30 ft), Chart No. 1 K46.2	N 29 18' 12.850"	W 093 55' 18.610"	29.30357	-93.92184	LNM 43/13, 8th Dist	195	11330_1	10/17/2013
+11330	Delete	Platform: (Apache-111-25)	Chart No. 1: L10	N 28 10' 51.589"	W 095 28' 58.656"	28.181	-95.48296	LNM 41/13, 8th Dist	195	11330_1	10/11/2013
+11330	Change	Submerged Pipe	Pipe (cov 83 ft)                Chart No. 1: L21.2	N 28 46' 42.900"	W 093 20' 15.100"	28.77858	-93.33752	LNM 39/13, 8th Dist	195	11330_1	9/18/2013
+11330	Delete	Platform: (Linder-102-7)	Chart No. 1: L10	N 28 31' 43.000"	W 092 58' 18.000"	28.52861	-92.97166	LNM 36/13, 8th Dist	195	11330_1	9/9/2013
+11330	Delete	Merit-113-3 Lighted Buoy	R Q R Priv	N 28 59' 10.000"	W 094 53' 25.000"	28.98611	-94.89027	LNM 33/13, 8th Dist	195	11330_1	8/16/2013
+11330	Delete	Submerged Obstruction	Obstn PA      Chart No. 1: K40	N 29 24' 00.972"	W 093 23' 13.560"	29.40027	-93.3871	LNM 31/13, 8th Dist	195	11330_1	8/5/2013
+11330	Change	Calcasieu Channel Lighted Buoy CC	RW "CC" Mo (A)	N 29 20' 00.870"	W 093 13' 17.564"	29.33357	-93.22154	LNM 32/13, 8th Dist	195	11330_1	7/30/2013
+11330	Add	Well	Well (cov 144 ft/24 fms)      Chart No. 1: L20	N 28 31' 29.310"	W 092 57' 01.920"	28.52481	-92.95053	LNM 26/13, 8th Dist	195	11330_1	6/29/2013
+11330	Add	Rooster-104-2 Lighted Buoy	W Or Fl 2.5s Priv	N 28 31' 29.310"	W 092 57' 01.920"	28.52481	-92.95053	LNM 26/13, 8th Dist	195	11330_1	6/29/2013
+11330	Delete	Tarpon-100-5 Lighted Buoy	G Q G HORN Priv	N 28 30' 32.600"	W 093 09' 32.700"	28.50906	-93.15908	LNM 24/13, 8th Dist	195	11330_1	6/17/2013
+11330	Delete	Well	Well (cov 138 ft/23 fms)      Chart No. 1: L20	N 28 34' 05.090"	W 092 46' 56.700"	28.56808	-92.78242	LNM 24/13, 8th Dist	195	11330_1	6/17/2013
+11330	Add	Platform: (Tarpon-105-5)	Chart No. 1: L10	N 28 34' 04.196"	W 092 46' 56.206"	28.56783	-92.78228	LNM 24/13, 8th Dist	195	11330_1	6/17/2013
+11330	Add	Platform: (Tarpon-100-10)	Chart No. 1: L10	N 28 30' 32.600"	W 093 09' 32.700"	28.50906	-93.15908	LNM 24/13, 8th Dist	195	11330_1	6/17/2013
+11330	Delete	Well	Well (cov 144 ft/24 fms)      Chart No. 1: L20	N 28 30' 32.600"	W 093 09' 32.700"	28.50906	-93.15908	LNM 24/13, 8th Dist	195	11330_1	6/17/2013
+11330	Delete	Tarpon-105-5 Lighted Buoy	W Or Fl 2.5s Priv	N 28 34' 05.090"	W 092 46' 56.700"	28.56808	-92.78242	LNM 24/13, 8th Dist	195	11330_1	6/17/2013
+11330	Add	Submerged Obstruction	Obstn PA      Chart No. 1: K40	N 29 34' 26.400"	W 093 03' 12.400"	29.574	-93.05344	LNM 22/13, 8th Dist	195	11330_1	6/4/2013
+11330	Delete	Platform: (W & T Offshore-104-10)	Chart No. 1: L10	N 28 17' 13.000"	W 093 06' 02.000"	28.28695	-93.10056	LNM 22/13, 8th Dist	195	11330_1	6/4/2013
+11330	Delete	Platform in Ruins	Subm platform (ruins) PA	N 28 09' 20.000"	W 092 47' 53.000"	28.15556	-92.79806	LNM 17/13, 8th Dist	195	11330_1	5/2/2013
+11330	Delete	Platform in Ruins	Subm platform (ruins) PA	N 28 23' 06.000"	W 092 45' 02.000"	28.385	-92.75056	LNM 17/13, 8th Dist	195	11330_1	5/2/2013

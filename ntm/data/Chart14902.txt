@@ -1,0 +1,18 @@
+Chart: 14902, Current Edition: 30, Print Date: Jul. /2016, North end of Lake Michigan, including Green Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14902	Relocate	Kewaunee Shoal Light	KEWAUNEE SHL LT Fl G 4s 43ft 8 St M HORN	N 44 27' 03.941"	W 087 27' 55.369"	44.4511	-87.46538	LNM 16/17, 9th Dist	1362	14902_1	4/27/2017
+14902	Change	Detroit Harbor Entrance Light	ENTR LT Fl 4s 25ft 11 ST M HORN (MRASS) Ra Ref	N 45 19' 55.692"	W 086 56' 12.299"	45.33214	-86.93675	LNM 08/17, 9th Dist	1362	14902_1	3/2/2017
+14902	Change	Minneapolis Shoal Light	MINNEAPOLIS SHOAL LT Fl 5s 82ft 15 ST M RACON (- -) HORN (MRASS)	N 45 34' 53.326"	W 086 59' 55.377"	45.58148	-86.99872	LNM 08/17, 9th Dist	1362	14902_1	3/2/2017
+14902	Change	Sturgeon Bay Ship Canal North Pierhead Light	NORTH PIERHEAD LT Fl R 2.5s 40ft 11 ST M HORN (MRASS)	N 44 47' 31.260"	W 087 18' 34.322"	44.79202	-87.30953	LNM 08/17, 9th Dist	1362	14902_1	3/2/2017
+14902	Change	Grays Reef Passage Channel Lighted Buoy 7 AIS	G "7" Fl G 4s AIS	N 45 45' 44.377"	W 085 08' 29.152"	45.76233	-85.14143	LNM 50/16, 9th Dist	1362	14902_1	1/19/2017
+14902	Change	Green Bay Harbor Entrance Channel Lighted Bell Buoy 2 AIS	R "2" Fl R 2.5s BELL AIS	N 44 40' 39.037"	W 087 52' 41.860"	44.67751	-87.8783	LNM 50/16, 9th Dist	1362	14902_1	1/19/2017
+14902	Change	New Shoal Lighted Buoy 1 AIS	G "1" Fl G 4s AIS	N 45 49' 16.280"	W 085 05' 16.788"	45.82119	-85.088	LNM 50/16, 9th Dist	1362	14902_1	1/19/2017
+14902	Change	New Shoal Lighted Bell Buoy 3 AIS	G "3" Fl G 2.5s BELL AIS	N 45 48' 53.619"	W 085 08' 00.517"	45.8149	-85.13348	LNM 50/16, 9th Dist	1362	14902_1	1/19/2017
+14902	Change	St Martin Island Shoal Lighted Buoy 2 AIS	R "2" Fl R 2.5s AIS	N 45 26' 36.032"	W 086 45' 07.421"	45.44334	-86.75206	LNM 50/16, 9th Dist	1362	14902_1	1/19/2017
+14902	Change	Southwest Drisco Shoal Lighted Buoy DA AIS	BRB "DA" Fl (2) 5s AIS	N 45 32' 09.889"	W 087 00' 36.449"	45.53608	-87.01012	LNM 50/16, 9th Dist	1362	14902_1	1/19/2017
+14902	Change	Little Bay De Noc Lighted Buoy 8 AIS	R "8" Fl R 4s AIS	N 45 43' 45.789"	W 087 01' 30.586"	45.72939	-87.02516	LNM 50/16, 9th Dist	1362	14902_1	1/19/2017
+14902	Change	Chambers Island West Shoal Lighted Bell Buoy 3 AIS	G "3" Fl G 2.5s BELL AIS	N 45 10' 48.124"	W 087 24' 23.486"	45.18003	-87.40652	LNM 50/16, 9th Dist	1362	14902_1	1/19/2017
+14902	Change	Green Island Southeast Shoal Buoy 2 AIS	R N "2" AIS	N 45 02' 40.625"	W 087 28' 51.456"	45.04462	-87.48096	LNM 50/16, 9th Dist	1362	14902_1	1/19/2017
+14902	Change	Round Island Lighted Buoy 3 AIS	G "3" Fl G 4s AIS	N 45 50' 27.447"	W 084 36' 31.060"	45.84096	-84.60863	LNM 50/16, 9th Dist	1362	14902_1	1/19/2017
+14902	Relocate	Days River Shoal Lighted Buoy 19	G "19" Fl G 2.5s	N 45 53' 09.000"	W 086 58' 32.000"	45.88583	-86.97556	LNM 52/16, 9th Dist	1362	14902_1	12/22/2016
+14902	Change	St. James Light	Iso R 6s 38ft 11 St M	N 45 44' 34.030"	W 085 30' 31.010"	45.74279	-85.50861	LNM 47/16, 9th Dist	1362	14902_1	12/1/2016

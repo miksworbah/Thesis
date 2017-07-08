@@ -1,0 +1,26 @@
+Chart: 11536, Current Edition: 20, Print Date: Jan. /2015, Approaches to Cape Fear River
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11536	Delete	NC Artificial Fishing Reef Buoy AR420	Y C "AR420" Priv	N 33 51' 15.628"	W 078 06' 28.974"	33.85434	-78.10805	LNM 21/17, 5th Dist	211	11536_1	6/1/2017
+11536	Delete	NC Artificial Fishing Reef Buoy AR430	Y C "AR430" Priv	N 33 52' 11.390"	W 078 10' 00.000"	33.86983	-78.16666	LNM 21/17, 5th Dist	211	11536_1	6/1/2017
+11536	Delete	NC Artificial Fishing Reef Buoy AR445	Y C "AR445" Priv	N 33 45' 00.630"	W 078 13' 58.990"	33.75018	-78.23306	LNM 21/17, 5th Dist	211	11536_1	6/1/2017
+11536	Delete	NC Artificial Fishing Reef Buoy AR455	Y C "AR455" Priv	N 33 47' 00.627"	W 078 17' 58.999"	33.78351	-78.29972	LNM 21/17, 5th Dist	211	11536_1	6/1/2017
+11536	Delete	NC Artificial Fishing Reef Buoy AR382	Y C "AR382" Priv	N 33 58' 36.625"	W 077 41' 10.915"	33.97684	-77.68636	LNM 21/17, 5th Dist	211	11536_1	6/1/2017
+11536	Delete	NC Artificial Fishing Reef Buoy AR440	Y C "AR440" Priv	N 33 50' 00.627"	W 078 12' 58.988"	33.83351	-78.21638	LNM 21/17, 5th Dist	211	11536_1	6/1/2017
+11536	Relocate	Cape Fear River Entrance Channel Lighted Buoy 12	R "12" Fl R 2.5s	N 33 51' 50.122"	W 078 01' 02.198"	33.86392	-78.01728	LNM 18/17, 5th Dist	211	11536_1	5/11/2017
+11536	Relocate	Frying Pan Shoals Slough Buoy 2	R N "2"	N 33 39' 16.210"	W 077 52' 56.893"	33.6545	-77.88247	LNM 17/17, 5th Dist	211	11536_1	5/4/2017
+11536	Delete	NC Artificial Fishing Reef Buoy AR425	Y C "AR425" Priv	N 33 53' 06.626"	W 078 07' 22.976"	33.88517	-78.12305	LNM 03/17, 5th Dist	211	11536_1	1/26/2017
+11536	Relocate	Oak Island Channel Light 1	Fl G 4s 15ft 4M "1"	N 33 54' 01.280"	W 078 01' 15.041"	33.90036	-78.02084	LNM 40/16, 5th Dist	211	11536_1	10/13/2016
+11536	Delete	Marker	Marker (lighted)       (Chart No. 1: P3)	N 33 52' 15.000"	W 078 01' 22.000"	33.87083	-78.02278	LNM 34/16, 5th Dist	211	11536_1	8/18/2016
+11536	Add	Sounding in Feet	1/2	N 33 52' 18.070"	W 078 01' 21.943"	33.87169	-78.02276	LNM 34/16, 5th Dist	211	11536_1	8/18/2016
+11536	Relocate	UNC Wilmington Lighted Data Buoy SB	Y "SB" Fl Y 4s Priv	N 33 50' 35.040"	W 078 28' 57.738"	33.84307	-78.4827	LNM 21/16, 5th Dist	211	11536_1	5/26/2016
+11536	Relocate	Cape Fear River Channel Lighted Buoy 13A	G "13A" Fl G 4s	N 33 52' 50.982"	W 078 00' 30.330"	33.88083	-78.00842	LNM 15/16, 5th Dist	211	11536_1	4/21/2016
+11536	Relocate	Cape Fear River Channel Lighted Buoy 16	R "16" Q R	N 33 54' 16.559"	W 078 01' 05.797"	33.9046	-78.01828	LNM 14/16, 5th Dist	211	11536_1	4/14/2016
+11536	Relocate	Cape Fear River Channel Lighted Buoy 18	R "18" Fl R 4s	N 33 54' 41.224"	W 078 01' 01.417"	33.91145	-78.01706	LNM 14/16, 5th Dist	211	11536_1	4/14/2016
+11536	Relocate	Cape Fear River Entrance Channel Lighted Buoy 5	G "5" Fl G 4s	N 33 48' 41.371"	W 078 02' 21.924"	33.81149	-78.03942	LNM 14/16, 5th Dist	211	11536_1	4/14/2016
+11536	Change	Cape Fear River Entrance Range Front Light	Iso 2s 23ft	N 33 52' 23.500"	W 078 01' 09.490"	33.8732	-78.0193	LNM 06/16, 5th Dist	211	11536_1	2/11/2016
+11536	Change	Cape Fear River Entrance Range Rear Light	Iso 6s 101ft	N 33 53' 33.073"	W 078 00' 48.161"	33.89252	-78.01337	LNM 06/16, 5th Dist	211	11536_1	2/11/2016
+11536	Change	Smith Island Range Rear Light	F R 33ft	N 33 53' 43.228"	W 078 00' 15.857"	33.89534	-78.0044	LNM 03/16, 5th Dist	211	11536_1	1/28/2016
+11536	Change	Smith Island Range Front Light	Iso R 2s 18ft	N 33 53' 36.121"	W 078 00' 17.092"	33.89337	-78.00475	LNM 45/15, 5th Dist	211	11536_1	11/19/2015
+11536	Change	Cape Fear River Entrance Lighted Whistle Buoy CF	RW "CF" Mo (A) WHIS RACON (-.-.) AIS  (Chart No. 1: S17.2)	N 33 46' 16.703"	W 078 03' 01.567"	33.77131	-78.05044	LNM 41/15, 5th Dist	211	11536_1	10/22/2015
+11536	Delete	NC Artificial Fishing Reef Buoy AR460	Y C "AR460" Priv	N 33 50' 00.624"	W 078 21' 59.009"	33.83351	-78.36639	LNM 38/15, 5th Dist	211	11536_1	10/1/2015
+11536	Relocate	Frying Pan Shoals Slough Buoy 2	R N "2"	N 33 39' 16.818"	W 077 52' 58.400"	33.65467	-77.88289	LNM 15/15, 5th Dist	211	11536_1	4/23/2015

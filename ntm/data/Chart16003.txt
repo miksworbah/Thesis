@@ -1,0 +1,11 @@
+Chart: 16003, Current Edition: 18, Print Date: May. /2015, Arctic Coast
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16003	Add	Port Clarence Pilot Station	Pilots **Chart No 1 T:1.1**	N 65 19' 00.000"	W 166 51' 00.000"	65.31667	-166.85	LNM 05/16, 17th Dist	2408	16003_1	2/11/2016
+16003	Add	Kotzebue Pilot Station	Pilots **Chart No 1 T:1.1**	N 66 44' 00.000"	W 163 29' 00.000"	66.73333	-163.4833	LNM 05/16, 17th Dist	2408	16003_1	2/11/2016
+16003	Add	Barrow Pilot Station	Pilots **Chart No 1 T:1.1**	N 71 20' 00.000"	W 156 53' 00.000"	71.33334	-156.8833	LNM 05/16, 17th Dist	2408	16003_1	2/11/2016
+16003	Add	Submerged Buoy	Subm buoy (cov 8 fms)	N 65 44' 45.600"	W 168 15' 46.200"	65.746	-168.2628	LNM 43/15, 9th Dist	2408	16003_1	10/22/2015
+16003	Delete	Submerged Buoy	Subm buoy (cov 8 fms)	N 65 44' 43.200"	W 168 34' 49.200"	65.74533	-168.5803	LNM 43/15, 9th Dist	2408	16003_1	10/22/2015
+16003	Delete	Submerged Buoy	Subm buoy (cov 8 fms)	N 65 46' 51.000"	W 168 34' 05.400"	65.78083	-168.5682	LNM 28/15, 17th Dist	2408	16003_1	7/23/2015
+16003	Add	Submerged Buoy	Subm buoy (cov 8 fms)	N 65 46' 51.600"	W 168 34' 04.800"	65.781	-168.568	LNM 28/15, 17th Dist	2408	16003_1	7/23/2015
+16003	Delete	Submerged Buoy	Subm buoy (cov 8 fms)	N 66 19' 35.400"	W 168 57' 03.600"	66.3265	-168.951	LNM 28/15, 17th Dist	2408	16003_1	7/23/2015
+16003	Add	Submerged Buoy	Subm buoy (cov 8 fms)	N 66 19' 36.000"	W 168 57' 02.400"	66.32667	-168.9507	LNM 28/15, 17th Dist	2408	16003_1	7/23/2015

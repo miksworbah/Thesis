@@ -1,0 +1,169 @@
+Chart: 12285, Current Edition: 42, Print Date: Aug. /2015, Potomac River; District of Columbia
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12285	Relocate	Upper Potomac River Channel Buoy 19	G C "19"	N 38 21' 07.452"	W 077 12' 16.923"	38.35207	-77.2047	LNM 25/17, 5th Dist	652	12285_9	6/29/2017
+12285	Relocate	Upper Potomac River Channel Buoy 46	R N "46"	N 38 33' 35.430"	W 077 14' 04.431"	38.55984	-77.23457	LNM 25/17, 5th Dist	652	12285_9	6/29/2017
+12285	Relocate	Alexandria Channel Buoy 2	R N "2"	N 38 47' 59.908"	W 077 02' 06.915"	38.79998	-77.03526	LNM 25/17, 5th Dist	658	12285_14	6/29/2017
+12285	Relocate	Alexandria Channel Buoy 2	R N "2"	N 38 47' 59.908"	W 077 02' 06.915"	38.79998	-77.03526	LNM 25/17, 5th Dist	659	12285_15	6/29/2017
+12285	Change	Bonum Creek Warning Light A	Fl 2.5s 15ft 4M "A"	N 38 05' 54.135"	W 076 34' 47.400"	38.09837	-76.57983	LNM 22/17, 5th Dist	644	12285_1	6/8/2017
+12285	Delete	Little Wicomico River Daybeacon 15	G "15"	N 37 53' 16.717"	W 076 16' 42.726"	37.88798	-76.27853	LNM 21/17, 5th Dist	645	12285_2	6/1/2017
+12285	Add	Little Wicomico River Buoy 15	G C "15"	N 37 53' 16.477"	W 076 16' 41.725"	37.88791	-76.27826	LNM 21/17, 5th Dist	645	12285_2	6/1/2017
+12285	Add	Slough Creek Daybeacon 7	G "7" Priv	N 37 53' 04.008"	W 076 15' 11.514"	37.88445	-76.2532	LNM 21/17, 5th Dist	645	12285_2	6/1/2017
+12285	Add	Slough Creek Daybeacon 8	R "8" Priv	N 37 53' 03.245"	W 076 15' 10.002"	37.88424	-76.25278	LNM 21/17, 5th Dist	645	12285_2	6/1/2017
+12285	Change	Aquia Creek Light 12	Fl R 2.5s 15ft 4M "12"	N 38 24' 01.463"	W 077 19' 46.209"	38.40041	-77.32951	LNM 15/17, 5th Dist	652	12285_9	4/20/2017
+12285	Change	Little Wicomico River Buoy 14	R N "14"	N 37 53' 14.185"	W 076 16' 17.124"	37.88727	-76.27142	LNM 12/17, 5th Dist	645	12285_2	3/23/2017
+12285	Relocate	Little Wicomico River Buoy 14	R N "14"	N 37 53' 14.185"	W 076 16' 17.124"	37.88727	-76.27142	LNM 12/17, 5th Dist	645	12285_2	3/23/2017
+12285	Relocate	Heron Island Bar Buoy 5	G C "5"	N 38 12' 59.374"	W 076 44' 13.745"	38.21649	-76.73715	LNM 10/17, 5th Dist	651	12285_8	3/16/2017
+12285	Relocate	Heron Island Bar Buoy 5	G C "5"	N 38 12' 59.374"	W 076 44' 13.745"	38.21649	-76.73715	LNM 10/17, 5th Dist	644	12285_1	3/16/2017
+12285	Relocate	Heron Island Bar Buoy 5	G C "5"	N 38 12' 59.374"	W 076 44' 13.745"	38.21649	-76.73715	LNM 10/17, 5th Dist	652	12285_9	3/16/2017
+12285	Relocate	Heron Island Bar Buoy 4	R N "4"	N 38 12' 58.611"	W 076 43' 55.987"	38.21628	-76.73222	LNM 10/17, 5th Dist	651	12285_8	3/16/2017
+12285	Relocate	Heron Island Bar Buoy 4	R N "4"	N 38 12' 58.611"	W 076 43' 55.987"	38.21628	-76.73222	LNM 10/17, 5th Dist	644	12285_1	3/16/2017
+12285	Relocate	Heron Island Bar Buoy 4	R N "4"	N 38 12' 58.611"	W 076 43' 55.987"	38.21628	-76.73222	LNM 10/17, 5th Dist	652	12285_9	3/16/2017
+12285	Change	St. Catherine Sound Upper Entrance Warning Daybeacon A	W "A"	N 38 15' 21.274"	W 076 48' 35.960"	38.25591	-76.80999	LNM 51/16, 5th Dist	653	12285_10	12/22/2016
+12285	Change	St. Catherine Sound Upper Entrance Warning Daybeacon A	W "A"	N 38 15' 21.274"	W 076 48' 35.960"	38.25591	-76.80999	LNM 51/16, 5th Dist	652	12285_9	12/22/2016
+12285	Change	St. Catherine Sound Upper Warning Daybeacon B	W "B"	N 38 15' 07.740"	W 076 48' 26.309"	38.25215	-76.8073	LNM 51/16, 5th Dist	653	12285_10	12/22/2016
+12285	Change	St. Catherine Sound Upper Entrance Warning Daybeacon C	W "C"	N 38 15' 07.715"	W 076 48' 24.586"	38.25214	-76.80683	LNM 51/16, 5th Dist	653	12285_10	12/22/2016
+12285	Change	St. Catherine Sound Upper Entrance Warning Daybeacon D	W "D"	N 38 14' 50.212"	W 076 48' 10.520"	38.24728	-76.80293	LNM 51/16, 5th Dist	653	12285_10	12/22/2016
+12285	Change	St. Catherine Sound Upper Entrance Warning Daybeacon D	W "D"	N 38 14' 50.212"	W 076 48' 10.520"	38.24728	-76.80293	LNM 51/16, 5th Dist	652	12285_9	12/22/2016
+12285	Change	St. Catherine Sound Upper Entrance Warning Daybeacon E	W "E"	N 38 14' 54.017"	W 076 47' 44.212"	38.24834	-76.79562	LNM 51/16, 5th Dist	653	12285_10	12/22/2016
+12285	Change	St. Catherine Sound Upper Entrance Warning Daybeacon E	W "E"	N 38 14' 54.017"	W 076 47' 44.212"	38.24834	-76.79562	LNM 51/16, 5th Dist	652	12285_9	12/22/2016
+12285	Change	Port Tobacco River Daybeacon 8	R "8"	N 38 29' 36.200"	W 077 01' 27.577"	38.49339	-77.02433	LNM 49/16, 5th Dist	652	12285_9	12/15/2016
+12285	Delete	Port Tobacco River Daybeacon 12	R "12"	N 38 29' 40.997"	W 077 01' 30.688"	38.49472	-77.02519	LNM 49/16, 5th Dist	652	12285_9	12/15/2016
+12285	Delete	Slough Creek Buoy 7	G C "7"	N 37 53' 04.008"	W 076 15' 11.514"	37.88445	-76.2532	LNM 49/16, 5th Dist	645	12285_2	12/15/2016
+12285	Delete	Slough Creek Buoy 8	R N "8"	N 37 53' 03.245"	W 076 15' 10.002"	37.88424	-76.25278	LNM 49/16, 5th Dist	645	12285_2	12/15/2016
+12285	Change	Neabsco Creek Light 2	Fl R 2.5s 15ft 4M "2"	N 38 35' 46.409"	W 077 14' 44.506"	38.59623	-77.2457	LNM 49/16, 5th Dist	659	12285_15	12/15/2016
+12285	Change	St. George Creek Light 2	Fl R 4s 15ft 4M "2"	N 38 07' 22.198"	W 076 27' 56.153"	38.12283	-76.4656	LNM 47/16, 5th Dist	646	12285_3	12/1/2016
+12285	Change	St. George Creek Light 2	Fl R 4s 15ft 4M "2"	N 38 07' 22.198"	W 076 27' 56.153"	38.12283	-76.4656	LNM 47/16, 5th Dist	647	12285_4	12/1/2016
+12285	Change	St. George Creek Light 2	Fl R 4s 15ft 4M "2"	N 38 07' 22.198"	W 076 27' 56.153"	38.12283	-76.4656	LNM 47/16, 5th Dist	644	12285_1	12/1/2016
+12285	Change	Carthagena Creek Light 4	Fl R 2.5s 15ft 4M "4"	N 38 09' 08.690"	W 076 28' 15.428"	38.15241	-76.47095	LNM 47/16, 5th Dist	647	12285_4	12/1/2016
+12285	Change	Wicomico River Light 3W	Fl G 2.5s 15ft 4M "3W"	N 38 15' 41.160"	W 076 49' 54.150"	38.26143	-76.83171	LNM 47/16, 5th Dist	653	12285_10	12/1/2016
+12285	Change	Wicomico River Light 3W	Fl G 2.5s 15ft 4M "3W"	N 38 15' 41.160"	W 076 49' 54.150"	38.26143	-76.83171	LNM 47/16, 5th Dist	652	12285_9	12/1/2016
+12285	Change	Monroe Creek Entrance Light 2	Fl R 4s 15ft 4M "2"	N 38 13' 55.066"	W 076 56' 57.480"	38.23196	-76.9493	LNM 47/16, 5th Dist	654	12285_11	12/1/2016
+12285	Change	Monroe Creek Entrance Light 2	Fl R 4s 15ft 4M "2"	N 38 13' 55.066"	W 076 56' 57.480"	38.23196	-76.9493	LNM 47/16, 5th Dist	652	12285_9	12/1/2016
+12285	Change	Mattawoman Creek Light 5	Fl G 4s 15ft 4M "5"	N 38 33' 55.814"	W 077 11' 39.850"	38.5655	-77.1944	LNM 47/16, 5th Dist	652	12285_9	12/1/2016
+12285	Change	Mattawoman Creek Light 5	Fl G 4s 15ft 4M "5"	N 38 33' 55.814"	W 077 11' 39.850"	38.5655	-77.1944	LNM 47/16, 5th Dist	659	12285_15	12/1/2016
+12285	Change	Monroe Creek Channel Light 8	Fl R 4s 15ft 4M "8"	N 38 14' 12.782"	W 076 57' 58.012"	38.23689	-76.96612	LNM 47/16, 5th Dist	654	12285_11	12/1/2016
+12285	Change	Mattawoman Creek Light 3	Fl G 2.5s 15ft 4M "3"	N 38 33' 40.994"	W 077 12' 02.182"	38.56139	-77.20061	LNM 47/16, 5th Dist	652	12285_9	12/1/2016
+12285	Change	Mattawoman Creek Light 3	Fl G 2.5s 15ft 4M "3"	N 38 33' 40.994"	W 077 12' 02.182"	38.56139	-77.20061	LNM 47/16, 5th Dist	659	12285_15	12/1/2016
+12285	Relocate	Monroe Creek Channel Light 8	Fl R 4s 15ft 4M "8"	N 38 14' 12.782"	W 076 57' 58.012"	38.23689	-76.96612	LNM 47/16, 5th Dist	654	12285_11	12/1/2016
+12285	Change	St. Catherine Sound Lower Entrance Daybeacon 5L	G "5L"	N 38 13' 58.404"	W 076 47' 08.727"	38.23289	-76.78576	LNM 44/16, 5th Dist	652	12285_9	11/10/2016
+12285	Change	St. Catherine Sound Lower Entrance Warning Daybeacon	W Bn	N 38 14' 17.586"	W 076 47' 15.562"	38.23822	-76.78766	LNM 44/16, 5th Dist	652	12285_9	11/10/2016
+12285	Add	St. Catherine Sound Lower Entrance Buoy 7L	G C "7L"	N 38 14' 23.379"	W 076 47' 12.244"	38.23983	-76.78674	LNM 44/16, 5th Dist	652	12285_9	11/10/2016
+12285	Relocate	Whitestone Point Light	Iso 6s 17ft 7M	N 38 41' 04.512"	W 077 07' 23.454"	38.68459	-77.12318	LNM 43/16, 5th Dist	659	12285_15	11/3/2016
+12285	Change	Whitestone Point Light	Iso 6s 17ft 7M	N 38 41' 04.938"	W 077 07' 23.345"	38.6847	-77.12315	LNM 41/16, 5th Dist	659	12285_15	10/20/2016
+12285	Relocate	Line of Fire Buoy O	Y N "O" Navy	N 38 17' 11.062"	W 076 56' 05.797"	38.28641	-76.93494	LNM 41/16, 5th Dist	652	12285_9	10/20/2016
+12285	Change	Lake Conoy Light 2	Fl R 2.5s 18ft 4M "2"	N 38 02' 59.623"	W 076 19' 45.789"	38.0499	-76.32938	LNM 40/16, 5th Dist	644	12285_1	10/13/2016
+12285	Relocate	Wicomico River Daybeacon 13W	G "13W"	N 38 19' 49.934"	W 076 51' 19.604"	38.33054	-76.85545	LNM 40/16, 5th Dist	652	12285_9	10/13/2016
+12285	Change	Port Tobacco River Light 1	Fl G 2.5s 15ft 4M "1"	N 38 26' 37.782"	W 077 01' 54.716"	38.44383	-77.03187	LNM 40/16, 5th Dist	652	12285_9	10/13/2016
+12285	Change	St. Jerome Creek Light 1SJ	Fl G 2.5s 15ft 3M "1SJ"	N 38 06' 54.494"	W 076 20' 08.598"	38.11514	-76.33572	LNM 38/16, 5th Dist	644	12285_1	9/22/2016
+12285	Change	St. Clements Bay Light 2	Fl R 2.5s 15ft 4M "2"	N 38 14' 28.511"	W 076 43' 26.475"	38.24125	-76.72402	LNM 37/16, 5th Dist	651	12285_8	9/15/2016
+12285	Change	St. Clements Bay Light 2	Fl R 2.5s 15ft 4M "2"	N 38 14' 28.511"	W 076 43' 26.475"	38.24125	-76.72402	LNM 37/16, 5th Dist	644	12285_1	9/15/2016
+12285	Change	St. Clements Bay Light 2	Fl R 2.5s 15ft 4M "2"	N 38 14' 28.511"	W 076 43' 26.475"	38.24125	-76.72402	LNM 37/16, 5th Dist	652	12285_9	9/15/2016
+12285	Relocate	St. Clements Bay Light 2	Fl R 2.5s 15ft 4M "2"	N 38 14' 28.511"	W 076 43' 26.475"	38.24125	-76.72402	LNM 37/16, 5th Dist	651	12285_8	9/15/2016
+12285	Relocate	St. Clements Bay Light 2	Fl R 2.5s 15ft 4M "2"	N 38 14' 28.511"	W 076 43' 26.475"	38.24125	-76.72402	LNM 37/16, 5th Dist	644	12285_1	9/15/2016
+12285	Relocate	St. Clements Bay Light 2	Fl R 2.5s 15ft 4M "2"	N 38 14' 28.511"	W 076 43' 26.475"	38.24125	-76.72402	LNM 37/16, 5th Dist	652	12285_9	9/15/2016
+12285	Change	St. Marys River Light 1	Fl G 2.5s 15ft 4M "1"	N 38 08' 23.295"	W 076 27' 17.346"	38.1398	-76.45482	LNM 35/16, 5th Dist	647	12285_4	9/8/2016
+12285	Change	St. Marys River Light 1	Fl G 2.5s 15ft 4M "1"	N 38 08' 23.295"	W 076 27' 17.346"	38.1398	-76.45482	LNM 35/16, 5th Dist	644	12285_1	9/8/2016
+12285	Change	Slough Creek Buoy 7	G C "7"	N 37 53' 04.008"	W 076 15' 11.514"	37.88445	-76.2532	LNM 35/16, 5th Dist	645	12285_2	9/8/2016
+12285	Relocate	Line of Fire Buoy N	Y N "N" Navy	N 38 14' 53.466"	W 076 56' 57.397"	38.24818	-76.94928	LNM 34/16, 5th Dist	654	12285_11	9/1/2016
+12285	Relocate	Line of Fire Buoy N	Y N "N" Navy	N 38 14' 53.466"	W 076 56' 57.397"	38.24818	-76.94928	LNM 34/16, 5th Dist	652	12285_9	9/1/2016
+12285	Relocate	Hains Point Buoy 2	R N "2"	N 38 51' 14.605"	W 077 01' 10.914"	38.85406	-77.0197	LNM 34/16, 5th Dist	655	12285_12	9/1/2016
+12285	Relocate	Hains Point Buoy 2	R N "2"	N 38 51' 14.605"	W 077 01' 10.914"	38.85406	-77.0197	LNM 34/16, 5th Dist	658	12285_14	9/1/2016
+12285	Relocate	Chesapeake Channel Lighted Buoy 64	R "64" Fl R 4s	N 37 55' 30.454"	W 076 09' 04.783"	37.92513	-76.15133	LNM 32/16, 5th Dist	644	12285_1	8/18/2016
+12285	Add	Line of Fire Buoy Q	Y N "Q" Navy	N 38 19' 05.987"	W 076 57' 05.919"	38.31833	-76.95164	LNM 30/16, 5th Dist	652	12285_9	8/11/2016
+12285	Delete	Line of Fire Buoy Q	Y N "Q" Navy	N 38 17' 27.561"	W 076 55' 56.896"	38.29099	-76.93247	LNM 30/16, 5th Dist	652	12285_9	8/11/2016
+12285	Change	St Jerome Creek Daybeacon 4A	R "4A"	N 38 07' 11.679"	W 076 20' 32.254"	38.11991	-76.34229	LNM 27/16, 5th Dist	644	12285_1	7/7/2016
+12285	Relocate	St Jerome Creek Daybeacon 4A	R "4A"	N 38 07' 11.679"	W 076 20' 32.254"	38.11991	-76.34229	LNM 27/16, 5th Dist	644	12285_1	7/7/2016
+12285	Change	Wicomico River Entrance Light 1W	Fl G 4s 18ft 4M "1W"	N 38 14' 29.415"	W 076 49' 28.803"	38.2415	-76.82467	LNM 26/16, 5th Dist	653	12285_10	6/30/2016
+12285	Change	Wicomico River Entrance Light 1W	Fl G 4s 18ft 4M "1W"	N 38 14' 29.415"	W 076 49' 28.803"	38.2415	-76.82467	LNM 26/16, 5th Dist	652	12285_9	6/30/2016
+12285	Add	Overhead Power Cable Label	OVHD PWR CAB AUTH CL 73 FT REP	N 38 41' 01.260"	W 077 15' 27.410"	38.68368	-77.25761	LNM 25/16, 5th Dist	660	12285_16	6/23/2016
+12285	Add	Overhead Power Cable  PT 1 OF 2	Chart No. 1: D26  	N 38 41' 07.100"	W 077 15' 25.990"	38.68531	-77.25722	LNM 25/16, 5th Dist	660	12285_16	6/23/2016
+12285	Add	Overhead Power Cable  PT 2 OF 2	Chart No. 1: D26  	N 38 40' 56.730"	W 077 15' 28.520"	38.68243	-77.25792	LNM 25/16, 5th Dist	660	12285_16	6/23/2016
+12285	Delete	Herring Creek Warning Daybeacon	W Bn	N 38 10' 38.226"	W 076 32' 49.702"	38.17728	-76.54714	LNM 14/16, 5th Dist	644	12285_1	4/14/2016
+12285	Change	Mattox Creek Light 4	Fl R 4s 15ft 4M "4"	N 38 12' 29.219"	W 076 57' 41.475"	38.20811	-76.96152	LNM 14/16, 5th Dist	652	12285_9	4/14/2016
+12285	Change	Tabulation - ANACOSTIA AND WASHINGTON CHANNEL DEPTHS	Tabulation - ANACOSTIA AND WASHINGTON CHANNEL DEPTHS	N 38 51' 19.000"	W 077 00' 02.000"	38.85528	-77.00056	LNM 15/16, 5th Dist	655	12285_12	4/14/2016
+12285	Relocate	Dukeharts Channel Buoy 9	G C "9"	N 38 13' 18.829"	W 076 45' 59.386"	38.2219	-76.76649	LNM 12/16, 5th Dist	651	12285_8	3/31/2016
+12285	Relocate	Dukeharts Channel Buoy 9	G C "9"	N 38 13' 18.829"	W 076 45' 59.386"	38.2219	-76.76649	LNM 12/16, 5th Dist	652	12285_9	3/31/2016
+12285	Change	Occoquan River Channel Light 14	Fl R 4s 15ft 4M "14"	N 38 39' 43.733"	W 077 14' 06.076"	38.66215	-77.23502	LNM 10/16, 5th Dist	660	12285_16	3/17/2016
+12285	Change	Ragged Point Light	Fl 6s 44ft 7M	N 38 09' 16.302"	W 076 36' 04.603"	38.15453	-76.60128	LNM 06/16, 5th Dist	649	12285_6	2/11/2016
+12285	Change	Ragged Point Light	Fl 6s 44ft 7M	N 38 09' 16.302"	W 076 36' 04.603"	38.15453	-76.60128	LNM 06/16, 5th Dist	644	12285_1	2/11/2016
+12285	Relocate	Ragged Point Light	Fl 6s 44ft 7M	N 38 09' 16.302"	W 076 36' 04.603"	38.15453	-76.60128	LNM 06/16, 5th Dist	649	12285_6	2/11/2016
+12285	Relocate	Ragged Point Light	Fl 6s 44ft 7M	N 38 09' 16.302"	W 076 36' 04.603"	38.15453	-76.60128	LNM 06/16, 5th Dist	644	12285_1	2/11/2016
+12285	Delete	Washington Channel Warning Buoy A	W Or C "A"	N 38 51' 43.719"	W 077 01' 08.380"	38.86214	-77.019	LNM 51/15, 5th Dist	655	12285_12	1/7/2016
+12285	Delete	Washington Channel Warning Buoy A	W Or C "A"	N 38 51' 43.719"	W 077 01' 08.380"	38.86214	-77.019	LNM 51/15, 5th Dist	658	12285_14	1/7/2016
+12285	Delete	Washington Channel Warning Buoy B	W Or C "B"	N 38 51' 58.260"	W 077 01' 08.368"	38.86618	-77.01899	LNM 51/15, 5th Dist	655	12285_12	1/7/2016
+12285	Delete	Washington Channel Warning Buoy B	W Or C "B"	N 38 51' 58.260"	W 077 01' 08.368"	38.86618	-77.01899	LNM 51/15, 5th Dist	658	12285_14	1/7/2016
+12285	Change	Breton Bay Entrance Light 2	Fl R 4s 15ft 4M "2"	N 38 13' 36.412"	W 076 41' 40.347"	38.22678	-76.69454	LNM 47/15, 5th Dist	651	12285_8	12/3/2015
+12285	Change	Breton Bay Entrance Light 2	Fl R 4s 15ft 4M "2"	N 38 13' 36.412"	W 076 41' 40.347"	38.22678	-76.69454	LNM 47/15, 5th Dist	644	12285_1	12/3/2015
+12285	Change	Cuckold Creek Light 1	Fl G 2.5s 15ft 4M "1"	N 38 18' 48.720"	W 076 55' 49.353"	38.31353	-76.93037	LNM 47/15, 5th Dist	652	12285_9	12/3/2015
+12285	Change	Coan River Light 6	Fl R 2.5s 15ft 4M "6"	N 37 59' 36.684"	W 076 27' 10.266"	37.99352	-76.45285	LNM 47/15, 5th Dist	644	12285_1	12/3/2015
+12285	Relocate	Lower Creek Machodoc Creek Light 4	Fl R 4s 15ft 3M "4"	N 38 07' 28.733"	W 076 38' 21.721"	38.12465	-76.63937	LNM 47/15, 5th Dist	649	12285_6	12/3/2015
+12285	Relocate	Nomini Creek Channel Light 1	Fl G 2.5s 18ft 4M "1"	N 38 08' 23.383"	W 076 43' 22.695"	38.13983	-76.72297	LNM 47/15, 5th Dist	644	12285_1	12/3/2015
+12285	Relocate	Breton Bay Light 5	Fl G 6s 15ft 4M "5"	N 38 15' 18.442"	W 076 41' 34.605"	38.25512	-76.69295	LNM 47/15, 5th Dist	650	12285_7	12/3/2015
+12285	Relocate	Breton Bay Light 5	Fl G 6s 15ft 4M "5"	N 38 15' 18.442"	W 076 41' 34.605"	38.25512	-76.69295	LNM 47/15, 5th Dist	651	12285_8	12/3/2015
+12285	Relocate	Breton Bay Light 5	Fl G 6s 15ft 4M "5"	N 38 15' 18.442"	W 076 41' 34.605"	38.25512	-76.69295	LNM 47/15, 5th Dist	644	12285_1	12/3/2015
+12285	Relocate	Breton Bay Light 8	Fl R 4s 15ft 4M "8"	N 38 15' 53.969"	W 076 39' 00.361"	38.26499	-76.6501	LNM 47/15, 5th Dist	650	12285_7	12/3/2015
+12285	Relocate	Breton Bay Light 8	Fl R 4s 15ft 4M "8"	N 38 15' 53.969"	W 076 39' 00.361"	38.26499	-76.6501	LNM 47/15, 5th Dist	644	12285_1	12/3/2015
+12285	Relocate	St Patrick Creek Channel Light 2SP	Fl R 4s 16ft 4M "2SP"	N 38 13' 53.502"	W 076 44' 16.758"	38.23153	-76.73799	LNM 47/15, 5th Dist	651	12285_8	12/3/2015
+12285	Relocate	St Patrick Creek Channel Light 2SP	Fl R 4s 16ft 4M "2SP"	N 38 13' 53.502"	W 076 44' 16.758"	38.23153	-76.73799	LNM 47/15, 5th Dist	644	12285_1	12/3/2015
+12285	Relocate	St Patrick Creek Channel Light 2SP	Fl R 4s 16ft 4M "2SP"	N 38 13' 53.502"	W 076 44' 16.758"	38.23153	-76.73799	LNM 47/15, 5th Dist	652	12285_9	12/3/2015
+12285	Relocate	Wicomico River Light 3W	Fl G 2.5s 15ft 3M "3W"	N 38 15' 41.160"	W 076 49' 54.150"	38.26143	-76.83171	LNM 47/15, 5th Dist	653	12285_10	12/3/2015
+12285	Relocate	Wicomico River Light 3W	Fl G 2.5s 15ft 3M "3W"	N 38 15' 41.160"	W 076 49' 54.150"	38.26143	-76.83171	LNM 47/15, 5th Dist	652	12285_9	12/3/2015
+12285	Relocate	Wicomico River Light 5W	Fl G 4s 15ft 4M "5W"	N 38 16' 35.144"	W 076 49' 25.725"	38.27643	-76.82381	LNM 47/15, 5th Dist	653	12285_10	12/3/2015
+12285	Relocate	Wicomico River Light 5W	Fl G 4s 15ft 4M "5W"	N 38 16' 35.144"	W 076 49' 25.725"	38.27643	-76.82381	LNM 47/15, 5th Dist	652	12285_9	12/3/2015
+12285	Relocate	Wicomico River Light 9W	Fl G 6s 15ft 4M "9W"	N 38 19' 01.317"	W 076 50' 44.736"	38.31703	-76.84576	LNM 47/15, 5th Dist	652	12285_9	12/3/2015
+12285	Relocate	Potomac Creek Light 2PC	Fl R 4s 15ft 4M "2PC"	N 38 20' 38.187"	W 077 16' 40.154"	38.34394	-77.27782	LNM 47/15, 5th Dist	652	12285_9	12/3/2015
+12285	Relocate	Cuckold Creek Light 1	Fl G 2.5s 15ft 3M "1"	N 38 18' 48.720"	W 076 55' 49.353"	38.31353	-76.93037	LNM 44/15, 5th Dist	652	12285_9	11/12/2015
+12285	Delete	Dukeharts Channel Daybeacon 9	G "9"	N 38 13' 18.983"	W 076 46' 00.066"	38.22194	-76.76669	LNM 44/15, 5th Dist	651	12285_8	11/12/2015
+12285	Delete	Dukeharts Channel Daybeacon 9	G "9"	N 38 13' 18.983"	W 076 46' 00.066"	38.22194	-76.76669	LNM 44/15, 5th Dist	652	12285_9	11/12/2015
+12285	Add	Dukeharts Channel Buoy 9	G C "9"	N 38 13' 18.922"	W 076 46' 00.119"	38.22192	-76.7667	LNM 44/15, 5th Dist	651	12285_8	11/12/2015
+12285	Add	Dukeharts Channel Buoy 9	G C "9"	N 38 13' 18.922"	W 076 46' 00.119"	38.22192	-76.7667	LNM 44/15, 5th Dist	652	12285_9	11/12/2015
+12285	Delete	Dukeharts Channel Daybeacon 10	R "10"	N 38 13' 12.486"	W 076 46' 23.085"	38.22013	-76.77308	LNM 44/15, 5th Dist	652	12285_9	11/12/2015
+12285	Add	Dukeharts Channel Buoy 10	R N "10"	N 38 13' 12.457"	W 076 46' 23.074"	38.22013	-76.77308	LNM 44/15, 5th Dist	652	12285_9	11/12/2015
+12285	Delete	Marlboro Point Lighted Wreck Buoy WR1	G "WR1" Q G	N 38 22' 24.331"	W 077 17' 52.873"	38.37342	-77.29802	LNM 44/15, 5th Dist	652	12285_9	11/12/2015
+12285	Add	Marlboro Point Warning Daybeacon	W Bn	N 38 22' 24.311"	W 077 17' 52.951"	38.37342	-77.29804	LNM 44/15, 5th Dist	652	12285_9	11/12/2015
+12285	Relocate	Kingcopsico Point Warning Daybeacon	W Bn	N 38 09' 44.895"	W 076 42' 05.546"	38.16247	-76.70154	LNM 44/15, 5th Dist	644	12285_1	11/12/2015
+12285	Change	Occoquan River Channel Light 2	Fl R 4s 15ft 4M "2"	N 38 37' 24.168"	W 077 12' 47.749"	38.62338	-77.21326	LNM 44/15, 5th Dist	660	12285_16	11/12/2015
+12285	Change	Occoquan River Channel Light 2	Fl R 4s 15ft 4M "2"	N 38 37' 24.168"	W 077 12' 47.749"	38.62338	-77.21326	LNM 44/15, 5th Dist	659	12285_15	11/12/2015
+12285	Relocate	Potomac Creek Daybeacon 7	G "7"	N 38 20' 37.877"	W 077 19' 03.012"	38.34385	-77.3175	LNM 43/15, 5th Dist	652	12285_9	10/29/2015
+12285	Relocate	Dukeharts Channel Daybeacon 8	R "8"	N 38 13' 07.031"	W 076 45' 08.727"	38.21862	-76.75243	LNM 43/15, 5th Dist	651	12285_8	10/29/2015
+12285	Relocate	Dukeharts Channel Daybeacon 8	R "8"	N 38 13' 07.031"	W 076 45' 08.727"	38.21862	-76.75243	LNM 43/15, 5th Dist	644	12285_1	10/29/2015
+12285	Relocate	Dukeharts Channel Daybeacon 8	R "8"	N 38 13' 07.031"	W 076 45' 08.727"	38.21862	-76.75243	LNM 43/15, 5th Dist	652	12285_9	10/29/2015
+12285	Delete	Dukeharts Channel Daybeacon 7	G "7"	N 38 13' 07.413"	W 076 44' 46.398"	38.21873	-76.74622	LNM 43/15, 5th Dist	651	12285_8	10/29/2015
+12285	Delete	Dukeharts Channel Daybeacon 7	G "7"	N 38 13' 07.413"	W 076 44' 46.398"	38.21873	-76.74622	LNM 43/15, 5th Dist	644	12285_1	10/29/2015
+12285	Delete	Dukeharts Channel Daybeacon 7	G "7"	N 38 13' 07.413"	W 076 44' 46.398"	38.21873	-76.74622	LNM 43/15, 5th Dist	652	12285_9	10/29/2015
+12285	Add	Dukeharts Channel Buoy 7	G C "7"	N 38 13' 07.473"	W 076 44' 46.470"	38.21874	-76.74624	LNM 43/15, 5th Dist	651	12285_8	10/29/2015
+12285	Add	Dukeharts Channel Buoy 7	G C "7"	N 38 13' 07.473"	W 076 44' 46.470"	38.21874	-76.74624	LNM 43/15, 5th Dist	644	12285_1	10/29/2015
+12285	Add	Dukeharts Channel Buoy 7	G C "7"	N 38 13' 07.473"	W 076 44' 46.470"	38.21874	-76.74624	LNM 43/15, 5th Dist	652	12285_9	10/29/2015
+12285	Change	Upper Potomac River Channel Light 5	Fl G 6s 44ft 4M "5"	N 38 24' 18.775"	W 077 02' 33.965"	38.40522	-77.04277	LNM 41/15, 5th Dist	652	12285_9	10/22/2015
+12285	Relocate	Mathias Point Warning Daybeacon	W Bn	N 38 23' 34.494"	W 077 01' 22.866"	38.39291	-77.02302	LNM 41/15, 5th Dist	652	12285_9	10/22/2015
+12285	Relocate	Upper Potomac River Channel Light 5	Fl G 6s 44ft 4M "5"	N 38 24' 18.775"	W 077 02' 33.965"	38.40522	-77.04277	LNM 41/15, 5th Dist	652	12285_9	10/22/2015
+12285	Change	Upper Potomac River Channel Light 56	Fl R 4s 15ft 4M "56"	N 38 36' 40.505"	W 077 08' 18.544"	38.61125	-77.13848	LNM 40/15, 5th Dist	659	12285_15	10/22/2015
+12285	Change	Occoquan River Channel Light 12	Fl R 4s 15ft 4M "12"	N 38 39' 26.728"	W 077 13' 57.301"	38.65742	-77.23258	LNM 40/15, 5th Dist	660	12285_16	10/22/2015
+12285	Change	Upper Potomac River Channel Light 8	Fl R 6s 15ft 4M "8"	N 38 24' 09.311"	W 077 04' 57.239"	38.40259	-77.08257	LNM 39/15, 5th Dist	652	12285_9	10/8/2015
+12285	Relocate	Piscataway Creek Daybeacon 4	R "4"	N 38 42' 15.984"	W 077 02' 03.480"	38.70444	-77.0343	LNM 39/15, 5th Dist	659	12285_15	10/8/2015
+12285	Relocate	Piscataway Creek Daybeacon 6	R "6"	N 38 42' 05.838"	W 077 01' 48.049"	38.70162	-77.03001	LNM 39/15, 5th Dist	659	12285_15	10/8/2015
+12285	Relocate	Upper Potomac River Channel Light 8	Fl R 6s 15ft 4M "8"	N 38 24' 09.311"	W 077 04' 57.239"	38.40259	-77.08257	LNM 39/15, 5th Dist	652	12285_9	10/8/2015
+12285	Change	Upper Potomac River Channel Light 88	Fl R 2.5s 20ft 4M "88"	N 38 46' 10.039"	W 077 01' 51.001"	38.76945	-77.03083	LNM 38/15, 5th Dist	658	12285_14	10/1/2015
+12285	Change	Upper Potomac River Channel Light 88	Fl R 2.5s 20ft 4M "88"	N 38 46' 10.039"	W 077 01' 51.001"	38.76945	-77.03083	LNM 38/15, 5th Dist	659	12285_15	10/1/2015
+12285	Change	Neale Sound Channel Light 7	Fl G 4s 15ft 3M "7"	N 38 16' 15.723"	W 076 51' 50.669"	38.27103	-76.86407	LNM 37/15, 5th Dist	653	12285_10	9/24/2015
+12285	Change	Breton Bay Daybeacon 11	G "11"	N 38 16' 45.806"	W 076 37' 48.136"	38.27939	-76.63004	LNM 37/15, 5th Dist	650	12285_7	9/24/2015
+12285	Change	Herring Creek Warning Daybeacon	W Or Bn	N 38 10' 38.226"	W 076 32' 48.702"	38.17728	-76.54686	LNM 36/15, 5th Dist	644	12285_1	9/17/2015
+12285	Change	Smith Creek - Potomac River Approach Light 2S	Q R 15ft 4M "2S"	N 38 05' 31.108"	W 076 24' 15.039"	38.09198	-76.40417	LNM 35/15, 5th Dist	646	12285_3	9/10/2015
+12285	Change	Smith Creek - Potomac River Approach Light 2S	Q R 15ft 4M "2S"	N 38 05' 31.108"	W 076 24' 15.039"	38.09198	-76.40417	LNM 35/15, 5th Dist	644	12285_1	9/10/2015
+12285	Change	Smith Creek - Potomac River Light 4	Fl R 4s 15ft 4M "4"	N 38 06' 08.274"	W 076 24' 27.159"	38.1023	-76.40755	LNM 35/15, 5th Dist	646	12285_3	9/10/2015
+12285	Relocate	Washington Channel Junction Buoy WC	RG N "WC"	N 38 51' 29.554"	W 077 01' 09.764"	38.85821	-77.01938	LNM 35/15, 5th Dist	655	12285_12	8/27/2015
+12285	Relocate	Washington Channel Junction Buoy WC	RG N "WC"	N 38 51' 29.554"	W 077 01' 09.764"	38.85821	-77.01938	LNM 35/15, 5th Dist	658	12285_14	8/27/2015
+12285	Relocate	Georgetown Channel Buoy 1	G C "1"	N 38 51' 11.205"	W 077 01' 26.875"	38.85311	-77.02413	LNM 35/15, 5th Dist	655	12285_12	8/27/2015
+12285	Relocate	Georgetown Channel Buoy 1	G C "1"	N 38 51' 11.205"	W 077 01' 26.875"	38.85311	-77.02413	LNM 35/15, 5th Dist	658	12285_14	8/27/2015
+12285	Relocate	Georgetown Channel Buoy 2	R N "2"	N 38 51' 16.235"	W 077 01' 24.875"	38.85451	-77.02357	LNM 35/15, 5th Dist	655	12285_12	8/27/2015
+12285	Relocate	Georgetown Channel Buoy 2	R N "2"	N 38 51' 16.235"	W 077 01' 24.875"	38.85451	-77.02357	LNM 35/15, 5th Dist	658	12285_14	8/27/2015
+12285	Relocate	Georgetown Channel Buoy 6	R N "6"	N 38 52' 04.604"	W 077 01' 52.215"	38.86795	-77.03117	LNM 35/15, 5th Dist	655	12285_12	8/27/2015
+12285	Relocate	Georgetown Channel Buoy 6	R N "6"	N 38 52' 04.604"	W 077 01' 52.215"	38.86795	-77.03117	LNM 35/15, 5th Dist	658	12285_14	8/27/2015
+12285	Relocate	Washington Channel Warning Buoy A	W Or C "A"	N 38 51' 43.719"	W 077 01' 08.380"	38.86214	-77.019	LNM 35/15, 5th Dist	655	12285_12	8/27/2015
+12285	Relocate	Washington Channel Warning Buoy A	W Or C "A"	N 38 51' 43.719"	W 077 01' 08.380"	38.86214	-77.019	LNM 35/15, 5th Dist	658	12285_14	8/27/2015
+12285	Relocate	Washington Channel Warning Buoy B	W Or C "B"	N 38 51' 58.260"	W 077 01' 08.368"	38.86618	-77.01899	LNM 35/15, 5th Dist	655	12285_12	8/27/2015
+12285	Relocate	Washington Channel Warning Buoy B	W Or C "B"	N 38 51' 58.260"	W 077 01' 08.368"	38.86618	-77.01899	LNM 35/15, 5th Dist	658	12285_14	8/27/2015
+12285	Relocate	Georgetown Channel Buoy 3	G C "3"	N 38 51' 36.184"	W 077 01' 40.015"	38.86005	-77.02778	LNM 35/15, 5th Dist	655	12285_12	8/27/2015
+12285	Relocate	Georgetown Channel Buoy 3	G C "3"	N 38 51' 36.184"	W 077 01' 40.015"	38.86005	-77.02778	LNM 35/15, 5th Dist	658	12285_14	8/27/2015
+12285	Relocate	Georgetown Channel Buoy 4	R N "4"	N 38 51' 38.054"	W 077 01' 36.805"	38.86057	-77.02689	LNM 35/15, 5th Dist	655	12285_12	8/27/2015
+12285	Relocate	Georgetown Channel Buoy 4	R N "4"	N 38 51' 38.054"	W 077 01' 36.805"	38.86057	-77.02689	LNM 35/15, 5th Dist	658	12285_14	8/27/2015

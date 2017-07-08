@@ -1,0 +1,75 @@
+Chart: 11467, Current Edition: 44, Print Date: Jan. /2017, Intracoastal Waterway West Palm Beach to Miami
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11467	Change	tabulation - PORT EVERGLADES CHANNEL DEPTHS	tabulation - PORT EVERGLADES CHANNEL DEPTHS	N 26 35' 34.000"	W 080 00' 03.000"	26.59278	-80.00083	Not Yet Published	311	11467_1	7/6/2017
+11467	Change	channel reach name to	MAIN TURNING BASIN	N 26 05' 37.500"	W 080 07' 06.000"	26.09375	-80.11833	Not Yet Published	313	11467_2	7/6/2017
+11467	Delete	Channel Limits PT 1 OF 7	Chart No. 1: I20	N 26 05' 24.950"	W 080 06' 53.720"	26.09026	-80.11492	Not Yet Published	312	11467_5	7/6/2017
+11467	Delete	Channel Limits PT 2 OF 7	Chart No. 1: I20	N 26 05' 12.190"	W 080 06' 49.110"	26.08672	-80.11364	Not Yet Published	312	11467_5	7/6/2017
+11467	Delete	Channel Limits PT 3 OF 7	Chart No. 1: I20	N 26 03' 53.960"	W 080 06' 51.150"	26.06499	-80.11421	Not Yet Published	312	11467_5	7/6/2017
+11467	Delete	Channel Limits PT 4 OF 7	Chart No. 1: I20	N 26 03' 53.890"	W 080 06' 52.460"	26.06497	-80.11457	Not Yet Published	312	11467_5	7/6/2017
+11467	Delete	Channel Limits PT 5 OF 7	Chart No. 1: I20	N 26 05' 09.360"	W 080 06' 50.590"	26.08593	-80.11405	Not Yet Published	312	11467_5	7/6/2017
+11467	Delete	Channel Limits PT 6 OF 7	Chart No. 1: I20	N 26 05' 14.440"	W 080 06' 51.460"	26.08735	-80.1143	Not Yet Published	312	11467_5	7/6/2017
+11467	Delete	Channel Limits PT 7 OF 7	Chart No. 1: I20	N 26 05' 24.040"	W 080 06' 54.940"	26.09001	-80.11526	Not Yet Published	312	11467_5	7/6/2017
+11467	Add	Channel Limits PT 1 OF 6	Chart No. 1: I20	N 26 05' 27.190"	W 080 06' 50.940"	26.09089	-80.11415	Not Yet Published	313	11467_2	7/6/2017
+11467	Add	Channel Limits PT 2 OF 6	Chart No. 1: I20	N 26 05' 10.380"	W 080 06' 45.750"	26.08622	-80.11271	Not Yet Published	313	11467_2	7/6/2017
+11467	Add	Channel Limits PT 3 OF 6	Chart No. 1: I20	N 26 05' 07.990"	W 080 06' 46.210"	26.08555	-80.11284	Not Yet Published	313	11467_2	7/6/2017
+11467	Add	Channel Limits PT 4 OF 6	Chart No. 1: I20	N 26 05' 08.400"	W 080 06' 50.640"	26.08567	-80.11407	Not Yet Published	313	11467_2	7/6/2017
+11467	Add	Channel Limits PT 5 OF 6	Chart No. 1: I20	N 26 05' 10.110"	W 080 06' 50.220"	26.08614	-80.11395	Not Yet Published	313	11467_2	7/6/2017
+11467	Add	Channel Limits PT 6 OF 6	Chart No. 1: I20	N 26 05' 24.130"	W 080 06' 54.580"	26.09004	-80.11516	Not Yet Published	313	11467_2	7/6/2017
+11467	Delete	Channel Limits PT 1 OF 4	Chart No. 1: I20	N 26 04' 01.380"	W 080 06' 50.850"	26.06705	-80.11413	Not Yet Published	314	11467_3	7/6/2017
+11467	Delete	Channel Limits PT 2 OF 4	Chart No. 1: I20	N 26 03' 53.960"	W 080 06' 51.150"	26.06499	-80.11421	Not Yet Published	314	11467_3	7/6/2017
+11467	Delete	Channel Limits PT 3 OF 4	Chart No. 1: I20	N 26 03' 53.890"	W 080 06' 52.460"	26.06497	-80.11457	Not Yet Published	314	11467_3	7/6/2017
+11467	Delete	Channel Limits PT 4 OF 4	Chart No. 1: I20	N 26 04' 01.460"	W 080 06' 52.280"	26.06707	-80.11452	Not Yet Published	314	11467_3	7/6/2017
+11467	Add	Channel Limits PT 1 OF 12	Chart No. 1: I20	N 26 05' 27.190"	W 080 06' 50.940"	26.09089	-80.11415	Not Yet Published	312	11467_5	7/6/2017
+11467	Add	Channel Limits PT 2 OF 12	Chart No. 1: I20	N 26 05' 10.380"	W 080 06' 45.750"	26.08622	-80.11271	Not Yet Published	312	11467_5	7/6/2017
+11467	Add	Channel Limits PT 3 OF 12	Chart No. 1: I20	N 26 04' 46.680"	W 080 06' 49.320"	26.07963	-80.1137	Not Yet Published	312	11467_5	7/6/2017
+11467	Add	Channel Limits PT 4 OF 12	Chart No. 1: I20	N 26 03' 53.890"	W 080 06' 50.610"	26.06497	-80.11406	Not Yet Published	312	11467_5	7/6/2017
+11467	Add	Channel Limits PT 5 OF 12	Chart No. 1: I20	N 26 03' 53.930"	W 080 06' 52.490"	26.06498	-80.11458	Not Yet Published	312	11467_5	7/6/2017
+11467	Add	Channel Limits PT 6 OF 12	Chart No. 1: I20	N 26 03' 53.970"	W 080 06' 54.710"	26.06499	-80.1152	Not Yet Published	312	11467_5	7/6/2017
+11467	Add	Channel Limits PT 7 OF 12	Chart No. 1: I20	N 26 04' 21.810"	W 080 06' 53.920"	26.07273	-80.11497	Not Yet Published	312	11467_5	7/6/2017
+11467	Add	Channel Limits PT 8 OF 12	Chart No. 1: I20	N 26 04' 21.810"	W 080 06' 54.270"	26.07273	-80.11507	Not Yet Published	312	11467_5	7/6/2017
+11467	Add	Channel Limits PT 9 OF 12	Chart No. 1: I20	N 26 04' 42.830"	W 080 06' 53.880"	26.07856	-80.11497	Not Yet Published	312	11467_5	7/6/2017
+11467	Add	Channel Limits PT 10 OF 12	Chart No. 1: I20	N 26 04' 42.830"	W 080 06' 54.490"	26.07856	-80.11514	Not Yet Published	312	11467_5	7/6/2017
+11467	Add	Channel Limits PT 11 OF 12	Chart No. 1: I20	N 26 05' 10.110"	W 080 06' 50.220"	26.08614	-80.11395	Not Yet Published	312	11467_5	7/6/2017
+11467	Add	Channel Limits PT 12 OF 12	Chart No. 1: I20	N 26 05' 24.130"	W 080 06' 54.580"	26.09004	-80.11516	Not Yet Published	312	11467_5	7/6/2017
+11467	Add	soundings inside channel PT 1 OF 2	soundings inside channel	N 26 05' 25.370"	W 080 06' 52.800"	26.09038	-80.11467	Not Yet Published	313	11467_2	7/6/2017
+11467	Add	soundings inside channel PT 2 OF 2	soundings inside channel	N 26 05' 08.410"	W 080 06' 48.250"	26.08567	-80.1134	Not Yet Published	313	11467_2	7/6/2017
+11467	Change	channel reach name	INNER ENTRANCE CHANNEL	N 26 05' 37.000"	W 080 06' 30.500"	26.09361	-80.10847	Not Yet Published	313	11467_2	7/6/2017
+11467	Add	Channel Limits PT 1 OF 4	Chart No. 1: I20	N 26 04' 23.180"	W 080 06' 54.390"	26.0731	-80.1151	Not Yet Published	312	11467_5	7/6/2017
+11467	Add	Channel Limits PT 2 OF 4	Chart No. 1: I20	N 26 04' 23.090"	W 080 07' 05.340"	26.07308	-80.11815	Not Yet Published	312	11467_5	7/6/2017
+11467	Add	Channel Limits PT 3 OF 4	Chart No. 1: I20	N 26 04' 29.460"	W 080 07' 05.470"	26.07485	-80.11819	Not Yet Published	312	11467_5	7/6/2017
+11467	Add	Channel Limits PT 4 OF 4	Chart No. 1: I20	N 26 04' 29.550"	W 080 06' 54.240"	26.07487	-80.11507	Not Yet Published	312	11467_5	7/6/2017
+11467	Delete	Channel Limits PT 1 OF 6	Chart No. 1: I20	N 26 05' 24.950"	W 080 06' 53.720"	26.09026	-80.11492	Not Yet Published	313	11467_2	7/6/2017
+11467	Delete	Channel Limits PT 2 OF 6	Chart No. 1: I20	N 26 05' 12.190"	W 080 06' 49.110"	26.08672	-80.11364	Not Yet Published	313	11467_2	7/6/2017
+11467	Delete	Channel Limits PT 3 OF 6	Chart No. 1: I20	N 26 05' 08.300"	W 080 06' 49.100"	26.08564	-80.11364	Not Yet Published	313	11467_2	7/6/2017
+11467	Delete	Channel Limits PT 4 OF 6	Chart No. 1: I20	N 26 05' 09.360"	W 080 06' 50.590"	26.08593	-80.11405	Not Yet Published	313	11467_2	7/6/2017
+11467	Delete	Channel Limits PT 5 OF 6	Chart No. 1: I20	N 26 05' 14.440"	W 080 06' 51.460"	26.08735	-80.1143	Not Yet Published	313	11467_2	7/6/2017
+11467	Delete	Channel Limits PT 6 OF 6	Chart No. 1: I20	N 26 05' 24.040"	W 080 06' 54.940"	26.09001	-80.11526	Not Yet Published	313	11467_2	7/6/2017
+11467	Add	Channel Limits PT 1 OF 5	Chart No. 1: I20	N 26 04' 01.360"	W 080 06' 50.540"	26.06705	-80.11404	Not Yet Published	314	11467_3	7/6/2017
+11467	Add	Channel Limits PT 2 OF 5	Chart No. 1: I20	N 26 03' 53.890"	W 080 06' 50.610"	26.06497	-80.11406	Not Yet Published	314	11467_3	7/6/2017
+11467	Add	Channel Limits PT 3 OF 5	Chart No. 1: I20	N 26 03' 53.930"	W 080 06' 52.490"	26.06498	-80.11458	Not Yet Published	314	11467_3	7/6/2017
+11467	Add	Channel Limits PT 4 OF 5	Chart No. 1: I20	N 26 03' 53.970"	W 080 06' 54.710"	26.06499	-80.1152	Not Yet Published	314	11467_3	7/6/2017
+11467	Add	Channel Limits PT 5 OF 5	Chart No. 1: I20	N 26 04' 01.710"	W 080 06' 54.470"	26.06714	-80.11513	Not Yet Published	314	11467_3	7/6/2017
+11467	Relocate	Lummus Island Turning Basin Light E	Fl Y 4s 16ft 4M "E"	N 25 46' 02.589"	W 080 10' 14.014"	25.76739	-80.17056	LNM 25/17, 7th Dist	319	11467_9	6/29/2017
+11467	Change	Depth Legend - New River to:	8 FT JUN 2016	N 26 06' 54.000"	W 080 07' 26.300"	26.115	-80.12397	LNM 25/17, 7th Dist	313	11467_2	6/15/2017
+11467	Add	Depth Legend - New River to:	8 FT JUN 2016	N 26 06' 42.500"	W 080 07' 10.700"	26.1118	-80.11964	LNM 25/17, 7th Dist	313	11467_2	6/15/2017
+11467	Add	magenta reach separator PT 1 OF 4	magenta reach separator	N 26 06' 48.250"	W 080 07' 09.390"	26.1134	-80.11928	LNM 25/17, 7th Dist	313	11467_2	6/15/2017
+11467	Add	magenta reach separator PT 2 OF 4	magenta reach separator	N 26 06' 49.430"	W 080 07' 11.170"	26.11373	-80.11977	LNM 25/17, 7th Dist	313	11467_2	6/15/2017
+11467	Add	magenta reach separator PT 3 OF 4	magenta reach separator	N 26 06' 37.520"	W 080 07' 11.080"	26.11042	-80.11974	LNM 25/17, 7th Dist	313	11467_2	6/15/2017
+11467	Add	magenta reach separator PT 4 OF 4	magenta reach separator	N 26 06' 36.380"	W 080 07' 12.150"	26.11011	-80.12004	LNM 25/17, 7th Dist	313	11467_2	6/15/2017
+11467	Relocate	Lummus Island Turning Basin Light E	Fl Y 4s 16ft 4M "E"	N 25 46' 02.554"	W 080 10' 13.523"	25.76738	-80.17043	LNM 22/17, 7th Dist	319	11467_9	6/22/2017
+11467	Relocate	Biscayne Flats Daybeacon 3	G "3"	N 25 39' 49.911"	W 080 11' 01.169"	25.66386	-80.18365	LNM 17/17, 7th Dist	316	11467_6	5/4/2017
+11467	Relocate	Biscayne Bay Buoy 7B	G C "7B"	N 25 54' 04.527"	W 080 07' 54.009"	25.90126	-80.13167	LNM 17/17, 7th Dist	318	11467_8	5/4/2017
+11467	Relocate	Miami Beach Channel Daybeacon 20	R "20"	N 25 49' 09.663"	W 080 08' 25.050"	25.81935	-80.14029	LNM 17/17, 7th Dist	316	11467_6	5/4/2017
+11467	Relocate	Port Everglades Light 7	Fl G 2.5s 16ft 5M "7"	N 26 05' 33.853"	W 080 06' 31.754"	26.09274	-80.10882	LNM 17/17, 7th Dist	313	11467_2	5/4/2017
+11467	Relocate	Port Everglades Light 7	Fl G 2.5s 16ft 5M "7"	N 26 05' 33.853"	W 080 06' 31.754"	26.09274	-80.10882	LNM 17/17, 7th Dist	312	11467_5	5/4/2017
+11467	Relocate	Lummus Island Turning Basin Light B	Fl Y 4s 16ft 4M "B"	N 25 45' 53.860"	W 080 09' 58.338"	25.76496	-80.16621	LNM 13/17, 7th Dist	319	11467_9	4/13/2017
+11467	Add	Bent Light	Fl 4s 25ft Priv	N 25 45' 11.048"	W 080 06' 28.821"	25.75307	-80.10801	LNM 13/17, 7th Dist	316	11467_6	4/13/2017
+11467	Change	tabulation - PORT EVERGLADES CHANNEL DEPTHS	tabulation - PORT EVERGLADES CHANNEL DEPTHS	N 26 35' 23.530"	W 080 00' 05.070"	26.58987	-80.00141	LNM 15/17, 7th Dist	311	11467_1	4/6/2017
+11467	Change	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn Fish Haven (auth min 40 ft), Chart No. 1 K46.2	N 25 59' 05.794"	W 080 05' 12.766"	25.98494	-80.08688	LNM 12/17, 7th Dist	312	11467_5	3/16/2017
+11467	Relocate	Lake Boca Raton Light 65	Fl G 4s 16ft 5M "65"	N 26 20' 46.977"	W 080 04' 29.360"	26.34638	-80.07482	LNM 09/17, 7th Dist	311	11467_1	3/2/2017
+11467	Relocate	Lake Wyman Light 56	Fl R 4s 16ft 5M "56"	N 26 22' 27.606"	W 080 04' 24.148"	26.37433	-80.07337	LNM 09/17, 7th Dist	311	11467_1	3/2/2017
+11467	Change	Depth Note - MIAMI RIVER to:	MIAMI RIVER to: The controlling depths were 17 feet for a width of 150 feet from the Intracoastal Waterway to South Fork Miami River; thence 16 1/2 feet for a width of 125 feet to Tamiami Canal; thence 16 feet for a width of 90 feet to the Seaboard Coast Line (SCL) Railroad bridge; thence 6 1/2 feet for a mid-width of 45 feet to the dam at the 36th St. bridge. Jul 2000 - Aug 2012	N 25 37' 26.880"	W 080 07' 45.280"	25.62413	-80.12924	LNM 08/17, 7th Dist	316	11467_6	2/16/2017
+11467	Change	Miami Main Channel Lighted Buoy 10	R "10" Fl R 2.5s	N 25 45' 34.904"	W 080 07' 16.078"	25.7597	-80.12113	LNM 04/17, 7th Dist	316	11467_6	2/2/2017
+11467	Change	Miami Main Channel Lighted Buoy 12	R "12" Q R	N 25 45' 39.563"	W 080 07' 28.837"	25.76099	-80.12468	LNM 04/17, 7th Dist	319	11467_9	2/2/2017
+11467	Change	Miami Main Channel Lighted Buoy 12	R "12" Q R	N 25 45' 39.563"	W 080 07' 28.837"	25.76099	-80.12468	LNM 04/17, 7th Dist	316	11467_6	2/2/2017
+11467	Change	Miami Main Channel Lighted Buoy 8	R "8" Q R	N 25 45' 30.958"	W 080 06' 58.262"	25.7586	-80.11618	LNM 04/17, 7th Dist	316	11467_6	2/2/2017

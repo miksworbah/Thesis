@@ -1,0 +1,11 @@
+Chart: 18537, Current Edition: 12, Print Date: Dec. /2015, Columbia River Alderdale to Blalock Islands
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18537	Relocate	Lake Umatilla Daybeacon 46	R "46"	N 45 52' 52.872"	W 119 38' 16.062"	45.88135	-119.6378	LNM 13/17, 13th Dist	1764	18537_2	4/6/2017
+18537	Change	Lake Umatilla Daybeacon 46	R "46"	N 45 52' 52.872"	W 119 38' 16.062"	45.88135	-119.6378	LNM 13/17, 13th Dist	1764	18537_2	4/6/2017
+18537	Relocate	Lake Umatilla Light 28	Fl R 4s 15ft 4M "28"	N 45 49' 02.238"	W 119 58' 04.488"	45.81729	-119.9679	LNM 13/17, 13th Dist	1763	18537_1	4/6/2017
+18537	Relocate	Lake Umatilla Light 30	Fl R 2.5s 15ft 4M "30"	N 45 49' 26.796"	W 119 55' 52.770"	45.82411	-119.9313	LNM 13/17, 13th Dist	1763	18537_1	4/6/2017
+18537	Relocate	Lake Umatilla Light 34	Fl R 4s 15ft 5M "34"	N 45 50' 38.076"	W 119 49' 02.244"	45.84391	-119.8173	LNM 13/17, 13th Dist	1763	18537_1	4/6/2017
+18537	Relocate	Lake Umatilla Light 34	Fl R 4s 15ft 5M "34"	N 45 50' 38.076"	W 119 49' 02.244"	45.84391	-119.8173	LNM 13/17, 13th Dist	1764	18537_2	4/6/2017
+18537	Relocate	Lake Umatilla Light 37	Fl G 6s 15ft 4M "37"	N 45 51' 08.184"	W 119 45' 34.674"	45.85227	-119.7596	LNM 13/17, 13th Dist	1764	18537_2	4/6/2017
+18537	Relocate	Lake Umatilla Light 43	Fl G 6s 17ft 4M "43"	N 45 51' 56.232"	W 119 39' 41.280"	45.86562	-119.6615	LNM 13/17, 13th Dist	1764	18537_2	4/6/2017
+18537	Relocate	Lake Umatilla Light 29	Fl G 4s 15ft 4M "29"	N 45 49' 48.616"	W 119 56' 16.941"	45.83017	-119.938	LNM 18/16, 13th Dist	1763	18537_1	5/12/2016

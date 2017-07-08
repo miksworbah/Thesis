@@ -1,0 +1,228 @@
+Chart: 11358, Current Edition: 58, Print Date: May. /2014, Barataria Bay and approaches
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11358	Add	Submerged Obstruction	Obstn PA     Chart No. 1:K40	N 29 24' 19.000"	W 090 03' 01.800"	29.40528	-90.0505	LNM 26/17, 8th Dist	60	11358_1	Not Yet
+11358	Add	Submerged Obstruction (PA)	Obstn PA      Chart No. 1:K40	N 29 12' 18.200"	W 090 02' 43.800"	29.20506	-90.0455	LNM 21/17, 8th Dist	60	11358_1	6/8/2017
+11358	Add	CPRA Barataria Basin Scientific Platform Light	Q 16ft Priv	N 29 18' 16.280"	W 089 35' 49.230"	29.30452	-89.59701	LNM 21/17, 8th Dist	60	11358_1	6/8/2017
+11358	Add	CPRA Barataria Basin Scientific Platform Light	Q 16ft Priv	N 29 23' 09.220"	W 089 54' 07.250"	29.38589	-89.90202	LNM 21/17, 8th Dist	60	11358_1	6/8/2017
+11358	Add	CPRA Barataria Basin Scientific Platform Light	Q 16ft Priv	N 29 13' 52.880"	W 090 02' 54.680"	29.23136	-90.04852	LNM 21/17, 8th Dist	60	11358_1	6/8/2017
+11358	Add	Dangerous Wreck	PA     Chart No. 1: K28	N 29 17' 30.000"	W 089 54' 24.000"	29.29167	-89.90667	LNM 18/17, 8th Dist	60	11358_1	5/11/2017
+11358	Delete	Platform (Chevron-129-2)	Chart No. 1: L10	N 29 06' 15.000"	W 089 45' 10.000"	29.10417	-89.75278	LNM 15/17, 8th Dist	60	11358_1	4/20/2017
+11358	Delete	Platform (Chevron-129-4)	Chart No. 1: L10	N 29 05' 38.000"	W 089 45' 19.000"	29.09389	-89.75528	LNM 15/17, 8th Dist	60	11358_1	4/20/2017
+11358	Delete	Platform (Chevron-137-6)	Chart No. 1: L10	N 29 10' 28.000"	W 089 39' 30.000"	29.17444	-89.65833	LNM 15/17, 8th Dist	60	11358_1	4/20/2017
+11358	Add	Shoaling Label	Shoaling rep 2017 PA	N 29 13' 40.000"	W 089 36' 42.700"	29.22778	-89.61186	LNM 14/17, 8th Dist	60	11358_1	4/13/2017
+11358	Add	Piles	Piles     Chart No. 1: F22	N 29 28' 28.800"	W 090 05' 10.300"	29.47467	-90.0862	LNM 12/17, 8th Dist	60	11358_1	3/30/2017
+11358	Delete	Platform (Chevron-104-181)	Chart No. 1: L10	N 29 01' 46.000"	W 090 08' 04.000"	29.02944	-90.13445	LNM 12/17, 8th Dist	60	11358_1	3/30/2017
+11358	Delete	Platform:  (Chevron-104-123)	Chart No. 1: L10	N 29 02' 07.000"	W 090 07' 32.000"	29.03528	-90.12556	LNM 11/17, 8th Dist	60	11358_1	3/23/2017
+11358	Delete	Platform:  (Chevron-105-20)	Chart No. 1: L10	N 29 07' 43.480"	W 089 34' 10.102"	29.12874	-89.56947	LNM 10/17, 8th Dist	60	11358_1	3/16/2017
+11358	Delete	Platform:  (Chevron-105-14)	Chart No. 1: L10	N 29 09' 09.000"	W 089 35' 46.000"	29.1525	-89.59611	LNM 09/17, 8th Dist	60	11358_1	3/9/2017
+11358	Add	Platform  (Chevron-104-165)	Chart No. 1: L10	N 29 06' 12.932"	W 090 09' 13.073"	29.10359	-90.15363	LNM 05/17, 8th Dist	60	11358_1	2/16/2017
+11358	Add	Platform:  (Chevron-104-235)	Chart No. 1: L10	N 29 05' 57.710"	W 090 06' 32.548"	29.09936	-90.10904	LNM 02/17, 8th Dist	60	11358_1	1/26/2017
+11358	Delete	Fifi Island West Danger Daybeacon	W Bns Priv	N 29 15' 54.000"	W 089 57' 46.000"	29.265	-89.96278	LNM 51/16, 8th Dist	60	11358_1	1/12/2017
+11358	Add	Fifi Island Danger Breakwater Light	Fl 2.5s 12ft Priv	N 29 15' 59.400"	W 089 57' 43.740"	29.2665	-89.96215	LNM 51/16, 8th Dist	60	11358_1	1/12/2017
+11358	Add	Platform:  (Chevron-104-237)	Chart No. 1: L10	N 29 03' 39.121"	W 090 09' 38.099"	29.06087	-90.16058	LNM 49/16, 8th Dist	60	11358_1	12/15/2016
+11358	Add	Platform:  (Chevron-104-230)	Chart No. 1: L10	N 29 04' 39.457"	W 090 10' 20.880"	29.07763	-90.17247	LNM 48/16, 8th Dist	60	11358_1	12/8/2016
+11358	Add	Platform:  (Chevron-104-225)	Chart No. 1: L10	N 29 05' 58.552"	W 090 09' 08.025"	29.0996	-90.15223	LNM 47/16, 8th Dist	60	11358_1	12/1/2016
+11358	Add	Platform:  (Chevron-104-16)	Chart No. 1: L10	N 29 06' 38.621"	W 090 08' 44.455"	29.11073	-90.14568	LNM 45/16, 8th Dist	60	11358_1	11/17/2016
+11358	Add	Platform:  (Chevron-104-162)	Chart No. 1: L10	N 29 06' 10.850"	W 090 09' 40.288"	29.10301	-90.16119	LNM 45/16, 8th Dist	60	11358_1	11/17/2016
+11358	Add	Submerged Obstruction	Obstn PA	N 29 15' 13.200"	W 089 58' 38.000"	29.25367	-89.97722	LNM 41/16, 8th Dist	60	11358_1	10/27/2016
+11358	Delete	Platform:  (GOM Shelf-800-10)	Chart No. 1: L10	N 28 59' 54.000"	W 089 52' 58.000"	28.99833	-89.88277	LNM 40/16, 8th Dist	60	11358_1	10/13/2016
+11358	Add	Platform:  (EA14-21653-001(LLOX))	Chart No. 1: L10	N 29 28' 07.000"	W 089 59' 24.000"	29.46861	-89.99	LNM 37/16, 8th Dist	60	11358_1	9/22/2016
+11358	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 28 53' 19.740"	W 089 49' 39.960"	28.88882	-89.82777	LNM 37/16, 8th Dist	60	11358_1	9/8/2016
+11358	Add	Piles	Piles PA     Chart No. 1: F22	N 29 18' 40.700"	W 089 54' 36.100"	29.31131	-89.91003	LNM 33/16, 8th Dist	60	11358_1	8/25/2016
+11358	Add	Submarine Pipeline  PT 1 OF 6	Chart No. 1: L40.1	N 29 06' 02.440"	W 090 11' 27.810"	29.10068	-90.19106	LNM 34/16, 8th Dist	60	11358_1	8/25/2016
+11358	Add	Submarine Pipeline  PT 2 OF 6	Chart No. 1: L40.1	N 29 03' 11.870"	W 090 10' 46.080"	29.0533	-90.17947	LNM 34/16, 8th Dist	60	11358_1	8/25/2016
+11358	Add	Submarine Pipeline  PT 3 OF 6	Chart No. 1: L40.1	N 29 02' 50.970"	W 090 10' 27.610"	29.04749	-90.17434	LNM 34/16, 8th Dist	60	11358_1	8/25/2016
+11358	Add	Submarine Pipeline  PT 4 OF 6	Chart No. 1: L40.1	N 29 02' 44.650"	W 090 10' 04.960"	29.04574	-90.16805	LNM 34/16, 8th Dist	60	11358_1	8/25/2016
+11358	Add	Submarine Pipeline  PT 5 OF 6	Chart No. 1: L40.1	N 29 02' 47.700"	W 090 09' 44.930"	29.04658	-90.16248	LNM 34/16, 8th Dist	60	11358_1	8/25/2016
+11358	Add	Submarine Pipeline  PT 6 OF 6	Chart No. 1: L40.1	N 29 02' 48.620"	W 090 09' 45.220"	29.04684	-90.16256	LNM 34/16, 8th Dist	60	11358_1	8/25/2016
+11358	Add	Submarine Pipeline  PT 1 OF 12	Chart No. 1: L40.1	N 29 06' 13.500"	W 090 09' 04.510"	29.10375	-90.15125	LNM 34/16, 8th Dist	60	11358_1	8/18/2016
+11358	Add	Submarine Pipeline  PT 2 OF 12	Chart No. 1: L40.1	N 29 06' 19.570"	W 090 09' 11.120"	29.10544	-90.15309	LNM 34/16, 8th Dist	60	11358_1	8/18/2016
+11358	Add	Submarine Pipeline  PT 3 OF 12	Chart No. 1: L40.1	N 29 06' 25.230"	W 090 09' 24.760"	29.10701	-90.15688	LNM 34/16, 8th Dist	60	11358_1	8/18/2016
+11358	Add	Submarine Pipeline  PT 4 OF 12	Chart No. 1: L40.1	N 29 06' 29.320"	W 090 09' 45.360"	29.10814	-90.1626	LNM 34/16, 8th Dist	60	11358_1	8/18/2016
+11358	Add	Submarine Pipeline  PT 5 OF 12	Chart No. 1: L40.1	N 29 06' 24.160"	W 090 10' 18.590"	29.10671	-90.17183	LNM 34/16, 8th Dist	60	11358_1	8/18/2016
+11358	Add	Submarine Pipeline  PT 6 OF 12	Chart No. 1: L40.1	N 29 06' 07.920"	W 090 10' 32.020"	29.1022	-90.17556	LNM 34/16, 8th Dist	60	11358_1	8/18/2016
+11358	Add	Submarine Pipeline  PT 7 OF 12	Chart No. 1: L40.1	N 29 05' 57.870"	W 090 10' 37.520"	29.09941	-90.17709	LNM 34/16, 8th Dist	60	11358_1	8/18/2016
+11358	Add	Submarine Pipeline  PT 8 OF 12	Chart No. 1: L40.1	N 29 05' 57.280"	W 090 10' 49.290"	29.09925	-90.18036	LNM 34/16, 8th Dist	60	11358_1	8/18/2016
+11358	Add	Submarine Pipeline  PT 9 OF 12	Chart No. 1: L40.1	N 29 05' 59.470"	W 090 11' 03.660"	29.09985	-90.18435	LNM 34/16, 8th Dist	60	11358_1	8/18/2016
+11358	Add	Submarine Pipeline  PT 10 OF 12	Chart No. 1: L40.1	N 29 06' 04.390"	W 090 11' 15.180"	29.10122	-90.18755	LNM 34/16, 8th Dist	60	11358_1	8/18/2016
+11358	Add	Submarine Pipeline  PT 11 OF 12	Chart No. 1: L40.1	N 29 06' 04.780"	W 090 11' 15.990"	29.10133	-90.18777	LNM 34/16, 8th Dist	60	11358_1	8/18/2016
+11358	Add	Submarine Pipeline  PT 12 OF 12	Chart No. 1: L40.1	N 29 06' 06.510"	W 090 11' 19.440"	29.10181	-90.18874	LNM 34/16, 8th Dist	60	11358_1	8/18/2016
+11358	Add	Platform (EA30-SL21345-003 LLOX)	Chart No. 1: L10	N 29 28' 07.000"	W 089 59' 24.000"	29.46861	-89.99	LNM 27/16, 8th Dist	60	11358_1	7/14/2016
+11358	Relocate	Barataria Waterway Light 6	Fl R 2.5s 17ft 3M "6" Ra Ref	N 29 17' 26.942"	W 089 58' 21.928"	29.29082	-89.97276	LNM 25/16, 8th Dist	60	11358_1	7/7/2016
+11358	Add	Jules Melancon Aquaculture Farm Special Lighted Buoy A	Y Fl Y 2.5s "A" Priv	N 29 18' 07.896"	W 089 56' 14.851"	29.30219	-89.93746	LNM 13/16, 8th Dist	60	11358_1	4/7/2016
+11358	Add	Jules Melancon Aquaculture Farm Special Lighted Buoy B	Y Fl Y2.5s "B" Priv	N 29 18' 07.750"	W 089 56' 06.599"	29.30215	-89.93517	LNM 13/16, 8th Dist	60	11358_1	4/7/2016
+11358	Add	Jules Melancon Aquaculture Farm Special Lighted Buoy C	Y Fl Y2.5s "C" Priv	N 29 18' 00.240"	W 089 56' 06.613"	29.30007	-89.93517	LNM 13/16, 8th Dist	60	11358_1	4/7/2016
+11358	Add	Jules Melancon Aquaculture Farm Special Lighted Buoy D	Y Fl Y2.5s "D" Priv	N 29 18' 00.359"	W 089 56' 17.782"	29.3001	-89.93827	LNM 13/16, 8th Dist	60	11358_1	4/7/2016
+11358	Change	Depth Note - NOTE E BARATARIA WATERWAY to:	The controlling depth was 12 feet across the bar channel; thence 3 feet for a mid-width of 60 feet with 2 feet in the outside quarters to Buoy 19; thence 5 feet for a mid-width of 60 feet with 3 feet in the outside quarters to the entrance of the Bayou Rigolettes; thence 5 feet for a mid-width of 60 feet with 1 foot in the outside quarters to the junction with the Intracoastal Waterway. This waterway is subject to shoaling, particularly at the edges. Jan-Dec 2015	N 29 29' 13.540"	W 089 57' 11.170"	29.48709	-89.9531	LNM 14/16, 8th Dist	60	11358_1	4/7/2016
+11358	Delete	Platform: (Peregrine-100-1)	Chart No. 1: L10	N 28 59' 54.771"	W 089 42' 09.776"	28.99855	-89.70271	LNM 11/16, 8th Dist	60	11358_1	3/24/2016
+11358	Add	Submerged Obstruction	PA	N 29 18' 27.000"	W 089 59' 03.000"	29.3075	-89.98417	LNM 52/15, 8th Dist	60	11358_1	1/7/2016
+11358	Delete	Platform: (Apache-116-7)	Chart No. 1: L10	N 29 05' 44.110"	W 089 51' 30.010"	29.09559	-89.85834	LNM 51/15, 8th Dist	60	11358_1	1/7/2016
+11358	Add	Exxon-Mobil Bay Des Ilettes Pipeline Light	Fl Y 2.5s Priv	N 29 17' 58.800"	W 089 58' 45.450"	29.29967	-89.97929	LNM 51/15, 8th Dist	60	11358_1	1/7/2016
+11358	Delete	Energy XXI Obstruction Light	Fl 2.5s Priv 	N 28 56' 39.000"	W 089 42' 40.000"	28.94417	-89.71111	LNM 47/15, 8th Dist	60	11358_1	12/10/2015
+11358	Add	Platform (Energy Xxi-107-20	Chart No. 1: L10	N 28 56' 39.000"	W 089 42' 40.000"	28.94417	-89.71111	LNM 47/15, 8th Dist	60	11358_1	12/10/2015
+11358	Delete	Obstruction	Obstn PA          Chart No. 1: K40	N 29 08' 06.000"	W 089 51' 33.840"	29.135	-89.8594	LNM 49/15, 8th Dist	60	11358_1	12/3/2015
+11358	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 29 09' 00.120"	W 089 52' 09.540"	29.15003	-89.86932	LNM 49/15, 8th Dist	60	11358_1	12/3/2015
+11358	Delete	Platform (Apache-125-1)	Chart No. 1: L10	N 28 51' 42.000"	W 089 39' 23.000"	28.86167	-89.65639	LNM 45/15, 8th Dist	60	11358_1	11/19/2015
+11358	Delete	Platform  (Apache-125-2)	Chart No. 1: L10	N 28 51' 57.000"	W 089 38' 40.000"	28.86583	-89.64445	LNM 45/15, 8th Dist	60	11358_1	11/19/2015
+11358	Add	Obstruction in Feet	36 Obstn       Chart No. 1: K41	N 29 08' 37.400"	W 089 36' 18.200"	29.14372	-89.60506	LNM 45/15, 8th Dist	60	11358_1	11/5/2015
+11358	Add	Pile	Pile     Chart No. 1: F22	N 29 07' 45.500"	W 089 41' 19.400"	29.1293	-89.68872	LNM 45/15, 8th Dist	60	11358_1	11/5/2015
+11358	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 29 08' 06.000"	W 089 51' 33.840"	29.135	-89.8594	LNM 43/15, 8th Dist	60	11358_1	10/22/2015
+11358	Add	Obstruction	Obstn PA        	N 28 55' 14.940"	W 089 40' 30.480"	28.92082	-89.67513	LNM 41/15, 8th Dist	60	11358_1	10/8/2015
+11358	Add	Obstruction	Obstn PA         	N 28 55' 43.380"	W 089 34' 57.120"	28.92872	-89.58253	LNM 41/15, 8th Dist	60	11358_1	10/8/2015
+11358	Delete	Obstruction	Obstn PA         Chart No. 1: K40	N 28 56' 19.400"	W 089 58' 57.900"	28.93872	-89.98275	LNM 41/15, 8th Dist	60	11358_1	10/8/2015
+11358	Delete	Obstruction	Obstn PA         Chart No. 1: K40	N 28 58' 44.000"	W 089 56' 23.000"	28.97889	-89.93972	LNM 41/15, 8th Dist	60	11358_1	10/8/2015
+11358	Delete	Obstruction	Obstn PA         Chart No. 1: K40	N 28 58' 46.000"	W 089 50' 36.000"	28.97944	-89.84333	LNM 41/15, 8th Dist	60	11358_1	10/8/2015
+11358	Delete	Obstruction	Obstn PA         Chart No. 1: K40	N 28 59' 04.000"	W 089 57' 44.000"	28.98444	-89.96222	LNM 41/15, 8th Dist	60	11358_1	10/8/2015
+11358	Delete	Platform (Energy Partners-100-8)	Chart No. 1: L10	N 28 55' 51.740"	W 090 09' 57.866"	28.93104	-90.16608	LNM 35/15, 8th Dist	60	11358_1	9/17/2015
+11358	Delete	Platform: (Mcmoran-136-7)	Chart No. 1: L10	N 29 10' 21.129"	W 089 33' 21.780"	29.17253	-89.55605	LNM 30/15, 8th Dist	60	11358_1	8/6/2015
+11358	Delete	Platform: (Mcmoran-136-10)	Chart No. 1: L10	N 29 10' 36.420"	W 089 33' 54.790"	29.17678	-89.56522	LNM 30/15, 8th Dist	60	11358_1	8/6/2015
+11358	Delete	Platform: (Mcmoran-136-12)	Chart No. 1: L10	N 29 10' 47.930"	W 089 33' 26.950"	29.17998	-89.55749	LNM 30/15, 8th Dist	60	11358_1	8/6/2015
+11358	Change	Depth Note - NOTE E to:	BARATARIA WATERWAY The controlling depth was 12 feet across the bar channel;thence a depth of 2 feet to Buoy 19. From Buoy 19 to the entrance of the Bayou Rigolettes the controlling depth was 3 feet; thence 3 feet to the junction with theIntracoastal Waterway.  Jan 2015	N 29 29' 25.000"	W 089 58' 40.000"	29.49028	-89.97778	LNM 28/15, 8th Dist	60	11358_1	7/9/2015
+11358	Delete	Platform: (Energy xxi-107-8)	Chart No. 1: L10	N 28 56' 39.000"	W 089 42' 40.000"	28.94417	-89.71111	LNM 25/15, 8th Dist	60	11358_1	7/2/2015
+11358	Add	Energy XXI Obstruction Light	Fl 2.5s Priv	N 28 56' 39.000"	W 089 42' 40.000"	28.94417	-89.71111	LNM 25/15, 8th Dist	60	11358_1	7/2/2015
+11358	Add	Platform (Energy xxi-107-8)	Chart No. 1: L10	N 28 56' 39.000"	W 089 42' 40.000"	28.94417	-89.71111	LNM 23/15, 8th Dist	60	11358_1	6/18/2015
+11358	Add	Submarine Pipeline  PT 1 OF 4	Chart No. 1: L40.1	N 29 22' 41.760"	W 089 47' 05.180"	29.37827	-89.78477	LNM 17/15, 8th Dist	60	11358_1	4/23/2015
+11358	Add	Submarine Pipeline  PT 2 OF 4	Chart No. 1: L40.1	N 29 22' 33.570"	W 089 47' 20.790"	29.37599	-89.78911	LNM 17/15, 8th Dist	60	11358_1	4/23/2015
+11358	Add	Submarine Pipeline  PT 3 OF 4	Chart No. 1: L40.1	N 29 22' 26.230"	W 089 47' 26.930"	29.37395	-89.79082	LNM 17/15, 8th Dist	60	11358_1	4/23/2015
+11358	Add	Submarine Pipeline  PT 4 OF 4	Chart No. 1: L40.1	N 29 22' 14.680"	W 089 47' 34.110"	29.37074	-89.79281	LNM 17/15, 8th Dist	60	11358_1	4/23/2015
+11358	Relocate	Barataria Pass Buoy 7	G C "7"	N 29 15' 22.561"	W 089 55' 52.399"	29.25627	-89.93122	LNM 14/15, 8th Dist	60	11358_1	4/16/2015
+11358	Relocate	Barataria Pass Buoy 8	R N "8"	N 29 15' 31.342"	W 089 55' 47.439"	29.25871	-89.92985	LNM 14/15, 8th Dist	60	11358_1	4/16/2015
+11358	Add	Exxon-Mobil Bastian Bay Pipeline Light A	Fl Y 2.5s "A" Priv	N 29 20' 06.740"	W 089 38' 26.410"	29.33521	-89.64067	LNM 13/15, 8th Dist	60	11358_1	4/9/2015
+11358	Substitute	Sounding in Feet	5 for 7	N 29 14' 26.000"	W 090 00' 11.400"	29.24055	-90.00317	LNM 14/15, 8th Dist	60	11358_1	4/2/2015
+11358	Change	Depth Legend - BAYOU RIGAUD to:	9 FT	N 29 15' 43.000"	W 089 57' 49.000"	29.26194	-89.96361	LNM 14/15, 8th Dist	60	11358_1	4/2/2015
+11358	Change	Depth Legend - BAYOU RIGAUD to:	9 FT DEC 2014	N 29 14' 51.000"	W 089 59' 10.000"	29.2475	-89.98611	LNM 14/15, 8th Dist	60	11358_1	4/2/2015
+11358	Add	Submerged Obstruction	Obstn PA	N 29 18' 46.400"	W 089 48' 52.500"	29.31289	-89.81458	LNM 10/15, 8th Dist	60	11358_1	3/19/2015
+11358	Add	Submerged Obstruction	Obstn PA	N 29 19' 48.400"	W 089 42' 32.200"	29.33011	-89.70895	LNM 10/15, 8th Dist	60	11358_1	3/19/2015
+11358	Add	Platform: (Energy Xxi-100-37)	Chart No. 1: L10	N 28 56' 03.164"	W 090 09' 36.264"	28.93421	-90.16007	LNM 09/15, 8th Dist	60	11358_1	3/12/2015
+11358	Add	Submarine Pipeline  PT 1 OF 2	Chart No. 1: L40.1	N 29 03' 26.000"	W 090 09' 30.320"	29.05722	-90.15842	LNM 11/15, 8th Dist	60	11358_1	3/12/2015
+11358	Add	Submarine Pipeline  PT 2 OF 2	Chart No. 1: L40.1	N 29 03' 25.560"	W 090 09' 35.930"	29.0571	-90.15998	LNM 11/15, 8th Dist	60	11358_1	3/12/2015
+11358	Add	Submarine Pipeline  PT 1 OF 7	Chart No. 1: L40.1	N 29 03' 43.600"	W 090 09' 37.060"	29.06211	-90.16029	LNM 11/15, 8th Dist	60	11358_1	3/12/2015
+11358	Add	Submarine Pipeline  PT 2 OF 7	Chart No. 1: L40.1	N 29 03' 25.560"	W 090 09' 35.930"	29.0571	-90.15998	LNM 11/15, 8th Dist	60	11358_1	3/12/2015
+11358	Add	Submarine Pipeline  PT 3 OF 7	Chart No. 1: L40.1	N 29 03' 18.130"	W 090 09' 36.790"	29.05504	-90.16022	LNM 11/15, 8th Dist	60	11358_1	3/12/2015
+11358	Add	Submarine Pipeline  PT 4 OF 7	Chart No. 1: L40.1	N 29 03' 10.190"	W 090 09' 40.690"	29.05283	-90.1613	LNM 11/15, 8th Dist	60	11358_1	3/12/2015
+11358	Add	Submarine Pipeline  PT 5 OF 7	Chart No. 1: L40.1	N 29 03' 03.740"	W 090 09' 44.880"	29.05104	-90.16247	LNM 11/15, 8th Dist	60	11358_1	3/12/2015
+11358	Add	Submarine Pipeline  PT 6 OF 7	Chart No. 1: L40.1	N 29 02' 58.520"	W 090 09' 46.620"	29.04959	-90.16295	LNM 11/15, 8th Dist	60	11358_1	3/12/2015
+11358	Add	Submarine Pipeline  PT 7 OF 7	Chart No. 1: L40.1	N 29 02' 50.430"	W 090 09' 45.380"	29.04734	-90.16261	LNM 11/15, 8th Dist	60	11358_1	3/12/2015
+11358	Delete	Open unlighted buoy and well 	W Or Priv  Well (cov 93 ft)	N 29 01' 30.700"	W 089 48' 45.500"	29.02519	-89.81264	LNM 11/15, 8th Dist	60	11358_1	3/12/2015
+11358	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 29 12' 47.760"	W 089 44' 42.420"	29.21327	-89.74512	LNM 11/15, 8th Dist	60	11358_1	3/12/2015
+11358	Add	Submarine Pipeline  PT 1 OF 5	Chart No. 1: L40.1	N 29 06' 26.630"	W 090 08' 58.400"	29.1074	-90.14956	LNM 09/15, 8th Dist	60	11358_1	2/26/2015
+11358	Add	Submarine Pipeline  PT 2 OF 5	Chart No. 1: L40.1	N 29 06' 26.040"	W 090 08' 57.670"	29.10723	-90.14935	LNM 09/15, 8th Dist	60	11358_1	2/26/2015
+11358	Add	Submarine Pipeline  PT 3 OF 5	Chart No. 1: L40.1	N 29 06' 23.640"	W 090 08' 58.440"	29.10657	-90.14957	LNM 09/15, 8th Dist	60	11358_1	2/26/2015
+11358	Add	Submarine Pipeline  PT 4 OF 5	Chart No. 1: L40.1	N 29 06' 25.550"	W 090 09' 07.820"	29.1071	-90.15218	LNM 09/15, 8th Dist	60	11358_1	2/26/2015
+11358	Add	Submarine Pipeline  PT 5 OF 5	Chart No. 1: L40.1	N 29 06' 26.630"	W 090 09' 07.540"	29.1074	-90.15209	LNM 09/15, 8th Dist	60	11358_1	2/26/2015
+11358	Add	Submarine Pipeline  PT 1 OF 3	Chart No. 1: L40.1	N 29 03' 17.480"	W 090 10' 14.210"	29.05486	-90.17062	LNM 06/15, 8th Dist	60	11358_1	2/12/2015
+11358	Add	Submarine Pipeline  PT 2 OF 3	Chart No. 1: L40.1	N 29 03' 12.470"	W 090 10' 25.780"	29.05346	-90.17383	LNM 06/15, 8th Dist	60	11358_1	2/12/2015
+11358	Add	Submarine Pipeline  PT 3 OF 3	Chart No. 1: L40.1	N 29 02' 50.240"	W 090 09' 45.840"	29.04729	-90.16273	LNM 06/15, 8th Dist	60	11358_1	2/12/2015
+11358	Delete	Platform: (Apache-125-6)	Chart No. 1: L10	N 29 05' 57.740"	W 089 46' 04.560"	29.09937	-89.76794	LNM 03/15, 8th Dist	60	11358_1	1/29/2015
+11358	Delete	Platform: (Apache-125-13)	Chart No. 1: L10	N 29 04' 09.460"	W 089 48' 19.920"	29.06929	-89.80553	LNM 02/15, 8th Dist	60	11358_1	1/22/2015
+11358	Delete	Platform: (Apache-125-200)	Chart No. 1: L10	N 29 05' 38.450"	W 089 47' 02.320"	29.09401	-89.78398	LNM 02/15, 8th Dist	60	11358_1	1/22/2015
+11358	Add	Submarine Pipeline  PT 3 OF 3	Chart No. 1: L40.1	N 29 00' 43.910"	W 089 36' 34.760"	29.0122	-89.60966	LNM 02/15, 8th Dist	60	11358_1	1/8/2015
+11358	Add	Submarine Pipeline  PT 1 OF 3	Chart No. 1: L40.1	N 29 00' 38.260"	W 089 33' 38.420"	29.01063	-89.56067	LNM 02/15, 8th Dist	60	11358_1	1/8/2015
+11358	Add	Submarine Pipeline  PT 2 OF 3	Chart No. 1: L40.1	N 29 00' 15.990"	W 089 33' 22.510"	29.00444	-89.55625	LNM 02/15, 8th Dist	60	11358_1	1/8/2015
+11358	Add	Submarine Pipeline  PT 6 OF 6	Chart No. 1: L40.1	N 29 01' 45.050"	W 090 11' 58.910"	29.02918	-90.1997	LNM 51/14, 8th Dist	60	11358_1	12/25/2014
+11358	Add	Submarine Pipeline  PT 5 OF 6	Chart No. 1: L40.1	N 29 01' 45.310"	W 090 11' 56.730"	29.02925	-90.19909	LNM 51/14, 8th Dist	60	11358_1	12/25/2014
+11358	Add	Submarine Pipeline  PT 4 OF 6	Chart No. 1: L40.1	N 29 01' 48.480"	W 090 11' 38.680"	29.03013	-90.19408	LNM 51/14, 8th Dist	60	11358_1	12/25/2014
+11358	Add	Submarine Pipeline  PT 3 OF 6	Chart No. 1: L40.1	N 29 01' 57.050"	W 090 10' 09.940"	29.03251	-90.16943	LNM 51/14, 8th Dist	60	11358_1	12/25/2014
+11358	Add	Submarine Pipeline  PT 2 OF 6	Chart No. 1: L40.1	N 29 01' 42.500"	W 090 09' 17.990"	29.02847	-90.155	LNM 51/14, 8th Dist	60	11358_1	12/25/2014
+11358	Add	Submarine Pipeline  PT 1 OF 6	Chart No. 1: L40.1	N 29 01' 41.530"	W 090 09' 17.630"	29.0282	-90.1549	LNM 51/14, 8th Dist	60	11358_1	12/25/2014
+11358	Delete	Platform, (CGD 088-14)	Chart No 1: L-10	N 29 03' 10.413"	W 090 10' 12.615"	29.05289	-90.17017	LNM 47/14, 8th Dist	60	11358_1	12/11/2014
+11358	Add	Submerged Obstruction  	Obstn PA (Chart No 1: K-40)	N 29 03' 10.413"	W 090 10' 12.615"	29.05289	-90.17017	LNM 47/14, 8th Dist	60	11358_1	12/11/2014
+11358	Delete	Platform: (Chevron-104-14)	Chart No 1: L-10	N 29 05' 14.000"	W 090 06' 58.000"	29.08722	-90.11611	LNM 44/14, 8th Dist	60	11358_1	11/13/2014
+11358	Add	Pipe	Pipe PA 	N 29 20' 14.800"	W 089 46' 20.300"	29.33744	-89.77231	LNM 43/14, 8th Dist	60	11358_1	11/6/2014
+11358	Add	Platform:(Energy Partners-112-19)	Chart No 1: L-10	N 29 08' 44.202"	W 089 34' 21.263"	29.14561	-89.57257	LNM 42/14, 8th Dist	60	11358_1	11/6/2014
+11358	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 28 54' 00.720"	W 089 42' 19.600"	28.9002	-89.70544	LNM 43/14, 8th Dist	60	11358_1	10/30/2014
+11358	Add	Submerged Obstruction	PA : Chart No 1: K-40	N 29 27' 15.000"	W 090 03' 01.800"	29.45417	-90.0505	LNM 39/14, 8th Dist	60	11358_1	10/9/2014
+11358	Add	Platform: (Energy Xxi-100-86)	Chart No 1: L-10	N 28 58' 52.381"	W 090 11' 22.081"	28.98122	-90.18947	LNM 39/14, 8th Dist	60	11358_1	10/9/2014
+11358	Delete	Platform: (Fieldwood-115-1)	Chart No 1: L-10	N 29 05' 49.867"	W 089 44' 13.061"	29.09719	-89.73696	LNM 39/14, 8th Dist	60	11358_1	10/9/2014
+11358	Change	Depth Legend - Empire Waterway to:	3 FT TO MISS R JUL 2014	N 29 22' 36.100"	W 089 36' 05.600"	29.37669	-89.60155	LNM 40/14, 8th Dist	60	11358_1	10/9/2014
+11358	Change	Depth Legend - Empire Waterway to:	7 FT JUL 2014	N 29 14' 59.200"	W 089 36' 27.400"	29.24978	-89.60761	LNM 40/14, 8th Dist	60	11358_1	10/9/2014
+11358	Delete	Exxon 131-4 lighted buoy	W Or  Fl 2.5s Priv	N 28 56' 39.000"	W 089 42' 40.000"	28.94417	-89.71111	LNM 38/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Caminada Pass Light 1	Fl G 2.5s "1" Priv	N 29 11' 29.640"	W 090 02' 44.170"	29.19157	-90.0456	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Caminada Pass Light 2 	Fl R 2.5s "2" Priv	N 29 11' 36.000"	W 090 02' 32.740"	29.19333	-90.04243	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Caminada Pass Light 4	Fl R 2.5s "4" Priv	N 29 11' 45.770"	W 090 02' 46.140"	29.19605	-90.04615	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 15' 23.350"	W 089 58' 14.810"	29.25649	-89.97078	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 15' 43.610"	W 089 58' 39.640"	29.26211	-89.97768	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 16' 53.560"	W 089 58' 55.760"	29.28154	-89.98215	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 18' 23.170"	W 089 58' 42.150"	29.30644	-89.97838	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 18' 59.830"	W 089 58' 36.370"	29.31662	-89.97677	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 19' 18.820"	W 089 58' 36.510"	29.32189	-89.97681	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 25' 20.580"	W 089 59' 21.860"	29.42238	-89.9894	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 25' 49.960"	W 089 59' 44.270"	29.43054	-89.99563	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 26' 03.090"	W 090 00' 00.180"	29.43419	-90.00005	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 26' 10.610"	W 090 00' 09.660"	29.43628	-90.00269	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 26' 36.580"	W 090 00' 41.660"	29.44349	-90.01157	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 26' 52.710"	W 090 01' 01.390"	29.44798	-90.01705	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 27' 55.090"	W 090 02' 07.150"	29.4653	-90.03532	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil West Piling Light	Fl 2.5s Priv	N 29 29' 13.350"	W 090 03' 32.780"	29.48704	-90.0591	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil East Piling Light	Fl 2.5s Priv	N 29 24' 32.600"	W 089 49' 07.320"	29.40906	-89.8187	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil East Piling Light	Fl 2.5s Priv	N 29 24' 11.930"	W 089 48' 19.040"	29.40331	-89.80529	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil East Piling Light	Fl 2.5s Priv	N 29 24' 13.710"	W 089 47' 16.030"	29.40381	-89.78779	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil East Piling Light	Fl 2.5s Priv	N 29 24' 04.440"	W 089 46' 27.710"	29.40123	-89.77436	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil East Piling Light	Fl 2.5s Priv	N 29 23' 56.030"	W 089 46' 11.310"	29.3989	-89.76981	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil East Piling Light	Fl 2.5s Priv	N 29 23' 38.750"	W 089 45' 49.570"	29.3941	-89.76377	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil East Piling Light	Fl 2.5s Priv	N 29 22' 34.720"	W 089 44' 29.090"	29.37631	-89.74142	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil East Piling Light	Fl 2.5s Priv	N 29 22' 21.190"	W 089 44' 08.670"	29.37255	-89.73574	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil East Piling Light	Fl 2.5s Priv	N 29 21' 58.820"	W 089 43' 20.680"	29.36634	-89.72241	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil East Piling Light	Fl 2.5s Priv	N 29 21' 38.330"	W 089 42' 36.990"	29.36065	-89.71027	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil East Piling Light	Fl 2.5s Priv	N 29 21' 16.670"	W 089 41' 50.730"	29.35463	-89.69743	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil East Piling Light	Fl 2.5s Priv	N 29 21' 15.700"	W 089 41' 48.680"	29.35436	-89.69685	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil East Piling Light	Fl 2.5s Priv	N 29 21' 04.660"	W 089 41' 25.020"	29.35129	-89.69028	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil East Piling Light	Fl 2.5s Priv	N 29 21' 02.640"	W 089 41' 20.660"	29.35073	-89.68907	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil East Piling Light	Fl 2.5s Priv	N 29 19' 40.440"	W 089 38' 00.710"	29.3279	-89.63353	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil East Piling Light	Fl 2.5s Priv	N 29 19' 55.030"	W 089 37' 23.570"	29.33195	-89.62321	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil East Piling Light	Fl 2.5s Priv	N 29 20' 00.410"	W 089 37' 14.830"	29.33345	-89.62079	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil East Piling Light	Fl 2.5s Priv	N 29 20' 30.130"	W 089 36' 09.320"	29.3417	-89.60259	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil East Piling Light	Fl 2.5s Priv	N 29 20' 32.670"	W 089 35' 31.220"	29.34241	-89.592	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil East Piling Light	Fl 2.5s Priv	N 29 20' 33.520"	W 089 35' 29.690"	29.34264	-89.59158	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil East Piling Light	Fl 2.5s Priv	N 29 21' 09.380"	W 089 35' 01.750"	29.35261	-89.58382	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Exxon-Mobil East Piling Light	Fl 2.5s Priv	N 29 21' 44.450"	W 089 34' 34.320"	29.36235	-89.5762	LNM 37/14, 8th Dist	60	11358_1	10/2/2014
+11358	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 29 07' 21.500"	W 089 52' 12.000"	29.12264	-89.87	LNM 36/14, 8th Dist	60	11358_1	9/4/2014
+11358	Change	Depth Note - NOTE E to:	BARATARIA WATERWAY The controlling depth was 12 feet across the bar channel; thence a depth of 2 feet to Buoy 19. From Buoy 19 to the entrance of the Bayou Rigolettes the controlling depth was 4 feet; thence 3 feet to the junction with the Intracoastal Waterway.  Feb 2014 - May 2014	N 29 29' 25.000"	W 089 58' 40.000"	29.49028	-89.97778	LNM 26/14, 8th Dist	60	11358_1	6/26/2014
+11358	Add	Freeport McMoran Lake Grande Ecaille Danger Lights (74)	74 Fl 2.5s Priv	N 29 22' 39.900"	W 089 46' 47.200"	29.37775	-89.77978	LNM 22/14, 8th Dist	60	11358_1	6/12/2014
+11358	Add	Obstruction Area Label	Obstructions (see note G)	N 29 23' 24.000"	W 089 46' 51.000"	29.39	-89.78083	LNM 23/14, 8th Dist	60	11358_1	6/12/2014
+11358	Add	Obstruction Area PT 1 OF 4	Chart No. 1: N1.1	N 29 22' 40.000"	W 089 46' 46.900"	29.37778	-89.77969	LNM 23/14, 8th Dist	60	11358_1	6/12/2014
+11358	Add	Obstruction Area PT 2 OF 4	Chart No. 1: N1.1	N 29 23' 23.400"	W 089 47' 19.600"	29.38983	-89.78878	LNM 23/14, 8th Dist	60	11358_1	6/12/2014
+11358	Add	Obstruction Area PT 3 OF 4	Chart No. 1: N1.1	N 29 23' 59.000"	W 089 47' 03.100"	29.39972	-89.78419	LNM 23/14, 8th Dist	60	11358_1	6/12/2014
+11358	Add	Obstruction Area PT 4 OF 4	Chart No. 1: N1.1	N 29 23' 58.200"	W 089 46' 25.700"	29.3995	-89.7738	LNM 23/14, 8th Dist	60	11358_1	6/12/2014
+11358	Add	Obstructions Note G	NOTE G  Submerged obstructions exist within the charted limits.  The perimeter is marked by privately maintained danger lights.	N 29 26' 20.000"	W 089 48' 15.000"	29.43889	-89.80417	LNM 23/14, 8th Dist	60	11358_1	6/12/2014
+11358	Add	Submarine Pipeline  PT 1 OF 2	Chart No. 1: L40.1	N 29 03' 51.020"	W 090 11' 46.300"	29.06417	-90.1962	LNM 23/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Submarine Pipeline  PT 2 OF 2	Chart No. 1: L40.1	N 29 04' 19.230"	W 090 11' 21.680"	29.07201	-90.18935	LNM 23/14, 8th Dist	60	11358_1	6/5/2014
+11358	Relocate	Bayou Rigaud Buoy 3	G C "3"	N 29 16' 14.181"	W 089 57' 25.291"	29.27061	-89.95702	LNM 21/14, 8th Dist	60	11358_1	6/5/2014
+11358	Delete	Channel Limits PT 1 OF 4	Chart No. 1: I20	N 29 16' 20.600"	W 089 57' 20.300"	29.27239	-89.95564	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Delete	Channel Limits PT 2 OF 4	Chart No. 1: I20	N 29 14' 20.700"	W 090 00' 25.100"	29.23908	-90.00697	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Delete	Channel Limits PT 3 OF 4	Chart No. 1: I20	N 29 16' 19.600"	W 089 57' 19.300"	29.27211	-89.95536	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Delete	Channel Limits PT 4 OF 4	Chart No. 1: I20	N 29 14' 19.700"	W 090 00' 24.500"	29.23881	-90.00681	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Change	Depth Legend - Bayou Rigaud to:	10 FT	N 29 15' 43.000"	W 089 57' 49.000"	29.26194	-89.96361	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Change	Depth Legend - Bayou Rigaud to:	10 FT OCT 2013	N 29 14' 51.000"	W 089 59' 10.000"	29.2475	-89.98611	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Sounding in Feet	7	N 29 14' 26.000"	W 090 00' 10.100"	29.24055	-90.00281	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 1 OF 28	Chart No. 1: I20	N 29 16' 26.300"	W 089 57' 12.400"	29.27397	-89.95345	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 2 OF 28	Chart No. 1: I20	N 29 16' 09.900"	W 089 57' 34.800"	29.26942	-89.95966	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 3 OF 28	Chart No. 1: I20	N 29 16' 08.100"	W 089 57' 36.700"	29.26892	-89.9602	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 4 OF 28	Chart No. 1: I20	N 29 16' 06.700"	W 089 57' 37.900"	29.26853	-89.96053	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 5 OF 28	Chart No. 1: I20	N 29 15' 42.400"	W 089 57' 50.400"	29.26178	-89.964	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 6 OF 28	Chart No. 1: I20	N 29 15' 30.600"	W 089 58' 00.500"	29.2585	-89.9668	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 7 OF 28	Chart No. 1: I20	N 29 15' 22.700"	W 089 58' 08.700"	29.25631	-89.96909	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 8 OF 28	Chart No. 1: I20	N 29 15' 20.700"	W 089 58' 12.400"	29.25575	-89.97011	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 9 OF 28	Chart No. 1: I20	N 29 15' 14.900"	W 089 58' 33.100"	29.25414	-89.97586	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 10 OF 28	Chart No. 1: I20	N 29 14' 57.500"	W 089 59' 02.500"	29.24931	-89.98402	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 11 OF 28	Chart No. 1: I20	N 29 14' 43.500"	W 089 59' 22.100"	29.24542	-89.98947	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 12 OF 28	Chart No. 1: I20	N 29 14' 30.600"	W 089 59' 46.800"	29.24183	-89.99633	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 13 OF 28	Chart No. 1: I20	N 29 14' 26.900"	W 090 00' 09.000"	29.2408	-90.0025	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 14 OF 28	Chart No. 1: I20	N 29 14' 24.900"	W 090 00' 15.700"	29.24025	-90.00436	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 15 OF 28	Chart No. 1: I20	N 29 16' 25.400"	W 089 57' 11.500"	29.27372	-89.95319	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 16 OF 28	Chart No. 1: I20	N 29 16' 08.900"	W 089 57' 33.900"	29.26914	-89.95942	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 17 OF 28	Chart No. 1: I20	N 29 16' 07.200"	W 089 57' 35.700"	29.26867	-89.95992	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 18 OF 28	Chart No. 1: I20	N 29 16' 05.800"	W 089 57' 36.800"	29.26828	-89.96022	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 19 OF 28	Chart No. 1: I20	N 29 15' 41.600"	W 089 57' 49.300"	29.26155	-89.96369	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 20 OF 28	Chart No. 1: I20	N 29 15' 29.700"	W 089 57' 59.600"	29.25825	-89.96655	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 21 OF 28	Chart No. 1: I20	N 29 15' 21.800"	W 089 58' 07.800"	29.25606	-89.96883	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 22 OF 28	Chart No. 1: I20	N 29 15' 19.600"	W 089 58' 11.700"	29.25544	-89.96992	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 23 OF 28	Chart No. 1: I20	N 29 15' 13.900"	W 089 58' 32.300"	29.25386	-89.97564	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 24 OF 28	Chart No. 1: I20	N 29 14' 56.500"	W 089 59' 01.600"	29.24903	-89.98378	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 25 OF 28	Chart No. 1: I20	N 29 14' 42.500"	W 089 59' 21.300"	29.24514	-89.98925	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 26 OF 28	Chart No. 1: I20	N 29 14' 29.500"	W 089 59' 46.300"	29.24153	-89.99619	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 27 OF 28	Chart No. 1: I20	N 29 14' 25.700"	W 090 00' 08.600"	29.24047	-90.00239	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Channel Limits PT 28 OF 28	Chart No. 1: I20	N 29 14' 23.700"	W 090 00' 15.200"	29.23992	-90.00422	LNM 22/14, 8th Dist	60	11358_1	6/5/2014
+11358	Add	Obstruction	Obstn PA         Chart No. 1: K40	N 29 09' 05.700"	W 089 49' 16.300"	29.15158	-89.8212	LNM 21/14, 8th Dist	60	11358_1	5/22/2014
+11358	Change	Depth Note - BARATARIA WATERWAY  to:	NOTE E BARATARIA WATERWAY to: The controlling depth was 11 feet across the bar channel; thence a depth of 1 foot to Buoy 19. From Buoy 19 to the entrance of the Bayou Rigolettes the controlling depth was 3 feet; thence 3 feet to the junction with the Intracoastal Waterway. May 2013 - Feb 2014	N 29 29' 25.000"	W 089 58' 40.000"	29.49028	-89.97778	LNM 21/14, 8th Dist	60	11358_1	5/22/2014
+11358	Add	Platform: (Fieldwood-115-6)	Chart No. 1: L10	N 28 52' 49.690"	W 089 39' 47.290"	28.88047	-89.66314	LNM 18/14, 8th Dist	60	11358_1	5/15/2014

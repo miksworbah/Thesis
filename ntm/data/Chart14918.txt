@@ -1,0 +1,14 @@
+Chart: 14918, Current Edition: 28, Print Date: Dec. /2015, Head of Green Bay, including Fox River below De Pere;Green Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14918	Relocate	Green Bay City Buoy 24	R N "24"	N 44 27' 27.146"	W 088 03' 47.615"	44.45754	-88.06322	LNM 19/17, 9th Dist	1442	14918_1	5/11/2017
+14918	Delete	Sounding in Feet	17	N 44 31' 19.000"	W 088 00' 33.600"	44.52195	-88.00933	LNM 12/16, 9th Dist	1443	14918_2	3/24/2016
+14918	Delete	Sounding in Feet	14	N 44 31' 15.830"	W 088 00' 31.120"	44.52106	-88.00864	LNM 12/16, 9th Dist	1443	14918_2	3/24/2016
+14918	Delete	Sounding in Feet	18	N 44 31' 20.280"	W 088 00' 34.740"	44.5223	-88.00965	LNM 12/16, 9th Dist	1443	14918_2	3/24/2016
+14918	Add	Sounding in Feet	19	N 44 31' 18.240"	W 088 00' 34.470"	44.52173	-88.00957	LNM 12/16, 9th Dist	1443	14918_2	3/24/2016
+14918	Add	Sounding in Feet	19	N 44 31' 18.240"	W 088 00' 34.470"	44.52173	-88.00957	LNM 12/16, 9th Dist	1442	14918_1	3/24/2016
+14918	Change	Depth Legend - Green Bay Harbor 	21 1/2 FT FOR MID-WIDTH OF 150 FEET NOV 2015	N 44 32' 46.000"	W 088 00' 05.000"	44.54611	-88.00139	LNM 12/16, 9th Dist	1442	14918_1	3/24/2016
+14918	Add	Submarine Cable  PT 1 OF 2	Chart No. 1: L30.1	N 44 30' 40.040"	W 088 01' 17.200"	44.51112	-88.02145	LNM 09/16, 9th Dist	1443	14918_2	2/18/2016
+14918	Add	Submarine Cable  PT 2 OF 2	Chart No. 1: L30.1	N 44 30' 39.150"	W 088 01' 09.560"	44.51088	-88.01933	LNM 09/16, 9th Dist	1443	14918_2	2/18/2016
+14918	Add	Submarine Cable  PT 1 OF 2	Chart No. 1: L30.1	N 44 30' 39.720"	W 088 01' 18.020"	44.51103	-88.02168	LNM 09/16, 9th Dist	1442	14918_1	2/18/2016
+14918	Add	Submarine Cable  PT 2 OF 2	Chart No. 1: L30.1	N 44 30' 38.900"	W 088 01' 10.920"	44.51081	-88.0197	LNM 09/16, 9th Dist	1442	14918_1	2/18/2016
+14918	Delete	Lighted Buoy 26	R "26" Fl R 2.5s	N 44 33' 31.570"	W 087 59' 45.120"	44.55877	-87.99586	LNM 06/16, 9th Dist	1442	14918_1	2/4/2016

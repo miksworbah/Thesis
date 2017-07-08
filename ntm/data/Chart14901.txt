@@ -1,0 +1,21 @@
+Chart: 14901, Current Edition: 16, Print Date: Jun. /2016, Lake Michigan (Mercator Projection)
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14901	Relocate	Kewaunee Shoal Light	KEWAUNEE SHL LT Fl G 4s 43ft 8 St M HORN	N 44 27' 03.941"	W 087 27' 55.369"	44.4511	-87.46538	LNM 16/17, 9th Dist	1361	14901_1	4/27/2017
+14901	Change	Detroit Harbor Entrance Light	ENTR LT Fl 4s 25ft 11 ST M HORN (MRASS) Ra Ref	N 45 19' 55.692"	W 086 56' 12.299"	45.33214	-86.93675	LNM 08/17, 9th Dist	1361	14901_1	3/2/2017
+14901	Change	Kenosha Light	KENOSHA LT Iso R 6s 50ft 11 ST M HORN (MRASS)	N 42 35' 19.700"	W 087 48' 30.830"	42.58881	-87.80856	LNM 08/17, 9th Dist	1361	14901_1	3/2/2017
+14901	Change	Milwaukee Breakwater Light	BREAKWATER LT Fl R (2) 10s 61ft 14 ST M HORN (MRASS)	N 43 01' 36.992"	W 087 52' 54.927"	43.02694	-87.88193	LNM 08/17, 9th Dist	1361	14901_1	3/2/2017
+14901	Change	Minneapolis Shoal Light	MINNEAPOLIS SHOAL LT Fl 5s 82ft 15 ST M RACON (- -) HORN (MRASS)	N 45 34' 53.326"	W 086 59' 55.377"	45.58148	-86.99872	LNM 08/17, 9th Dist	1361	14901_1	3/2/2017
+14901	Change	Port Washington Breakwater Light	BKW LT Fl R 6s 78ft 7 ST M HORN (MRASS)	N 43 23' 06.942"	W 087 51' 34.802"	43.38526	-87.85966	LNM 08/17, 9th Dist	1361	14901_1	3/2/2017
+14901	Change	Sheboygan Breakwater Light	BREAKWATER LT Fl R 4s 55ft 8 ST M HORN (MRASS)	N 43 44' 58.200"	W 087 41' 33.800"	43.7495	-87.69272	LNM 08/17, 9th Dist	1361	14901_1	3/2/2017
+14901	Change	Sturgeon Bay Ship Canal North Pierhead Light	NORTH PIERHEAD LT Fl R 2.5s 40ft 11 ST M HORN (MRASS)	N 44 47' 31.260"	W 087 18' 34.322"	44.79202	-87.30953	LNM 08/17, 9th Dist	1361	14901_1	3/2/2017
+14901	Change	Grays Reef Passage Channel Lighted Buoy 7 AIS	G "7" Fl G 4s AIS	N 45 45' 44.377"	W 085 08' 29.152"	45.76233	-85.14143	LNM 50/16, 9th Dist	1361	14901_1	1/19/2017
+14901	Change	Green Bay Harbor Entrance Channel Lighted Bell Buoy 2 AIS	R "2" Fl R 2.5s BELL AIS	N 44 40' 39.037"	W 087 52' 41.860"	44.67751	-87.8783	LNM 50/16, 9th Dist	1361	14901_1	1/19/2017
+14901	Change	New Shoal Lighted Buoy 1 AIS	G "1" Fl G 4s AIS	N 45 49' 16.280"	W 085 05' 16.788"	45.82119	-85.088	LNM 50/16, 9th Dist	1361	14901_1	1/19/2017
+14901	Change	New Shoal Lighted Bell Buoy 3 AIS	G "3" Fl G 2.5s BELL AIS	N 45 48' 53.619"	W 085 08' 00.517"	45.8149	-85.13348	LNM 50/16, 9th Dist	1361	14901_1	1/19/2017
+14901	Change	St Martin Island Shoal Lighted Buoy 2 AIS	R "2" Fl R 2.5s AIS	N 45 26' 36.032"	W 086 45' 07.421"	45.44334	-86.75206	LNM 50/16, 9th Dist	1361	14901_1	1/19/2017
+14901	Change	Southwest Drisco Shoal Lighted Buoy DA AIS	BRB "DA" Fl (2) 5s AIS	N 45 32' 09.889"	W 087 00' 36.449"	45.53608	-87.01012	LNM 50/16, 9th Dist	1361	14901_1	1/19/2017
+14901	Change	Chambers Island West Shoal Lighted Bell Buoy 3 AIS	G "3" Fl G 2.5s BELL AIS	N 45 10' 48.124"	W 087 24' 23.486"	45.18003	-87.40652	LNM 50/16, 9th Dist	1361	14901_1	1/19/2017
+14901	Relocate	Days River Shoal Lighted Buoy 19	G "19" Fl G 2.5s	N 45 53' 09.000"	W 086 58' 32.000"	45.88583	-86.97556	LNM 52/16, 9th Dist	1361	14901_1	12/22/2016
+14901	Change	St. James Light	Iso R 6s 38ft 11 St M	N 45 44' 34.030"	W 085 30' 31.010"	45.74279	-85.50861	LNM 47/16, 9th Dist	1361	14901_1	12/1/2016
+14901	Change	Calumet Harbor Breakwater South End Light	AL WR 10s 50ft 14 St M HORN (MRASS)	N 41 43' 33.652"	W 087 29' 35.956"	41.72601	-87.49332	LNM 41/16, 9th Dist	1361	14901_1	11/3/2016
+14901	Change	Grand Haven South Pierhead Entrance Light	Fl R 10s 42ft 15 St M HORN MRASS	N 43 03' 24.910"	W 086 15' 21.420"	43.05692	-86.25595	LNM 28/16, 9th Dist	1361	14901_1	7/21/2016

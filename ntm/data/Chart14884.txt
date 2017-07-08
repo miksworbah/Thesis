@@ -1,0 +1,8 @@
+Chart: 14884, Current Edition: 40, Print Date: Jan. /2014, St. Marys River - Head of Lake Nicolet to Whitefish Bay;Sault Ste. Marie
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14884	Relocate	Mission Point Obstruction Light B	Fl 6s "B"	N 46 29' 25.926"	W 084 18' 24.162"	46.49054	-84.30671	LNM 44/15, 9th Dist	1344	14884_2	11/12/2015
+14884	Relocate	Mission Point Obstruction Light B	Fl 6s "B"	N 46 29' 25.926"	W 084 18' 24.162"	46.49054	-84.30671	LNM 44/15, 9th Dist	1343	14884_1	11/12/2015
+14884	Relocate	Mission Point Obstruction Light C	Fl 4s "C"	N 46 29' 31.416"	W 084 18' 32.649"	46.49206	-84.30907	LNM 44/15, 9th Dist	1344	14884_2	11/12/2015
+14884	Relocate	Mission Point Obstruction Light C	Fl 4s "C"	N 46 29' 31.416"	W 084 18' 32.649"	46.49206	-84.30907	LNM 44/15, 9th Dist	1343	14884_1	11/12/2015
+14884	Change	Little Rapids Cut Light 98	Q R 25ft 7 St M "98"	N 46 29' 07.474"	W 084 17' 53.087"	46.48541	-84.29808	LNM 32/14, 9th Dist	1343	14884_1	8/28/2014
+14884	Delete	Round Island Traffic Lighted Buoy	RW Mo (A) 	N 46 27' 07.023"	W 084 32' 47.446"	46.45195	-84.54652	LNM 27/14, 9th Dist	1343	14884_1	7/17/2014

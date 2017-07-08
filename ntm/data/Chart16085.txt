@@ -1,0 +1,2 @@
+Chart: 16085, Current Edition: 7, Print Date: Jan. /2015, Wainwright Inlet to Atanik
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

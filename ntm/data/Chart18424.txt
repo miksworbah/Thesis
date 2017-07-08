@@ -1,0 +1,82 @@
+Chart: 18424, Current Edition: 28, Print Date: Feb. /2011, Bellingham Bay;Bellingham Harbor
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18424	Change	Eliza Rocks Junction Light	Fl (2+1) G 6s 21ft 5M	N 48 38' 37.100"	W 122 34' 41.613"	48.64364	-122.5782	LNM 21/17, 13th Dist	1677	18424_1	6/1/2017
+18424	Relocate	Cypress Reef Junction Daybeacon C	RG "C"	N 48 36' 48.962"	W 122 43' 21.084"	48.6136	-122.7225	LNM 05/17, 13th Dist	1677	18424_1	2/2/2017
+18424	Relocate	Sandy Point Light 3	Fl G 2.5s 15ft 4M "3"	N 48 47' 16.356"	W 122 42' 42.906"	48.78788	-122.7119	LNM 47/16, 13th Dist	1677	18424_1	12/1/2016
+18424	Add	Obstruction	Obstn (anchor) Rep 2016 PA	N 48 43' 16.000"	W 122 34' 22.000"	48.72111	-122.5728	WNM 39/16, NGA	1677	18424_1	9/22/2016
+18424	Change	Bellingham Bay Research Lighted Buoy B	Y "B" Fl (5) Y 20s Priv	N 48 43' 25.291"	W 122 34' 35.514"	48.72369	-122.5765	LNM 29/16, 13th Dist	1677	18424_1	7/21/2016
+18424	Relocate	Sounding in Fathoms & Feet	1 2	N 48 35' 19.841"	W 122 41' 45.268"	48.58884	-122.6959	LNM 23/16, 13th Dist	1677	18424_1	6/2/2016
+18424	Add	Sounding in Fathoms & Feet	0 5	N 48 35' 17.576"	W 122 41' 40.636"	48.58821	-122.6946	LNM 23/16, 13th Dist	1677	18424_1	6/2/2016
+18424	Change	Sandy Point Light 2	Fl R 4s 16ft 4M "2"	N 48 47' 12.429"	W 122 42' 44.748"	48.78679	-122.7124	LNM 20/16, 13th Dist	1677	18424_1	5/26/2016
+18424	Add	Foul Area PT 1 of 4	Foul Area (use Chart No. 1 K43.1)	N 48 45' 09.040"	W 122 29' 06.580"	48.75251	-122.4852	LNM 20/16, 13th Dist	1678	18424_2	5/26/2016
+18424	Add	Foul Area PT 1 of 4	Foul Area (use Chart No. 1 K43.1)	N 48 45' 09.040"	W 122 29' 06.580"	48.75251	-122.4852	LNM 20/16, 13th Dist	1677	18424_1	5/26/2016
+18424	Add	Foul Area PT 2 of 4	Foul Area (use Chart No. 1 K43.1)	N 48 45' 06.430"	W 122 29' 10.392"	48.75179	-122.4862	LNM 20/16, 13th Dist	1678	18424_2	5/26/2016
+18424	Add	Foul Area PT 2 of 4	Foul Area (use Chart No. 1 K43.1)	N 48 45' 06.430"	W 122 29' 10.392"	48.75179	-122.4862	LNM 20/16, 13th Dist	1677	18424_1	5/26/2016
+18424	Add	Foul Area PT 3 of 4	Foul Area (use Chart No. 1 K43.1)	N 48 45' 05.054"	W 122 29' 08.567"	48.7514	-122.4857	LNM 20/16, 13th Dist	1678	18424_2	5/26/2016
+18424	Add	Foul Area PT 3 of 4	Foul Area (use Chart No. 1 K43.1)	N 48 45' 05.054"	W 122 29' 08.567"	48.7514	-122.4857	LNM 20/16, 13th Dist	1677	18424_1	5/26/2016
+18424	Add	Foul Area PT 4 of 4	Foul Area (use Chart No. 1 K43.1)	N 48 45' 07.614"	W 122 29' 04.625"	48.75211	-122.4846	LNM 20/16, 13th Dist	1678	18424_2	5/26/2016
+18424	Add	Foul Area PT 4 of 4	Foul Area (use Chart No. 1 K43.1)	N 48 45' 07.614"	W 122 29' 04.625"	48.75211	-122.4846	LNM 20/16, 13th Dist	1677	18424_1	5/26/2016
+18424	Relocate	Viti Rocks Light	Fl 2.5s 45ft 5M	N 48 37' 59.640"	W 122 37' 21.671"	48.63323	-122.6227	LNM 16/16, 13th Dist	1677	18424_1	4/28/2016
+18424	Add	Bellingham Bay Research Lighted Buoy B	RY "B" Fl (5) Y 20s Priv	N 48 43' 25.291"	W 122 34' 35.514"	48.72369	-122.5765	LNM 08/16, 13th Dist	1677	18424_1	3/3/2016
+18424	Relocate	Vendovi Island Light 2	Fl R 6s 13ft 4M "2"	N 48 36' 31.800"	W 122 35' 54.402"	48.60883	-122.5984	LNM 19/15, 13th Dist	1677	18424_1	5/21/2015
+18424	Change	Vendovi Island Light 2	Fl R 6s 13ft 4M "2"	N 48 36' 31.800"	W 122 35' 54.402"	48.60883	-122.5984	LNM 19/15, 13th Dist	1677	18424_1	5/21/2015
+18424	Delete	Fish pen	Fish pen	N 48 33' 14.450"	W 122 41' 05.770"	48.55401	-122.6849	LNM 05/15, 13th Dist	1677	18424_1	2/5/2015
+18424	Delete	Fish pen	Fish pen	N 48 33' 37.850"	W 122 40' 50.630"	48.56051	-122.6807	LNM 05/15, 13th Dist	1677	18424_1	2/5/2015
+18424	Add	Fish pen PT 1 OF 4	Fish pen	N 48 33' 41.640"	W 122 40' 46.270"	48.56157	-122.6795	LNM 05/15, 13th Dist	1677	18424_1	2/5/2015
+18424	Add	Fish pen PT 2 OF 4	Fish pen	N 48 33' 38.310"	W 122 40' 52.180"	48.56064	-122.6812	LNM 05/15, 13th Dist	1677	18424_1	2/5/2015
+18424	Add	Fish pen PT 3 OF 4	Fish pen	N 48 33' 37.010"	W 122 40' 50.420"	48.56028	-122.6807	LNM 05/15, 13th Dist	1677	18424_1	2/5/2015
+18424	Add	Fish pen PT 4 OF 4	Fish pen	N 48 33' 40.350"	W 122 40' 44.580"	48.56121	-122.679	LNM 05/15, 13th Dist	1677	18424_1	2/5/2015
+18424	Add	Fish pen PT 1 OF 4	Fish pen	N 48 33' 26.600"	W 122 41' 06.620"	48.55739	-122.6852	LNM 05/15, 13th Dist	1677	18424_1	2/5/2015
+18424	Add	Fish pen PT 2 OF 4	Fish pen	N 48 33' 23.700"	W 122 41' 01.970"	48.55658	-122.6839	LNM 05/15, 13th Dist	1677	18424_1	2/5/2015
+18424	Add	Fish pen PT 3 OF 4	Fish pen	N 48 33' 25.010"	W 122 41' 00.220"	48.55695	-122.6834	LNM 05/15, 13th Dist	1677	18424_1	2/5/2015
+18424	Add	Fish pen PT 4 OF 4	Fish pen	N 48 33' 27.860"	W 122 41' 04.890"	48.55774	-122.6847	LNM 05/15, 13th Dist	1677	18424_1	2/5/2015
+18424	Delete	Fish pen	Fish pen	N 48 33' 25.630"	W 122 41' 10.610"	48.55712	-122.6863	LNM 05/15, 13th Dist	1677	18424_1	2/5/2015
+18424	Add	Fish pen PT 1 OF 4	Fish pen	N 48 33' 13.810"	W 122 41' 03.450"	48.55384	-122.6843	LNM 05/15, 13th Dist	1677	18424_1	2/5/2015
+18424	Add	Fish pen PT 2 OF 4	Fish pen	N 48 33' 12.770"	W 122 40' 57.940"	48.55355	-122.6828	LNM 05/15, 13th Dist	1677	18424_1	2/5/2015
+18424	Add	Fish pen PT 3 OF 4	Fish pen	N 48 33' 14.440"	W 122 40' 57.240"	48.55401	-122.6826	LNM 05/15, 13th Dist	1677	18424_1	2/5/2015
+18424	Add	Fish pen PT 4 OF 4	Fish pen	N 48 33' 15.570"	W 122 41' 02.960"	48.55433	-122.6842	LNM 05/15, 13th Dist	1677	18424_1	2/5/2015
+18424	Delete	Symbol for light	Light dot and flare	N 48 33' 15.908"	W 122 41' 07.472"	48.55442	-122.6854	LNM 04/15, 13th Dist	1677	18424_1	2/5/2015
+18424	Delete	Symbol for light	Light dot and flare	N 48 33' 24.091"	W 122 41' 11.105"	48.55669	-122.6864	LNM 04/15, 13th Dist	1677	18424_1	2/5/2015
+18424	Relocate	Deepwater Bay North Fish Pen Lights	2 Fl Y 6s Priv	N 48 33' 40.500"	W 122 40' 44.100"	48.56125	-122.6789	LNM 04/15, 13th Dist	1677	18424_1	2/5/2015
+18424	Relocate	Deepwater Bay South Fish Pen Lights	2 Fl Y 6s Priv	N 48 33' 24.200"	W 122 41' 01.600"	48.55672	-122.6838	LNM 04/15, 13th Dist	1677	18424_1	2/5/2015
+18424	Relocate	Secret Harbor Fish Pen Lights	2 Fl Y 6s Priv	N 48 33' 14.900"	W 122 40' 57.400"	48.55414	-122.6826	LNM 04/15, 13th Dist	1677	18424_1	2/5/2015
+18424	Change	tabulation - I. & J. STREET, WHATCOM AND SQUALICUM CREEK WATERWAYS CHANNEL DEPTHS	tabulation - I. & J. STREET, WHATCOM AND SQUALICUM CREEK WATERWAYS CHANNEL DEPTHS	N 48 47' 51.000"	W 122 26' 06.000"	48.7975	-122.435	LNM 18/14, 13th Dist	1677	18424_1	5/1/2014
+18424	Relocate	Squalicum Creek Waterway Range Rear Light	Iso G 6s 37ft Priv	N 48 45' 42.220"	W 122 30' 29.844"	48.76173	-122.5083	LNM 05/14, 13th Dist	1678	18424_2	3/27/2014
+18424	Relocate	Squalicum Creek Waterway Range Rear Light	Iso G 6s 37ft Priv	N 48 45' 42.220"	W 122 30' 29.844"	48.76173	-122.5083	LNM 05/14, 13th Dist	1677	18424_1	3/27/2014
+18424	Relocate	Georgia Pacific Outfall Lighted Buoy	Fl Y 10s Priv	N 48 44' 03.900"	W 122 31' 06.960"	48.73442	-122.5186	LNM 05/14, 13th Dist	1678	18424_2	3/27/2014
+18424	Relocate	Georgia Pacific Outfall Lighted Buoy	Fl Y 10s Priv	N 48 44' 03.900"	W 122 31' 06.960"	48.73442	-122.5186	LNM 05/14, 13th Dist	1677	18424_1	3/27/2014
+18424	Relocate	Vendovi Cove Light	Fl Y 4s 15ft Priv	N 48 36' 55.200"	W 122 36' 41.400"	48.61533	-122.6115	LNM 05/14, 13th Dist	1677	18424_1	2/20/2014
+18424	Relocate	Lummi Island Ferry Landing Light	Fl R 4s 12ft Priv	N 48 43' 13.980"	W 122 40' 50.704"	48.72055	-122.6807	LNM 05/14, 13th Dist	1677	18424_1	2/20/2014
+18424	Relocate	Deepwater Bay South Fish Pen Lights (2)	2 Fl Y 6s Priv	N 48 33' 24.998"	W 122 41' 00.214"	48.55694	-122.6834	LNM 05/14, 13th Dist	1677	18424_1	2/20/2014
+18424	Relocate	Secret Harbor Fish Pen Lights (2)	2 Fl Y 6s Priv	N 48 33' 14.429"	W 122 40' 57.277"	48.55401	-122.6826	LNM 05/14, 13th Dist	1677	18424_1	2/20/2014
+18424	Relocate	Squalicum Creek Waterway Range Front Light	Q G 28ft Priv	N 48 45' 38.354"	W 122 30' 34.160"	48.76065	-122.5095	LNM 05/14, 13th Dist	1678	18424_2	2/20/2014
+18424	Relocate	Squalicum Creek Waterway Range Front Light	Q G 28ft Priv	N 48 45' 38.354"	W 122 30' 34.160"	48.76065	-122.5095	LNM 05/14, 13th Dist	1677	18424_1	2/20/2014
+18424	Relocate	Deepwater Bay North Fish Pen Lights (2)	2 Fl Y 6s Priv	N 48 33' 40.349"	W 122 40' 44.608"	48.56121	-122.6791	LNM 05/14, 13th Dist	1677	18424_1	2/20/2014
+18424	Delete	Fl Y 6s	Fl Y 6s	N 48 33' 35.849"	W 122 40' 51.020"	48.55996	-122.6808	LNM 05/14, 13th Dist	1677	18424_1	2/20/2014
+18424	Add	Squalicum Estuary Breakwater Warning Daybeacon	NW Priv	N 48 45' 39.047"	W 122 30' 36.360"	48.76085	-122.5101	LNM 05/14, 13th Dist	1678	18424_2	2/20/2014
+18424	Add	Squalicum Estuary Breakwater Warning Daybeacon	NW Priv	N 48 45' 39.047"	W 122 30' 36.360"	48.76085	-122.5101	LNM 05/14, 13th Dist	1677	18424_1	2/20/2014
+18424	Relocate	Ferry Pier Light	F Y Priv	N 48 43' 23.630"	W 122 30' 44.770"	48.72323	-122.5124	LNM 47/13, 13th Dist	1678	18424_2	12/2/2013
+18424	Relocate	Ferry Pier Light	F Y Priv	N 48 43' 23.630"	W 122 30' 44.770"	48.72323	-122.5124	LNM 47/13, 13th Dist	1677	18424_1	12/2/2013
+18424	Change	Ferry Pier Light	F Y Priv	N 48 43' 23.630"	W 122 30' 44.770"	48.72323	-122.5124	LNM 47/13, 13th Dist	1678	18424_2	12/2/2013
+18424	Change	Ferry Pier Light	F Y Priv	N 48 43' 23.630"	W 122 30' 44.770"	48.72323	-122.5124	LNM 47/13, 13th Dist	1677	18424_1	12/2/2013
+18424	Relocate	I & J Street Waterway Light 1	Fl G 2.5s 15ft 5M "1"	N 48 44' 57.364"	W 122 30' 08.004"	48.74927	-122.5022	LNM 41/13, 13th Dist	1678	18424_2	10/15/2013
+18424	Relocate	I & J Street Waterway Light 1	Fl G 2.5s 15ft 5M "1"	N 48 44' 57.364"	W 122 30' 08.004"	48.74927	-122.5022	LNM 41/13, 13th Dist	1677	18424_1	10/15/2013
+18424	Relocate	Bellingham Breakwater North Entrance Light 4 	Fl R 6s 17ft 5M "4"	N 48 45' 26.328"	W 122 30' 41.454"	48.75731	-122.5115	LNM 41/13, 13th Dist	1678	18424_2	10/15/2013
+18424	Relocate	Bellingham Breakwater North Entrance Light 4 	Fl R 6s 17ft 5M "4"	N 48 45' 26.328"	W 122 30' 41.454"	48.75731	-122.5115	LNM 41/13, 13th Dist	1677	18424_1	10/15/2013
+18424	Delete	General Anchorage Area limit arc PT 2 OF 3	Chart No. 1 N12.1	N 48 44' 13.900"	W 122 30' 59.600"	48.73719	-122.5166	LNM 18/13, 13th Dist	1678	18424_2	4/26/2013
+18424	Delete	General Anchorage Area limit	Chart No. 1 N12.1	N 48 44' 13.800"	W 122 32' 28.900"	48.73717	-122.5414	LNM 18/13, 13th Dist	1677	18424_1	4/26/2013
+18424	Delete	General Anchorage Area limit arc PT 1 OF 3	Chart No. 1 N12.1	N 48 44' 57.500"	W 122 31' 28.000"	48.74931	-122.5244	LNM 18/13, 13th Dist	1678	18424_2	4/26/2013
+18424	Delete	General Anchorage Area limit arc PT 3 OF 3	Chart No. 1 N12.1	N 48 43' 31.100"	W 122 31' 28.000"	48.7253	-122.5244	LNM 18/13, 13th Dist	1678	18424_2	4/26/2013
+18424	Add	General Anchorage Area limit arc PT 1 OF 3	use Chart No. 1 N12.1	N 48 44' 59.300"	W 122 31' 28.000"	48.74981	-122.5244	LNM 18/13, 13th Dist	1678	18424_2	4/26/2013
+18424	Add	General Anchorage Area limit arc PT 2 OF 3	use Chart No. 1 N12.1	N 48 44' 14.100"	W 122 30' 57.100"	48.73725	-122.5159	LNM 18/13, 13th Dist	1678	18424_2	4/26/2013
+18424	Add	General Anchorage Area limit arc PT 3 OF 3	use Chart No. 1 N12.1	N 48 43' 29.600"	W 122 31' 28.000"	48.72489	-122.5244	LNM 18/13, 13th Dist	1678	18424_2	4/26/2013
+18424	Delete	Explosives Anchorage Area limit	Chart No. 1 N12.7	N 48 42' 47.000"	W 122 33' 41.100"	48.71305	-122.5614	LNM 18/13, 13th Dist	1677	18424_1	4/26/2013
+18424	Add	General Anchorage Area limit, with a radius of 6000 feet	use Chart No. 1 N12.1	N 48 44' 14.390"	W 122 32' 26.620"	48.73733	-122.5407	LNM 18/13, 13th Dist	1677	18424_1	4/26/2013
+18424	Add	Explosives Anchorage Area limit, with a radius of 3000 feet	use Chart No. 1 N12.7	N 48 42' 47.390"	W 122 33' 41.620"	48.71317	-122.5616	LNM 18/13, 13th Dist	1677	18424_1	4/26/2013
+18424	Change	Sinclair Island Lighted Buoy 4	R "4" Fl R 2.5s	N 48 38' 17.380"	W 122 40' 04.637"	48.63816	-122.668	LNM 50/12, 13th Dist	1677	18424_1	12/20/2012
+18424	Relocate	Whatcom Waterway Range Front Light	Q G 39ft	N 48 45' 10.156"	W 122 29' 02.734"	48.75282	-122.4841	LNM 23/12, 13th Dist	1677	18424_1	6/13/2012
+18424	Change	Whatcom Waterway Range Front Light	Q G 39ft	N 48 45' 10.156"	W 122 29' 02.734"	48.75282	-122.4841	LNM 23/12, 13th Dist	1677	18424_1	6/13/2012
+18424	Relocate	Whatcom Waterway Range Rear Light	Iso G 6s 71 ft	N 48 45' 14.882"	W 122 28' 55.680"	48.75414	-122.4821	LNM 23/12, 13th Dist	1677	18424_1	6/13/2012
+18424	Change	Whatcom Waterway Range Rear Light	Iso G 6s 71 ft	N 48 45' 14.882"	W 122 28' 55.680"	48.75414	-122.4821	LNM 23/12, 13th Dist	1677	18424_1	6/13/2012
+18424	Change	Padilla Bay Lighted Buoy 5	G "5" Fl G 4s 	N 48 33' 31.560"	W 122 34' 28.246"	48.55877	-122.5745	LNM 18/12, 13th Dist	1677	18424_1	5/14/2012
+18424	Change	Sandy Point Light 2 	Fl R 4s 15ft 3M "2" 	N 48 47' 12.429"	W 122 42' 44.748"	48.78679	-122.7124	LNM 10/12, 13th Dist	1677	18424_1	3/19/2012

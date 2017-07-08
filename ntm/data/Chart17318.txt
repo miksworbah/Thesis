@@ -1,0 +1,3 @@
+Chart: 17318, Current Edition: 8, Print Date: Nov. /2012, Glacier Bay;Bartlett Cove
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+17318	Substitute	Sounding in Fathoms & Feet	0_3 for 1/2 sounding	N 58 24' 19.400"	W 136 03' 06.570"	58.40539	-136.0518	LNM 33/13, 17th Dist	2638	17318_1	8/7/2013

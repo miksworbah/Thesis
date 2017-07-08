@@ -1,0 +1,25 @@
+Chart: 11464, Current Edition: 18, Print Date: Jul. /2014, Intracoastal Waterway Blackwater Sound To Matecumbe
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11464	Relocate	Mosquito Bank Light 35	Fl G 4s 37ft 5M "35"	N 25 04' 22.931"	W 080 23' 34.184"	25.07304	-80.39283	LNM 21/17, 7th Dist	2929	11464_1	6/1/2017
+11464	Add	Madeira Drive Canal Daybeacon 1	G "1" Priv	N 25 05' 10.680"	W 080 25' 58.140"	25.0863	-80.43282	LNM 05/17, 7th Dist	2929	11464_1	2/9/2017
+11464	Add	Madeira Drive Canal Daybeacon 2	R "2" Priv	N 25 05' 10.740"	W 080 25' 06.940"	25.08632	-80.41859	LNM 05/17, 7th Dist	2929	11464_1	2/9/2017
+11464	Add	Madeira Drive Canal Daybeacon 3	G "3" Priv	N 25 05' 12.060"	W 080 26' 00.120"	25.08668	-80.43336	LNM 05/17, 7th Dist	2929	11464_1	2/9/2017
+11464	Change	Grouper Creek Light 54	Fl R 4s 16ft 5M "54"	N 25 07' 05.247"	W 080 26' 55.093"	25.11812	-80.44864	LNM 02/17, 7th Dist	2929	11464_1	1/12/2017
+11464	Change	Baker Cut Light 58	Fl R 4s 16ft 5M "58"	N 25 04' 52.569"	W 080 28' 28.682"	25.08127	-80.47463	LNM 01/17, 7th Dist	2929	11464_1	1/5/2017
+11464	Change	NOAA Life Support Lighted Buoy Aquarius characteristics to:	Y Fl (4) Y 20s Priv PA	N 24 57' 00.160"	W 080 27' 11.900"	24.95004	-80.45331	LNM 49/16, 7th Dist	2929	11464_1	12/1/2016
+11464	Relocate	Jewfish Creek Light 29	Fl G 4s 16ft 4M "29"	N 25 12' 09.665"	W 080 22' 57.374"	25.20268	-80.38261	LNM 36/16, 7th Dist	2929	11464_1	9/15/2016
+11464	Change	Jewfish Creek Light 29	Fl G 4s 16ft 5M "29"	N 25 12' 09.665"	W 080 22' 57.374"	25.20268	-80.38261	LNM 36/16, 7th Dist	2929	11464_1	9/15/2016
+11464	Delete	Crocker Reef Buoy 16	R N "16"	N 24 54' 29.771"	W 080 31' 28.335"	24.90827	-80.52454	LNM 51/15, 7th Dist	2929	11464_1	12/31/2015
+11464	Delete	Marvin D Adams Waterway Lighted Buoy 2	R "2" Fl R 6s	N 25 08' 12.292"	W 080 23' 40.571"	25.13675	-80.3946	LNM 49/15, 7th Dist	2929	11464_1	12/17/2015
+11464	Change	Key Largo Light 32	Fl R 2.5s 16ft 5M "32"	N 25 10' 36.785"	W 080 20' 21.988"	25.17689	-80.33944	LNM 46/15, 7th Dist	2929	11464_1	11/26/2015
+11464	Delete	Alligator Reef Light	Fl (4) 60s 136ft 13M RACON (__-)	N 24 51' 06.435"	W 080 37' 07.857"	24.85179	-80.61885	LNM 36/15, 7th Dist	2929	11464_1	9/17/2015
+11464	Add	Abandoned Light House	TOWER (ABAND LT HO)	N 24 51' 06.435"	W 080 37' 07.857"	24.85179	-80.61885	LNM 36/15, 7th Dist	2929	11464_1	9/17/2015
+11464	Add	Alligator Reef Light	Fl (4) 60s 16ft 7M	N 24 51' 04.754"	W 080 37' 03.754"	24.85132	-80.61771	LNM 36/15, 7th Dist	2929	11464_1	9/17/2015
+11464	Delete	Conch Reef Buoy 12	R N "12"	N 24 56' 58.475"	W 080 27' 26.208"	24.94958	-80.45728	LNM 28/15, 7th Dist	2929	11464_1	7/23/2015
+11464	Delete	Dixie Shoal Buoy 8	R N "8"	N 25 04' 39.563"	W 080 18' 43.110"	25.07766	-80.31197	LNM 28/15, 7th Dist	2929	11464_1	7/23/2015
+11464	Change	Largo Sound Channel Light 2	Fl R 4s 16ft 5M "2"	N 25 05' 46.424"	W 080 23' 50.545"	25.09623	-80.39738	LNM 23/15, 7th Dist	2929	11464_1	6/18/2015
+11464	Change	Mosquito Bank Light 2	Fl R 2.5s 16ft 5M "2"	N 25 04' 36.059"	W 080 25' 38.197"	25.07668	-80.42728	LNM 18/15, 7th Dist	2929	11464_1	5/14/2015
+11464	Change	Tarpon Basin Light 46	Fl R 4s 12ft 5M "46"	N 25 07' 42.365"	W 080 25' 21.072"	25.12844	-80.42252	LNM 18/15, 7th Dist	2929	11464_1	5/14/2015
+11464	Change	Snake Creek Light 2	Fl R 4s 16ft 5M "2"	N 24 56' 28.948"	W 080 34' 51.876"	24.94137	-80.58108	LNM 17/15, 7th Dist	2929	11464_1	5/7/2015
+11464	Change	Cotton Key Light 81	Fl G 2.5s 16ft 5M "81"	N 24 57' 53.879"	W 080 37' 58.577"	24.96497	-80.63293	LNM 09/15, 7th Dist	2929	11464_1	3/12/2015
+11464	Change	Tarpon Basin Light 50	Fl R 4s 16ft 5M "50"	N 25 07' 40.319"	W 080 26' 17.944"	25.12787	-80.43832	LNM 47/14, 7th Dist	2929	11464_1	12/4/2014

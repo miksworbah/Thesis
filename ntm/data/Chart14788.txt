@@ -1,0 +1,2 @@
+Chart: 14788, Current Edition: 20, Print Date: Apr. /2016, Oneida Lake - Lock 22 to Lock 23
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

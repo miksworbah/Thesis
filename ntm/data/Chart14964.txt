@@ -1,0 +1,21 @@
+Chart: 14964, Current Edition: 22, Print Date: Oct. /2014, Big Bay Point to Redridge;Grand Traverse Bay Harbor;Lac La Belle harbor;Copper and Eagle Harbors
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14964	Change	Depth Legend - EAGLE HARBOR 	8 FT NOV 2016	N 47 27' 32.360"	W 088 08' 52.740"	47.45899	-88.14798	LNM 23/17, 9th Dist	1508	14964_3	6/1/2017
+14964	Add	Sounding in Feet	5	N 47 27' 30.720"	W 088 08' 57.470"	47.45853	-88.1493	LNM 23/17, 9th Dist	1508	14964_3	6/1/2017
+14964	Add	Sounding in Feet	5	N 47 27' 33.420"	W 088 08' 52.930"	47.45928	-88.14803	LNM 23/17, 9th Dist	1508	14964_3	6/1/2017
+14964	Delete	Sounding in Feet	5	N 47 27' 33.690"	W 088 08' 52.530"	47.45936	-88.14793	LNM 23/17, 9th Dist	1508	14964_3	6/1/2017
+14964	Delete	Sounding in Feet	4	N 47 27' 30.660"	W 088 08' 56.790"	47.45852	-88.14911	LNM 23/17, 9th Dist	1508	14964_3	6/1/2017
+14964	Change	Lac La Belle South Pierhead Light	S Pierh Lt Fl G 4s 29ft 7 St M	N 47 22' 27.300"	W 087 57' 46.000"	47.37425	-87.96278	LNM 20/17, 9th Dist	1510	14964_5	5/18/2017
+14964	Change	Lac La Belle South Pierhead Light	S Pierh Lt Fl G 4s 29ft 7 St M	N 47 22' 27.300"	W 087 57' 46.000"	47.37425	-87.96278	LNM 20/17, 9th Dist	1506	14964_1	5/18/2017
+14964	Relocate	Sand Point Light	Fl 4s 40ft 6 St M	N 46 47' 00.246"	W 088 27' 59.310"	46.7834	-88.46648	LNM 45/16, 9th Dist	1506	14964_1	11/17/2016
+14964	Change	Copper Harbor Entrance Lighted Buoy CH	RW "CH" Mo (A)	N 47 28' 41.094"	W 087 51' 52.171"	47.47808	-87.86449	LNM 23/16, 9th Dist	1509	14964_4	6/23/2016
+14964	Change	Copper Harbor Entrance Lighted Buoy CH	RW "CH" Mo (A)	N 47 28' 41.094"	W 087 51' 52.171"	47.47808	-87.86449	LNM 23/16, 9th Dist	1506	14964_1	6/23/2016
+14964	Change	Eagle Harbor Shoal Lighted Bell Buoy 1	G "1" Fl G 4s BELL	N 47 27' 50.078"	W 088 09' 30.239"	47.46391	-88.1584	LNM 23/16, 9th Dist	1508	14964_3	6/23/2016
+14964	Change	Eagle Harbor Shoal Lighted Bell Buoy 1	G "1" Fl G 4s BELL	N 47 27' 50.078"	W 088 09' 30.239"	47.46391	-88.1584	LNM 23/16, 9th Dist	1506	14964_1	6/23/2016
+14964	Change	Point Abbaye Shoal Lighted Bell Buoy 3	G "3" Fl G 4s BELL	N 46 58' 22.524"	W 088 06' 15.441"	46.97292	-88.10429	LNM 23/16, 9th Dist	1506	14964_1	6/23/2016
+14964	Change	Depth Legend - EAGLE HARBOR	6 FT OCT 2015	N 47 27' 32.200"	W 088 08' 52.800"	47.45895	-88.148	LNM 11/16, 9th Dist	1508	14964_3	2/25/2016
+14964	Delete	Sounding in Feet	3	N 47 27' 30.680"	W 088 08' 57.250"	47.45852	-88.14924	LNM 11/16, 9th Dist	1508	14964_3	2/25/2016
+14964	Add	Sounding in Feet	4	N 47 27' 30.730"	W 088 08' 56.770"	47.45853	-88.1491	LNM 11/16, 9th Dist	1508	14964_3	2/25/2016
+14964	Add	Sounding in Feet	5	N 47 27' 33.470"	W 088 08' 52.780"	47.4593	-88.14799	LNM 11/16, 9th Dist	1508	14964_3	2/25/2016
+14964	Change	Keweenaw Waterway Lower Entrance Light	Fl 6s 68ft 9 St M HORN (MRASS)	N 46 58' 07.986"	W 088 25' 51.561"	46.96888	-88.43099	LNM 38/15, 9th Dist	1506	14964_1	12/3/2015
+14964	Add	Note: MARINER ACTIVATED SOUND SIGNAL: KEWEENAW UPPER ENTRANCE LIGHT (MRASS)	MARINER ACTIVATED SOUND SIGNAL: KEWEENAW UPPER ENTRANCE LIGHT (MRASS) Horn is activated by keying mic 5 times on VHF-FM Ch 83A.	N 47 14' 04.320"	W 088 37' 49.210"	47.23454	-88.63033	LNM 38/15, 9th Dist	1506	14964_1	12/3/2015

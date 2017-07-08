@@ -1,0 +1,3 @@
+Chart: 16514, Current Edition: 5, Print Date: May. /2014, Kulikak Bay and Surveyor Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16514	Add	NOTE: AREA TO BE AVOIDED (ATBA)	NOTE: AREA TO BE AVOIDED (ATBA) The entire area of this chart falls within an Area to be Avoided. All ships 400 gross tonnage and upwards solely in transit should avoid the Area. This Area is IMO-Adopted (MSC IMO SN.1/Circ.331); to be implemented at 0000 UTC, JAN 1, 2016.	N 53 27' 15.000"	W 167 27' 27.000"	53.45417	-167.4575	LNM 51/15, 17th Dist	2513	16514_1	12/17/2015

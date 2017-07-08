@@ -1,0 +1,125 @@
+Chart: 11373, Current Edition: 52, Print Date: May. /2015, Mississippi Sound and approaches Dauphin Island to Cat Island
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11373	Delete	Breton/Chandeleur ICW Alternate Route Light 20, magenta circle Chart No. 1: S17.2, AIS label.	Fl R 2.5s 17ft 4M "20" Ra Ref AIS  Chart No. 1: S17.2  	N 30 01' 16.343"	W 088 59' 57.979"	30.02121	-88.99944	LNM 20/17, 8th Dist	52	11373_1	6/1/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route Light 23	Fl G 4s 17ft 5M "23" Ra Ref AIS  Chart No. 1: S17.2 	N 29 59' 17.570"	W 089 00' 02.708"	29.98821	-89.00076	LNM 20/17, 8th Dist	52	11373_1	6/1/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 3	V-AIS "3"     Chart No. 1: S18.2	N 30 09' 10.770"	W 088 59' 27.662"	30.15299	-88.99102	LNM 20/17, 8th Dist	52	11373_1	6/1/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 6	V-AIS "6"     Chart No. 1: S18.2	N 30 08' 11.464"	W 088 59' 33.452"	30.13652	-88.99262	LNM 20/17, 8th Dist	52	11373_1	6/1/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 9	V-AIS "9"     Chart No. 1: S18.2 	N 30 06' 12.899"	W 088 59' 38.183"	30.10358	-88.99394	LNM 20/17, 8th Dist	52	11373_1	6/1/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 12	V-AIS "12"     Chart No. 1: S18.2	N 30 05' 13.603"	W 088 59' 43.967"	30.08711	-88.99554	LNM 20/17, 8th Dist	52	11373_1	6/1/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 13	V-AIS, "13"    Chart No. 1: S18.2	N 30 04' 14.191"	W 088 59' 45.198"	30.07061	-88.99589	LNM 20/17, 8th Dist	52	11373_1	6/1/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 16	V-AIS "16"    Chart No. 1: S18.2	N 30 03' 14.973"	W 088 59' 50.975"	30.05416	-88.99749	LNM 20/17, 8th Dist	52	11373_1	6/1/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 17	V-AIS "17"     Chart No. 1: S18.2	N 30 02' 15.579"	W 088 59' 52.204"	30.03766	-88.99783	LNM 20/17, 8th Dist	52	11373_1	6/1/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 19	V-AIS "19"     Chart No. 1: S18.2	N 30 01' 16.241"	W 088 59' 55.707"	30.02118	-88.99881	LNM 20/17, 8th Dist	52	11373_1	6/1/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 22	V-AIS "22"     Chart No. 1: S18.2	N 30 00' 17.023"	W 089 00' 01.479"	30.00473	-89.00041	LNM 20/17, 8th Dist	52	11373_1	6/1/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 24	V-AIS "24"     Chart No. 1: S18.2	N 29 59' 17.671"	W 089 00' 04.980"	29.98824	-89.00138	LNM 20/17, 8th Dist	52	11373_1	6/1/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route V-AIS 25	V-AIS "25"     Chart No. 1: S18.2	N 29 58' 18.249"	W 089 00' 06.207"	29.97174	-89.00172	LNM 20/17, 8th Dist	52	11373_1	6/1/2017
+11373	Delete	Platform (Chevron-210-18)	Chart No. 1: L10	N 30 10' 12.270"	W 088 20' 56.660"	30.17007	-88.34908	LNM 18/17, 8th Dist	52	11373_1	5/11/2017
+11373	Add	Port of Gulfport Mooring Pile Light	Fl 2.5s Priv	N 30 21' 31.300"	W 089 05' 33.370"	30.35869	-89.09261	LNM 15/17, 8th Dist	52	11373_1	4/20/2017
+11373	Add	Port of Gulfport Mooring Pile Light	Fl 2.5s Priv	N 30 21' 37.130"	W 089 05' 36.040"	30.36031	-89.09335	LNM 15/17, 8th Dist	52	11373_1	4/20/2017
+11373	Delete	Platform (Chevron-147-11)	Chart No. 1: L10	N 29 58' 22.700"	W 088 36' 15.000"	29.97297	-88.60416	LNM 14/17, 8th Dist	52	11373_1	4/13/2017
+11373	Change	tabulation - Horn Island Pass Pascagoula Harbor and Bayou Casotte Channel Depths	tabulation - Horn Island Pass Pascagoula Harbor and Bayou Casotte Channel Depths	N 30 25' 46.000"	W 088 27' 31.000"	30.42945	-88.45861	LNM 15/17, 8th Dist	52	11373_1	4/13/2017
+11373	Change	tabulation - Gulfport Harbor Channels	tabulation - Gulfport Harbor Channels	N 30 25' 49.000"	W 088 55' 00.000"	30.43028	-88.91666	LNM 15/17, 8th Dist	52	11373_1	4/13/2017
+11373	Change	tabulation - Gulfport Harbor Channels	tabulation - Gulfport Harbor Channels	N 30 25' 49.000"	W 088 55' 00.000"	30.43028	-88.91666	LNM 12/17, 8th Dist	52	11373_1	3/16/2017
+11373	Add	Alma Bryant Aquaculture Special Light J	Fl Y 2.5s "J" Priv	N 30 22' 38.240"	W 088 18' 46.560"	30.37729	-88.31293	LNM 07/17, 8th Dist	52	11373_1	3/2/2017
+11373	Add	Alma Bryant Aquaculture Special Light O	Fl Y 2.5s "O" Priv	N 30 22' 19.850"	W 088 18' 57.830"	30.37218	-88.31606	LNM 07/17, 8th Dist	52	11373_1	3/2/2017
+11373	Add	Alma Bryant Aquaculture Special Light A	Fl Y 2.5s 7ft "A" Priv	N 30 22' 25.800"	W 088 19' 10.980"	30.37383	-88.31972	LNM 06/17, 8th Dist	52	11373_1	2/16/2017
+11373	Add	Alma Bryant Aquaculture Special Light B	Fl Y 2.5s 7ft "B" Priv	N 30 22' 29.070"	W 088 19' 09.000"	30.37474	-88.31917	LNM 06/17, 8th Dist	52	11373_1	2/16/2017
+11373	Relocate	Bayou La Batre Light 3	Fl G 4s 17ft 4M "3" Ra Ref	N 30 14' 51.823"	W 088 25' 32.550"	30.24773	-88.4257	LNM 04/17, 8th Dist	52	11373_1	2/9/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route Buoy 26	R N "26"	N 29 58' 18.351"	W 089 00' 08.478"	29.97176	-89.00236	LNM 02/17, 8th Dist	52	11373_1	1/26/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route Buoy 21	G C "21"	N 30 00' 16.921"	W 088 59' 59.207"	30.0047	-88.99978	LNM 02/17, 8th Dist	52	11373_1	1/26/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route Buoy 18	R N "18"	N 30 02' 15.680"	W 088 59' 54.476"	30.03769	-88.99847	LNM 02/17, 8th Dist	52	11373_1	1/26/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route Light 15	Fl G 2.5s 17ft 4M "15" Ra Ref	N 30 03' 14.871"	W 088 59' 48.702"	30.05413	-88.99686	LNM 02/17, 8th Dist	52	11373_1	1/26/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route Lighted Buoy 14	R "14" Fl R 6s	N 30 04' 14.293"	W 088 59' 47.472"	30.07064	-88.99652	LNM 02/17, 8th Dist	52	11373_1	1/26/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route Lighted Buoy 11	G "11" Fl G 6s	N 30 05' 13.501"	W 088 59' 41.694"	30.08708	-88.99491	LNM 02/17, 8th Dist	52	11373_1	1/26/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route Lighted Buoy 10	R "10" Fl R 4s	N 30 06' 13.001"	W 088 59' 40.457"	30.10361	-88.99457	LNM 02/17, 8th Dist	52	11373_1	1/26/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route Lighted Buoy 7	G "7" Fl G 2.5s	N 30 07' 12.141"	W 088 59' 34.680"	30.12004	-88.99297	LNM 02/17, 8th Dist	52	11373_1	1/26/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route Lighted Buoy 8	R "8" Fl R 2.5s	N 30 07' 12.243"	W 088 59' 36.954"	30.12007	-88.9936	LNM 02/17, 8th Dist	52	11373_1	1/26/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route Lighted Buoy 2	R "2" Q R	N 30 10' 10.192"	W 088 59' 26.426"	30.1695	-88.99068	LNM 02/17, 8th Dist	52	11373_1	1/26/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route Lighted Buoy 5	G "5" Fl G 4s	N 30 08' 11.362"	W 088 59' 31.177"	30.13649	-88.992	LNM 02/17, 8th Dist	52	11373_1	1/26/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route Lighted Buoy 4	R "4" Fl R 2.5s	N 30 09' 10.872"	W 088 59' 29.937"	30.15302	-88.99165	LNM 02/17, 8th Dist	52	11373_1	1/26/2017
+11373	Delete	Breton/Chandeleur ICW Alternate Route Lighted Buoy 1	G "1" Q G	N 30 10' 10.090"	W 088 59' 24.151"	30.16947	-88.99004	LNM 02/17, 8th Dist	52	11373_1	1/26/2017
+11373	Change	Tabulation - Horn Island Pass Pascagoula Harbor and Bayou Casotte Channel Depths	Tabulation - Horn Island Pass Pascagoula Harbor and Bayou Casotte Channel Depths	N 30 25' 46.000"	W 088 27' 31.000"	30.42945	-88.45861	LNM 51/16, 8th Dist	52	11373_1	12/15/2016
+11373	Change	Depth Note - NOTE B BAYOU LA BATRE CHANNEL to:	The controlling depth in the entrance channel was 12 feet for a width of 120 feet to Light 24, thence 16 feet for a width of 100 feet to the turning basin, thence 17 1/2 feet in the turning basin, thence 11 1/2 feet to the end of the project. Mar - Jul 2016	N 30 25' 11.880"	W 088 17' 26.730"	30.41997	-88.29076	LNM 50/16, 8th Dist	52	11373_1	12/8/2016
+11373	Add	Graveline Bayou Channel Daybeacon 1	G "1" Priv	N 30 21' 13.310"	W 088 39' 44.230"	30.3537	-88.66228	LNM 38/16, 8th Dist	52	11373_1	9/29/2016
+11373	Add	Graveline Bayou Channel Daybeacon 4	R "4" Priv	N 30 21' 22.540"	W 088 39' 41.650"	30.35626	-88.66157	LNM 38/16, 8th Dist	52	11373_1	9/29/2016
+11373	Add	Graveline Bayou Channel Daybeacon 5	G "5" Priv	N 30 21' 33.450"	W 088 39' 40.440"	30.35929	-88.66123	LNM 38/16, 8th Dist	52	11373_1	9/29/2016
+11373	Add	Graveline Bayou Channel Daybeacon 10	R "10" Priv	N 30 21' 38.410"	W 088 39' 39.830"	30.36067	-88.66106	LNM 38/16, 8th Dist	52	11373_1	9/29/2016
+11373	Add	Graveline Bayou Channel Daybeacon 11	G "11" Priv	N 30 21' 39.490"	W 088 39' 43.380"	30.36097	-88.66205	LNM 38/16, 8th Dist	52	11373_1	9/29/2016
+11373	Add	Graveline Bayou Channel Daybeacon 13	G "13" Priv	N 30 21' 42.910"	W 088 39' 50.830"	30.36192	-88.66412	LNM 38/16, 8th Dist	52	11373_1	9/29/2016
+11373	Change	tabulation - Gulfport Harbor Channels	tabulation - Gulfport Harbor Channels	N 30 25' 49.000"	W 088 55' 00.000"	30.43028	-88.91666	LNM 34/16, 8th Dist	52	11373_1	8/25/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route V-AIS Buoy 25	V-AIS "25"     Chart No. 1: S18.2	N 29 58' 18.249"	W 089 00' 06.207"	29.97174	-89.00172	LNM 31/16, 8th Dist	52	11373_1	8/11/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route V-AIS Buoy 24	V-AIS "24"     Chart No. 1: S18.2	N 29 59' 17.671"	W 089 00' 04.980"	29.98824	-89.00138	LNM 31/16, 8th Dist	52	11373_1	8/11/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route V-AIS Buoy 22	V-AIS "22"     Chart No.1: S18.2	N 30 00' 17.023"	W 089 00' 01.479"	30.00473	-89.00041	LNM 31/16, 8th Dist	52	11373_1	8/11/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route V-AIS Buoy 17	V-AIS "17"     Chart No.1: S18.2	N 30 02' 15.579"	W 088 59' 52.204"	30.03766	-88.99783	LNM 31/16, 8th Dist	52	11373_1	8/11/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route V-AIS Buoy 16	V-AIS "16"     Chart No. 1: S18.2	N 30 03' 14.973"	W 088 59' 50.975"	30.05416	-88.99749	LNM 31/16, 8th Dist	52	11373_1	8/11/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route V-AIS Buoy 13	V-AIS "13"     Chart No. 1: S18.2	N 30 04' 14.191"	W 088 59' 45.198"	30.07061	-88.99589	LNM 31/16, 8th Dist	52	11373_1	8/11/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route V-AIS Buoy 12	V-AIS "12"     Chart No. 1: S18.2	N 30 05' 13.603"	W 088 59' 43.967"	30.08711	-88.99554	LNM 31/16, 8th Dist	52	11373_1	8/11/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route V-AIS Buoy 9	V-AIS "9"     Chart No. 1: S18.2	N 30 06' 12.899"	W 088 59' 38.183"	30.10358	-88.99394	LNM 31/16, 8th Dist	52	11373_1	8/11/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route V-AIS Buoy 6	V-AIS "6"      Chart No. 1: S18.2	N 30 08' 11.464"	W 088 59' 33.452"	30.13652	-88.99262	LNM 31/16, 8th Dist	52	11373_1	8/11/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route V-AIS Buoy 3	V-AIS "3"     Chart No. 1: S18.2	N 30 09' 10.770"	W 088 59' 27.662"	30.15299	-88.99102	LNM 31/16, 8th Dist	52	11373_1	8/11/2016
+11373	Change	Breton/Chandeleur ICW Alternate Route Light 15	Fl G 2.5s 17ft 4M "15" Ra Ref AIS  (Chart No. 1: S17.2)	N 30 03' 14.871"	W 088 59' 48.702"	30.05413	-88.99686	LNM 31/16, 8th Dist	52	11373_1	8/11/2016
+11373	Change	Breton/Chandeleur ICW Alternate Route Light 20, add magenta circle  and label AIS.	Fl R 2.5s 17ft 4M "20" Ra Ref AIS  Chart No. 1: S17.2 	N 30 01' 16.343"	W 088 59' 57.979"	30.02121	-88.99944	LNM 31/16, 8th Dist	52	11373_1	8/11/2016
+11373	Change	Breton/Chandeleur ICW Alternate Route Light 23	FL G 4s 17ft 5M "23" Ra Ref AIS  Chart No. 1: S17.2 	N 29 59' 17.570"	W 089 00' 02.708"	29.98821	-89.00076	LNM 31/16, 8th Dist	52	11373_1	8/11/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route V-AIS Buoy 19	V-AIS "19"     Chart No. 1: S18.2 	N 30 01' 16.241"	W 088 59' 55.707"	30.02118	-88.99881	LNM 31/16, 8th Dist	52	11373_1	8/11/2016
+11373	Delete	Dangerous Wreck	PA      Chart No. 1: K28	N 30 16' 54.000"	W 088 57' 18.000"	30.28167	-88.955	LNM 32/16, 8th Dist	52	11373_1	8/11/2016
+11373	Delete	Dangerous Wreck - Mast	Mast PA Chart No. 1: K25	N 30 03' 29.900"	W 088 53' 15.340"	30.05831	-88.8876	LNM 30/16, 8th Dist	52	11373_1	7/28/2016
+11373	Delete	Visible Wreck	PA     Chart No. 1: K24	N 30 03' 08.330"	W 088 53' 36.670"	30.05231	-88.89352	LNM 30/16, 8th Dist	52	11373_1	7/28/2016
+11373	Delete	Obstruction	Obstn PA         Chart No. 1: K40	N 29 59' 00.049"	W 088 58' 41.744"	29.98335	-88.97826	LNM 30/16, 8th Dist	52	11373_1	7/28/2016
+11373	Add	Wreck in Feet	10 Wk      Chart No. 1: K26	N 30 03' 34.060"	W 088 53' 12.480"	30.05946	-88.8868	LNM 30/16, 8th Dist	52	11373_1	7/28/2016
+11373	Add	Wreck in Feet	15 Wk      Chart No. 1: K26	N 30 03' 14.590"	W 088 52' 43.850"	30.05405	-88.87885	LNM 30/16, 8th Dist	52	11373_1	7/28/2016
+11373	Delete	Pipe PA	Chart No. 1: L23	N 30 03' 00.830"	W 088 52' 35.830"	30.05023	-88.87662	LNM 30/16, 8th Dist	52	11373_1	7/28/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route Lighted Buoy 1	G "1" Q G	N 30 10' 10.090"	W 088 59' 24.151"	30.16947	-88.99004	LNM 25/16, 8th Dist	52	11373_1	7/7/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route Buoy 21	G C "21"	N 30 00' 16.921"	W 088 59' 59.207"	30.0047	-88.99978	LNM 25/16, 8th Dist	52	11373_1	7/7/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route Light 20	Fl R 2.5s 17ft 4M "20" Ra Ref	N 30 01' 16.343"	W 088 59' 57.979"	30.02121	-88.99944	LNM 25/16, 8th Dist	52	11373_1	7/7/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route Buoy 18	R N "18"	N 30 02' 15.680"	W 088 59' 54.476"	30.03769	-88.99847	LNM 25/16, 8th Dist	52	11373_1	7/7/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route Light 15	Fl G 2.5s 17ft 4M "15" Ra Ref	N 30 03' 14.871"	W 088 59' 48.702"	30.05413	-88.99686	LNM 25/16, 8th Dist	52	11373_1	7/7/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route Lighted Buoy 14	R "14" Fl R 6s	N 30 04' 14.293"	W 088 59' 47.472"	30.07064	-88.99652	LNM 25/16, 8th Dist	52	11373_1	7/7/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route Lighted Buoy 11	G "11" Fl G 6s	N 30 05' 13.501"	W 088 59' 41.694"	30.08708	-88.99491	LNM 25/16, 8th Dist	52	11373_1	7/7/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route Lighted Buoy 10	R "10" Fl R 4s	N 30 06' 13.001"	W 088 59' 40.457"	30.10361	-88.99457	LNM 25/16, 8th Dist	52	11373_1	7/7/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route Lighted Buoy 8	R "8" Fl R 2.5s	N 30 07' 12.243"	W 088 59' 36.954"	30.12007	-88.9936	LNM 25/16, 8th Dist	52	11373_1	7/7/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route Lighted Buoy 7	G  "7" Fl G 2.5s	N 30 07' 12.141"	W 088 59' 34.680"	30.12004	-88.99297	LNM 25/16, 8th Dist	52	11373_1	7/7/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route Lighted Buoy 5	G "5" Fl G 4s	N 30 08' 11.362"	W 088 59' 31.177"	30.13649	-88.992	LNM 25/16, 8th Dist	52	11373_1	7/7/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route Lighted Buoy 4	R "4" Fl R 2.5s	N 30 09' 10.872"	W 088 59' 29.937"	30.15302	-88.99165	LNM 25/16, 8th Dist	52	11373_1	7/7/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route Lighted Buoy 2	R "2" Q R	N 30 10' 10.192"	W 088 59' 26.426"	30.1695	-88.99068	LNM 25/16, 8th Dist	52	11373_1	7/7/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route Buoy 26	R N "26"	N 29 58' 18.351"	W 089 00' 08.478"	29.97176	-89.00236	LNM 25/16, 8th Dist	52	11373_1	7/7/2016
+11373	Add	Breton/Chandeleur ICW Alternate Route Light 23	Fl G 4s 17ft 5M  "23" Ra Ref	N 29 59' 17.570"	W 089 00' 02.708"	29.98821	-89.00076	LNM 25/16, 8th Dist	52	11373_1	7/7/2016
+11373	Delete	Platform: (Chevron-210-20)	Chart No. 1: L10	N 29 58' 34.438"	W 088 36' 16.894"	29.97623	-88.60469	LNM 23/16, 8th Dist	52	11373_1	6/16/2016
+11373	Delete	Platform: (Chevron-213-1)	Chart No. 1: L10	N 30 00' 05.075"	W 088 33' 06.307"	30.00141	-88.55175	LNM 23/16, 8th Dist	52	11373_1	6/16/2016
+11373	Delete	Platform: (Chevron-210-26)	Chart No. 1: L10	N 29 59' 06.684"	W 088 30' 41.688"	29.98519	-88.51158	LNM 23/16, 8th Dist	52	11373_1	6/16/2016
+11373	Add	Dangerous Wreck 	PA      Chart No. 1: K28	N 30 05' 57.360"	W 089 06' 06.900"	30.09927	-89.10191	LNM 22/16, 8th Dist	52	11373_1	6/9/2016
+11373	Add	Sandy Bay Oyster Company Special Light A	Fl Y 2.5s "A" Priv	N 30 22' 48.260"	W 088 18' 42.020"	30.38007	-88.31168	LNM 20/16, 8th Dist	52	11373_1	5/26/2016
+11373	Add	Sandy Bay Oyster Company Special Light E	Fl Y 2.5s "E" Priv	N 30 22' 47.950"	W 088 18' 56.290"	30.37999	-88.31564	LNM 20/16, 8th Dist	52	11373_1	5/26/2016
+11373	Change	tabulation - HORN ISLAND PASS PASCAGOULA HARBOR AND BAYOU CASOTTE CHANNEL	tabulation - HORN ISLAND PASS PASCAGOULA HARBOR AND BAYOU CASOTTE CHANNEL	N 30 25' 46.000"	W 088 27' 31.000"	30.42945	-88.45861	LNM 12/16, 8th Dist	52	11373_1	3/24/2016
+11373	Change	Depth Legend - BILOXI WEST APPROACH to:	6 FT BY 150 FT OCT 2015	N 30 22' 44.600"	W 088 54' 07.200"	30.37906	-88.902	LNM 07/16, 8th Dist	52	11373_1	2/18/2016
+11373	Relocate	Round Island Breakwater Obstruction Light	Fl 2.5s 15ft Priv	N 30 17' 29.277"	W 088 35' 18.257"	30.29147	-88.5884	LNM 03/16, 8th Dist	52	11373_1	1/28/2016
+11373	Delete	Round Island Breakwater Obstruction Light	Fl 2.5s 15ft Priv	N 30 17' 32.440"	W 088 35' 16.220"	30.29235	-88.58784	LNM 03/16, 8th Dist	52	11373_1	1/28/2016
+11373	Add	Round Island Breakwater Obstruction Light	Fl 2.5s 7ft Priv	N 30 17' 32.697"	W 088 35' 14.139"	30.29242	-88.58726	LNM 03/16, 8th Dist	52	11373_1	1/28/2016
+11373	Add	Round Island Breakwater Obstruction Light	Fl 2.5s 7ft Priv	N 30 17' 21.440"	W 088 35' 11.403"	30.28929	-88.5865	LNM 03/16, 8th Dist	52	11373_1	1/28/2016
+11373	Add	Round Island Breakwater Obstruction Light	Fl 2.5s 7ft Priv	N 30 17' 23.881"	W 088 35' 06.835"	30.28997	-88.58524	LNM 03/16, 8th Dist	52	11373_1	1/28/2016
+11373	Add	Round Island Breakwater Obstruction Light	Fl 2.5s 7ft Priv	N 30 17' 28.441"	W 088 35' 06.096"	30.29123	-88.58503	LNM 03/16, 8th Dist	52	11373_1	1/28/2016
+11373	Delete	Round Island Breakwater Obstruction Light	Fl 2.5s 15ft Priv	N 30 17' 21.770"	W 088 35' 11.270"	30.28938	-88.58646	LNM 03/16, 8th Dist	52	11373_1	1/28/2016
+11373	Add	Round Island Breakwater Obstruction Light	Fl 2.5s 7ft Priv	N 30 17' 22.995"	W 088 35' 17.382"	30.28972	-88.58817	LNM 03/16, 8th Dist	52	11373_1	1/28/2016
+11373	Change	Tabulation - Horn Island Pass Pascagoula Harbor and Bayou Casotte Channel Depths	Tabulation - Horn Island Pass Pascagoula Harbor and Bayou Casotte Channel Depths	N 30 25' 46.000"	W 088 27' 31.000"	30.42945	-88.45861	LNM 02/16, 8th Dist	52	11373_1	1/14/2016
+11373	Add	Wreck in Feet	47 Wk      Chart No. 1: K26	N 30 02' 54.500"	W 088 31' 13.200"	30.04847	-88.52033	LNM 51/15, 8th Dist	52	11373_1	12/17/2015
+11373	Change	tabulation - HORN ISLAND PASS PASCAGOULA HARBOR AND BAYOU CASOTTE CHANNEL DEPTHS	tabulation - HORN ISLAND PASS PASCAGOULA HARBOR AND BAYOU CASOTTE CHANNEL DEPTHS	N 30 25' 46.000"	W 088 27' 31.000"	30.42945	-88.45861	LNM 45/15, 8th Dist	52	11373_1	11/5/2015
+11373	Change	tabulation - GULFPORT HARBOR CHANNELS	tabulation - GULFPORT HARBOR CHANNELS	N 30 25' 49.000"	W 088 55' 00.000"	30.43028	-88.91666	LNM 45/15, 8th Dist	52	11373_1	11/5/2015
+11373	Change	Note C	Note C: The buoys in Petit Bois Pass are not charted due to continuous shoaling which necessitates their frequent relocations.  Mariners are advised to use local knowledge to safely transit Petit Bois Pass.	N 30 24' 28.000"	W 088 27' 02.000"	30.40778	-88.45055	LNM 43/15, 8th Dist	52	11373_1	10/22/2015
+11373	Change	tabulation - GULFPORT HARBOR CHANNELS	tabulation - GULFPORT HARBOR CHANNELS	N 30 25' 49.000"	W 088 55' 00.000"	30.43028	-88.91666	LNM 39/15, 8th Dist	52	11373_1	10/1/2015
+11373	Change	tabulation - Horn and Pass Pascagoula Harbor and Bayou Casotte Channel Depths	tabulation - Horn and xxPass Pascagoula Harbor and Bayou Casotte Channel Depths	N 30 25' 46.000"	W 088 27' 31.000"	30.42945	-88.45861	LNM 39/15, 8th Dist	52	11373_1	10/1/2015
+11373	Delete	Petit Bois Pass Lighted Buoy 1	G "1" Fl G 2.5s	N 30 12' 13.715"	W 088 18' 58.924"	30.20381	-88.31637	LNM 37/15, 8th Dist	52	11373_1	9/24/2015
+11373	Delete	Petit Bois Pass Wreck Lighted Buoy	R "WR2" Q R	N 30 12' 19.231"	W 088 17' 55.898"	30.20534	-88.29886	LNM 37/15, 8th Dist	52	11373_1	9/24/2015
+11373	Change	Depth Note - DEPTH NOTE B BAYOU LABATRE CHANNEL to:	The controlling depth in the entrance channel was 13 1/2 feet for a width of 120 feet to light 24, thence 14 feet for a width of 100 feet to the turning basin, thence 16 feet in the turning basin, thence 11 feet to the end of the project. May-Jul 2015	N 30 25' 10.000"	W 088 17' 30.000"	30.41945	-88.29166	LNM 38/15, 8th Dist	52	11373_1	9/17/2015
+11373	Relocate	Gulfport Upper Reach Inbound Range Front Light	Q R 35ft	N 30 21' 12.217"	W 089 05' 07.514"	30.35339	-89.08542	LNM 36/15, 8th Dist	52	11373_1	9/17/2015
+11373	Relocate	Gulfport Upper Reach Inbound Range Rear Light	Oc R 4s 81ft	N 30 21' 52.325"	W 089 05' 41.541"	30.36453	-89.09487	LNM 36/15, 8th Dist	52	11373_1	9/17/2015
+11373	Relocate	Ship Island Pass Entrance Range Front Light	Q 37ft (Day)  Q 39ft (Night)	N 30 12' 09.243"	W 089 00' 00.284"	30.20257	-89.00008	LNM 35/15, 8th Dist	52	11373_1	9/17/2015
+11373	Change	tabulation - HORN ISLAND PASS PASCAGOULA HARBOR AND BAYOU CASOTTE CHANNEL DEPTHS	tabulation - HORN ISLAND PASS PASCAGOULA HARBOR AND BAYOU CASOTTE CHANNEL DEPTHS	N 30 25' 46.000"	W 088 27' 31.000"	30.42945	-88.45861	LNM 36/15, 8th Dist	52	11373_1	9/17/2015
+11373	Change	Gulfport Ship Channel Light 63 	Q G 17ft 3M "63" Ra Ref	N 30 20' 54.269"	W 089 04' 56.576"	30.34841	-89.08238	LNM 31/15, 8th Dist	52	11373_1	8/20/2015
+11373	Change	tabulation - HORN ISLAND PASS PASCAGOULA HARBOR AND BAYOU CASOTTE CHANNEL DEPTHS	tabulation - HORN ISLAND PASS PASCAGOULA HARBOR AND BAYOU CASOTTE CHANNEL DEPTHS	N 30 25' 46.000"	W 088 27' 31.000"	30.42945	-88.45861	LNM 32/15, 8th Dist	52	11373_1	8/13/2015
+11373	Change	Depth Note - SNAKE BAYOU to:	The controlling depth from the entrance to Kraver Bulkhead was 9 1/2 feet for a width of 50 feet, thence 7 1/2 feet for a width of 50 feet, with shoaling to 4 1/2 feet at the northern end of the project. Jun 2015	N 30 24' 07.300"	W 088 17' 28.100"	30.40203	-88.29114	LNM 32/15, 8th Dist	52	11373_1	8/6/2015
+11373	Change	Depth Legend - BAYOU CODEN to:	6 1/2 FT MID 50 FT MAY 2015	N 30 22' 34.000"	W 088 15' 37.500"	30.37611	-88.26041	LNM 32/15, 8th Dist	52	11373_1	8/6/2015
+11373	Add	Visible Wreck	PA      Chart No. 1: K24	N 30 13' 28.800"	W 088 18' 54.000"	30.22467	-88.315	LNM 27/15, 8th Dist	52	11373_1	7/16/2015
+11373	Delete	Isle Aux Herbes Light 2	Fl R 4s 17ft 3M "2" Ra Ref	N 30 18' 08.857"	W 088 16' 00.581"	30.30246	-88.26683	LNM 23/15, 8th Dist	52	11373_1	6/18/2015
+11373	Add	Deer Island Breakwater Northwest Danger Light	Fl 2.5s 10ft Priv	N 30 21' 32.460"	W 088 50' 44.820"	30.35902	-88.84579	LNM 22/15, 8th Dist	52	11373_1	6/11/2015
+11373	Add	Deer Island Breakwater Southeast Danger Light	Fl 2.5s 10ft Priv	N 30 21' 14.820"	W 088 49' 54.660"	30.35412	-88.83185	LNM 22/15, 8th Dist	52	11373_1	6/11/2015
+11373	Delete	Horn Island Pass Wreck Lighted Buoy WR	R "WR" Q R	N 30 09' 43.620"	W 088 31' 59.776"	30.16212	-88.53327	LNM 21/15, 8th Dist	52	11373_1	6/4/2015
+11373	Delete	Gulfport Ship Channel Wreck Light WR54A	Q R 17ft 3M "WR54A" Ra Ref	N 30 19' 21.590"	W 089 03' 18.308"	30.32266	-89.05508	LNM 20/15, 8th Dist	52	11373_1	5/28/2015

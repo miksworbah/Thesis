@@ -1,0 +1,8 @@
+Chart: 17434, Current Edition: 14, Print Date: Oct. /2013, Revillagigedo Channel;Ryus Bay;Foggy Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+17434	Relocate	Lively Rock Lighted Buoy 9	G "9" FL G 4s	N 55 09' 25.174"	W 131 35' 09.994"	55.15699	-131.5861	LNM 15/17, 17th Dist	2753	17434_1	4/20/2017
+17434	Delete	Scrub Island Light 5	Fl G 6s 10ft 4M "5"	N 55 08' 15.370"	W 131 34' 28.950"	55.1376	-131.5747	LNM 50/16, 17th Dist	2753	17434_1	12/22/2016
+17434	Add	Scrub Island LB 5	G "5" Fl G 6s	N 55 08' 13.740"	W 131 34' 28.680"	55.13715	-131.5746	LNM 50/16, 17th Dist	2753	17434_1	12/22/2016
+17434	Relocate	Coast Guard Station Light	Fl 4s 4M	N 55 19' 47.490"	W 131 37' 20.820"	55.32986	-131.6225	LNM 25/15, 17th Dist	2753	17434_1	6/25/2015
+17434	Delete	Mastic Rock Daybeacon	RW Bn	N 55 15' 28.867"	W 131 24' 03.054"	55.25802	-131.4008	LNM 14/14, 17th Dist	2753	17434_1	4/17/2014
+17434	Add	Mastic Rock Buoy 2	R  N  "2"	N 55 15' 26.044"	W 131 24' 02.135"	55.25723	-131.4006	LNM 14/14, 17th Dist	2753	17434_1	4/17/2014

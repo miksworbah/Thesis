@@ -1,0 +1,2 @@
+Chart: 25665, Current Edition: 11, Print Date: May. /2006, Punta Lima to Cayo Batata
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

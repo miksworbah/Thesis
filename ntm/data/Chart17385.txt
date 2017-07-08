@@ -1,0 +1,5 @@
+Chart: 17385, Current Edition: 18, Print Date: Dec. /2011, Ernest Sound-Eastern Passage and Zimovia Strait;Zimovia Strait
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+17385	Add	Submerged Rock	Chart No. 1: K13	N 55 44' 34.680"	W 132 15' 45.840"	55.74297	-132.2627	LNM 19/14, 17th Dist	2709	17385_1	5/15/2014
+17385	Delete	Misery Island DBN 1	G "1" PA	N 55 44' 41.202"	W 132 16' 36.084"	55.74478	-132.2767	LNM 49/12, 17th Dist	2709	17385_1	12/10/2012
+17385	Add	Misery Island Buoy 1	G C "1" 	N 55 44' 36.591"	W 132 16' 32.408"	55.7435	-132.2757	LNM 49/12, 17th Dist	2709	17385_1	12/10/2012

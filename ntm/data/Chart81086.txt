@@ -1,0 +1,2 @@
+Chart: 81086, Current Edition: 8, Print Date: May. /2014, Plans in the Mariana Islands; Faraloon de Pajaros; Sarigan Island; Farallon de Medinilla; Ascuncion Island; Agrihan; Agrihan Anchorge; Alamagan Island; Guguan; Anatahan
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

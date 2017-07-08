@@ -1,0 +1,57 @@
+Chart: 19019, Current Edition: 11, Print Date: Apr. /2008, French Frigate Shoals to Laysan Island
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+19019	Delete	Ship Reporting Area Limit PT 1 OF 11	use Chart No. 1: N1.2	N 26 34' 49.000"	W 170 54' 48.800"	26.58028	-170.9136	LNM 30/13, 14th Dist	2770	19019_1	7/18/2013
+19019	Delete	Ship Reporting Area Limit PT 2 OF 11	use Chart No. 1: N1.2	N 26 24' 27.600"	W 170 21' 04.300"	26.40767	-170.3512	LNM 30/13, 14th Dist	2770	19019_1	7/18/2013
+19019	Delete	Ship Reporting Area Limit PT 3 OF 11	use Chart No. 1: N1.2	N 25 56' 28.900"	W 167 31' 51.400"	25.94136	-167.5309	LNM 30/13, 14th Dist	2770	19019_1	7/18/2013
+19019	Delete	Ship Reporting Area Limit PT 4 OF 11	use Chart No. 1: N1.2	N 24 50' 13.800"	W 165 58' 33.600"	24.83717	-165.976	LNM 30/13, 14th Dist	2770	19019_1	7/18/2013
+19019	Delete	Ship Reporting Area Limit PT 7 OF 11	use Chart No. 1: N1.2	N 22 47' 38.000"	W 166 38' 07.600"	22.79389	-166.6354	LNM 30/13, 14th Dist	2770	19019_1	7/18/2013
+19019	Delete	Ship Reporting Area Limit PT 8 OF 11	use Chart No. 1: N1.2	N 24 03' 49.900"	W 168 27' 41.500"	24.06386	-168.4615	LNM 30/13, 14th Dist	2770	19019_1	7/18/2013
+19019	Delete	Ship Reporting Area Limit PT 9 OF 11	use Chart No. 1: N1.2	N 24 25' 52.100"	W 170 45' 35.500"	24.43114	-170.7599	LNM 30/13, 14th Dist	2770	19019_1	7/18/2013
+19019	Delete	Ship Reporting Area Limit PT 10 OF 11	use Chart No. 1: N1.2	N 24 46' 35.300"	W 171 52' 58.100"	24.77647	-171.8828	LNM 30/13, 14th Dist	2770	19019_1	7/18/2013
+19019	Add	Ship Reporting Area Limit PT 1 OF 12	use Chart No. 1: N1.2	N 26 34' 49.200"	W 170 55' 34.100"	26.58033	-170.9261	LNM 30/13, 14th Dist	2770	19019_1	7/18/2013
+19019	Add	Ship Reporting Area Limit PT 2 OF 12	use Chart No. 1: N1.2	N 26 23' 57.300"	W 170 20' 14.700"	26.39925	-170.3374	LNM 30/13, 14th Dist	2770	19019_1	7/18/2013
+19019	Add	Ship Reporting Area Limit PT 3 OF 12	use Chart No. 1: N1.2	N 25 56' 29.300"	W 167 32' 01.600"	25.94147	-167.5338	LNM 30/13, 14th Dist	2770	19019_1	7/18/2013
+19019	Add	Ship Reporting Area Limit PT 4 OF 12	use Chart No. 1: N1.2	N 24 50' 13.700"	W 165 58' 33.300"	24.83714	-165.9759	LNM 30/13, 14th Dist	2770	19019_1	7/18/2013
+19019	Add	Ship Reporting Area Limit PT 7 OF 12	use Chart No. 1: N1.2	N 24 46' 29.400"	W 171 52' 52.000"	24.77483	-171.8811	LNM 30/13, 14th Dist	2770	19019_1	7/18/2013
+19019	Add	Ship Reporting Area Limit PT 8 OF 12	use Chart No. 1: N1.2	N 24 26' 35.300"	W 170 50' 22.300"	24.44314	-170.8395	LNM 30/13, 14th Dist	2770	19019_1	7/18/2013
+19019	Add	Ship Reporting Area Limit PT 9 OF 12	use Chart No. 1: N1.2	N 24 03' 18.300"	W 168 27' 31.500"	24.05508	-168.4588	LNM 30/13, 14th Dist	2770	19019_1	7/18/2013
+19019	Add	Ship Reporting Area Limit PT 10 OF 12	use Chart No. 1: N1.2	N 22 47' 51.700"	W 168 27' 31.500"	22.7977	-168.4588	LNM 30/13, 14th Dist	2770	19019_1	7/18/2013
+19019	Add	Ship Reporting Area Limit PT 12 OF 12	use Chart No. 1: N1.2	N 26 34' 47.100"	W 172 39' 59.100"	26.57975	-172.6664	LNM 30/13, 14th Dist	2770	19019_1	7/18/2013
+19019	Add	Ship Reporting Area Limit PT 6 OF 12	use Chart No. 1: N1.2	N 24 52' 56.000"	W 172 39' 55.000"	24.88222	-172.6653	LNM 30/13, 14th Dist	2770	19019_1	7/18/2013
+19019	Add	Ship Reporting Area Limit PT 5 OF 12	use Chart No. 1: N1.2	N 24 45' 00.000"	W 165 30' 06.000"	24.75	-165.5017	LNM 30/13, 14th Dist	2770	19019_1	7/18/2013
+19019	Add	Ship Reporting Area Limit PT 11 OF 12	use Chart No. 1: N1.2	N 22 39' 38.000"	W 165 30' 01.000"	22.66055	-165.5003	LNM 30/13, 14th Dist	2770	19019_1	7/18/2013
+19019	Delete	Ship Reporting Area Limit PT 5 OF 11	use Chart No. 1: N1.2	N 24 44' 58.800"	W 165 30' 01.000"	24.74967	-165.5003	LNM 30/13, 14th Dist	2770	19019_1	7/18/2013
+19019	Delete	Ship Reporting Area Limit PT 6 OF 11	use Chart No. 1: N1.2	N 22 39' 38.400"	W 165 30' 01.000"	22.66067	-165.5003	LNM 30/13, 14th Dist	2770	19019_1	7/18/2013
+19019	Delete	Ship Reporting Area Limit PT 11 OF 11	use Chart No. 1: N1.2	N 24 52' 57.200"	W 172 39' 58.000"	24.88256	-172.6661	LNM 30/13, 14th Dist	2770	19019_1	7/18/2013
+19019	Change	NOTE D	The Areas to be Avoided and the Particularly Sensitive Sea Area have been charted in their true positions. The limits of the Papahanaumokuakea Marine National Monument have been slightly offset for clarity. The inner limit of the Ship Reporting System Area is co-linear with the outer limits of the Areas to be Avoided and is not depicted. 	N 23 54' 52.000"	W 172 24' 00.000"	23.91444	-172.4	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Change	NOTE E SHIP REPORTING SYSTEM	The following vessels entering or departing any U.S. port of place and in transit through the reporting area are required to report into the System: all vessels 300 gross tons or greater and all vessels in the event of a developing emergency. The following vessels in transit through the reporting area should report into the System: all vessels 300 gross tons or greater, fishing vessels, and all vessels in the event of a developing emergency. See IMO SN.1, Circ. 273. Information concerning the Ship Reporting System is also published in the U.S. Coast Pilot 7, Chapters 2 and 14, and updated through Notices to Mariners. Information may also be obtained at the Office of the Commander, 14th Coast Guard District in Honolulu, or at the Office of the District Engineer, Corps of Engineers, in Honolulu. 	N 23 41' 56.000"	W 172 24' 00.000"	23.69889	-172.4	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	Ship Reporting System Area limit PT 1 OF 11	(Chart No. 1: N1.2)	N 25 02' 46.000"	W 172 39' 37.000"	25.04611	-172.6603	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	Ship Reporting System Area limit PT 2 OF 11	(Chart No. 1: N1.2)	N 24 56' 15.000"	W 171 50' 11.000"	24.9375	-171.8364	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	Ship Reporting System Area limit PT 3 OF 11	(Chart No. 1: N1.2)	N 24 36' 17.000"	W 170 47' 26.000"	24.60472	-170.7906	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	Ship Reporting System Area limit PT 4 OF 11	(Chart No. 1: N1.2)	N 24 31' 36.000"	W 170 17' 22.000"	24.52667	-170.2894	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	Ship Reporting System Area limit PT 5 OF 11	(Chart No. 1: N1.2)	N 24 31' 05.000"	W 169 45' 54.000"	24.51805	-169.765	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	Ship Reporting System Area limit PT 6 OF 11	(Chart No. 1: N1.2)	N 24 45' 03.000"	W 169 20' 30.000"	24.75083	-169.3417	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	Ship Reporting System Area limit PT 7 OF 11	(Chart No. 1: N1.2)	N 25 03' 37.000"	W 169 08' 13.000"	25.06028	-169.1369	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	Ship Reporting System Area limit PT 8 OF 11	(Chart No. 1: N1.2)	N 25 44' 30.000"	W 169 12' 40.000"	25.74167	-169.2111	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	Ship Reporting System Area limit PT 9 OF 11	(Chart No. 1: N1.2)	N 26 09' 39.000"	W 169 54' 36.000"	26.16083	-169.91	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	Ship Reporting System Area limit PT 10 OF 11	(Chart No. 1: N1.2)	N 26 14' 33.000"	W 170 23' 53.000"	26.2425	-170.3981	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	Ship Reporting System Area limit PT 11 OF 11	(Chart No. 1: N1.2)	N 26 34' 38.000"	W 171 29' 12.000"	26.57722	-171.4867	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	Ship Reporting System Area limit PT 1 OF 12	(Chart No. 1: N1.2)	N 22 49' 41.000"	W 165 30' 02.000"	22.82806	-165.5005	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	Ship Reporting System Area limit PT 2 OF 12	(Chart No. 1: N1.2)	N 22 57' 25.000"	W 166 35' 59.000"	22.95694	-166.5997	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	Ship Reporting System Area limit PT 3 OF 12	(Chart No. 1: N1.2)	N 24 12' 44.000"	W 168 22' 51.000"	24.21222	-168.3808	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	Ship Reporting System Area limit PT 4 OF 12	(Chart No. 1: N1.2)	N 24 16' 12.000"	W 168 27' 29.000"	24.27	-168.4581	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	Ship Reporting System Area limit PT 5 OF 12	(Chart No. 1: N1.2)	N 24 34' 17.000"	W 168 47' 26.000"	24.57139	-168.7906	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	Ship Reporting System Area limit PT 6 OF 12	(Chart No. 1: N1.2)	N 25 06' 17.000"	W 168 54' 56.000"	25.10472	-168.9156	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	Ship Reporting System Area limit PT 7 OF 12	(Chart No. 1: N1.2)	N 25 27' 08.000"	W 168 46' 33.000"	25.45222	-168.7758	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	Ship Reporting System Area limit PT 8 OF 12	(Chart No. 1: N1.2)	N 25 46' 22.000"	W 168 21' 08.000"	25.77278	-168.3522	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	Ship Reporting System Area limit PT 9 OF 12	(Chart No. 1: N1.2)	N 25 48' 36.000"	W 167 45' 48.000"	25.81	-167.7633	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	Ship Reporting System Area limit PT 10 OF 12	(Chart No. 1: N1.2)	N 25 47' 08.000"	W 167 36' 48.000"	25.78555	-167.6133	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	Ship Reporting System Area limit PT 11 OF 12	(Chart No. 1: N1.2)	N 24 40' 47.000"	W 166 02' 40.000"	24.67972	-166.0444	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	Ship Reporting System Area limit PT 12 OF 12	(Chart No. 1: N1.2)	N 24 34' 46.000"	W 165 30' 11.000"	24.57944	-165.5031	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	label	SHIP REPORTING SYSTEM AREA (see note E)	N 26 23' 37.000"	W 170 51' 01.000"	26.39361	-170.8503	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	label	SHIP REPORTING SYSTEM AREA (see note E)	N 24 57' 03.000"	W 172 01' 42.000"	24.95083	-172.0283	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	label	SHIP REPORTING SYSTEM AREA (see note E)	N 24 35' 25.000"	W 169 32' 26.000"	24.59028	-169.5406	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	label	SHIP REPORTING SYSTEM AREA (see note E)	N 22 50' 42.000"	W 165 45' 43.000"	22.845	-165.7619	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	label	SHIP REPORTING SYSTEM AREA (see note E)	N 25 45' 04.000"	W 168 25' 54.000"	25.75111	-168.4317	LNM 26/09, 14th Dist	2770	19019_1	7/6/2009
+19019	Delete	Sounding in Fathoms & Fractions	4 1/4 PA Rep (1977)	N 23 49' 18.800"	W 166 19' 34.300"	23.82189	-166.3262	LNM 35/08, 14th Dist	2770	19019_1	9/26/2008
+19019	Add	Sounding in Fathoms 	6 Rep (2005)	N 23 49' 48.000"	W 166 19' 30.500"	23.83	-166.3251	LNM 35/08, 14th Dist	2770	19019_1	9/26/2008

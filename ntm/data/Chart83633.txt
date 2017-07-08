@@ -1,0 +1,5 @@
+Chart: 83633, Current Edition: 5, Print Date: Feb. /2006, United States Possession Approaches to Johnston Atoll
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+83633	Delete	Aeronautical Radiobeacon	AERO R Bn 388 ._  ._ _.  _ _ _ (Chart No.1:S16)	N 16 43' 52.500"	W 169 31' 59.300"	16.73125	-169.5331	LNM 24/09, 14th Dist	2844	83633_1	6/18/2009
+83633	Delete	Johnston Atoll Channel Range Front Light	Q 17ft	N 16 44' 38.380"	W 169 31' 03.500"	16.74399	-169.5176	LNM 21/09, 14th Dist	2844	83633_1	6/12/2009
+83633	Delete	Johnston Atoll Channel Range Rear Light	Iso 6s 40ft	N 16 44' 57.700"	W 169 31' 03.650"	16.74936	-169.5177	LNM 21/09, 14th Dist	2844	83633_1	6/12/2009

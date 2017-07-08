@@ -1,0 +1,11 @@
+Chart: 18740, Current Edition: 45, Print Date: Jan. /2017, San Diego to Santa Rosa Island
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18740	Add	Obstruction Label	Obstn (7 fms rep)	N 33 12' 18.100"	W 117 26' 48.500"	33.20503	-117.4468	LNM 15/17, 11th Dist	1893	18740_1	4/6/2017
+18740	Delete	Obstruction in Fathoms	Obstn 7 fms rep      Chart No. 1: K41	N 33 12' 18.100"	W 117 26' 48.500"	33.20503	-117.4468	LNM 15/17, 11th Dist	1893	18740_1	4/6/2017
+18740	Add	Obstruction in Fathoms	Obstn (7 fms rep)       Chart No. 1: K41	N 33 12' 18.100"	W 117 26' 48.500"	33.20503	-117.4468	LNM 13/17, 11th Dist	1893	18740_1	3/23/2017
+18740	Delete	Fish Haven Label	Obstn Fish Haven	N 33 12' 58.700"	W 117 26' 54.300"	33.2163	-117.4484	LNM 13/17, 11th Dist	1893	18740_1	3/23/2017
+18740	Add	Sounding in Fathoms & Feet	5 1	N 33 12' 42.494"	W 117 25' 08.428"	33.2118	-117.419	LNM 13/17, 11th Dist	1893	18740_1	3/23/2017
+18740	Add	Scripps Waverider CDIP Lighted Research Buoy 203	Y "203" Fl (5) Y 20s Priv	N 33 45' 36.180"	W 119 32' 58.500"	33.76005	-119.5496	LNM 04/17, 11th Dist	1893	18740_1	2/2/2017
+18740	Change	Scripps Waverider CDIP Lighted Research Buoy 220	Y "220" Fl (5) Y 20s Priv	N 32 45' 00.000"	W 117 30' 00.000"	32.75	-117.5	LNM 04/17, 11th Dist	1893	18740_1	2/2/2017
+18740	Delete	Waverider Lighted Buoy	Y Fl (5) Y 20s Priv	N 32 34' 59.460"	W 117 12' 11.940"	32.58318	-117.2033	LNM 03/17, 11th Dist	1893	18740_1	1/26/2017
+18740	Add	Scripps Waverider CDIP Lighted Research Buoy 201	Y "201" Fl (5) Y 20s Priv	N 32 52' 04.260"	W 117 16' 00.000"	32.86785	-117.2667	LNM 03/17, 11th Dist	1893	18740_1	1/26/2017

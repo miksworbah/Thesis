@@ -1,0 +1,18 @@
+Chart: 25645, Current Edition: 20, Print Date: Nov. /2012, Christiansted Harbor
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+25645	Add	Submarine Cable  PT 2 OF 9	Chart No. 1: L30.1	N 17 47' 23.990"	W 064 42' 30.260"	17.79	-64.7084	LNM 43/16, 7th Dist	383	25645_1	10/20/2016
+25645	Add	Submarine Cable  PT 3 OF 9	Chart No. 1: L30.1	N 17 46' 54.540"	W 064 42' 24.350"	17.78182	-64.70676	LNM 43/16, 7th Dist	383	25645_1	10/20/2016
+25645	Add	Submarine Cable  PT 4 OF 9	Chart No. 1: L30.1	N 17 45' 51.240"	W 064 41' 42.120"	17.76423	-64.69503	LNM 43/16, 7th Dist	383	25645_1	10/20/2016
+25645	Add	Submarine Cable  PT 5 OF 9	Chart No. 1: L30.1	N 17 45' 44.780"	W 064 41' 41.440"	17.76244	-64.69485	LNM 43/16, 7th Dist	383	25645_1	10/20/2016
+25645	Add	Submarine Cable  PT 6 OF 9	Chart No. 1: L30.1	N 17 45' 32.060"	W 064 41' 39.060"	17.75891	-64.69418	LNM 43/16, 7th Dist	383	25645_1	10/20/2016
+25645	Add	Submarine Cable  PT 7 OF 9	Chart No. 1: L30.1	N 17 45' 25.490"	W 064 41' 39.960"	17.75708	-64.69444	LNM 43/16, 7th Dist	383	25645_1	10/20/2016
+25645	Add	Submarine Cable  PT 8 OF 9	Chart No. 1: L30.1	N 17 45' 19.710"	W 064 41' 42.960"	17.75547	-64.69527	LNM 43/16, 7th Dist	383	25645_1	10/20/2016
+25645	Add	Submarine Cable  PT 9 OF 9	Chart No. 1: L30.1	N 17 45' 10.870"	W 064 41' 37.930"	17.75302	-64.69387	LNM 43/16, 7th Dist	383	25645_1	10/20/2016
+25645	Add	Submarine Cable  PT 1 OF 9	Chart No. 1: L30.1	N 17 48' 16.230"	W 064 42' 34.913"	17.80451	-64.7097	LNM 43/16, 7th Dist	383	25645_1	10/20/2016
+25645	Add	Coakley Bay Light	Fl G 4s 16ft 5M "1"	N 17 45' 58.902"	W 064 38' 40.507"	17.76636	-64.64458	LNM 22/16, 7th Dist	383	25645_1	5/26/2016
+25645	Delete	Christiansted Harbor Channel Buoy 4	R N "4"	N 17 45' 36.901"	W 064 41' 47.210"	17.76025	-64.69645	LNM 27/13, 7th Dist	383	25645_1	8/15/2013
+25645	Change	Christiansted Harbor Channel Light 10	Fl R 2.5s 17ft 5M "10"	N 17 45' 26.501"	W 064 42' 01.060"	17.75736	-64.70029	LNM 27/13, 7th Dist	383	25645_1	8/15/2013
+25645	Change	Christiansted Harbor Channel Light 11	Q G 10ft 4M "11"	N 17 45' 20.271"	W 064 41' 56.771"	17.75563	-64.6991	LNM 27/13, 7th Dist	383	25645_1	8/15/2013
+25645	Change	Christiansted Harbor Channel Light 7	Fl G 4s 16ft 5M "7"	N 17 45' 25.811"	W 064 41' 40.040"	17.75717	-64.69446	LNM 27/13, 7th Dist	383	25645_1	8/15/2013
+25645	Change	Christiansted Harbor Channel Light 9	Fl G 2.5s 16ft 5M "9"	N 17 45' 22.721"	W 064 41' 54.360"	17.75631	-64.69843	LNM 27/13, 7th Dist	383	25645_1	8/15/2013
+25645	Add	Christiansted Harbor Channel Lighted Buoy 4	R "4" Fl R 4s	N 17 45' 36.901"	W 064 41' 47.210"	17.76025	-64.69645	LNM 27/13, 7th Dist	383	25645_1	8/15/2013

@@ -1,0 +1,43 @@
+Chart: 18447, Current Edition: 30, Print Date: Sep. /2012, Lake Washington Ship Canal and Lake Washington
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18447	Relocate	Webster Point Light 21	Fl G 4s 19ft 5M "21"	N 47 38' 51.369"	W 122 16' 33.534"	47.6476	-122.276	LNM 17/17, 13th Dist	1710	18447_2	4/27/2017
+18447	Relocate	Webster Point Light 21	Fl G 4s 19ft 5M "21"	N 47 38' 51.369"	W 122 16' 33.534"	47.6476	-122.276	LNM 17/17, 13th Dist	1711	18447_3	4/27/2017
+18447	Add	SR-520 Bridge East Channel NE Mooring Cable Lighted Warning Buoy	W Or Fl 2s Priv	N 47 38' 21.552"	W 122 14' 36.312"	47.63932	-122.2434	LNM 13/17, 13th Dist	1711	18447_3	4/6/2017
+18447	Add	SR-520 Bridge East Channel NE Mooring Cable Warning Sign	W Bn Priv	N 47 38' 19.575"	W 122 14' 36.895"	47.63877	-122.2436	LNM 13/17, 13th Dist	1711	18447_3	4/6/2017
+18447	Add	SR-520 Bridge East Channel SE Mooring Cable Lighted Warning Buoy	W Or Fl 2s Priv	N 47 38' 15.869"	W 122 14' 38.155"	47.63774	-122.2439	LNM 13/17, 13th Dist	1711	18447_3	4/6/2017
+18447	Add	SR-520 Bridge East Channel SE Mooring Cable Warning Sign	W Bn Priv	N 47 38' 17.268"	W 122 14' 37.689"	47.63813	-122.2438	LNM 13/17, 13th Dist	1711	18447_3	4/6/2017
+18447	Add	SR-520 Bridge West Channel NW Mooring Cable Lighted Warning Buoy	W Or Fl 2s Priv	N 47 38' 37.209"	W 122 16' 26.335"	47.64367	-122.274	LNM 13/17, 13th Dist	1711	18447_3	4/6/2017
+18447	Add	SR-520 Bridge West Channel NW Mooring Cable Warning Sign	W Bn Priv	N 47 38' 36.482"	W 122 16' 26.474"	47.64347	-122.274	LNM 13/17, 13th Dist	1711	18447_3	4/6/2017
+18447	Add	SR-520 Bridge West Channel SW Mooring Cable Lighted Warning Buoy	W Or Fl 2s Priv	N 47 38' 30.929"	W 122 16' 28.270"	47.64193	-122.2745	LNM 13/17, 13th Dist	1710	18447_2	4/6/2017
+18447	Add	SR-520 Bridge West Channel SW Mooring Cable Lighted Warning Buoy	W Or Fl 2s Priv	N 47 38' 30.929"	W 122 16' 28.270"	47.64193	-122.2745	LNM 13/17, 13th Dist	1711	18447_3	4/6/2017
+18447	Add	SR-520 Bridge West Channel SW Mooring Cable Warning Sign	W Bn Priv	N 47 38' 34.172"	W 122 16' 27.251"	47.64283	-122.2742	LNM 13/17, 13th Dist	1711	18447_3	4/6/2017
+18447	Add	SR-520 Bridge Maintenance Pier North Light A	Fl Y 6s "A" Priv	N 47 38' 17.880"	W 122 14' 31.460"	47.6383	-122.2421	LNM 41/16, 13th Dist	1711	18447_3	10/20/2016
+18447	Add	SR-520 Bridge Maintenance Pier South Light B	Fl Y 6s "B" Priv	N 47 38' 17.200"	W 122 14' 31.140"	47.63811	-122.242	LNM 41/16, 13th Dist	1711	18447_3	10/20/2016
+18447	Change	Foul Ground	Anchor and chain	N 47 40' 22.265"	W 122 25' 23.296"	47.67285	-122.4231	LNM 39/16, 13th Dist	1709	18447_1	10/13/2016
+18447	Change	Foul Ground	Anchor and chain	N 47 41' 12.688"	W 122 24' 38.372"	47.68686	-122.4107	LNM 39/16, 13th Dist	1709	18447_1	10/13/2016
+18447	Add	Obstruction	Obstn (anchor)	N 47 40' 22.265"	W 122 25' 23.296"	47.67285	-122.4231	LNM 39/16, 13th Dist	1709	18447_1	10/6/2016
+18447	Add	Obstruction	Obstn (anchor)	N 47 41' 12.688"	W 122 24' 38.372"	47.68686	-122.4107	LNM 39/16, 13th Dist	1709	18447_1	10/6/2016
+18447	Delete	ACOE Shilshole Bay North Lighted Mooring Buoy	Fl 4s Priv	N 47 41' 13.400"	W 122 24' 37.900"	47.68705	-122.4105	LNM 38/16, 13th Dist	1709	18447_1	9/22/2016
+18447	Relocate	Shilshole Bay Entrance Leading Light	Oc R 4s 22ft	N 47 39' 59.668"	W 122 24' 10.737"	47.66657	-122.403	LNM 12/16, 13th Dist	1709	18447_1	3/31/2016
+18447	Change	Shilshole Bay Entrance Leading Light	Oc R 4s 22ft	N 47 39' 59.668"	W 122 24' 10.737"	47.66657	-122.403	LNM 12/16, 13th Dist	1709	18447_1	3/31/2016
+18447	Delete	ACOE Shilshole Bay South Lighted Mooring Buoy	Fl 4s Priv	N 47 40' 22.300"	W 122 25' 23.500"	47.67286	-122.4232	LNM 09/16, 13th Dist	1709	18447_1	3/10/2016
+18447	Relocate	Webster Point Light 21	Fl G 4s 19ft 5M "21"	N 47 38' 51.273"	W 122 16' 33.697"	47.64758	-122.276	LNM 42/14, 13th Dist	1710	18447_2	10/23/2014
+18447	Relocate	Webster Point Light 21	Fl G 4s 19ft 5M "21"	N 47 38' 51.273"	W 122 16' 33.697"	47.64758	-122.276	LNM 42/14, 13th Dist	1711	18447_3	10/23/2014
+18447	Relocate	Kenmore Channel Lighted Mooring Buoy	Fl 4s Priv	N 47 45' 04.906"	W 122 15' 56.015"	47.75136	-122.2656	LNM 21/14, 13th Dist	1711	18447_3	6/5/2014
+18447	Change	Kenmore Channel Lighted Mooring Buoy	Fl 4s Priv	N 47 45' 04.906"	W 122 15' 56.015"	47.75136	-122.2656	LNM 21/14, 13th Dist	1711	18447_3	6/5/2014
+18447	Change	Shilshole Bay Breakwater Light 3 	Fl G 4s 29ft 5M "3"	N 47 40' 37.994"	W 122 24' 43.299"	47.67722	-122.412	LNM 21/14, 13th Dist	1709	18447_1	6/5/2014
+18447	Delete	Shilshole Bay Entrance Range Rear Light	Iso R 6s 86ft	N 47 39' 53.542"	W 122 24' 04.868"	47.66487	-122.4014	LNM 21/14, 13th Dist	1709	18447_1	6/5/2014
+18447	Delete	Shilshole Bay Approach Lighted Buoy S	RW "S" Mo (A)	N 47 40' 55.351"	W 122 25' 07.569"	47.68204	-122.4188	LNM 21/14, 13th Dist	1709	18447_1	6/5/2014
+18447	Change	Shilshole Bay Entrance Lighted Buoy 1	G "1" Fl G 2.5s	N 47 40' 45.851"	W 122 24' 53.569"	47.6794	-122.4149	LNM 21/14, 13th Dist	1709	18447_1	6/5/2014
+18447	Change	Shilshole Bay Entrance Lighted Buoy 2	R "2" Fl R 2.5s	N 47 40' 39.351"	W 122 24' 57.469"	47.6776	-122.416	LNM 21/14, 13th Dist	1709	18447_1	6/5/2014
+18447	Change	Shilshole Bay Entrance Leading Light	Oc R 4s 19ft	N 47 39' 59.594"	W 122 24' 10.883"	47.66655	-122.403	LNM 21/14, 13th Dist	1709	18447_1	6/5/2014
+18447	Relocate	Meydenbauer Bay Yacht Club Lights (6)	6 F Y Priv	N 47 36' 28.429"	W 122 12' 30.322"	47.6079	-122.2084	LNM 53/13, 13th Dist	1711	18447_3	1/9/2014
+18447	Change	Meydenbauer Bay Yacht Club Lights (6)	6 F Y Priv	N 47 36' 28.429"	W 122 12' 30.322"	47.6079	-122.2084	LNM 53/13, 13th Dist	1711	18447_3	1/9/2014
+18447	Relocate	NOAA Pier Clearance Lights (2)	2 F Y Priv	N 47 41' 17.210"	W 122 15' 34.610"	47.68811	-122.2596	LNM 49/13, 13th Dist	1711	18447_3	12/12/2013
+18447	Change	NOAA Pier Clearance Lights (2)	2 F Y Priv	N 47 41' 17.210"	W 122 15' 34.610"	47.68811	-122.2596	LNM 49/13, 13th Dist	1711	18447_3	12/12/2013
+18447	Delete	Chic's Pier Light	F Y Priv	N 47 36' 36.000"	W 122 12' 36.000"	47.61	-122.21	LNM 35/13, 13th Dist	1711	18447_3	9/3/2013
+18447	Change	Cichs Pier Light	F Y Priv	N 47 36' 36.000"	W 122 12' 36.000"	47.61	-122.21	LNM 17/13, 13th Dist	1711	18447_3	5/14/2013
+18447	Relocate	Shilshole Bay Entrance Range Front Light	Q R 19ft	N 47 39' 59.594"	W 122 24' 10.883"	47.66655	-122.403	LNM 14/13, 13th Dist	1709	18447_1	5/6/2013
+18447	Change	Shilshole Bay Entrance Range Front Light	Q R 19ft	N 47 39' 59.594"	W 122 24' 10.883"	47.66655	-122.403	LNM 14/13, 13th Dist	1709	18447_1	5/6/2013
+18447	Relocate	Shilshole Bay Entrance Range Rear Light	Iso R 6s 86ft	N 47 39' 53.542"	W 122 24' 04.868"	47.66487	-122.4014	LNM 14/13, 13th Dist	1709	18447_1	5/6/2013
+18447	Change	Shilshole Bay Entrance Range Rear Light	Iso R 6s 86ft	N 47 39' 53.542"	W 122 24' 04.868"	47.66487	-122.4014	LNM 14/13, 13th Dist	1709	18447_1	5/6/2013

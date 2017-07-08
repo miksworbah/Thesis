@@ -1,65 +1,65 @@
-Chart: 12374, Current Edition: 15, Print Date: Dec. /2014, North Shore of Long Island Sound Duck Island to Madison Reef
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-12374	Delete	HAMMONASSET RIVER DBN 1	G "1" Priv	N 41 15' 59.400"	W 072 32' 02.640"	41.2665	-72.53407	LNM 28/16, 1st Dist	2162	12374_1	7/21/2016
-12374	Add	Sounding in Feet	24	N 41 14' 02.700"	W 072 29' 27.200"	41.23409	-72.49089	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
-12374	Add	Obstruction in Feet	12 Obstn       	N 41 15' 12.700"	W 072 29' 33.000"	41.25353	-72.4925	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
-12374	Add	Sounding in Feet	21	N 41 14' 53.200"	W 072 33' 37.000"	41.24811	-72.56028	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
-12374	Add	Sounding in Feet	21	N 41 14' 45.900"	W 072 33' 43.800"	41.24608	-72.56216	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
-12374	Add	Sounding in Feet	21	N 41 14' 45.200"	W 072 33' 51.100"	41.24589	-72.56419	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
-12374	Delete	Sounding in Feet	27	N 41 14' 54.300"	W 072 33' 37.100"	41.24842	-72.5603	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
-12374	Add	Sounding in Feet	22	N 41 14' 13.300"	W 072 32' 01.500"	41.23703	-72.53375	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
-12374	Delete	Sounding in Feet	28	N 41 14' 07.900"	W 072 32' 04.500"	41.23553	-72.53458	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
-12374	Substitute	Sounding in Feet	32 for 38	N 41 14' 06.000"	W 072 30' 46.500"	41.235	-72.51292	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
-12374	Add	Sounding in Feet	39	N 41 14' 01.500"	W 072 31' 01.600"	41.23375	-72.51711	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
-12374	Add	Sounding in Feet	25	N 41 14' 10.100"	W 072 29' 25.700"	41.23614	-72.49047	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
-12374	Delete	Sounding in Feet	28	N 41 14' 04.100"	W 072 29' 24.300"	41.23447	-72.49008	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
-12374	Delete	Sounding in Feet	34	N 41 14' 09.800"	W 072 29' 27.900"	41.23606	-72.49108	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
-12374	Add	Sounding in Feet	22	N 41 14' 38.400"	W 072 33' 59.400"	41.244	-72.5665	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
-12374	Add	Sounding in Feet	25	N 41 14' 06.200"	W 072 32' 07.900"	41.23505	-72.53553	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
-12374	Change	Depth Legend - Patchogue River	6 1/2 FT MAY 2015	N 41 16' 31.300"	W 072 28' 06.300"	41.27536	-72.46841	LNM 39/15, 1st Dist	2162	12374_1	9/24/2015
-12374	Change	Depth Note - PATCHOGUE RIVER	The controlling depth was 6 1/2 feet for a width of 75 feet. Jun 2015	N 41 16' 31.000"	W 072 29' 07.000"	41.27528	-72.48528	LNM 39/15, 1st Dist	2162	12374_1	9/24/2015
-12374	Substitute	Sounding in Feet	46 for 55	N 41 13' 46.800"	W 072 27' 26.400"	41.22967	-72.45734	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
-12374	Add	Sounding in Feet	45	N 41 13' 25.600"	W 072 28' 38.000"	41.22378	-72.47722	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
-12374	Delete	Sounding in Feet	60	N 41 13' 24.900"	W 072 28' 40.000"	41.22358	-72.47778	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
-12374	Substitute	Sounding in Feet	26 for 30	N 41 14' 46.300"	W 072 28' 26.500"	41.24619	-72.47403	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
-12374	Substitute	Sounding in Feet	38 for 67	N 41 14' 40.900"	W 072 27' 25.000"	41.24469	-72.45695	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
-12374	Add	Sounding in Feet	32	N 41 14' 20.700"	W 072 27' 04.000"	41.23908	-72.45111	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
-12374	Add	Sounding in Feet	16	N 41 15' 40.300"	W 072 28' 10.800"	41.2612	-72.46967	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
-12374	Add	Sounding in Feet	14	N 41 15' 31.800"	W 072 27' 58.900"	41.25883	-72.46636	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
-12374	Add	Sounding in Feet	4	N 41 15' 07.700"	W 072 28' 28.300"	41.25214	-72.47453	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
-12374	Add	Sounding in Feet	35	N 41 14' 44.000"	W 072 28' 14.200"	41.24556	-72.47061	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
-12374	Add	Sounding in Feet	34	N 41 14' 55.500"	W 072 27' 40.600"	41.24875	-72.46128	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
-12374	Add	Sounding in Feet	34	N 41 14' 53.400"	W 072 27' 14.100"	41.24817	-72.45392	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
-12374	Delete	Sounding in Feet	44	N 41 14' 54.200"	W 072 27' 13.000"	41.24839	-72.45361	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
-12374	Relocate	PATCHOGUE RIVER CHANNEL BUOY 3	G C "3" 	N 41 16' 01.418"	W 072 28' 22.794"	41.26706	-72.473	LNM 26/15, 1st Dist	2162	12374_1	7/16/2015
-12374	Change	Depth Legend - Clinton Harbor	8 FT MID 80 FT 2015	N 41 15' 53.370"	W 072 31' 26.770"	41.26482	-72.5241	LNM 18/15, 1st Dist	2162	12374_1	4/30/2015
-12374	Change	Depth Legend - Clinton Harbor	8 FT 2015	N 41 16' 07.070"	W 072 31' 41.610"	41.26863	-72.52823	LNM 18/15, 1st Dist	2162	12374_1	4/30/2015
-12374	Change	Depth Legend - Clinton Harbor	4 1/2 FT 2015	N 41 15' 29.910"	W 072 31' 37.880"	41.25831	-72.52719	LNM 18/15, 1st Dist	2162	12374_1	4/30/2015
-12374	Add	Depth Legend - Clinton Harbor	5 1/2 FT	N 41 16' 07.890"	W 072 31' 36.250"	41.26886	-72.52673	LNM 18/15, 1st Dist	2162	12374_1	4/30/2015
-12374	Add	Rock in Feet (Within Corresponding Depth Area)	19 Rk   	N 41 14' 37.900"	W 072 33' 18.100"	41.24386	-72.55503	Not Yet Published	2162	12374_1	4/9/2015
-12374	Add	Rock in Feet (Within Corresponding Depth Area)	7 Rk     	N 41 15' 05.100"	W 072 33' 04.400"	41.25142	-72.55122	Not Yet Published	2162	12374_1	4/9/2015
-12374	Add	Rock in Feet (Within Corresponding Depth Area)	3 Rk     	N 41 14' 47.900"	W 072 32' 59.500"	41.24664	-72.54986	Not Yet Published	2162	12374_1	4/9/2015
-12374	Add	Rock in Feet (Within Corresponding Depth Area)	5 Rk     	N 41 14' 47.500"	W 072 32' 55.600"	41.24653	-72.54877	Not Yet Published	2162	12374_1	4/9/2015
-12374	Add	Rock in Feet (Within Corresponding Depth Area)	56 Rk    	N 41 14' 12.300"	W 072 30' 12.700"	41.23675	-72.50352	Not Yet Published	2162	12374_1	4/9/2015
-12374	Add	Rock in Feet (Within Corresponding Depth Area)	30 Rk     	N 41 14' 32.800"	W 072 29' 16.100"	41.24244	-72.48781	Not Yet Published	2162	12374_1	4/9/2015
-12374	Add	Rock in Feet (Within Corresponding Depth Area)	59 Rk     	N 41 13' 28.800"	W 072 33' 28.900"	41.22467	-72.55803	Not Yet Published	2162	12374_1	4/9/2015
-12374	Add	Rock in Feet (Within Corresponding Depth Area)	48 Rk     	N 41 14' 16.700"	W 072 29' 48.700"	41.23797	-72.49686	Not Yet Published	2162	12374_1	4/9/2015
-12374	Add	Rock in Feet (Within Corresponding Depth Area)	30 Rk     	N 41 14' 27.900"	W 072 29' 15.200"	41.24109	-72.48756	Not Yet Published	2162	12374_1	4/9/2015
-12374	Add	Rock in Feet (Within Corresponding Depth Area)	57 Rk     	N 41 14' 01.700"	W 072 30' 20.300"	41.23381	-72.50564	Not Yet Published	2162	12374_1	4/9/2015
-12374	Add	Rock in Feet (Within Corresponding Depth Area)	4 Rk     	N 41 15' 04.900"	W 072 30' 27.600"	41.25136	-72.50767	Not Yet Published	2162	12374_1	4/9/2015
-12374	Add	Rock in Feet (Within Corresponding Depth Area)	5 Rk     	N 41 14' 45.400"	W 072 33' 15.600"	41.24594	-72.55434	Not Yet Published	2162	12374_1	4/9/2015
-12374	Add	Rock in Feet (Within Corresponding Depth Area)	10 Rk     	N 41 14' 43.400"	W 072 33' 07.300"	41.24539	-72.55202	Not Yet Published	2162	12374_1	4/9/2015
-12374	Add	Rock in Feet (Within Corresponding Depth Area)	19 Rk     	N 41 14' 38.800"	W 072 33' 13.300"	41.24411	-72.5537	Not Yet Published	2162	12374_1	4/9/2015
-12374	Add	Rock in Feet (Within Corresponding Depth Area)	10 Rk     	N 41 14' 50.100"	W 072 33' 10.700"	41.24725	-72.55297	Not Yet Published	2162	12374_1	4/9/2015
-12374	Delete	Sounding in Feet	7	N 41 14' 47.900"	W 072 32' 58.500"	41.24664	-72.54958	Not Yet Published	2162	12374_1	4/9/2015
-12374	Delete	Sounding in Feet	11	N 41 14' 45.300"	W 072 33' 02.000"	41.24592	-72.55055	Not Yet Published	2162	12374_1	4/9/2015
-12374	Add	Rock in Feet (Within Corresponding Depth Area)	49 Rk     	N 41 13' 53.000"	W 072 31' 09.600"	41.23139	-72.51933	Not Yet Published	2162	12374_1	4/9/2015
-12374	Add	Rock in Feet (Within Corresponding Depth Area)	18 Rk     	N 41 14' 40.700"	W 072 33' 23.500"	41.24464	-72.55653	Not Yet Published	2162	12374_1	4/9/2015
-12374	Add	Rock in Feet (Within Corresponding Depth Area)	17 Rk     	N 41 15' 16.700"	W 072 34' 19.500"	41.25464	-72.57208	Not Yet Published	2162	12374_1	4/9/2015
-12374	Add	Rock in Feet (Within Corresponding Depth Area)	15 Rk    	N 41 15' 01.900"	W 072 33' 16.300"	41.25053	-72.55453	Not Yet Published	2162	12374_1	4/9/2015
-12374	Add	Rock in Feet (Within Corresponding Depth Area)	12 Rk     	N 41 14' 51.900"	W 072 33' 08.500"	41.24775	-72.55236	Not Yet Published	2162	12374_1	4/9/2015
-12374	Add	Rock in Feet (Within Corresponding Depth Area)	3 Rk     	N 41 14' 45.400"	W 072 33' 00.600"	41.24594	-72.55016	Not Yet Published	2162	12374_1	4/9/2015
-12374	Add	Rock in Feet (Within Corresponding Depth Area)	47 Rk     	N 41 14' 23.100"	W 072 29' 40.900"	41.23975	-72.4947	Not Yet Published	2162	12374_1	4/9/2015
-12374	Add	Rock in Feet (Within Corresponding Depth Area)	54 Rk     	N 41 14' 05.000"	W 072 30' 12.300"	41.23472	-72.50342	Not Yet Published	2162	12374_1	4/9/2015
-12374	Change	Depth Note - PATCHOGUE RIVER	The controlling depth was 7 feet for a width of 75 feet.  Sep 2014	N 41 16' 31.000"	W 072 29' 07.000"	41.27528	-72.48528	LNM 08/15, 1st Dist	2162	12374_1	2/26/2015
-12374	Change	Depth Legend - Patchogue River	7 1/2 FT SEP 2014	N 41 16' 31.300"	W 072 28' 06.300"	41.27536	-72.46841	Not Yet Published	2162	12374_1	2/26/2015
+Chart: 12374, Current Edition: 15, Print Date: Dec. /2014, North Shore of Long Island Sound Duck Island to Madison Reef
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12374	Delete	HAMMONASSET RIVER DBN 1	G "1" Priv	N 41 15' 59.400"	W 072 32' 02.640"	41.2665	-72.53407	LNM 28/16, 1st Dist	2162	12374_1	7/21/2016
+12374	Add	Sounding in Feet	24	N 41 14' 02.700"	W 072 29' 27.200"	41.23409	-72.49089	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
+12374	Add	Obstruction in Feet	12 Obstn       	N 41 15' 12.700"	W 072 29' 33.000"	41.25353	-72.4925	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
+12374	Add	Sounding in Feet	21	N 41 14' 53.200"	W 072 33' 37.000"	41.24811	-72.56028	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
+12374	Add	Sounding in Feet	21	N 41 14' 45.900"	W 072 33' 43.800"	41.24608	-72.56216	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
+12374	Add	Sounding in Feet	21	N 41 14' 45.200"	W 072 33' 51.100"	41.24589	-72.56419	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
+12374	Delete	Sounding in Feet	27	N 41 14' 54.300"	W 072 33' 37.100"	41.24842	-72.5603	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
+12374	Add	Sounding in Feet	22	N 41 14' 13.300"	W 072 32' 01.500"	41.23703	-72.53375	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
+12374	Delete	Sounding in Feet	28	N 41 14' 07.900"	W 072 32' 04.500"	41.23553	-72.53458	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
+12374	Substitute	Sounding in Feet	32 for 38	N 41 14' 06.000"	W 072 30' 46.500"	41.235	-72.51292	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
+12374	Add	Sounding in Feet	39	N 41 14' 01.500"	W 072 31' 01.600"	41.23375	-72.51711	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
+12374	Add	Sounding in Feet	25	N 41 14' 10.100"	W 072 29' 25.700"	41.23614	-72.49047	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
+12374	Delete	Sounding in Feet	28	N 41 14' 04.100"	W 072 29' 24.300"	41.23447	-72.49008	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
+12374	Delete	Sounding in Feet	34	N 41 14' 09.800"	W 072 29' 27.900"	41.23606	-72.49108	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
+12374	Add	Sounding in Feet	22	N 41 14' 38.400"	W 072 33' 59.400"	41.244	-72.5665	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
+12374	Add	Sounding in Feet	25	N 41 14' 06.200"	W 072 32' 07.900"	41.23505	-72.53553	LNM 16/16, 1st Dist	2162	12374_1	4/14/2016
+12374	Change	Depth Legend - Patchogue River	6 1/2 FT MAY 2015	N 41 16' 31.300"	W 072 28' 06.300"	41.27536	-72.46841	LNM 39/15, 1st Dist	2162	12374_1	9/24/2015
+12374	Change	Depth Note - PATCHOGUE RIVER	The controlling depth was 6 1/2 feet for a width of 75 feet. Jun 2015	N 41 16' 31.000"	W 072 29' 07.000"	41.27528	-72.48528	LNM 39/15, 1st Dist	2162	12374_1	9/24/2015
+12374	Substitute	Sounding in Feet	46 for 55	N 41 13' 46.800"	W 072 27' 26.400"	41.22967	-72.45734	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
+12374	Add	Sounding in Feet	45	N 41 13' 25.600"	W 072 28' 38.000"	41.22378	-72.47722	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
+12374	Delete	Sounding in Feet	60	N 41 13' 24.900"	W 072 28' 40.000"	41.22358	-72.47778	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
+12374	Substitute	Sounding in Feet	26 for 30	N 41 14' 46.300"	W 072 28' 26.500"	41.24619	-72.47403	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
+12374	Substitute	Sounding in Feet	38 for 67	N 41 14' 40.900"	W 072 27' 25.000"	41.24469	-72.45695	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
+12374	Add	Sounding in Feet	32	N 41 14' 20.700"	W 072 27' 04.000"	41.23908	-72.45111	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
+12374	Add	Sounding in Feet	16	N 41 15' 40.300"	W 072 28' 10.800"	41.2612	-72.46967	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
+12374	Add	Sounding in Feet	14	N 41 15' 31.800"	W 072 27' 58.900"	41.25883	-72.46636	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
+12374	Add	Sounding in Feet	4	N 41 15' 07.700"	W 072 28' 28.300"	41.25214	-72.47453	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
+12374	Add	Sounding in Feet	35	N 41 14' 44.000"	W 072 28' 14.200"	41.24556	-72.47061	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
+12374	Add	Sounding in Feet	34	N 41 14' 55.500"	W 072 27' 40.600"	41.24875	-72.46128	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
+12374	Add	Sounding in Feet	34	N 41 14' 53.400"	W 072 27' 14.100"	41.24817	-72.45392	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
+12374	Delete	Sounding in Feet	44	N 41 14' 54.200"	W 072 27' 13.000"	41.24839	-72.45361	LNM 36/15, 1st Dist	2162	12374_1	9/3/2015
+12374	Relocate	PATCHOGUE RIVER CHANNEL BUOY 3	G C "3" 	N 41 16' 01.418"	W 072 28' 22.794"	41.26706	-72.473	LNM 26/15, 1st Dist	2162	12374_1	7/16/2015
+12374	Change	Depth Legend - Clinton Harbor	8 FT MID 80 FT 2015	N 41 15' 53.370"	W 072 31' 26.770"	41.26482	-72.5241	LNM 18/15, 1st Dist	2162	12374_1	4/30/2015
+12374	Change	Depth Legend - Clinton Harbor	8 FT 2015	N 41 16' 07.070"	W 072 31' 41.610"	41.26863	-72.52823	LNM 18/15, 1st Dist	2162	12374_1	4/30/2015
+12374	Change	Depth Legend - Clinton Harbor	4 1/2 FT 2015	N 41 15' 29.910"	W 072 31' 37.880"	41.25831	-72.52719	LNM 18/15, 1st Dist	2162	12374_1	4/30/2015
+12374	Add	Depth Legend - Clinton Harbor	5 1/2 FT	N 41 16' 07.890"	W 072 31' 36.250"	41.26886	-72.52673	LNM 18/15, 1st Dist	2162	12374_1	4/30/2015
+12374	Add	Rock in Feet (Within Corresponding Depth Area)	19 Rk   	N 41 14' 37.900"	W 072 33' 18.100"	41.24386	-72.55503	Not Yet Published	2162	12374_1	4/9/2015
+12374	Add	Rock in Feet (Within Corresponding Depth Area)	7 Rk     	N 41 15' 05.100"	W 072 33' 04.400"	41.25142	-72.55122	Not Yet Published	2162	12374_1	4/9/2015
+12374	Add	Rock in Feet (Within Corresponding Depth Area)	3 Rk     	N 41 14' 47.900"	W 072 32' 59.500"	41.24664	-72.54986	Not Yet Published	2162	12374_1	4/9/2015
+12374	Add	Rock in Feet (Within Corresponding Depth Area)	5 Rk     	N 41 14' 47.500"	W 072 32' 55.600"	41.24653	-72.54877	Not Yet Published	2162	12374_1	4/9/2015
+12374	Add	Rock in Feet (Within Corresponding Depth Area)	56 Rk    	N 41 14' 12.300"	W 072 30' 12.700"	41.23675	-72.50352	Not Yet Published	2162	12374_1	4/9/2015
+12374	Add	Rock in Feet (Within Corresponding Depth Area)	30 Rk     	N 41 14' 32.800"	W 072 29' 16.100"	41.24244	-72.48781	Not Yet Published	2162	12374_1	4/9/2015
+12374	Add	Rock in Feet (Within Corresponding Depth Area)	59 Rk     	N 41 13' 28.800"	W 072 33' 28.900"	41.22467	-72.55803	Not Yet Published	2162	12374_1	4/9/2015
+12374	Add	Rock in Feet (Within Corresponding Depth Area)	48 Rk     	N 41 14' 16.700"	W 072 29' 48.700"	41.23797	-72.49686	Not Yet Published	2162	12374_1	4/9/2015
+12374	Add	Rock in Feet (Within Corresponding Depth Area)	30 Rk     	N 41 14' 27.900"	W 072 29' 15.200"	41.24109	-72.48756	Not Yet Published	2162	12374_1	4/9/2015
+12374	Add	Rock in Feet (Within Corresponding Depth Area)	57 Rk     	N 41 14' 01.700"	W 072 30' 20.300"	41.23381	-72.50564	Not Yet Published	2162	12374_1	4/9/2015
+12374	Add	Rock in Feet (Within Corresponding Depth Area)	4 Rk     	N 41 15' 04.900"	W 072 30' 27.600"	41.25136	-72.50767	Not Yet Published	2162	12374_1	4/9/2015
+12374	Add	Rock in Feet (Within Corresponding Depth Area)	5 Rk     	N 41 14' 45.400"	W 072 33' 15.600"	41.24594	-72.55434	Not Yet Published	2162	12374_1	4/9/2015
+12374	Add	Rock in Feet (Within Corresponding Depth Area)	10 Rk     	N 41 14' 43.400"	W 072 33' 07.300"	41.24539	-72.55202	Not Yet Published	2162	12374_1	4/9/2015
+12374	Add	Rock in Feet (Within Corresponding Depth Area)	19 Rk     	N 41 14' 38.800"	W 072 33' 13.300"	41.24411	-72.5537	Not Yet Published	2162	12374_1	4/9/2015
+12374	Add	Rock in Feet (Within Corresponding Depth Area)	10 Rk     	N 41 14' 50.100"	W 072 33' 10.700"	41.24725	-72.55297	Not Yet Published	2162	12374_1	4/9/2015
+12374	Delete	Sounding in Feet	7	N 41 14' 47.900"	W 072 32' 58.500"	41.24664	-72.54958	Not Yet Published	2162	12374_1	4/9/2015
+12374	Delete	Sounding in Feet	11	N 41 14' 45.300"	W 072 33' 02.000"	41.24592	-72.55055	Not Yet Published	2162	12374_1	4/9/2015
+12374	Add	Rock in Feet (Within Corresponding Depth Area)	49 Rk     	N 41 13' 53.000"	W 072 31' 09.600"	41.23139	-72.51933	Not Yet Published	2162	12374_1	4/9/2015
+12374	Add	Rock in Feet (Within Corresponding Depth Area)	18 Rk     	N 41 14' 40.700"	W 072 33' 23.500"	41.24464	-72.55653	Not Yet Published	2162	12374_1	4/9/2015
+12374	Add	Rock in Feet (Within Corresponding Depth Area)	17 Rk     	N 41 15' 16.700"	W 072 34' 19.500"	41.25464	-72.57208	Not Yet Published	2162	12374_1	4/9/2015
+12374	Add	Rock in Feet (Within Corresponding Depth Area)	15 Rk    	N 41 15' 01.900"	W 072 33' 16.300"	41.25053	-72.55453	Not Yet Published	2162	12374_1	4/9/2015
+12374	Add	Rock in Feet (Within Corresponding Depth Area)	12 Rk     	N 41 14' 51.900"	W 072 33' 08.500"	41.24775	-72.55236	Not Yet Published	2162	12374_1	4/9/2015
+12374	Add	Rock in Feet (Within Corresponding Depth Area)	3 Rk     	N 41 14' 45.400"	W 072 33' 00.600"	41.24594	-72.55016	Not Yet Published	2162	12374_1	4/9/2015
+12374	Add	Rock in Feet (Within Corresponding Depth Area)	47 Rk     	N 41 14' 23.100"	W 072 29' 40.900"	41.23975	-72.4947	Not Yet Published	2162	12374_1	4/9/2015
+12374	Add	Rock in Feet (Within Corresponding Depth Area)	54 Rk     	N 41 14' 05.000"	W 072 30' 12.300"	41.23472	-72.50342	Not Yet Published	2162	12374_1	4/9/2015
+12374	Change	Depth Note - PATCHOGUE RIVER	The controlling depth was 7 feet for a width of 75 feet.  Sep 2014	N 41 16' 31.000"	W 072 29' 07.000"	41.27528	-72.48528	LNM 08/15, 1st Dist	2162	12374_1	2/26/2015
+12374	Change	Depth Legend - Patchogue River	7 1/2 FT SEP 2014	N 41 16' 31.300"	W 072 28' 06.300"	41.27536	-72.46841	Not Yet Published	2162	12374_1	2/26/2015

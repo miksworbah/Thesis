@@ -1,0 +1,21 @@
+Chart: 50, Current Edition: 9, Print Date: Dec. /2015, North Pacific Ocean (eastern part) Bering Sea Continuation
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+50	Change	Depth Legend - Channel Islands Harbor Entrance Basin to:	13 FT FEB 2017	N 34 09' 42.500"	W 119 13' 25.300"	34.1618	-119.2237	Not Yet Published	2400	50_1	Not Yet
+50	Relocate	NOAA Environmental Lighted Buoy 46041	Y "46041" Fl (4) Y 20s	N 47 20' 56.352"	W 124 42' 13.454"	47.34899	-124.7037	LNM 25/17, 13th Dist	2400	50_1	6/22/2017
+50	Relocate	NOAA Environmental Lighted Buoy 46005	Y ODAS "46005" Fl (4) Y 20s PA	N 46 08' 24.000"	W 131 04' 12.000"	46.14	-131.07	LNM 24/17, 13th Dist	2400	50_1	6/22/2017
+50	Relocate	DART Tsunami Warning Lighted Buoy 46404	Y DART "46404" Fl Y 4s	N 45 51' 12.000"	W 128 44' 00.000"	45.85333	-128.7333	LNM 23/17, 13th Dist	2400	50_1	6/8/2017
+50	Relocate	NOAA Environmental Lighted Buoy 46005	Y ODAS "46005" Fl (4) Y 20s PA	N 46 08' 00.000"	W 131 40' 42.000"	46.13334	-131.6783	LNM 22/17, 13th Dist	2400	50_1	6/8/2017
+50	Relocate	NOAA Environmental Lighted Buoy 46089	Y "46089" Fl (4) Y 20s	N 45 55' 29.000"	W 125 46' 17.000"	45.92472	-125.7714	LNM 20/17, 13th Dist	2400	50_1	5/18/2017
+50	Delete	NOAA Data Lighted Buoy 46078	Y ODAS "46078" Fl (4) Y 20s PA	N 55 58' 29.189"	W 152 40' 49.357"	55.97477	-152.6804	LNM 06/17, 17th Dist	2400	50_1	2/16/2017
+50	Add	NOAA Data Lighted Buoy 46078	Y ODAS "46078" Fl (4) Y 20s PA	N 55 32' 30.000"	W 152 37' 42.000"	55.54167	-152.6283	LNM 06/17, 17th Dist	2400	50_1	2/16/2017
+50	Relocate	NOAA Environmental Lighted Buoy 46041	Y "46041" Fl (4) Y 20s	N 47 20' 59.263"	W 124 42' 13.366"	47.3498	-124.7037	LNM 37/16, 13th Dist	2400	50_1	12/8/2016
+50	Change	NOAA Environmental Lighted Buoy 46041	Y "46041" Fl (4) Y 20s	N 47 20' 59.263"	W 124 42' 13.366"	47.3498	-124.7037	LNM 37/16, 13th Dist	2400	50_1	12/8/2016
+50	Relocate	NOAA ODAS Lighted Buoy 46071	Y ODAS "46071" Fl (4) Y 20s PA	N 51 07' 28.521"	E 179 00' 44.824"	51.12459	179.0125	LNM 30/16, 17th Dist	2401	50_2	8/4/2016
+50	Relocate	DART Tsunami Warning Lighted Buoy 46407	Y DART "46407" Fl Y 4s	N 42 40' 54.000"	W 128 49' 54.000"	42.68167	-128.8317	LNM 30/16, 13th Dist	2400	50_1	7/28/2016
+50	Change	East Bay Light 1	Fl G 2.5s 28ft 4M "1"	N 47 03' 44.006"	W 122 53' 55.624"	47.06223	-122.8988	LNM 28/16, 13th Dist	2400	50_1	7/28/2016
+50	Change	NOAA Tsunami Warning Lighted Buoy 46402	Y DART "46402" Fl (4) Y 20s Priv PA 	N 51 01' 12.000"	W 164 04' 16.000"	51.02	-164.0711	LNM 09/16, 17th Dist	2400	50_1	3/31/2016
+50	Relocate	NOAA Tsunami Warning Lighted Buoy 46402	RW "46402" Fl (4) Y 20s Priv PA 	N 51 01' 12.000"	W 164 04' 16.000"	51.02	-164.0711	LNM 09/16, 17th Dist	2400	50_1	3/31/2016
+50	Change	NOAA Tsunami Warning Lighted Buoy 46403	Y DART "46403" Fl (4) Y 20s Priv PA 	N 52 38' 11.000"	W 156 55' 54.000"	52.63639	-156.9317	LNM 09/16, 17th Dist	2400	50_1	3/31/2016
+50	Delete	NOAA Data Lighted Buoy 46070	Y ODAS "46070"Fl (4) Y 20s Priv PA	N 55 04' 54.469"	W 175 09' 12.384"	55.0818	-175.1534	LNM 06/16, 9th Dist	2401	50_2	2/4/2016
+50	Delete	NOAA Data Lighted Buoy 46070	Y ODAS "46070"Fl (4) Y 20s Priv PA	N 55 00' 14.150"	E 175 17' 06.892"	55.00393	175.2852	LNM 06/16, 9th Dist	2401	50_2	2/4/2016
+50	Add	NOAA Data Lighted Buoy 46070	Y ODAS "46070"Fl (4) Y 20s Priv PA	N 55 04' 54.469"	E 175 09' 12.393"	55.0818	175.1534	LNM 06/16, 9th Dist	2401	50_2	2/4/2016

@@ -1,0 +1,42 @@
+Chart: 16528, Current Edition: 18, Print Date: Sep. /2012, Unalaska Bay and Akutan Pass
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16528	Add	NOTE: AREA TO BE AVOIDED (ATBA) 	NOTE: AREA TO BE AVOIDED (ATBA) The entire area of this chart falls within an Area to be Avoided. All ships 400 gross tonnage and upwards solely in transit should avoid the Area. This Area is IMO-Adopted (MSC IMO SN.1/Circ.331); to be implemented at 0000 UTC, JAN 1, 2016.	N 53 52' 43.000"	W 166 39' 48.000"	53.87861	-166.6633	LNM 51/15, 17th Dist	2522	16528_1	12/17/2015
+16528	Add	Sounding in Fathoms & Fraction	6 1/2	N 53 53' 48.200"	W 166 33' 45.700"	53.89672	-166.5627	LNM 31/15, 9th Dist	2522	16528_1	7/16/2015
+16528	Add	Sounding in Fathoms & Fractions	7 1/2	N 53 53' 43.700"	W 166 33' 55.600"	53.89547	-166.5654	LNM 31/15, 9th Dist	2522	16528_1	7/16/2015
+16528	Add	Rock in Fathoms and Fraction	2 3/4 Rk    Chart No. 1: K14.2	N 53 53' 57.500"	W 166 33' 57.500"	53.89931	-166.566	LNM 31/15, 9th Dist	2522	16528_1	7/16/2015
+16528	Delete	Sounding in Fathoms	10	N 53 53' 49.920"	W 166 33' 51.060"	53.8972	-166.5642	LNM 31/15, 9th Dist	2522	16528_1	7/16/2015
+16528	Delete	Sounding in Fathoms & Fraction	5 1/4	N 53 53' 44.090"	W 166 33' 46.960"	53.89558	-166.563	LNM 31/15, 9th Dist	2522	16528_1	7/16/2015
+16528	Add	Rock in Fathoms and Fraction (Within Corresponding Depth Area)	4 1/4 Rk     Chart No. 1: K14.1	N 53 53' 54.700"	W 166 33' 53.600"	53.89853	-166.5649	LNM 31/15, 9th Dist	2522	16528_1	7/16/2015
+16528	Add	Rock in Fathoms (Within Corresponding Depth Area)	5 Rk     Chart No. 1: K14.1	N 53 53' 44.000"	W 166 33' 42.900"	53.89556	-166.5619	LNM 31/15, 9th Dist	2522	16528_1	7/16/2015
+16528	Delete	Sounding in Fathoms & Fraction	6 1/2	N 53 53' 56.870"	W 166 34' 01.660"	53.89913	-166.5671	LNM 31/15, 9th Dist	2522	16528_1	7/16/2015
+16528	Delete	Sounding in Fathoms & Fraction	3 1/4	N 53 53' 58.400"	W 166 33' 55.590"	53.89956	-166.5654	LNM 31/15, 9th Dist	2522	16528_1	7/16/2015
+16528	Add	Rock in Fathoms and Fraction (Within Corresponding Depth Area)	3 3/4 Rk     Chart No. 1: K14.1	N 53 53' 43.900"	W 166 33' 48.300"	53.89553	-166.5634	LNM 31/15, 9th Dist	2522	16528_1	7/16/2015
+16528	Add	Sounding in Fathoms	7	N 53 53' 51.100"	W 166 33' 52.100"	53.89753	-166.5645	LNM 31/15, 9th Dist	2522	16528_1	7/16/2015
+16528	Add	Rock in Fathoms (Within Corresponding Depth Area)	5 Rk     Chart No. 1: K14.1	N 53 53' 40.300"	W 166 33' 34.400"	53.89453	-166.5596	LNM 31/15, 9th Dist	2522	16528_1	7/16/2015
+16528	Relocate	Lliuliuk Reef Lighted Buoy 6	R "6" Fl R 4s	N 53 52' 38.627"	W 166 32' 02.503"	53.8774	-166.534	LNM 25/15, 17th Dist	2522	16528_1	6/25/2015
+16528	Add	Eider Point Lighted Buoy EP	R "EP" Q R	N 53 56' 52.150"	W 166 35' 15.565"	53.94782	-166.5877	LNM 39/14, 17th Dist	2522	16528_1	10/30/2014
+16528	Delete	Danger Zone PT 1 OF 3	Chart No. 1: N1.1	N 53 56' 42.300"	W 165 59' 58.200"	53.94508	-165.9995	LNM 23/14, 17th Dist	2522	16528_1	6/5/2014
+16528	Delete	Danger Zone PT 2 OF 3	Chart No. 1: N1.1	N 53 55' 07.000"	W 166 02' 25.900"	53.91861	-166.0405	LNM 23/14, 17th Dist	2522	16528_1	6/5/2014
+16528	Delete	Danger Zone PT 3 OF 3	Chart No. 1: N1.1	N 53 54' 44.700"	W 165 59' 58.200"	53.91242	-165.9995	LNM 23/14, 17th Dist	2522	16528_1	6/5/2014
+16528	Add	Danger Zone Label	Unexploded ordnance (reported 2013) (see note)	N 53 49' 51.000"	W 166 00' 56.000"	53.83083	-166.0155	LNM 23/14, 17th Dist	2522	16528_1	6/5/2014
+16528	Add	Danger Zone PT 1 OF 2	Chart No. 1: N1.2	N 53 49' 25.400"	W 166 07' 38.200"	53.82372	-166.1273	LNM 23/14, 17th Dist	2522	16528_1	6/5/2014
+16528	Add	Danger Zone PT 2 OF 2	Chart No. 1: N1.2	N 53 48' 54.100"	W 166 06' 08.300"	53.81503	-166.1023	LNM 23/14, 17th Dist	2522	16528_1	6/5/2014
+16528	Add	danger zone label	Unexploded ordnance (reported 2013) (see note)	N 54 02' 26.700"	W 166 35' 47.200"	54.04075	-166.5965	LNM 10/14, 17th Dist	2522	16528_1	3/6/2014
+16528	Add	UNEXPLODED ORDNANCE CAUTION Note 	Mariners are cautioned against anchoring, dredging, or trawling within the area of the dashed black lines due to the presence of unexploded ordnance.	N 53 50' 12.300"	W 166 25' 00.000"	53.83675	-166.4167	LNM 10/14, 17th Dist	2522	16528_1	3/6/2014
+16528	Add	danger zone label	Unexploded ordnance (reported 2013) (see note)	N 53 52' 07.100"	W 166 12' 09.900"	53.86864	-166.2027	LNM 10/14, 17th Dist	2522	16528_1	3/6/2014
+16528	Add	danger zone label	Unexploded ordnance (reported 2013) (see note)	N 53 56' 59.700"	W 166 02' 12.300"	53.94992	-166.0367	LNM 10/14, 17th Dist	2522	16528_1	3/6/2014
+16528	Add	danger zone label	Unexploded ordnance (reported 2013) (see note)	N 54 01' 52.900"	W 166 07' 43.600"	54.03136	-166.1288	LNM 10/14, 17th Dist	2522	16528_1	3/6/2014
+16528	Add	danger zone label	Unexploded ordnance (reported 2013) (see note)	N 54 02' 25.100"	W 166 21' 52.400"	54.04031	-166.3646	LNM 10/14, 17th Dist	2522	16528_1	3/6/2014
+16528	Add	danger zone PT 2 OF 2	(use Chart No. 1: N1.1), concurrent with three nautical mile line	N 53 54' 44.700"	W 165 59' 58.200"	53.91242	-165.9995	LNM 10/14, 17th Dist	2522	16528_1	3/6/2014
+16528	Add	danger zone PT 1 OF 2	(use Chart No. 1: N1.1), concurrent with three nautical mile line	N 53 56' 42.300"	W 165 59' 58.200"	53.94508	-165.9995	LNM 10/14, 17th Dist	2522	16528_1	3/6/2014
+16528	Add	danger zone PT 2 OF 2	(use Chart No. 1: N1.1)	N 54 03' 12.800"	W 166 00' 36.100"	54.05355	-166.01	LNM 10/14, 17th Dist	2522	16528_1	3/6/2014
+16528	Add	danger zone PT 1 OF 2	(use Chart No. 1: N1.1)	N 54 02' 56.100"	W 166 00' 00.000"	54.04892	-166	LNM 10/14, 17th Dist	2522	16528_1	3/6/2014
+16528	Add	danger zone PT 2 OF 2	(use Chart No. 1: N1.1), concurrent with three nautical mile line	N 54 04' 54.000"	W 166 10' 50.000"	54.08167	-166.1806	LNM 10/14, 17th Dist	2522	16528_1	3/6/2014
+16528	Add	danger zone PT 1 OF 2	(use Chart No. 1: N1.1), concurrent with three nautical mile line	N 54 04' 00.400"	W 166 40' 57.400"	54.06678	-166.6826	LNM 10/14, 17th Dist	2522	16528_1	3/6/2014
+16528	Add	danger zone PT 3 OF 3	(use Chart No. 1: N1.1)	N 54 01' 15.200"	W 166 40' 57.600"	54.02089	-166.6827	LNM 10/14, 17th Dist	2522	16528_1	3/6/2014
+16528	Add	danger zone PT 2 OF 3	(use Chart No. 1: N1.1)	N 54 01' 13.000"	W 166 40' 56.400"	54.02028	-166.6823	LNM 10/14, 17th Dist	2522	16528_1	3/6/2014
+16528	Add	danger zone PT 1 OF 3	(use Chart No. 1: N1.1)	N 54 01' 03.600"	W 166 40' 39.600"	54.01767	-166.6777	LNM 10/14, 17th Dist	2522	16528_1	3/6/2014
+16528	Add	CARL E. MOSES HARBOR LIGHT A	Fl 4s 13ft 5M "A"	N 53 52' 11.577"	W 166 33' 01.171"	53.86988	-166.5503	LNM 38/13, 17th Dist	2522	16528_1	9/30/2013
+16528	Add	CARL E. MOSES HARBOR LIGHT B	Fl 2.5s 13ft 5M  "B"	N 53 52' 10.001"	W 166 33' 03.126"	53.86945	-166.5509	LNM 38/13, 17th Dist	2522	16528_1	9/30/2013
+16528	Add	CARL E. MOSES HARBOR LIGHT C	Fl 4s 13ft 5M "C"	N 53 52' 06.743"	W 166 33' 08.106"	53.86854	-166.5522	LNM 38/13, 17th Dist	2522	16528_1	9/30/2013
+16528	Add	CARL E. MOSES HARBOR LIGHT D	Q 13ft 5M "D"	N 53 52' 03.429"	W 166 33' 12.989"	53.86762	-166.5536	LNM 38/13, 17th Dist	2522	16528_1	9/30/2013

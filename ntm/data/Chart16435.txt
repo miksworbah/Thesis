@@ -1,0 +1,5 @@
+Chart: 16435, Current Edition: 7, Print Date: May. /2014, Semichi Islands Alaid and Nizki Islands
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16435	Delete	Regulated Navigation Area Danger Area 	Chart No. 1: N1.2	N 52 39' 44.970"	E 174 03' 44.835"	52.66249	174.0625	LNM 23/16, 9th Dist	2476	16435_1	6/2/2016
+16435	Delete	Restricted Zone Label	DANGER AREA 334.1290 (see note A)	N 52 39' 48.760"	E 174 03' 30.553"	52.66354	174.0585	LNM 23/16, 9th Dist	2476	16435_1	6/2/2016
+16435	Add	NOTE: AREA TO BE AVOIDED (ATBA)	NOTE: AREA TO BE AVOIDED (ATBA) The entire area of this chart falls within an Area to be Avoided. All ships 400 gross tonnage and upwards solely in transit should avoid the Area. This Area is IMO-Adopted (MSC IMO SN.1/Circ.331); to be implemented at 0000 UTC, JAN 1, 2016.	N 52 41' 00.000"	E 173 48' 35.002"	52.68333	173.8097	LNM 50/15, 9th Dist	2476	16435_1	12/17/2015

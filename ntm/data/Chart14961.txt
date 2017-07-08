@@ -1,0 +1,9 @@
+Chart: 14961, Current Edition: 13, Print Date: Feb. /2016, Lake Superior (Mercator Projection)
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14961	Change	Grand Marais Harbor Of Refuge Outer Light	Fl 2.5s 40ft 9 St M HORN (MRASS)	N 46 41' 01.611"	W 085 58' 18.224"	46.68378	-85.97173	LNM 26/17, 9th Dist	1499	14961_1	7/6/2017
+14961	Change	Grand Marais Harbor Of Refuge Outer Light	Fl 2.5s 40ft 10 St M HORN (MRASS)	N 46 41' 01.611"	W 085 58' 18.224"	46.68378	-85.97173	LNM 26/17, 9th Dist	1499	14961_1	7/6/2017
+14961	Change	Lac La Belle South Pierhead Light	S Pierh Lt Fl G 4s 29ft 7 St M	N 47 22' 27.300"	W 087 57' 46.000"	47.37425	-87.96278	LNM 20/17, 9th Dist	1499	14961_1	5/18/2017
+14961	Add	NOAA Lighted Weather Buoy 45T01	Y "45T01" Fl (4) Y 20s Priv PA	N 48 02' 10.000"	W 087 10' 30.000"	48.03611	-87.175	LNM 12/17, 9th Dist	1499	14961_1	3/30/2017
+14961	Relocate	Sand Point Light	Fl 4s 40ft 6 St M	N 46 47' 00.246"	W 088 27' 59.310"	46.7834	-88.46648	LNM 45/16, 9th Dist	1499	14961_1	11/17/2016
+14961	Change	Two Harbors East Breakwater Light	Fl R 6s 32ft 9 St M	N 47 00' 38.190"	W 091 40' 10.100"	47.01061	-91.66947	LNM 44/16, 9th Dist	1499	14961_1	11/17/2016
+14961	Change	Point Abbaye Shoal Lighted Bell Buoy 3	G "3" Fl G 4s BELL	N 46 58' 22.524"	W 088 06' 15.441"	46.97292	-88.10429	LNM 23/16, 9th Dist	1499	14961_1	6/23/2016

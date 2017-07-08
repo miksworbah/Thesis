@@ -1,0 +1,3 @@
+Chart: 16500, Current Edition: 12, Print Date: Dec. /2015, Unalaska l. to Amukta l.
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16500	Add	Submerged Buoy	Subm buoy (cov 47 fms)	N 53 37' 59.300"	W 167 24' 27.500"	53.63314	-167.4076	WNM 35/16, NGA	2507	16500_1	9/8/2016

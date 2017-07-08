@@ -1,0 +1,58 @@
+Chart: 11474, Current Edition: 11, Print Date: Feb. /2011, Bethel Shoal to Jupiter Inlet
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11474	Delete	Capron Shoal Buoy 10A	R N "10A"	N 27 26' 36.216"	W 080 13' 19.168"	27.44339	-80.22199	LNM 15/17, 7th Dist	307	11474_1	4/27/2017
+11474	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 6 ft)	N 27 22' 31.150"	W 080 14' 58.960"	27.37532	-80.24971	LNM 47/15, 7th Dist	307	11474_1	11/19/2015
+11474	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 27 22' 43.460"	W 080 15' 04.440"	27.37874	-80.25124	LNM 47/15, 7th Dist	307	11474_1	11/19/2015
+11474	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 27 22' 18.670"	W 080 14' 51.650"	27.37185	-80.24768	LNM 47/15, 7th Dist	307	11474_1	11/19/2015
+11474	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 27 22' 18.060"	W 080 14' 53.060"	27.37168	-80.24807	LNM 47/15, 7th Dist	307	11474_1	11/19/2015
+11474	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 27 22' 42.850"	W 080 15' 05.850"	27.37857	-80.25163	LNM 47/15, 7th Dist	307	11474_1	11/19/2015
+11474	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 27 19' 45.150"	W 080 13' 37.780"	27.32921	-80.22716	LNM 47/15, 7th Dist	307	11474_1	11/19/2015
+11474	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 27 19' 36.740"	W 080 13' 34.750"	27.32687	-80.22632	LNM 47/15, 7th Dist	307	11474_1	11/19/2015
+11474	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 27 19' 35.990"	W 080 13' 37.360"	27.32666	-80.22704	LNM 47/15, 7th Dist	307	11474_1	11/19/2015
+11474	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 27 19' 44.400"	W 080 13' 40.400"	27.329	-80.22789	LNM 47/15, 7th Dist	307	11474_1	11/19/2015
+11474	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 6 ft)	N 27 19' 40.660"	W 080 13' 37.570"	27.32796	-80.2271	LNM 47/15, 7th Dist	307	11474_1	11/19/2015
+11474	Change	Protected Area Note - NOTE C THE OCULINA BANK (protected area: 50 CFR 622.220-622.227) to:	NOTE C THE OCULINA BANK (protected area: 50 CFR 622.220-622.227) The following restrictions apply within the Oculina Bank protected area: Fishing with bottom longlines, traps, pots, dredges and bottom trawls is prohibited. Additional restrictions apply within the Experimental closed area: Fishing for or retaining South Atlantic snapper-grouper in or from the closed area is prohibited. Any fish taken incidentally by hook-and-line must be released immediately by cutting the line without removing the fish from the water.	N 27 31' 15.000"	W 080 24' 11.000"	27.52083	-80.40305	LNM 42/15, 7th Dist	307	11474_1	10/29/2015
+11474	Change	Protected Area Label	THE OCULINA BANK (protected area: 50 CFR 622.220-622.227; see note C)	N 27 39' 32.500"	W 079 56' 52.500"	27.65903	-79.94791	LNM 42/15, 7th Dist	307	11474_1	10/29/2015
+11474	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 27 32' 25.190"	W 080 10' 37.470"	27.54033	-80.17708	LNM 42/15, 7th Dist	307	11474_1	10/15/2015
+11474	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 27 32' 06.150"	W 080 11' 44.110"	27.53504	-80.19559	LNM 42/15, 7th Dist	307	11474_1	10/15/2015
+11474	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 27 31' 06.740"	W 080 11' 22.750"	27.51854	-80.18965	LNM 42/15, 7th Dist	307	11474_1	10/15/2015
+11474	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 27 31' 25.780"	W 080 10' 16.120"	27.52383	-80.17114	LNM 42/15, 7th Dist	307	11474_1	10/15/2015
+11474	Delete	Sounding in Feet	54	N 27 32' 08.290"	W 080 11' 01.070"	27.53564	-80.18363	LNM 42/15, 7th Dist	307	11474_1	10/15/2015
+11474	Delete	Sounding in Feet	49	N 27 31' 49.590"	W 080 11' 15.280"	27.53044	-80.18758	LNM 42/15, 7th Dist	307	11474_1	10/15/2015
+11474	Delete	Sounding in Feet	57	N 27 31' 37.130"	W 080 10' 37.080"	27.52698	-80.17696	LNM 42/15, 7th Dist	307	11474_1	10/15/2015
+11474	Add	Obstruction in Feet	27 Obstn (Rep 2009)       Chart No. 1: K41	N 27 31' 11.220"	W 080 11' 06.420"	27.51978	-80.18512	LNM 42/15, 7th Dist	307	11474_1	10/15/2015
+11474	Add	Dotted Fish Haven Label	Obstn Fish Haven (27 ft rep)	N 27 31' 46.800"	W 080 10' 59.600"	27.52967	-80.18322	LNM 42/15, 7th Dist	307	11474_1	10/15/2015
+11474	Delete	Sounding in Feet	55	N 27 31' 23.620"	W 080 11' 23.320"	27.52323	-80.18981	LNM 42/15, 7th Dist	307	11474_1	10/15/2015
+11474	Delete	Wreck in Feet with Basket and Danger Curve	59 Wk    (Chart No. 1: K27)	N 27 23' 30.430"	W 080 03' 42.180"	27.39179	-80.06171	LNM 41/15, 7th Dist	307	11474_1	10/8/2015
+11474	Change	Dotted Fish Haven Label to:	Obstn Fish Haven (auth min 50 ft)	N 27 23' 49.060"	W 080 01' 54.010"	27.39696	-80.03167	LNM 41/15, 7th Dist	307	11474_1	10/8/2015
+11474	Add	Dotted Fish Haven PT 1 OF 3	(Chart No. 1: K46.2)	N 27 24' 45.590"	W 080 00' 19.270"	27.41266	-80.00536	LNM 41/15, 7th Dist	307	11474_1	10/8/2015
+11474	Add	Dotted Fish Haven PT 2 OF 3	(Chart No. 1: K46.2)	N 27 24' 50.980"	W 080 00' 01.800"	27.41416	-80.0005	LNM 41/15, 7th Dist	307	11474_1	10/8/2015
+11474	Add	Dotted Fish Haven PT 3 OF 3	(Chart No. 1: K46.2)	N 27 23' 56.400"	W 080 00' 01.190"	27.399	-80.00033	LNM 41/15, 7th Dist	307	11474_1	10/8/2015
+11474	Delete	Sounding in Feet	213	N 27 24' 20.870"	W 080 00' 01.690"	27.4058	-80.00047	LNM 41/15, 7th Dist	307	11474_1	10/8/2015
+11474	Delete	Dotted Fish Haven PT 1 OF 2	(Chart No. 1 K46.2)	N 27 24' 45.590"	W 080 00' 19.270"	27.41266	-80.00536	LNM 41/15, 7th Dist	307	11474_1	10/8/2015
+11474	Delete	Dotted Fish Haven PT 2 OF 2	(Chart No. 1 K46.2)	N 27 23' 56.400"	W 080 00' 01.190"	27.399	-80.00033	LNM 41/15, 7th Dist	307	11474_1	10/8/2015
+11474	Add	St Lucie Entrance Lighted Buoy 2 Magenta Circle	R "2" Fl R 4s AIS	N 27 10' 01.178"	W 080 08' 23.008"	27.16699	-80.13972	LNM 08/15, 7th Dist	307	11474_1	3/5/2015
+11474	Add	Fort Pierce Inlet Lighted Buoy 5 Magenta Circle	G "5" Fl G 4s AIS	N 27 28' 19.940"	W 080 17' 00.440"	27.47221	-80.28345	LNM 08/15, 7th Dist	307	11474_1	3/5/2015
+11474	Add	Fort Pierce Inlet Lighted Buoy 6 Magenta Circle	R "6" Fl R 4s AIS	N 27 28' 24.591"	W 080 16' 55.743"	27.4735	-80.28215	LNM 08/15, 7th Dist	307	11474_1	3/5/2015
+11474	Change	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn Fish Haven (auth min 35 ft), Chart No. 1 K46.2	N 27 05' 27.000"	W 080 01' 33.500"	27.09083	-80.02597	LNM 33/14, 7th Dist	307	11474_1	8/14/2014
+11474	Add	Minimum Size (2mm sq.) Dashed Fish Haven and Label	Obstn Fish Haven (auth min 118 ft), Chart No. 1 K46.2	N 27 15' 58.320"	W 080 00' 59.460"	27.2662	-80.01652	LNM 02/14, 7th Dist	307	11474_1	1/16/2014
+11474	Delete	Non Dangerous Wreck	PA      Chart No. 1: K29	N 27 15' 58.320"	W 080 00' 59.460"	27.2662	-80.01652	LNM 02/14, 7th Dist	307	11474_1	1/16/2014
+11474	Change	Dotted Fish Haven Label	Obstn Fish Haven (auth min 20 ft)	N 26 57' 32.000"	W 080 03' 45.000"	26.95889	-80.0625	LNM 02/14, 7th Dist	307	11474_1	1/9/2014
+11474	Change	Dotted Fish Haven label	Obstn Fish Haven (auth min 30 ft)	N 27 26' 19.240"	W 080 09' 50.090"	27.43868	-80.16392	LNM 48/13, 7th Dist	307	11474_1	11/18/2013
+11474	Add	Low Water Area PT 1 OF 7	Low Water Area	N 27 10' 07.000"	W 080 09' 20.500"	27.16861	-80.15569	LNM 32/13, 7th Dist	307	11474_1	8/5/2013
+11474	Add	Low Water Area PT 2 OF 7	Low Water Area	N 27 10' 04.300"	W 080 09' 16.000"	27.16786	-80.15444	LNM 32/13, 7th Dist	307	11474_1	8/5/2013
+11474	Add	Low Water Area PT 3 OF 7	Low Water Area	N 27 10' 04.300"	W 080 09' 15.000"	27.16786	-80.15417	LNM 32/13, 7th Dist	307	11474_1	8/5/2013
+11474	Add	Low Water Area PT 4 OF 7	Low Water Area	N 27 10' 07.200"	W 080 09' 11.700"	27.16867	-80.15325	LNM 32/13, 7th Dist	307	11474_1	8/5/2013
+11474	Add	Low Water Area PT 5 OF 7	Low Water Area	N 27 10' 09.700"	W 080 09' 10.700"	27.16936	-80.15297	LNM 32/13, 7th Dist	307	11474_1	8/5/2013
+11474	Add	Low Water Area PT 6 OF 7	Low Water Area	N 27 10' 10.300"	W 080 09' 11.000"	27.16953	-80.15305	LNM 32/13, 7th Dist	307	11474_1	8/5/2013
+11474	Add	Low Water Area PT 7 OF 7	Low Water Area	N 27 10' 10.000"	W 080 09' 12.300"	27.16945	-80.15342	LNM 32/13, 7th Dist	307	11474_1	8/5/2013
+11474	Delete	Navy Mooring Buoy	Y Strobe Navy	N 27 27' 58.000"	W 080 00' 02.000"	27.46611	-80.00056	WNM 08/13, NGA	307	11474_1	3/11/2013
+11474	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 26 58' 00.000"	W 080 04' 02.000"	26.96667	-80.06722	LNM 43/12, 7th Dist	307	11474_1	10/17/2012
+11474	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 26 58' 00.000"	W 080 03' 28.000"	26.96667	-80.05778	LNM 43/12, 7th Dist	307	11474_1	10/17/2012
+11474	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 26 57' 04.000"	W 080 04' 02.000"	26.95111	-80.06722	LNM 43/12, 7th Dist	307	11474_1	10/17/2012
+11474	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 26 57' 04.000"	W 080 03' 28.000"	26.95111	-80.05778	LNM 43/12, 7th Dist	307	11474_1	10/17/2012
+11474	Add	Dotted Fish Haven Label	Obstn Fish Haven (20 ft rep)	N 26 57' 32.000"	W 080 03' 45.000"	26.95889	-80.0625	LNM 43/12, 7th Dist	307	11474_1	10/17/2012
+11474	Relocate	St Lucie River Buoy 3	G C "3"	N 27 09' 57.744"	W 080 10' 55.528"	27.16604	-80.18209	LNM 22/11, 7th Dist	307	11474_1	6/8/2011
+11474	Relocate	Fort Pierce Inlet Entrance RF Light	Q G 15ft	N 27 28' 09.743"	W 080 18' 12.363"	27.46937	-80.30344	LNM 10/11, 7th Dist	307	11474_1	3/16/2011
+11474	Relocate	Fort Pierce Inlet Entrance RR Light	Iso G 6s 50ft	N 27 28' 02.771"	W 080 18' 54.789"	27.46744	-80.31522	LNM 10/11, 7th Dist	307	11474_1	3/16/2011
+11474	Change	Fort Pierce Inlet Entrance RF Light	Q G 18ft	N 27 28' 09.743"	W 080 18' 12.363"	27.46937	-80.30344	LNM 10/11, 7th Dist	307	11474_1	3/16/2011

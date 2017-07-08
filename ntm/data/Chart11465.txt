@@ -1,0 +1,10 @@
+Chart: 11465, Current Edition: 40, Print Date: Jan. /2017, Intracoastal Waterway Miami to Elliot Key
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11465	Relocate	Lummus Island Turning Basin Light E	Fl Y 4s 16ft 4M "E"	N 25 46' 02.589"	W 080 10' 14.014"	25.76739	-80.17056	LNM 25/17, 7th Dist	310	11465_1	6/29/2017
+11465	Relocate	Lummus Island Turning Basin Light E	Fl Y 4s 16ft 4M "E"	N 25 46' 02.554"	W 080 10' 13.523"	25.76738	-80.17043	LNM 22/17, 7th Dist	310	11465_1	6/22/2017
+11465	Relocate	Biscayne Flats Daybeacon 3	G "3"	N 25 39' 49.911"	W 080 11' 01.169"	25.66386	-80.18365	LNM 17/17, 7th Dist	310	11465_1	5/4/2017
+11465	Relocate	Lummus Island Turning Basin Light B	Fl Y 4s 16ft 4M "B"	N 25 45' 53.860"	W 080 09' 58.338"	25.76496	-80.16621	LNM 13/17, 7th Dist	310	11465_1	4/13/2017
+11465	Add	Bent Light	Fl 4s 25ft Priv	N 25 45' 11.048"	W 080 06' 28.821"	25.75307	-80.10801	LNM 13/17, 7th Dist	310	11465_1	4/13/2017
+11465	Change	Miami Main Channel Lighted Buoy 10	R "10" Fl R 2.5s	N 25 45' 34.904"	W 080 07' 16.078"	25.7597	-80.12113	LNM 04/17, 7th Dist	310	11465_1	2/2/2017
+11465	Change	Miami Main Channel Lighted Buoy 12	R "12" Q R	N 25 45' 39.563"	W 080 07' 28.837"	25.76099	-80.12468	LNM 04/17, 7th Dist	310	11465_1	2/2/2017
+11465	Change	Miami Main Channel Lighted Buoy 8	R "8" Q R	N 25 45' 30.958"	W 080 06' 58.262"	25.7586	-80.11618	LNM 04/17, 7th Dist	310	11465_1	2/2/2017

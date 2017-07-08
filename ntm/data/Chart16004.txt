@@ -1,0 +1,3 @@
+Chart: 16004, Current Edition: 13, Print Date: May. /2015, Point Barrow to Herschel Island
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16004	Add	Barrow Pilot Station	Pilots **Chart No 1 T:1.1**	N 71 20' 00.000"	W 156 53' 00.000"	71.33334	-156.8833	LNM 05/16, 17th Dist	2409	16004_1	2/11/2016

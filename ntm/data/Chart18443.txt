@@ -1,0 +1,72 @@
+Chart: 18443, Current Edition: 17, Print Date: Jan. /2010, Approaches to Everett
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18443	Relocate	Tulalip Bay Light 2	Fl R 4s 15ft 4M "2"	N 48 03' 16.008"	W 122 17' 39.162"	48.05445	-122.2942	LNM 49/16, 13th Dist	1690	18443_1	12/8/2016
+18443	Change	Tulalip Bay Light 2	Fl R 4s 15ft 4M "2"	N 48 03' 16.008"	W 122 17' 39.162"	48.05445	-122.2942	LNM 49/16, 13th Dist	1690	18443_1	12/8/2016
+18443	Add	Columbia Beach Outfall Pipe Light	Fl 4s Priv	N 47 58' 16.432"	W 122 20' 59.817"	47.97123	-122.35	LNM 40/16, 13th Dist	1690	18443_1	12/8/2016
+18443	Relocate	Snohomish River Lighted Buoy 3	G "3" Fl G 2.5s	N 47 58' 56.950"	W 122 14' 03.141"	47.98249	-122.2342	LNM 37/16, 13th Dist	1690	18443_1	9/22/2016
+18443	Delete	NOAA Sea Lion Float Light E	Fl Y 4s "E" Priv	N 47 58' 51.540"	W 122 13' 36.840"	47.98098	-122.2269	LNM 49/15, 13th Dist	1690	18443_1	12/17/2015
+18443	Delete	Everett Mooring Buoy CG	"CG"	N 47 59' 06.000"	W 122 14' 24.000"	47.985	-122.24	LNM 40/15, 13th Dist	1690	18443_1	10/15/2015
+18443	Relocate	Camano Head Light 1	Fl G 6s 15ft 4M "1"	N 48 03' 08.736"	W 122 21' 28.158"	48.05243	-122.3578	LNM 38/15, 13th Dist	1690	18443_1	10/1/2015
+18443	Add	NOAA Sea Lion Float Light E	Fl Y 4s "E" Priv	N 47 58' 51.540"	W 122 13' 36.840"	47.98098	-122.2269	LNM 48/14, 13th Dist	1690	18443_1	12/11/2014
+18443	Relocate	Navsta Pier Light A	F Y "A" Priv	N 47 59' 29.150"	W 122 13' 27.520"	47.99143	-122.2243	LNM 06/14, 13th Dist	1690	18443_1	2/20/2014
+18443	Change	Navsta Pier Light A	F Y "A" Priv	N 47 59' 29.150"	W 122 13' 27.520"	47.99143	-122.2243	LNM 06/14, 13th Dist	1690	18443_1	2/20/2014
+18443	Relocate	Navsta Pier Light B	F Y "B" Priv	N 47 59' 39.970"	W 122 13' 26.250"	47.99443	-122.224	LNM 06/14, 13th Dist	1690	18443_1	2/20/2014
+18443	Change	Navsta Pier Light B	F Y "B" Priv	N 47 59' 39.970"	W 122 13' 26.250"	47.99443	-122.224	LNM 06/14, 13th Dist	1690	18443_1	2/20/2014
+18443	Change	Gedney Island Light 1	Fl G 2.5s 15ft 4M "1"	N 48 00' 15.503"	W 122 17' 49.518"	48.00431	-122.2971	LNM 49/13, 13th Dist	1690	18443_1	1/30/2014
+18443	Change	Camano Head Light 1	Fl G 6s 15ft 4M "1"	N 48 03' 08.574"	W 122 21' 28.083"	48.05238	-122.3578	LNM 49/13, 13th Dist	1690	18443_1	1/30/2014
+18443	Add	General Anchorage Area limit PT 1 OF 4	Chart No. 1: N12.1	N 47 58' 57.000"	W 122 14' 05.000"	47.9825	-122.2347	LNM 18/13, 13th Dist	1690	18443_1	4/26/2013
+18443	Add	General Anchorage Area limit PT 2 OF 4	Chart No. 1: N12.1	N 47 59' 21.500"	W 122 15' 02.000"	47.98931	-122.2506	LNM 18/13, 13th Dist	1690	18443_1	4/26/2013
+18443	Add	General Anchorage Area limit PT 3 OF 4	Chart No. 1: N12.1	N 47 58' 57.000"	W 122 15' 44.000"	47.9825	-122.2622	LNM 18/13, 13th Dist	1690	18443_1	4/26/2013
+18443	Add	General Anchorage Area limit PT 4 OF 4	Chart No. 1: N12.1	N 47 58' 32.500"	W 122 14' 47.000"	47.97569	-122.2464	LNM 18/13, 13th Dist	1690	18443_1	4/26/2013
+18443	Delete	General Anchorage Area limit PT 1 OF 6	Chart No. 1 N12.1	N 47 58' 56.000"	W 122 15' 42.800"	47.98222	-122.2619	LNM 18/13, 13th Dist	1690	18443_1	4/26/2013
+18443	Delete	General Anchorage Area limit PT 2 OF 6	Chart No. 1 N12.1	N 47 58' 29.700"	W 122 14' 39.800"	47.97492	-122.2444	LNM 18/13, 13th Dist	1690	18443_1	4/26/2013
+18443	Delete	General Anchorage Area limit PT 3 OF 6	Chart No. 1 N12.1	N 47 58' 35.900"	W 122 14' 07.500"	47.97664	-122.2354	LNM 18/13, 13th Dist	1690	18443_1	4/26/2013
+18443	Delete	General Anchorage Area limit PT 4 OF 6	Chart No. 1 N12.1	N 47 58' 42.400"	W 122 13' 59.300"	47.97844	-122.2331	LNM 18/13, 13th Dist	1690	18443_1	4/26/2013
+18443	Delete	General Anchorage Area limit PT 5 OF 6	Chart No. 1 N12.1	N 47 59' 02.700"	W 122 14' 00.100"	47.98409	-122.2334	LNM 18/13, 13th Dist	1690	18443_1	4/26/2013
+18443	Delete	General Anchorage Area limit PT 6 OF 6	Chart No. 1 N12.1	N 47 59' 21.000"	W 122 15' 00.200"	47.98917	-122.2501	LNM 18/13, 13th Dist	1690	18443_1	4/26/2013
+18443	Relocate	Hat Island Marina Breakwater Light 1	Fl G 4s "1" Priv	N 48 01' 13.645"	W 122 19' 18.347"	48.02046	-122.3218	LNM 51/12, 13th Dist	1690	18443_1	1/7/2013
+18443	Relocate	Hat Island Marina Breakwater Light 2	Fl R 4s "2" Priv	N 48 01' 14.131"	W 122 19' 18.934"	48.02059	-122.3219	LNM 51/12, 13th Dist	1690	18443_1	1/7/2013
+18443	Add	Non-dangerous submerged wreck	Chart No 1: K-29	N 48 03' 45.900"	W 122 19' 24.060"	48.06275	-122.3233	LNM 47/12, 13th Dist	1690	18443_1	11/29/2012
+18443	Add	Port of Everett Marine Terminal North Dolphin Light	Fl Y 4s Priv	N 47 58' 36.717"	W 122 13' 35.709"	47.97687	-122.2266	LNM 18/12, 13th Dist	1690	18443_1	5/14/2012
+18443	Add	Port of Everett Marine Terminal South Dolphin Light	Fl Y 4s Priv	N 47 58' 34.726"	W 122 13' 37.469"	47.97631	-122.2271	LNM 18/12, 13th Dist	1690	18443_1	5/14/2012
+18443	Relocate	Clinton Ferry Dock Shoal Buoy	W Or SP Priv	N 47 58' 40.920"	W 122 21' 01.200"	47.97803	-122.3503	LNM 16/12, 13th Dist	1690	18443_1	5/3/2012
+18443	Add	Clinton Ferry Terminal Dolphin Light A	Fl Y 6s "A" Priv SIREN (Bl 17s)	N 47 58' 27.592"	W 122 20' 55.089"	47.97433	-122.3486	LNM 16/12, 13th Dist	1690	18443_1	5/3/2012
+18443	Add	Clinton Ferry Terminal Dolphin Light B	Fl Y 6s "B" Priv	N 47 58' 26.842"	W 122 20' 57.125"	47.97412	-122.3492	LNM 16/12, 13th Dist	1690	18443_1	5/3/2012
+18443	Add	Clinton Ferry Terminal Dolphin Light C	Fl Y 6s "C" Priv	N 47 58' 36.377"	W 122 20' 59.263"	47.97677	-122.3498	LNM 16/12, 13th Dist	1690	18443_1	5/3/2012
+18443	Add	Clinton Ferry Terminal Dolphin Light D	Fl Y 6s "D" Priv SIREN (Bl 23s)	N 47 58' 36.277"	W 122 20' 56.925"	47.97674	-122.3491	LNM 16/12, 13th Dist	1690	18443_1	5/3/2012
+18443	Relocate	Mukilteo Ferry Terminal Dolphin Light	Fl Y 6s Priv HORN (Bl 22s) 	N 47 56' 59.589"	W 122 18' 20.599"	47.94989	-122.3057	LNM 14/12, 13th Dist	1690	18443_1	4/19/2012
+18443	Change	Mukilteo Ferry Terminal Dolphin Light	Fl Y 6s Priv HORN (Bl 22s) 	N 47 56' 59.589"	W 122 18' 20.599"	47.94989	-122.3057	LNM 14/12, 13th Dist	1690	18443_1	4/19/2012
+18443	Change	Port Gardner Light 1	Fl G 4s 15ft 4M "1"	N 47 59' 29.940"	W 122 14' 54.720"	47.99165	-122.2485	LNM 11/12, 13th Dist	1690	18443_1	3/19/2012
+18443	Add	NOTE J	Floating security barriers have been installed at various U.S. Naval installations throughout Puget Sound. The barriers are marked by numerous flashing yellow (Fl Y 2s) Navy maintained lighted buoys and approximately mark the Restricted Areas surrounding the facility.	N 47 58' 59.600"	W 122 11' 50.300"	47.98322	-122.1973	LNM 12/12, 13th Dist	1690	18443_1	3/19/2012
+18443	Add	open lighted buoy	Fl Y 	N 47 58' 51.312"	W 122 14' 01.258"	47.98092	-122.2337	LNM 12/12, 13th Dist	1690	18443_1	3/19/2012
+18443	Add	open lighted buoy	Fl Y 	N 47 58' 47.370"	W 122 13' 53.572"	47.97982	-122.2315	LNM 12/12, 13th Dist	1690	18443_1	3/19/2012
+18443	Add	open lighted buoy	Fl Y 	N 47 58' 46.466"	W 122 13' 44.245"	47.97957	-122.229	LNM 12/12, 13th Dist	1690	18443_1	3/19/2012
+18443	Add	open lighted buoy	Fl Y 	N 47 58' 53.127"	W 122 13' 35.497"	47.98142	-122.2265	LNM 12/12, 13th Dist	1690	18443_1	3/19/2012
+18443	Add	open lighted buoy 	Fl Y	N 47 58' 57.104"	W 122 13' 31.364"	47.98253	-122.2254	LNM 12/12, 13th Dist	1690	18443_1	3/19/2012
+18443	Delete	NOTE J	Floating security barriers have been installed at various U.S. Naval installations throughout Puget Sound.  The barriers are marked by numerous quick flashing yellow (Q Y) lights and approximately mark the Restricted Areas surrounding the facility. (CFR 334.1215, CFR 334.1220, CFR 334.1240)	N 47 58' 59.600"	W 122 11' 50.300"	47.98322	-122.1973	LNM 12/12, 13th Dist	1690	18443_1	3/19/2012
+18443	Add	security barrier PT 1 OF 2	security barrier  (use Chart No. 1: Q.q)	N 47 58' 53.420"	W 122 14' 01.200"	47.98151	-122.2337	LNM 12/12, 13th Dist	1690	18443_1	3/19/2012
+18443	Add	security barrier PT 2 OF 2	security barrier  (use Chart No. 1: Q.q)	N 47 59' 00.740"	W 122 13' 33.990"	47.98354	-122.2261	LNM 12/12, 13th Dist	1690	18443_1	3/19/2012
+18443	Delete	security barrier PT 1 OF 2	security barrier  (use Chart No. 1: Q.q)	N 47 58' 53.300"	W 122 14' 01.100"	47.98147	-122.2336	LNM 12/12, 13th Dist	1690	18443_1	3/19/2012
+18443	Delete	security barrier PT 2 OF 2	security barrier  (use Chart No. 1: Q.q)	N 47 59' 00.700"	W 122 13' 34.200"	47.98353	-122.2262	LNM 12/12, 13th Dist	1690	18443_1	3/19/2012
+18443	Relocate	Hat Island Marina Breakwater Light 1	Fl G 4s "1"  Priv	N 48 01' 13.263"	W 122 19' 18.674"	48.02035	-122.3219	LNM 08/12, 13th Dist	1690	18443_1	3/1/2012
+18443	Change	Hat Island Marina Breakwater Light 1	Fl G 4s "1"  Priv	N 48 01' 13.263"	W 122 19' 18.674"	48.02035	-122.3219	LNM 08/12, 13th Dist	1690	18443_1	3/1/2012
+18443	Relocate	Hat Island Marina Breakwater Light 2	Fl R 4s "2" Priv	N 48 01' 13.796"	W 122 19' 19.041"	48.0205	-122.322	LNM 08/12, 13th Dist	1690	18443_1	3/1/2012
+18443	Change	Hat Island Marina Breakwater Light 2	Fl R 4s "2" Priv	N 48 01' 13.796"	W 122 19' 19.041"	48.0205	-122.322	LNM 08/12, 13th Dist	1690	18443_1	3/1/2012
+18443	Relocate	Tulalip Tribes Breakwater Light A	Fl Y 6s "A" Priv	N 48 03' 41.864"	W 122 16' 46.761"	48.06163	-122.2797	LNM 08/12, 13th Dist	1690	18443_1	3/1/2012
+18443	Change	Tulalip Tribes Breakwater Light A	Fl Y 6s "A" Priv	N 48 03' 41.864"	W 122 16' 46.761"	48.06163	-122.2797	LNM 08/12, 13th Dist	1690	18443_1	3/1/2012
+18443	Delete	Port Gardner Navy Log Boom Light A	Q Y 5ft "A" Navy	N 47 58' 51.000"	W 122 14' 03.000"	47.98083	-122.2342	LNM 48/11, 13th Dist	1690	18443_1	12/20/2011
+18443	Delete	Port Gardner Navy Log Boom Light B	Q Y 5ft "B" Navy	N 47 58' 47.000"	W 122 13' 51.000"	47.97972	-122.2308	LNM 48/11, 13th Dist	1690	18443_1	12/20/2011
+18443	Delete	Port Gardner Navy Log Boom Light C	Q Y 5ft "C" Navy	N 47 58' 45.000"	W 122 13' 46.000"	47.97917	-122.2294	LNM 48/11, 13th Dist	1690	18443_1	12/20/2011
+18443	Delete	Port Gardner Navy Log Boom Light D	Q Y 5ft "D" Navy	N 47 58' 59.000"	W 122 13' 32.000"	47.98306	-122.2256	LNM 48/11, 13th Dist	1690	18443_1	12/20/2011
+18443	Relocate	Mukilteo Ferry Dolphin Light	Fl Y 6s 16ft Priv PA	N 47 57' 00.000"	W 122 18' 06.000"	47.95	-122.3017	LNM 47/10, 13th Dist	1690	18443_1	12/8/2010
+18443	Change	Mukilteo Ferry Dolphin Light	Fl Y 6s 16ft Priv PA	N 47 57' 00.000"	W 122 18' 06.000"	47.95	-122.3017	LNM 47/10, 13th Dist	1690	18443_1	12/8/2010
+18443	Change	Steamboat Flats Light	Fl 2.5s 15ft 3M Ra Ref	N 48 00' 56.278"	W 122 16' 14.357"	48.01563	-122.2707	LNM 37/10, 13th Dist	1690	18443_1	9/19/2010
+18443	Relocate	Steamboat Flats Light	Fl 2.5s 29ft 6M Ra Ref	N 48 00' 56.278"	W 122 16' 14.357"	48.01563	-122.2707	LNM 32/10, 13th Dist	1690	18443_1	8/18/2010
+18443	Add	Double line pier PT 1 OF 6	(Chart No. 1: F14)	N 47 57' 07.400"	W 122 17' 20.500"	47.95206	-122.289	LNM 24/10, 13th Dist	1690	18443_1	6/9/2010
+18443	Add	Double line pier PT 2 OF 6	(Chart No. 1: F14)	N 47 57' 09.600"	W 122 17' 18.900"	47.95267	-122.2886	LNM 24/10, 13th Dist	1690	18443_1	6/9/2010
+18443	Add	Double line pier PT 3 OF 6	(Chart No. 1: F14)	N 47 57' 15.700"	W 122 17' 19.000"	47.95436	-122.2886	LNM 24/10, 13th Dist	1690	18443_1	6/9/2010
+18443	Add	Double line pier PT 4 OF 6	(Chart No. 1: F14)	N 47 57' 15.700"	W 122 17' 17.300"	47.95436	-122.2881	LNM 24/10, 13th Dist	1690	18443_1	6/9/2010
+18443	Add	Double line pier PT 5 OF 6	(Chart No. 1: F14)	N 47 57' 09.300"	W 122 17' 17.500"	47.95258	-122.2882	LNM 24/10, 13th Dist	1690	18443_1	6/9/2010
+18443	Add	Double line pier PT 6 OF 6	(Chart No. 1: F14)	N 47 57' 08.000"	W 122 17' 18.700"	47.95222	-122.2885	LNM 24/10, 13th Dist	1690	18443_1	6/9/2010
+18443	Change	Navsta Pier Light A	F R 9ft "A" PA Navy	N 47 59' 28.740"	W 122 13' 27.630"	47.99132	-122.2243	WNM 12/10, NGA	1690	18443_1	3/24/2010
+18443	Change	Navsta Pier Light B	F R 9ft "B" Navy PA	N 47 59' 39.360"	W 122 13' 27.130"	47.99427	-122.2242	WNM 12/10, NGA	1690	18443_1	3/24/2010

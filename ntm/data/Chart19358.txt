@@ -1,0 +1,14 @@
+Chart: 19358, Current Edition: 21, Print Date: Oct. /2006, Southeast Coast of O‘ahu Waimänalo Bay to Diamond Head
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+19358	Add	Dangerous Wreck	PA	N 21 15' 56.000"	W 157 42' 54.000"	21.26556	-157.715	LNM 02/17, 14th Dist	2802	19358_1	1/12/2017
+19358	Add	Dangerous Wreck in fathoms and feet	5 5 Wk	N 21 16' 17.000"	W 157 44' 03.000"	21.27139	-157.7342	LNM 36/15, 14th Dist	2802	19358_1	9/10/2015
+19358	Add	Restricted Area PT 2 OF 4	Chart No. 1: N1.2	N 21 14' 36.360"	W 157 48' 56.400"	21.24343	-157.8157	LNM 17/14, 14th Dist	2802	19358_1	4/24/2014
+19358	Add	Restricted Area PT 3 OF 4	Chart No. 1: N1.2	N 21 14' 13.360"	W 157 48' 20.000"	21.23705	-157.8056	LNM 17/14, 14th Dist	2802	19358_1	4/24/2014
+19358	Add	Restricted Area PT 4 OF 4	Chart No. 1: N1.2	N 21 13' 48.700"	W 157 48' 20.000"	21.23019	-157.8056	LNM 17/14, 14th Dist	2802	19358_1	4/24/2014
+19358	Add	Restricted Area Label	TSUNAMI EVACUATION AREA EASTERN RECREATIONAL VESSEL STAGING AREA 165.1413 (see note A)	N 21 14' 12.370"	W 157 48' 53.320"	21.23677	-157.8148	LNM 17/14, 14th Dist	2802	19358_1	4/24/2014
+19358	Add	Restricted Area PT 1 OF 4	Chart No. 1: N1.2	N 21 14' 48.580"	W 157 49' 29.135"	21.24683	-157.8248	LNM 17/14, 14th Dist	2802	19358_1	4/24/2014
+19358	Add	Submarine Operations Note C	Submerged submarine operations are conducted at various times in the waters contained on this chart. Proceed with caution. 	N 21 13' 54.000"	W 157 37' 18.700"	21.23167	-157.6219	LNM 17/12, 14th Dist	2802	19358_1	4/18/2012
+19358	Add	Submarine Cable  PT 1 OF 3	Chart No. 1: L30.1	N 21 17' 15.700"	W 157 40' 06.200"	21.28769	-157.6684	LNM 29/09, 14th Dist	2802	19358_1	7/23/2009
+19358	Add	Submarine Cable  PT 2 OF 3	Chart No. 1: L30.1	N 21 16' 58.500"	W 157 39' 57.600"	21.28292	-157.666	LNM 29/09, 14th Dist	2802	19358_1	7/23/2009
+19358	Add	Submarine Cable  PT 3 OF 3	Chart No. 1: L30.1	N 21 14' 43.700"	W 157 39' 36.900"	21.24547	-157.6602	LNM 29/09, 14th Dist	2802	19358_1	7/23/2009
+19358	Change	Maunalua Bay Lt 1	Fl G 4s 15ft 5M "1"	N 21 16' 15.104"	W 157 42' 56.131"	21.27086	-157.7156	LNM 30/08, 14th Dist	2802	19358_1	9/26/2008

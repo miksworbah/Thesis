@@ -1,0 +1,38 @@
+Chart: 11314, Current Edition: 26, Print Date: Jul. /2015, Intracoastal Waterway Carlos Bay to Redfish Bay, including Copano Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11314	Change	Channel Limits PT 2 OF 12	Chart No. 1: I20	N 27 50' 39.200"	W 097 03' 41.510"	27.84422	-97.06153	LNM 18/17, 8th Dist	110	11314_1	4/27/2017
+11314	Change	Channel Limits PT 3 OF 12	Chart No. 1: I20	N 27 50' 50.070"	W 097 03' 35.210"	27.84724	-97.05978	LNM 18/17, 8th Dist	110	11314_1	4/27/2017
+11314	Change	Channel Limits PT 4 OF 12	Chart No. 1: I20	N 27 50' 44.080"	W 097 03' 28.220"	27.84558	-97.05784	LNM 18/17, 8th Dist	110	11314_1	4/27/2017
+11314	Change	Channel Limits PT 5 OF 12	Chart No. 1: I20	N 27 50' 29.610"	W 097 03' 05.520"	27.84156	-97.05154	LNM 18/17, 8th Dist	110	11314_1	4/27/2017
+11314	Change	Channel Limits PT 8 OF 12	Chart No. 1: I20	N 27 50' 29.820"	W 097 04' 04.850"	27.84162	-97.06802	LNM 18/17, 8th Dist	110	11314_1	4/27/2017
+11314	Change	Channel Limits PT 9 OF 12	Chart No. 1: I20	N 27 50' 29.860"	W 097 03' 59.170"	27.84163	-97.06644	LNM 18/17, 8th Dist	110	11314_1	4/27/2017
+11314	Change	Channel Limits PT 10 OF 12	Chart No. 1: I20	N 27 50' 33.390"	W 097 03' 40.140"	27.84261	-97.06115	LNM 18/17, 8th Dist	110	11314_1	4/27/2017
+11314	Change	Channel Limits PT 11 OF 12	Chart No. 1: I20	N 27 50' 32.910"	W 097 03' 24.570"	27.84248	-97.05682	LNM 18/17, 8th Dist	110	11314_1	4/27/2017
+11314	Change	Channel Limits PT 1 OF 12	Chart No. 1: I20	N 27 49' 44.600"	W 097 08' 35.070"	27.82906	-97.14307	LNM 18/17, 8th Dist	110	11314_1	4/27/2017
+11314	Change	Channel Limits PT 6 OF 12	Chart No. 1: I20	N 27 50' 23.380"	W 097 02' 53.960"	27.83983	-97.04832	LNM 18/17, 8th Dist	110	11314_1	4/27/2017
+11314	Change	Channel Limits PT 7 OF 12	Chart No. 1: I20	N 27 49' 40.910"	W 097 08' 27.740"	27.82803	-97.14104	LNM 18/17, 8th Dist	110	11314_1	4/27/2017
+11314	Change	Channel Limits PT 12 OF 12	Chart No. 1: I20	N 27 50' 18.250"	W 097 02' 57.310"	27.8384	-97.04926	LNM 18/17, 8th Dist	110	11314_1	4/27/2017
+11314	Relocate	Aransas Bay Alternate Route Light 49	Fl G 2.5s 17ft 3M "49" Ra Ref	N 27 55' 18.077"	W 097 03' 23.531"	27.92169	-97.05653	LNM 33/16, 8th Dist	110	11314_1	8/25/2016
+11314	Relocate	Aransas Bay Alternate Route Daybeacon 48	R "48" Ra Ref	N 27 56' 07.506"	W 097 03' 36.281"	27.93542	-97.06008	LNM 33/16, 8th Dist	110	11314_1	8/25/2016
+11314	Relocate	Corpus Christi Channel Light 13	Fl G 6s 17ft 4M "13" Ra Ref	N 27 49' 48.152"	W 097 07' 35.807"	27.83004	-97.12661	LNM 30/16, 8th Dist	110	11314_1	8/11/2016
+11314	Add	Ransom Point Danger Breakwater Light	Fl 2.5s Priv	N 27 50' 47.236"	W 097 08' 20.843"	27.84645	-97.13912	LNM 51/15, 8th Dist	110	11314_1	1/7/2016
+11314	Add	Ransom Point Danger Breakwater Light	Fl 2.5s Priv	N 27 50' 52.752"	W 097 08' 11.607"	27.84799	-97.13656	LNM 51/15, 8th Dist	110	11314_1	1/7/2016
+11314	Add	Ransom Point Danger Breakwater Light	Fl 2.5s Priv	N 27 51' 02.579"	W 097 08' 06.842"	27.85072	-97.13523	LNM 51/15, 8th Dist	110	11314_1	1/7/2016
+11314	Add	Ransom Point Danger Breakwater Light	Fl 2.5s Priv	N 27 51' 10.253"	W 097 08' 07.896"	27.85285	-97.13553	LNM 51/15, 8th Dist	110	11314_1	1/7/2016
+11314	Add	Ransom Point Danger Breakwater Light	Fl 2.5s Priv	N 27 51' 16.598"	W 097 08' 09.646"	27.85461	-97.13601	LNM 51/15, 8th Dist	110	11314_1	1/7/2016
+11314	Delete	Aransas Bay Alternate Route Light WR 59	Q G 17ft 3M "WR 59" Ra Ref	N 27 51' 49.408"	W 097 03' 01.060"	27.86372	-97.05029	LNM 51/15, 8th Dist	110	11314_1	1/7/2016
+11314	Add	Aransas Bay Alternate Route Lighted Buoy WR 59	G "WR 59" Q G	N 27 51' 49.408"	W 097 03' 01.060"	27.86372	-97.05029	LNM 51/15, 8th Dist	110	11314_1	1/7/2016
+11314	Delete	Aransas Bay Alternate Route Danger Daybeacon A	W "A"	N 27 51' 45.312"	W 097 03' 00.123"	27.86259	-97.05003	LNM 51/15, 8th Dist	110	11314_1	1/7/2016
+11314	Add	Aransas Bay Alternate Route Danger Buoy A	W Or "A"	N 27 51' 45.312"	W 097 03' 00.123"	27.86259	-97.05003	LNM 51/15, 8th Dist	110	11314_1	1/7/2016
+11314	Delete	Aransas Bay Alternate Route Danger Daybeacon B	W "B"	N 27 51' 50.190"	W 097 02' 58.326"	27.86394	-97.04954	LNM 51/15, 8th Dist	110	11314_1	1/7/2016
+11314	Add	Aransas Bay Alternate Route Danger Buoy B	W Or "B"	N 27 51' 50.190"	W 097 02' 58.326"	27.86394	-97.04954	LNM 51/15, 8th Dist	110	11314_1	1/7/2016
+11314	Relocate	Aransas Bay Daybeacon 23	G "23" Ra Ref	N 28 02' 49.177"	W 096 59' 10.113"	28.04699	-96.98615	LNM 47/15, 8th Dist	110	11314_1	12/10/2015
+11314	Relocate	Aransas Bay Buoy 4	R N "4"	N 28 07' 16.303"	W 096 55' 23.716"	28.12119	-96.92326	LNM 46/15, 8th Dist	110	11314_1	11/26/2015
+11314	Relocate	Aransas-Corpus Christi Bay Cutoff Channel Light 16	Fl R 4s 17ft 3M "16"	N 27 57' 14.896"	W 097 05' 55.155"	27.95414	-97.09866	LNM 45/15, 8th Dist	110	11314_1	11/19/2015
+11314	Relocate	Aransas Bay Daybeacon 18	R "18" Ra Ref	N 28 04' 14.247"	W 096 58' 00.996"	28.07062	-96.96694	LNM 45/15, 8th Dist	110	11314_1	11/19/2015
+11314	Change	tabulation - PORT ARANSAS AND ARANSAS PASS	tabulation - PORT ARANSAS AND ARANSAS PASS	N 27 53' 03.000"	W 097 10' 28.000"	27.88417	-97.17445	LNM 45/15, 8th Dist	110	11314_1	11/5/2015
+11314	Change	tabulation - PORT ARANSAS AND ARANSAS PASS	tabulation - PORT ARANSAS AND ARANSAS PASS	N 27 51' 25.000"	W 097 06' 07.000"	27.85695	-97.10194	LNM 36/15, 8th Dist	110	11314_1	11/5/2015
+11314	Relocate	Aransas Bay Alternate Route Danger Daybeacon A	W "A"	N 27 51' 45.312"	W 097 03' 00.123"	27.86259	-97.05003	LNM 32/15, 8th Dist	110	11314_1	8/27/2015
+11314	Relocate	Port Aransas Harbor Light 3	Q G 17ft "3"	N 27 50' 30.093"	W 097 03' 42.605"	27.84169	-97.06184	LNM 32/15, 8th Dist	110	11314_1	8/27/2015
+11314	Change	Depth Legend - Channel to Fulton to:	5 1/2 FT APR 2015	N 28 03' 33.000"	W 097 01' 53.000"	28.05917	-97.03139	LNM 31/15, 8th Dist	110	11314_1	7/30/2015
+11314	Change	Depth Legend - Fulton Turning Basin to:	6 FT APR 2015	N 28 03' 42.000"	W 097 01' 58.000"	28.06167	-97.03278	LNM 31/15, 8th Dist	110	11314_1	7/30/2015

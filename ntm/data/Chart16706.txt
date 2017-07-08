@@ -1,0 +1,2 @@
+Chart: 16706, Current Edition: 11, Print Date: Mar. /2015, Passage Canal incl. Port of Whittier;Port of Whittier
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

@@ -1,0 +1,9 @@
+Chart: 16423, Current Edition: 3, Print Date: Mar. /2015, Shemya Island to Attu Island
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16423	Delete	Regulated Navigation Area Danger Area 	 Chart No. 1: N1.2	N 52 27' 44.240"	E 174 14' 07.156"	52.46229	174.2353	LNM 23/16, 9th Dist	2927	16423_1	6/2/2016
+16423	Delete	Restricted Zone Label	DANGER AREA 334.1290 (see note A)	N 52 22' 26.160"	E 173 58' 30.681"	52.37393	173.9752	LNM 23/16, 9th Dist	2927	16423_1	6/2/2016
+16423	Delete	Restricted Zone Label	DANGER AREA 334.1290 (see note A)	N 52 31' 56.560"	E 174 27' 18.116"	52.53238	174.455	LNM 23/16, 9th Dist	2927	16423_1	6/2/2016
+16423	Add	Area to be avoided label	AREA TO BE AVOIDED (see note B)	N 52 36' 00.000"	E 173 54' 43.978"	52.6	173.9122	LNM 50/15, 9th Dist	2927	16423_1	2/25/2016
+16423	Add	NOTE B AREA TO BE AVOIDED (ATBA)	NOTE B AREA TO BE AVOIDED (ATBA): All ships 400 gross tonnage and upwards solely in transit should avoid the Area. This Area is IMO-Adopted (MSC IMO SN.1/Circ.331); to be implemented at 0000 UTC, JAN 1, 2016.	N 52 14' 18.000"	E 174 13' 11.016"	52.23833	174.2197	LNM 50/15, 9th Dist	2927	16423_1	12/17/2015
+16423	Add	Dashed Magenta Area to be Avoided Limit PT 1 OF 2	**Chart No. 1: M:14**	N 52 13' 37.800"	E 174 35' 59.747"	52.22717	174.5999	LNM 50/15, 9th Dist	2927	16423_1	12/17/2015
+16423	Add	Dashed Magenta Area to be Avoided Limit PT 2 OF 2	**Chart No. 1: M:14**	N 52 12' 00.390"	E 174 31' 42.448"	52.20011	174.5285	LNM 50/15, 9th Dist	2927	16423_1	12/17/2015

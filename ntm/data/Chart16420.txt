@@ -1,0 +1,5 @@
+Chart: 16420, Current Edition: 12, Print Date: Dec. /2015, Near Islands Buldir Island to Attu Island
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16420	Delete	Regulated Navigation Area Danger Area 	Chart No. 1: N1.2	N 52 24' 21.050"	E 174 23' 29.601"	52.40585	174.3916	LNM 23/16, 9th Dist	2468	16420_1	6/2/2016
+16420	Delete	Restricted Zone Label	DANGER AREA 334.1290 (see note A)	N 52 09' 33.540"	E 174 07' 22.365"	52.15932	174.1229	LNM 23/16, 9th Dist	2468	16420_1	6/2/2016
+16420	Delete	Restricted Zone Label	DANGER AREA 334.1290 (see note A)	N 52 23' 25.110"	E 174 41' 59.110"	52.39031	174.6998	LNM 23/16, 9th Dist	2468	16420_1	6/2/2016

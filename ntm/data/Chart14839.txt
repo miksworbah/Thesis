@@ -1,0 +1,12 @@
+Chart: 14839, Current Edition: 38, Print Date: May. /2015, Cleveland Harbor, including lower Cuyahoga River
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14839	Change	tabulation - Cuyahoga and Old Rivers Channel	tabulation - Cuyahoga and Old Rivers Channel	N 41 28' 18.000"	W 081 43' 17.000"	41.47167	-81.72139	LNM 20/17, 9th Dist	1161	14839_1	5/11/2017
+14839	Change	tabulation - Cleveland Harbor Channel	tabulation - Cleveland Harbor Channel	N 41 28' 37.000"	W 081 43' 16.000"	41.47694	-81.72111	LNM 20/17, 9th Dist	1161	14839_1	5/11/2017
+14839	Relocate	Cleveland Harbor West Basin Channel Light 8	Fl R 6s 31ft 4 St M "8"	N 41 29' 45.312"	W 081 43' 37.476"	41.49592	-81.72707	LNM 12/17, 9th Dist	1161	14839_1	3/30/2017
+14839	Relocate	Gordon Park Boat Basin Light 1	Fl G 2.5s 40ft 4 St M "1"	N 41 32' 33.576"	W 081 38' 17.514"	41.54266	-81.6382	LNM 08/17, 9th Dist	1161	14839_1	3/2/2017
+14839	Relocate	Gordon Park Disposal Light A	Fl 4s 40ft 7 St M "A"	N 41 32' 52.812"	W 081 38' 00.696"	41.548	-81.63353	LNM 08/17, 9th Dist	1161	14839_1	3/2/2017
+14839	Change	tabulation - CUYAHOGA AND OLD RIVERS CHANNEL DEPTHS	tabulation - CUYAHOGA AND OLD RIVERS CHANNEL DEPTHS	N 41 28' 18.200"	W 081 43' 16.600"	41.47172	-81.72128	LNM 41/16, 9th Dist	1161	14839_1	10/6/2016
+14839	Change	tabulation - CLEVELAND HARBOR CHANNEL DEPTHS	tabulation - CLEVELAND HARBOR CHANNEL DEPTHS	N 41 28' 37.000"	W 081 43' 16.000"	41.47694	-81.72111	LNM 01/16, 9th Dist	1161	14839_1	1/7/2016
+14839	Change	Cleveland Harbor Main Entrance Light	Fl R 6s 63ft 11 St M HORN (MRASS) (Floodlighted) 	N 41 30' 32.210"	W 081 43' 04.350"	41.50895	-81.71787	LNM 38/15, 9th Dist	1161	14839_1	12/3/2015
+14839	Add	Note: MARINER ACTIVATED SOUND SIGNAL: CLEVELAND HARBOR MAIN ENTRANCE LIGHT (MRASS)	MARINER ACTIVATED SOUND SIGNAL: CLEVELAND HARBOR MAIN ENTRANCE LIGHT (MRASS) Horn is activated by keying the mic 5 times on VHF-FM Ch 83A.	N 41 30' 32.210"	W 081 43' 04.350"	41.50895	-81.71787	LNM 38/15, 9th Dist	1161	14839_1	12/3/2015
+14839	Change	tabulation - CUYAHOGA AND OLD RIVERS CHANNEL DEPTHS	tabulation - CUYAHOGA AND OLD RIVERS CHANNEL DEPTHS	N 41 28' 18.200"	W 081 43' 16.600"	41.47172	-81.72128	LNM 34/15, 9th Dist	1161	14839_1	8/27/2015

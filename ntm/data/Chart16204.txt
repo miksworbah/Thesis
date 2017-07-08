@@ -1,0 +1,3 @@
+Chart: 16204, Current Edition: 7, Print Date: Oct. /2014, Port Clarence and approaches
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16204	Add	Port Clarence Pilot Station	Pilots **Chart No 1 T:1.1**	N 65 19' 00.000"	W 166 51' 00.000"	65.31667	-166.85	LNM 05/16, 17th Dist	2451	16204_1	2/11/2016

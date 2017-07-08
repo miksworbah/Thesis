@@ -1,0 +1,2 @@
+Chart: 16599, Current Edition: 8, Print Date: Feb. /2015, Bays and Anchorages, Kodiak Island Karluk Anchorage;Larsen Bay;Uyak Anchorage
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

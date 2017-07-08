@@ -1,0 +1,7 @@
+Chart: 25667, Current Edition: 21, Print Date: Sep. /2014, Bahia de Fajardo and Approaches
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+25667	Delete	Las Croabas Daybeacon 3	G "3"	N 18 21' 50.026"	W 065 37' 23.381"	18.3639	-65.62316	LNM 17/17, 7th Dist	396	25667_1	5/4/2017
+25667	Add	Las Croabas Buoy 3	G C "3"	N 18 21' 50.309"	W 065 37' 24.297"	18.36398	-65.62341	LNM 17/17, 7th Dist	396	25667_1	5/4/2017
+25667	Change	Cabo San Juan Light	Fl 15s 260ft 11M	N 18 22' 53.510"	W 065 37' 05.187"	18.38153	-65.61811	LNM 49/15, 7th Dist	396	25667_1	12/31/2015
+25667	Change	Fifteen-Foot Spot Lighted Buoy 1	G "1" Fl G 2.5s AIS	N 18 20' 48.283"	W 065 36' 55.790"	18.34674	-65.61549	LNM 48/15, 7th Dist	396	25667_1	12/10/2015
+25667	Change	Bajo Onaway Buoy 3	G C "3" AIS	N 18 20' 46.143"	W 065 37' 24.868"	18.34615	-65.62357	LNM 48/15, 7th Dist	396	25667_1	12/10/2015

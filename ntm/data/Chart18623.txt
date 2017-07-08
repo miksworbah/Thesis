@@ -1,0 +1,5 @@
+Chart: 18623, Current Edition: 12, Print Date: Jan. /2012, Cape Mendocino and vicinity
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18623	Relocate	Blunts Reef Lighted Bell Buoy 40	R "40" Fl R 2.5s BELL	N 40 26' 45.035"	W 124 29' 55.236"	40.44584	-124.4987	LNM 44/14, 11th Dist	1810	18623_1	11/13/2014
+18623	Delete	Punta Gorda Lighted Whistle Buoy 38	R "38" Fl R 6s WHIS	N 40 14' 54.062"	W 124 22' 13.677"	40.24835	-124.3705	LNM 20/14, 11th Dist	1810	18623_1	5/29/2014
+18623	Delete	CAPE MENDCINO LIGHT	Fl 15s 515ft 18M	N 40 26' 23.203"	W 124 24' 21.589"	40.43978	-124.406	LNM 23/13, 11th Dist	1810	18623_1	6/17/2013

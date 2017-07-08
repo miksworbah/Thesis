@@ -1,0 +1,25 @@
+Chart: 13298, Current Edition: 11, Print Date: Jun. /2013, Kennebec River Bath to Courthouse Point
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+13298	Delete	Bridge Construction Label	Bridge under construction (see note	N 44 05' 27.500"	W 069 46' 57.200"	44.09097	-69.78255	LNM 07/17, 1st Dist	2036	13298_1	3/16/2017
+13298	Delete	CAUTION Fixed and floating obstructions	CAUTION Fixed and floating obstructions, some submerged, may exist within the magenta tinted bridge construction area. Mariners are advised to proceed with caution:	N 44 05' 36.000"	W 069 49' 38.000"	44.09333	-69.82722	LNM 07/17, 1st Dist	2036	13298_1	3/16/2017
+13298	Add	Fixed Bridge PT 1 OF 4	Chart No. 1: D22	N 44 05' 30.470"	W 069 47' 04.130"	44.0918	-69.78448	LNM 07/17, 1st Dist	2036	13298_1	3/16/2017
+13298	Add	Fixed Bridge PT 2 OF 4	Chart No. 1: D22	N 44 05' 27.940"	W 069 46' 58.560"	44.09109	-69.78294	LNM 07/17, 1st Dist	2036	13298_1	3/16/2017
+13298	Add	Fixed Bridge PT 3 OF 4	Chart No. 1: D22	N 44 05' 26.860"	W 069 46' 56.160"	44.09079	-69.78226	LNM 07/17, 1st Dist	2036	13298_1	3/16/2017
+13298	Add	Fixed Bridge PT 4 OF 4	Chart No. 1: D22	N 44 05' 23.960"	W 069 46' 49.730"	44.08999	-69.78048	LNM 07/17, 1st Dist	2036	13298_1	3/16/2017
+13298	Add	Fixed Bridge Label	FIXED BRIDGE HOR CL 207 FT VERT CL 73 FT	N 44 05' 27.610"	W 069 46' 57.830"	44.091	-69.78273	LNM 07/17, 1st Dist	2036	13298_1	3/16/2017
+13298	Delete	Swing Bridge PT 1 OF 2	Chart No. 1: D23.2	N 44 05' 29.990"	W 069 47' 04.760"	44.09166	-69.78465	LNM 07/17, 1st Dist	2036	13298_1	3/16/2017
+13298	Delete	Swing Bridge PT 2 OF 2	Chart No. 1: D23.2	N 44 05' 22.890"	W 069 46' 51.740"	44.08969	-69.78104	LNM 07/17, 1st Dist	2036	13298_1	3/16/2017
+13298	Delete	Swing Bridge Label	SWING BRIDGE HOR CL EAST DRAW 63 FT HOR CL WEST DRAW 58 FT VERT CL 15 FT 	N 44 05' 26.620"	W 069 46' 58.330"	44.09073	-69.78287	LNM 07/17, 1st Dist	2036	13298_1	3/16/2017
+13298	Delete	Bridge Construction PT 1 OF 2	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 44 05' 23.980"	W 069 46' 49.700"	44.09	-69.78047	LNM 07/17, 1st Dist	2036	13298_1	3/16/2017
+13298	Delete	Bridge Construction PT 2 OF 2	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 44 05' 30.700"	W 069 47' 03.900"	44.09186	-69.78442	LNM 07/17, 1st Dist	2036	13298_1	3/16/2017
+13298	Change	Overhead Power Cable Label	OVHD PWR CABS AUTH CL 105 FT	N 44 00' 06.000"	W 069 49' 21.500"	44.00167	-69.82264	LNM 49/15, 1st Dist	2036	13298_1	12/3/2015
+13298	Change	Overhead Power Cable Label	OVHD PWR CABS AUTH CL 105 FT	N 44 00' 06.000"	W 069 49' 21.500"	44.00167	-69.82264	LNM 49/15, 1st Dist	2037	13298_2	12/3/2015
+13298	Relocate	UPPER KENNEBEC RIVER BUOY 16	R N "16"	N 43 59' 20.745"	W 069 49' 44.178"	43.9891	-69.82894	LNM 26/15, 1st Dist	2037	13298_2	7/16/2015
+13298	Add	Bridge Construction Label	Bridge under construction (see note)	N 44 05' 27.500"	W 069 46' 57.200"	44.09097	-69.78255	LNM 19/14, 1st Dist	2036	13298_1	5/8/2014
+13298	Add	Bridge Construction PT 1 OF 2	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 44 05' 23.980"	W 069 46' 49.700"	44.09	-69.78047	LNM 19/14, 1st Dist	2036	13298_1	5/8/2014
+13298	Add	Bridge Construction PT 2 OF 2	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 44 05' 30.700"	W 069 47' 03.900"	44.09186	-69.78442	LNM 19/14, 1st Dist	2036	13298_1	5/8/2014
+13298	Add	Note - CAUTION:	Fixed and floating obstructions, some submerged, may exist within the magenta tinted bridge construction area. Mariners are advised to proceed with caution.	N 44 05' 20.000"	W 069 48' 56.000"	44.08889	-69.81555	LNM 19/14, 1st Dist	2036	13298_1	5/8/2014
+13298	Add	Low Water Line PT 1 OF 4	(Chart No. 1: Ca)	N 44 04' 59.880"	W 069 47' 59.720"	44.0833	-69.79992	LNM 05/14, 1st Dist	2036	13298_1	1/30/2014
+13298	Add	Low Water Line PT 2 OF 4	(Chart No. 1: Ca)	N 44 05' 01.050"	W 069 47' 58.310"	44.08363	-69.79953	LNM 05/14, 1st Dist	2036	13298_1	1/30/2014
+13298	Add	Low Water Line PT 3 OF 4	(Chart No. 1: Ca)	N 44 05' 01.580"	W 069 47' 58.310"	44.08377	-69.79953	LNM 05/14, 1st Dist	2036	13298_1	1/30/2014
+13298	Add	Low Water Line PT 4 OF 4	(Chart No. 1: Ca)	N 44 05' 02.460"	W 069 47' 59.610"	44.08401	-69.79989	LNM 05/14, 1st Dist	2036	13298_1	1/30/2014

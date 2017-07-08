@@ -1,0 +1,3 @@
+Chart: 14828, Current Edition: 7, Print Date: Jun. /2016, Erie to Geneva
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14828	Change	Erie Harbor Entrance Lighted Bell Buoy 1 AIS	G "1" Fl G 4s BELL AIS	N 42 09' 49.208"	W 080 03' 10.709"	42.16367	-80.05298	LNM 50/16, 9th Dist	1364	14828_1	1/19/2017

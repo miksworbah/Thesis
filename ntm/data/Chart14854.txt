@@ -1,0 +1,4 @@
+Chart: 14854, Current Edition: 15, Print Date: Aug. /2016, Trenton Channel and River Rouge;River Rouge
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14854	Relocate	Trenton Channel Lighted Buoy 11	G "11" Fl G 2.5s	N 42 09' 23.518"	W 083 09' 57.944"	42.15653	-83.16609	LNM 04/17, 9th Dist	1310	14854_1	2/2/2017
+14854	Change	River Rouge Canal Entrance Lighted Buoy 2 AIS	R "2" Fl R 4s AIS	N 42 16' 31.188"	W 083 06' 33.297"	42.27533	-83.10925	LNM 50/16, 9th Dist	1311	14854_2	1/19/2017

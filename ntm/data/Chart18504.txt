@@ -1,0 +1,140 @@
+Chart: 18504, Current Edition: 66, Print Date: Jul. /2006, Willapa Bay;Toke Pt.
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18504	Change	Willapa River Light 59	Fl G 2.5s 15ft 4M "59"	N 46 40' 45.516"	W 123 45' 57.618"	46.67931	-123.766	LNM 11/17, 13th Dist	1925	18504_3	3/16/2017
+18504	Relocate	Stanley Channel Light 4	Fl R 4s 15ft 5M "4"	N 46 29' 01.800"	W 123 57' 55.221"	46.48383	-123.9653	LNM 09/17, 13th Dist	1734	18504_1	3/2/2017
+18504	Change	Stanley Channel Light 4	Fl R 4s 15ft 5M "4"	N 46 29' 01.800"	W 123 57' 55.221"	46.48383	-123.9653	LNM 09/17, 13th Dist	1734	18504_1	3/2/2017
+18504	Relocate	Nahcotta Mooring Basin Light 2	Fl R 4s 15ft 5M "2"	N 46 30' 05.499"	W 124 01' 25.737"	46.50153	-124.0238	LNM 09/17, 13th Dist	1734	18504_1	3/2/2017
+18504	Change	Nahcotta Mooring Basin Light 2	Fl R 4s 15ft 5M "2"	N 46 30' 05.499"	W 124 01' 25.737"	46.50153	-124.0238	LNM 09/17, 13th Dist	1734	18504_1	3/2/2017
+18504	Relocate	Bay Center Channel Light 1	Fl G 2.5s 24ft 4M "1"	N 46 38' 39.782"	W 123 59' 24.736"	46.64438	-123.9902	LNM 49/16, 13th Dist	1734	18504_1	12/8/2016
+18504	Relocate	Bay Center Channel Light 11	Fl G 4s 18ft 5M "11" Ra Ref	N 46 38' 51.060"	W 123 57' 05.526"	46.64752	-123.9515	LNM 39/16, 13th Dist	1734	18504_1	10/6/2016
+18504	Relocate	Stanley Point Junction Daybeacon	RG Bn	N 46 27' 40.453"	W 123 56' 14.459"	46.46124	-123.9373	LNM 39/16, 13th Dist	1734	18504_1	10/6/2016
+18504	Change	Bay Center Channel Light 11	Fl G 4s 18ft 5M "11" Ra Ref	N 46 38' 51.060"	W 123 57' 05.526"	46.64752	-123.9515	LNM 39/16, 13th Dist	1734	18504_1	10/6/2016
+18504	Change	Stanley Point Junction Daybeacon	RG Bn	N 46 27' 40.453"	W 123 56' 14.459"	46.46124	-123.9373	LNM 39/16, 13th Dist	1734	18504_1	10/6/2016
+18504	Change	Willapa Bay Entrance Light 11	Fl G 6s 15ft 4M "11"	N 46 43' 06.660"	W 124 02' 14.500"	46.71852	-124.0374	LNM 31/16, 13th Dist	1734	18504_1	8/4/2016
+18504	Relocate	Stanley Channel Light 4	Fl R 4s 15ft 4M "4"	N 46 29' 01.663"	W 123 57' 55.218"	46.4838	-123.9653	LNM 46/15, 13th Dist	1734	18504_1	11/19/2015
+18504	Change	Willapa River Light 33	Fl G 4s 22ft 5M "33"	N 46 42' 05.354"	W 123 49' 58.589"	46.70149	-123.8329	LNM 35/15, 13th Dist	1734	18504_1	9/10/2015
+18504	Add	Willapa Bay Entrance Buoy D	Y C "D"	N 46 43' 36.085"	W 124 03' 59.671"	46.72669	-124.0666	LNM 18/15, 13th Dist	1734	18504_1	5/14/2015
+18504	Add	Willapa Bay Entrance Lighted Buoy C	Y "C" Fl Y 2.5s	N 46 44' 02.584"	W 124 05' 59.873"	46.73405	-124.1	LNM 18/15, 13th Dist	1734	18504_1	5/14/2015
+18504	Change	Bay Center Channel Light 11	Fl G 4s 18ft 5M "11"	N 46 38' 50.820"	W 123 57' 05.749"	46.64745	-123.9516	LNM 12/15, 13th Dist	1734	18504_1	3/26/2015
+18504	Relocate	Bay Center Channel Light 11	Fl G 4s 18ft 5M "11"	N 46 38' 50.820"	W 123 57' 05.749"	46.64745	-123.9516	LNM 12/15, 13th Dist	1734	18504_1	3/26/2015
+18504	Add	Sounding in Feet	4	N 46 37' 50.250"	W 123 56' 51.040"	46.63063	-123.9475	LNM 27/14, 13th Dist	1734	18504_1	7/10/2014
+18504	Delete	label	(see tabublation)	N 46 37' 58.420"	W 123 56' 39.410"	46.63289	-123.9443	LNM 27/14, 13th Dist	1734	18504_1	7/10/2014
+18504	Add	Sounding in Feet	4	N 46 37' 47.610"	W 123 56' 59.240"	46.62989	-123.9498	LNM 27/14, 13th Dist	1734	18504_1	7/10/2014
+18504	Delete	tabulation -	BAY CENTER CHANNEL	N 46 33' 42.000"	W 123 53' 00.000"	46.56167	-123.8833	LNM 27/14, 13th Dist	1734	18504_1	7/10/2014
+18504	Add	Sounding in Feet	9	N 46 37' 58.710"	W 123 56' 44.520"	46.63298	-123.9457	LNM 27/14, 13th Dist	1734	18504_1	7/10/2014
+18504	Add	Sounding in Feet	6	N 46 38' 03.290"	W 123 56' 40.000"	46.63425	-123.9444	LNM 27/14, 13th Dist	1734	18504_1	7/10/2014
+18504	Delete	Channel Limits PT 1 OF 6	Chart No. 1: I20	N 46 38' 04.510"	W 123 56' 41.010"	46.63459	-123.9447	LNM 27/14, 13th Dist	1734	18504_1	7/10/2014
+18504	Delete	Channel Limits PT 2 OF 6	Chart No. 1: I20	N 46 37' 51.730"	W 123 56' 47.280"	46.63103	-123.9465	LNM 27/14, 13th Dist	1734	18504_1	7/10/2014
+18504	Delete	Channel Limits PT 3 OF 6	Chart No. 1: I20	N 46 37' 44.530"	W 123 57' 10.530"	46.62904	-123.9529	LNM 27/14, 13th Dist	1734	18504_1	7/10/2014
+18504	Delete	Channel Limits PT 4 OF 6	Chart No. 1: I20	N 46 38' 04.300"	W 123 56' 39.830"	46.63453	-123.9444	LNM 27/14, 13th Dist	1734	18504_1	7/10/2014
+18504	Delete	Channel Limits PT 5 OF 6	Chart No. 1: I20	N 46 37' 50.980"	W 123 56' 46.210"	46.63083	-123.9462	LNM 27/14, 13th Dist	1734	18504_1	7/10/2014
+18504	Delete	Channel Limits PT 6 OF 6	Chart No. 1: I20	N 46 37' 43.890"	W 123 57' 08.860"	46.62886	-123.9525	LNM 27/14, 13th Dist	1734	18504_1	7/10/2014
+18504	Add	Sounding in Feet	9	N 46 37' 53.930"	W 123 56' 46.370"	46.63165	-123.9462	LNM 27/14, 13th Dist	1734	18504_1	7/10/2014
+18504	Delete	Willapa Bay Approach Lighted Whistle Buoy "W"	RW "W" Mo (A) WHIS	N 46 44' 00.000"	W 124 11' 00.000"	46.73333	-124.1833	LNM 18/14, 13th Dist	1734	18504_1	5/22/2014
+18504	Change	Willapa River Light 13 	Fl G 4s15ft 4M "13"	N 46 42' 01.194"	W 123 54' 32.502"	46.70033	-123.909	LNM 50/13, 13th Dist	1734	18504_1	12/16/2013
+18504	Add	Bay Center Channel Daybeacon 13	 G "13" Priv	N 46 38' 24.840"	W 123 56' 40.860"	46.64023	-123.9447	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	Niawiakum River Channel Daybeacon A	G "A" Priv	N 46 38' 14.580"	W 123 56' 35.820"	46.63738	-123.9433	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	Bay Center Channel Daybeacon 16	R "16" Priv	N 46 37' 48.240"	W 123 56' 59.280"	46.63007	-123.9498	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	Nemah River Channel Daybeacon 2	R "2" Priv	N 46 32' 54.840"	W 123 56' 54.240"	46.54856	-123.9484	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	Nemah River Channel Daybeacon 3	G "3" Priv	N 46 32' 54.240"	W 123 56' 35.400"	46.5484	-123.9432	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	Nemah River Channel Daybeacon 6	R "6" Priv	N 46 32' 40.380"	W 123 56' 24.180"	46.54455	-123.94	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	Nemah River Channel Daybeacon 8	R "8" Priv	N 46 32' 31.800"	W 123 56' 15.600"	46.54217	-123.9377	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	Nemah River Channel Daybeacon 10	R "10" Priv	N 46 32' 24.660"	W 123 55' 57.120"	46.54018	-123.9325	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	Nemah River Channel Daybeacon 14	R "14" Priv	N 46 32' 16.380"	W 123 55' 22.140"	46.53788	-123.9228	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	Nemah River Channel Daybeacon 18	R "18" Priv	N 46 32' 13.800"	W 123 54' 43.680"	46.53717	-123.9121	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	Nemah River Channel Daybeacon 20	R "20" Priv	N 46 32' 08.460"	W 123 54' 31.320"	46.53568	-123.9087	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	Nemah River Channel Daybeacon 22	R "22" Priv	N 46 32' 06.420"	W 123 54' 20.220"	46.53512	-123.9056	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	Nemah River Channel Daybeacon 4	R "4" Priv	N 46 32' 45.120"	W 123 56' 39.600"	46.54587	-123.9443	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	Nemah River Channel Daybeacon 16	R "16" Priv	N 46 32' 14.460"	W 123 55' 00.900"	46.53735	-123.9169	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	North River Channel Daybeacon 2	R "2" Priv	N 46 42' 20.100"	W 123 54' 27.240"	46.70558	-123.9076	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	North River Channel Daybeacon 6	R "6" Priv	N 46 42' 53.520"	W 123 54' 06.180"	46.71487	-123.9017	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	North River Channel Daybeacon 8	R "8" Priv	N 46 43' 12.780"	W 123 54' 06.780"	46.72021	-123.9019	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	North River Channel Daybeacon 10	R "10" Priv	N 46 43' 29.580"	W 123 54' 13.560"	46.72488	-123.9038	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	North River Channel Daybeacon 12	R "12" Priv	N 46 43' 41.760"	W 123 54' 20.640"	46.72827	-123.9057	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	North River Channel Daybeacon 14	R "14" Priv	N 46 43' 54.960"	W 123 54' 35.280"	46.73193	-123.9098	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	North River Channel Daybeacon 16	R "16" Priv	N 46 44' 06.360"	W 123 54' 42.720"	46.7351	-123.9119	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	North River Channel Daybeacon 17	G "17" Priv	N 46 44' 16.320"	W 123 54' 47.220"	46.73787	-123.9131	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	North River Channel Daybeacon 18	R "18" Priv	N 46 44' 24.300"	W 123 54' 33.540"	46.74008	-123.9093	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	North River Channel Daybeacon 19	G "19" Priv	N 46 44' 32.340"	W 123 54' 32.580"	46.74232	-123.909	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	North River Channel Daybeacon 22	R "22" Priv	N 46 44' 43.260"	W 123 54' 17.160"	46.74535	-123.9048	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	North River Channel Daybeacon 24	R "24" Priv	N 46 44' 42.780"	W 123 54' 09.300"	46.74522	-123.9026	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	North River Channel Daybeacon 26	R "26" Priv	N 46 44' 40.080"	W 123 53' 54.960"	46.74446	-123.8986	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	North River Channel Daybeacon 27	G "27" Priv	N 46 44' 42.720"	W 123 53' 41.580"	46.7452	-123.8949	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	North River Channel Daybeacon 28	R "28" Priv	N 46 44' 39.660"	W 123 53' 39.360"	46.74435	-123.8943	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	North River Channel Daybeacon 29	G "29" Priv	N 46 44' 44.280"	W 123 53' 31.920"	46.74563	-123.8922	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Add	North River Channel Daybeacon 30	R "30" Priv	N 46 44' 43.560"	W 123 53' 24.000"	46.74543	-123.89	LNM 47/13, 13th Dist	1734	18504_1	12/2/2013
+18504	Delete	Note B	Bay Center Channel entrance is subject to continual changes. Buoys "4", "8" and "10" are not charted and will be relocated as necessary to best mark the channel. 	N 46 38' 18.000"	W 123 55' 09.000"	46.63833	-123.9192	LNM 13/13, 13th Dist	1734	18504_1	4/23/2013
+18504	Delete	Palix River Buoy 16	R N "16"	N 46 37' 52.092"	W 123 56' 48.348"	46.63114	-123.9468	LNM 13/13, 13th Dist	1734	18504_1	4/23/2013
+18504	Delete	Legend	(see note B)	N 46 38' 30.000"	W 123 58' 52.000"	46.64167	-123.9811	LNM 13/13, 13th Dist	1734	18504_1	4/23/2013
+18504	Delete	Legend	(see note B)	N 46 38' 37.000"	W 123 57' 38.000"	46.64361	-123.9606	LNM 13/13, 13th Dist	1734	18504_1	4/23/2013
+18504	Change	Bay Center Channel Light 6 	Fl R 4s 21ft 5M "6"	N 46 38' 24.150"	W 123 58' 20.190"	46.64004	-123.9723	LNM 05/13, 13th Dist	1734	18504_1	2/15/2013
+18504	Relocate	Willapa River Range B Front Light	Q 25ft "B"	N 46 42' 33.769"	W 123 51' 17.995"	46.70938	-123.855	LNM 34/12, 13th Dist	1734	18504_1	8/23/2012
+18504	Change	Willapa River Range B Front Light	Q 25ft "B"	N 46 42' 33.769"	W 123 51' 17.995"	46.70938	-123.855	LNM 34/12, 13th Dist	1734	18504_1	8/23/2012
+18504	Relocate	Willapa River Range B Rear Light	Iso 6s 56ft "B"	N 46 42' 43.887"	W 123 50' 26.677"	46.71219	-123.8407	LNM 34/12, 13th Dist	1734	18504_1	8/23/2012
+18504	Change	Toke Point Jetty Light 3 	Fl G 4s 13ft 4M "3"	N 46 42' 23.348"	W 123 57' 58.603"	46.70649	-123.9663	LNM 17/12, 13th Dist	1926	18504_2	5/7/2012
+18504	Delete	Stanley Point Junction Light 	Fl (2+1) R 6s 15ft 4M Ra Ref	N 46 27' 40.386"	W 123 56' 14.820"	46.46122	-123.9374	LNM 50/11, 13th Dist	1734	18504_1	12/28/2011
+18504	Add	Stanley Point Junction Daybeacon	R G Bn Ra Ref	N 46 27' 40.386"	W 123 56' 14.820"	46.46122	-123.9374	LNM 50/11, 13th Dist	1734	18504_1	12/28/2011
+18504	Add	Pile	Chart No. 1: F22	N 46 28' 36.550"	W 123 56' 54.600"	46.47682	-123.9485	LNM 31/11, 13th Dist	1734	18504_1	8/1/2011
+18504	Add	Pile	Chart No. 1: F22	N 46 23' 23.600"	W 123 57' 25.390"	46.38989	-123.9571	LNM 31/11, 13th Dist	1734	18504_1	8/1/2011
+18504	Add	Pile	Chart No. 1: F22	N 46 24' 41.010"	W 124 00' 02.170"	46.41139	-124.0006	LNM 31/11, 13th Dist	1734	18504_1	8/1/2011
+18504	Add	Pile	Chart No. 1: F22	N 46 25' 20.270"	W 124 00' 25.860"	46.4223	-124.0072	LNM 31/11, 13th Dist	1734	18504_1	8/1/2011
+18504	Add	Pile	Chart No. 1: F22	N 46 26' 26.850"	W 124 00' 14.430"	46.44079	-124.004	LNM 31/11, 13th Dist	1734	18504_1	8/1/2011
+18504	Add	Pile	Chart No. 1: F22	N 46 29' 13.300"	W 124 00' 59.830"	46.48703	-124.0166	LNM 31/11, 13th Dist	1734	18504_1	8/1/2011
+18504	Add	Pile	Chart No. 1: F22	N 46 29' 42.910"	W 124 01' 00.510"	46.49525	-124.0168	LNM 31/11, 13th Dist	1734	18504_1	8/1/2011
+18504	Add	Pile	Chart No. 1: F22	N 46 31' 10.990"	W 123 59' 53.220"	46.51972	-123.9981	LNM 31/11, 13th Dist	1734	18504_1	8/1/2011
+18504	Add	Pile	Chart No. 1: F22	N 46 31' 08.260"	W 123 59' 13.380"	46.51896	-123.9871	LNM 31/11, 13th Dist	1734	18504_1	8/1/2011
+18504	Add	Pile	Chart No. 1: F22	N 46 31' 05.820"	W 123 58' 37.840"	46.51828	-123.9772	LNM 31/11, 13th Dist	1734	18504_1	8/1/2011
+18504	Add	Pile	Chart No. 1: F22	N 46 27' 43.460"	W 123 56' 28.020"	46.46207	-123.9411	LNM 31/11, 13th Dist	1734	18504_1	8/1/2011
+18504	Relocate	Willapa River Light 40	Fl R 4s 15ft 3M "40".	N 46 41' 10.728"	W 123 49' 07.715"	46.68631	-123.8188	LNM 24/11, 13th Dist	1734	18504_1	6/20/2011
+18504	Change	Willapa River Light 40	Fl R 4s 15ft 3M "40".	N 46 41' 10.728"	W 123 49' 07.715"	46.68631	-123.8188	LNM 24/11, 13th Dist	1734	18504_1	6/20/2011
+18504	Relocate	Nahcotta Channel Daybeacon 12 	R "12"	N 46 32' 45.624"	W 123 59' 08.945"	46.54601	-123.9858	LNM 24/11, 13th Dist	1734	18504_1	6/20/2011
+18504	Relocate	Nahcotta Mooring Basin Light 1 	Q G 15ft 4M "1"	N 46 30' 02.206"	W 124 01' 29.043"	46.50061	-124.0247	LNM 24/11, 13th Dist	1734	18504_1	6/20/2011
+18504	Relocate	Nahcotta Mooring Basin Light 2 	Fl R 4s 15ft 4M "2"	N 46 30' 05.499"	W 124 01' 25.737"	46.50153	-124.0238	LNM 24/11, 13th Dist	1734	18504_1	6/20/2011
+18504	Add	regulated navigation area  PT 1 OF 3	(Chart No.1: N1.2)	N 46 44' 59.300"	W 124 08' 14.100"	46.74981	-124.1373	LNM 13/11, 13th Dist	1734	18504_1	3/28/2011
+18504	Add	regulated navigation area  PT 2 OF 3	(Chart No.1: N1.2)	N 46 44' 00.000"	W 124 10' 45.000"	46.73333	-124.1792	LNM 13/11, 13th Dist	1734	18504_1	3/28/2011
+18504	Add	regulated navigation area  PT 3 OF 3	(Chart No.1: N1.2)	N 46 35' 11.700"	W 124 03' 54.100"	46.58658	-124.065	LNM 13/11, 13th Dist	1734	18504_1	3/28/2011
+18504	Add	label	REGULATED NAVIGATION AREA 165.1325 (see note A)	N 46 37' 47.300"	W 124 00' 13.700"	46.62981	-124.0038	LNM 13/11, 13th Dist	1734	18504_1	3/28/2011
+18504	Add	label	REGULATED NAVIGATION AREA 165.1325 (see note A)	N 46 40' 59.600"	W 124 07' 18.000"	46.68322	-124.1217	LNM 13/11, 13th Dist	1734	18504_1	3/28/2011
+18504	Add	regulated navigation area  PT 1 OF 3	(Chart No.1: N1.2)	N 46 36' 00.000"	W 124 02' 21.400"	46.6	-124.0393	LNM 13/11, 13th Dist	1734	18504_1	3/28/2011
+18504	Add	regulated navigation area  PT 2 OF 3	(Chart No.1: N1.2)	N 46 36' 00.000"	W 124 00' 00.000"	46.6	-124	LNM 13/11, 13th Dist	1734	18504_1	3/28/2011
+18504	Add	regulated navigation area  PT 3 OF 3	(Chart No.1: N1.2)	N 46 42' 18.600"	W 123 57' 58.800"	46.70517	-123.9663	LNM 13/11, 13th Dist	1734	18504_1	3/28/2011
+18504	Add	regulated navigation area PT 1 OF 2	(Chart No.1: N1.2)	N 46 41' 59.600"	W 123 58' 04.900"	46.69989	-123.968	LNM 13/11, 13th Dist	1926	18504_2	3/28/2011
+18504	Add	label	REGULATED NAVIGATION AREA 165.1325 (see note A)	N 46 42' 03.000"	W 123 58' 09.000"	46.70083	-123.9692	LNM 13/11, 13th Dist	1926	18504_2	3/28/2011
+18504	Add	regulated navigation area PT 2 OF 2	(Chart No.1: N1.2)	N 46 42' 18.600"	W 123 57' 58.800"	46.70517	-123.9663	LNM 13/11, 13th Dist	1926	18504_2	3/28/2011
+18504	Delete	Willapa Bay Entrance Daybeacon "11"  	G "11"	N 46 43' 06.660"	W 124 02' 14.580"	46.71852	-124.0374	LNM 32/10, 13th Dist	1734	18504_1	8/18/2010
+18504	Add	Willapa Bay Entrance Light 11	Fl G 6s 15ft 3M "11" Ra Ref	N 46 43' 06.660"	W 124 02' 14.580"	46.71852	-124.0374	LNM 32/10, 13th Dist	1734	18504_1	8/18/2010
+18504	Relocate	Willapa River Light 19	Fl G 6s 15ft 4M "19"	N 46 42' 12.132"	W 123 53' 17.286"	46.70337	-123.8881	LNM 22/10, 13th Dist	1734	18504_1	6/16/2010
+18504	Relocate	Willapa River Daybeacon 26	R "26" Ra Ref	N 46 42' 27.990"	W 123 51' 23.790"	46.70778	-123.8566	LNM 22/10, 13th Dist	1734	18504_1	6/16/2010
+18504	Relocate	Willapa River Daybeacon 30	R "30"	N 46 42' 15.018"	W 123 50' 34.020"	46.70417	-123.8428	LNM 22/10, 13th Dist	1734	18504_1	6/16/2010
+18504	Relocate	Willapa River Daybeacon 44	R "44"	N 46 40' 12.899"	W 123 48' 50.657"	46.67025	-123.8141	LNM 22/10, 13th Dist	1734	18504_1	6/16/2010
+18504	Relocate	Willapa River Light 56	Q R 15ft 3M "56" 	N 46 40' 39.550"	W 123 46' 48.671"	46.67765	-123.7802	LNM 22/10, 13th Dist	1925	18504_3	6/16/2010
+18504	Relocate	Willapa River Light 59	Fl G 2.5s 15ft 3M "59"	N 46 40' 45.516"	W 123 45' 57.618"	46.67931	-123.766	LNM 22/10, 13th Dist	1925	18504_3	6/16/2010
+18504	Relocate	Nahcotta Channel Daybeacon 11	G "11"	N 46 33' 44.904"	W 123 57' 39.258"	46.56247	-123.9609	LNM 22/10, 13th Dist	1734	18504_1	6/16/2010
+18504	Relocate	Stanley Point Junction Light	Fl (2+1) R 6s 15ft 4M Ra Ref	N 46 27' 40.386"	W 123 56' 14.820"	46.46122	-123.9374	LNM 22/10, 13th Dist	1734	18504_1	6/16/2010
+18504	Relocate	Nemah River Channel Entrance Daybeacon 1	G "1"	N 46 34' 44.724"	W 123 57' 06.402"	46.57909	-123.9518	LNM 22/10, 13th Dist	1734	18504_1	6/16/2010
+18504	Relocate	Stanley Point Junction Light	Fl (2+1) R 6s 15ft 4M 	N 46 27' 40.293"	W 123 56' 14.515"	46.46119	-123.9374	LNM 38/09, 13th Dist	1734	18504_1	10/15/2009
+18504	Relocate	Willapa River Light 1	Fl G 2.5s 15ft 4M "1"	N 46 41' 50.169"	W 123 57' 30.210"	46.69727	-123.9584	LNM 36/09, 13th Dist	1734	18504_1	9/23/2009
+18504	Relocate	Willapa River Daybeacon 15	G "15' 	N 46 42' 07.697"	W 123 53' 57.153"	46.70214	-123.8992	LNM 36/09, 13th Dist	1734	18504_1	9/23/2009
+18504	Relocate	Willapa River Light 29	Fl G 2.5s 15ft 4M "29"	N 46 42' 26.029"	W 123 50' 39.479"	46.70723	-123.8443	LNM 36/09, 13th Dist	1734	18504_1	9/23/2009
+18504	Relocate	Willapa River Light 39	Fl G 4s 18ft 4M "39"	N 46 41' 12.547"	W 123 49' 01.642"	46.68682	-123.8171	LNM 36/09, 13th Dist	1734	18504_1	9/23/2009
+18504	Relocate	Willapa River Channel Light 51	Fl G 4s 15ft 4M "51"	N 46 39' 55.054"	W 123 47' 59.201"	46.66529	-123.7998	LNM 36/09, 13th Dist	1734	18504_1	9/23/2009
+18504	Relocate	Willapa River Channel Light 59	Fl G 2.5s 15ft 3M "59"	N 46 40' 45.516"	W 123 45' 57.618"	46.67931	-123.766	LNM 25/09, 13th Dist	1925	18504_3	7/6/2009
+18504	Relocate	Willapa River Channel Light 7	Fl G 4s 15ft 4M "7"	N 46 41' 44.107"	W 123 56' 17.243"	46.69559	-123.9381	LNM 14/09, 13th Dist	1734	18504_1	4/16/2009
+18504	Relocate	South Willapa Bay Light 3	Fl G 6s 15ft 4M "3"	N 46 41' 15.949"	W 123 59' 44.189"	46.68776	-123.9956	LNM 04/09, 13th Dist	1734	18504_1	2/5/2009
+18504	Relocate	Willapa River Daybeacon 30	R "30"	N 46 42' 15.034"	W 123 50' 34.355"	46.70418	-123.8429	LNM 04/09, 13th Dist	1734	18504_1	2/5/2009
+18504	Relocate	Nahcotta Channel Daybeacon 11	G "11"	N 46 33' 45.019"	W 123 57' 39.173"	46.5625	-123.9609	LNM 03/09, 13th Dist	1734	18504_1	1/28/2009
+18504	Relocate	Nemah River Channel Entrance Daybeacon 1	G "1"	N 46 34' 44.807"	W 123 57' 06.090"	46.57911	-123.9517	LNM 40/08, 13th Dist	1734	18504_1	10/8/2008
+18504	Relocate	Willapa River Channel Light 19	Fl G 6s 15ft 4M "19"	N 46 42' 12.360"	W 123 53' 17.234"	46.70343	-123.8881	LNM 40/08, 13th Dist	1734	18504_1	10/8/2008
+18504	Change	Label to: O'Meara Pt	O'Meara Pt	N 46 24' 07.000"	W 123 57' 03.000"	46.40194	-123.9508	LNM 52/07, 13th Dist	1734	18504_1	2/13/2008
+18504	Delete	Willapa River Range C Front Daybeacon	RB "C"	N 46 41' 23.355"	W 123 49' 10.586"	46.68982	-123.8196	LNM 36/07, 13th Dist	1734	18504_1	2/13/2008
+18504	Delete	Willapa River Range C Rear Daybeacon	RB "C"	N 46 41' 29.355"	W 123 49' 10.586"	46.69149	-123.8196	LNM 36/07, 13th Dist	1734	18504_1	2/13/2008
+18504	Add	Obstruction	Obstn  PA	N 46 34' 15.100"	W 124 04' 46.200"	46.57086	-124.0795	LNM 37/07, 13th Dist	1734	18504_1	2/13/2008
+18504	Add	Scientific Moorings PT 1 OF 2	Scientific Moorings (see note D)	N 46 34' 15.100"	W 124 04' 46.200"	46.57086	-124.0795	LNM 37/07, 13th Dist	1734	18504_1	2/13/2008
+18504	Add	Scientific Moorings PT 2 OF 2	Scientific Moorings (see note D)	N 46 34' 06.430"	W 124 11' 04.570"	46.56845	-124.1846	LNM 37/07, 13th Dist	1734	18504_1	2/13/2008
+18504	Add	NOTE D	Acoustic sensors, consisting of a concrete anchor and tethered instrument package floating above the anchor, are positioned approximately 1000 yards apart along the line. The depth of the floating portion of the instrument varies with local bottom depth. For instruments anchored at less than 150m depth (near shore), the floating portion of the instrument is within 5m of the bottom. For instruments anchored at 150m depth or greater, the instrument package is tethered approximately 150m below the water surface.	N 46 34' 28.000"	W 124 02' 36.000"	46.57444	-124.0433	LNM 37/07, 13th Dist	1734	18504_1	2/13/2008
+18504	Change	Willapa River Light 13	Fl G 4s 28ft 4M "13"	N 46 42' 01.194"	W 123 54' 32.502"	46.70033	-123.909	LNM 09/07, 13th Dist	1734	18504_1	2/13/2008
+18504	Relocate	Willapa River Light 13	Fl G 4s 28ft 5M "13"	N 46 42' 01.194"	W 123 54' 32.502"	46.70033	-123.909	LNM 43/06, 13th Dist	1734	18504_1	2/13/2008
+18504	Relocate	Willapa River Light 24	Fl R 4s 15ft 4M "24"	N 46 42' 24.595"	W 123 51' 53.646"	46.70683	-123.8649	LNM 43/06, 13th Dist	1734	18504_1	2/13/2008
+18504	Delete	Willapa Bay Ent Buoy 8	R N "8"	N 46 42' 03.500"	W 124 07' 31.000"	46.70097	-124.1253	LNM U./US, 13th Dist	1734	18504_1	2/13/2008
+18504	Delete	Sounding in Feet	2 ft	N 46 34' 59.500"	W 123 54' 33.400"	46.58319	-123.9093	LNM 42/06, 13th Dist	1734	18504_1	2/13/2008
+18504	Delete	Sounding in Feet	6 ft	N 46 35' 09.500"	W 123 54' 43.800"	46.58597	-123.9122	LNM 42/06, 13th Dist	1734	18504_1	2/13/2008

@@ -1,0 +1,49 @@
+Chart: 18583, Current Edition: 40, Print Date: Oct. /2011, Siuslaw River
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18583	Change	Tabulation - Siuslaw River Channel Depths	Tabulation - Siuslaw River Channel Depths	N 44 01' 10.000"	W 124 06' 18.000"	44.01944	-124.105	LNM 20/17, 13th Dist	1794	18583_1	5/11/2017
+18583	Change	Tabulation - SIUSLAW RIVER CHANNEL DEPTHS	Tabulation - SIUSLAW RIVER CHANNEL DEPTHS	N 44 01' 10.000"	W 124 06' 18.000"	44.01944	-124.105	LNM 13/17, 13th Dist	1794	18583_1	3/30/2017
+18583	Change	Tabulation - SIUSLAW RIVER CHANNEL DEPTHS	Tabulation - SIUSLAW RIVER CHANNEL DEPTHS	N 44 01' 10.000"	W 124 06' 18.000"	44.01944	-124.105	LNM 03/17, 13th Dist	1794	18583_1	1/12/2017
+18583	Change	Tabulation - SIUSLAW RIVER CHANNEL DEPTHS	Tabulation - SIUSLAW RIVER CHANNEL DEPTHS	N 44 01' 10.000"	W 124 06' 18.000"	44.01944	-124.105	LNM 43/16, 13th Dist	1794	18583_1	10/20/2016
+18583	Relocate	Siuslaw River Channel Light 14	Fl R 4s 15ft 4M "14"	N 43 59' 22.338"	W 124 07' 15.882"	43.98954	-124.1211	LNM 39/16, 13th Dist	1794	18583_1	10/6/2016
+18583	Change	Tabulation - Siuslaw River	Tabulation - Siuslaw River	N 44 01' 10.000"	W 124 06' 18.000"	44.01944	-124.105	LNM 39/16, 13th Dist	1794	18583_1	10/6/2016
+18583	Relocate	Siuslaw River Channel Daybeacon 29	G "29"	N 43 58' 07.140"	W 124 04' 54.252"	43.96865	-124.0817	LNM 38/16, 13th Dist	1794	18583_1	9/22/2016
+18583	Change	Siuslaw River Channel Daybeacon 29	G "29"	N 43 58' 07.140"	W 124 04' 54.252"	43.96865	-124.0817	LNM 38/16, 13th Dist	1794	18583_1	9/22/2016
+18583	Relocate	Siuslaw River Channel Light 9	Fl G 4s 15ft 4M "9"	N 44 00' 27.906"	W 124 07' 45.318"	44.00775	-124.1293	LNM 38/16, 13th Dist	1794	18583_1	9/22/2016
+18583	Change	Siuslaw River Channel Light 9	Fl G 4s 15ft 4M "9"	N 44 00' 27.906"	W 124 07' 45.318"	44.00775	-124.1293	LNM 38/16, 13th Dist	1794	18583_1	9/22/2016
+18583	Relocate	Siuslaw River Channel Daybeacon 20	R "20"	N 43 58' 39.318"	W 124 07' 37.710"	43.97759	-124.1271	LNM 38/16, 13th Dist	1794	18583_1	9/22/2016
+18583	Change	Siuslaw River Channel Daybeacon 20	R "20"	N 43 58' 39.318"	W 124 07' 37.710"	43.97759	-124.1271	LNM 38/16, 13th Dist	1794	18583_1	9/22/2016
+18583	Relocate	Siuslaw River Channel Daybeacon 22	R "22"	N 43 58' 21.336"	W 124 07' 30.090"	43.9726	-124.125	LNM 38/16, 13th Dist	1794	18583_1	9/22/2016
+18583	Change	Siuslaw River Channel Daybeacon 22	R "22"	N 43 58' 21.336"	W 124 07' 30.090"	43.9726	-124.125	LNM 38/16, 13th Dist	1794	18583_1	9/22/2016
+18583	Add	Restroom Float Piling Light A	Fl Y 6s "A" Priv	N 43 57' 59.292"	W 124 05' 47.508"	43.96647	-124.0965	LNM 38/16, 13th Dist	1794	18583_1	9/22/2016
+18583	Add	Restroom Float Piling Light B	Fl Y 6s "B" Priv	N 43 57' 59.290"	W 124 05' 47.150"	43.96647	-124.0964	LNM 38/16, 13th Dist	1794	18583_1	9/22/2016
+18583	Change	Tabulation - SIUSLAW RIVER CHANNEL DEPTHS	Tabulation - SIUSLAW RIVER CHANNEL DEPTHS	N 44 01' 10.000"	W 124 06' 18.000"	44.01944	-124.105	LNM 31/16, 13th Dist	1794	18583_1	7/28/2016
+18583	Change	Tabulation - Siuslaw River	Tabulation - Siuslaw River	N 44 01' 10.000"	W 124 06' 18.000"	44.01944	-124.105	LNM 06/16, 13th Dist	1794	18583_1	2/4/2016
+18583	Change	tabulation - SIUSLAW RIVER CHANNEL DEPTHS	tabulation - SIUSLAW RIVER CHANNEL DEPTHS	N 44 01' 10.000"	W 124 06' 18.000"	44.01944	-124.105	LNM 39/15, 13th Dist	1794	18583_1	9/24/2015
+18583	Add	tabulation - Siuslaw River	tabulation - Siuslaw River	N 44 01' 10.000"	W 124 06' 18.000"	44.01944	-124.105	LNM 33/15, 13th Dist	1794	18583_1	8/13/2015
+18583	Change	tabulation - SIUSAW RIVER CHANNEL DEPTHS	tabulation - SIUSAW RIVER CHANNEL DEPTHS	N 44 01' 10.000"	W 124 06' 18.000"	44.01944	-124.105	LNM 22/15, 13th Dist	1794	18583_1	5/28/2015
+18583	Change	tabulation - SIUSLAW RIVER CHANNEL DEPTHS	tabulation - SIUSLAW RIVER CHANNEL DEPTHS	N 44 01' 10.000"	W 124 06' 18.000"	44.01944	-124.105	LNM 38/14, 13th Dist	1794	18583_1	9/18/2014
+18583	Delete	Siuslaw River Range A Rear Light	Iso 6s 33ft	N 44 00' 09.279"	W 124 07' 23.544"	44.00258	-124.1232	LNM 34/14, 13th Dist	1794	18583_1	8/28/2014
+18583	Change	Siuslaw Channel River Light 12	Fl R 2.5s 15ft 4M "12"	N 44 00' 06.244"	W 124 07' 29.930"	44.00174	-124.125	LNM 34/14, 13th Dist	1794	18583_1	8/28/2014
+18583	Change	Siuslaw Channel River Light 13	Fl G 2.5s 25ft 5M "13"	N 44 00' 06.215"	W 124 07' 22.752"	44.00173	-124.123	LNM 34/14, 13th Dist	1794	18583_1	8/28/2014
+18583	Change	tabulation - SIUSLAW RIVER CHANNEL DEPTHS	tabulation - SIUSLAW RIVER CHANNEL DEPTHS	N 44 01' 10.000"	W 124 06' 18.000"	44.01944	-124.105	LNM 20/14, 13th Dist	1794	18583_1	5/22/2014
+18583	Change	tabulation - Siuslaw River Channel Depths	tabulation - Siuslaw River Channel Depths	N 44 01' 10.000"	W 124 06' 18.000"	44.01944	-124.105	LNM 02/14, 13th Dist	1794	18583_1	1/16/2014
+18583	Change	Siuslaw River Channel Light 14 	Fl R 4s 15ft 4M "14"	N 43 59' 22.447"	W 124 07' 15.719"	43.98957	-124.121	LNM 36/13, 13th Dist	1794	18583_1	9/11/2013
+18583	Change	Siuslaw River North Jetty Light 3 	Fl G 2.5s 4M "3" HORN	N 44 01' 08.826"	W 124 08' 46.452"	44.01912	-124.1462	LNM 36/13, 13th Dist	1794	18583_1	9/30/2013
+18583	Change	tabulation - Siuslaw River Channel Depths	tabulation - Siuslaw River Channel Depths	N 44 01' 10.000"	W 124 06' 18.000"	44.01944	-124.105	LNM 32/13, 13th Dist	1794	18583_1	9/11/2013
+18583	Change	Siuslaw River Range A Rear Light	Iso 6 33ft	N 44 00' 09.279"	W 124 07' 23.544"	44.00258	-124.1232	LNM 20/13, 13th Dist	1794	18583_1	6/21/2013
+18583	Relocate	Siuslaw River Range A Front Light	Q 25ft	N 44 00' 06.215"	W 124 07' 22.752"	44.00173	-124.123	LNM 20/13, 13th Dist	1794	18583_1	6/4/2013
+18583	Relocate	Siuslaw River Range A Rear Light	Iso 6s 33ft	N 44 00' 09.279"	W 124 07' 23.544"	44.00258	-124.1232	LNM 20/13, 13th Dist	1794	18583_1	6/4/2013
+18583	Relocate	Siuslaw River Entrance Range Front Light	Q R 35ft	N 44 01' 01.441"	W 124 07' 49.570"	44.01707	-124.1304	LNM 52/12, 13th Dist	1794	18583_1	1/9/2013
+18583	Relocate	Siuslaw River Entrance Range Rear Light	Iso R 6s 61ft	N 44 01' 00.780"	W 124 07' 37.439"	44.01688	-124.1271	LNM 52/12, 13th Dist	1794	18583_1	1/9/2013
+18583	Change	Siuslaw River Entrance Range Front Light	Q R 35ft	N 44 01' 01.441"	W 124 07' 49.570"	44.01707	-124.1304	LNM 52/12, 13th Dist	1794	18583_1	1/9/2013
+18583	Change	Siuslaw River Entrance Range Rear Light	Iso R 6s 61ft	N 44 01' 00.780"	W 124 07' 37.439"	44.01688	-124.1271	LNM 52/12, 13th Dist	1794	18583_1	1/9/2013
+18583	Relocate	Siuslaw River Inner Range Front Light	Q 21ft	N 44 00' 58.678"	W 124 07' 49.621"	44.0163	-124.1304	LNM 52/12, 13th Dist	1794	18583_1	1/9/2013
+18583	Change	Siuslaw River Inner Range Front Light	Q 21ft	N 44 00' 58.678"	W 124 07' 49.621"	44.0163	-124.1304	LNM 52/12, 13th Dist	1794	18583_1	1/9/2013
+18583	Change	tabulation - SIUSLAW RIVER CHANNEL DEPTHS	tabulation - SIUSLAW RIVER CHANNEL DEPTHS	N 44 01' 10.000"	W 124 06' 18.000"	44.01944	-124.105	LNM 42/12, 13th Dist	1794	18583_1	10/10/2012
+18583	Change	Siuslaw River Entrance Range Front Light	Q R 34ft	N 44 01' 01.407"	W 124 07' 49.603"	44.01706	-124.1304	LNM 39/12, 13th Dist	1794	18583_1	10/1/2012
+18583	Relocate	Siuslaw River Inner Range Front Light	Q 18ft	N 44 00' 58.698"	W 124 07' 49.692"	44.0163	-124.1305	LNM 39/12, 13th Dist	1794	18583_1	10/1/2012
+18583	Change	Siuslaw River Inner Range Front Light	Q 18ft	N 44 00' 58.698"	W 124 07' 49.692"	44.0163	-124.1305	LNM 39/12, 13th Dist	1794	18583_1	10/1/2012
+18583	Relocate	Siuslaw River Inner Range Rear Light	Iso 6s 34ft	N 44 01' 01.404"	W 124 07' 49.530"	44.01706	-124.1304	LNM 39/12, 13th Dist	1794	18583_1	10/1/2012
+18583	Change	Siuslaw River Inner Range Rear Light	Iso 6s 34ft	N 44 01' 01.404"	W 124 07' 49.530"	44.01706	-124.1304	LNM 39/12, 13th Dist	1794	18583_1	10/1/2012
+18583	Change	tabulation - SIUSLAW RIVER CHANNEL DEPTHS	tabulation - SIUSLAW RIVER CHANNEL DEPTHS	N 44 01' 10.000"	W 124 06' 18.000"	44.01944	-124.105	LNM 30/12, 13th Dist	1794	18583_1	7/19/2012
+18583	Change	Tabulation - Siuslaw River	Tabulation - Siuslaw River	N 44 01' 10.000"	W 124 06' 18.000"	44.01944	-124.105	LNM 06/12, 13th Dist	1794	18583_1	1/30/2012

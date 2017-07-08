@@ -1,2 +1,2 @@
-Chart: 12347, Current Edition: 32, Print Date: Feb. /2017, Hudson River Wappinger Creek to Hudson
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+Chart: 12347, Current Edition: 32, Print Date: Feb. /2017, Hudson River Wappinger Creek to Hudson
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

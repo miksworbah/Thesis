@@ -1,0 +1,3 @@
+Chart: 17427, Current Edition: 8, Print Date: May. /2015, Portland Canal - Dixon Entrance to Hattie I.
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+17427	Change	Reef Island Light	Fl 4s 19ft 9M	N 55 04' 43.572"	W 130 12' 10.548"	55.07877	-130.2029	LNM 30/16, 17th Dist	2742	17427_1	8/4/2016

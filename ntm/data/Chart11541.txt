@@ -1,0 +1,206 @@
+Chart: 11541, Current Edition: 41, Print Date: Nov. /2015, Intracoastal Waterway Neuse River to Myrtle Grove Sound
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11541	Change	Depth Legend - Bulkhead Channel Range 1 to:	14 1/2 FT APR 2017	N 34 42' 28.400"	W 076 40' 45.300"	34.70789	-76.67925	LNM 25/17, 5th Dist	502	11541_2	6/15/2017
+11541	Change	Depth Legend - Bulkhead Channel Ranges 2-4 to:	9 FT JAN - APR 2017	N 34 42' 51.700"	W 076 40' 30.100"	34.71436	-76.67503	LNM 25/17, 5th Dist	502	11541_2	6/15/2017
+11541	Change	Depth Legend - Taylors Creek Ranges 3-4 to:	6 1/2 FT JAN 2017	N 34 42' 34.340"	W 076 38' 09.420"	34.70954	-76.63595	LNM 25/17, 5th Dist	502	11541_2	6/15/2017
+11541	Delete	Sounding in Feet	4	N 34 43' 02.340"	W 076 40' 10.640"	34.71732	-76.66962	LNM 25/17, 5th Dist	502	11541_2	6/15/2017
+11541	Change	Depth Legend - Taylors Creek Ranges 1-2 to:	8 1/2 FT JAN 2017	N 34 42' 50.420"	W 076 39' 46.460"	34.714	-76.6629	LNM 25/17, 5th Dist	502	11541_2	6/15/2017
+11541	Add	Sounding in Feet	3	N 34 43' 02.040"	W 076 40' 10.230"	34.71723	-76.66951	LNM 25/17, 5th Dist	502	11541_2	6/15/2017
+11541	Change	Depth Legend - Taylors Creek South Basin to:	5 FT JAN 2017	N 34 42' 50.570"	W 076 39' 51.260"	34.71405	-76.66424	LNM 25/17, 5th Dist	502	11541_2	6/15/2017
+11541	Delete	New River - Cape Fear River Buoy 99C	G C "99C"	N 34 21' 13.201"	W 077 41' 01.781"	34.35367	-77.68383	LNM 22/17, 5th Dist	504	11541_4	6/8/2017
+11541	Delete	New River - Cape Fear River Buoy 99B	G C "99B"	N 34 21' 16.006"	W 077 40' 56.297"	34.35445	-77.6823	LNM 22/17, 5th Dist	504	11541_4	6/8/2017
+11541	Delete	Beaufort Inlet Channel Lighted Buoy 16A	R "16A" Fl R 4s	N 34 41' 26.772"	W 076 40' 08.785"	34.69077	-76.66911	LNM 19/17, 5th Dist	502	11541_2	5/18/2017
+11541	Change	Smith Creek Channel Light 1SC	Fl G 4s 15ft 4M "1SC"	N 35 00' 54.303"	W 076 41' 28.449"	35.01508	-76.69124	LNM 18/17, 5th Dist	501	11541_1	5/11/2017
+11541	Change	Smith Creek Channel Light 6	Fl R 2.5s 15ft 4M "6"	N 35 01' 10.082"	W 076 41' 54.221"	35.01947	-76.69839	LNM 18/17, 5th Dist	501	11541_1	5/11/2017
+11541	Relocate	New River - Cape Fear River Buoy 121	G C "121"	N 34 15' 00.349"	W 077 46' 54.447"	34.2501	-77.78179	LNM 17/17, 5th Dist	504	11541_4	5/4/2017
+11541	Relocate	New River - Cape Fear River Buoy 121A	G C "121A"	N 34 14' 54.847"	W 077 46' 59.195"	34.24857	-77.78311	LNM 17/17, 5th Dist	504	11541_4	5/4/2017
+11541	Relocate	New River - Cape Fear River Buoy 122A	R N "122A"	N 34 14' 58.034"	W 077 46' 58.644"	34.24945	-77.78296	LNM 17/17, 5th Dist	504	11541_4	5/4/2017
+11541	Relocate	Beaufort Inlet Channel Lighted Buoy 16	R "16" Fl R 2.5s	N 34 41' 05.413"	W 076 39' 59.464"	34.68484	-76.66652	LNM 17/17, 5th Dist	502	11541_2	5/4/2017
+11541	Relocate	Old Topsail Creek Buoy 5	G C "5"	N 34 21' 07.852"	W 077 39' 44.883"	34.35218	-77.66247	LNM 16/17, 5th Dist	504	11541_4	4/27/2017
+11541	Change	New River - Cape Fear River Light 118	Fl R 4s 15ft 4M "118"	N 34 17' 25.718"	W 077 44' 51.081"	34.29048	-77.74752	LNM 16/17, 5th Dist	504	11541_4	4/27/2017
+11541	Relocate	Morehead City Channel Lighted Buoy 27	G "27" Fl G 2.5s 	N 34 42' 47.229"	W 076 41' 52.004"	34.71312	-76.69778	LNM 16/17, 5th Dist	502	11541_2	4/27/2017
+11541	Relocate	Morehead City Channel Lighted Buoy 27	G "27" Fl G 2.5s 	N 34 42' 47.229"	W 076 41' 52.004"	34.71312	-76.69778	LNM 16/17, 5th Dist	503	11541_3	4/27/2017
+11541	Change	Depth Legend - New River to:	8 1/2 FT MAY 2016	N 34 33' 37.880"	W 077 21' 30.700"	34.56052	-77.35853	LNM 17/17, 5th Dist	505	11541_5	4/27/2017
+11541	Change	Beaufort Inlet Channel Range Warning Light A	Fl 4s 15ft 4M "A"	N 34 42' 12.642"	W 076 39' 46.943"	34.70351	-76.66304	LNM 15/17, 5th Dist	502	11541_2	4/20/2017
+11541	Add	Bridge Construction Label	Bridge Under Construction	N 34 43' 34.780"	W 076 40' 07.010"	34.72633	-76.66862	LNM 16/17, 5th Dist	502	11541_2	4/13/2017
+11541	Add	Bridge Construction Note	CAUTION Fixed and floating obstructions, some submerged, may exist within the magenta tinted bridge construction area.  Mariners are advised to proceed with caution.	N 34 43' 34.780"	W 076 40' 07.010"	34.72633	-76.66862	LNM 16/17, 5th Dist	502	11541_2	4/13/2017
+11541	Add	Bridge Construction PT 1 OF 3	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 34 43' 29.820"	W 076 40' 14.990"	34.72495	-76.67083	LNM 16/17, 5th Dist	502	11541_2	4/13/2017
+11541	Add	Bridge Construction PT 2 OF 3	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 34 43' 37.270"	W 076 40' 03.170"	34.72702	-76.66755	LNM 16/17, 5th Dist	502	11541_2	4/13/2017
+11541	Add	Bridge Construction PT 3 OF 3	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 34 43' 38.730"	W 076 39' 57.130"	34.72742	-76.66587	LNM 16/17, 5th Dist	502	11541_2	4/13/2017
+11541	Delete	NC Artificial Fishing Reef Buoy AR350	Y C "AR350" Priv	N 34 29' 48.597"	W 077 21' 22.853"	34.49683	-77.35635	LNM 14/17, 5th Dist	505	11541_5	4/13/2017
+11541	Add	Peletier Creek Entrance Channel Buoy 4	R N "4"	N 34 43' 25.476"	W 076 46' 48.252"	34.72374	-76.78007	LNM 11/17, 5th Dist	503	11541_3	3/23/2017
+11541	Relocate	Core Creek Buoy 30	R N "30"	N 34 45' 28.642"	W 076 40' 26.185"	34.75796	-76.67394	LNM 11/17, 5th Dist	502	11541_2	3/23/2017
+11541	Add	Core Creek Buoy 30A	R N "30A"	N 34 45' 13.356"	W 076 40' 32.681"	34.75371	-76.67574	LNM 11/17, 5th Dist	502	11541_2	3/23/2017
+11541	Delete	Core Creek Daybeacon 30A	R "30A"	N 34 45' 13.222"	W 076 40' 29.482"	34.75367	-76.67486	LNM 11/17, 5th Dist	502	11541_2	3/23/2017
+11541	Add	Core Creek Buoy 29A	G C "29A"	N 34 45' 06.564"	W 076 40' 31.265"	34.75182	-76.67535	LNM 11/17, 5th Dist	502	11541_2	3/23/2017
+11541	Delete	Core Creek Buoy 28A	R N "28A"	N 34 45' 28.458"	W 076 40' 26.214"	34.7579	-76.67395	LNM 11/17, 5th Dist	502	11541_2	3/23/2017
+11541	Change	Bogue Sound Light 33	Fl G 2.5s 15ft 4M "33"	N 34 41' 55.524"	W 076 59' 10.000"	34.69876	-76.98611	LNM 10/17, 5th Dist	503	11541_3	3/16/2017
+11541	Relocate	Russell Slough Junction Light RS	Fl (2+1) G 6s 15ft 3M "RS"	N 34 45' 24.521"	W 076 40' 23.431"	34.75681	-76.67317	LNM 09/17, 5th Dist	502	11541_2	3/9/2017
+11541	Relocate	New River - Cape Fear River Light 129A	Fl G 2.5s 15ft 3M "129A"	N 34 11' 16.920"	W 077 49' 42.745"	34.18803	-77.82854	LNM 07/17, 5th Dist	504	11541_4	2/23/2017
+11541	Relocate	Taylor Creek Channel Daybeacon 9	G "9"	N 34 42' 53.511"	W 076 39' 55.761"	34.71486	-76.66549	LNM 07/17, 5th Dist	502	11541_2	2/23/2017
+11541	Relocate	New River - Cape Fear River Light 118	Fl R 4s 15ft 3M "118"	N 34 17' 25.718"	W 077 44' 51.081"	34.29048	-77.74752	LNM 07/17, 5th Dist	504	11541_4	2/23/2017
+11541	Relocate	New River - Cape Fear River Daybeacon 114	R "114"	N 34 17' 59.796"	W 077 44' 23.225"	34.29994	-77.73978	LNM 07/17, 5th Dist	504	11541_4	2/23/2017
+11541	Relocate	New River - Cape Fear River Light 103	Fl G 4s 15ft 4M "103"	N 34 19' 44.707"	W 077 42' 27.124"	34.32909	-77.70753	LNM 07/17, 5th Dist	504	11541_4	2/23/2017
+11541	Change	Core Creek Light 29	Q G 15ft 4M "29"	N 34 45' 32.893"	W 076 40' 21.251"	34.75914	-76.67257	LNM 06/17, 5th Dist	502	11541_2	2/16/2017
+11541	Change	Depth Legend - Gallants Channel Range 8 to:	1 FT JAN 2017	N 34 43' 57.000"	W 076 40' 24.200"	34.7325	-76.67339	LNM 07/17, 5th Dist	502	11541_2	2/9/2017
+11541	Change	Depth Legend - Bulkhead Channel Range 2-4 to:	9½ FT JAN 2017	N 34 42' 51.700"	W 076 40' 30.100"	34.71436	-76.67503	LNM 07/17, 5th Dist	502	11541_2	2/9/2017
+11541	Change	Depth Legend - Bulkhead Channel Range 1 to:	10 FT JAN 2017	N 34 42' 28.400"	W 076 40' 45.300"	34.70789	-76.67925	LNM 07/17, 5th Dist	502	11541_2	2/9/2017
+11541	Change	Depth Legend - Gallants Channel Range 7 to:	15 FT	N 34 43' 26.900"	W 076 40' 09.000"	34.72414	-76.66917	LNM 07/17, 5th Dist	502	11541_2	2/9/2017
+11541	Relocate	Russell Slough Channel Light 12	Q R 15ft 4M "12"	N 34 43' 43.683"	W 076 40' 10.727"	34.7288	-76.66965	LNM 05/17, 5th Dist	502	11541_2	2/9/2017
+11541	Delete	Russell Slough Channel Daybeacon 14	R "14"	N 34 43' 37.326"	W 076 40' 09.486"	34.72704	-76.6693	LNM 05/17, 5th Dist	502	11541_2	2/9/2017
+11541	Relocate	Bogue Sound - New River Buoy 61A	G C "61A"	N 34 35' 49.644"	W 077 14' 31.323"	34.59712	-77.24203	LNM 05/17, 5th Dist	505	11541_5	2/9/2017
+11541	Relocate	Bogue Sound - New River Buoy 60	R N "60"	N 34 35' 52.210"	W 077 14' 31.644"	34.59784	-77.24213	LNM 05/17, 5th Dist	505	11541_5	2/9/2017
+11541	Relocate	Beaufort Inlet Channel Lighted Buoy 13	G "13" Fl G 2.5s	N 34 40' 28.738"	W 076 40' 13.329"	34.67465	-76.67037	LNM 04/17, 5th Dist	502	11541_2	2/2/2017
+11541	Relocate	Morehead City Channel Lighted Buoy 21	G "21" Fl G 4s	N 34 41' 55.108"	W 076 40' 29.917"	34.69864	-76.67498	LNM 04/17, 5th Dist	502	11541_2	2/2/2017
+11541	Relocate	New River - Cape Fear River Daybeacon 37	G "37"	N 34 28' 56.211"	W 077 28' 32.660"	34.48228	-77.47574	LNM 04/17, 5th Dist	505	11541_5	2/2/2017
+11541	Relocate	New River - Cape Fear River Light 39	Fl G 4s 18ft 4M "39"	N 34 28' 42.032"	W 077 29' 05.489"	34.47834	-77.48486	LNM 04/17, 5th Dist	505	11541_5	2/2/2017
+11541	Delete	NC Artificial Fishing Reef Buoy AR360	Y C "AR360" Priv	N 34 20' 42.607"	W 077 36' 10.900"	34.34517	-77.60303	LNM 03/17, 5th Dist	504	11541_4	1/26/2017
+11541	Change	Depth Legend - Taylors Creek Range 3-4 to: 5 1/2 FT AUG 2016	5 1/2 FT AUG 2016	N 34 42' 38.330"	W 076 38' 30.150"	34.71065	-76.64171	LNM 03/17, 5th Dist	502	11541_2	1/12/2017
+11541	Change	Depth Legend - Bulkhead Channel Range 1 to: 13 FT OCT 2016	13 FT OCT 2016	N 34 42' 28.400"	W 076 40' 45.300"	34.70789	-76.67925	LNM 03/17, 5th Dist	502	11541_2	1/12/2017
+11541	Change	Depth Legend - Bulkhead Channel Range 5-6 to: 7 1/2 FT AUG 2016	7 1/2 FT AUG 2016	N 34 43' 06.500"	W 076 40' 13.500"	34.71847	-76.67042	LNM 03/17, 5th Dist	502	11541_2	1/12/2017
+11541	Change	Depth Legend - Bulkhead Channel Range 2-4 to: 9 FT AUG 2016	9 FT AUG 2016	N 34 42' 51.700"	W 076 40' 30.100"	34.71436	-76.67503	LNM 03/17, 5th Dist	502	11541_2	1/12/2017
+11541	Change	Depth Legend - Gallants Channel Range 7 to: 14 FT JUL 2016	14 FT JUL 2016	N 34 43' 26.900"	W 076 40' 09.000"	34.72414	-76.66917	LNM 03/17, 5th Dist	502	11541_2	1/12/2017
+11541	Change	Depth Legend - Taylors Creek Range 1-2 to: 8 FT AUG 2016	8 FT AUG 2016	N 34 42' 44.100"	W 076 39' 30.300"	34.71225	-76.65842	LNM 03/17, 5th Dist	502	11541_2	1/12/2017
+11541	Change	Depth Legend - Gallants Channel Range 8 to: 2 1/2 FT JUL 2016	2 1/2 FT JUL 2016	N 34 43' 56.730"	W 076 40' 23.940"	34.73243	-76.67332	LNM 03/17, 5th Dist	502	11541_2	1/12/2017
+11541	Relocate	Beaufort Harbor Channel Daybeacon 6	R "6"	N 34 42' 41.928"	W 076 40' 46.311"	34.71165	-76.67953	LNM 51/16, 5th Dist	502	11541_2	12/22/2016
+11541	Relocate	New River - Cape Fear River Buoy 121	G C "121"	N 34 15' 02.559"	W 077 46' 54.785"	34.25071	-77.78188	LNM 51/16, 5th Dist	504	11541_4	12/22/2016
+11541	Add	New River - Cape Fear River Buoy 121A	G C "121A"	N 34 14' 58.324"	W 077 46' 58.236"	34.24953	-77.78284	LNM 51/16, 5th Dist	504	11541_4	12/22/2016
+11541	Add	New River - Cape Fear River Buoy 122A	R N "122A"	N 34 15' 02.668"	W 077 46' 55.799"	34.25074	-77.78217	LNM 51/16, 5th Dist	504	11541_4	12/22/2016
+11541	Change	Neuse River Entrance Light NR	Fl 6s 24ft 7M "NR"	N 35 06' 37.272"	W 076 28' 32.297"	35.11035	-76.47564	LNM 51/16, 5th Dist	501	11541_1	12/22/2016
+11541	Change	Shoaling Label	Shl to 2 ft 2016	N 34 15' 00.000"	W 077 46' 57.000"	34.25	-77.7825	LNM 51/16, 5th Dist	504	11541_4	12/22/2016
+11541	Relocate	Beaufort Harbor Channel Daybeacon 4	R "4"	N 34 42' 37.236"	W 076 40' 46.438"	34.71034	-76.67957	LNM 50/16, 5th Dist	502	11541_2	12/22/2016
+11541	Delete	Town Creek Channel Daybeacon 3	G "3"	N 34 43' 29.952"	W 076 39' 49.800"	34.72499	-76.66383	LNM 50/16, 5th Dist	502	11541_2	12/22/2016
+11541	Delete	Russell Slough Channel Warning Daybeacon A	W "A"	N 34 44' 17.788"	W 076 40' 47.456"	34.73827	-76.67985	LNM 50/16, 5th Dist	502	11541_2	12/22/2016
+11541	Delete	Russell Slough Channel Warning Daybeacon B	W "B"	N 34 44' 14.391"	W 076 40' 43.690"	34.73733	-76.6788	LNM 50/16, 5th Dist	502	11541_2	12/22/2016
+11541	Relocate	Russell Slough Daybeacon 7	G "7"	N 34 44' 07.820"	W 076 40' 29.789"	34.7355	-76.67494	LNM 50/16, 5th Dist	502	11541_2	12/22/2016
+11541	Relocate	Russell Slough Channel Junction Light RG	Fl (2+1) R 6s 15ft 4M "RG"	N 34 44' 09.730"	W 076 40' 34.490"	34.73603	-76.67625	LNM 50/16, 5th Dist	502	11541_2	12/22/2016
+11541	Add	Russell Slough Buoy 8	R N "8"	N 34 44' 06.318"	W 076 40' 33.398"	34.73509	-76.67594	LNM 50/16, 5th Dist	502	11541_2	12/22/2016
+11541	Delete	Russell Slough Daybeacon 6A	R "6A"	N 34 44' 19.440"	W 076 40' 21.840"	34.73874	-76.67274	LNM 50/16, 5th Dist	502	11541_2	12/22/2016
+11541	Add	Russell Slough Lighted Buoy 6A	R N "6A"	N 34 44' 23.584"	W 076 40' 15.030"	34.73988	-76.67085	LNM 50/16, 5th Dist	502	11541_2	12/22/2016
+11541	Relocate	Beaufort Inlet Channel Lighted Buoy 16A	R "16A" Fl R 4s	N 34 41' 26.772"	W 076 40' 08.785"	34.69077	-76.66911	LNM 49/16, 5th Dist	502	11541_2	12/15/2016
+11541	Relocate	Beaufort Inlet Channel Lighted Buoy 17B	G "17B" Fl G 2.5s	N 34 41' 16.969"	W 076 40' 07.099"	34.68805	-76.66864	LNM 49/16, 5th Dist	502	11541_2	12/15/2016
+11541	Add	Legend:	Shl to 5 ft 2016	N 34 09' 38.970"	W 077 50' 59.800"	34.16082	-77.84995	LNM 51/16, 5th Dist	504	11541_4	12/15/2016
+11541	Delete	Channel Limits PT 1 OF 4	Chart No. 1: I20	N 34 09' 41.990"	W 077 50' 56.460"	34.16166	-77.84901	LNM 51/16, 5th Dist	504	11541_4	12/15/2016
+11541	Delete	Channel Limits PT 2 OF 4	Chart No. 1: I20	N 34 09' 34.890"	W 077 51' 01.740"	34.15969	-77.85049	LNM 51/16, 5th Dist	504	11541_4	12/15/2016
+11541	Delete	Channel Limits PT 3 OF 4	Chart No. 1: I20	N 34 09' 42.440"	W 077 50' 57.430"	34.16179	-77.84929	LNM 51/16, 5th Dist	504	11541_4	12/15/2016
+11541	Delete	Channel Limits PT 4 OF 4	Chart No. 1: I20	N 34 09' 35.420"	W 077 51' 02.670"	34.15984	-77.85074	LNM 51/16, 5th Dist	504	11541_4	12/15/2016
+11541	Delete	Intracoastal Waterway Course Line PT 1 OF 2	(Chart No. 1: M3)	N 34 09' 42.180"	W 077 50' 56.900"	34.16172	-77.84914	LNM 51/16, 5th Dist	504	11541_4	12/15/2016
+11541	Delete	Intracoastal Waterway Course Line PT 2 OF 2	(Chart No. 1: M3)	N 34 09' 35.220"	W 077 51' 02.380"	34.15978	-77.85066	LNM 51/16, 5th Dist	504	11541_4	12/15/2016
+11541	Delete	Intracoastal Waterway Course Line PT 1 OF 2	(Chart No. 1: M3)	N 34 15' 06.740"	W 077 46' 49.990"	34.25187	-77.78056	LNM 51/16, 5th Dist	504	11541_4	12/15/2016
+11541	Delete	Intracoastal Waterway Course Line PT 2 OF 2	(Chart No. 1: M3)	N 34 14' 54.190"	W 077 47' 01.280"	34.24839	-77.78369	LNM 51/16, 5th Dist	504	11541_4	12/15/2016
+11541	Relocate	Swansboro Coast Guard Channel Light 5	Q G 15ft 4M "5"	N 34 39' 15.444"	W 077 05' 44.919"	34.65429	-77.09581	LNM 48/16, 5th Dist	505	11541_5	12/1/2016
+11541	Change	Bogue Sound - New River Light 66	Fl R 4s 15ft 4M "66"	N 34 32' 52.261"	W 077 19' 35.838"	34.54785	-77.32662	LNM 48/16, 5th Dist	505	11541_5	12/1/2016
+11541	Relocate	New River - Cape Fear River Buoy 121	G C "121"	N 34 14' 58.648"	W 077 46' 57.186"	34.24963	-77.78255	LNM 48/16, 5th Dist	504	11541_4	12/1/2016
+11541	Change	Adams Creek Light 16	Fl R 2.5s 15ft 4M "16"	N 34 53' 54.196"	W 076 41' 05.589"	34.89839	-76.68488	LNM 47/16, 5th Dist	502	11541_2	12/1/2016
+11541	Change	New River Channel Light 12	Fl R 4s 15ft 4M "12"	N 34 33' 06.810"	W 077 20' 57.730"	34.55189	-77.34937	LNM 47/16, 5th Dist	505	11541_5	12/1/2016
+11541	Relocate	Adams Creek Light 16	Fl R 2.5s 15ft 4M "16"	N 34 53' 54.196"	W 076 41' 05.589"	34.89839	-76.68488	LNM 47/16, 5th Dist	502	11541_2	12/1/2016
+11541	Relocate	New River - Cape Fear River Buoy 121	G C "121"	N 34 15' 01.330"	W 077 46' 55.339"	34.25037	-77.78204	LNM 46/16, 5th Dist	504	11541_4	11/24/2016
+11541	Relocate	Morehead City Channel Lighted Buoy 27	G "27" Fl G 2.5s	N 34 42' 46.876"	W 076 41' 52.304"	34.71302	-76.69786	LNM 45/16, 5th Dist	502	11541_2	11/17/2016
+11541	Relocate	Morehead City Channel Lighted Buoy 27	G "27" Fl G 2.5s	N 34 42' 46.876"	W 076 41' 52.304"	34.71302	-76.69786	LNM 45/16, 5th Dist	503	11541_3	11/17/2016
+11541	Change	Depth Legend -  Morehead City Harbor Range 2 to:	1 FT 2016 	N 34 43' 08.080"	W 076 42' 26.450"	34.71891	-76.70734	LNM 46/16, 5th Dist	502	11541_2	11/10/2016
+11541	Change	Depth Legend -  Morehead City Harbor Range 2 to:	1 FT 2016 	N 34 43' 08.080"	W 076 42' 26.450"	34.71891	-76.70734	LNM 46/16, 5th Dist	503	11541_3	11/10/2016
+11541	Change	Depth Legend - Morehead City Harbor Range 4 to:	4 1/2 FT 2016 	N 34 42' 59.700"	W 076 43' 11.440"	34.71658	-76.71984	LNM 46/16, 5th Dist	503	11541_3	11/10/2016
+11541	Change	Depth Legend - Morehead City Harbor Basin to:	2 1/2 FT 2016	N 34 43' 07.400"	W 076 42' 46.860"	34.71872	-76.71302	LNM 46/16, 5th Dist	503	11541_3	11/10/2016
+11541	Relocate	New River - Cape Fear River Buoy 121	G C "121"	N 34 14' 58.648"	W 077 46' 57.186"	34.24963	-77.78255	LNM 44/16, 5th Dist	504	11541_4	11/10/2016
+11541	Change	New River - Cape Fear River Light 96	Fl R 4s 15ft 4M "96"	N 34 22' 33.198"	W 077 38' 47.140"	34.37589	-77.64643	LNM 44/16, 5th Dist	504	11541_4	11/10/2016
+11541	Change	Banks Channel Light 18	Fl R 4s 15ft 5M "18"	N 34 24' 04.200"	W 077 35' 17.058"	34.40117	-77.58807	LNM 44/16, 5th Dist	504	11541_4	11/10/2016
+11541	Relocate	Banks Channel Daybeacon 13	G "13"	N 34 23' 22.591"	W 077 36' 08.822"	34.38961	-77.60245	LNM 44/16, 5th Dist	504	11541_4	11/10/2016
+11541	Change	Smith Creek Channel Light 8	Fl R 4s 15ft 4M "8"	N 35 01' 19.355"	W 076 41' 56.757"	35.02204	-76.6991	LNM 44/16, 5th Dist	501	11541_1	11/10/2016
+11541	Relocate	Swansboro Coast Guard Channel Buoy 2	R N "2"	N 34 39' 53.558"	W 077 05' 56.402"	34.66488	-77.099	LNM 43/16, 5th Dist	505	11541_5	11/3/2016
+11541	Change	New River - Cape Fear River Light 128	Fl R 4s 15ft 4M "128"	N 34 11' 48.782"	W 077 49' 24.201"	34.19688	-77.82339	LNM 43/16, 5th Dist	504	11541_4	11/3/2016
+11541	Relocate	Morehead City Channel Lighted Buoy 18	R "18" Fl R 4s	N 34 41' 53.221"	W 076 40' 15.086"	34.69812	-76.67086	LNM 42/16, 5th Dist	502	11541_2	10/20/2016
+11541	Relocate	Russell Slough Daybeacon 6A	R "6A"	N 34 44' 19.528"	W 076 40' 24.044"	34.73876	-76.67335	LNM 41/16, 5th Dist	502	11541_2	10/20/2016
+11541	Relocate	Adams Creek Daybeacon 6	R "6"	N 34 56' 50.529"	W 076 40' 03.110"	34.94737	-76.66753	LNM 41/16, 5th Dist	501	11541_1	10/20/2016
+11541	Relocate	Adams Creek Light 4	Q R 15ft 3M "4"	N 34 57' 24.895"	W 076 40' 54.238"	34.95692	-76.68173	LNM 41/16, 5th Dist	501	11541_1	10/20/2016
+11541	Add	Cedar Bay Oyster Sanctuary Daybeacon B	W "B" Priv	N 35 02' 32.220"	W 076 30' 47.880"	35.04228	-76.5133	LNM 39/16, 5th Dist	501	11541_1	10/6/2016
+11541	Add	Cedar Bay Oyster Sanctuary Daybeacon A	W "A" Priv	N 35 02' 41.460"	W 076 30' 47.580"	35.04485	-76.51321	LNM 39/16, 5th Dist	501	11541_1	10/6/2016
+11541	Add	Cedar Bay Oyster Sanctuary Daybeacon C	W "C" Priv	N 35 02' 32.460"	W 076 30' 59.100"	35.04235	-76.51642	LNM 39/16, 5th Dist	501	11541_1	10/6/2016
+11541	Add	Cedar Bay Oyster Sanctuary Daybeacon D	W "D" Priv	N 35 02' 41.700"	W 076 30' 58.800"	35.04492	-76.51633	LNM 39/16, 5th Dist	501	11541_1	10/6/2016
+11541	Change	Bogue Sound - New River Buoy 63	G C "63"	N 34 35' 46.516"	W 077 14' 35.956"	34.59626	-77.24332	LNM 39/16, 5th Dist	505	11541_5	10/6/2016
+11541	Relocate	Bogue Sound - New River Buoy 60	R N "60"	N 34 35' 56.779"	W 077 14' 26.867"	34.59911	-77.2408	LNM 39/16, 5th Dist	505	11541_5	10/6/2016
+11541	Relocate	Beaufort Inlet Channel Lighted Buoy 15	G "15" Fl G 4s	N 34 40' 49.042"	W 076 40' 11.038"	34.68029	-76.66973	LNM 38/16, 5th Dist	502	11541_2	9/22/2016
+11541	Relocate	Beaufort Inlet Channel Lighted Buoy 13	G "13" Fl G 2.5s	N 34 40' 28.549"	W 076 40' 12.122"	34.6746	-76.67004	LNM 38/16, 5th Dist	502	11541_2	9/22/2016
+11541	Relocate	Morehead City Channel Lighted Buoy 21	G "21" Fl G 4s	N 34 41' 57.835"	W 076 40' 29.945"	34.6994	-76.67499	LNM 38/16, 5th Dist	502	11541_2	9/22/2016
+11541	Change	New River - Cape Fear River Light 122	Fl R 4s 18ft 4M "122"	N 34 15' 12.288"	W 077 46' 46.486"	34.25341	-77.77958	LNM 38/16, 5th Dist	504	11541_4	9/22/2016
+11541	Relocate	New River - Cape Fear River Light 122	Fl R 4s 18ft 4M "122"	N 34 15' 12.288"	W 077 46' 46.486"	34.25341	-77.77958	LNM 38/16, 5th Dist	504	11541_4	9/22/2016
+11541	Change	Bogue Sound Light 17	Fl G 2.5s 15ft 4M "17"	N 34 43' 28.320"	W 076 51' 45.758"	34.72453	-76.86271	LNM 34/16, 5th Dist	503	11541_3	9/1/2016
+11541	Delete	Sounding in Feet	5	N 34 35' 34.275"	W 077 13' 30.866"	34.59285	-77.22524	LNM 35/16, 5th Dist	505	11541_5	8/25/2016
+11541	Add	Sounding in Feet	3	N 34 35' 29.658"	W 077 13' 25.935"	34.59157	-77.22387	LNM 35/16, 5th Dist	505	11541_5	8/25/2016
+11541	Add	Sounding in Feet	2	N 34 35' 22.181"	W 077 13' 52.841"	34.5895	-77.23135	LNM 35/16, 5th Dist	505	11541_5	8/25/2016
+11541	Add	Sounding in Feet	3	N 34 35' 20.406"	W 077 13' 34.116"	34.589	-77.22614	LNM 35/16, 5th Dist	505	11541_5	8/25/2016
+11541	Delete	Sounding in Feet	22	N 34 35' 17.390"	W 077 13' 33.840"	34.58817	-77.22607	LNM 35/16, 5th Dist	505	11541_5	8/25/2016
+11541	Relocate	New River Buoy 17A	G C "17A"	N 34 34' 01.795"	W 077 22' 00.996"	34.56717	-77.36694	LNM 33/16, 5th Dist	505	11541_5	8/25/2016
+11541	Change	Wrightsville Channel Junction Buoy WC	GR C "WC"	N 34 11' 20.214"	W 077 49' 00.114"	34.18895	-77.8167	LNM 33/16, 5th Dist	504	11541_4	8/25/2016
+11541	Relocate	Wrightsville Channel Junction Buoy WC	GR C "WC"	N 34 11' 20.214"	W 077 49' 00.114"	34.18895	-77.8167	LNM 33/16, 5th Dist	504	11541_4	8/25/2016
+11541	Add	Sounding in Feet	3	N 34 41' 28.960"	W 076 40' 31.102"	34.69138	-76.67531	LNM 35/16, 5th Dist	502	11541_2	8/25/2016
+11541	Add	Sounding in Feet	3	N 34 41' 50.550"	W 076 39' 26.380"	34.69738	-76.65733	LNM 35/16, 5th Dist	502	11541_2	8/25/2016
+11541	Add	Sounding in Feet	1	N 34 41' 44.440"	W 076 39' 12.970"	34.69568	-76.6536	LNM 35/16, 5th Dist	502	11541_2	8/25/2016
+11541	Add	Sounding in Feet	1	N 34 41' 46.670"	W 076 38' 42.750"	34.6963	-76.64521	LNM 35/16, 5th Dist	502	11541_2	8/25/2016
+11541	Add	Sounding in Feet	1	N 34 41' 46.750"	W 076 39' 19.620"	34.69632	-76.65545	LNM 35/16, 5th Dist	502	11541_2	8/25/2016
+11541	Delete	Sounding in Feet	12	N 34 41' 45.550"	W 076 38' 42.350"	34.69599	-76.6451	LNM 35/16, 5th Dist	502	11541_2	8/25/2016
+11541	Add	Sounding in Feet	4	N 34 41' 45.960"	W 076 39' 25.110"	34.6961	-76.65697	LNM 35/16, 5th Dist	502	11541_2	8/25/2016
+11541	Delete	Bogue Sound - New River Daybeacon 70	R "70"	N 34 33' 07.877"	W 077 20' 34.488"	34.55219	-77.34291	LNM 32/16, 5th Dist	505	11541_5	8/18/2016
+11541	Add	Bogue Sound - New River Buoy 70	R N "70"	N 34 33' 07.877"	W 077 20' 34.488"	34.55219	-77.34291	LNM 32/16, 5th Dist	505	11541_5	8/18/2016
+11541	Change	Newport Marshes Light 36	Fl R 2.5s 15ft 4M "36"	N 34 44' 04.428"	W 076 41' 16.824"	34.73456	-76.688	LNM 32/16, 5th Dist	502	11541_2	8/18/2016
+11541	Change	Newport Marshes Light 36	Fl R 2.5s 15ft 4M "36"	N 34 44' 04.428"	W 076 41' 16.824"	34.73456	-76.688	LNM 32/16, 5th Dist	503	11541_3	8/18/2016
+11541	Relocate	New River - Cape Fear River Daybeacon 110	R "110"	N 34 18' 32.453"	W 077 43' 56.323"	34.30901	-77.73232	LNM 30/16, 5th Dist	504	11541_4	8/11/2016
+11541	Relocate	New River - Cape Fear River Daybeacon 53	G "53"	N 34 27' 44.062"	W 077 30' 52.883"	34.46224	-77.51469	LNM 30/16, 5th Dist	504	11541_4	8/11/2016
+11541	Relocate	Bogue Sound - New River Light 46C	Q R 17ft 4M "46C"	N 34 41' 04.658"	W 077 07' 24.521"	34.68463	-77.12348	LNM 30/16, 5th Dist	505	11541_5	8/11/2016
+11541	Relocate	New River - Cape Fear River Buoy 121	G C "121"	N 34 14' 59.495"	W 077 46' 56.525"	34.24986	-77.78237	LNM 27/16, 5th Dist	504	11541_4	7/7/2016
+11541	Change	Russell Slough Channel Junction Light RG	Fl (2+1) R 6s 15ft 4M "RG"	N 34 44' 09.972"	W 076 40' 37.536"	34.7361	-76.67709	LNM 25/16, 5th Dist	502	11541_2	6/30/2016
+11541	Relocate	Russell Slough Channel Junction Light RG	Fl (2+1) R 6s 15ft 4M "RG"	N 34 44' 09.972"	W 076 40' 37.536"	34.7361	-76.67709	LNM 25/16, 5th Dist	502	11541_2	6/30/2016
+11541	Delete	Town Creek Channel Daybeacon 1	G "1"	N 34 43' 32.976"	W 076 40' 03.600"	34.72583	-76.66766	LNM 24/16, 5th Dist	502	11541_2	6/23/2016
+11541	Relocate	Bogue Sound - New River Light 46C	Q R 17ft 4M "46C"	N 34 41' 04.420"	W 077 07' 24.546"	34.68456	-77.12348	LNM 24/16, 5th Dist	505	11541_5	6/23/2016
+11541	Relocate	Old Topsail Creek Buoy 6	R N "6"	N 34 21' 12.079"	W 077 39' 45.866"	34.35336	-77.66274	LNM 23/16, 5th Dist	504	11541_4	6/16/2016
+11541	Relocate	Old Topsail Creek Buoy 7	G C "7"	N 34 21' 11.125"	W 077 39' 48.342"	34.35309	-77.66343	LNM 23/16, 5th Dist	504	11541_4	6/16/2016
+11541	Relocate	Peletier Creek Entrance Channel Buoy 2	R N "2"	N 34 43' 21.673"	W 076 46' 47.911"	34.72269	-76.77998	LNM 23/16, 5th Dist	503	11541_3	6/16/2016
+11541	Relocate	Beaufort Inlet Channel Lighted Buoy 16	R "16" Fl R 2.5s	N 34 41' 18.360"	W 076 40' 01.110"	34.68843	-76.66698	LNM 22/16, 5th Dist	502	11541_2	6/9/2016
+11541	Relocate	Beaufort Inlet Channel Lighted Buoy 17B	G "17B" Fl G 2.5s	N 34 41' 18.960"	W 076 40' 08.280"	34.6886	-76.66897	LNM 22/16, 5th Dist	502	11541_2	6/9/2016
+11541	Relocate	Beaufort Inlet Channel Lighted Buoy 16A	R "16A" Fl R 4s	N 34 41' 30.000"	W 076 40' 07.140"	34.69167	-76.66865	LNM 22/16, 5th Dist	502	11541_2	6/9/2016
+11541	Relocate	New River - Cape Fear River Buoy 99B	G C "99B"	N 34 21' 16.006"	W 077 40' 56.297"	34.35445	-77.6823	LNM 21/16, 5th Dist	504	11541_4	5/26/2016
+11541	Relocate	Core Creek Buoy 28A	R N "28A"	N 34 45' 23.790"	W 076 40' 24.379"	34.75661	-76.67344	LNM 20/16, 5th Dist	502	11541_2	5/26/2016
+11541	Relocate	Core Creek Buoy 30	R N "30"	N 34 45' 20.171"	W 076 40' 25.725"	34.7556	-76.67381	LNM 20/16, 5th Dist	502	11541_2	5/26/2016
+11541	Relocate	Russell Slough Junction Light RS	Fl (2+1) G 6s 15ft 3M "RS"	N 34 45' 19.550"	W 076 40' 21.348"	34.75543	-76.6726	LNM 20/16, 5th Dist	502	11541_2	5/26/2016
+11541	Change	Bogue Sound - New River Light 49	Q G 15ft 5M "49"	N 34 40' 15.770"	W 077 07' 58.866"	34.67105	-77.13302	LNM 19/16, 5th Dist	505	11541_5	5/19/2016
+11541	Delete	Peletier Creek Entrance Channel Daybeacon 2	R "2"	N 34 43' 21.303"	W 076 46' 48.636"	34.72258	-76.78017	LNM 19/16, 5th Dist	503	11541_3	5/19/2016
+11541	Add	Peletier Creek Entrance Channel Buoy 2	R N "2"	N 34 43' 21.063"	W 076 46' 46.617"	34.72252	-76.77962	LNM 19/16, 5th Dist	503	11541_3	5/19/2016
+11541	Change	Beaufort Inlet Channel Lighted Buoy 15	G "15" Fl G 4s (delete GONG)	N 34 40' 48.617"	W 076 40' 09.546"	34.68017	-76.66932	LNM 17/16, 5th Dist	502	11541_2	5/5/2016
+11541	Relocate	Whittaker Creek Buoy 3A	G C "3A"	N 35 01' 31.827"	W 076 41' 04.053"	35.02551	-76.68446	LNM 17/16, 5th Dist	501	11541_1	5/5/2016
+11541	Relocate	New River - Cape Fear River Daybeacon 124	R "124"	N 34 14' 18.927"	W 077 47' 33.299"	34.23859	-77.79258	LNM 16/16, 5th Dist	504	11541_4	4/28/2016
+11541	Change	New River - Cape Fear River Light 2	Q R 18ft 4M "2"	N 34 32' 58.057"	W 077 21' 35.112"	34.54946	-77.35976	LNM 16/16, 5th Dist	505	11541_5	4/28/2016
+11541	Relocate	Adams Creek Daybeacon 12	R "12"	N 34 54' 41.156"	W 076 39' 55.301"	34.91143	-76.66536	LNM 15/16, 5th Dist	501	11541_1	4/21/2016
+11541	Relocate	Adams Creek Daybeacon 12	R "12"	N 34 54' 41.156"	W 076 39' 55.301"	34.91143	-76.66536	LNM 15/16, 5th Dist	502	11541_2	4/21/2016
+11541	Relocate	Bogue Sound Daybeacon 3A	G "3A"	N 34 42' 54.150"	W 076 43' 41.553"	34.71504	-76.72821	LNM 15/16, 5th Dist	503	11541_3	4/21/2016
+11541	Relocate	New River - Cape Fear River Daybeacon 51	G "51"	N 34 27' 56.349"	W 077 30' 38.640"	34.46565	-77.51073	LNM 14/16, 5th Dist	504	11541_4	4/14/2016
+11541	Relocate	New River - Cape Fear River Daybeacon 25	G "25"	N 34 30' 11.742"	W 077 25' 04.909"	34.50326	-77.41803	LNM 14/16, 5th Dist	505	11541_5	4/14/2016
+11541	Relocate	New River - Cape Fear River Light 93	Fl G 4s 16ft 4M "93"	N 34 23' 54.719"	W 077 36' 44.381"	34.39853	-77.61233	LNM 14/16, 5th Dist	504	11541_4	4/14/2016
+11541	Relocate	Bogue Sound - New River Daybeacon 63	G "63"	N 34 35' 46.516"	W 077 14' 35.956"	34.59626	-77.24332	LNM 14/16, 5th Dist	505	11541_5	4/14/2016
+11541	Relocate	New River - Cape Fear River Buoy 121	G C "121"	N 34 14' 58.780"	W 077 46' 55.612"	34.24966	-77.78211	LNM 14/16, 5th Dist	504	11541_4	4/14/2016
+11541	Relocate	Bogue Sound - New River Buoy 60	R N "60"	N 34 35' 56.779"	W 077 14' 26.867"	34.59911	-77.2408	LNM 13/16, 5th Dist	505	11541_5	4/7/2016
+11541	Change	Shinn Creek Light 1	Fl G 2.5s 15ft 4M "1"	N 34 11' 16.580"	W 077 49' 04.723"	34.18794	-77.81798	LNM 13/16, 5th Dist	504	11541_4	4/7/2016
+11541	Relocate	New River - Cape Fear River Buoy 129	G C "129"	N 34 11' 30.716"	W 077 49' 34.683"	34.19186	-77.8263	LNM 13/16, 5th Dist	504	11541_4	4/7/2016
+11541	Delete	Town Creek Channel Daybeacon 2	R "2"	N 34 43' 28.698"	W 076 39' 52.806"	34.72464	-76.66467	LNM 10/16, 5th Dist	502	11541_2	3/17/2016
+11541	Add	Town Creek Channel Buoy 2	R N "2"	N 34 43' 28.698"	W 076 39' 52.806"	34.72464	-76.66467	LNM 10/16, 5th Dist	502	11541_2	3/17/2016
+11541	Relocate	Morehead City Channel Lighted Buoy 25	G "25" Q G	N 34 42' 39.509"	W 076 41' 39.006"	34.71098	-76.69417	LNM 10/16, 5th Dist	502	11541_2	3/17/2016
+11541	Relocate	Morehead City Channel Lighted Buoy 25	G "25" Q G	N 34 42' 39.509"	W 076 41' 39.006"	34.71098	-76.69417	LNM 10/16, 5th Dist	503	11541_3	3/17/2016
+11541	Relocate	Beaufort Inlet Channel Lighted Gong Buoy 15	G "15" Fl G 4s GONG	N 34 40' 48.617"	W 076 40' 09.546"	34.68017	-76.66932	LNM 10/16, 5th Dist	502	11541_2	3/17/2016
+11541	Relocate	Bogue Sound - New River Daybeacon 67	G "67"	N 34 32' 53.073"	W 077 19' 44.999"	34.54808	-77.32916	LNM 09/16, 5th Dist	505	11541_5	3/10/2016
+11541	Relocate	Bogue Sound - New River Light 68	Fl R 4s 15ft 4M "68"	N 34 32' 55.525"	W 077 19' 46.517"	34.54876	-77.32959	LNM 09/16, 5th Dist	505	11541_5	3/10/2016
+11541	Relocate	Bogue Sound - New River Buoy 61A	G C "61A"	N 34 35' 53.143"	W 077 14' 31.439"	34.59809	-77.24207	LNM 09/16, 5th Dist	505	11541_5	3/10/2016
+11541	Change	Bogue Sound - New River Light 64	Fl R 4s 15ft 4M "64"	N 34 33' 54.006"	W 077 16' 54.534"	34.565	-77.28181	LNM 09/16, 5th Dist	505	11541_5	3/10/2016
+11541	Change	Bogue Sound - New River Light 68	Fl R 4s 15ft 4M "68"	N 34 32' 55.525"	W 077 19' 46.517"	34.54876	-77.32959	LNM 09/16, 5th Dist	505	11541_5	3/10/2016
+11541	Relocate	New River - Cape Fear River Buoy 121	G C "121"	N 34 14' 59.708"	W 077 46' 56.972"	34.24992	-77.78249	LNM 05/16, 5th Dist	504	11541_4	2/11/2016
+11541	Relocate	New River - Cape Fear River Light 100	Fl R 4s 18ft 4M "100"	N 34 20' 38.571"	W 077 42' 01.506"	34.34405	-77.70042	LNM 05/16, 5th Dist	504	11541_4	2/11/2016
+11541	Relocate	Bogue Sound - New River Light 55	Fl G 4s 15ft 4M "55"	N 34 38' 34.531"	W 077 10' 48.265"	34.64293	-77.18008	LNM 04/16, 5th Dist	505	11541_5	1/28/2016
+11541	Change	Banks Channel Light 2	Fl R 4s 15ft 4M "2"	N 34 21' 13.554"	W 077 38' 52.200"	34.35376	-77.64783	LNM 04/16, 5th Dist	504	11541_4	1/28/2016
+11541	Change	Banks Channel Light 6	Fl R 4s 15ft 4M "6"	N 34 21' 48.576"	W 077 38' 07.914"	34.36349	-77.63553	LNM 04/16, 5th Dist	504	11541_4	1/28/2016
+11541	Change	New River to Cape Fear River Junction Light BC	Fl (2+1) G 6s 15ft 4M "BC"	N 34 24' 37.821"	W 077 35' 41.272"	34.41051	-77.5948	LNM 04/16, 5th Dist	504	11541_4	1/28/2016
+11541	Relocate	Beaufort Inlet Channel Lighted Buoy 13	G "13" Fl G 2.5s	N 34 40' 36.335"	W 076 40' 10.995"	34.67676	-76.66972	LNM 03/16, 5th Dist	502	11541_2	1/28/2016
+11541	Add	New River - Cape Fear River Buoy 98C	R N "98C"	N 34 21' 14.129"	W 077 41' 02.335"	34.35392	-77.68398	LNM 52/15, 5th Dist	504	11541_4	1/7/2016
+11541	Add	New River - Cape Fear River Buoy 99C	G C "99C"	N 34 21' 13.201"	W 077 41' 01.781"	34.35367	-77.68383	LNM 52/15, 5th Dist	504	11541_4	1/7/2016
+11541	Change	Adams Creek Light 18	Fl R 4s 15ft 4M "18"	N 34 53' 24.126"	W 076 41' 12.396"	34.89003	-76.68678	LNM 52/15, 5th Dist	502	11541_2	1/7/2016
+11541	Delete	Russell Slough Channel Daybeacon 15	G "15"	N 34 43' 30.726"	W 076 40' 05.262"	34.7252	-76.66813	LNM 51/15, 5th Dist	502	11541_2	1/7/2016
+11541	Add	Russell Slough Channel Buoy 15	G C "15"	N 34 43' 30.726"	W 076 40' 05.262"	34.7252	-76.66813	LNM 51/15, 5th Dist	502	11541_2	1/7/2016
+11541	Change	Neuse River Entrance Light 2	Fl R 4s 15ft 5M "2"	N 35 08' 07.530"	W 076 30' 51.172"	35.13543	-76.51421	LNM 47/15, 5th Dist	501	11541_1	12/3/2015
+11541	Relocate	Bogue Sound Buoy 45A	G C "45A"	N 34 40' 23.378"	W 077 05' 56.130"	34.67316	-77.09892	LNM 47/15, 5th Dist	505	11541_5	12/3/2015
+11541	Relocate	Neuse River Entrance Light 2	Fl R 4s 15ft 5M "2"	N 35 08' 07.530"	W 076 30' 51.172"	35.13543	-76.51421	LNM 47/15, 5th Dist	501	11541_1	12/3/2015

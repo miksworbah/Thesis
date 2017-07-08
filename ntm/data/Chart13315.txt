@@ -1,0 +1,2 @@
+Chart: 13315, Current Edition: 13, Print Date: Aug. /2014, Deer Island Thorofare and Casco Passage
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

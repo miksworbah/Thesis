@@ -1,0 +1,3 @@
+Chart: 14885, Current Edition: 22, Print Date: Jun. /2014, Les Cheneaux Islands
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14885	Relocate	Ailes Point Lighted Danger Buoy 	W Or Fl 2.5s	N 45 59' 34.132"	W 084 21' 17.582"	45.99281	-84.35488	LNM 23/16, 9th Dist	1345	14885_1	6/23/2016

@@ -1,133 +1,133 @@
-Chart: 12335, Current Edition: 45, Print Date: Mar. /2012, Hudson and East Rivers Governors Island to 67th Street
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-12335	Add	Chartlet - Revised soundings, depth curves and blue tint.	chartlet - Revised soundings, depth curves and blue tint.	N 40 43' 45.590"	W 073 57' 21.900"	40.72933	-73.95609	LNM 18/17, 1st Dist	2237	12335_1	5/4/2017
-12335	Relocate	ROOSEVELT ISLAND REEF LIGHT 17	Fl G 4s 57ft "17"	N 40 44' 47.450"	W 073 57' 51.980"	40.74651	-73.96444	LNM 04/17, 1st Dist	2237	12335_1	2/2/2017
-12335	Change	ROOSEVELT ISLAND REEF LIGHT 17	Fl G 4s 57ft "17"	N 40 44' 47.450"	W 073 57' 51.980"	40.74651	-73.96444	LNM 04/17, 1st Dist	2237	12335_1	2/2/2017
-12335	Add	DANGER LINE (PT 1 OF 4)	None	N 40 40' 21.580"	W 074 00' 57.560"	40.67266	-74.01599	LNM 51/16, 1st Dist	2237	12335_1	12/29/2016
-12335	Add	DANGER LINE (PT 4 OF 4)	None	N 40 40' 20.840"	W 074 00' 56.330"	40.67245	-74.01565	LNM 51/16, 1st Dist	2237	12335_1	12/29/2016
-12335	Delete	WHARF (PT 1 OF 4)	None	N 40 40' 21.480"	W 074 00' 57.420"	40.67263	-74.01595	LNM 50/16, 1st Dist	2237	12335_1	12/22/2016
-12335	Delete	WHARF (PT 4 OF 4)	None	N 40 40' 20.880"	W 074 00' 56.400"	40.67247	-74.01566	LNM 50/16, 1st Dist	2237	12335_1	12/22/2016
-12335	Delete	STACK	STACK	N 40 40' 26.880"	W 074 00' 52.860"	40.67413	-74.01469	LNM 50/16, 1st Dist	2237	12335_1	12/22/2016
-12335	Delete	SOUNDING IN FEET	23	N 40 41' 08.080"	W 074 00' 47.990"	40.68558	-74.01333	LNM 49/16, 1st Dist	2237	12335_1	12/15/2016
-12335	Add	SOUNDING IN FEET	36	N 40 41' 08.080"	W 074 00' 47.990"	40.68558	-74.01333	LNM 49/16, 1st Dist	2237	12335_1	12/15/2016
-12335	Add	Sounding in Feet	23	N 40 41' 08.080"	W 074 00' 47.990"	40.68558	-74.01333	LNM 48/16, 1st Dist	2237	12335_1	11/24/2016
-12335	Delete	Obstruction in Feet	36 Obstn       	N 40 41' 08.244"	W 074 00' 47.644"	40.68562	-74.01324	LNM 48/16, 1st Dist	2237	12335_1	11/24/2016
-12335	Add	Pipeline Area  PT 1 OF 4	Pipeline Area	N 40 44' 09.590"	W 073 56' 30.660"	40.736	-73.94185	LNM 21/16, 1st Dist	2237	12335_1	5/19/2016
-12335	Add	Pipeline Area  PT 2 OF 4	Pipeline Area	N 40 44' 07.530"	W 073 56' 32.690"	40.73542	-73.94241	LNM 21/16, 1st Dist	2237	12335_1	5/19/2016
-12335	Add	Pipeline Area  PT 3 OF 4	Pipeline Area	N 40 44' 14.410"	W 073 56' 43.670"	40.73734	-73.94547	LNM 21/16, 1st Dist	2237	12335_1	5/19/2016
-12335	Add	Pipeline Area  PT 4 OF 4	Pipeline Area	N 40 44' 10.280"	W 073 56' 46.180"	40.73619	-73.94616	LNM 21/16, 1st Dist	2237	12335_1	5/19/2016
-12335	Change	tabulation - Newtown Creek Channel Depths	tabulation - Newtown Creek Channel Depths	N 40 45' 52.000"	W 073 58' 00.000"	40.76445	-73.96667	LNM 21/16, 1st Dist	2237	12335_1	5/19/2016
-12335	Delete	Sounding in Feet	38	N 40 41' 14.100"	W 074 00' 42.600"	40.68725	-74.01183	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Delete	Obstruction in Feet	40 Obstn       	N 40 40' 50.290"	W 074 01' 10.580"	40.68064	-74.01961	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Add	Obstruction in Feet	37 Obstn 	N 40 40' 49.280"	W 074 01' 10.100"	40.68036	-74.01947	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Delete	Sounding in Feet	37	N 40 40' 48.600"	W 074 01' 36.300"	40.68017	-74.02675	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Add	Sounding in Feet	32	N 40 40' 48.800"	W 074 01' 35.500"	40.68022	-74.02653	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Delete	Sounding in Feet	36	N 40 42' 11.000"	W 073 59' 52.200"	40.70306	-73.99783	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Delete	Sounding in Feet	37	N 40 41' 48.100"	W 074 00' 24.500"	40.69669	-74.00681	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Add	Sounding in Feet	39	N 40 41' 49.600"	W 074 00' 08.100"	40.69711	-74.00225	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Delete	Sounding in Feet	38	N 40 42' 12.700"	W 073 59' 47.900"	40.70353	-73.99664	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Add	Sounding in Feet	34	N 40 42' 12.600"	W 073 59' 48.300"	40.7035	-73.99675	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Add	Sounding in Feet	22	N 40 44' 33.700"	W 073 57' 46.200"	40.74269	-73.96283	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Add	Sounding in Feet	23	N 40 44' 30.900"	W 073 57' 47.000"	40.74192	-73.96306	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Add	Sounding in Feet	33	N 40 40' 46.400"	W 074 01' 37.300"	40.67955	-74.02703	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Delete	Sounding in Feet	36	N 40 40' 44.700"	W 074 01' 40.800"	40.67908	-74.028	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Delete	Sounding in Feet	36	N 40 40' 43.300"	W 074 01' 42.600"	40.6787	-74.0285	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Delete	Sounding in Feet	36	N 40 40' 44.200"	W 074 01' 44.800"	40.67894	-74.02911	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Add	Sounding in Feet	34	N 40 40' 44.500"	W 074 01' 43.100"	40.67903	-74.02864	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Delete	Sounding in Feet	37	N 40 40' 46.600"	W 074 01' 36.400"	40.67961	-74.02678	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Delete	Sounding in Feet	25	N 40 41' 45.500"	W 074 00' 46.100"	40.69597	-74.0128	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Add	Sounding in Feet	34	N 40 41' 48.300"	W 074 00' 25.900"	40.69675	-74.00719	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Add	Sounding in Feet	33	N 40 41' 47.700"	W 074 00' 29.100"	40.69658	-74.00808	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Add	Sounding in Feet	32	N 40 42' 11.400"	W 073 59' 51.300"	40.70317	-73.99758	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Delete	Sounding in Feet	41	N 40 41' 12.800"	W 074 00' 41.400"	40.68689	-74.0115	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Add	Sounding in Feet	19	N 40 41' 45.700"	W 074 00' 45.600"	40.69603	-74.01266	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Add	Obstruction in Feet	33 Obstn (rep 2012)	N 40 41' 13.040"	W 074 00' 42.750"	40.68695	-74.01187	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Delete	Obstruction in Feet	43 Obstn       	N 40 41' 02.310"	W 074 00' 46.160"	40.68398	-74.01283	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Add	Obstruction in Feet	31 Obstn       	N 40 40' 45.920"	W 074 01' 14.230"	40.67942	-74.02062	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Delete	Sounding in Feet	37	N 40 40' 49.800"	W 074 01' 32.700"	40.6805	-74.02575	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Add	Sounding in Feet	33	N 40 40' 50.300"	W 074 01' 31.800"	40.68064	-74.0255	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
-12335	Add	BROOKLYN PIER 5 MARINA LIGHT	Fl 4s Priv	N 40 41' 44.870"	W 074 00' 08.430"	40.6958	-74.00234	LNM 09/16, 1st Dist	2237	12335_1	3/10/2016
-12335	Add	BROOKLYN PIER 5 MARINA LIGHT 1	Fl G 4s "1" Priv	N 40 41' 52.370"	W 074 00' 03.720"	40.69788	-74.00103	LNM 09/16, 1st Dist	2237	12335_1	3/10/2016
-12335	Add	BROOKLYN PIER 5 MARINA LIGHT 2	Fl R 4s "2" Priv	N 40 41' 51.290"	W 074 00' 04.400"	40.69758	-74.00122	LNM 09/16, 1st Dist	2237	12335_1	3/10/2016
-12335	Delete	GOVERNORS ISLAND EXT LIGHT	F R 47ft 9M	N 40 41' 08.800"	W 074 01' 35.300"	40.68578	-74.02647	LNM 38/15, 1st Dist	2237	12335_1	10/1/2015
-12335	Add	magenta channel reach separator PT 1 OF 2	None	N 40 44' 20.610"	W 073 57' 09.630"	40.73906	-73.95267	LNM 26/15, 1st Dist	2237	12335_1	6/25/2015
-12335	Add	magenta channel reach separator PT 2 OF 2	None	N 40 44' 21.860"	W 073 57' 09.250"	40.73941	-73.95257	LNM 26/15, 1st Dist	2237	12335_1	6/25/2015
-12335	Change	label to: REACH B	REACH B	N 40 44' 19.400"	W 073 57' 02.400"	40.73872	-73.95067	LNM 26/15, 1st Dist	2237	12335_1	6/25/2015
-12335	Delete	magenta channel reach separator PT 1 OF 2	None	N 40 44' 20.270"	W 073 57' 07.770"	40.73896	-73.95216	LNM 26/15, 1st Dist	2237	12335_1	6/25/2015
-12335	Delete	magenta channel reach separator PT 2 OF 2	None	N 40 44' 21.490"	W 073 57' 07.250"	40.7393	-73.95201	LNM 26/15, 1st Dist	2237	12335_1	6/25/2015
-12335	Delete	label: REACH L	REACH L	N 40 44' 16.100"	W 073 56' 46.500"	40.7378	-73.94625	LNM 26/15, 1st Dist	2237	12335_1	6/25/2015
-12335	Add	Sounding in feet	4	N 40 44' 16.600"	W 073 56' 44.000"	40.73795	-73.94556	LNM 26/15, 1st Dist	2237	12335_1	6/25/2015
-12335	Add	Sounding in feet	13	N 40 44' 16.250"	W 073 56' 46.100"	40.73785	-73.94614	LNM 26/15, 1st Dist	2237	12335_1	6/25/2015
-12335	Change	tabulation - Newtown Creek Channel Depths	tabulation - Newtown Creek Channel Depths	N 40 45' 52.000"	W 073 58' 00.000"	40.76445	-73.96667	LNM 23/15, 1st Dist	2237	12335_1	6/4/2015
-12335	Change	GOVERNORS ISLAND EXTENSION LIGHT	F R 47ft 9M	N 40 41' 08.800"	W 074 01' 35.300"	40.68578	-74.02647	LNM 23/14, 1st Dist	2237	12335_1	6/19/2014
-12335	Change	GOVERNORS ISLAND LIGHT (2)	F R 75ft 7M	N 40 41' 34.600"	W 074 01' 10.800"	40.69294	-74.01967	LNM 23/14, 1st Dist	2237	12335_1	6/19/2014
-12335	Add	Sounding in Feet	13	N 40 43' 14.310"	W 073 58' 21.850"	40.72064	-73.97273	LNM 23/14, 1st Dist	2237	12335_1	6/5/2014
-12335	Add	Sounding in Feet	16	N 40 43' 12.610"	W 073 58' 22.360"	40.72017	-73.97288	LNM 23/14, 1st Dist	2237	12335_1	6/5/2014
-12335	Add	Dangerous Wreck	PA      	N 40 43' 13.480"	W 073 58' 22.140"	40.72041	-73.97282	LNM 23/14, 1st Dist	2237	12335_1	6/5/2014
-12335	Delete	Sounding in Feet	24	N 40 43' 13.820"	W 073 58' 22.440"	40.7205	-73.9729	LNM 23/14, 1st Dist	2237	12335_1	6/5/2014
-12335	Add	Stevens Institute Lighted Buoy A	Y "A" Fl Y 4s Priv	N 40 44' 37.200"	W 074 01' 20.400"	40.74367	-74.02233	LNM 10/14, 1st Dist	2237	12335_1	3/20/2014
-12335	Delete	Restricted Area Label	RESTRICTED AREA 165.164 (see note A)	N 40 44' 50.300"	W 073 57' 37.500"	40.74731	-73.96042	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
-12335	Add	Security Zone PT 1 OF 4	(Chart No. 1: N1.2)	N 40 44' 37.000"	W 073 58' 16.500"	40.74361	-73.97125	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
-12335	Add	Security Zone PT 2 OF 4	(Chart No. 1: N1.2)	N 40 44' 34.500"	W 073 58' 10.500"	40.74292	-73.96958	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
-12335	Add	Security Zone PT 3 OF 4	(Chart No. 1: N1.2)	N 40 45' 28.900"	W 073 57' 26.600"	40.75803	-73.95739	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
-12335	Add	Security Zone PT 4 OF 4	(Chart No. 1: N1.2)	N 40 45' 30.700"	W 073 57' 30.700"	40.75853	-73.95853	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
-12335	Delete	Restricted Area Label	RESTRICTED AREA 165.164 (see note A)	N 40 44' 37.000"	W 073 58' 09.400"	40.74361	-73.96928	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
-12335	Add	Security Zone Label	SECURITY ZONE 165.164 (see note A)	N 40 45' 06.700"	W 073 57' 48.300"	40.75186	-73.96342	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
-12335	Delete	Restricted Area PT 1 OF 2	(Chart No. 1: N2.1)	N 40 45' 18.500"	W 073 57' 03.200"	40.75514	-73.95089	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
-12335	Delete	Restricted Area PT 2 OF 2	(Chart No. 1: N2.1)	N 40 45' 22.500"	W 073 57' 12.300"	40.75625	-73.95341	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
-12335	Delete	Restricted Area PT 1 OF 2	(Chart No. 1: N2.1)	N 40 45' 26.000"	W 073 57' 20.000"	40.75722	-73.95556	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
-12335	Delete	Restricted Area PT 2 OF 2	(Chart No. 1: N2.1)	N 40 45' 30.700"	W 073 57' 30.700"	40.75853	-73.95853	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
-12335	Delete	Restricted Area PT 1 OF 2	(Chart No. 1: N2.1)	N 40 44' 37.000"	W 073 58' 16.700"	40.74361	-73.97131	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
-12335	Delete	Restricted Area PT 2 OF 2	(Chart No. 1: N2.1)	N 40 44' 23.000"	W 073 57' 44.500"	40.73972	-73.96236	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
-12335	Change	Deep Water Channel Lighted Buoy 3	G "3" Fl G 2.5s	N 40 41' 57.124"	W 074 00' 30.450"	40.6992	-74.00846	LNM 03/14, 1st Dist	2237	12335_1	1/30/2014
-12335	Change	Deep Water Channel Lighted Buoy 2	R "2" Q R	N 40 41' 46.730"	W 074 00' 44.807"	40.69632	-74.01244	LNM 03/14, 1st Dist	2237	12335_1	1/30/2014
-12335	Change	Deep Water Channel Lighted Buoy 1	G "1" Q G	N 40 41' 52.279"	W 074 01' 16.130"	40.69786	-74.02115	LNM 03/14, 1st Dist	2237	12335_1	1/30/2014
-12335	Delete	Dangerous Rock Awash	Chart No. 1: Ka	N 40 42' 15.653"	W 074 02' 03.322"	40.70435	-74.03426	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
-12335	Add	Obstruction in Feet	20 Obstn       Chart No. 1: K41	N 40 41' 22.686"	W 074 02' 30.253"	40.68964	-74.04174	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
-12335	Delete	Obstruction	Obstn PA (2 ft rep)        Chart No. 1: K40	N 40 41' 19.378"	W 074 03' 01.041"	40.68872	-74.05029	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
-12335	Delete	Visible Wreck	Chart No. 1: K24	N 40 41' 46.198"	W 074 02' 28.552"	40.69617	-74.04127	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
-12335	Add	Obstruction in Feet	6 Obstn       Chart No. 1: K41	N 40 41' 46.289"	W 074 03' 57.844"	40.69619	-74.06607	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
-12335	Add	Obstruction in Feet	7 Obstn       Chart No. 1: K41	N 40 41' 51.652"	W 074 02' 51.759"	40.69768	-74.04771	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
-12335	Delete	Obstruction in Feet	12 Obstn Rep (1979) ED      Chart No. 1: K41	N 40 42' 33.939"	W 074 01' 55.137"	40.70943	-74.03198	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
-12335	Add	Obstruction in Feet	8 Obstn       Chart No. 1: K41	N 40 41' 59.949"	W 074 02' 39.213"	40.69999	-74.04423	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
-12335	Add	Obstruction in Feet	6 Obstn       Chart No. 1: K41	N 40 41' 52.712"	W 074 02' 53.238"	40.69798	-74.04812	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
-12335	Delete	Dangerous Rock Awash	Chart No. 1: Ka	N 40 42' 17.213"	W 074 02' 01.307"	40.70478	-74.0337	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
-12335	Add	Rock in Feet	9 Rk      Chart No. 1: K14.2	N 40 42' 17.889"	W 074 02' 01.888"	40.70497	-74.03386	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
-12335	Add	Obstruction in Feet	15 Obstn       Chart No. 1: K41	N 40 42' 33.466"	W 074 01' 56.253"	40.7093	-74.0323	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
-12335	Add	Wreck in Feet	3 Wk      Chart No. 1: K26	N 40 41' 46.288"	W 074 02' 29.147"	40.69619	-74.04143	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
-12335	Add	Obstruction in Feet	9 Obstn       Chart No. 1: K41	N 40 41' 48.060"	W 074 03' 55.615"	40.69668	-74.06544	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
-12335	Delete	Dangerous Wreck	(Chart No. 1: K28)	N 40 41' 47.640"	W 074 03' 57.316"	40.69657	-74.06592	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
-12335	Add	Sounding in Feet	5	N 40 41' 51.800"	W 074 02' 53.100"	40.69772	-74.04808	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
-12335	Substitute	Sounding in Feet	9 for 24	N 40 41' 47.200"	W 074 02' 45.500"	40.69645	-74.04597	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
-12335	Substitute	Sounding in Feet	8 for 19	N 40 41' 51.700"	W 074 02' 42.100"	40.69769	-74.04503	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
-12335	Substitute	Sounding in Feet	11 for 20	N 40 41' 54.300"	W 074 02' 48.700"	40.69842	-74.04686	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
-12335	Substitute	Sounding in Feet	10 for 19	N 40 41' 47.100"	W 074 02' 50.200"	40.69641	-74.04728	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
-12335	Add	Sounding in Feet	13	N 40 41' 49.700"	W 074 02' 53.700"	40.69714	-74.04825	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
-12335	Add	East River Main Channel Lighted Buoy 19	G "19" Fl G 2.5s	N 40 41' 57.124"	W 074 00' 30.450"	40.6992	-74.00846	LNM 29/13, 1st Dist	2237	12335_1	7/16/2013
-12335	Add	East River Main Channel Lighted Buoy 21	G "21" Q G	N 40 41' 52.279"	W 074 01' 16.130"	40.69786	-74.02115	LNM 29/13, 1st Dist	2237	12335_1	7/16/2013
-12335	Add	East River Main Channel Lighted Buoy 20	R "20" Q R	N 40 41' 46.730"	W 074 00' 44.807"	40.69632	-74.01244	LNM 29/13, 1st Dist	2237	12335_1	7/16/2013
-12335	Delete	East River Deepwater Range Front Light	F G 44ft	N 40 41' 58.301"	W 073 59' 59.454"	40.69953	-73.99985	LNM 26/13, 1st Dist	2237	12335_1	7/4/2013
-12335	Delete	East River Deepwater Range Rear Light	F R 54ft	N 40 41' 59.089"	W 073 59' 53.920"	40.69975	-73.99831	LNM 26/13, 1st Dist	2237	12335_1	7/4/2013
-12335	Delete	Accurate Landmark (Radio Tower)	(Chart No. 1: E29)	N 40 43' 47.616"	W 073 57' 39.892"	40.72989	-73.96108	LNM 25/13, 1st Dist	2237	12335_1	6/21/2013
-12335	Delete	Accurate Landmark (Radio Tower)	(Chart No. 1: E29)	N 40 43' 47.112"	W 073 57' 38.010"	40.72975	-73.96056	LNM 25/13, 1st Dist	2237	12335_1	6/21/2013
-12335	Delete	Label:	R TRS (WNYC) 830 kHz	N 40 43' 46.000"	W 073 57' 38.000"	40.72944	-73.96056	LNM 25/13, 1st Dist	2237	12335_1	6/21/2013
-12335	Add	Submarine Cable  PT 1 OF 3	Chart No. 1: L30.1	N 40 46' 47.800"	W 073 59' 38.700"	40.77995	-73.99408	LNM 26/13, 1st Dist	2237	12335_1	6/21/2013
-12335	Add	Submarine Cable  PT 2 OF 3	Chart No. 1: L30.1	N 40 46' 14.200"	W 074 00' 03.000"	40.77061	-74.00083	LNM 26/13, 1st Dist	2237	12335_1	6/21/2013
-12335	Add	Submarine Cable  PT 3 OF 3	Chart No. 1: L30.1	N 40 46' 08.200"	W 073 59' 49.500"	40.76894	-73.99709	LNM 26/13, 1st Dist	2237	12335_1	6/21/2013
-12335	Delete	Light	F R 24ft	N 40 41' 37.500"	W 074 00' 54.900"	40.69375	-74.01525	LNM 24/13, 1st Dist	2237	12335_1	6/20/2013
-12335	Delete	Light	{2 F 24ft, 3 Fl 2s 18ft 14M Fog Lts	N 40 41' 36.780"	W 074 00' 53.940"	40.69355	-74.01498	LNM 24/13, 1st Dist	2237	12335_1	6/20/2013
-12335	Delete	Light	F G 24ft	N 40 41' 36.780"	W 074 00' 52.200"	40.69355	-74.0145	LNM 24/13, 1st Dist	2237	12335_1	6/20/2013
-12335	Delete	Pier 9 Southeast Lighted Hazard Buoy	Q Priv	N 40 42' 06.000"	W 074 00' 22.000"	40.70167	-74.00611	LNM 51/12, 1st Dist	2237	12335_1	12/27/2012
-12335	Add	HURRICANES AND TROPICAL STORMS:	Hurricanes, tropical storms and other major storms may cause considerable damage to marine structures, aids to navigation and moored vessels, resulting in submerged debris in unknown locations.  Charted soundings, channel depths and shoreline may not reflect actual conditions following these storms. Fixed aids to navigation may have been damaged or destroyed. Buoys may have been moved from their charted positions, damaged, sunk, extinguished or otherwise made inoperative. Mariners should not rely upon the position or operation of an aid to navigation. Wrecks and submerged obstructions may have been displaced from charted locations. Pipelines may have become uncovered or moved.  Mariners are urged to exercise extreme caution and are requested to report aids to navigation discrepancies and hazards to navigation to the nearest United States Coast Guard unit.	N 40 43' 14.000"	W 074 00' 20.000"	40.72055	-74.00555	LNM 50/12, 1st Dist	2237	12335_1	12/6/2012
-12335	Add	Obstruction in Feet	36 Obstn	N 40 42' 19.320"	W 073 59' 34.500"	40.70537	-73.99292	LNM 46/12, 1st Dist	2237	12335_1	11/19/2012
-12335	Change	Buttermilk Channel Range Front Light	Q G 26ft	N 40 40' 51.755"	W 074 00' 59.923"	40.68104	-74.01665	LNM 39/12, 1st Dist	2237	12335_1	10/3/2012
-12335	Relocate	Poorhouse Flats Range Front Light	Q R 26ft	N 40 43' 28.028"	W 073 57' 46.370"	40.72445	-73.96288	LNM 35/12, 1st Dist	2237	12335_1	9/6/2012
-12335	Relocate	Poorhouse Flats Range Rear Light	Iso G 6s 48ft	N 40 43' 23.750"	W 073 57' 44.368"	40.72326	-73.96233	LNM 35/12, 1st Dist	2237	12335_1	9/6/2012
-12335	Delete	Hudson River Kayak Crossing Lighted Buoy A	W Or "A" Fl Y 4s Priv	N 40 45' 45.680"	W 074 00' 21.070"	40.76269	-74.00585	LNM 33/12, 1st Dist	2237	12335_1	8/22/2012
-12335	Delete	Hudson River Kayak Crossing Lighted Buoy B	W Or "B" Fl Y 4s Priv	N 40 45' 36.770"	W 074 00' 26.000"	40.76022	-74.00723	LNM 33/12, 1st Dist	2237	12335_1	8/22/2012
-12335	Delete	Red Hook Pier 44 Obstruction Buoy	W Or Priv	N 40 40' 27.780"	W 074 01' 11.400"	40.67439	-74.01984	LNM 26/12, 1st Dist	2237	12335_1	7/2/2012
-12335	Relocate	East River Deepwater Range Front Light	F G 44ft	N 40 41' 58.301"	W 073 59' 59.454"	40.69953	-73.99985	LNM 19/12, 1st Dist	2237	12335_1	5/17/2012
-12335	Relocate	East River Deepwater Range Rear Light	F R 54ft	N 40 41' 59.089"	W 073 59' 53.920"	40.69975	-73.99831	LNM 19/12, 1st Dist	2237	12335_1	5/17/2012
-12335	Relocate	Buttermilk Channel Range Front Light	Q G 46ft	N 40 40' 51.755"	W 074 00' 59.923"	40.68104	-74.01665	LNM 19/12, 1st Dist	2237	12335_1	5/17/2012
-12335	Relocate	Buttermilk Channel Range Rear Light	Iso G 6s 76ft	N 40 40' 54.292"	W 074 00' 51.276"	40.68175	-74.01424	LNM 19/12, 1st Dist	2237	12335_1	5/17/2012
-12335	Change	East River Deepwater Range Front Light	F G 44ft	N 40 41' 58.301"	W 073 59' 59.454"	40.69953	-73.99985	LNM 19/12, 1st Dist	2237	12335_1	5/17/2012
+Chart: 12335, Current Edition: 45, Print Date: Mar. /2012, Hudson and East Rivers Governors Island to 67th Street
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12335	Add	Chartlet - Revised soundings, depth curves and blue tint.	chartlet - Revised soundings, depth curves and blue tint.	N 40 43' 45.590"	W 073 57' 21.900"	40.72933	-73.95609	LNM 18/17, 1st Dist	2237	12335_1	5/4/2017
+12335	Relocate	ROOSEVELT ISLAND REEF LIGHT 17	Fl G 4s 57ft "17"	N 40 44' 47.450"	W 073 57' 51.980"	40.74651	-73.96444	LNM 04/17, 1st Dist	2237	12335_1	2/2/2017
+12335	Change	ROOSEVELT ISLAND REEF LIGHT 17	Fl G 4s 57ft "17"	N 40 44' 47.450"	W 073 57' 51.980"	40.74651	-73.96444	LNM 04/17, 1st Dist	2237	12335_1	2/2/2017
+12335	Add	DANGER LINE (PT 1 OF 4)	None	N 40 40' 21.580"	W 074 00' 57.560"	40.67266	-74.01599	LNM 51/16, 1st Dist	2237	12335_1	12/29/2016
+12335	Add	DANGER LINE (PT 4 OF 4)	None	N 40 40' 20.840"	W 074 00' 56.330"	40.67245	-74.01565	LNM 51/16, 1st Dist	2237	12335_1	12/29/2016
+12335	Delete	WHARF (PT 1 OF 4)	None	N 40 40' 21.480"	W 074 00' 57.420"	40.67263	-74.01595	LNM 50/16, 1st Dist	2237	12335_1	12/22/2016
+12335	Delete	WHARF (PT 4 OF 4)	None	N 40 40' 20.880"	W 074 00' 56.400"	40.67247	-74.01566	LNM 50/16, 1st Dist	2237	12335_1	12/22/2016
+12335	Delete	STACK	STACK	N 40 40' 26.880"	W 074 00' 52.860"	40.67413	-74.01469	LNM 50/16, 1st Dist	2237	12335_1	12/22/2016
+12335	Delete	SOUNDING IN FEET	23	N 40 41' 08.080"	W 074 00' 47.990"	40.68558	-74.01333	LNM 49/16, 1st Dist	2237	12335_1	12/15/2016
+12335	Add	SOUNDING IN FEET	36	N 40 41' 08.080"	W 074 00' 47.990"	40.68558	-74.01333	LNM 49/16, 1st Dist	2237	12335_1	12/15/2016
+12335	Add	Sounding in Feet	23	N 40 41' 08.080"	W 074 00' 47.990"	40.68558	-74.01333	LNM 48/16, 1st Dist	2237	12335_1	11/24/2016
+12335	Delete	Obstruction in Feet	36 Obstn       	N 40 41' 08.244"	W 074 00' 47.644"	40.68562	-74.01324	LNM 48/16, 1st Dist	2237	12335_1	11/24/2016
+12335	Add	Pipeline Area  PT 1 OF 4	Pipeline Area	N 40 44' 09.590"	W 073 56' 30.660"	40.736	-73.94185	LNM 21/16, 1st Dist	2237	12335_1	5/19/2016
+12335	Add	Pipeline Area  PT 2 OF 4	Pipeline Area	N 40 44' 07.530"	W 073 56' 32.690"	40.73542	-73.94241	LNM 21/16, 1st Dist	2237	12335_1	5/19/2016
+12335	Add	Pipeline Area  PT 3 OF 4	Pipeline Area	N 40 44' 14.410"	W 073 56' 43.670"	40.73734	-73.94547	LNM 21/16, 1st Dist	2237	12335_1	5/19/2016
+12335	Add	Pipeline Area  PT 4 OF 4	Pipeline Area	N 40 44' 10.280"	W 073 56' 46.180"	40.73619	-73.94616	LNM 21/16, 1st Dist	2237	12335_1	5/19/2016
+12335	Change	tabulation - Newtown Creek Channel Depths	tabulation - Newtown Creek Channel Depths	N 40 45' 52.000"	W 073 58' 00.000"	40.76445	-73.96667	LNM 21/16, 1st Dist	2237	12335_1	5/19/2016
+12335	Delete	Sounding in Feet	38	N 40 41' 14.100"	W 074 00' 42.600"	40.68725	-74.01183	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Delete	Obstruction in Feet	40 Obstn       	N 40 40' 50.290"	W 074 01' 10.580"	40.68064	-74.01961	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Add	Obstruction in Feet	37 Obstn 	N 40 40' 49.280"	W 074 01' 10.100"	40.68036	-74.01947	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Delete	Sounding in Feet	37	N 40 40' 48.600"	W 074 01' 36.300"	40.68017	-74.02675	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Add	Sounding in Feet	32	N 40 40' 48.800"	W 074 01' 35.500"	40.68022	-74.02653	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Delete	Sounding in Feet	36	N 40 42' 11.000"	W 073 59' 52.200"	40.70306	-73.99783	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Delete	Sounding in Feet	37	N 40 41' 48.100"	W 074 00' 24.500"	40.69669	-74.00681	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Add	Sounding in Feet	39	N 40 41' 49.600"	W 074 00' 08.100"	40.69711	-74.00225	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Delete	Sounding in Feet	38	N 40 42' 12.700"	W 073 59' 47.900"	40.70353	-73.99664	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Add	Sounding in Feet	34	N 40 42' 12.600"	W 073 59' 48.300"	40.7035	-73.99675	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Add	Sounding in Feet	22	N 40 44' 33.700"	W 073 57' 46.200"	40.74269	-73.96283	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Add	Sounding in Feet	23	N 40 44' 30.900"	W 073 57' 47.000"	40.74192	-73.96306	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Add	Sounding in Feet	33	N 40 40' 46.400"	W 074 01' 37.300"	40.67955	-74.02703	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Delete	Sounding in Feet	36	N 40 40' 44.700"	W 074 01' 40.800"	40.67908	-74.028	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Delete	Sounding in Feet	36	N 40 40' 43.300"	W 074 01' 42.600"	40.6787	-74.0285	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Delete	Sounding in Feet	36	N 40 40' 44.200"	W 074 01' 44.800"	40.67894	-74.02911	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Add	Sounding in Feet	34	N 40 40' 44.500"	W 074 01' 43.100"	40.67903	-74.02864	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Delete	Sounding in Feet	37	N 40 40' 46.600"	W 074 01' 36.400"	40.67961	-74.02678	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Delete	Sounding in Feet	25	N 40 41' 45.500"	W 074 00' 46.100"	40.69597	-74.0128	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Add	Sounding in Feet	34	N 40 41' 48.300"	W 074 00' 25.900"	40.69675	-74.00719	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Add	Sounding in Feet	33	N 40 41' 47.700"	W 074 00' 29.100"	40.69658	-74.00808	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Add	Sounding in Feet	32	N 40 42' 11.400"	W 073 59' 51.300"	40.70317	-73.99758	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Delete	Sounding in Feet	41	N 40 41' 12.800"	W 074 00' 41.400"	40.68689	-74.0115	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Add	Sounding in Feet	19	N 40 41' 45.700"	W 074 00' 45.600"	40.69603	-74.01266	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Add	Obstruction in Feet	33 Obstn (rep 2012)	N 40 41' 13.040"	W 074 00' 42.750"	40.68695	-74.01187	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Delete	Obstruction in Feet	43 Obstn       	N 40 41' 02.310"	W 074 00' 46.160"	40.68398	-74.01283	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Add	Obstruction in Feet	31 Obstn       	N 40 40' 45.920"	W 074 01' 14.230"	40.67942	-74.02062	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Delete	Sounding in Feet	37	N 40 40' 49.800"	W 074 01' 32.700"	40.6805	-74.02575	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Add	Sounding in Feet	33	N 40 40' 50.300"	W 074 01' 31.800"	40.68064	-74.0255	LNM 13/16, 1st Dist	2237	12335_1	3/31/2016
+12335	Add	BROOKLYN PIER 5 MARINA LIGHT	Fl 4s Priv	N 40 41' 44.870"	W 074 00' 08.430"	40.6958	-74.00234	LNM 09/16, 1st Dist	2237	12335_1	3/10/2016
+12335	Add	BROOKLYN PIER 5 MARINA LIGHT 1	Fl G 4s "1" Priv	N 40 41' 52.370"	W 074 00' 03.720"	40.69788	-74.00103	LNM 09/16, 1st Dist	2237	12335_1	3/10/2016
+12335	Add	BROOKLYN PIER 5 MARINA LIGHT 2	Fl R 4s "2" Priv	N 40 41' 51.290"	W 074 00' 04.400"	40.69758	-74.00122	LNM 09/16, 1st Dist	2237	12335_1	3/10/2016
+12335	Delete	GOVERNORS ISLAND EXT LIGHT	F R 47ft 9M	N 40 41' 08.800"	W 074 01' 35.300"	40.68578	-74.02647	LNM 38/15, 1st Dist	2237	12335_1	10/1/2015
+12335	Add	magenta channel reach separator PT 1 OF 2	None	N 40 44' 20.610"	W 073 57' 09.630"	40.73906	-73.95267	LNM 26/15, 1st Dist	2237	12335_1	6/25/2015
+12335	Add	magenta channel reach separator PT 2 OF 2	None	N 40 44' 21.860"	W 073 57' 09.250"	40.73941	-73.95257	LNM 26/15, 1st Dist	2237	12335_1	6/25/2015
+12335	Change	label to: REACH B	REACH B	N 40 44' 19.400"	W 073 57' 02.400"	40.73872	-73.95067	LNM 26/15, 1st Dist	2237	12335_1	6/25/2015
+12335	Delete	magenta channel reach separator PT 1 OF 2	None	N 40 44' 20.270"	W 073 57' 07.770"	40.73896	-73.95216	LNM 26/15, 1st Dist	2237	12335_1	6/25/2015
+12335	Delete	magenta channel reach separator PT 2 OF 2	None	N 40 44' 21.490"	W 073 57' 07.250"	40.7393	-73.95201	LNM 26/15, 1st Dist	2237	12335_1	6/25/2015
+12335	Delete	label: REACH L	REACH L	N 40 44' 16.100"	W 073 56' 46.500"	40.7378	-73.94625	LNM 26/15, 1st Dist	2237	12335_1	6/25/2015
+12335	Add	Sounding in feet	4	N 40 44' 16.600"	W 073 56' 44.000"	40.73795	-73.94556	LNM 26/15, 1st Dist	2237	12335_1	6/25/2015
+12335	Add	Sounding in feet	13	N 40 44' 16.250"	W 073 56' 46.100"	40.73785	-73.94614	LNM 26/15, 1st Dist	2237	12335_1	6/25/2015
+12335	Change	tabulation - Newtown Creek Channel Depths	tabulation - Newtown Creek Channel Depths	N 40 45' 52.000"	W 073 58' 00.000"	40.76445	-73.96667	LNM 23/15, 1st Dist	2237	12335_1	6/4/2015
+12335	Change	GOVERNORS ISLAND EXTENSION LIGHT	F R 47ft 9M	N 40 41' 08.800"	W 074 01' 35.300"	40.68578	-74.02647	LNM 23/14, 1st Dist	2237	12335_1	6/19/2014
+12335	Change	GOVERNORS ISLAND LIGHT (2)	F R 75ft 7M	N 40 41' 34.600"	W 074 01' 10.800"	40.69294	-74.01967	LNM 23/14, 1st Dist	2237	12335_1	6/19/2014
+12335	Add	Sounding in Feet	13	N 40 43' 14.310"	W 073 58' 21.850"	40.72064	-73.97273	LNM 23/14, 1st Dist	2237	12335_1	6/5/2014
+12335	Add	Sounding in Feet	16	N 40 43' 12.610"	W 073 58' 22.360"	40.72017	-73.97288	LNM 23/14, 1st Dist	2237	12335_1	6/5/2014
+12335	Add	Dangerous Wreck	PA      	N 40 43' 13.480"	W 073 58' 22.140"	40.72041	-73.97282	LNM 23/14, 1st Dist	2237	12335_1	6/5/2014
+12335	Delete	Sounding in Feet	24	N 40 43' 13.820"	W 073 58' 22.440"	40.7205	-73.9729	LNM 23/14, 1st Dist	2237	12335_1	6/5/2014
+12335	Add	Stevens Institute Lighted Buoy A	Y "A" Fl Y 4s Priv	N 40 44' 37.200"	W 074 01' 20.400"	40.74367	-74.02233	LNM 10/14, 1st Dist	2237	12335_1	3/20/2014
+12335	Delete	Restricted Area Label	RESTRICTED AREA 165.164 (see note A)	N 40 44' 50.300"	W 073 57' 37.500"	40.74731	-73.96042	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
+12335	Add	Security Zone PT 1 OF 4	(Chart No. 1: N1.2)	N 40 44' 37.000"	W 073 58' 16.500"	40.74361	-73.97125	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
+12335	Add	Security Zone PT 2 OF 4	(Chart No. 1: N1.2)	N 40 44' 34.500"	W 073 58' 10.500"	40.74292	-73.96958	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
+12335	Add	Security Zone PT 3 OF 4	(Chart No. 1: N1.2)	N 40 45' 28.900"	W 073 57' 26.600"	40.75803	-73.95739	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
+12335	Add	Security Zone PT 4 OF 4	(Chart No. 1: N1.2)	N 40 45' 30.700"	W 073 57' 30.700"	40.75853	-73.95853	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
+12335	Delete	Restricted Area Label	RESTRICTED AREA 165.164 (see note A)	N 40 44' 37.000"	W 073 58' 09.400"	40.74361	-73.96928	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
+12335	Add	Security Zone Label	SECURITY ZONE 165.164 (see note A)	N 40 45' 06.700"	W 073 57' 48.300"	40.75186	-73.96342	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
+12335	Delete	Restricted Area PT 1 OF 2	(Chart No. 1: N2.1)	N 40 45' 18.500"	W 073 57' 03.200"	40.75514	-73.95089	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
+12335	Delete	Restricted Area PT 2 OF 2	(Chart No. 1: N2.1)	N 40 45' 22.500"	W 073 57' 12.300"	40.75625	-73.95341	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
+12335	Delete	Restricted Area PT 1 OF 2	(Chart No. 1: N2.1)	N 40 45' 26.000"	W 073 57' 20.000"	40.75722	-73.95556	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
+12335	Delete	Restricted Area PT 2 OF 2	(Chart No. 1: N2.1)	N 40 45' 30.700"	W 073 57' 30.700"	40.75853	-73.95853	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
+12335	Delete	Restricted Area PT 1 OF 2	(Chart No. 1: N2.1)	N 40 44' 37.000"	W 073 58' 16.700"	40.74361	-73.97131	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
+12335	Delete	Restricted Area PT 2 OF 2	(Chart No. 1: N2.1)	N 40 44' 23.000"	W 073 57' 44.500"	40.73972	-73.96236	LNM 05/14, 1st Dist	2237	12335_1	2/6/2014
+12335	Change	Deep Water Channel Lighted Buoy 3	G "3" Fl G 2.5s	N 40 41' 57.124"	W 074 00' 30.450"	40.6992	-74.00846	LNM 03/14, 1st Dist	2237	12335_1	1/30/2014
+12335	Change	Deep Water Channel Lighted Buoy 2	R "2" Q R	N 40 41' 46.730"	W 074 00' 44.807"	40.69632	-74.01244	LNM 03/14, 1st Dist	2237	12335_1	1/30/2014
+12335	Change	Deep Water Channel Lighted Buoy 1	G "1" Q G	N 40 41' 52.279"	W 074 01' 16.130"	40.69786	-74.02115	LNM 03/14, 1st Dist	2237	12335_1	1/30/2014
+12335	Delete	Dangerous Rock Awash	Chart No. 1: Ka	N 40 42' 15.653"	W 074 02' 03.322"	40.70435	-74.03426	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
+12335	Add	Obstruction in Feet	20 Obstn       Chart No. 1: K41	N 40 41' 22.686"	W 074 02' 30.253"	40.68964	-74.04174	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
+12335	Delete	Obstruction	Obstn PA (2 ft rep)        Chart No. 1: K40	N 40 41' 19.378"	W 074 03' 01.041"	40.68872	-74.05029	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
+12335	Delete	Visible Wreck	Chart No. 1: K24	N 40 41' 46.198"	W 074 02' 28.552"	40.69617	-74.04127	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
+12335	Add	Obstruction in Feet	6 Obstn       Chart No. 1: K41	N 40 41' 46.289"	W 074 03' 57.844"	40.69619	-74.06607	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
+12335	Add	Obstruction in Feet	7 Obstn       Chart No. 1: K41	N 40 41' 51.652"	W 074 02' 51.759"	40.69768	-74.04771	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
+12335	Delete	Obstruction in Feet	12 Obstn Rep (1979) ED      Chart No. 1: K41	N 40 42' 33.939"	W 074 01' 55.137"	40.70943	-74.03198	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
+12335	Add	Obstruction in Feet	8 Obstn       Chart No. 1: K41	N 40 41' 59.949"	W 074 02' 39.213"	40.69999	-74.04423	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
+12335	Add	Obstruction in Feet	6 Obstn       Chart No. 1: K41	N 40 41' 52.712"	W 074 02' 53.238"	40.69798	-74.04812	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
+12335	Delete	Dangerous Rock Awash	Chart No. 1: Ka	N 40 42' 17.213"	W 074 02' 01.307"	40.70478	-74.0337	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
+12335	Add	Rock in Feet	9 Rk      Chart No. 1: K14.2	N 40 42' 17.889"	W 074 02' 01.888"	40.70497	-74.03386	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
+12335	Add	Obstruction in Feet	15 Obstn       Chart No. 1: K41	N 40 42' 33.466"	W 074 01' 56.253"	40.7093	-74.0323	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
+12335	Add	Wreck in Feet	3 Wk      Chart No. 1: K26	N 40 41' 46.288"	W 074 02' 29.147"	40.69619	-74.04143	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
+12335	Add	Obstruction in Feet	9 Obstn       Chart No. 1: K41	N 40 41' 48.060"	W 074 03' 55.615"	40.69668	-74.06544	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
+12335	Delete	Dangerous Wreck	(Chart No. 1: K28)	N 40 41' 47.640"	W 074 03' 57.316"	40.69657	-74.06592	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
+12335	Add	Sounding in Feet	5	N 40 41' 51.800"	W 074 02' 53.100"	40.69772	-74.04808	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
+12335	Substitute	Sounding in Feet	9 for 24	N 40 41' 47.200"	W 074 02' 45.500"	40.69645	-74.04597	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
+12335	Substitute	Sounding in Feet	8 for 19	N 40 41' 51.700"	W 074 02' 42.100"	40.69769	-74.04503	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
+12335	Substitute	Sounding in Feet	11 for 20	N 40 41' 54.300"	W 074 02' 48.700"	40.69842	-74.04686	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
+12335	Substitute	Sounding in Feet	10 for 19	N 40 41' 47.100"	W 074 02' 50.200"	40.69641	-74.04728	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
+12335	Add	Sounding in Feet	13	N 40 41' 49.700"	W 074 02' 53.700"	40.69714	-74.04825	LNM 48/13, 1st Dist	2237	12335_1	11/22/2013
+12335	Add	East River Main Channel Lighted Buoy 19	G "19" Fl G 2.5s	N 40 41' 57.124"	W 074 00' 30.450"	40.6992	-74.00846	LNM 29/13, 1st Dist	2237	12335_1	7/16/2013
+12335	Add	East River Main Channel Lighted Buoy 21	G "21" Q G	N 40 41' 52.279"	W 074 01' 16.130"	40.69786	-74.02115	LNM 29/13, 1st Dist	2237	12335_1	7/16/2013
+12335	Add	East River Main Channel Lighted Buoy 20	R "20" Q R	N 40 41' 46.730"	W 074 00' 44.807"	40.69632	-74.01244	LNM 29/13, 1st Dist	2237	12335_1	7/16/2013
+12335	Delete	East River Deepwater Range Front Light	F G 44ft	N 40 41' 58.301"	W 073 59' 59.454"	40.69953	-73.99985	LNM 26/13, 1st Dist	2237	12335_1	7/4/2013
+12335	Delete	East River Deepwater Range Rear Light	F R 54ft	N 40 41' 59.089"	W 073 59' 53.920"	40.69975	-73.99831	LNM 26/13, 1st Dist	2237	12335_1	7/4/2013
+12335	Delete	Accurate Landmark (Radio Tower)	(Chart No. 1: E29)	N 40 43' 47.616"	W 073 57' 39.892"	40.72989	-73.96108	LNM 25/13, 1st Dist	2237	12335_1	6/21/2013
+12335	Delete	Accurate Landmark (Radio Tower)	(Chart No. 1: E29)	N 40 43' 47.112"	W 073 57' 38.010"	40.72975	-73.96056	LNM 25/13, 1st Dist	2237	12335_1	6/21/2013
+12335	Delete	Label:	R TRS (WNYC) 830 kHz	N 40 43' 46.000"	W 073 57' 38.000"	40.72944	-73.96056	LNM 25/13, 1st Dist	2237	12335_1	6/21/2013
+12335	Add	Submarine Cable  PT 1 OF 3	Chart No. 1: L30.1	N 40 46' 47.800"	W 073 59' 38.700"	40.77995	-73.99408	LNM 26/13, 1st Dist	2237	12335_1	6/21/2013
+12335	Add	Submarine Cable  PT 2 OF 3	Chart No. 1: L30.1	N 40 46' 14.200"	W 074 00' 03.000"	40.77061	-74.00083	LNM 26/13, 1st Dist	2237	12335_1	6/21/2013
+12335	Add	Submarine Cable  PT 3 OF 3	Chart No. 1: L30.1	N 40 46' 08.200"	W 073 59' 49.500"	40.76894	-73.99709	LNM 26/13, 1st Dist	2237	12335_1	6/21/2013
+12335	Delete	Light	F R 24ft	N 40 41' 37.500"	W 074 00' 54.900"	40.69375	-74.01525	LNM 24/13, 1st Dist	2237	12335_1	6/20/2013
+12335	Delete	Light	{2 F 24ft, 3 Fl 2s 18ft 14M Fog Lts	N 40 41' 36.780"	W 074 00' 53.940"	40.69355	-74.01498	LNM 24/13, 1st Dist	2237	12335_1	6/20/2013
+12335	Delete	Light	F G 24ft	N 40 41' 36.780"	W 074 00' 52.200"	40.69355	-74.0145	LNM 24/13, 1st Dist	2237	12335_1	6/20/2013
+12335	Delete	Pier 9 Southeast Lighted Hazard Buoy	Q Priv	N 40 42' 06.000"	W 074 00' 22.000"	40.70167	-74.00611	LNM 51/12, 1st Dist	2237	12335_1	12/27/2012
+12335	Add	HURRICANES AND TROPICAL STORMS:	Hurricanes, tropical storms and other major storms may cause considerable damage to marine structures, aids to navigation and moored vessels, resulting in submerged debris in unknown locations.  Charted soundings, channel depths and shoreline may not reflect actual conditions following these storms. Fixed aids to navigation may have been damaged or destroyed. Buoys may have been moved from their charted positions, damaged, sunk, extinguished or otherwise made inoperative. Mariners should not rely upon the position or operation of an aid to navigation. Wrecks and submerged obstructions may have been displaced from charted locations. Pipelines may have become uncovered or moved.  Mariners are urged to exercise extreme caution and are requested to report aids to navigation discrepancies and hazards to navigation to the nearest United States Coast Guard unit.	N 40 43' 14.000"	W 074 00' 20.000"	40.72055	-74.00555	LNM 50/12, 1st Dist	2237	12335_1	12/6/2012
+12335	Add	Obstruction in Feet	36 Obstn	N 40 42' 19.320"	W 073 59' 34.500"	40.70537	-73.99292	LNM 46/12, 1st Dist	2237	12335_1	11/19/2012
+12335	Change	Buttermilk Channel Range Front Light	Q G 26ft	N 40 40' 51.755"	W 074 00' 59.923"	40.68104	-74.01665	LNM 39/12, 1st Dist	2237	12335_1	10/3/2012
+12335	Relocate	Poorhouse Flats Range Front Light	Q R 26ft	N 40 43' 28.028"	W 073 57' 46.370"	40.72445	-73.96288	LNM 35/12, 1st Dist	2237	12335_1	9/6/2012
+12335	Relocate	Poorhouse Flats Range Rear Light	Iso G 6s 48ft	N 40 43' 23.750"	W 073 57' 44.368"	40.72326	-73.96233	LNM 35/12, 1st Dist	2237	12335_1	9/6/2012
+12335	Delete	Hudson River Kayak Crossing Lighted Buoy A	W Or "A" Fl Y 4s Priv	N 40 45' 45.680"	W 074 00' 21.070"	40.76269	-74.00585	LNM 33/12, 1st Dist	2237	12335_1	8/22/2012
+12335	Delete	Hudson River Kayak Crossing Lighted Buoy B	W Or "B" Fl Y 4s Priv	N 40 45' 36.770"	W 074 00' 26.000"	40.76022	-74.00723	LNM 33/12, 1st Dist	2237	12335_1	8/22/2012
+12335	Delete	Red Hook Pier 44 Obstruction Buoy	W Or Priv	N 40 40' 27.780"	W 074 01' 11.400"	40.67439	-74.01984	LNM 26/12, 1st Dist	2237	12335_1	7/2/2012
+12335	Relocate	East River Deepwater Range Front Light	F G 44ft	N 40 41' 58.301"	W 073 59' 59.454"	40.69953	-73.99985	LNM 19/12, 1st Dist	2237	12335_1	5/17/2012
+12335	Relocate	East River Deepwater Range Rear Light	F R 54ft	N 40 41' 59.089"	W 073 59' 53.920"	40.69975	-73.99831	LNM 19/12, 1st Dist	2237	12335_1	5/17/2012
+12335	Relocate	Buttermilk Channel Range Front Light	Q G 46ft	N 40 40' 51.755"	W 074 00' 59.923"	40.68104	-74.01665	LNM 19/12, 1st Dist	2237	12335_1	5/17/2012
+12335	Relocate	Buttermilk Channel Range Rear Light	Iso G 6s 76ft	N 40 40' 54.292"	W 074 00' 51.276"	40.68175	-74.01424	LNM 19/12, 1st Dist	2237	12335_1	5/17/2012
+12335	Change	East River Deepwater Range Front Light	F G 44ft	N 40 41' 58.301"	W 073 59' 59.454"	40.69953	-73.99985	LNM 19/12, 1st Dist	2237	12335_1	5/17/2012

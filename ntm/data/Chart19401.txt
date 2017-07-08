@@ -1,0 +1,32 @@
+Chart: 19401, Current Edition: 9, Print Date: May. /2007, French Frigate Shoals
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+19401	Add	NOTE C SHIP REPORTING SYSTEM	The following vessels entering or departing any U.S. port of place and in transit through the reporting area are required to report into the System: all vessels 300 gross tons or greater and all vessels in the event of a developing emergency. The following vessels in transit through the reporting area should report into the System: all vessels 300 gross tons or greater, fishing vessels, and all vessels in the event of a developing emergency. See IMO SN.1, Circ. 273. Information concerning the Ship Reporting System is also published in the U.S. Coast Pilot 7, Chapters 2 and 14, and updated through Notices to Mariners. Information may also be obtained at the Office of the Commander, 14th Coast Guard District in Honolulu, or at the Office of the District Engineer, Corps of Engineers, in Honolulu. 	N 23 31' 09.000"	W 166 24' 55.000"	23.51917	-166.4153	LNM 26/09, 14th Dist	2816	19401_1	7/6/2009
+19401	Add	label	SHIP REPORTING SYSTEM AREA (see note C)	N 23 41' 06.000"	W 166 41' 35.000"	23.685	-166.6931	LNM 26/09, 14th Dist	2816	19401_1	7/6/2009
+19401	Add	label	SHIP REPORTING SYSTEM AREA (see note C)	N 24 00' 31.000"	W 165 51' 59.000"	24.00861	-165.8664	LNM 26/09, 14th Dist	2816	19401_1	7/6/2009
+19401	Add	Sounding in Fathoms 	7 Rep (2005)	N 23 49' 11.900"	W 166 19' 47.600"	23.81997	-166.3299	LNM 35/08, 14th Dist	2816	19401_1	9/26/2008
+19401	Delete	Sounding in Fathoms 	14	N 23 49' 13.800"	W 166 19' 47.700"	23.8205	-166.3299	LNM 35/08, 14th Dist	2816	19401_1	9/26/2008
+19401	Add	Sounding in Fathoms 	8 Rep (2005)	N 23 49' 11.300"	W 166 19' 30.100"	23.81981	-166.325	LNM 35/08, 14th Dist	2816	19401_1	9/26/2008
+19401	Add	Sounding in Fathoms & Fractions	6 3/4 Rep (2005)	N 23 49' 16.100"	W 166 18' 24.400"	23.82114	-166.3068	LNM 35/08, 14th Dist	2816	19401_1	9/26/2008
+19401	Delete	Sounding in Fathoms 	14	N 23 48' 20.900"	W 166 20' 03.900"	23.80581	-166.3344	LNM 35/08, 14th Dist	2816	19401_1	9/26/2008
+19401	Add	Sounding in Fathoms & Fractions	6 1/2 Rep (2005)	N 23 46' 21.700"	W 166 16' 32.200"	23.77269	-166.2756	LNM 35/08, 14th Dist	2816	19401_1	9/26/2008
+19401	Add	Sounding in Fathoms 	8 Rep (2005)	N 23 46' 02.300"	W 166 18' 02.400"	23.76731	-166.3007	LNM 35/08, 14th Dist	2816	19401_1	9/26/2008
+19401	Substitute	Sounding in Fathoms 	9 Rep (2005) for 11	N 23 46' 41.400"	W 166 17' 08.600"	23.77817	-166.2857	LNM 35/08, 14th Dist	2816	19401_1	9/26/2008
+19401	Add	Sounding in Fathoms 	7 Rep (2005) 	N 23 50' 13.300"	W 166 20' 01.600"	23.83703	-166.3338	LNM 35/08, 14th Dist	2816	19401_1	9/26/2008
+19401	Delete	Sounding in Fathoms 	9	N 23 50' 13.600"	W 166 20' 03.100"	23.83711	-166.3342	LNM 35/08, 14th Dist	2816	19401_1	9/26/2008
+19401	Add	Sounding in Fathoms 	9 Rep (2005)	N 23 46' 58.100"	W 166 17' 28.700"	23.78281	-166.2913	LNM 35/08, 14th Dist	2816	19401_1	9/26/2008
+19401	Delete	Sounding in Fathoms 	14	N 23 46' 26.400"	W 166 16' 38.100"	23.774	-166.2773	LNM 35/08, 14th Dist	2816	19401_1	9/26/2008
+19401	Add	Sounding in Fathoms 	9 Rep (2005)	N 23 45' 32.800"	W 166 16' 52.400"	23.75911	-166.2812	LNM 35/08, 14th Dist	2816	19401_1	9/26/2008
+19401	Add	Sounding in Fathoms & Fractions	6 1/4 Rep (2005)	N 23 48' 55.300"	W 166 17' 52.900"	23.81536	-166.298	LNM 35/08, 14th Dist	2816	19401_1	9/26/2008
+19401	Substitute	Sounding in Fathoms & Fractions	6 1/2 Rep (2005) for 8	N 23 47' 05.300"	W 166 16' 50.600"	23.78481	-166.2807	LNM 35/08, 14th Dist	2816	19401_1	9/26/2008
+19401	Delete	Sounding in Fathoms & Fractions	4 1/4 PA Rep (1977)	N 23 49' 18.800"	W 166 19' 34.300"	23.82189	-166.3262	LNM 35/08, 14th Dist	2816	19401_1	9/26/2008
+19401	Delete	Sounding in Fathoms 	11	N 23 49' 11.400"	W 166 19' 32.200"	23.81983	-166.3256	LNM 35/08, 14th Dist	2816	19401_1	9/26/2008
+19401	Delete	Sounding in Fathoms 	10	N 23 49' 17.200"	W 166 18' 17.000"	23.82144	-166.3047	LNM 35/08, 14th Dist	2816	19401_1	9/26/2008
+19401	Add	Sounding in Fathoms 	6 Rep (2005)	N 23 49' 03.700"	W 166 17' 47.600"	23.81769	-166.2966	LNM 35/08, 14th Dist	2816	19401_1	9/26/2008
+19401	Add	Sounding in Fathoms 	6 Rep (2005)	N 23 49' 48.000"	W 166 19' 30.500"	23.83	-166.3251	LNM 35/08, 14th Dist	2816	19401_1	9/26/2008
+19401	Delete	Sounding in Fathoms 	12	N 23 49' 48.600"	W 166 19' 36.000"	23.83017	-166.3267	LNM 35/08, 14th Dist	2816	19401_1	9/26/2008
+19401	Delete	Sounding in Fathoms 	9	N 23 49' 01.900"	W 166 17' 46.000"	23.81719	-166.2961	LNM 35/08, 14th Dist	2816	19401_1	9/26/2008
+19401	Add	Sounding in Fathoms 	10 Rep (2005)	N 23 48' 12.400"	W 166 20' 07.700"	23.80344	-166.3355	LNM 35/08, 14th Dist	2816	19401_1	9/26/2008
+19401	Add	NOTE B	AREA TO BE AVOIDEDAll vessels solely in transit should avoid the area (MSC IMO SN.1/Circ.263).	N 23 30' 30.000"	W 166 28' 13.000"	23.50833	-166.4703	LNM 21/08, 14th Dist	2816	19401_1	5/21/2008
+19401	Change	legend	AREA TO BE AVOIDED (see note B)	N 23 44' 11.000"	W 166 15' 12.000"	23.73639	-166.2533	LNM 21/08, 14th Dist	2816	19401_1	5/21/2008
+19401	Add	NOTE	PARTICULARLY SENSITIVE SEA AREAThis chart falls entirely within the limits of a Particularly Sensitive Sea Area (PSSA).  A PSSA is an environmentally sensitive area in which and around which mariners should exercise extreme caution.  See U.S. Coast Pilot volumes for information regarding this area.	N 23 31' 24.000"	W 166 28' 13.000"	23.52333	-166.4703	LNM 21/08, 14th Dist	2816	19401_1	5/21/2008
+19401	Delete	CAUTION NOTE	AREAS TO BE AVOIDEDAll vessels carrying cargoes of oil or hazardous materials and all other vessels of more than 1,000 gross tons should avoid these areas (MSC IMO XL 111/18).	N 23 30' 07.000"	W 166 41' 09.000"	23.50194	-166.6858	LNM 21/08, 14th Dist	2816	19401_1	5/21/2008

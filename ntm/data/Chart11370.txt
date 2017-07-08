@@ -1,0 +1,100 @@
+Chart: 11370, Current Edition: 29, Print Date: Sep. /2013, Mississippi River-New Orleans to Baton Rouge
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11370	Relocate	Upper Baton Rouge Anchorage Lower Daybeacon 230.6	Y Bn Ra Ref (230.6)	N 30 27' 42.922"	W 091 11' 32.455"	30.46192	-91.19235	LNM 26/17, 8th Dist	8	11370_4	Not Yet
+11370	Add	Obstruction	Obstn PA     Chart No. 1: K40	N 29 56' 57.900"	W 090 18' 23.300"	29.94942	-90.30647	LNM 22/17, 8th Dist	5	11370_1	6/15/2017
+11370	Add	Submerged Obstruction	Obstn PA     Chart No. 1:K40	N 30 06' 38.070"	W 090 59' 25.440"	30.11057	-90.9904	LNM 22/17, 8th Dist	7	11370_3	6/15/2017
+11370	Add	Shoaling Label	Shoaling rep 2016 PA	N 30 23' 33.000"	W 091 12' 53.000"	30.3925	-91.21472	WNM 19/17, NGA	7	11370_3	5/25/2017
+11370	Add	Submerged Obstruction	Obstn PA	N 30 02' 34.700"	W 090 36' 22.000"	30.04297	-90.60611	WNM 44/16, NGA	5	11370_1	11/10/2016
+11370	Add	Submerged Obstruction	Obstn PA	N 29 59' 29.020"	W 090 24' 18.800"	29.99139	-90.40522	WNM 44/16, NGA	5	11370_1	11/10/2016
+11370	Relocate	Upper Grand View Reach Anchorage Upper Daybeacon 148.8	Y Bn Ra Ref (148.8)	N 30 01' 20.680"	W 090 42' 44.060"	30.02241	-90.71224	LNM 40/16, 8th Dist	5	11370_1	10/13/2016
+11370	Relocate	Huey P Long Bridge Approach Buoy B	RG N "B" AIS	N 29 56' 42.112"	W 090 10' 02.151"	29.94503	-90.16727	LNM 32/16, 8th Dist	5	11370_1	8/18/2016
+11370	Relocate	Huey P Long Bridge Approach Buoy A	RG N "A" AIS	N 29 56' 46.075"	W 090 09' 57.629"	29.94613	-90.16601	LNM 32/16, 8th Dist	5	11370_1	8/18/2016
+11370	Change	Alhambra Range Rear D Light 	ALHAMBRA RANGE "D" REAR (189.3)     Iso R 6s	N 30 12' 50.026"	W 091 05' 42.532"	30.2139	-91.09515	LNM 03/16, 8th Dist	7	11370_3	2/25/2016
+11370	Change	Alhambra Range Front D Light 	ALHAMBRA RANGE "D" FRONT (189.4) Iso R 2s	N 30 12' 44.078"	W 091 05' 49.124"	30.21224	-91.09698	LNM 03/16, 8th Dist	7	11370_3	2/25/2016
+11370	Add	Submarine Pipeline  PT 1 OF 2	Chart No. 1: L40.1	N 30 12' 39.420"	W 091 08' 51.180"	30.21095	-91.14755	LNM 04/16, 8th Dist	7	11370_3	1/28/2016
+11370	Add	Submarine Pipeline  PT 2 OF 2	Chart No. 1: L40.1	N 30 12' 55.770"	W 091 09' 39.210"	30.21549	-91.16089	LNM 04/16, 8th Dist	7	11370_3	1/28/2016
+11370	Relocate	Baton Rouge General Anchorage Upper Daybeacon 227.3	Y Bn Ra Ref (227.3)	N 30 24' 40.996"	W 091 12' 32.042"	30.41139	-91.2089	LNM 47/15, 8th Dist	7	11370_3	12/10/2015
+11370	Relocate	Baton Rouge General Anchorage Lower Daybeacon 225.8	Y Bn Ra Ref (225.8)	N 30 23' 31.841"	W 091 13' 28.510"	30.39218	-91.22459	LNM 47/15, 8th Dist	7	11370_3	12/10/2015
+11370	Relocate	Lower Baton Rouge Anchorage Upper Daybeacon 229.0	Y Bn Ra Ref (229.0)	N 30 26' 08.231"	W 091 11' 34.383"	30.43562	-91.19289	LNM 47/15, 8th Dist	8	11370_4	12/10/2015
+11370	Relocate	Lower Baton Rouge Anchorage Upper Daybeacon 229.0	Y Bn Ra Ref (229.0)	N 30 26' 08.231"	W 091 11' 34.383"	30.43562	-91.19289	LNM 47/15, 8th Dist	7	11370_3	12/10/2015
+11370	Relocate	White Rose Light 141	Q G 3M "141"	N 30 02' 11.441"	W 090 36' 17.113"	30.03651	-90.60475	LNM 45/15, 8th Dist	5	11370_1	11/19/2015
+11370	Delete	Dangerous Wreck 	PA      Chart No. 1: K28	N 30 03' 29.300"	W 090 50' 58.600"	30.05814	-90.84961	LNM 44/15, 8th Dist	6	11370_2	11/12/2015
+11370	Add	Le Pelican Wreck V-AIS	V-AIS	N 30 06' 37.000"	W 090 59' 14.000"	30.11028	-90.98722	LNM 39/15, 8th Dist	7	11370_3	10/8/2015
+11370	Add	Bayou Lafourche Intake V-AIS	V-AIS	N 30 06' 38.070"	W 090 59' 25.440"	30.11057	-90.9904	LNM 39/15, 8th Dist	7	11370_3	10/8/2015
+11370	Add	Noranda Alumina Downstream Dolphin Light	Fl R 2.5s 16ft Priv	N 30 03' 08.237"	W 090 39' 49.951"	30.05229	-90.66387	LNM 37/15, 8th Dist	5	11370_1	9/24/2015
+11370	Add	Noranda Alumina Upstream Dolphin Light 	Fl R 2.5s 16ft Priv 	N 30 03' 07.121"	W 090 39' 53.114"	30.05198	-90.66476	LNM 37/15, 8th Dist	5	11370_1	9/24/2015
+11370	Add	Noranda Alumina Lighted Downstream Mooring Buoy 	Q Priv	N 30 03' 07.730"	W 090 39' 57.169"	30.05215	-90.66588	LNM 37/15, 8th Dist	5	11370_1	9/24/2015
+11370	Add	Noranda Alumina Lighted Upstream Mooring Buoy	Q Priv 	N 30 03' 06.986"	W 090 39' 59.277"	30.05194	-90.66647	LNM 37/15, 8th Dist	5	11370_1	9/24/2015
+11370	Add	Dangerous Wreck	PA      Chart No.1: K28	N 30 03' 29.300"	W 090 50' 58.600"	30.05814	-90.84961	LNM 24/15, 8th Dist	6	11370_2	6/25/2015
+11370	Delete	overhead telephone cable label: 	OVHD TEL CAB AUTH CL 133 FT	N 29 56' 35.400"	W 090 10' 04.450"	29.94317	-90.1679	LNM 17/15, 8th Dist	5	11370_1	4/30/2015
+11370	Relocate	Davis Crevasse Range Rear Light	Iso R 6s	N 29 55' 53.765"	W 090 19' 21.357"	29.9316	-90.3226	LNM 05/15, 8th Dist	5	11370_1	2/12/2015
+11370	Add	Bridge Fender PT 1 OF 2	Bridge Fender	N 29 56' 23.000"	W 090 22' 34.000"	29.93972	-90.37611	LNM 38/14, 8th Dist	5	11370_1	9/18/2014
+11370	Add	Bridge Fender PT 2 OF 2	Bridge Fender	N 29 56' 21.500"	W 090 22' 30.700"	29.93931	-90.37519	LNM 38/14, 8th Dist	5	11370_1	9/18/2014
+11370	Change	Fixed Bridge Label	HALE BOGGS BRIDGE FIXED BRIDGE HOR CL 1200 FT VERT CL 133 FT and FIXED BRIDGE AUX SPAN HOR CL 460 FT VERT CL 117 FT	N 29 56' 34.810"	W 090 22' 24.880"	29.943	-90.37358	LNM 38/14, 8th Dist	5	11370_1	9/18/2014
+11370	Add	CF Industries Mooring Dolphin Lights (2)	2 Fl 2.5s Priv	N 30 06' 17.150"	W 090 57' 09.365"	30.10476	-90.9526	LNM 28/14, 8th Dist	6	11370_2	7/24/2014
+11370	Add	CF Industries Mooring Dolphin Lights (2)	2 Fl 2.5s Priv	N 30 06' 17.150"	W 090 57' 09.365"	30.10476	-90.9526	LNM 28/14, 8th Dist	7	11370_3	7/24/2014
+11370	Change	East Jefferson Levee District Dolphin Light	Fl R 6s Priv	N 29 57' 23.630"	W 090 13' 28.280"	29.95656	-90.22453	LNM 25/14, 8th Dist	5	11370_1	7/3/2014
+11370	Add	Submerged Piles	Subm piles PA      Chart No. 1: K43.1	N 30 06' 36.250"	W 090 59' 24.550"	30.11007	-90.99015	LNM 22/14, 8th Dist	7	11370_3	6/12/2014
+11370	Add	Sounding in Feet	7	N 30 25' 44.780"	W 091 12' 20.030"	30.42911	-91.20557	LNM 19/14, 8th Dist	8	11370_4	5/8/2014
+11370	Add	Sounding in Feet	18	N 30 25' 37.850"	W 091 12' 06.420"	30.42718	-91.20178	LNM 19/14, 8th Dist	8	11370_4	5/8/2014
+11370	Add	Sounding in Feet	18	N 30 25' 37.850"	W 091 12' 06.420"	30.42718	-91.20178	LNM 19/14, 8th Dist	7	11370_3	5/8/2014
+11370	Delete	Sounding in Feet	11	N 30 25' 43.060"	W 091 12' 16.760"	30.42863	-91.20466	LNM 19/14, 8th Dist	8	11370_4	5/8/2014
+11370	Add	Sounding in Feet	29	N 30 31' 22.140"	W 091 12' 29.710"	30.52282	-91.20825	LNM 19/14, 8th Dist	9	11370_5	5/8/2014
+11370	Delete	Sounding in Feet	9	N 30 25' 40.200"	W 091 12' 11.440"	30.42783	-91.20318	LNM 19/14, 8th Dist	8	11370_4	5/8/2014
+11370	Delete	Sounding in Feet	9	N 30 25' 40.200"	W 091 12' 11.440"	30.42783	-91.20318	LNM 19/14, 8th Dist	7	11370_3	5/8/2014
+11370	Add	Sounding in Feet	6	N 30 25' 39.730"	W 091 12' 11.660"	30.4277	-91.20324	LNM 19/14, 8th Dist	8	11370_4	5/8/2014
+11370	Add	Sounding in Feet	6	N 30 25' 39.730"	W 091 12' 11.660"	30.4277	-91.20324	LNM 19/14, 8th Dist	7	11370_3	5/8/2014
+11370	Add	Red Eye H Light	Fl G 2.5s	N 30 21' 46.138"	W 091 14' 49.945"	30.36282	-91.24721	LNM 16/14, 8th Dist	7	11370_3	5/1/2014
+11370	Add	Huey P Long Bridge Approach Buoy A Magenta Circle AIS	AIS      Chart No. 1: S17.2	N 29 56' 45.560"	W 090 09' 58.918"	29.94599	-90.16637	LNM 12/14, 8th Dist	5	11370_1	4/3/2014
+11370	Relocate	Huey P Long Bridge Approach Buoy A	RG N "A" AIS	N 29 56' 45.560"	W 090 09' 58.918"	29.94599	-90.16637	LNM 12/14, 8th Dist	5	11370_1	4/3/2014
+11370	Add	Huey P Long Bridge Approach Buoy B Magenta Circle AIS	AIS      Chart No. 1:S17.2	N 29 56' 41.683"	W 090 10' 03.456"	29.94491	-90.16763	LNM 12/14, 8th Dist	5	11370_1	4/3/2014
+11370	Relocate	Huey P Long Bridge Approach Buoy B	RG N "B" AIS	N 29 56' 41.683"	W 090 10' 03.456"	29.94491	-90.16763	LNM 12/14, 8th Dist	5	11370_1	4/3/2014
+11370	Add	Huey P Long Bridge Approach Buoy C Magenta Circle AIS	AIS      Chart No. 1: S17.2	N 29 56' 33.658"	W 090 10' 11.886"	29.94268	-90.16997	LNM 12/14, 8th Dist	5	11370_1	4/3/2014
+11370	Relocate	Huey P Long Bridge Approach Buoy C	RG N "C" AIS	N 29 56' 33.658"	W 090 10' 11.886"	29.94268	-90.16997	LNM 12/14, 8th Dist	5	11370_1	4/3/2014
+11370	Add	Huey P Long Bridge Approach Buoy D Magenta Circle AIS	AIS      Chart No. 1: S17.2	N 29 56' 29.952"	W 090 10' 16.419"	29.94165	-90.17123	LNM 12/14, 8th Dist	5	11370_1	4/3/2014
+11370	Relocate	Huey P Long Bridge Approach Buoy D	RG N "D" AIS	N 29 56' 29.952"	W 090 10' 16.419"	29.94165	-90.17123	LNM 12/14, 8th Dist	5	11370_1	4/3/2014
+11370	Add	Huey P Long Bridge Approach Buoy 1 Magenta Circle AIS	AIS      Chart No. 1: S17.2	N 29 56' 35.969"	W 090 09' 56.698"	29.94333	-90.16575	LNM 12/14, 8th Dist	5	11370_1	4/3/2014
+11370	Relocate	Huey P Long Bridge Approach Buoy 1	G C "1" AIS	N 29 56' 35.969"	W 090 09' 56.698"	29.94333	-90.16575	LNM 12/14, 8th Dist	5	11370_1	4/3/2014
+11370	Add	Hale Boggs Luling Bridge East Pier V-AIS	V-AIS      Chart No. 1: S18.2	N 29 56' 32.330"	W 090 22' 24.290"	29.94231	-90.37341	LNM 12/14, 8th Dist	5	11370_1	4/3/2014
+11370	Add	Sunshine Bridge Approach Buoy 1 Magenta Circle AIS	AIS      Chart No. 1: S17.2	N 30 05' 46.671"	W 090 54' 53.317"	30.0963	-90.91481	LNM 12/14, 8th Dist	6	11370_2	4/3/2014
+11370	Relocate	Sunshine Bridge Approach Buoy 1	G C "1" AIS	N 30 05' 46.671"	W 090 54' 53.317"	30.0963	-90.91481	LNM 12/14, 8th Dist	6	11370_2	4/3/2014
+11370	Add	Sunshine Bridge Approach Buoy A Magenta Circle AIS	AIS      Chart No. 1: S17.2	N 30 05' 47.288"	W 090 54' 43.939"	30.09647	-90.91221	LNM 12/14, 8th Dist	6	11370_2	4/3/2014
+11370	Relocate	Sunshine Bridge Approach Buoy A	GR C "A" AIS	N 30 05' 47.288"	W 090 54' 43.939"	30.09647	-90.91221	LNM 12/14, 8th Dist	6	11370_2	4/3/2014
+11370	Add	Sunshine Bridge Approach Buoy B Magenta Circle AIS	AIS      Chart No. 1: S17.2	N 30 05' 58.176"	W 090 54' 46.531"	30.09949	-90.91293	LNM 12/14, 8th Dist	6	11370_2	4/3/2014
+11370	Relocate	Sunshine Bridge Approach Buoy B	GR C "B" AIS	N 30 05' 58.176"	W 090 54' 46.531"	30.09949	-90.91293	LNM 12/14, 8th Dist	6	11370_2	4/3/2014
+11370	Add	 to Sunshine Bridge Approach Buoy C Magenta Circle AIS	AIS      Chart No. 1: S17.2	N 30 06' 04.967"	W 090 54' 48.271"	30.10138	-90.91341	LNM 12/14, 8th Dist	6	11370_2	4/3/2014
+11370	Relocate	Sunshine Bridge Approach Buoy C	GR C "C" AIS	N 30 06' 04.967"	W 090 54' 48.271"	30.10138	-90.91341	LNM 12/14, 8th Dist	6	11370_2	4/3/2014
+11370	Add	I-10 Bridge Approach Buoy E Magenta Circle AIS	AIS      Chart No. 1: S17.2	N 30 26' 15.433"	W 091 11' 47.770"	30.43762	-91.1966	LNM 12/14, 8th Dist	8	11370_4	4/3/2014
+11370	Add	I-10 Bridge Approach Buoy E Magenta Circle AIS	AIS      Chart No. 1: S17.2	N 30 26' 15.433"	W 091 11' 47.770"	30.43762	-91.1966	LNM 12/14, 8th Dist	7	11370_3	4/3/2014
+11370	Relocate	I-10 Bridge Approach Buoy E	RG N "E" AIS	N 30 26' 15.433"	W 091 11' 47.770"	30.43762	-91.1966	LNM 12/14, 8th Dist	8	11370_4	4/3/2014
+11370	Relocate	I-10 Bridge Approach Buoy E	RG N "E" AIS	N 30 26' 15.433"	W 091 11' 47.770"	30.43762	-91.1966	LNM 12/14, 8th Dist	7	11370_3	4/3/2014
+11370	Add	I-10 Bridge Approach Buoy F Magenta Circle AIS	AIS      Chart No. 1: S17.2	N 30 26' 28.652"	W 091 11' 47.223"	30.44129	-91.19645	LNM 12/14, 8th Dist	8	11370_4	4/3/2014
+11370	Relocate	I-10 Bridge Approach Buoy F	RG N "F" AIS	N 30 26' 28.652"	W 091 11' 47.223"	30.44129	-91.19645	LNM 12/14, 8th Dist	8	11370_4	4/3/2014
+11370	Add	I-10 Bridge Approach Buoy G Magenta Circle AIS	AIS      Chart No. 1: S17.2	N 30 26' 31.640"	W 091 11' 47.187"	30.44212	-91.19644	LNM 12/14, 8th Dist	8	11370_4	4/3/2014
+11370	Relocate	I-10 Bridge Approach Buoy G	RG N "G" AIS	N 30 26' 31.640"	W 091 11' 47.187"	30.44212	-91.19644	LNM 12/14, 8th Dist	8	11370_4	4/3/2014
+11370	Add	Hale Boggs Luling Bridge West Pier V-AIS	V-AIS      Chart No. 1: S18.2	N 29 56' 33.920"	W 090 22' 27.890"	29.94275	-90.37441	LNM 12/14, 8th Dist	5	11370_1	4/3/2014
+11370	Add	Baton Rouge Bridge Baton Rouge Pier North V-AIS	V-AIS      Chart No. 1: S18.2	N 30 30' 27.020"	W 091 11' 49.620"	30.50751	-91.19711	LNM 12/14, 8th Dist	8	11370_4	4/3/2014
+11370	Add	Baton Rouge Bridge Baton Rouge Pier North V-AIS	V-AIS      Chart No. 1: S18.2	N 30 30' 27.020"	W 091 11' 49.620"	30.50751	-91.19711	LNM 12/14, 8th Dist	9	11370_5	4/3/2014
+11370	Add	Gramercy Bridge East Pier V-AIS	V-AIS      Chart No. 1: S18.2	N 30 02' 42.340"	W 090 40' 16.950"	30.04509	-90.67137	LNM 12/14, 8th Dist	5	11370_1	4/3/2014
+11370	Add	Gramercy Bridge West Pier V-AIS	V-AIS      Chart No. 1: S18.2	N 30 02' 39.960"	W 090 40' 21.510"	30.04443	-90.67264	LNM 12/14, 8th Dist	5	11370_1	4/3/2014
+11370	Add	Baton Rouge Bridge Port Allen Pier South V-AIS	V-AIS      Chart No. 1: S18.2	N 30 30' 21.580"	W 091 11' 56.970"	30.50599	-91.19916	LNM 12/14, 8th Dist	8	11370_4	4/3/2014
+11370	Add	Baton Rouge Bridge Port Allen Pier South V-AIS	V-AIS      Chart No. 1: S18.2	N 30 30' 21.580"	W 091 11' 56.970"	30.50599	-91.19916	LNM 12/14, 8th Dist	9	11370_5	4/3/2014
+11370	Add	Baton Rouge Bridge Port Allen Pier North V-AIS	V-AIS      Chart No. 1: S18.2	N 30 30' 26.470"	W 091 11' 56.960"	30.50735	-91.19916	LNM 12/14, 8th Dist	8	11370_4	4/3/2014
+11370	Add	Baton Rouge Bridge Port Allen Pier North V-AIS	V-AIS      Chart No. 1: S18.2	N 30 30' 26.470"	W 091 11' 56.960"	30.50735	-91.19916	LNM 12/14, 8th Dist	9	11370_5	4/3/2014
+11370	Add	Baton Rouge Bridge Baton Rouge Pier South V-AIS	V-AIS      Chart No. 1: S18.2	N 30 30' 22.290"	W 091 11' 49.640"	30.50619	-91.19712	LNM 12/14, 8th Dist	8	11370_4	4/3/2014
+11370	Add	Baton Rouge Bridge Baton Rouge Pier South V-AIS	V-AIS      Chart No. 1: S18.2	N 30 30' 22.290"	W 091 11' 49.640"	30.50619	-91.19712	LNM 12/14, 8th Dist	9	11370_5	4/3/2014
+11370	Delete	Bridge Construction Note	CAUTION Fixed and floating obstructions, some submerged, may exist within the magenta tinted bridge construction area. Mariners are advised to proceed with caution. 	N 29 58' 04.000"	W 090 20' 54.000"	29.96778	-90.34834	LNM 06/14, 8th Dist	5	11370_1	2/6/2014
+11370	Change	Fixed Bridge Label	HUEY P LONG FIXED BRIDGE HOR CL 500 FT VERT CL 132 FT	N 29 56' 35.400"	W 090 10' 04.450"	29.94317	-90.1679	LNM 06/14, 8th Dist	5	11370_1	2/6/2014
+11370	Change	Fixed Bridge	Chart No. 1: D22	N 29 56' 35.400"	W 090 10' 04.450"	29.94317	-90.1679	LNM 06/14, 8th Dist	5	11370_1	2/6/2014
+11370	Delete	Hahnville Bar Lighted Buoy WR1	G "WR1" Q G	N 29 58' 54.000"	W 090 24' 11.000"	29.98167	-90.40305	LNM 04/14, 8th Dist	5	11370_1	2/6/2014
+11370	Change	Southport Light 104	Iso R 6s 5M "104"	N 29 57' 33.420"	W 090 09' 04.392"	29.95928	-90.15122	LNM 45/13, 8th Dist	5	11370_1	11/8/2013
+11370	Change	Bonnet Carre Crevasse Light 132A	Iso R 6s 5M "132"	N 30 02' 49.448"	W 090 28' 27.473"	30.04707	-90.4743	LNM 45/13, 8th Dist	5	11370_1	11/8/2013
+11370	Change	Bonnet Carre Point Light 133	Iso G 6s 5M "133"	N 30 02' 53.964"	W 090 29' 25.500"	30.04832	-90.49042	LNM 45/13, 8th Dist	5	11370_1	11/8/2013
+11370	Change	Gem Light 180A	Iso R 6s 5M "180A"	N 30 08' 37.794"	W 090 59' 47.892"	30.14383	-90.99664	LNM 45/13, 8th Dist	7	11370_3	11/8/2013
+11370	Relocate	Gem Light 180A	Iso R 6s 5M "180A"	N 30 08' 37.794"	W 090 59' 47.892"	30.14383	-90.99664	LNM 45/13, 8th Dist	7	11370_3	11/8/2013
+11370	Relocate	Bayou Goula E Range Rear Light	F	N 30 13' 23.247"	W 091 09' 14.647"	30.22312	-91.15407	LNM 44/13, 8th Dist	7	11370_3	11/4/2013
+11370	Relocate	Virginia Range Rear Light	F R	N 30 14' 01.938"	W 091 07' 19.194"	30.23387	-91.122	LNM 44/13, 8th Dist	7	11370_3	11/4/2013
+11370	Relocate	St Louis Plantation Range Front Light	F G	N 30 16' 31.494"	W 091 12' 19.089"	30.27542	-91.2053	LNM 44/13, 8th Dist	7	11370_3	11/4/2013
+11370	Relocate	St Louis Plantation Range Rear Light	F G	N 30 16' 30.777"	W 091 12' 26.542"	30.27522	-91.20737	LNM 44/13, 8th Dist	7	11370_3	11/4/2013
+11370	Relocate	Medora G Range Rear Light	Iso 6s	N 30 19' 22.738"	W 091 12' 13.872"	30.32298	-91.20385	LNM 44/13, 8th Dist	7	11370_3	11/4/2013
+11370	Relocate	Arlington Range Rear Light	F R	N 30 23' 45.376"	W 091 12' 25.033"	30.39594	-91.20695	LNM 44/13, 8th Dist	7	11370_3	11/4/2013

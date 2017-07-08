@@ -1,0 +1,28 @@
+Chart: 12264, Current Edition: 33, Print Date: Apr. /2016, Chesapeake Bay Patuxent River and Vicinity
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12264	Add	Dotted Oyster Reef PT 1 OF 6	Chart No. 1: K46.1	N 38 22' 45.900"	W 076 32' 06.000"	38.37942	-76.535	LNM 27/17, 5th Dist	604	12264_1	6/29/2017
+12264	Add	Dotted Oyster Reef PT 2 OF 6	Chart No. 1: K46.1	N 38 22' 49.000"	W 076 32' 03.500"	38.38028	-76.5343	LNM 27/17, 5th Dist	604	12264_1	6/29/2017
+12264	Add	Dotted Oyster Reef PT 3 OF 6	Chart No. 1: K46.1	N 38 22' 48.100"	W 076 32' 02.900"	38.38003	-76.53414	LNM 27/17, 5th Dist	604	12264_1	6/29/2017
+12264	Add	Dotted Oyster Reef PT 4 OF 6	Chart No. 1: K46.1	N 38 22' 48.000"	W 076 31' 59.900"	38.38	-76.5333	LNM 27/17, 5th Dist	604	12264_1	6/29/2017
+12264	Add	Dotted Oyster Reef PT 5 OF 6	Chart No. 1: K46.1	N 38 22' 49.600"	W 076 31' 59.700"	38.38044	-76.53325	LNM 27/17, 5th Dist	604	12264_1	6/29/2017
+12264	Add	Dotted Oyster Reef PT 6 OF 6	Chart No. 1: K46.1	N 38 22' 47.200"	W 076 31' 57.500"	38.37978	-76.53264	LNM 27/17, 5th Dist	604	12264_1	6/29/2017
+12264	Add	Dotted Oyster Reef Label	Oyster Reef	N 38 22' 47.380"	W 076 32' 01.580"	38.37983	-76.53378	LNM 27/17, 5th Dist	604	12264_1	6/29/2017
+12264	Relocate	Tar Bay Warning Buoy A	W Or C "A"	N 38 21' 06.891"	W 076 16' 20.094"	38.35191	-76.27225	LNM 14/17, 5th Dist	604	12264_1	4/13/2017
+12264	Change	Back Creek Light 2	Fl R 4s 15ft 4M "2"	N 38 19' 18.635"	W 076 27' 18.385"	38.32184	-76.45511	LNM 49/16, 5th Dist	604	12264_1	12/15/2016
+12264	Change	Patuxent River Light 24	Fl R 4s 15ft 4M "24"	N 38 30' 31.738"	W 076 40' 18.998"	38.50882	-76.67194	LNM 49/16, 5th Dist	604	12264_1	12/15/2016
+12264	Change	Solomons Island Harbor Junction Light SH	Fl (2+1) R 6s 15ft 4M "SH"	N 38 19' 19.803"	W 076 27' 14.184"	38.32217	-76.45394	LNM 49/16, 5th Dist	604	12264_1	12/15/2016
+12264	Change	Back Creek Light 5	Fl G 4s 15ft 4M "5"	N 38 19' 35.687"	W 076 27' 26.889"	38.32658	-76.45747	LNM 49/16, 5th Dist	604	12264_1	12/15/2016
+12264	Change	Town Creek Light 2	Fl R 4s 15ft 4M "2"	N 38 18' 54.988"	W 076 28' 44.625"	38.31527	-76.47906	LNM 49/16, 5th Dist	604	12264_1	12/15/2016
+12264	Relocate	Fishing Creek Daybeacon 2	R "2"	N 38 32' 33.598"	W 076 12' 58.117"	38.54267	-76.21614	LNM 47/16, 5th Dist	604	12264_1	12/1/2016
+12264	Relocate	Fishing Creek Daybeacon 2	R "2"	N 38 32' 33.977"	W 076 12' 57.872"	38.54277	-76.21607	LNM 45/16, 5th Dist	604	12264_1	11/17/2016
+12264	Relocate	Chalk Point Power Light 30	Fl R 2.5s 12ft "30" Priv	N 38 32' 46.624"	W 076 40' 21.627"	38.54628	-76.67268	LNM 37/16, 5th Dist	604	12264_1	9/15/2016
+12264	Relocate	Chalk Point Power Light 30	Fl R 2.5s 12ft "30" Priv	N 38 32' 46.624"	W 076 40' 21.627"	38.54628	-76.67268	LNM 37/16, 5th Dist	605	12264_2	9/15/2016
+12264	Change	Patuxent River Light 12	Fl R 4s 15ft 4M "12"	N 38 21' 14.492"	W 076 29' 13.592"	38.35403	-76.48711	LNM 35/16, 5th Dist	604	12264_1	9/8/2016
+12264	Change	Slaughter Creek Warning Daybeacon A	W "A"	N 38 29' 42.939"	W 076 16' 43.506"	38.49526	-76.27876	LNM 29/16, 5th Dist	604	12264_1	8/4/2016
+12264	Add	Slaughter Creek Buoy 6A	R N "6A"	N 38 29' 55.928"	W 076 16' 22.851"	38.49887	-76.27302	LNM 29/16, 5th Dist	604	12264_1	8/4/2016
+12264	Change	Slaughter Creek Daybeacon 6B	R "6B"	N 38 29' 52.393"	W 076 16' 27.058"	38.49789	-76.27419	LNM 29/16, 5th Dist	604	12264_1	8/4/2016
+12264	Relocate	Slaughter Creek Warning Daybeacon A	W "A"	N 38 29' 42.939"	W 076 16' 43.506"	38.49526	-76.27876	LNM 29/16, 5th Dist	604	12264_1	8/4/2016
+12264	Change	Little Choptank River Light 13	Fl G 2.5s 15ft 3M "13"	N 38 33' 00.512"	W 076 13' 06.220"	38.55014	-76.21839	LNM 27/16, 5th Dist	604	12264_1	7/7/2016
+12264	Relocate	Little Choptank River Light 13	Fl G 2.5s 15ft 3M "13"	N 38 33' 00.512"	W 076 13' 06.220"	38.55014	-76.21839	LNM 27/16, 5th Dist	604	12264_1	7/7/2016
+12264	Change	Hooper Island Light	Fl 6s 63ft 9M (delete HORN (Sep 15 to Jun 1))	N 38 15' 22.500"	W 076 14' 59.300"	38.25625	-76.24981	LNM 23/16, 5th Dist	604	12264_1	6/16/2016
+12264	Relocate	Hooper Island Light	Fl 6s 63ft 9M	N 38 15' 22.500"	W 076 14' 59.300"	38.25625	-76.24981	LNM 23/16, 5th Dist	604	12264_1	6/16/2016

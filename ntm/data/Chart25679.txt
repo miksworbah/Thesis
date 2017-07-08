@@ -1,0 +1,14 @@
+Chart: 25679, Current Edition: 10, Print Date: Mar. /2003, Bahia de Guanica
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+25679	Add	Pilot Station	Pilots    Chart No.1 T 1.1	N 17 54' 24.000"	W 066 54' 00.000"	17.90667	-66.9	LNM 30/13, 7th Dist	405	25679_1	7/18/2013
+25679	Relocate	Bahia de Guanica Range Front Light	Q R 27ft	N 17 57' 53.707"	W 066 54' 33.244"	17.96492	-66.90923	LNM 09/12, 7th Dist	405	25679_1	3/19/2012
+25679	Relocate	Bahia de Guanica Range Rear Light	Iso R 6s 48ft	N 17 58' 10.251"	W 066 54' 34.787"	17.96951	-66.90966	LNM 09/12, 7th Dist	405	25679_1	3/19/2012
+25679	Change	Bahia de Guanica Range Front Light	Q R 36ft	N 17 57' 53.707"	W 066 54' 33.244"	17.96492	-66.90923	LNM 09/12, 7th Dist	405	25679_1	3/19/2012
+25679	Change	Bahia de Guanica Range Rear Light	Iso R 6s 49ft	N 17 58' 10.251"	W 066 54' 34.787"	17.96951	-66.90966	LNM 09/12, 7th Dist	405	25679_1	3/19/2012
+25679	Relocate	Bahia de Guanica Entrance Lighted Buoy 2	R "2" Fl R 4s	N 17 55' 13.950"	W 066 54' 14.987"	17.92054	-66.90416	LNM 04/12, 7th Dist	405	25679_1	2/9/2012
+25679	Add	HURRICANES AND TROPICAL STORMS	Hurricanes, tropical storms and other major storms may cause considerable damage to marine structures, aids to navigation and moored vessels, resulting in submerged debris in unknown locations. Charted soundings, channel depths and shoreline may not reflect actual conditions following these storms. Fixed aids to navigation may have been damaged or destroyed. Buoys may have been moved from charted positions, damaged, sunk extinguished or otherwise made inoperative. Mariners should not rely upon the position or operation of an aid to navigation. Wrecks and submerged obstructions may have been displaced from charted locations. Pipelines may have become uncovered or moved. Mariners are urged to exercise extreme caution and are requested to report aids to navigation discrepancies and hazards to navigation to the nearest United States Coast Guard unit.	N 17 55' 57.000"	W 066 55' 46.000"	17.9325	-66.92944	LNM 15/06, 7th Dist	405	25679_1	2/13/2008
+25679	Revise	BAHIA DE GUANICA LB 4	R "4" Fl R 6s	N 17 56' 12.894"	W 066 54' 25.132"	17.93691	-66.90698	LNM 13/04, 7th Dist	405	25679_1	2/13/2008
+25679	Relocate	BAHIA DE GUANICA LT BY 4	R "4" Fl R 4s	N 17 56' 12.894"	W 066 54' 25.132"	17.93691	-66.90698	LNM 09/04, 7th Dist	405	25679_1	2/13/2008
+25679	Delete	BAHIA DE GUANICA BY 12	R N "12"	N 17 57' 51.650"	W 066 55' 18.653"	17.96435	-66.92184	LNM 04/04, 7th Dist	405	25679_1	2/13/2008
+25679	Revise	BAHIA DE GUANICA BY 6	R N "6"	N 17 57' 22.081"	W 066 54' 27.633"	17.95613	-66.90768	LNM 04/04, 7th Dist	405	25679_1	2/13/2008
+25679	Delete	BAHIA DE GUANICA BY 11	G C "11"	N 17 57' 49.390"	W 066 55' 19.493"	17.96372	-66.92208	LNM 04/04, 7th Dist	405	25679_1	2/13/2008

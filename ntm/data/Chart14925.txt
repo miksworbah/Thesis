@@ -1,0 +1,2 @@
+Chart: 14925, Current Edition: 24, Print Date: Dec. /2015, Racine Harbor
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

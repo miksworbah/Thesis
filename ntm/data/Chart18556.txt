@@ -1,0 +1,3 @@
+Chart: 18556, Current Edition: 26, Print Date: Jun. /2012, Nehalem River
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18556	Delete	Nehalem River Approach Whistle Buoy NR	RW "NR" WHIS	N 45 39' 17.098"	W 123 57' 32.496"	45.65475	-123.959	LNM 18/14, 13th Dist	1787	18556_1	5/22/2014

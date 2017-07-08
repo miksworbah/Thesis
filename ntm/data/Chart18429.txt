@@ -1,0 +1,39 @@
+Chart: 18429, Current Edition: 11, Print Date: May. /2014, Rosario Strait-southern part
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+18429	Delete	Minor Island Light	Fl 4s 27ft 5M	N 48 19' 27.666"	W 122 49' 09.474"	48.32435	-122.8193	LNM 14/17, 13th Dist	1682	18429_1	4/13/2017
+18429	Relocate	Fauntleroy Point Light	Fl 4s 37ft 6M	N 48 31' 28.163"	W 122 47' 18.525"	48.52449	-122.7885	LNM 05/17, 13th Dist	1682	18429_1	2/2/2017
+18429	Change	Fauntleroy Point Light	Fl 4s 37ft 6M	N 48 31' 28.163"	W 122 47' 18.525"	48.52449	-122.7885	LNM 05/17, 13th Dist	1682	18429_1	2/2/2017
+18429	Relocate	Davidson Rock Light 1	Fl G 4s 28ft 5M "1" 	N 48 24' 47.814"	W 122 48' 43.165"	48.41328	-122.812	LNM 05/17, 13th Dist	1682	18429_1	2/2/2017
+18429	Relocate	Lawson Rock Light 2	Fl R 4s 15ft 4M "2" 	N 48 31' 51.528"	W 122 47' 19.431"	48.53098	-122.7887	LNM 05/17, 13th Dist	1682	18429_1	2/2/2017
+18429	Relocate	Blakely Island Light 4	Fl R 6s 15ft 6M "4"	N 48 31' 52.261"	W 122 48' 34.256"	48.53119	-122.8095	LNM 05/17, 13th Dist	1682	18429_1	2/2/2017
+18429	Change	Blakely Island Light 4	Fl R 6s 15ft 6M "4"	N 48 31' 52.261"	W 122 48' 34.256"	48.53119	-122.8095	LNM 05/17, 13th Dist	1682	18429_1	2/2/2017
+18429	Relocate	Reef Point Junction Lighted Buoy	RG Fl (2+1) R 6s	N 48 31' 43.791"	W 122 43' 33.197"	48.52883	-122.7259	LNM 48/16, 13th Dist	1682	18429_1	12/1/2016
+18429	Relocate	Undertakers Reef Daybeacon 5	G "5" Ra Ref	N 48 31' 22.578"	W 122 49' 46.254"	48.52294	-122.8295	LNM 13/16, 13th Dist	1682	18429_1	4/14/2016
+18429	Relocate	Center Island Reef Daybeacon	BW Bn 	N 48 29' 04.626"	W 122 50' 05.916"	48.48462	-122.835	LNM 13/16, 13th Dist	1682	18429_1	4/14/2016
+18429	Change	Center Island Reef Daybeacon	BW Bn 	N 48 29' 04.626"	W 122 50' 05.916"	48.48462	-122.835	LNM 13/16, 13th Dist	1682	18429_1	4/14/2016
+18429	Relocate	Black Rock Light 9	Fl G 4s 10ft 4M "9"	N 48 32' 45.168"	W 122 45' 56.352"	48.54588	-122.7657	LNM 12/16, 13th Dist	1682	18429_1	3/31/2016
+18429	Relocate	Smith Island Light	Fl 10s 55ft 14M	N 48 19' 14.368"	W 122 49' 51.449"	48.32066	-122.831	LNM 09/16, 13th Dist	1682	18429_1	3/10/2016
+18429	Change	Smith Island Light	Fl 10s 55ft 14M	N 48 19' 14.368"	W 122 49' 51.449"	48.32066	-122.831	LNM 09/16, 13th Dist	1682	18429_1	3/10/2016
+18429	Delete	Fish pen	Fish pen	N 48 33' 14.450"	W 122 41' 05.770"	48.55401	-122.6849	LNM 05/15, 13th Dist	1682	18429_1	2/5/2015
+18429	Delete	Fish pen	Fish pen	N 48 33' 37.850"	W 122 40' 50.630"	48.56051	-122.6807	LNM 05/15, 13th Dist	1682	18429_1	2/5/2015
+18429	Add	Fish pen PT 2 OF 4	Fish pen	N 48 33' 38.310"	W 122 40' 52.180"	48.56064	-122.6812	LNM 05/15, 13th Dist	1682	18429_1	2/5/2015
+18429	Add	Fish pen PT 3 OF 4	Fish pen	N 48 33' 37.010"	W 122 40' 50.420"	48.56028	-122.6807	LNM 05/15, 13th Dist	1682	18429_1	2/5/2015
+18429	Add	Fish pen PT 4 OF 4	Fish pen	N 48 33' 40.350"	W 122 40' 44.580"	48.56121	-122.679	LNM 05/15, 13th Dist	1682	18429_1	2/5/2015
+18429	Add	Fish pen PT 1 OF 4	Fish pen	N 48 33' 26.600"	W 122 41' 06.620"	48.55739	-122.6852	LNM 05/15, 13th Dist	1682	18429_1	2/5/2015
+18429	Add	Fish pen PT 2 OF 4	Fish pen	N 48 33' 23.700"	W 122 41' 01.970"	48.55658	-122.6839	LNM 05/15, 13th Dist	1682	18429_1	2/5/2015
+18429	Add	Fish pen PT 3 OF 4	Fish pen	N 48 33' 25.010"	W 122 41' 00.220"	48.55695	-122.6834	LNM 05/15, 13th Dist	1682	18429_1	2/5/2015
+18429	Add	Fish pen PT 4 OF 4	Fish pen	N 48 33' 27.860"	W 122 41' 04.890"	48.55774	-122.6847	LNM 05/15, 13th Dist	1682	18429_1	2/5/2015
+18429	Delete	Fish pen	Fish pen	N 48 33' 25.630"	W 122 41' 10.610"	48.55712	-122.6863	LNM 05/15, 13th Dist	1682	18429_1	2/5/2015
+18429	Add	Fish pen PT 1 OF 4	Fish pen	N 48 33' 13.810"	W 122 41' 03.450"	48.55384	-122.6843	LNM 05/15, 13th Dist	1682	18429_1	2/5/2015
+18429	Add	Fish pen PT 2 OF 4	Fish pen	N 48 33' 12.770"	W 122 40' 57.940"	48.55355	-122.6828	LNM 05/15, 13th Dist	1682	18429_1	2/5/2015
+18429	Add	Fish pen PT 3 OF 4	Fish pen	N 48 33' 14.440"	W 122 40' 57.240"	48.55401	-122.6826	LNM 05/15, 13th Dist	1682	18429_1	2/5/2015
+18429	Add	Fish pen PT 4 OF 4	Fish pen	N 48 33' 15.570"	W 122 41' 02.960"	48.55433	-122.6842	LNM 05/15, 13th Dist	1682	18429_1	2/5/2015
+18429	Add	Fish pen PT 1 OF 4	Fish pen	N 48 33' 41.300"	W 122 40' 46.270"	48.56147	-122.6795	LNM 05/15, 13th Dist	1682	18429_1	2/5/2015
+18429	Delete	Symbol for light	Light dot and flare	N 48 33' 15.908"	W 122 41' 07.472"	48.55442	-122.6854	LNM 04/15, 13th Dist	1682	18429_1	2/5/2015
+18429	Delete	Symbol for light	Light dot and flare	N 48 33' 24.091"	W 122 41' 11.105"	48.55669	-122.6864	LNM 04/15, 13th Dist	1682	18429_1	2/5/2015
+18429	Relocate	Deepwater Bay North Fish Pen Lights	2 Fl Y 6s Priv	N 48 33' 40.500"	W 122 40' 44.100"	48.56125	-122.6789	LNM 04/15, 13th Dist	1682	18429_1	2/5/2015
+18429	Change	Deepwater Bay North Fish Pen Lights	2 Fl Y 6s Priv	N 48 33' 40.500"	W 122 40' 44.100"	48.56125	-122.6789	LNM 04/15, 13th Dist	1682	18429_1	2/5/2015
+18429	Relocate	Deepwater Bay South Fish Pen Lights	2 Fl Y 6s Priv	N 48 33' 24.200"	W 122 41' 01.600"	48.55672	-122.6838	LNM 04/15, 13th Dist	1682	18429_1	2/5/2015
+18429	Relocate	Secret Harbor Fish Pen Lights	2 Fl Y 6s Priv	N 48 33' 14.900"	W 122 40' 57.400"	48.55414	-122.6826	LNM 04/15, 13th Dist	1682	18429_1	2/5/2015
+18429	Add	Note F	Mariners may experience a strong set to the west in this area during ebb currents flowing out of Guemes Channel.	N 48 30' 05.000"	W 122 48' 15.000"	48.50139	-122.8042	LNM 27/14, 13th Dist	1682	18429_1	7/10/2014
+18429	Add	See Note label	CAUTION Strong Tidal Currents (see note F)	N 48 30' 05.600"	W 122 44' 25.000"	48.50156	-122.7403	LNM 27/14, 13th Dist	1682	18429_1	7/10/2014

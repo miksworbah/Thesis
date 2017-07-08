@@ -1,0 +1,5 @@
+Chart: 17331, Current Edition: 9, Print Date: Mar. /2013, Chatham Strait Ports Alexander, Conclusion, and Armstrong
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+17331	Change	Depth Legend - CHATHAM STRAIT 	16 FT JUN 2013	N 56 14' 26.920"	W 134 38' 55.540"	56.24081	-134.6488	LNM 31/15, 9th Dist	2663	17331_1	8/20/2015
+17331	Delete	Sounding in Fathoms & Feet	5_3	N 56 14' 45.870"	W 134 39' 01.880"	56.24607	-134.6505	LNM 34/13, 17th Dist	2663	17331_1	8/14/2013
+17331	Add	Obstruction in Fathoms and Feet	1_4 Obstn      Chart No. 1: K41	N 56 14' 45.300"	W 134 39' 02.100"	56.24592	-134.6506	LNM 34/13, 17th Dist	2663	17331_1	8/14/2013

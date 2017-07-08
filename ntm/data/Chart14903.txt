@@ -1,0 +1,5 @@
+Chart: 14903, Current Edition: 25, Print Date: Jun. /2016, Algoma to Sheboygan;Kewaunee;Two Rivers
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+14903	Relocate	Kewaunee Shoal Light	KEWAUNEE SHL LT Fl G 4s 43ft 8 St M HORN	N 44 27' 03.941"	W 087 27' 55.369"	44.4511	-87.46538	LNM 16/17, 9th Dist	2908	14903_3	4/27/2017
+14903	Relocate	Kewaunee Shoal Light	KEWAUNEE SHL LT Fl G 4s 43ft 8 St M HORN	N 44 27' 03.941"	W 087 27' 55.369"	44.4511	-87.46538	LNM 16/17, 9th Dist	1363	14903_1	4/27/2017
+14903	Change	Sheboygan Breakwater Light	BREAKWATER LT Fl R 4s 55ft 8 ST M HORN (MRASS)	N 43 44' 58.200"	W 087 41' 33.800"	43.7495	-87.69272	LNM 08/17, 9th Dist	1363	14903_1	3/2/2017

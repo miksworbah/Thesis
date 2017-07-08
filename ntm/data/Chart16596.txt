@@ -1,0 +1,25 @@
+Chart: 16596, Current Edition: 13, Print Date: Oct. /2012, Womens Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16596	Relocate	St Paul Harbor Entrance Light	Fl 6s 38ft 7M RACON ( - . )	N 57 44' 19.638"	W 152 25' 47.635"	57.73879	-152.4299	LNM 14/15, 17th Dist	2558	16596_1	4/30/2015
+16596	Add	Rock in Feet	30 Rk      Chart No. 1: K14.2	N 57 45' 01.800"	W 152 24' 40.400"	57.7505	-152.4112	LNM 37/14, 17th Dist	2558	16596_1	9/11/2014
+16596	Change	Womens Bay Entrance Channel Lighted Buoy 8	R "8" Fl R 2.5s	N 57 43' 39.406"	W 152 28' 43.618"	57.72761	-152.4788	LNM 11/14, 17th Dist	2558	16596_1	3/27/2014
+16596	Change	Womens Bay Entrance Channel Lighted Buoy 6	R "6" Fl R 4s	N 57 43' 48.337"	W 152 28' 27.707"	57.73009	-152.4744	LNM 11/14, 17th Dist	2558	16596_1	3/27/2014
+16596	Relocate	Womens Bay Entrance Channel Lighted Buoy 8	R "8" Fl R 2.5s	N 57 43' 39.406"	W 152 28' 43.618"	57.72761	-152.4788	LNM 11/14, 17th Dist	2558	16596_1	3/27/2014
+16596	Relocate	Womens Bay Entrance Channel Lighted Buoy 6	R "6" Fl R 4s	N 57 43' 48.337"	W 152 28' 27.707"	57.73009	-152.4744	LNM 11/14, 17th Dist	2558	16596_1	3/27/2014
+16596	Add	danger zone label	Unexploded ordnance (reported 2013) (see note)	N 57 44' 37.000"	W 152 26' 49.400"	57.74361	-152.4471	LNM 10/14, 17th Dist	2558	16596_1	3/6/2014
+16596	Add	danger zone label	Unexploded ordnance (reported 2013) (see note)	N 57 44' 15.500"	W 152 25' 10.300"	57.73764	-152.4195	LNM 10/14, 17th Dist	2558	16596_1	3/6/2014
+16596	Add	danger zone label	Unexploded ordnance (reported 2013) (see note)	N 57 43' 03.700"	W 152 25' 52.600"	57.71769	-152.4313	LNM 10/14, 17th Dist	2558	16596_1	3/6/2014
+16596	Add	danger zone label	Unexploded ordnance (reported 2013) (see note)	N 57 42' 05.800"	W 152 27' 13.400"	57.70161	-152.4537	LNM 10/14, 17th Dist	2558	16596_1	3/6/2014
+16596	Add	danger zone label	Unexploded ordnance (reported 2013) (see note)	N 57 42' 49.000"	W 152 30' 39.300"	57.71361	-152.5109	LNM 10/14, 17th Dist	2558	16596_1	3/6/2014
+16596	Add	UNEXPLODED ORDNANCE CAUTION Note	Mariners are cautioned against anchoring, dredging, or trawling within the area of the dashed black lines due to the presence of unexploded ordnance.	N 57 43' 56.800"	W 152 31' 59.800"	57.73244	-152.5333	LNM 10/14, 17th Dist	2558	16596_1	3/6/2014
+16596	Add	danger zone label	Unexploded ordnance (reported 2013) (see note)	N 57 45' 30.900"	W 152 26' 40.300"	57.75858	-152.4445	LNM 10/14, 17th Dist	2558	16596_1	3/6/2014
+16596	Add	label	ALERT AREA (see note C)	N 57 45' 03.730"	W 152 27' 29.910"	57.75104	-152.4583	LNM 35/13, 17th Dist	2558	16596_1	8/22/2013
+16596	Add	NOTE C	CAUTION - Vessels entering or departing Kodiak/St. Paul Harbor with an air draft of 138 feet or higher require operating changes for aircraft at the Kodiak airport and should notify the Federal Aviation Administration's (FAA) Anchorage Air Route Traffic Control Center at (907) 269-1103 of their presence. Additional information is available in Coast Pilot 9.	N 57 45' 30.000"	W 152 29' 25.000"	57.75834	-152.4903	LNM 35/13, 17th Dist	2558	16596_1	8/22/2013
+16596	Add	Alert Area PT 1 OF 4	(use Chart No.1: N 1.2)	N 57 45' 12.000"	W 152 28' 48.830"	57.75333	-152.4802	LNM 35/13, 17th Dist	2558	16596_1	8/22/2013
+16596	Add	Alert Area PT 2 OF 4	(use Chart No.1: N 1.2)	N 57 45' 22.920"	W 152 26' 01.410"	57.75637	-152.4337	LNM 35/13, 17th Dist	2558	16596_1	8/22/2013
+16596	Add	Alert Area PT 3 OF 4	(use Chart No.1: N 1.2)	N 57 44' 44.400"	W 152 26' 03.380"	57.74567	-152.4343	LNM 35/13, 17th Dist	2558	16596_1	8/22/2013
+16596	Add	Alert Area PT 4 OF 4	(use Chart No.1: N 1.2)	N 57 44' 58.580"	W 152 28' 49.950"	57.74961	-152.4805	LNM 35/13, 17th Dist	2558	16596_1	8/22/2013
+16596	Relocate	Womens Bay Front Range Light	Q 57ft	N 57 43' 24.001"	W 152 28' 50.466"	57.72334	-152.4807	LNM 04/13, 17th Dist	2558	16596_1	2/6/2013
+16596	Change	Womens Bay Front Range Light	Q 57ft	N 57 43' 24.001"	W 152 28' 50.466"	57.72334	-152.4807	LNM 04/13, 17th Dist	2558	16596_1	2/6/2013
+16596	Change	Womens Bay Rear Range Light	Oc 4s 94ft	N 57 43' 07.272"	W 152 29' 09.335"	57.71869	-152.4859	LNM 04/13, 17th Dist	2558	16596_1	2/6/2013
+16596	Relocate	Womens Bay Rear Range Light	Oc 4s 94ft	N 57 43' 07.272"	W 152 29' 09.335"	57.71869	-152.4859	LNM 04/13, 17th Dist	2558	16596_1	2/6/2013

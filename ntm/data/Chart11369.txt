@@ -1,0 +1,175 @@
+Chart: 11369, Current Edition: 48, Print Date: Jun. /2012, Lakes Pontchartrain and Maurepas
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11369	Add	Dangerous Wreck	PA     Chart No. 1: K28	N 30 12' 12.700"	W 089 49' 59.200"	30.20353	-89.83311	LNM 20/17, 8th Dist	54	11369_1	6/1/2017
+11369	Delete	Mississippi River - Gulf Outlet Light 111	Fl G 2.5s 17ft 4M "111" Ra Ref	N 29 54' 10.764"	W 089 47' 03.828"	29.90299	-89.78439	LNM 12/17, 8th Dist	54	11369_1	3/30/2017
+11369	Add	PASS MANCHAC LIGHTHOUSE WRECK LIGHT WR8	Q R 17ft 4M "WR8" Ra Ref	N 30 17' 46.329"	W 090 17' 53.090"	30.2962	-90.29808	LNM 02/17, 8th Dist	54	11369_1	1/26/2017
+11369	Add	Dotted Fish Haven and Label PT 4 OF 4	Obstn Fish Haven (auth min 6 ft)	N 30 01' 47.190"	W 090 07' 16.120"	30.02978	-90.12115	LNM 40/16, 8th Dist	54	11369_1	9/29/2016
+11369	Add	Dotted Fish Haven and Label PT 3 OF 4	Obstn Fish Haven (auth min 6 ft)	N 30 01' 47.650"	W 090 07' 09.280"	30.0299	-90.11925	LNM 40/16, 8th Dist	54	11369_1	9/29/2016
+11369	Add	Dotted Fish Haven and Label PT 2 OF 4	Obstn Fish Haven (auth min 6 ft)	N 30 01' 54.700"	W 090 07' 11.130"	30.03186	-90.11976	LNM 40/16, 8th Dist	54	11369_1	9/29/2016
+11369	Add	Dotted Fish Haven and Label PT 1 OF 4	Obstn Fish Haven (auth min 6 ft)	N 30 01' 54.230"	W 090 07' 17.980"	30.03173	-90.12166	LNM 40/16, 8th Dist	54	11369_1	9/29/2016
+11369	Add	Visible Wreck	PA    Chart No. 1: K24	N 30 25' 02.000"	W 090 07' 28.200"	30.41722	-90.1245	LNM 34/16, 8th Dist	54	11369_1	9/1/2016
+11369	Add	Obstruction	Obstn PA 	N 30 17' 47.900"	W 090 17' 50.700"	30.29664	-90.29742	LNM 32/16, 8th Dist	54	11369_1	8/18/2016
+11369	Change	Bayou Bonfouca Channel Light 5	Fl G 2.5s 17ft 3M "5"	N 30 14' 24.699"	W 089 52' 04.782"	30.24019	-89.868	LNM 19/16, 8th Dist	54	11369_1	5/19/2016
+11369	Change	Bayou Bonfouca Channel Light 10	Q R 17ft 3M "10"	N 30 14' 55.287"	W 089 51' 55.764"	30.24869	-89.86549	LNM 19/16, 8th Dist	54	11369_1	5/19/2016
+11369	Add	Chef Menteur Pass Lighted Buoy 6	R "6" Fl R 4s	N 30 06' 02.714"	W 089 48' 59.962"	30.10075	-89.81666	LNM 17/16, 8th Dist	54	11369_1	5/5/2016
+11369	Change	Amite River Entrance Light	Fl 4S 25ft 4M	N 30 17' 49.888"	W 090 33' 28.614"	30.29719	-90.55795	LNM 42/15, 8th Dist	54	11369_1	11/5/2015
+11369	Change	Amite River Entrance Light	Fl 4s 25ft 4M "1"	N 30 17' 49.888"	W 090 33' 28.614"	30.29719	-90.55795	LNM 42/15, 8th Dist	54	11369_1	10/29/2015
+11369	Add	Amite River Buoy 5	G C "5"	N 30 18' 03.392"	W 090 33' 33.086"	30.30094	-90.55919	LNM 42/15, 8th Dist	54	11369_1	10/29/2015
+11369	Add	Amite River Buoy 3	G C "3"	N 30 17' 58.024"	W 090 33' 26.979"	30.29945	-90.5575	LNM 42/15, 8th Dist	54	11369_1	10/29/2015
+11369	Add	Sounding in Feet	25	N 30 10' 20.700"	W 089 45' 08.900"	30.17242	-89.75247	LNM 39/15, 8th Dist	54	11369_1	10/8/2015
+11369	Delete	Sounding in Feet	51	N 30 10' 31.400"	W 089 45' 11.600"	30.17539	-89.75322	LNM 39/15, 8th Dist	54	11369_1	10/8/2015
+11369	Add	Sounding in Feet	39	N 30 10' 27.800"	W 089 45' 07.600"	30.17439	-89.75211	LNM 39/15, 8th Dist	54	11369_1	10/8/2015
+11369	Add	Sounding in Feet	27	N 30 10' 24.800"	W 089 44' 57.900"	30.17356	-89.74942	LNM 39/15, 8th Dist	54	11369_1	10/8/2015
+11369	Relocate	Tangipahoa River Light 8	Fl R 4s 17ft 4M "8"	N 30 20' 12.511"	W 090 16' 26.662"	30.33681	-90.27407	LNM 21/15, 8th Dist	54	11369_1	6/4/2015
+11369	Delete	Scana Petroleum Cut Light 2	Fl R 4s 10ft "2" Priv	N 30 13' 02.000"	W 090 34' 05.000"	30.21722	-90.56805	LNM 10/15, 8th Dist	54	11369_1	3/19/2015
+11369	Delete	Scana Petroleum Cut Daybeacon 1	G "1" Priv	N 30 13' 01.000"	W 090 34' 05.000"	30.21694	-90.56805	LNM 10/15, 8th Dist	54	11369_1	3/19/2015
+11369	Add	Submerged Obstruction	Obstn PA	N 30 13' 01.000"	W 090 34' 05.000"	30.21694	-90.56805	LNM 10/15, 8th Dist	54	11369_1	3/19/2015
+11369	Add	Submerged Obstruction	Obstn PA	N 30 13' 02.000"	W 090 34' 05.000"	30.21722	-90.56805	LNM 10/15, 8th Dist	54	11369_1	3/19/2015
+11369	Relocate	Blind River Lighted Buoy 4	R "4" Q R	N 30 12' 30.165"	W 090 35' 21.852"	30.20838	-90.5894	LNM 10/15, 8th Dist	54	11369_1	3/19/2015
+11369	Add	Regulated Navigation Label	NAVIGATION REGULATIONS 165.838 (see note A)	N 30 01' 40.700"	W 089 51' 22.100"	30.02797	-89.85614	LNM 10/15, 8th Dist	54	11369_1	3/5/2015
+11369	Add	Bridge Construction PT 1 OF 2	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 29 59' 55.190"	W 089 54' 48.860"	29.99866	-89.91357	LNM 06/15, 8th Dist	54	11369_1	2/12/2015
+11369	Add	Bridge Construction PT 2 OF 2	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 29 59' 54.370"	W 089 54' 47.060"	29.99844	-89.91307	LNM 06/15, 8th Dist	54	11369_1	2/12/2015
+11369	Add	Bridge Construction Label	Bridge under construction	N 29 59' 54.780"	W 089 54' 47.970"	29.99855	-89.91332	LNM 06/15, 8th Dist	54	11369_1	2/12/2015
+11369	Add	Bridge Construction Area CAUTION Note	Fixed and floating obstructions, some submerged, may exist within the magenta tinted bridge construction area. Mariners are advised to proceed with caution. 	N 30 01' 57.670"	W 089 58' 13.530"	30.03269	-89.97043	LNM 06/15, 8th Dist	54	11369_1	2/12/2015
+11369	Add	Obstruction in Feet	9 Obstn       Chart No. 1: K41	N 30 10' 13.600"	W 089 44' 01.400"	30.17044	-89.73372	LNM 48/14, 8th Dist	54	11369_1	12/4/2014
+11369	Add	Obstruction in Feet	19 Obstn       Chart No. 1: K41	N 30 10' 12.400"	W 089 44' 03.800"	30.17011	-89.73439	LNM 47/14, 8th Dist	54	11369_1	11/20/2014
+11369	Relocate	Southern Yacht Club Racing Buoy A	Y C "A"	N 30 02' 00.000"	W 090 06' 12.000"	30.03333	-90.10333	LNM 41/14, 8th Dist	54	11369_1	10/23/2014
+11369	Relocate	Southern Yacht Club Racing Buoy B	Y C "B"	N 30 02' 10.560"	W 090 06' 41.400"	30.03627	-90.1115	LNM 41/14, 8th Dist	54	11369_1	10/23/2014
+11369	Relocate	Southern Yacht Club Racing Buoy E	Y C "E"	N 30 03' 12.000"	W 090 06' 12.000"	30.05333	-90.10333	LNM 41/14, 8th Dist	54	11369_1	10/23/2014
+11369	Relocate	Southern Yacht Club Racing Buoy F	Y C "F"	N 30 03' 01.440"	W 090 05' 42.600"	30.0504	-90.09517	LNM 41/14, 8th Dist	54	11369_1	10/23/2014
+11369	Relocate	Southern Yacht Club Racing Buoy G	Y C "G"	N 30 02' 36.000"	W 090 05' 30.420"	30.04333	-90.09178	LNM 41/14, 8th Dist	54	11369_1	10/23/2014
+11369	Relocate	Southern Yacht Club Racing Buoy H	Y C "H"	N 30 02' 10.560"	W 090 05' 42.600"	30.03627	-90.09517	LNM 41/14, 8th Dist	54	11369_1	10/23/2014
+11369	Relocate	Southern Yacht Club Racing Buoy T	Y C "T"	N 30 02' 36.000"	W 090 06' 12.000"	30.04333	-90.10333	LNM 41/14, 8th Dist	54	11369_1	10/23/2014
+11369	Relocate	Southern Yacht Club Racing Buoy C	Y C "C"	N 30 02' 36.000"	W 090 06' 53.580"	30.04333	-90.11488	LNM 41/14, 8th Dist	54	11369_1	10/23/2014
+11369	Relocate	Southern Yacht Club Racing Buoy D	Y C "D" 	N 30 03' 01.440"	W 090 06' 41.400"	30.0504	-90.1115	LNM 41/14, 8th Dist	54	11369_1	10/23/2014
+11369	Add	Pipeline Area  PT 1 OF 3	Chart No. 1: L40.2	N 30 18' 27.360"	W 090 06' 19.670"	30.3076	-90.10546	LNM 21/14, 8th Dist	54	11369_1	5/22/2014
+11369	Add	Pipeline Area  PT 2 OF 3	Chart No. 1: L40.2	N 30 18' 28.140"	W 090 06' 25.680"	30.30782	-90.10713	LNM 21/14, 8th Dist	54	11369_1	5/22/2014
+11369	Add	Pipeline Area  PT 3 OF 3	Chart No. 1: L40.2	N 30 18' 19.710"	W 090 06' 27.370"	30.30548	-90.1076	LNM 21/14, 8th Dist	54	11369_1	5/22/2014
+11369	Delete	Pipeline Area  PT 1 OF 2	Chart No. 1: L40.2	N 30 04' 04.940"	W 090 19' 24.020"	30.06804	-90.32334	LNM 21/14, 8th Dist	54	11369_1	5/22/2014
+11369	Delete	Pipeline Area  PT 2 OF 2	Chart No. 1: L40.2	N 30 04' 00.120"	W 090 19' 47.720"	30.0667	-90.32993	LNM 21/14, 8th Dist	54	11369_1	5/22/2014
+11369	Add	Pipeline Area  PT 1 OF 2	Chart No. 1: L40.2	N 30 03' 47.690"	W 090 18' 50.650"	30.06325	-90.31407	LNM 21/14, 8th Dist	54	11369_1	5/22/2014
+11369	Add	Pipeline Area  PT 2 OF 2	Chart No. 1: L40.2	N 30 03' 53.730"	W 090 19' 18.880"	30.06492	-90.32191	LNM 21/14, 8th Dist	54	11369_1	5/22/2014
+11369	Add	Pipeline Area  PT 1 OF 3	Chart No. 1: L40.2	N 30 04' 04.940"	W 090 19' 24.020"	30.06804	-90.32334	LNM 21/14, 8th Dist	54	11369_1	5/22/2014
+11369	Add	Pipeline Area  PT 2 OF 3	Chart No. 1: L40.2	N 30 04' 30.800"	W 090 21' 20.520"	30.07522	-90.3557	LNM 21/14, 8th Dist	54	11369_1	5/22/2014
+11369	Add	Pipeline Area  PT 3 OF 3	Chart No. 1: L40.2	N 30 03' 30.160"	W 090 22' 13.620"	30.05838	-90.37045	LNM 21/14, 8th Dist	54	11369_1	5/22/2014
+11369	Add	Pipeline Area  PT 1 OF 3	Chart No. 1: L40.2	N 30 04' 00.120"	W 090 19' 47.720"	30.0667	-90.32993	LNM 21/14, 8th Dist	54	11369_1	5/22/2014
+11369	Add	Pipeline Area  PT 2 OF 3	Chart No. 1: L40.2	N 30 04' 19.960"	W 090 21' 15.750"	30.07221	-90.35438	LNM 21/14, 8th Dist	54	11369_1	5/22/2014
+11369	Add	Pipeline Area  PT 3 OF 3	Chart No. 1: L40.2	N 30 03' 33.720"	W 090 21' 56.030"	30.05937	-90.36556	LNM 21/14, 8th Dist	54	11369_1	5/22/2014
+11369	Delete	Pipeline Area  PT 1 OF 3	Chart No. 1: L40.2	N 30 03' 47.690"	W 090 18' 50.650"	30.06325	-90.31407	LNM 21/14, 8th Dist	54	11369_1	5/22/2014
+11369	Delete	Pipeline Area  PT 2 OF 3	Chart No. 1: L40.2	N 30 04' 01.930"	W 090 18' 38.310"	30.0672	-90.31064	LNM 21/14, 8th Dist	54	11369_1	5/22/2014
+11369	Delete	Pipeline Area  PT 3 OF 3	Chart No. 1: L40.2	N 30 03' 53.730"	W 090 19' 18.880"	30.06492	-90.32191	LNM 21/14, 8th Dist	54	11369_1	5/22/2014
+11369	Delete	Pipeline Area  PT 1 OF 2	Chart No. 1: L40.2	N 30 03' 33.720"	W 090 21' 56.030"	30.05937	-90.36556	LNM 21/14, 8th Dist	54	11369_1	5/22/2014
+11369	Delete	Pipeline Area  PT 2 OF 2	Chart No. 1: L40.2	N 30 03' 30.160"	W 090 22' 13.620"	30.05838	-90.37045	LNM 21/14, 8th Dist	54	11369_1	5/22/2014
+11369	Add	Pipeline Area Label	Pipeline Area	N 30 04' 17.700"	W 090 20' 43.400"	30.07158	-90.34539	LNM 21/14, 8th Dist	54	11369_1	5/22/2014
+11369	Delete	Pipeline Area  PT 1 OF 2	Chart No. 1: L40.2	N 30 18' 27.230"	W 090 06' 19.710"	30.30756	-90.10548	LNM 21/14, 8th Dist	54	11369_1	5/22/2014
+11369	Delete	Pipeline Area  PT 2 OF 2	Chart No. 1: L40.2	N 30 18' 18.780"	W 090 06' 27.400"	30.30522	-90.10761	LNM 21/14, 8th Dist	54	11369_1	5/22/2014
+11369	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 30 02' 41.480"	W 090 14' 22.920"	30.04486	-90.2397	LNM 19/14, 8th Dist	54	11369_1	5/8/2014
+11369	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 30 02' 39.080"	W 090 14' 17.590"	30.04419	-90.23822	LNM 19/14, 8th Dist	54	11369_1	5/8/2014
+11369	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 30 02' 34.440"	W 090 14' 20.350"	30.0429	-90.23898	LNM 19/14, 8th Dist	54	11369_1	5/8/2014
+11369	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 30 02' 36.840"	W 090 14' 25.680"	30.04357	-90.24046	LNM 19/14, 8th Dist	54	11369_1	5/8/2014
+11369	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 6 ft)	N 30 02' 37.960"	W 090 14' 21.630"	30.04388	-90.23934	LNM 19/14, 8th Dist	54	11369_1	5/8/2014
+11369	Add	Floodgate building control complex PT 1 OF 10	Floodgate	N 30 01' 49.910"	W 090 02' 03.280"	30.03053	-90.03424	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Add	Floodgate building control complex PT 2 OF 10	Floodgate	N 30 01' 49.140"	W 090 02' 04.810"	30.03032	-90.03467	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Add	Floodgate building control complex PT 3 OF 10	Floodgate	N 30 01' 48.640"	W 090 02' 04.650"	30.03018	-90.03462	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Add	Floodgate building control complex PT 4 OF 10	Floodgate	N 30 01' 48.920"	W 090 02' 02.960"	30.03026	-90.03416	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Add	Floodgate building control complex PT 5 OF 10	Floodgate	N 30 01' 49.910"	W 090 02' 03.280"	30.03053	-90.03424	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Add	Floodgate building control complex PT 6 OF 10	Floodgate	N 30 01' 50.130"	W 090 02' 02.230"	30.03059	-90.03395	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Add	Floodgate building control complex PT 7 OF 10	Floodgate	N 30 01' 50.150"	W 090 02' 00.450"	30.0306	-90.03345	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Add	Floodgate building control complex PT 8 OF 10	Floodgate	N 30 01' 49.690"	W 090 02' 00.290"	30.03047	-90.03342	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Add	Floodgate building control complex PT 9 OF 10	Floodgate	N 30 01' 49.140"	W 090 02' 01.900"	30.03032	-90.03386	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Add	Floodgate building control complex PT 10 OF 10	Floodgate	N 30 01' 50.130"	W 090 02' 02.230"	30.03059	-90.03395	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Add	Safety boat barrier PT 1 OF 6	Safety boat barrier, .15mm dashed line	N 30 01' 48.160"	W 090 02' 04.440"	30.03004	-90.03457	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Add	Safety boat barrier PT 2 OF 6	Safety boat barrier, .15mm dashed line	N 30 01' 47.990"	W 090 02' 03.030"	30.03	-90.03417	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Add	Safety boat barrier PT 3 OF 6	Safety boat barrier, .15mm dashed line	N 30 01' 48.240"	W 090 02' 02.860"	30.03007	-90.03413	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Add	Safety boat barrier PT 4 OF 6	Safety boat barrier, .15mm dashed line	N 30 01' 49.400"	W 090 02' 00.330"	30.03039	-90.03342	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Add	Safety boat barrier PT 5 OF 6	Safety boat barrier, .15mm dashed line	N 30 01' 47.900"	W 090 02' 01.210"	30.02997	-90.03367	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Add	Safety boat barrier PT 6 OF 6	Safety boat barrier, .15mm dashed line	N 30 01' 48.160"	W 090 02' 01.480"	30.03004	-90.03374	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Add	Floodgate PT 1 OF 2	floodgate, dashed .15mm line (closed position)	N 30 01' 49.410"	W 090 02' 03.120"	30.03039	-90.0342	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Add	Floodgate PT 2 OF 2	floodgate, dashed .15mm line (closed position)	N 30 01' 49.660"	W 090 02' 02.080"	30.03046	-90.03391	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Add	Floodgate guidewall PT 1 OF 7	Floodgate guidewall, solid .15mm line	N 30 01' 48.340"	W 090 02' 02.880"	30.03009	-90.03413	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Add	Floodgate guidewall PT 2 OF 7	Floodgate guidewall, solid .15mm line	N 30 01' 48.920"	W 090 02' 02.960"	30.03026	-90.03416	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Add	Floodgate guidewall PT 3 OF 7	Floodgate guidewall, solid .15mm line	N 30 01' 51.780"	W 090 02' 03.860"	30.03105	-90.03441	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Add	Floodgate guidewall PT 4 OF 7	Floodgate guidewall, solid .15mm line	N 30 01' 52.300"	W 090 02' 04.150"	30.03119	-90.03448	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Add	Floodgate guidewall PT 5 OF 7	Floodgate guidewall, solid .15mm line	N 30 01' 48.230"	W 090 02' 01.520"	30.03006	-90.03375	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Add	Floodgate guidewall PT 6 OF 7	Floodgate guidewall, solid .15mm line	N 30 01' 48.620"	W 090 02' 01.760"	30.03017	-90.03382	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Add	Floodgate guidewall PT 7 OF 7	Floodgate guidewall, solid .15mm line	N 30 01' 52.370"	W 090 02' 02.920"	30.03121	-90.03414	LNM 12/14, 8th Dist	54	11369_1	3/20/2014
+11369	Change	Fixed Bridge	Chart No. 1: D22	N 29 56' 35.400"	W 090 10' 04.450"	29.94317	-90.1679	LNM 06/14, 8th Dist	54	11369_1	2/6/2014
+11369	Change	Fixed Bridge Label	HUEY P LONG FIXED BRIDGE	N 29 56' 35.400"	W 090 10' 04.450"	29.94317	-90.1679	LNM 06/14, 8th Dist	54	11369_1	2/6/2014
+11369	Relocate	The Rigolets Light 5	Fl G 4s 17ft 4M "5" Ra Ref	N 30 10' 29.476"	W 089 44' 35.795"	30.17485	-89.74328	LNM 48/13, 8th Dist	54	11369_1	12/3/2013
+11369	Relocate	The Rigolets Light 6	Fl R 2.5s 17ft 3M "6" Ra Ref	N 30 10' 40.680"	W 089 45' 17.917"	30.17797	-89.75497	LNM 48/13, 8th Dist	54	11369_1	12/3/2013
+11369	Change	Bayou Bonfouca Channel Leading Light	Iso 6s 17ft 5M	N 30 14' 59.073"	W 089 51' 57.694"	30.24974	-89.86603	LNM 45/13, 8th Dist	54	11369_1	11/8/2013
+11369	Add	Visible Pile	Pile PA      Chart No. 1: F22	N 30 06' 06.100"	W 090 24' 59.900"	30.10169	-90.41664	LNM 45/13, 8th Dist	54	11369_1	11/8/2013
+11369	Change	Tchefuncta River Light 2	Fl R 4s 17ft 3M "2"	N 30 22' 03.334"	W 090 10' 21.792"	30.36759	-90.17272	LNM 44/13, 8th Dist	54	11369_1	11/4/2013
+11369	Add	St. Bernard Parish Danger Breakwater Light	Fl 2.5s Priv	N 29 56' 34.500"	W 089 50' 14.800"	29.94292	-89.83745	LNM 34/13, 8th Dist	54	11369_1	8/29/2013
+11369	Add	Floodgate PT 1 OF 4	Floodgate	N 30 00' 10.100"	W 089 54' 11.700"	30.00281	-89.90325	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Add	Floodgate PT 2 OF 4	Floodgate	N 30 00' 08.800"	W 089 54' 06.500"	30.00245	-89.9018	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Add	Floodgate PT 3 OF 4	Floodgate	N 30 00' 09.500"	W 089 54' 11.900"	30.00264	-89.90331	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Add	Floodgate PT 4 OF 4	Floodgate	N 30 00' 08.200"	W 089 54' 06.700"	30.00228	-89.90186	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Delete	Construction note	CAUTION Fixed and floating obstructions, some submerged, may exist within the magenta tinted construction area. Mariners are advised to proceed with caution.	N 30 18' 21.000"	W 089 47' 26.000"	30.30583	-89.79056	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Delete	Flood control structures	Closure Structure Under Construction (see note)	N 29 59' 45.500"	W 089 54' 21.700"	29.99597	-89.90603	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Delete	Flood control structures	Flood Control Structures Under Construction (see note)	N 30 00' 08.900"	W 089 54' 09.100"	30.00247	-89.90253	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Delete	Flood control structures	Flood control structures dashed lines with magenta screen extending 500 feet from structure	N 30 00' 51.200"	W 089 54' 05.200"	30.01422	-89.90144	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Add	Floodwall PT 1 OF 9	Floodwall	N 29 59' 28.500"	W 089 54' 39.700"	29.99125	-89.91103	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Add	Floodwall PT 2 OF 9	Floodwall	N 29 59' 54.400"	W 089 54' 14.100"	29.99844	-89.90392	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Add	Floodwall PT 3 OF 9	Floodwall	N 30 00' 08.100"	W 089 54' 09.300"	30.00225	-89.90258	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Add	Floodwall PT 4 OF 9	Floodwall	N 30 00' 10.100"	W 089 54' 08.600"	30.00281	-89.90239	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Add	Floodwall PT 5 OF 9	Floodwall	N 30 00' 38.400"	W 089 53' 58.700"	30.01067	-89.89964	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Add	Floodwall PT 6 OF 9	Floodwall	N 30 00' 48.100"	W 089 54' 04.000"	30.01336	-89.90111	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Add	Floodwall PT 7 OF 9	Floodwall	N 30 00' 53.300"	W 089 54' 06.800"	30.0148	-89.90189	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Add	Floodwall PT 8 OF 9	Floodwall	N 30 00' 54.400"	W 089 54' 07.400"	30.01511	-89.90205	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Add	Floodwall PT 9 OF 9	Floodwall	N 30 01' 05.600"	W 089 54' 06.000"	30.01822	-89.90166	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Add	Floodgate PT 1 OF 8	Floodgate	N 30 00' 46.100"	W 089 54' 05.900"	30.01281	-89.90164	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Add	Floodgate PT 2 OF 8	Floodgate	N 30 00' 49.200"	W 089 54' 09.900"	30.01367	-89.90275	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Add	Floodgate PT 3 OF 8	Floodgate	N 30 00' 52.900"	W 089 54' 01.000"	30.01469	-89.90028	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Add	Floodgate PT 4 OF 8	Floodgate	N 30 00' 48.500"	W 089 54' 01.000"	30.01347	-89.90028	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Add	Floodgate PT 5 OF 8	Floodgate	N 30 00' 51.400"	W 089 54' 13.000"	30.01428	-89.90361	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Add	Floodgate PT 6 OF 8	Floodgate	N 30 00' 50.000"	W 089 54' 12.200"	30.01389	-89.90339	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Add	Floodgate PT 7 OF 8	Floodgate	N 30 00' 54.700"	W 089 54' 00.600"	30.01519	-89.90017	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Add	Floodgate PT 8 OF 8	Floodgate	N 30 00' 56.900"	W 089 54' 01.600"	30.01581	-89.90044	LNM 26/13, 8th Dist	54	11369_1	6/20/2013
+11369	Add	Fixed Bridge Label	FIXED BRIDGE HOR CL 204 FT VERT CL 73 FT	N 30 11' 49.780"	W 089 48' 30.120"	30.19716	-89.80836	LNM 25/13, 8th Dist	54	11369_1	6/17/2013
+11369	Delete	Fixed Bridge PT 1 OF 2	Chart No. 1: D22	N 30 12' 42.500"	W 089 47' 37.700"	30.21181	-89.79381	LNM 25/13, 8th Dist	54	11369_1	6/17/2013
+11369	Delete	Fixed Bridge PT 2 OF 2	Chart No. 1: D22	N 30 09' 15.400"	W 089 51' 16.600"	30.15428	-89.85461	LNM 25/13, 8th Dist	54	11369_1	6/17/2013
+11369	Delete	Bridge Construction PT 1 OF 2	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 30 12' 39.000"	W 089 47' 36.700"	30.21083	-89.79353	LNM 25/13, 8th Dist	54	11369_1	6/17/2013
+11369	Delete	Bridge Construction PT 2 OF 2	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 30 09' 13.680"	W 089 51' 16.530"	30.1538	-89.85459	LNM 25/13, 8th Dist	54	11369_1	6/17/2013
+11369	Delete	Bridge Construction Label	Bridge under construction (see note)	N 30 11' 23.000"	W 089 48' 57.000"	30.18972	-89.81583	LNM 25/13, 8th Dist	54	11369_1	6/17/2013
+11369	Delete	Fixed Bridge Label	FIXED BRIDGE HOR CL 150 FT VERT CL 65 FT	N 30 11' 26.000"	W 089 48' 59.000"	30.19056	-89.81639	LNM 25/13, 8th Dist	54	11369_1	6/17/2013
+11369	Add	Fixed Bridge PT 1 OF 4	Chart No. 1: D22	N 30 12' 45.000"	W 089 47' 35.200"	30.2125	-89.79311	LNM 25/13, 8th Dist	54	11369_1	6/17/2013
+11369	Add	Fixed Bridge PT 2 OF 4	Chart No. 1: D22	N 30 12' 29.300"	W 089 47' 47.700"	30.20814	-89.79659	LNM 25/13, 8th Dist	54	11369_1	6/17/2013
+11369	Add	Fixed Bridge PT 3 OF 4	Chart No. 1: D22	N 30 09' 21.900"	W 089 51' 06.600"	30.15608	-89.85183	LNM 25/13, 8th Dist	54	11369_1	6/17/2013
+11369	Add	Fixed Bridge PT 4 OF 4	Chart No. 1: D22	N 30 09' 12.800"	W 089 51' 19.400"	30.15355	-89.85539	LNM 25/13, 8th Dist	54	11369_1	6/17/2013
+11369	Add	Double Line Pier PT 1 OF 2	Chart No. 1: F14	N 30 12' 38.000"	W 089 47' 43.400"	30.21056	-89.79539	LNM 25/13, 8th Dist	54	11369_1	6/17/2013
+11369	Add	Double Line Pier PT 2 OF 2	Chart No. 1: F14	N 30 12' 19.900"	W 089 48' 02.500"	30.20553	-89.8007	LNM 25/13, 8th Dist	54	11369_1	6/17/2013
+11369	Change	Swing Bridge Label	SWING BRIDGE HOR CL 97 FT VERT CL 10 FT	N 30 04' 03.660"	W 089 48' 15.680"	30.06768	-89.80435	LNM 25/13, 8th Dist	54	11369_1	6/17/2013
+11369	Relocate	Tchefuncta River Range Rear Light	Iso 6s 49ft	N 30 22' 46.622"	W 090 10' 08.822"	30.37962	-90.16912	LNM 23/13, 8th Dist	54	11369_1	6/11/2013
+11369	Add	Shoaling Label	3 ft shoaling rep 2013 PA	N 30 18' 13.800"	W 090 33' 39.900"	30.30383	-90.56108	LNM 19/13, 8th Dist	54	11369_1	5/10/2013
+11369	Add	Stumps	Stumps PA      Chart No. 1: K43.2	N 30 17' 52.200"	W 090 33' 32.700"	30.29783	-90.55908	LNM 19/13, 8th Dist	54	11369_1	5/10/2013
+11369	Relocate	Tchefuncta River Range Rear Light	Iso 6s 49ft	N 30 22' 46.580"	W 090 10' 08.836"	30.37961	-90.16912	LNM 17/13, 8th Dist	54	11369_1	4/30/2013
+11369	Relocate	Tchefuncta River Range Front Light	Q 25ft	N 30 22' 42.539"	W 090 10' 10.172"	30.37848	-90.16949	LNM 16/13, 8th Dist	54	11369_1	4/22/2013
+11369	Add	Orleans Levee District ICWW Surge Barrier Sector Gate Light 1	Fl G 2.5s "1" Priv	N 30 00' 52.200"	W 089 54' 01.460"	30.0145	-89.90041	LNM 15/13, 8th Dist	54	11369_1	4/15/2013
+11369	Add	Orleans Levee District ICWW Surge Barrier Sector Gate Light 2	Fl R 2.5s "2" Priv	N 30 00' 54.770"	W 089 54' 00.770"	30.01521	-89.90022	LNM 15/13, 8th Dist	54	11369_1	4/15/2013
+11369	Add	Orleans Levee District ICWW Surge Barrier Sector Gate Light 3	Fl G 2.5s "3" Priv	N 30 00' 49.130"	W 089 54' 09.150"	30.01365	-89.90254	LNM 15/13, 8th Dist	54	11369_1	4/15/2013
+11369	Add	Orleans Levee District Bayou Bienvenue Floodgate Light 1	Fl G 2.5s "1" Priv	N 30 00' 08.600"	W 089 54' 08.540"	30.00239	-89.90237	LNM 15/13, 8th Dist	54	11369_1	4/15/2013
+11369	Add	Orleans Levee District Bayou Bienvenue Floodgate Light 2	Fl R 2.5s "2" Priv	N 30 00' 09.180"	W 089 54' 08.360"	30.00255	-89.90232	LNM 15/13, 8th Dist	54	11369_1	4/15/2013
+11369	Add	Visible Pipe	Pipe PA      Chart No. 1: F22	N 30 09' 00.000"	W 089 54' 48.000"	30.15	-89.91333	LNM 12/13, 8th Dist	54	11369_1	3/22/2013
+11369	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 30 12' 28.341"	W 089 47' 54.026"	30.20787	-89.79834	LNM 12/13, 8th Dist	54	11369_1	3/13/2013
+11369	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 30 12' 27.957"	W 089 47' 53.566"	30.20777	-89.79821	LNM 12/13, 8th Dist	54	11369_1	3/13/2013
+11369	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 30 12' 20.659"	W 089 48' 01.296"	30.20574	-89.80036	LNM 12/13, 8th Dist	54	11369_1	3/13/2013
+11369	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 30 12' 21.032"	W 089 48' 01.764"	30.20584	-89.80049	LNM 12/13, 8th Dist	54	11369_1	3/13/2013
+11369	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 6 ft)	N 30 12' 24.497"	W 089 47' 57.663"	30.2068	-89.79935	LNM 12/13, 8th Dist	54	11369_1	3/13/2013
+11369	Change	Swing Bridge Label	SWING BRIDGE  HOR CL 31 FT VERT CL 7 FT	N 30 16' 05.600"	W 089 50' 40.000"	30.26822	-89.84444	LNM 49/12, 8th Dist	54	11369_1	12/3/2012
+11369	Change	Swing Bridge	Chart No. 1: D23.2	N 30 16' 05.600"	W 089 50' 40.000"	30.26822	-89.84444	LNM 49/12, 8th Dist	54	11369_1	12/3/2012
+11369	Add	Tangipahoa Parish Danger Breakwater Lights (2)	2 Fl 2.5s Priv	N 30 18' 51.191"	W 090 17' 20.400"	30.31422	-90.289	LNM 44/12, 8th Dist	54	11369_1	11/2/2012
+11369	Add	Tangipahoa Parish Danger Breakwater Lights (2)	2 Fl 2.5s Priv	N 30 19' 06.671"	W 090 17' 10.679"	30.31852	-90.2863	LNM 44/12, 8th Dist	54	11369_1	11/2/2012
+11369	Add	Tangipahoa Parish Danger Breakwater Lights (2)	2 Fl 2.5s Priv	N 30 19' 32.087"	W 090 16' 54.480"	30.32558	-90.2818	LNM 44/12, 8th Dist	54	11369_1	11/2/2012
+11369	Add	Tangipahoa Parish Danger Breakwater Lights (3)	3 Fl 2.5s Priv	N 30 19' 54.552"	W 090 16' 37.919"	30.33182	-90.2772	LNM 44/12, 8th Dist	54	11369_1	11/2/2012
+11369	Add	Dangerous Wreck	PA      Chart No. 1: K28	N 30 10' 04.000"	W 089 44' 51.000"	30.16778	-89.7475	LNM 39/12, 8th Dist	54	11369_1	10/1/2012
+11369	Delete	Mississippi River - Gulf Outlet Light 130	Fl R 2.5s 20ft 4M "130"	N 30 00' 10.430"	W 089 57' 18.217"	30.0029	-89.95506	LNM 33/12, 8th Dist	54	11369_1	8/23/2012
+11369	Change	South Shore Harbor Marina Light 1	Fl G 2.5s "1" Priv	N 30 02' 47.000"	W 090 00' 53.000"	30.04639	-90.01472	LNM 32/12, 8th Dist	54	11369_1	8/13/2012
+11369	Change	South Shore Harbor Marina Light 2	Fl R 2.5s "2" Priv	N 30 02' 44.000"	W 090 00' 56.000"	30.04556	-90.01556	LNM 32/12, 8th Dist	54	11369_1	8/13/2012
+11369	Change	South Shore Harbor Marina Light 3	Fl G 2.5s "3" Priv	N 30 02' 43.000"	W 090 00' 49.000"	30.04528	-90.01361	LNM 32/12, 8th Dist	54	11369_1	8/13/2012
+11369	Change	South Shore Harbor Marina Light 4	Fl R 2.5s "4" Priv	N 30 02' 39.000"	W 090 00' 50.000"	30.04417	-90.01389	LNM 32/12, 8th Dist	54	11369_1	8/13/2012
+11369	Change	South Shore Harbor Marina Light 7	Fl G 2.5s "7" Priv	N 30 02' 35.000"	W 090 00' 39.000"	30.04306	-90.01083	LNM 32/12, 8th Dist	54	11369_1	8/13/2012
+11369	Change	South Shore Harbor Marina Light 8	Fl R 2.5s "8" Priv	N 30 02' 33.000"	W 090 00' 43.000"	30.0425	-90.01195	LNM 32/12, 8th Dist	54	11369_1	8/13/2012
+11369	Change	South Shore Harbor Marina Light 9	Fl G 2.5s "9" Priv	N 30 02' 28.000"	W 090 00' 35.000"	30.04111	-90.00972	LNM 32/12, 8th Dist	54	11369_1	8/13/2012
+11369	Change	South Shore Harbor Marina Light 11	Fl G 2.5s "11" Priv	N 30 02' 23.000"	W 090 00' 43.000"	30.03972	-90.01195	LNM 32/12, 8th Dist	54	11369_1	8/13/2012
+11369	Change	South Shore Harbor Marina Light 13	Fl G 2.5s "13" Priv	N 30 02' 30.000"	W 090 00' 46.000"	30.04167	-90.01278	LNM 32/12, 8th Dist	54	11369_1	8/13/2012

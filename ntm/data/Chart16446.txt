@@ -1,0 +1,3 @@
+Chart: 16446, Current Edition: 9, Print Date: Jun. /2014, Constantine Harbor, Amchitka Island
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16446	Add	NOTE: AREA TO BE AVOIDED (ATBA)	NOTE: AREA TO BE AVOIDED (ATBA) The entire area of this chart falls within an Area to be Avoided. All ships 400 gross tonnage and upwards solely in transit should avoid the Area. This Area is IMO-Adopted (MSC IMO SN.1/Circ.331); to be implemented at 0000 UTC, JAN 1, 2016.	N 51 23' 04.000"	E 179 20' 16.022"	51.38445	179.3378	LNM 50/15, 9th Dist	2483	16446_1	12/17/2015

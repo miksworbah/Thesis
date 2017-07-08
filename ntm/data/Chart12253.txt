@@ -1,0 +1,11 @@
+Chart: 12253, Current Edition: 48, Print Date: Jan. /2017, Norfolk Harbor and Elizabeth River
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12253	Change	Depth Legend - Craney Island Rehandling Basin - North Access Channel to:	15 FT 2017	N 36 53' 57.280"	W 076 20' 28.360"	36.89925	-76.34121	LNM 26/17, 5th Dist	593	12253_1	6/22/2017
+12253	Change	Tabulation - ELIZABETH RIVER CHANNEL DEPTHS	Tabulation - ELIZABETH RIVER CHANNEL DEPTHS	N 36 49' 40.000"	W 076 19' 00.000"	36.82778	-76.31667	LNM 18/17, 5th Dist	593	12253_1	4/27/2017
+12253	Change	Tabulation - Elizabeth River Southern Branch	Tabulation - Elizabeth River Southern Branch	N 36 49' 01.000"	W 076 19' 00.000"	36.81694	-76.31667	LNM 15/17, 5th Dist	593	12253_1	3/30/2017
+12253	Change	Tabulation - Elizabeth River	Tabulation - Elizabeth River	N 36 49' 40.000"	W 076 19' 00.000"	36.82778	-76.31667	LNM 15/17, 5th Dist	593	12253_1	3/30/2017
+12253	Change	Craney Island Creek Light 6	Q R 15ft 4M "6"	N 36 52' 52.623"	W 076 20' 47.129"	36.88128	-76.34643	LNM 07/17, 5th Dist	593	12253_1	2/23/2017
+12253	Change	Elizabeth River Southern Branch Light 9	Fl G 2.5s 15ft 4M "9"	N 36 47' 17.064"	W 076 18' 07.048"	36.78807	-76.30196	LNM 07/17, 5th Dist	593	12253_1	2/23/2017
+12253	Change	Elizabeth River Southern Branch Light 22	Fl R 4s 15ft 4M "22"	N 36 46' 34.415"	W 076 17' 49.253"	36.77623	-76.29701	LNM 07/17, 5th Dist	593	12253_1	2/23/2017
+12253	Change	Elizabeth River Southern Branch Light 42	Fl R 4s 15ft 4M "42"	N 36 43' 46.971"	W 076 16' 30.655"	36.72971	-76.27518	LNM 07/17, 5th Dist	593	12253_1	2/23/2017
+12253	Relocate	Craney Island Creek Light 6	Q R 15ft 4M "6"	N 36 52' 52.623"	W 076 20' 47.129"	36.88128	-76.34643	LNM 07/17, 5th Dist	593	12253_1	2/23/2017

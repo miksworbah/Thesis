@@ -1,0 +1,5 @@
+Chart: 16760, Current Edition: 11, Print Date: May. /2015, Cross Sound to Yakutat Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16760	Change	Star Rock Bell Buoy SR	GR "SR" BELL	N 57 49' 46.541"	W 136 28' 08.137"	57.82959	-136.4689	LNM 30/16, 17th Dist	2613	16760_1	8/4/2016
+16760	Delete	NOAA ODAS Lighted Buoy 46083	Y ODAS "46083" Fl (4) Y 20s Priv PA	N 58 14' 33.000"	W 137 59' 36.000"	58.2425	-137.9933	LNM 45/15, 17th Dist	2613	16760_1	11/19/2015
+16760	Add	NOAA ODAS Lighted Buoy 46083	Y ODAS "46083" Fl (4) Y 20s Priv PA	N 58 18' 01.462"	W 137 59' 48.703"	58.30041	-137.9969	LNM 45/15, 17th Dist	2613	16760_1	11/19/2015

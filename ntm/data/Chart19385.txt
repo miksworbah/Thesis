@@ -1,0 +1,11 @@
+Chart: 19385, Current Edition: 8, Print Date: Oct. /2003, North Coast of Kaua‘i Hä‘ena Point to Kepuhi Point
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+19385	Change	Kilauea Point Light	Fl 10s 174ft 9M	N 22 13' 53.233"	W 159 24' 07.063"	22.23145	-159.402	LNM 19/14, 14th Dist	2814	19385_1	5/22/2014
+19385	Relocate	Kilauea Point Light	Fl 10s 174ft 9M	N 22 13' 53.233"	W 159 24' 07.063"	22.23145	-159.402	LNM 19/14, 14th Dist	2814	19385_1	5/22/2014
+19385	Change	Submarine Operations Note B to: 	Submerged submarine operations are conducted at various times in the waters contained on this chart. Proceed with caution.	N 22 13' 23.000"	W 159 29' 00.800"	22.22305	-159.4836	LNM 17/12, 14th Dist	2814	19385_1	4/18/2012
+19385	Delete	Submarine Operations Label	SUBMERGED SUBMARINE OPERATING AREA (see note B)	N 22 16' 28.800"	W 159 29' 02.000"	22.27467	-159.4839	LNM 17/12, 14th Dist	2814	19385_1	4/18/2012
+19385	Delete	Submarine Operations Label	SUBMERGED SUBMARINE OPERATING AREA (see note B)	N 22 16' 26.400"	W 159 23' 01.000"	22.274	-159.3836	LNM 17/12, 14th Dist	2814	19385_1	4/18/2012
+19385	Delete	Submarine Operating Area PT 1 OF 3	magenta solid line	N 22 15' 30.500"	W 159 33' 42.700"	22.25847	-159.5619	LNM 17/12, 14th Dist	2814	19385_1	4/18/2012
+19385	Delete	Submarine Operating Area PT 2 OF 3	magenta solid line	N 22 16' 48.000"	W 159 29' 50.300"	22.28	-159.4973	LNM 17/12, 14th Dist	2814	19385_1	4/18/2012
+19385	Delete	Submarine Operating Area PT 3 OF 3	magenta solid line	N 22 16' 48.400"	W 159 20' 57.200"	22.28011	-159.3492	LNM 17/12, 14th Dist	2814	19385_1	4/18/2012
+19385	Revise	KILAUEA POINT LT	Fl 10s 174ft 23M	N 22 13' 53.200"	W 159 24' 07.100"	22.23145	-159.402	LNM 10/04, 14th Dist	2814	19385_1	2/13/2008

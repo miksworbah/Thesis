@@ -1,0 +1,3 @@
+Chart: 16486, Current Edition: 8, Print Date: Feb. /2015, Atka Island, western part
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+16486	Add	NOTE: AREA TO BE AVOIDED (ATBA	NOTE: AREA TO BE AVOIDED (ATBA) The entire area of this chart falls within an Area to be Avoided. All ships 400 gross tonnage and upwards solely in transit should avoid the Area. This Area is IMO-Adopted (MSC IMO SN.1/Circ.331); to be implemented at 0000 UTC, JAN 1, 2016.	N 52 01' 03.000"	W 175 04' 38.000"	52.0175	-175.0772	LNM 51/15, 17th Dist	2503	16486_1	12/17/2015

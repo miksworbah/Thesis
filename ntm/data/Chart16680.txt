@@ -1,0 +1,2 @@
+Chart: 16680, Current Edition: 12, Print Date: Jun. /2015, Point Elrington to East Chugach Island
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
