@@ -1,2 +1,0 @@
-Chart: 12244, Current Edition: 15, Print Date: Mar. /2015, Pamunkey And Mattaponi Rivers
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

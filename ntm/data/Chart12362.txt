@@ -1,5 +1,0 @@
-Chart: 12362, Current Edition: 18, Print Date: Aug. /2016, Port Jefferson and Mount Sinai Harbors
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-12362	Add	MOUNT SINAI HARBOR BUOY 1A	G C "1A" Priv	N 40 57' 46.000"	W 073 02' 30.100"	40.96278	-73.04169	LNM 24/17, 1st Dist	2215	12362_1	6/22/2017
-12362	Add	PORT JEFFERSON FRL	Q R 30ft	N 40 56' 52.207"	W 073 04' 19.127"	40.94783	-73.07198	LNM 11/17, 1st Dist	2215	12362_1	3/23/2017
-12362	Change	PORT JEFFERSON REAR RANGE LIGHT	F 43ft	N 40 56' 47.401"	W 073 04' 14.893"	40.9465	-73.0708	LNM 10/17, 1st Dist	2215	12362_1	3/23/2017

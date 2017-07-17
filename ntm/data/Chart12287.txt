@@ -1,3 +1,0 @@
-Chart: 12287, Current Edition: 19, Print Date: Sep. /2014, Potomac River Dahlgren and Vicinity
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-12287	Change	Baber Point Light 5	Fl G 4s 15ft 4M "5"	N 38 18' 42.680"	W 077 01' 34.902"	38.31186	-77.02636	LNM 45/14, 5th Dist	662	12287_1	11/20/2014

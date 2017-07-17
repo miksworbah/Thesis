@@ -1,2 +1,0 @@
-Chart: 12325, Current Edition: 6, Print Date: Mar. /2017, Navesink And Shrewsbury Rivers
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
