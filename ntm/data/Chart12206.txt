@@ -1,0 +1,36 @@
+Chart: 12206, Current Edition: 35, Print Date: Dec. /2015, Intracoastal Waterway Norfolk to Albemarle Sound via North Landing River or Dismal Swamp Canal
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12206	Change	Craney Island Creek Light 6	Q R 15ft 4M "6"	N 36 52' 52.623"	W 076 20' 47.129"	36.88128	-76.34643	LNM 07/17, 5th Dist	539	12206_1	2/23/2017
+12206	Change	Elizabeth River Southern Branch Light 9	Fl G 2.5s 15ft 4M "9"	N 36 47' 17.064"	W 076 18' 07.048"	36.78807	-76.30196	LNM 07/17, 5th Dist	539	12206_1	2/23/2017
+12206	Change	Elizabeth River Southern Branch Light 22	Fl R 4s 15ft 4M "22"	N 36 46' 34.415"	W 076 17' 49.253"	36.77623	-76.29701	LNM 07/17, 5th Dist	539	12206_1	2/23/2017
+12206	Change	Elizabeth River Southern Branch Light 42	Fl R 4s 15ft 4M "42"	N 36 43' 46.971"	W 076 16' 30.655"	36.72971	-76.27518	LNM 07/17, 5th Dist	540	12206_2	2/23/2017
+12206	Relocate	Craney Island Creek Light 6	Q R 15ft 4M "6"	N 36 52' 52.623"	W 076 20' 47.129"	36.88128	-76.34643	LNM 07/17, 5th Dist	539	12206_1	2/23/2017
+12206	Change	Great Bridge to Albemarle Sound Light 143	Q G 18ft 4M "143"	N 36 17' 06.407"	W 075 56' 48.140"	36.28511	-75.94671	LNM 05/17, 5th Dist	542	12206_4	2/9/2017
+12206	Change	Great Bridge to Albemarle Sound Light 44	Fl R 4s 15ft 4M "44"	N 36 36' 09.876"	W 076 03' 36.438"	36.60275	-76.06012	LNM 05/17, 5th Dist	541	12206_3	2/9/2017
+12206	Change	Knotts Island Ferry Terminal Light 2	Q R 15ft 4M "2"	N 36 27' 59.297"	W 075 57' 38.997"	36.46647	-75.96083	LNM 05/17, 5th Dist	542	12206_4	2/9/2017
+12206	Relocate	Great Bridge to Albemarle Sound Daybeacon 16	R "16"	N 36 41' 06.098"	W 076 03' 56.860"	36.68503	-76.0658	LNM 03/17, 5th Dist	541	12206_3	1/26/2017
+12206	Relocate	Great Bridge to Albemarle Sound Light 18	Fl R 4s 15ft 4M "18"	N 36 40' 45.935"	W 076 04' 08.089"	36.67943	-76.06892	LNM 03/17, 5th Dist	541	12206_3	1/26/2017
+12206	Change	Great Bridge to Albemarle Sound Light 4	Fl R 4s 15ft 4M "4"	N 36 42' 37.226"	W 076 04' 49.820"	36.71034	-76.08051	LNM 49/16, 5th Dist	541	12206_3	12/15/2016
+12206	Change	Great Bridge to Albemarle Sound Light 10	Fl R 4s 19ft 4M "10"	N 36 41' 48.132"	W 076 04' 19.076"	36.6967	-76.07197	LNM 49/16, 5th Dist	541	12206_3	12/15/2016
+12206	Change	Great Bridge to Albemarle Sound Light 14	Fl R 4s 15ft 4M "14"	N 36 41' 29.756"	W 076 04' 07.256"	36.6916	-76.06868	LNM 49/16, 5th Dist	541	12206_3	12/15/2016
+12206	Change	Great Bridge to Albemarle Sound Light 20	Fl R 4s 15ft 4M "20"	N 36 40' 35.112"	W 076 04' 09.808"	36.67642	-76.06939	LNM 49/16, 5th Dist	541	12206_3	12/15/2016
+12206	Change	Craney Island Creek Light 2CI	Q R 19ft 4M "2CI"	N 36 52' 50.821"	W 076 20' 27.700"	36.88078	-76.34103	LNM 49/16, 5th Dist	539	12206_1	12/15/2016
+12206	Change	Great Bridge to Albemarle Sound Light 49	Q G 19ft 4M "49"	N 36 35' 32.808"	W 076 03' 00.636"	36.59245	-76.05018	LNM 49/16, 5th Dist	541	12206_3	12/15/2016
+12206	Change	Craney Island Creek Wreck Light WR12	Q R 15ft 4M "WR12"	N 36 53' 05.154"	W 076 21' 01.974"	36.88477	-76.35055	LNM 44/16, 5th Dist	539	12206_1	11/10/2016
+12206	Change	Elizabeth River Southern Branch Light 2	Fl R 2.5s 15ft 4M "2"	N 36 47' 38.515"	W 076 17' 50.026"	36.79403	-76.29723	LNM 34/16, 5th Dist	539	12206_1	9/1/2016
+12206	Change	Elizabeth River Southern Branch Light 32	Fl R 4s 15ft 4M "32"	N 36 44' 26.268"	W 076 17' 56.256"	36.74063	-76.29896	LNM 34/16, 5th Dist	540	12206_2	9/1/2016
+12206	Change	Great Bridge to Albemarle Sound Light 38	Fl R 4s 15ft 4M "38"	N 36 37' 45.054"	W 076 03' 14.886"	36.62918	-76.05414	LNM 26/16, 5th Dist	541	12206_3	6/30/2016
+12206	Delete	NOAA Lighted Data Buoy N	Y "N" Fl Y 4s	N 36 50' 40.100"	W 076 18' 01.740"	36.84447	-76.30048	LNM 25/16, 5th Dist	539	12206_1	6/30/2016
+12206	Delete	Nauticus Pier Light A	Fl Y 2.5s 5ft "A" Priv	N 36 50' 55.000"	W 076 17' 50.000"	36.84861	-76.29723	LNM 14/16, 5th Dist	539	12206_1	4/14/2016
+12206	Delete	Nauticus Pier Light B	Fl Y 4s 5ft "B" Priv	N 36 50' 51.000"	W 076 17' 48.000"	36.8475	-76.29667	LNM 14/16, 5th Dist	539	12206_1	4/14/2016
+12206	Change	Depth Legend - Southern Branch Elizabeth River to:	27 FT 2015	N 36 47' 05.000"	W 076 18' 10.000"	36.78472	-76.30278	LNM 14/16, 5th Dist	539	12206_1	3/31/2016
+12206	Change	Depth Legend - Southern Branch Elizabeth River to:	25 FT 2015	N 36 45' 18.400"	W 076 17' 37.400"	36.75511	-76.29372	LNM 14/16, 5th Dist	540	12206_2	3/31/2016
+12206	Change	Depth Legend - Southern Branch Elizabeth River to:	25 FT 2015	N 36 45' 18.400"	W 076 17' 37.400"	36.75511	-76.29372	LNM 14/16, 5th Dist	547	12206_9	3/31/2016
+12206	Change	Depth Legend - Southern Branch Elizabeth River to:	24 FT 2015	N 36 46' 20.000"	W 076 17' 41.300"	36.77222	-76.29481	LNM 14/16, 5th Dist	539	12206_1	3/31/2016
+12206	Change	Depth Legend - Southern Branch Elizabeth River to:	24 FT 2015	N 36 46' 20.000"	W 076 17' 41.300"	36.77222	-76.29481	LNM 14/16, 5th Dist	540	12206_2	3/31/2016
+12206	Change	Depth Legend - Southern Branch Elizabeth River to:	23 FT 2015	N 36 47' 14.000"	W 076 18' 07.500"	36.78722	-76.30209	LNM 14/16, 5th Dist	539	12206_1	3/31/2016
+12206	Add	Midtown Tunnel East Warning Light B	Fl 4s 12ft "B" Priv	N 36 51' 31.440"	W 076 18' 37.430"	36.85873	-76.31039	LNM 11/16, 5th Dist	539	12206_1	3/24/2016
+12206	Change	Great Bridge to Albemarle Sound Light 46	Fl R 4s 15ft 4M "46"	N 36 35' 39.354"	W 076 03' 35.292"	36.59426	-76.05981	LNM 04/16, 5th Dist	541	12206_3	1/28/2016
+12206	Change	Great Bridge to Albemarle Sound Light 47	Q G 15ft 4M "47"	N 36 35' 42.912"	W 076 03' 31.464"	36.59525	-76.05874	LNM 04/16, 5th Dist	541	12206_3	1/28/2016
+12206	Change	Great Bridge to Albemarle Sound Light 123	Q G 17ft 4M "123"	N 36 21' 17.638"	W 075 56' 44.006"	36.3549	-75.94556	LNM 03/16, 5th Dist	542	12206_4	1/28/2016
+12206	Delete	Chesapeake Outfall Warning Daybeacon A	W "A" Priv	N 36 44' 09.000"	W 076 17' 42.000"	36.73583	-76.295	LNM 01/16, 5th Dist	540	12206_2	1/14/2016

@@ -1,0 +1,4 @@
+Chart: 12208, Current Edition: 17, Print Date: Jan. /2017, Approaches to Chesapeake Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12208	Relocate	Chesapeake Channel Lighted Bell Buoy 2C	R "2C" Fl R 2.5s BELL	N 36 57' 18.528"	W 075 58' 22.246"	36.95515	-75.97285	LNM 16/17, 5th Dist	549	12208_1	4/27/2017
+12208	Relocate	Chesapeake Channel Lighted Bell Buoy 12	R "12" Q R BELL	N 37 01' 05.077"	W 076 02' 41.593"	37.01808	-76.04488	LNM 16/17, 5th Dist	549	12208_1	4/27/2017

@@ -1,0 +1,62 @@
+Chart: 12233, Current Edition: 38, Print Date: Jan. /2014, Potomac River Chesapeake Bay to Piney Point
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12233	Change	Bonum Creek Warning Light A	Fl 2.5s 15ft 4M "A"	N 38 05' 54.135"	W 076 34' 47.400"	38.09837	-76.57983	LNM 22/17, 5th Dist	570	12233_1	6/8/2017
+12233	Change	Bonum Creek North Jetty Warning Daybeacon B	W "B"	N 38 05' 53.546"	W 076 34' 48.690"	38.09821	-76.58019	LNM 22/17, 5th Dist	570	12233_1	6/8/2017
+12233	Change	Bonum Creek Warning Daybeacon C	W "C"	N 38 05' 49.651"	W 076 34' 49.792"	38.09713	-76.5805	LNM 22/17, 5th Dist	570	12233_1	6/8/2017
+12233	Delete	Little Wicomico River Daybeacon 15	G "15"	N 37 53' 16.717"	W 076 16' 42.726"	37.88798	-76.27853	LNM 21/17, 5th Dist	570	12233_1	6/1/2017
+12233	Add	Little Wicomico River Buoy 15	G C "15"	N 37 53' 16.477"	W 076 16' 41.725"	37.88791	-76.27826	LNM 21/17, 5th Dist	570	12233_1	6/1/2017
+12233	Add	Slough Creek Daybeacon 7	G "7" Priv	N 37 53' 04.008"	W 076 15' 11.514"	37.88445	-76.2532	LNM 21/17, 5th Dist	570	12233_1	6/1/2017
+12233	Add	Slough Creek Daybeacon 8	R "8" Priv	N 37 53' 03.245"	W 076 15' 10.002"	37.88424	-76.25278	LNM 21/17, 5th Dist	570	12233_1	6/1/2017
+12233	Relocate	Little Wicomico River Buoy 14	R N "14"	N 37 53' 14.185"	W 076 16' 17.124"	37.88727	-76.27142	LNM 12/17, 5th Dist	570	12233_1	3/23/2017
+12233	Delete	Slough Creek Buoy 7	G C "7"	N 37 53' 04.008"	W 076 15' 11.514"	37.88445	-76.2532	LNM 49/16, 5th Dist	570	12233_1	12/15/2016
+12233	Delete	Slough Creek Buoy 8	R N "8"	N 37 53' 03.245"	W 076 15' 10.002"	37.88424	-76.25278	LNM 49/16, 5th Dist	570	12233_1	12/15/2016
+12233	Change	St. George Creek Light 2	Fl R 4s 15ft 4M "2"	N 38 07' 22.198"	W 076 27' 56.153"	38.12283	-76.4656	LNM 47/16, 5th Dist	570	12233_1	12/1/2016
+12233	Change	Carthagena Creek Light 4	Fl R 2.5s 15ft 4M "4"	N 38 09' 08.690"	W 076 28' 15.428"	38.15241	-76.47095	LNM 47/16, 5th Dist	570	12233_1	12/1/2016
+12233	Change	Lake Conoy Light 2	Fl R 2.5s 18ft 4M "2"	N 38 02' 59.623"	W 076 19' 45.789"	38.0499	-76.32938	LNM 40/16, 5th Dist	570	12233_1	10/13/2016
+12233	Change	St. Jerome Creek Light 1SJ	Fl G 2.5s 15ft 3M "1SJ"	N 38 06' 54.494"	W 076 20' 08.598"	38.11514	-76.33572	LNM 38/16, 5th Dist	570	12233_1	9/22/2016
+12233	Change	St. Marys River Light 1	Fl G 2.5s 15ft 4M "1"	N 38 08' 23.295"	W 076 27' 17.346"	38.1398	-76.45482	LNM 35/16, 5th Dist	570	12233_1	9/8/2016
+12233	Change	Slough Creek Buoy 7	G C "7"	N 37 53' 04.008"	W 076 15' 11.514"	37.88445	-76.2532	LNM 35/16, 5th Dist	570	12233_1	9/8/2016
+12233	Add	Rock in Feet	17 Rk      Chart No. 1: K14.2	N 38 08' 50.300"	W 076 18' 07.180"	38.1473	-76.30199	LNM 33/16, 5th Dist	570	12233_1	8/11/2016
+12233	Change	St Jerome Creek Daybeacon 4A	R "4A"	N 38 07' 11.679"	W 076 20' 32.254"	38.11991	-76.34229	LNM 27/16, 5th Dist	570	12233_1	7/7/2016
+12233	Relocate	St Jerome Creek Daybeacon 4A	R "4A"	N 38 07' 11.679"	W 076 20' 32.254"	38.11991	-76.34229	LNM 27/16, 5th Dist	570	12233_1	7/7/2016
+12233	Change	Hooper Island Light	Fl 6s 63ft 9M (delete HORN (Sep 15 to Jun 1))	N 38 15' 22.500"	W 076 14' 59.300"	38.25625	-76.24981	LNM 23/16, 5th Dist	570	12233_1	6/16/2016
+12233	Relocate	Hooper Island Light	Fl 6s 63ft 9M	N 38 15' 22.500"	W 076 14' 59.300"	38.25625	-76.24981	LNM 23/16, 5th Dist	570	12233_1	6/16/2016
+12233	Delete	Herring Creek Warning Daybeacon	W Bn	N 38 10' 38.226"	W 076 32' 49.702"	38.17728	-76.54714	LNM 14/16, 5th Dist	570	12233_1	4/14/2016
+12233	Add	Herring Creek Daybeacon 4	R "4"	N 38 10' 38.578"	W 076 32' 49.126"	38.17738	-76.54698	LNM 14/16, 5th Dist	570	12233_1	4/14/2016
+12233	Delete	Herring Creek Buoy 4	R N "4"	N 38 10' 38.578"	W 076 32' 49.126"	38.17738	-76.54698	LNM 13/16, 5th Dist	570	12233_1	4/7/2016
+12233	Add	Obstruction in Feet	42 Obstn       Chart No. 1: K41	N 38 09' 45.790"	W 076 15' 02.670"	38.16272	-76.25074	LNM 04/16, 5th Dist	570	12233_1	1/21/2016
+12233	Add	Obstruction in Feet	40 Obstn       Chart No. 1: K41	N 38 08' 48.420"	W 076 15' 45.710"	38.14678	-76.2627	LNM 04/16, 5th Dist	570	12233_1	1/21/2016
+12233	Add	Obstruction in Feet	48 Obstn       Chart No. 1: K41	N 38 07' 43.460"	W 076 14' 09.360"	38.12874	-76.23593	LNM 04/16, 5th Dist	570	12233_1	1/21/2016
+12233	Change	Coan River Light 6	Fl R 2.5s 15ft 4M "6"	N 37 59' 36.684"	W 076 27' 10.266"	37.99352	-76.45285	LNM 47/15, 5th Dist	570	12233_1	12/3/2015
+12233	Delete	Sounding in Feet	14	N 38 09' 18.600"	W 076 19' 12.200"	38.15517	-76.32005	LNM 41/15, 5th Dist	570	12233_1	10/8/2015
+12233	Add	Sounding in Feet	7	N 38 09' 09.000"	W 076 19' 09.100"	38.1525	-76.31919	LNM 41/15, 5th Dist	570	12233_1	10/8/2015
+12233	Add	Sounding in Feet	10	N 38 09' 18.800"	W 076 19' 14.400"	38.15522	-76.32066	LNM 41/15, 5th Dist	570	12233_1	10/8/2015
+12233	Change	Herring Creek Warning Daybeacon	W Or Bn	N 38 10' 38.226"	W 076 32' 48.702"	38.17728	-76.54686	LNM 36/15, 5th Dist	570	12233_1	9/17/2015
+12233	Add	Herring Creek Buoy 4	R N "4"	N 38 10' 38.578"	W 076 32' 49.126"	38.17738	-76.54698	LNM 36/15, 5th Dist	570	12233_1	9/17/2015
+12233	Change	Smith Creek - Potomac River Approach Light 2S	Q R 15ft 4M "2S"	N 38 05' 31.108"	W 076 24' 15.039"	38.09198	-76.40417	LNM 35/15, 5th Dist	570	12233_1	9/10/2015
+12233	Change	Smith Creek - Potomac River Light 4	Fl R 4s 15ft 4M "4"	N 38 06' 08.274"	W 076 24' 27.159"	38.1023	-76.40755	LNM 35/15, 5th Dist	570	12233_1	9/10/2015
+12233	Add	Dotted Oyster Reef PT 1 OF 4	(Chart No. 1: K46.2)	N 38 07' 47.500"	W 076 29' 29.300"	38.12986	-76.49147	LNM 21/15, 5th Dist	570	12233_1	5/21/2015
+12233	Add	Dotted Oyster Reef PT 2 OF 4	(Chart No. 1: K46.2)	N 38 07' 48.700"	W 076 29' 32.900"	38.1302	-76.49247	LNM 21/15, 5th Dist	570	12233_1	5/21/2015
+12233	Add	Dotted Oyster Reef PT 3 OF 4	(Chart No. 1: K46.2)	N 38 07' 51.300"	W 076 29' 31.700"	38.13092	-76.49214	LNM 21/15, 5th Dist	570	12233_1	5/21/2015
+12233	Add	Dotted Oyster Reef PT 4 OF 4	(Chart No. 1: K46.2)	N 38 07' 50.100"	W 076 29' 28.000"	38.13058	-76.49111	LNM 21/15, 5th Dist	570	12233_1	5/21/2015
+12233	Add	Dotted Oyster Reef Label:	Obstn Oyster Reef (auth min 3 1/2 ft)	N 38 07' 49.400"	W 076 29' 30.500"	38.13039	-76.49181	LNM 21/15, 5th Dist	570	12233_1	5/21/2015
+12233	Delete	Potomac River Gray Point Lighted Mooring Buoy A	Fl 2s "A" Priv	N 38 04' 45.120"	W 076 23' 49.980"	38.0792	-76.39722	LNM 12/15, 5th Dist	570	12233_1	4/2/2015
+12233	Relocate	Point Lookout Light	Fl (2) 5s 39ft 8M	N 38 01' 30.270"	W 076 19' 24.786"	38.02507	-76.32355	LNM 05/15, 5th Dist	570	12233_1	2/12/2015
+12233	Change	Yeocomico River Entrance Light 2Y	Fl R 4s 16ft 4M "2Y"	N 38 02' 25.643"	W 076 30' 01.863"	38.04045	-76.50052	LNM 47/14, 5th Dist	570	12233_1	11/27/2014
+12233	Change	Chesapeake Channel Lighted Buoy 68	R "68" Fl R 2.5s RACON (-..-) (delete BELL)	N 37 59' 53.450"	W 076 11' 48.787"	37.99818	-76.19688	LNM 47/14, 5th Dist	570	12233_1	11/27/2014
+12233	Relocate	Island Creek Channel Light 1	Fl G 4s 18ft 4M "1"	N 38 06' 41.697"	W 076 27' 47.083"	38.11158	-76.46308	LNM 44/14, 5th Dist	570	12233_1	11/13/2014
+12233	Change	Island Creek Channel Light 3	Fl G 4s 15ft 3M "3"	N 38 06' 31.607"	W 076 28' 01.440"	38.10878	-76.46706	LNM 44/14, 5th Dist	570	12233_1	11/13/2014
+12233	Delete	Green daybeacon 9	G "9"	N 38 06' 31.000"	W 076 28' 07.000"	38.10861	-76.46861	LNM 44/14, 5th Dist	570	12233_1	11/13/2014
+12233	Relocate	Smith Creek - Potomac River Approach Light 2S	Q R 15ft 5M "2S"	N 38 05' 31.108"	W 076 24' 15.039"	38.09198	-76.40417	LNM 41/14, 5th Dist	570	12233_1	10/23/2014
+12233	Add	Obstruction in Feet	14 Obstn       Chart No. 1: K41	N 38 14' 26.890"	W 076 13' 46.700"	38.2408	-76.22964	LNM 39/14, 5th Dist	570	12233_1	9/25/2014
+12233	Relocate	Herring Creek Jetty Light 2	Fl R 4s 15ft 4M "2"	N 38 10' 34.344"	W 076 32' 57.336"	38.17621	-76.54926	LNM 33/14, 5th Dist	570	12233_1	8/21/2014
+12233	Relocate	Herring Creek Daybeacon 5	G "5"	N 38 10' 40.523"	W 076 32' 45.853"	38.17792	-76.54607	LNM 33/14, 5th Dist	570	12233_1	8/21/2014
+12233	Relocate	Herring Creek Jetty Light 1	Fl G 4s 15ft 4M "1"	N 38 10' 36.648"	W 076 32' 58.680"	38.17685	-76.54964	LNM 33/14, 5th Dist	570	12233_1	8/21/2014
+12233	Relocate	Herring Creek Daybeacon 4	R "4"	N 38 10' 38.226"	W 076 32' 48.702"	38.17728	-76.54686	LNM 33/14, 5th Dist	570	12233_1	8/21/2014
+12233	Change	Herring Creek Jetty Light 2	Fl R 4s 15ft 3M "2"	N 38 10' 30.458"	W 076 32' 52.841"	38.17513	-76.54801	LNM 32/14, 5th Dist	570	12233_1	8/21/2014
+12233	Relocate	Coan River Entrance Buoy 4	R N "4"	N 38 00' 44.687"	W 076 26' 35.703"	38.01241	-76.44325	LNM 32/14, 5th Dist	570	12233_1	8/21/2014
+12233	Change	Depth Legend - Little Wicomico River to:	6 FT NOV 2013 - MAR 2014	N 37 53' 18.020"	W 076 14' 37.730"	37.88834	-76.24381	LNM 28/14, 5th Dist	570	12233_1	7/17/2014
+12233	Change	Calvert Bay Warning Daybeacon A	W "A" Priv	N 38 05' 59.000"	W 076 23' 42.100"	38.09972	-76.39503	LNM 22/14, 5th Dist	570	12233_1	6/12/2014
+12233	Change	Calvert Bay Warning Daybeacon B	W "B" Priv	N 38 06' 03.300"	W 076 23' 48.100"	38.10092	-76.3967	LNM 22/14, 5th Dist	570	12233_1	6/12/2014
+12233	Change	Depth Legend - Herring Creek to:	4 FT 2013	N 38 10' 39.520"	W 076 32' 47.650"	38.17764	-76.54657	LNM 14/14, 5th Dist	570	12233_1	4/10/2014
+12233	Relocate	Carthagena Creek Daybeacon 3	G "3"	N 38 08' 54.067"	W 076 27' 51.379"	38.14835	-76.46427	LNM 12/14, 5th Dist	570	12233_1	4/3/2014

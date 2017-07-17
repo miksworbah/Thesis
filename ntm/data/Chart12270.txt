@@ -1,0 +1,53 @@
+Chart: 12270, Current Edition: 37, Print Date: Dec. /2015, Chesapeake Bay Eastern Bay and South River; Selby Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12270	Add	Dotted Oyster Reef PT 1 OF 4	Chart No. 1: K46.2	N 38 46' 53.700"	W 076 16' 31.500"	38.78158	-76.27541	LNM 27/17, 5th Dist	617	12270_1	6/29/2017
+12270	Add	Dotted Oyster Reef PT 3 OF 4	Chart No. 1: K46.2	N 38 47' 02.600"	W 076 16' 28.800"	38.78405	-76.27467	LNM 27/17, 5th Dist	617	12270_1	6/29/2017
+12270	Add	Dotted Oyster Reef PT 2 OF 4	Chart No. 1: K46.2	N 38 46' 55.400"	W 076 16' 32.000"	38.78205	-76.27556	LNM 27/17, 5th Dist	617	12270_1	6/29/2017
+12270	Add	Dotted Oyster Reef PT 4 OF 4	Chart No. 1: K46.2	N 38 47' 02.200"	W 076 16' 24.900"	38.78394	-76.27358	LNM 27/17, 5th Dist	617	12270_1	6/29/2017
+12270	Add	Dotted Oyster Reef Label	Oyster Reef(auth min 2 ft)	N 38 46' 58.960"	W 076 16' 28.970"	38.78304	-76.27471	LNM 27/17, 5th Dist	617	12270_1	6/29/2017
+12270	Delete	Sounding in Feet	4	N 38 47' 01.950"	W 076 16' 28.720"	38.78387	-76.27464	LNM 27/17, 5th Dist	617	12270_1	6/29/2017
+12270	Delete	Overhead Power Cable  PT 1 OF 2	Chart No. 1: D26  	N 39 00' 20.720"	W 076 09' 10.200"	39.00576	-76.15283	LNM 23/17, 5th Dist	617	12270_1	6/1/2017
+12270	Delete	Overhead Power Cable  PT 2 OF 2	Chart No. 1: D26  	N 39 00' 16.560"	W 076 09' 04.420"	39.0046	-76.15123	LNM 23/17, 5th Dist	617	12270_1	6/1/2017
+12270	Add	Cable Area  PT 1 OF 2	Chart No. 1: L30.2	N 39 00' 20.090"	W 076 09' 11.420"	39.00558	-76.15318	LNM 23/17, 5th Dist	617	12270_1	6/1/2017
+12270	Add	Cable Area  PT 2 OF 2	Chart No. 1: L30.2	N 39 00' 15.070"	W 076 09' 04.460"	39.00418	-76.15124	LNM 23/17, 5th Dist	617	12270_1	6/1/2017
+12270	Delete	Overhead Power Cable Label	OVHD PWR CAB AUTH CL 66 FT	N 39 00' 14.400"	W 076 08' 54.230"	39.004	-76.1484	LNM 23/17, 5th Dist	617	12270_1	6/1/2017
+12270	Relocate	Kent Island Narrows North Approach Lighted Buoy 3	G "3" Fl G 4s	N 38 59' 02.516"	W 076 14' 34.648"	38.98403	-76.24296	LNM 14/17, 5th Dist	617	12270_1	4/13/2017
+12270	Relocate	Rockhold Creek Channel Buoy 5	G C "5"	N 38 46' 02.913"	W 076 33' 20.709"	38.76748	-76.55576	LNM 14/17, 5th Dist	617	12270_1	4/13/2017
+12270	Relocate	Rockhold Creek Channel Buoy 7	G C "7"	N 38 46' 05.774"	W 076 33' 26.003"	38.76827	-76.55722	LNM 14/17, 5th Dist	617	12270_1	4/13/2017
+12270	Delete	Kent Island Narrows North Approach Buoy 6A	R N "6A"	N 38 59' 47.080"	W 076 14' 29.560"	38.99641	-76.24155	LNM 13/17, 5th Dist	617	12270_1	3/23/2017
+12270	Change	Miles River Light 4	Fl R 2.5s 15ft 4M "4"	N 38 47' 41.837"	W 076 12' 24.658"	38.79496	-76.20685	LNM 08/17, 5th Dist	617	12270_1	3/2/2017
+12270	Change	Herring Bay Light 2	Fl R 4s 15ft 4M "2"	N 38 44' 25.870"	W 076 32' 38.904"	38.74052	-76.54414	LNM 07/17, 5th Dist	617	12270_1	2/23/2017
+12270	Add	Poplar Island Narrows Lighted Mooring Buoy B	W Bu "B" Fl 4s Priv	N 38 46' 10.000"	W 076 21' 10.000"	38.76944	-76.35278	LNM 06/17, 5th Dist	617	12270_1	2/16/2017
+12270	Add	Poplar Island Narrows Lighted Mooring Buoy A	W Bu "A" Fl 4s Priv	N 38 46' 07.000"	W 076 21' 23.000"	38.76861	-76.35639	LNM 06/17, 5th Dist	617	12270_1	2/16/2017
+12270	Add	Poplar Island Narrows Lighted Mooring Buoy C	W Bu "C" Fl 4s Priv	N 38 46' 18.000"	W 076 21' 22.000"	38.77167	-76.35611	LNM 06/17, 5th Dist	617	12270_1	2/16/2017
+12270	Add	Poplar Island Narrows Lighted Mooring Buoy D	W Bu "D" Fl 4s Priv	N 38 46' 21.000"	W 076 21' 10.000"	38.7725	-76.35278	LNM 06/17, 5th Dist	617	12270_1	2/16/2017
+12270	Change	Rose Haven Channel Light 1	Q G 15ft 4M "1"	N 38 44' 01.746"	W 076 32' 18.954"	38.73382	-76.5386	LNM 03/17, 5th Dist	617	12270_1	1/26/2017
+12270	Relocate	Rose Haven Channel Light 1	Q G 15ft 4M "1"	N 38 44' 01.746"	W 076 32' 18.954"	38.73382	-76.5386	LNM 03/17, 5th Dist	617	12270_1	1/26/2017
+12270	Change	Lowes Wharf Channel Light 2	Fl R 4s 15ft 4M "2"	N 38 45' 56.436"	W 076 19' 56.448"	38.76568	-76.33234	LNM 02/17, 5th Dist	617	12270_1	1/12/2017
+12270	Change	Rockhold Creek Channel Light 13	Q G 15ft 4M "13"	N 38 46' 14.955"	W 076 33' 41.033"	38.77082	-76.5614	LNM 51/16, 5th Dist	617	12270_1	12/22/2016
+12270	Change	Fishing Creek Light 3	Q G 15ft 4M "3"	N 38 54' 36.639"	W 076 27' 37.759"	38.91018	-76.46049	LNM 51/16, 5th Dist	617	12270_1	12/22/2016
+12270	Change	Horn Point Light HP	Fl 6s 15ft 4M "HP"	N 38 58' 24.611"	W 076 28' 09.127"	38.9735	-76.4692	LNM 51/16, 5th Dist	617	12270_1	12/22/2016
+12270	Change	Spa Creek Buoy 3	G C "3"	N 38 58' 22.007"	W 076 29' 23.629"	38.97278	-76.4899	LNM 51/16, 5th Dist	617	12270_1	12/22/2016
+12270	Change	South River Light 10	Fl R 2.5s 15ft 4M "10"	N 38 55' 51.326"	W 076 31' 01.176"	38.93092	-76.51699	LNM 49/16, 5th Dist	617	12270_1	12/15/2016
+12270	Change	Severn River - Mill Creek Light 2M	Fl R 2.5s 15ft 4M "2M"	N 38 59' 34.080"	W 076 26' 49.380"	38.9928	-76.44705	LNM 49/16, 5th Dist	617	12270_1	12/15/2016
+12270	Relocate	Chesapeake Channel Lighted Buoy 93	G "93" Fl G 4s	N 39 00' 03.080"	W 076 22' 52.720"	39.00085	-76.38131	LNM 35/16, 5th Dist	617	12270_1	9/8/2016
+12270	Relocate	Eastern Bay Buoy 8	R N "8"	N 38 50' 32.738"	W 076 13' 50.426"	38.84243	-76.23067	LNM 34/16, 5th Dist	617	12270_1	9/1/2016
+12270	Change	NOAA Lighted Data Buoy AN	Y "AN" Fl Y 4s	N 38 57' 49.010"	W 076 26' 48.370"	38.96362	-76.44677	LNM 32/16, 5th Dist	617	12270_1	8/18/2016
+12270	Change	Eastern Bay Lighted Buoy 2A	R "2A" Fl R 4s (delete BELL)	N 38 50' 33.347"	W 076 18' 12.964"	38.8426	-76.3036	LNM 27/16, 5th Dist	617	12270_1	7/7/2016
+12270	Relocate	Eastern Bay Lighted Buoy 2A	R "2A" Fl R 4s	N 38 50' 33.347"	W 076 18' 12.964"	38.8426	-76.3036	LNM 27/16, 5th Dist	617	12270_1	7/7/2016
+12270	Relocate	South River Junction Buoy SR	GR C "SR"	N 38 53' 39.428"	W 076 25' 52.216"	38.89429	-76.43117	LNM 21/16, 5th Dist	617	12270_1	5/26/2016
+12270	Relocate	West River Lighted Buoy 1A	G "1A" Fl G 2.5s	N 38 52' 13.053"	W 076 28' 53.210"	38.87029	-76.48145	LNM 17/16, 5th Dist	617	12270_1	5/5/2016
+12270	Add	Kent Island Narrows North Approach Lighted Buoy 3	G "3" Fl G 4s	N 38 59' 03.465"	W 076 14' 33.437"	38.98429	-76.24262	LNM 15/16, 5th Dist	617	12270_1	4/21/2016
+12270	Add	Kent Island Narrows North Approach Buoy 6A	R N "6A"	N 38 59' 47.080"	W 076 14' 29.560"	38.99641	-76.24155	LNM 15/16, 5th Dist	617	12270_1	4/21/2016
+12270	Change	Kent Island Narrows North Warning Daybeacon	W Bn	N 38 59' 01.001"	W 076 14' 37.426"	38.98361	-76.24373	LNM 15/16, 5th Dist	617	12270_1	4/21/2016
+12270	Change	Kent Island Narrows North Approach Light 4	Fl R 4s 15ft 4M "4"	N 38 59' 01.673"	W 076 14' 36.148"	38.9838	-76.24338	LNM 15/16, 5th Dist	617	12270_1	4/21/2016
+12270	Change	Rockhold Creek Jetty Light 2	Fl R 4s 15ft 4M "2"	N 38 46' 01.659"	W 076 33' 16.223"	38.76713	-76.5545	LNM 13/16, 5th Dist	617	12270_1	4/7/2016
+12270	Change	Naval Anchorage Light A	Fl Y 2.5s 15ft 4M "A"	N 38 58' 00.507"	W 076 27' 09.003"	38.96681	-76.4525	LNM 13/16, 5th Dist	617	12270_1	4/7/2016
+12270	Change	Annapolis Harbor Entrance Light 4	Fl R 6s 15ft 4M "4"	N 38 58' 06.185"	W 076 27' 27.737"	38.96838	-76.4577	LNM 13/16, 5th Dist	617	12270_1	4/7/2016
+12270	Relocate	Annapolis Harbor Entrance Light 4	Fl R 6s 15ft 4M "4"	N 38 58' 06.185"	W 076 27' 27.737"	38.96838	-76.4577	LNM 13/16, 5th Dist	617	12270_1	4/7/2016
+12270	Delete	Eastern Bay Buoy 12	R N "12"	N 38 48' 38.789"	W 076 12' 32.300"	38.81078	-76.20897	LNM 12/16, 5th Dist	617	12270_1	3/31/2016
+12270	Add	Eastern Bay Daybeacon 12	R "12"	N 38 48' 38.058"	W 076 12' 33.555"	38.81057	-76.20932	LNM 12/16, 5th Dist	617	12270_1	3/31/2016
+12270	Add	William P. Lane Jr. Bridge V-AIS SE	V-AIS "SE" (Chart No. 1: S18.2)	N 38 59' 33.479"	W 076 22' 47.059"	38.99263	-76.37974	LNM 06/16, 5th Dist	617	12270_1	2/11/2016
+12270	Add	William P. Lane Jr. Bridge V-AIS SW	V-AIS "SW" (Chart No. 1: S18.2)	N 38 59' 37.823"	W 076 23' 04.969"	38.99384	-76.38471	LNM 06/16, 5th Dist	617	12270_1	2/11/2016
+12270	Add	William P. Lane Jr. Bridge V-AIS NE	V-AIS "NE" (Chart No. 1: S18.2)	N 38 59' 37.768"	W 076 22' 45.337"	38.99382	-76.37926	LNM 06/16, 5th Dist	617	12270_1	2/11/2016
+12270	Add	William P. Lane Jr. Bridge V-AIS NW	V-AIS "NW" (Chart No. 1: S18.2)	N 38 59' 41.734"	W 076 23' 03.355"	38.99493	-76.38426	LNM 06/16, 5th Dist	617	12270_1	2/11/2016

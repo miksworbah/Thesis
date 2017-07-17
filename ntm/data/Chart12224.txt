@@ -1,0 +1,2 @@
+Chart: 12224, Current Edition: 27, Print Date: Jun. /2017, Chesapeake Bay Cape Charles to Wolf Trap
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

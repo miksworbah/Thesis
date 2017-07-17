@@ -1,0 +1,109 @@
+Chart: 12216, Current Edition: 29, Print Date: Jun. /2012, Cape Henlopen to Indian River Inlet;Breakwater Harbor
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12216	Relocate	Indian River Inlet Lighted Buoy 2	R "2" Fl R 4s	N 38 36' 32.653"	W 075 03' 22.148"	38.60907	-75.05615	LNM 16/17, 5th Dist	555	12216_1	4/27/2017
+12216	Add	Harbor of Refuge Lighted Mooring Buoy CG	W Bu "CG" Fl 4s	N 38 47' 47.720"	W 075 07' 54.300"	38.79659	-75.13175	LNM 09/17, 5th Dist	555	12216_1	3/9/2017
+12216	Delete	Harbor of Refuge Lighted Mooring Buoy CG	"CG" Fl 4s	N 38 48' 58.052"	W 075 10' 00.921"	38.81612	-75.16692	LNM 09/17, 5th Dist	555	12216_1	3/9/2017
+12216	Change	Rehoboth Bay Channel Light 2	Fl R 4s 15ft 4M "2"	N 38 41' 14.570"	W 075 05' 53.280"	38.68738	-75.09814	LNM 02/17, 5th Dist	555	12216_1	1/12/2017
+12216	Add	Harbor Of Refuge North End Lighted Buoy 1	G "1" Fl G 4s	N 38 50' 01.062"	W 075 06' 25.296"	38.83363	-75.10703	LNM 52/16, 5th Dist	555	12216_1	1/5/2017
+12216	Delete	Channel Limits PT 1 OF 2	Chart No. 1: I20	N 38 36' 30.830"	W 075 03' 49.950"	38.60856	-75.06387	LNM 25/16, 5th Dist	555	12216_1	6/23/2016
+12216	Delete	Channel Limits PT 2 OF 2	Chart No. 1: I20	N 38 36' 34.510"	W 075 03' 00.570"	38.60958	-75.05016	LNM 25/16, 5th Dist	555	12216_1	6/23/2016
+12216	Delete	Channel Limits PT 1 OF 2	Chart No. 1: I20	N 38 36' 28.890"	W 075 03' 49.730"	38.60802	-75.06381	LNM 25/16, 5th Dist	555	12216_1	6/23/2016
+12216	Delete	Channel Limits PT 2 OF 2	Chart No. 1: I20	N 38 36' 32.570"	W 075 03' 00.220"	38.60905	-75.05006	LNM 25/16, 5th Dist	555	12216_1	6/23/2016
+12216	Add	Channel Limits PT 1 OF 2	Chart No. 1: I20	N 38 36' 30.250"	W 075 03' 47.220"	38.6084	-75.06312	LNM 25/16, 5th Dist	555	12216_1	6/23/2016
+12216	Add	Channel Limits PT 2 OF 2	Chart No. 1: I20	N 38 36' 31.950"	W 075 03' 25.310"	38.60888	-75.05703	LNM 25/16, 5th Dist	555	12216_1	6/23/2016
+12216	Add	Channel Limits PT 1 OF 2	Chart No. 1: I20	N 38 36' 28.290"	W 075 03' 46.940"	38.60786	-75.06304	LNM 25/16, 5th Dist	555	12216_1	6/23/2016
+12216	Add	Channel Limits PT 2 OF 2	Chart No. 1: I20	N 38 36' 29.980"	W 075 03' 25.060"	38.60833	-75.05696	LNM 25/16, 5th Dist	555	12216_1	6/23/2016
+12216	Change	Depth Note - INDIAN RIVER to:	The controlling depth was 16 feet for a width of 200 feet in Indian River Inlet to the fixed bridge. Position of aids 4 to 28 mark a shifting channel from the fixed bridge to Buoy 30. Buoys 4 to 17 are not charted due to the continually changing depths. The controlling depth was 1 foot from Buoy 19 to Millsboro. Sep 1995 - Jul 2014	N 38 37' 42.000"	W 075 08' 52.000"	38.62833	-75.14778	LNM 25/16, 5th Dist	555	12216_1	6/23/2016
+12216	Delete	Rehoboth Bay Channel Daybeacon 17B	G "17B"	N 38 37' 21.308"	W 075 05' 41.551"	38.62259	-75.09487	LNM 09/16, 5th Dist	555	12216_1	3/10/2016
+12216	Add	Rehoboth Bay Channel Buoy 17B	G C "17B"	N 38 37' 21.308"	W 075 05' 41.551"	38.62259	-75.09487	LNM 09/16, 5th Dist	555	12216_1	3/10/2016
+12216	Delete	Obstruction in Feet	55 Obstn     (Chart No. 1: K41)	N 38 49' 49.900"	W 075 05' 18.200"	38.83053	-75.08839	LNM 28/15, 5th Dist	555	12216_1	7/16/2015
+12216	Delete	Burton Prong Daybeacon 2	R "2" Priv	N 38 39' 39.000"	W 075 10' 21.250"	38.66083	-75.17257	LNM 25/15, 5th Dist	555	12216_1	6/25/2015
+12216	Delete	Burton Prong Buoy 4	R N "4" Priv	N 38 39' 39.560"	W 075 10' 21.870"	38.66099	-75.17274	LNM 25/15, 5th Dist	555	12216_1	6/25/2015
+12216	Relocate	Rehoboth Bay Channel Lighted Buoy 9	G "9" Fl G 4s	N 38 38' 41.028"	W 075 06' 25.223"	38.64473	-75.10701	LNM 19/15, 5th Dist	555	12216_1	5/21/2015
+12216	Relocate	Rehoboth Bay Channel Buoy 11	G C "11"	N 38 38' 31.507"	W 075 06' 16.170"	38.64209	-75.10449	LNM 19/15, 5th Dist	555	12216_1	5/21/2015
+12216	Relocate	Rehoboth Bay Channel Buoy 19	G C "19"	N 38 37' 11.568"	W 075 05' 35.687"	38.61988	-75.09325	LNM 19/15, 5th Dist	555	12216_1	5/21/2015
+12216	Relocate	Rehoboth Bay Channel Buoy 20	R N "20"	N 38 37' 06.415"	W 075 05' 34.697"	38.61845	-75.09297	LNM 19/15, 5th Dist	555	12216_1	5/21/2015
+12216	Change	Delaware Bay Approach Lighted Whistle Buoy CH	RW "CH" Mo (A) WHIS RACON (-.-) AIS  (Chart No. 1: S17.2)	N 38 46' 13.977"	W 075 01' 19.524"	38.77055	-75.02209	LNM 07/15, 5th Dist	555	12216_1	2/26/2015
+12216	Change	Middle Island West Channel Junction Lighted Buoy MI	RG "MI" Fl (2+1) R 6s	N 38 36' 22.365"	W 075 06' 22.202"	38.60621	-75.10617	LNM 52/14, 5th Dist	555	12216_1	1/8/2015
+12216	Add	Harbor of Refuge Lighted Mooring Buoy CG	"CG" Fl 4s   (Chart No. 1: Q41)	N 38 48' 58.052"	W 075 10' 00.921"	38.81612	-75.16692	LNM 43/14, 5th Dist	555	12216_1	11/6/2014
+12216	Change	Tabulation - Roosevelt Inlet, Lewes and Rehoboth Canal and Broadkill River Channel Depths	Tabulation - Roosevelt Inlet, Lewes and Rehoboth Canal and Broadkill River Channel Depths	N 38 44' 03.000"	W 075 08' 45.000"	38.73417	-75.14584	LNM 20/14, 5th Dist	555	12216_1	5/22/2014
+12216	Delete	Label:	(see note F)	N 38 47' 31.590"	W 075 09' 30.270"	38.79211	-75.15841	LNM 20/14, 5th Dist	555	12216_1	5/22/2014
+12216	Delete	NOTE F:	Roosevelt Inlet Channel is subject to frequent changes.	N 38 46' 32.570"	W 075 10' 16.430"	38.77571	-75.17123	LNM 20/14, 5th Dist	555	12216_1	5/22/2014
+12216	Delete	Label:	(see tabulation)	N 38 42' 17.370"	W 075 05' 32.700"	38.70483	-75.09241	LNM 20/14, 5th Dist	555	12216_1	5/22/2014
+12216	Add	Note - LEWES AND REHOBOTH CANAL:	The Corps of Engineers has confirmed (April 2013) that the channel past the Turning Basin to Rehoboth Bay remains an authorized navigation project and has not been actively maintained since 1984. There are no plans to survey this project in the foreseeable future.  The controlling depth after the Turning Basin to Rehoboth Bay was 4 feet for the centerline of the channel.  Aug 1984	N 38 43' 07.530"	W 075 08' 50.650"	38.71876	-75.1474	LNM 20/14, 5th Dist	555	12216_1	5/22/2014
+12216	Delete	Label:	(see tabulation)	N 38 45' 26.340"	W 075 06' 45.680"	38.75732	-75.11269	LNM 20/14, 5th Dist	555	12216_1	5/22/2014
+12216	Add	Label:	(see note)	N 38 45' 26.340"	W 075 06' 45.680"	38.75732	-75.11269	LNM 20/14, 5th Dist	555	12216_1	5/22/2014
+12216	Add	Label:	(see note)	N 38 42' 18.000"	W 075 05' 32.000"	38.705	-75.09222	LNM 20/14, 5th Dist	555	12216_1	5/22/2014
+12216	Change	Indian River Inlet South Jetty Light 3	Fl G 4s 30ft 6M "3"	N 38 36' 28.203"	W 075 03' 33.049"	38.60783	-75.05918	LNM 15/14, 5th Dist	555	12216_1	4/24/2014
+12216	Add	Fixed Bridge	Chart No. 1: D22	N 38 36' 29.800"	W 075 03' 47.800"	38.60828	-75.06328	LNM 14/14, 5th Dist	555	12216_1	4/10/2014
+12216	Delete	Bridge Construction	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 38 36' 30.000"	W 075 03' 46.000"	38.60833	-75.06277	LNM 14/14, 5th Dist	555	12216_1	4/10/2014
+12216	Delete	Bridge Construction Note	Caution: Fixed and floating obstructions, some submerged, may exist within the magenta tinted bridge construction area. Mariners are advised to proceed with caution.	N 38 32' 45.000"	W 075 16' 02.000"	38.54583	-75.26722	LNM 14/14, 5th Dist	555	12216_1	4/10/2014
+12216	Add	Fixed Bridge Label	FIXED BRIDGE HOR CL 200 FT VERT CL 45 FT	N 38 36' 17.000"	W 075 03' 47.000"	38.60472	-75.06306	LNM 14/14, 5th Dist	555	12216_1	4/10/2014
+12216	Delete	Fixed Bridge Label	FIXED BRIDGE HOR CL 100 FT (CENTER OF SPAN) VERT CL 35 FT (VERT CL 32 200 FT WIDTH)	N 38 36' 15.000"	W 075 03' 48.000"	38.60417	-75.06333	LNM 14/14, 5th Dist	555	12216_1	4/10/2014
+12216	Change	Indian River Inlet Lighted Buoy 1	G "1" Fl G 2.5s	N 38 36' 32.902"	W 075 02' 46.447"	38.60914	-75.04623	LNM 51/13, 5th Dist	555	12216_1	12/23/2013
+12216	Add	Bakers Channel Lighted Buoy 10	R "10" Fl R 4s Priv	N 38 37' 42.628"	W 075 05' 19.123"	38.62851	-75.08865	LNM 44/13, 5th Dist	555	12216_1	11/4/2013
+12216	Add	Bakers Channel Lighted Buoy 11	G "11" Fl G 4s Priv	N 38 37' 38.763"	W 075 05' 10.657"	38.62743	-75.0863	LNM 44/13, 5th Dist	555	12216_1	11/4/2013
+12216	Add	Bakers Channel Lighted Buoy 12	R "12" Fl R 4s Priv	N 38 37' 38.467"	W 075 05' 13.053"	38.62735	-75.08696	LNM 44/13, 5th Dist	555	12216_1	11/4/2013
+12216	Add	Bakers Channel Lighted Buoy 13	G "13" Fl G 4s Priv	N 38 37' 30.009"	W 075 05' 13.572"	38.625	-75.0871	LNM 44/13, 5th Dist	555	12216_1	11/4/2013
+12216	Add	Bakers Channel Lighted Buoy 14	R "14" Fl R 4s Priv	N 38 37' 30.643"	W 075 05' 15.263"	38.62518	-75.08757	LNM 44/13, 5th Dist	555	12216_1	11/4/2013
+12216	Add	Bakers Channel Lighted Buoy 15	G "15" Fl G 4s Priv	N 38 37' 19.987"	W 075 05' 15.799"	38.62222	-75.08772	LNM 44/13, 5th Dist	555	12216_1	11/4/2013
+12216	Add	Bakers Channel Lighted Buoy 16	R "16" Fl R 4s Priv	N 38 37' 20.768"	W 075 05' 17.621"	38.62244	-75.08823	LNM 44/13, 5th Dist	555	12216_1	11/4/2013
+12216	Add	Bakers Channel Lighted Buoy 18B	R "18B" Fl R 4s Priv	N 38 37' 11.047"	W 075 05' 20.174"	38.61974	-75.08894	LNM 44/13, 5th Dist	555	12216_1	11/4/2013
+12216	Add	Bakers Channel Lighted Buoy 1A	G "1A" Fl G 4s Priv	N 38 38' 03.273"	W 075 05' 52.700"	38.63424	-75.09797	LNM 44/13, 5th Dist	555	12216_1	11/4/2013
+12216	Add	Bakers Channel Lighted Buoy 1B	G "1B" Fl G 4s Priv	N 38 37' 59.913"	W 075 05' 51.777"	38.63331	-75.09772	LNM 44/13, 5th Dist	555	12216_1	11/4/2013
+12216	Add	Bakers Channel Lighted Buoy 2	R "2" Fl R 4s Priv	N 38 38' 01.931"	W 075 05' 54.646"	38.63387	-75.09851	LNM 44/13, 5th Dist	555	12216_1	11/4/2013
+12216	Add	Bakers Channel Lighted Buoy 3	G "3" Fl G 4s Priv	N 38 37' 58.384"	W 075 05' 48.062"	38.63288	-75.09669	LNM 44/13, 5th Dist	555	12216_1	11/4/2013
+12216	Add	Bakers Channel Lighted Buoy 4	R "4" Fl R 4s Priv	N 38 37' 57.069"	W 075 05' 48.983"	38.63252	-75.09694	LNM 44/13, 5th Dist	555	12216_1	11/4/2013
+12216	Add	Bakers Channel Lighted Buoy 5	G "5" Fl G 4s Priv	N 38 37' 53.904"	W 075 05' 38.350"	38.63164	-75.09399	LNM 44/13, 5th Dist	555	12216_1	11/4/2013
+12216	Add	Bakers Channel Lighted Buoy 6	R "6" Fl R 4s Priv	N 38 37' 52.622"	W 075 05' 39.364"	38.63128	-75.09427	LNM 44/13, 5th Dist	555	12216_1	11/4/2013
+12216	Add	Bakers Channel Lighted Buoy 7	G "7" Fl G 4s Priv	N 38 37' 49.534"	W 075 05' 28.449"	38.63042	-75.09123	LNM 44/13, 5th Dist	555	12216_1	11/4/2013
+12216	Add	Bakers Channel Lighted Buoy 8	R "8" Fl R 4s Priv	N 38 37' 48.362"	W 075 05' 29.246"	38.6301	-75.09145	LNM 44/13, 5th Dist	555	12216_1	11/4/2013
+12216	Add	Bakers Channel Lighted Buoy 9	G "9" Fl G 4s Priv	N 38 37' 43.492"	W 075 05' 17.241"	38.62875	-75.08812	LNM 44/13, 5th Dist	555	12216_1	11/4/2013
+12216	Delete	Bakers Channel (Massey Ditch Bypass) Daybeacon 17	G "17"	N 38 36' 58.596"	W 075 05' 26.003"	38.61628	-75.09055	LNM 44/13, 5th Dist	555	12216_1	11/4/2013
+12216	Delete	Bakers Channel (Massey Ditch Bypass) Daybeacon 10	R "10"	N 38 37' 41.392"	W 075 05' 20.736"	38.62817	-75.0891	LNM 42/13, 5th Dist	555	12216_1	10/21/2013
+12216	Delete	Bakers Channel (Massey Ditch Bypass) Daybeacon 11	G "11"	N 38 37' 40.317"	W 075 05' 10.404"	38.62786	-75.08622	LNM 42/13, 5th Dist	555	12216_1	10/21/2013
+12216	Delete	Bakers Channel (Massey Ditch Bypass) Daybeacon 12	R "12"	N 38 37' 38.581"	W 075 05' 14.658"	38.62738	-75.0874	LNM 42/13, 5th Dist	555	12216_1	10/21/2013
+12216	Delete	Bakers Channel (Massey Ditch Bypass) Daybeacon 13	G "13"	N 38 37' 32.395"	W 075 05' 11.698"	38.62566	-75.08659	LNM 42/13, 5th Dist	555	12216_1	10/21/2013
+12216	Delete	Bakers Channel (Massey Ditch Bypass) Daybeacon 14	R "14"	N 38 37' 30.995"	W 075 05' 16.404"	38.62527	-75.08789	LNM 42/13, 5th Dist	555	12216_1	10/21/2013
+12216	Delete	Bakers Channel (Massey Ditch Bypass) Daybeacon 15	G "15"	N 38 37' 17.056"	W 075 05' 07.572"	38.6214	-75.08543	LNM 42/13, 5th Dist	555	12216_1	10/21/2013
+12216	Delete	Bakers Channel (Massey Ditch Bypass) Daybeacon 16	R "16"	N 38 37' 20.946"	W 075 05' 19.937"	38.62249	-75.08887	LNM 42/13, 5th Dist	555	12216_1	10/21/2013
+12216	Delete	Bakers Channel (Massey Ditch Bypass) Daybeacon 18B	R "18B"	N 38 37' 02.960"	W 075 05' 35.350"	38.61749	-75.09315	LNM 42/13, 5th Dist	555	12216_1	10/21/2013
+12216	Delete	Bakers Channel (Massey Ditch Bypass) Daybeacon 2	R "2"	N 38 38' 03.965"	W 075 05' 53.483"	38.63443	-75.09819	LNM 42/13, 5th Dist	555	12216_1	10/21/2013
+12216	Delete	Bakers Channel (Massey Ditch Bypass) Daybeacon 3	G "3"	N 38 37' 58.916"	W 075 05' 47.902"	38.63303	-75.09664	LNM 42/13, 5th Dist	555	12216_1	10/21/2013
+12216	Delete	Bakers Channel (Massey Ditch Bypass) Daybeacon 4	R "4"	N 38 37' 56.919"	W 075 05' 49.561"	38.63248	-75.0971	LNM 42/13, 5th Dist	555	12216_1	10/21/2013
+12216	Delete	Bakers Channel (Massey Ditch Bypass) Daybeacon 5	G "5"	N 38 37' 54.866"	W 075 05' 37.391"	38.63191	-75.09372	LNM 42/13, 5th Dist	555	12216_1	10/21/2013
+12216	Delete	Bakers Channel (Massey Ditch Bypass) Daybeacon 6	R "6"	N 38 37' 52.516"	W 075 05' 39.778"	38.63126	-75.09438	LNM 42/13, 5th Dist	555	12216_1	10/21/2013
+12216	Delete	Bakers Channel (Massey Ditch Bypass) Daybeacon 7	G "7"	N 38 37' 51.169"	W 075 05' 28.671"	38.63088	-75.0913	LNM 42/13, 5th Dist	555	12216_1	10/21/2013
+12216	Delete	Bakers Channel (Massey Ditch Bypass) Daybeacon 8	R "8"	N 38 37' 48.168"	W 075 05' 29.798"	38.63005	-75.09161	LNM 42/13, 5th Dist	555	12216_1	10/21/2013
+12216	Delete	Bakers Channel (Massey Ditch Bypass) Daybeacon 9	G "9"	N 38 37' 44.410"	W 075 05' 16.092"	38.629	-75.08781	LNM 42/13, 5th Dist	555	12216_1	10/21/2013
+12216	Delete	Bakers Channel (Massey Ditch Bypass) Daybeacon 1B	G "1B"	N 38 38' 03.913"	W 075 05' 51.469"	38.63442	-75.09763	LNM 42/13, 5th Dist	555	12216_1	10/21/2013
+12216	Delete	Middle Island West Buoy 5	G C "5"	N 38 37' 06.810"	W 075 05' 50.950"	38.61856	-75.09749	LNM 27/13, 5th Dist	555	12216_1	7/10/2013
+12216	Delete	Middle Island West Daybecon 3	G "3"	N 38 36' 57.040"	W 075 05' 59.001"	38.61584	-75.09972	LNM 27/13, 5th Dist	555	12216_1	7/10/2013
+12216	Relocate	Indian River Inlet Buoy 19	G C "19"	N 38 36' 13.323"	W 075 05' 56.036"	38.6037	-75.0989	LNM 27/13, 5th Dist	555	12216_1	7/10/2013
+12216	Relocate	Indian River Junction Lighted Buoy IR	RG "IR" Fl (2+1) R 6s	N 38 36' 28.145"	W 075 05' 36.208"	38.60782	-75.09339	LNM 27/13, 5th Dist	555	12216_1	7/10/2013
+12216	Add	Middle Island West Channel Buoy 3	G C "3"	N 38 36' 38.561"	W 075 06' 03.052"	38.61071	-75.10085	LNM 27/13, 5th Dist	555	12216_1	7/10/2013
+12216	Add	Middle Island West Channel Buoy 7	G C "7"	N 38 37' 06.810"	W 075 05' 50.950"	38.61856	-75.09749	LNM 27/13, 5th Dist	555	12216_1	7/10/2013
+12216	Add	Middle Island West Channel Daybeacon 5	G "5"	N 38 36' 57.040"	W 075 05' 59.001"	38.61584	-75.09972	LNM 27/13, 5th Dist	555	12216_1	7/10/2013
+12216	Add	Middle Island West Channel Junction Lighted Buoy MI	R "MI" Fl (2+1) R 6s	N 38 36' 22.365"	W 075 06' 22.202"	38.60621	-75.10617	LNM 27/13, 5th Dist	555	12216_1	7/10/2013
+12216	Add	Rehoboth Bay Channel Buoy 24	R N "24"	N 38 36' 40.293"	W 075 05' 37.172"	38.61119	-75.09366	LNM 27/13, 5th Dist	555	12216_1	7/10/2013
+12216	Add	Middle Island West Buoy 1	G C "1"	N 38 36' 30.633"	W 075 06' 17.900"	38.60851	-75.10497	LNM 27/13, 5th Dist	555	12216_1	7/10/2013
+12216	Delete	Middle Island West Buoy 1	G C "1"	N 38 36' 49.633"	W 075 06' 01.230"	38.61379	-75.10034	LNM 27/13, 5th Dist	555	12216_1	7/10/2013
+12216	Delete	Rehoboth Bay Channel Warning Daybeacon	W Or Bn	N 38 36' 57.023"	W 075 05' 59.070"	38.61584	-75.09974	LNM 20/13, 5th Dist	555	12216_1	5/20/2013
+12216	Add	Middle Island West Buoy 1	G C "1"	N 38 36' 49.633"	W 075 06' 01.230"	38.61379	-75.10034	LNM 20/13, 5th Dist	555	12216_1	5/20/2013
+12216	Add	Middle Island West Buoy 5	G C "5"	N 38 37' 06.810"	W 075 05' 50.950"	38.61856	-75.09749	LNM 20/13, 5th Dist	555	12216_1	5/20/2013
+12216	Add	Middle Island West Daybeacon 3	G "3"	N 38 36' 57.040"	W 075 05' 59.001"	38.61584	-75.09972	LNM 20/13, 5th Dist	555	12216_1	5/20/2013
+12216	Delete	Indian River Channel Buoy 18	R N "18"	N 38 36' 37.000"	W 075 06' 03.000"	38.61028	-75.10083	LNM 19/13, 5th Dist	555	12216_1	5/10/2013
+12216	Add	Rehoboth Bay Channel Buoy 16B	R N "16B"	N 38 37' 21.538"	W 075 05' 44.391"	38.62265	-75.09566	LNM 18/13, 5th Dist	555	12216_1	5/2/2013
+12216	Delete	Rehoboth Bay Channel Buoy 21A	G C "21A"	N 38 37' 07.181"	W 075 05' 50.723"	38.61866	-75.09742	LNM 17/13, 5th Dist	555	12216_1	4/30/2013
+12216	Delete	Rehoboth Bay Channel Buoy 28	R N "28"	N 38 36' 42.927"	W 075 06' 03.875"	38.61192	-75.10107	LNM 17/13, 5th Dist	555	12216_1	4/30/2013
+12216	Delete	Rehoboth Bay Channel Daybeacon 27	G "27"	N 38 36' 49.775"	W 075 06' 01.445"	38.61383	-75.1004	LNM 17/13, 5th Dist	555	12216_1	4/30/2013
+12216	Relocate	Indian River Junction Lighted Buoy IR	RG "IR" Fl (2+1) R 6s	N 38 36' 34.401"	W 075 05' 30.950"	38.60955	-75.09193	LNM 17/13, 5th Dist	555	12216_1	4/30/2013
+12216	Relocate	Rehoboth Bay Channel Buoy 19	G C "19"	N 38 37' 13.459"	W 075 05' 36.249"	38.62041	-75.0934	LNM 17/13, 5th Dist	555	12216_1	4/30/2013
+12216	Relocate	Rehoboth Bay Channel Buoy 20	R N "20"	N 38 37' 10.025"	W 075 05' 33.522"	38.61945	-75.09264	LNM 17/13, 5th Dist	555	12216_1	4/30/2013
+12216	Relocate	Rehoboth Bay Channel Buoy 21	G C "21"	N 38 37' 00.617"	W 075 05' 27.401"	38.61684	-75.09094	LNM 17/13, 5th Dist	555	12216_1	4/30/2013
+12216	Relocate	Rehoboth Bay Channel Buoy 22	R N "22"	N 38 36' 54.897"	W 075 05' 36.182"	38.61525	-75.09338	LNM 17/13, 5th Dist	555	12216_1	4/30/2013
+12216	Relocate	Rehoboth Bay Channel Buoy 23	G C "23"	N 38 36' 43.875"	W 075 05' 32.120"	38.61219	-75.09225	LNM 17/13, 5th Dist	555	12216_1	4/30/2013
+12216	Change	Rehoboth Bay Channel Buoy 23	G C "23"	N 38 37' 00.316"	W 075 06' 00.071"	38.61675	-75.10002	LNM 17/13, 5th Dist	555	12216_1	4/30/2013
+12216	Change	Rehoboth Bay Channel Warning Daybeacon	W Or Bn	N 38 36' 57.023"	W 075 05' 59.070"	38.61584	-75.09974	LNM 17/13, 5th Dist	555	12216_1	4/30/2013
+12216	Add	HURRICANES AND TROPICAL STORMS NOTE	HURRICANES AND TROPICAL STORMS Note: Hurricanes, tropical storms and other major storms may cause considerable damage to marine structures, aids to navigation and moored vessels, resulting in submerged debris in unknown locations. Charted soundings, channel depths and shoreline may not reflect actual conditions following these storms. Fixed aids to navigation may have been damaged or destroyed. Buoys may have been moved from their charted positions, damaged, sunk, extinguished or otherwise made inoperative. Mariners should not rely upon the position or operation of an aid to navigation. Wrecks and submerged obstructions may have been displaced from charted locations. Pipelines may have become uncovered or moved. Mariners are urged to exercise extreme caution and are requested to report aids to navigation discrepancies and hazards to navigation to the nearest United States Coast Guard uni	N 38 48' 10.000"	W 075 16' 29.000"	38.80278	-75.27472	LNM 50/12, 5th Dist	555	12216_1	12/6/2012
+12216	Change	Harbor Of Refuge North End Light 1	Fl G 4s 40ft 7M "1"	N 38 49' 57.343"	W 075 06' 20.723"	38.8326	-75.10576	LNM 28/12, 5th Dist	555	12216_1	7/13/2012

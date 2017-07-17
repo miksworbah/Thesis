@@ -1,0 +1,64 @@
+Chart: 12248, Current Edition: 44, Print Date: Jan. /2014, James River Newport News to Jamestown Island; Back River and College Creek
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12248	Change	Newport News Creek Light 2	Fl R 2.5s 15ft 4M "2"	N 36 57' 34.810"	W 076 24' 33.758"	36.95967	-76.40938	LNM 27/17, 5th Dist	585	12248_1	7/13/2017
+12248	Change	James River Channel Light 5	Fl G 2.5s 15ft 5M "5"	N 37 02' 21.173"	W 076 32' 46.712"	37.03922	-76.54631	LNM 23/17, 5th Dist	585	12248_1	6/8/2017
+12248	Change	James River Channel Light 10	Fl R 4s 15ft 5M "10"	N 37 03' 12.194"	W 076 34' 36.641"	37.05339	-76.57684	LNM 23/17, 5th Dist	585	12248_1	6/8/2017
+12248	Change	James River Channel Light 15	Fl G 4s 15ft 5M "15"	N 37 04' 18.332"	W 076 36' 18.205"	37.07176	-76.60506	LNM 23/17, 5th Dist	585	12248_1	6/8/2017
+12248	Change	Deep Creek Channel Junction Light DC	Fl (2+1) R 6s 15ft 5M "DC"	N 37 02' 39.065"	W 076 31' 58.585"	37.04419	-76.53294	LNM 23/17, 5th Dist	585	12248_1	6/8/2017
+12248	Change	Tabulation - JAMES RIVER CHANNEL DEPTHS	Tabulation - JAMES RIVER CHANNEL DEPTHS	N 37 02' 10.000"	W 076 42' 00.000"	37.03611	-76.7	LNM 24/17, 5th Dist	585	12248_1	6/8/2017
+12248	Change	Nansemond River Channel Light 12	Fl R 4s 15ft 4M "12"	N 36 52' 30.648"	W 076 30' 18.137"	36.87518	-76.50504	LNM 10/17, 5th Dist	586	12248_4	3/16/2017
+12248	Change	Nansemond River Channel Light 28	Fl R 4s 15ft 4M "28"	N 36 49' 41.494"	W 076 33' 41.381"	36.82819	-76.56149	LNM 10/17, 5th Dist	586	12248_4	3/16/2017
+12248	Relocate	Nansemond River Channel Light 12	Fl R 4s 15ft 4M "12"	N 36 52' 30.648"	W 076 30' 18.137"	36.87518	-76.50504	LNM 10/17, 5th Dist	586	12248_4	3/16/2017
+12248	Change	James River Channel Light 2	Fl R 4s 15ft 5M "2"	N 37 01' 18.555"	W 076 30' 21.538"	37.02182	-76.50598	LNM 07/17, 5th Dist	585	12248_1	2/23/2017
+12248	Change	James River Channel Light 3	Fl G 4s 15ft 5M "3"	N 37 01' 42.747"	W 076 31' 49.264"	37.02854	-76.53035	LNM 07/17, 5th Dist	585	12248_1	2/23/2017
+12248	Relocate	Newport News Creek Lighted Buoy 4	R "4" Fl R 4s	N 36 57' 42.931"	W 076 24' 37.607"	36.96193	-76.41045	LNM 05/17, 5th Dist	585	12248_1	2/9/2017
+12248	Change	James River Channel Light 16	Fl R 4s 15ft 5M "16"	N 37 04' 22.014"	W 076 36' 12.276"	37.07278	-76.60341	LNM 03/17, 5th Dist	585	12248_1	1/26/2017
+12248	Change	Nansemond River Channel Light 16	Fl R 4s 15ft 4M "16"	N 36 51' 25.015"	W 076 31' 34.619"	36.85695	-76.52628	LNM 46/16, 5th Dist	586	12248_4	11/24/2016
+12248	Change	Pagan River Channel Light 8	Fl R 4s 15ft 4M "8"	N 37 00' 42.888"	W 076 33' 53.232"	37.01191	-76.56479	LNM 46/16, 5th Dist	585	12248_1	11/24/2016
+12248	Change	Pagan River Channel Light 12	Fl R 2.5s 15ft 4M "12"	N 37 00' 20.918"	W 076 34' 28.652"	37.00581	-76.57462	LNM 46/16, 5th Dist	585	12248_1	11/24/2016
+12248	Change	Pagan River Channel Light 19	Fl G 2.5s 15ft 4M "19"	N 36 59' 33.119"	W 076 37' 24.809"	36.99253	-76.62356	LNM 46/16, 5th Dist	585	12248_1	11/24/2016
+12248	Change	Deep Creek Channel Junction Light DC	Fl (2+1) R 6s 15ft 4M "DC"	N 37 02' 39.065"	W 076 31' 58.585"	37.04419	-76.53294	LNM 46/16, 5th Dist	585	12248_1	11/24/2016
+12248	Change	Mulberry Island Entrance Light 1MI	Fl G 2.5s 15ft 4M "1MI"	N 37 08' 07.411"	W 076 38' 01.669"	37.13539	-76.6338	LNM 46/16, 5th Dist	585	12248_1	11/24/2016
+12248	Change	Mulberry Island Light 13	Fl G 2.5s 15ft 4M "13"	N 37 08' 13.065"	W 076 37' 32.872"	37.13696	-76.6258	LNM 46/16, 5th Dist	585	12248_1	11/24/2016
+12248	Change	Skiffes Creek Channel Light 6	Fl R 4s 15ft 4M "6"	N 37 09' 55.011"	W 076 36' 48.809"	37.16528	-76.61356	LNM 46/16, 5th Dist	585	12248_1	11/24/2016
+12248	Change	Depth Legend - Bennett Creek to:	2 FT BY 60 FT JUL 2016	N 36 52' 57.000"	W 076 28' 54.000"	36.8825	-76.48167	LNM 47/16, 5th Dist	585	12248_1	11/24/2016
+12248	Change	Tabulation - JAMES RIVER CHANNEL DEPTHS	Tabulation - JAMES RIVER CHANNEL DEPTHS	N 37 02' 10.000"	W 076 42' 00.000"	37.03611	-76.7	LNM 47/16, 5th Dist	585	12248_1	11/24/2016
+12248	Change	Depth Legend - Tylers Beach to:	5 1/2 FT JAN 2016	N 37 04' 52.200"	W 076 39' 38.700"	37.08117	-76.66075	LNM 47/16, 5th Dist	585	12248_1	11/24/2016
+12248	Change	Depth Note - DEEP CREEK to:	From the channel entrance to the harbor the controlling depth was 3½ feet for a width of 100 feet narrowing to 60 feet at the mouth of the harbor, and 3 feet in the harbor. Dec 2013	N 37 04' 23.350"	W 076 30' 46.780"	37.07315	-76.51299	LNM 47/16, 5th Dist	585	12248_1	11/24/2016
+12248	Delete	Jamestown Island Daybeacon 2	R "2"	N 37 12' 33.720"	W 076 42' 39.810"	37.20937	-76.71106	LNM 40/16, 5th Dist	585	12248_1	10/13/2016
+12248	Delete	Warwick River Daybeacon 2	R "2"	N 37 04' 57.077"	W 076 32' 34.916"	37.08252	-76.54303	LNM 40/16, 5th Dist	585	12248_1	10/13/2016
+12248	Change	Deep Water Shoals Light	Fl 6s 34ft 6M (delete BELL (Sep 15 to Jun 1) )	N 37 08' 55.968"	W 076 38' 12.476"	37.14888	-76.6368	LNM 14/16, 5th Dist	585	12248_1	4/14/2016
+12248	Change	Tabulation - JAMES RIVER CHANNEL DEPTHS	Tabulation - JAMES RIVER CHANNEL DEPTHS	N 37 02' 10.000"	W 076 42' 00.000"	37.03611	-76.7	LNM 14/16, 5th Dist	585	12248_1	3/31/2016
+12248	Change	Depth Legend - TYLERS BEACH CHANNEL to:	1/2 FT NOV 2015	N 37 04' 52.200"	W 076 39' 38.700"	37.08117	-76.66075	LNM 12/16, 5th Dist	585	12248_1	3/17/2016
+12248	Relocate	James River Channel Lighted Buoy 46	R "46" Q R	N 37 11' 57.030"	W 076 43' 04.346"	37.19918	-76.71787	LNM 09/16, 5th Dist	585	12248_1	3/10/2016
+12248	Add	Leeward Marina Channel Daybeacon 3	G "3" Priv	N 37 00' 42.500"	W 076 27' 20.300"	37.01181	-76.45564	LNM 45/15, 5th Dist	585	12248_1	11/19/2015
+12248	Change	Tylers Beach Channel Daybeacon 1TB	G "1TB"	N 37 04' 46.425"	W 076 39' 17.773"	37.07956	-76.65494	LNM 43/15, 5th Dist	585	12248_1	10/29/2015
+12248	Change	CSX Pier 15 Lights (2)	2 Fl Y 4s 23ft Priv	N 36 57' 39.140"	W 076 25' 04.810"	36.96087	-76.418	LNM 42/15, 5th Dist	585	12248_1	10/29/2015
+12248	Change	CSX Pier 14 Lights (2)	2 Fl Y 4s 23ft Priv	N 36 57' 38.920"	W 076 25' 11.660"	36.96081	-76.41991	LNM 42/15, 5th Dist	585	12248_1	10/29/2015
+12248	Change	Jones Creek Daybeacon 4	R "4"	N 36 59' 55.433"	W 076 34' 11.058"	36.99873	-76.56974	LNM 40/15, 5th Dist	585	12248_1	10/22/2015
+12248	Relocate	James River Channel Buoy 10A	R N "10A"	N 37 03' 15.968"	W 076 35' 18.423"	37.05444	-76.58845	LNM 40/15, 5th Dist	585	12248_1	10/22/2015
+12248	Relocate	CSX Pier 14 Lights (2)	2 Fl Y 2.5s 23ft Priv	N 36 57' 38.920"	W 076 25' 11.660"	36.96081	-76.41991	LNM 39/15, 5th Dist	585	12248_1	10/8/2015
+12248	Relocate	CSX Pier 15 Lights (2)	2 Fl Y 2.5s 23ft Priv	N 36 57' 39.140"	W 076 25' 04.810"	36.96087	-76.418	LNM 39/15, 5th Dist	585	12248_1	10/8/2015
+12248	Change	Tabulation - JAMES RIVER CHANNEL DEPTHS	Tabulation - JAMES RIVER CHANNEL DEPTHS	N 37 02' 10.000"	W 076 42' 00.000"	37.03611	-76.7	LNM 40/15, 5th Dist	585	12248_1	10/1/2015
+12248	Add	James River Channel Lighted Buoy 27A	G "27A" Q G	N 37 10' 24.290"	W 076 37' 53.930"	37.17341	-76.63165	LNM 36/15, 5th Dist	585	12248_1	9/17/2015
+12248	Add	James River Channel Lighted Buoy 29A	G "29A" Q G	N 37 11' 06.390"	W 076 38' 00.750"	37.18511	-76.63354	LNM 36/15, 5th Dist	585	12248_1	9/17/2015
+12248	Relocate	James River Oyster Sanctuary Daybeacon AWS	W "AWS" Priv	N 37 03' 36.357"	W 076 35' 06.623"	37.0601	-76.58517	LNM 28/15, 5th Dist	585	12248_1	7/23/2015
+12248	Relocate	Virginia Power West Tower Fender Lights (3)	3 Fl Y 4s 9ft Priv	N 37 00' 10.049"	W 076 28' 15.083"	37.00279	-76.47086	LNM 22/15, 5th Dist	585	12248_1	6/11/2015
+12248	Change	Virginia Power West Tower Fender Lights (3)	3 Fl Y 4s 9ft Priv	N 37 00' 10.049"	W 076 28' 15.083"	37.00279	-76.47086	LNM 22/15, 5th Dist	585	12248_1	6/11/2015
+12248	Relocate	Virginia Power East Tower Fender Lights (3)	3 Fl Y 4s 9ft Priv	N 37 00' 15.740"	W 076 28' 07.925"	37.00437	-76.46886	LNM 22/15, 5th Dist	585	12248_1	6/11/2015
+12248	Change	Virginia Power East Tower Fender Lights (3)	3 Fl Y 4s 9ft Priv	N 37 00' 15.740"	W 076 28' 07.925"	37.00437	-76.46886	LNM 22/15, 5th Dist	585	12248_1	6/11/2015
+12248	Change	James River Channel Light 24	Q R 19ft 5M "24"	N 37 07' 03.529"	W 076 38' 08.811"	37.11765	-76.63578	LNM 15/15, 5th Dist	585	12248_1	4/23/2015
+12248	Change	James River Channel Light 36	Fl R 4s 15ft 5M "36"	N 37 12' 13.227"	W 076 38' 51.638"	37.20367	-76.64767	LNM 15/15, 5th Dist	585	12248_1	4/23/2015
+12248	Change	James River Channel Light 40	Fl R 4s 15ft 5M "40"	N 37 12' 47.889"	W 076 39' 37.679"	37.2133	-76.66047	LNM 15/15, 5th Dist	585	12248_1	4/23/2015
+12248	Relocate	James River Channel Buoy 21	G C "21"	N 37 06' 21.113"	W 076 37' 45.062"	37.10587	-76.62918	LNM 07/15, 5th Dist	585	12248_1	2/26/2015
+12248	Change	Chuckatuck Creek Entrance Light 8	Fl R 4s 15ft 4M "8"	N 36 55' 20.153"	W 076 29' 41.414"	36.92226	-76.49483	LNM 06/15, 5th Dist	585	12248_1	2/19/2015
+12248	Change	Depth Legend - Bennett Creek to:	5 1/2 FT BY 60 FT SEP 2013	N 36 52' 57.000"	W 076 28' 54.000"	36.8825	-76.48167	LNM 51/14, 5th Dist	585	12248_1	12/18/2014
+12248	Change	Hog Island Cutoff Wreck Light WR7	Q G 15ft 4M "WR7"	N 37 12' 21.497"	W 076 41' 26.369"	37.20597	-76.69066	LNM 49/14, 5th Dist	585	12248_1	12/18/2014
+12248	Delete	Virginia Power Instrument Tower Light A	Fl Y 4s 15ft "A" Priv Tower	N 37 09' 25.528"	W 076 37' 28.836"	37.15709	-76.62468	LNM 47/14, 5th Dist	585	12248_1	11/27/2014
+12248	Delete	Virginia Power Instrument Tower Light C	Fl Y 4s 15ft "C" Priv Tower	N 37 12' 00.529"	W 076 41' 08.843"	37.20015	-76.68579	LNM 47/14, 5th Dist	585	12248_1	11/27/2014
+12248	Delete	Virginia Power Instrument Tower Light D	Fl Y 4s 15ft "D" Priv Tower	N 37 12' 20.530"	W 076 43' 13.847"	37.2057	-76.72051	LNM 47/14, 5th Dist	585	12248_1	11/27/2014
+12248	Delete	Virginia Power Instrument Tower Light F	Fl Y 4s 15ft "F" Priv Tower	N 37 10' 45.530"	W 076 42' 26.845"	37.17931	-76.70746	LNM 47/14, 5th Dist	585	12248_1	11/27/2014
+12248	Change	Tabulation - James River Channel Depths	Tabulation - James River Channel Depths	N 37 02' 10.000"	W 076 42' 00.000"	37.03611	-76.7	LNM 44/14, 5th Dist	585	12248_1	10/30/2014
+12248	Relocate	James River Channel Lighted Buoy 45	G "45" Fl G 4s	N 37 11' 51.830"	W 076 43' 00.146"	37.19773	-76.71671	LNM 33/14, 5th Dist	585	12248_1	8/21/2014
+12248	Relocate	Hog Island Cutoff Daybeacon 7	G "7"	N 37 12' 21.497"	W 076 41' 26.369"	37.20597	-76.69066	LNM 29/14, 5th Dist	585	12248_1	7/31/2014
+12248	Change	Bennett Creek Buoy 5	G C "5"	N 36 52' 41.550"	W 076 28' 56.400"	36.87821	-76.48233	LNM 21/14, 5th Dist	585	12248_1	6/5/2014

@@ -1,0 +1,15 @@
+Chart: 12272, Current Edition: 33, Print Date: Jan. /2017, Chester River; Kent Island Narrows, Rock Hall Harbor and Swan Creek
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12272	Change	Rock Hall Harbor Warning Daybeacon A	W "A"	N 39 07' 49.873"	W 076 14' 53.990"	39.13052	-76.24833	LNM 24/17, 5th Dist	624	12272_3	6/22/2017
+12272	Add	Rock Hall Harbor Buoy 3	G C "3"	N 39 07' 47.650"	W 076 14' 53.550"	39.1299	-76.24821	LNM 24/17, 5th Dist	624	12272_3	6/22/2017
+12272	Relocate	Swan Creek Entrance Buoy 1	G C "1"	N 39 05' 34.223"	W 076 15' 15.021"	39.09284	-76.25417	LNM 22/17, 5th Dist	622	12272_1	6/8/2017
+12272	Delete	Overhead Power Cable  PT 1 OF 2	Chart No. 1: D26  	N 39 00' 20.720"	W 076 09' 10.200"	39.00576	-76.15283	LNM 23/17, 5th Dist	622	12272_1	6/1/2017
+12272	Delete	Overhead Power Cable  PT 2 OF 2	Chart No. 1: D26  	N 39 00' 16.560"	W 076 09' 04.420"	39.0046	-76.15123	LNM 23/17, 5th Dist	622	12272_1	6/1/2017
+12272	Add	Cable Area  PT 1 OF 2	Chart No. 1: L30.2	N 39 00' 20.090"	W 076 09' 11.420"	39.00558	-76.15318	LNM 23/17, 5th Dist	622	12272_1	6/1/2017
+12272	Add	Cable Area  PT 2 OF 2	Chart No. 1: L30.2	N 39 00' 15.070"	W 076 09' 04.460"	39.00418	-76.15124	LNM 23/17, 5th Dist	622	12272_1	6/1/2017
+12272	Delete	Overhead Power Cable Label	OVHD PWR CAB AUTH CL 66 FT	N 39 00' 14.400"	W 076 08' 54.230"	39.004	-76.1484	LNM 23/17, 5th Dist	622	12272_1	6/1/2017
+12272	Relocate	Gordon Point Shoal Buoy 2	R N "2"	N 39 03' 40.633"	W 076 09' 38.241"	39.06129	-76.16062	LNM 15/17, 5th Dist	622	12272_1	4/20/2017
+12272	Relocate	Kent Island Narrows North Approach Lighted Buoy 3	G "3" Fl G 4s	N 38 59' 02.516"	W 076 14' 34.648"	38.98403	-76.24296	LNM 14/17, 5th Dist	623	12272_2	4/13/2017
+12272	Relocate	Kent Island Narrows North Approach Lighted Buoy 3	G "3" Fl G 4s	N 38 59' 02.516"	W 076 14' 34.648"	38.98403	-76.24296	LNM 14/17, 5th Dist	622	12272_1	4/13/2017
+12272	Relocate	Kent Island Narrows North Approach Buoy 6A	R N "6A"	N 38 58' 47.054"	W 076 14' 29.137"	38.97974	-76.24142	LNM 14/17, 5th Dist	623	12272_2	4/13/2017
+12272	Delete	Kent Island Narrows North Approach Buoy 6A	R N "6A"	N 38 59' 47.080"	W 076 14' 29.560"	38.99641	-76.24155	LNM 13/17, 5th Dist	622	12272_1	3/23/2017

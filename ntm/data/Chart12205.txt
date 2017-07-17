@@ -1,0 +1,16 @@
+Chart: 12205, Current Edition: 35, Print Date: Feb. /2017, Cape Henry to Pamlico Sound, Including Albemarle Sd.; Rudee Heights
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12205	Relocate	Alligator River Light 1AR	Fl G 2.5s 15ft 5M "1AR"	N 35 58' 09.868"	W 075 58' 46.338"	35.96941	-75.97954	LNM 27/17, 5th Dist	533	12205_6	7/13/2017
+12205	Change	Roanoke Island West Side Light 2	Fl R 2.5s 15ft 4M "2"	N 35 50' 24.108"	W 075 40' 07.524"	35.84003	-75.66875	LNM 25/17, 5th Dist	532	12205_5	6/29/2017
+12205	Change	Tabulation - PAMLICO AND ROANOKE SOUND CHANNEL DEPTHS	Tabulation - PAMLICO AND ROANOKE SOUND CHANNEL DEPTHS	N 35 54' 00.000"	W 075 47' 50.000"	35.9	-75.79723	LNM 26/17, 5th Dist	532	12205_5	6/22/2017
+12205	Relocate	Chesapeake Channel Lighted Bell Buoy 2C	R "2C" Fl R 2.5s BELL	N 36 57' 18.528"	W 075 58' 22.246"	36.95515	-75.97285	LNM 16/17, 5th Dist	528	12205_1	4/27/2017
+12205	Change	Tabulation - PAMLICO AND ROANOKE SOUND CHANNEL DEPTHS	Tabulation - PAMLICO AND ROANOKE SOUND CHANNEL DEPTHS	N 35 54' 00.000"	W 075 47' 50.000"	35.9	-75.79723	LNM 18/17, 5th Dist	532	12205_5	4/27/2017
+12205	Change	Chowan River Light 26	Fl R 4s 15ft 4M "26"	N 36 21' 52.200"	W 076 49' 13.016"	36.3645	-76.82028	LNM 15/17, 5th Dist	538	12205_11	4/20/2017
+12205	Change	Roanoke River Channel Light 3	Fl G 2.5s 15ft 4M "3"	N 35 56' 48.954"	W 076 41' 00.569"	35.94693	-76.68349	LNM 15/17, 5th Dist	537	12205_10	4/20/2017
+12205	Change	Scuppernong River Channel Light 7	Q G 15ft 4M "7"	N 35 55' 14.374"	W 076 16' 46.647"	35.92066	-76.27962	LNM 15/17, 5th Dist	533	12205_6	4/20/2017
+12205	Delete	NC Artificial Fishing Reef Buoy AR160	Y C "AR160" Priv	N 35 43' 56.520"	W 075 26' 46.260"	35.73237	-75.44618	LNM 14/17, 5th Dist	531	12205_4	4/13/2017
+12205	Change	Oregon Inlet Channel Light 54	Q R 15ft 4M "54"	N 35 47' 21.013"	W 075 34' 16.883"	35.78917	-75.57136	LNM 09/17, 5th Dist	532	12205_5	3/9/2017
+12205	Relocate	Pembroke Creek Daybeacon 8	R "8"	N 36 03' 24.583"	W 076 37' 30.678"	36.05683	-76.62519	LNM 08/17, 5th Dist	537	12205_10	3/2/2017
+12205	Change	Chowan River Entrance Light 2CR	Mo (A) 15ft 5M "2CR"	N 36 01' 44.517"	W 076 40' 20.573"	36.02903	-76.67238	LNM 08/17, 5th Dist	537	12205_10	3/2/2017
+12205	Change	Roanoke Sound Channel Light 30A	Q R 15ft 4M "30A"	N 35 55' 05.230"	W 075 38' 57.689"	35.91812	-75.64936	LNM 07/17, 5th Dist	532	12205_5	2/23/2017
+12205	Change	Roanoke Sound Channel Light 30	Fl R 2.5s 15ft 4M "30"	N 35 54' 50.634"	W 075 38' 47.784"	35.91407	-75.64661	LNM 07/17, 5th Dist	532	12205_5	2/23/2017

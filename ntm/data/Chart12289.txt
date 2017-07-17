@@ -1,0 +1,26 @@
+Chart: 12289, Current Edition: 51, Print Date: Aug. /2015, Potomac River Mattawoman Creek to Georgetown;Washington Harbor
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12289	Relocate	Upper Potomac River Channel Buoy 46	R N "46"	N 38 33' 35.430"	W 077 14' 04.431"	38.55984	-77.23457	LNM 25/17, 5th Dist	664	12289_1	6/29/2017
+12289	Relocate	Alexandria Channel Buoy 2	R N "2"	N 38 47' 59.908"	W 077 02' 06.915"	38.79998	-77.03526	LNM 25/17, 5th Dist	664	12289_1	6/29/2017
+12289	Change	Neabsco Creek Light 2	Fl R 2.5s 15ft 4M "2"	N 38 35' 46.409"	W 077 14' 44.506"	38.59623	-77.2457	LNM 49/16, 5th Dist	664	12289_1	12/15/2016
+12289	Change	Mattawoman Creek Light 5	Fl G 4s 15ft 4M "5"	N 38 33' 55.814"	W 077 11' 39.850"	38.5655	-77.1944	LNM 47/16, 5th Dist	664	12289_1	12/1/2016
+12289	Change	Mattawoman Creek Light 3	Fl G 2.5s 15ft 4M "3"	N 38 33' 40.994"	W 077 12' 02.182"	38.56139	-77.20061	LNM 47/16, 5th Dist	664	12289_1	12/1/2016
+12289	Relocate	Whitestone Point Light	Iso 6s 17ft 7M	N 38 41' 04.512"	W 077 07' 23.454"	38.68459	-77.12318	LNM 43/16, 5th Dist	664	12289_1	11/3/2016
+12289	Change	Whitestone Point Light	Iso 6s 17ft 7M	N 38 41' 04.938"	W 077 07' 23.345"	38.6847	-77.12315	LNM 41/16, 5th Dist	664	12289_1	10/20/2016
+12289	Relocate	Hains Point Buoy 2	R N "2"	N 38 51' 14.605"	W 077 01' 10.914"	38.85406	-77.0197	LNM 34/16, 5th Dist	665	12289_2	9/1/2016
+12289	Relocate	Hains Point Buoy 2	R N "2"	N 38 51' 14.605"	W 077 01' 10.914"	38.85406	-77.0197	LNM 34/16, 5th Dist	664	12289_1	9/1/2016
+12289	Add	Overhead Power Cable Label	OVHD PWR CAB AUTH CL 73 FT REP	N 38 41' 01.260"	W 077 15' 27.410"	38.68368	-77.25761	LNM 25/16, 5th Dist	664	12289_1	6/23/2016
+12289	Add	Overhead Power Cable  PT 1 OF 2	Chart No. 1: D26  	N 38 41' 07.100"	W 077 15' 25.990"	38.68531	-77.25722	LNM 25/16, 5th Dist	664	12289_1	6/23/2016
+12289	Add	Overhead Power Cable  PT 2 OF 2	Chart No. 1: D26  	N 38 40' 56.730"	W 077 15' 28.520"	38.68243	-77.25792	LNM 25/16, 5th Dist	664	12289_1	6/23/2016
+12289	Change	Tabulation - ANACOSTIA AND WASHINGTON CHANNEL DEPTHS	Tabulation - ANACOSTIA AND WASHINGTON CHANNEL DEPTHS	N 38 46' 40.300"	W 076 57' 58.800"	38.77786	-76.96633	LNM 15/16, 5th Dist	664	12289_1	4/14/2016
+12289	Change	Occoquan River Channel Light 14	Fl R 4s 15ft 4M "14"	N 38 39' 43.733"	W 077 14' 06.076"	38.66215	-77.23502	LNM 10/16, 5th Dist	664	12289_1	3/17/2016
+12289	Delete	Washington Channel Warning Buoy A	W Or C "A"	N 38 51' 43.719"	W 077 01' 08.380"	38.86214	-77.019	LNM 51/15, 5th Dist	665	12289_2	1/7/2016
+12289	Delete	Washington Channel Warning Buoy A	W Or C "A"	N 38 51' 43.719"	W 077 01' 08.380"	38.86214	-77.019	LNM 51/15, 5th Dist	664	12289_1	1/7/2016
+12289	Delete	Washington Channel Warning Buoy B	W Or C "B"	N 38 51' 58.260"	W 077 01' 08.368"	38.86618	-77.01899	LNM 51/15, 5th Dist	665	12289_2	1/7/2016
+12289	Delete	Washington Channel Warning Buoy B	W Or C "B"	N 38 51' 58.260"	W 077 01' 08.368"	38.86618	-77.01899	LNM 51/15, 5th Dist	664	12289_1	1/7/2016
+12289	Change	Occoquan River Channel Light 2	Fl R 4s 15ft 4M "2"	N 38 37' 24.168"	W 077 12' 47.749"	38.62338	-77.21326	LNM 44/15, 5th Dist	664	12289_1	11/12/2015
+12289	Change	Upper Potomac River Channel Light 56	Fl R 4s 15ft 4M "56"	N 38 36' 40.505"	W 077 08' 18.544"	38.61125	-77.13848	LNM 40/15, 5th Dist	664	12289_1	10/22/2015
+12289	Change	Occoquan River Channel Light 12	Fl R 4s 15ft 4M "12"	N 38 39' 26.728"	W 077 13' 57.301"	38.65742	-77.23258	LNM 40/15, 5th Dist	664	12289_1	10/22/2015
+12289	Relocate	Piscataway Creek Daybeacon 4	R "4"	N 38 42' 15.984"	W 077 02' 03.480"	38.70444	-77.0343	LNM 39/15, 5th Dist	664	12289_1	10/8/2015
+12289	Relocate	Piscataway Creek Daybeacon 6	R "6"	N 38 42' 05.838"	W 077 01' 48.049"	38.70162	-77.03001	LNM 39/15, 5th Dist	664	12289_1	10/8/2015
+12289	Change	Upper Potomac River Channel Light 88	Fl R 2.5s 20ft 4M "88"	N 38 46' 10.039"	W 077 01' 51.001"	38.76945	-77.03083	LNM 38/15, 5th Dist	664	12289_1	10/1/2015

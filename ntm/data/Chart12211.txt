@@ -1,0 +1,24 @@
+Chart: 12211, Current Edition: 47, Print Date: Feb. /2017, Fenwick Island to Chincoteague Inlet;Ocean City Inlet
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12211	Add	Chincoteague Channel CBFS Data Buoy A	Y C "A" Priv	N 37 53' 06.400"	W 075 24' 53.500"	37.88511	-75.41486	LNM 22/17, 5th Dist	552	12211_1	6/8/2017
+12211	Add	Chincoteague Inlet CBFS Data Buoy A	Y C "A" Priv	N 37 50' 42.900"	W 075 25' 05.600"	37.84525	-75.41822	LNM 22/17, 5th Dist	552	12211_1	6/8/2017
+12211	Add	Greenbackville CBFS Data Buoy A	Y C "A" Priv	N 38 00' 06.700"	W 075 22' 46.600"	38.00186	-75.37961	LNM 22/17, 5th Dist	552	12211_1	6/8/2017
+12211	Change	Chincoteague Bay, Greenbackville to:	2 FT MID 40 FT MAR 2016	N 38 00' 12.430"	W 075 23' 10.880"	38.00345	-75.38635	LNM 19/17, 5th Dist	552	12211_1	5/11/2017
+12211	Change	Depth Legend - Lewis Creek and Chincoteague Bay to:	4 1/2 FT APR 2015	N 37 56' 53.000"	W 075 21' 53.000"	37.94806	-75.36472	LNM 18/17, 5th Dist	552	12211_1	4/27/2017
+12211	Delete	Chincoteague Bay Daybeacon 26	R "26"	N 38 06' 56.814"	W 075 15' 47.694"	38.11578	-75.26324	LNM 16/17, 5th Dist	552	12211_1	4/27/2017
+12211	Delete	Chincoteague Bay Daybeacon 23	G "23"	N 38 04' 30.006"	W 075 17' 00.768"	38.075	-75.28355	LNM 16/17, 5th Dist	552	12211_1	4/27/2017
+12211	Delete	Chincoteague Bay Daybeacon 16A	R "16A"	N 38 01' 02.496"	W 075 20' 50.904"	38.01736	-75.34747	LNM 16/17, 5th Dist	552	12211_1	4/27/2017
+12211	Relocate	Chincoteague Bay Buoy 16	R N "16"	N 38 00' 42.260"	W 075 21' 11.270"	38.01174	-75.35313	LNM 16/17, 5th Dist	552	12211_1	4/27/2017
+12211	Change	Depth Legend - Chincoteague Harbor of Refuge Channel to:	3 1/2 FT 2016	N 37 54' 08.830"	W 075 24' 29.090"	37.90245	-75.40808	LNM 17/17, 5th Dist	552	12211_1	4/27/2017
+12211	Change	Depth Legend - Lewis Creek and Chincoteague Bay to:	4 1/2 FT SEP 2016	N 37 56' 53.000"	W 075 21' 53.000"	37.94806	-75.36472	LNM 17/17, 5th Dist	552	12211_1	4/27/2017
+12211	Change	Depth Legend - Commercial Fish Harbor to:	7 FT MAR 2016	N 38 19' 38.120"	W 075 06' 10.260"	38.32726	-75.10285	LNM 17/17, 5th Dist	553	12211_2	4/27/2017
+12211	Relocate	Chincoteague Channel Buoy 25	G C "25"	N 37 55' 15.490"	W 075 23' 42.610"	37.92097	-75.39517	LNM 15/17, 5th Dist	552	12211_1	4/20/2017
+12211	Relocate	Chincoteague Channel Buoy 19	G C "19"	N 37 54' 21.480"	W 075 24' 34.850"	37.90597	-75.40968	LNM 15/17, 5th Dist	552	12211_1	4/20/2017
+12211	Delete	Sinepuxent Bay Channel Buoy 10A	R N "10A"	N 38 17' 56.908"	W 075 07' 05.316"	38.29914	-75.11814	LNM 15/17, 5th Dist	552	12211_1	4/20/2017
+12211	Delete	Sinepuxent Bay Channel Buoy 21	G C "21"	N 38 14' 13.082"	W 075 09' 28.150"	38.23697	-75.15782	LNM 15/17, 5th Dist	552	12211_1	4/20/2017
+12211	Delete	Sinepuxent Bay Channel Buoy 27	G C "27"	N 38 13' 16.520"	W 075 10' 23.225"	38.22126	-75.17312	LNM 15/17, 5th Dist	552	12211_1	4/20/2017
+12211	Delete	Sinepuxent Bay Channel Buoy 29	G C "29"	N 38 12' 24.421"	W 075 11' 10.678"	38.20678	-75.1863	LNM 15/17, 5th Dist	552	12211_1	4/20/2017
+12211	Relocate	Greenbackville Lighted Wreck Buoy WR5	G "WR5" Q G	N 38 00' 23.720"	W 075 23' 20.392"	38.00659	-75.389	LNM 14/17, 5th Dist	552	12211_1	4/13/2017
+12211	Relocate	Winter Quarter Shoal Lighted Buoy 6	R "6" Fl R 6s	N 37 59' 42.534"	W 075 01' 22.477"	37.99515	-75.02291	LNM 13/17, 5th Dist	552	12211_1	4/6/2017
+12211	Relocate	Chincoteague Channel Lighted Buoy 28	R "28" Fl R 4s	N 37 55' 45.640"	W 075 23' 29.080"	37.92934	-75.39141	LNM 13/17, 5th Dist	552	12211_1	4/6/2017
+12211	Delete	Wallops Island Warning Daybeacon	W Bn	N 37 53' 46.434"	W 075 24' 55.734"	37.89623	-75.41548	LNM 10/17, 5th Dist	552	12211_1	3/16/2017

@@ -1,0 +1,208 @@
+Chart: 12280, Current Edition: 11, Print Date: Feb. /2014, Chesapeake Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12280	Delete	Kedges Straits Buoy 2	R N "2"	N 38 03' 12.445"	W 076 03' 20.771"	38.05346	-76.05577	LNM 24/17, 5th Dist	2975	12280_2	6/22/2017
+12280	Add	Obstruction in Feet	14 Obstn   (Chart No. 1: K41)	N 37 07' 28.000"	W 076 13' 04.300"	37.12444	-76.21786	LNM 23/17, 5th Dist	2975	12280_2	6/8/2017
+12280	Delete	Swan Creek Entrance Buoy 1	G C "1"	N 39 05' 34.398"	W 076 15' 15.836"	39.09289	-76.2544	LNM 22/17, 5th Dist	2974	12280_1	6/8/2017
+12280	Relocate	Thimble Shoal Channel Lighted Buoy 14	R "14" Fl R 2.5s	N 36 59' 42.340"	W 076 11' 05.570"	36.99509	-76.18488	LNM 19/17, 5th Dist	2975	12280_2	5/18/2017
+12280	Relocate	Brewerton Channel Lighted Buoy 3	G "3" Q G	N 39 10' 48.736"	W 076 26' 42.018"	39.18021	-76.44501	LNM 19/17, 5th Dist	2974	12280_1	5/18/2017
+12280	Relocate	Poquoson Flats Channel Daybeacon 2PF	R "2PF"	N 37 06' 27.136"	W 076 14' 46.082"	37.10754	-76.24613	LNM 18/17, 5th Dist	2975	12280_2	5/11/2017
+12280	Relocate	Chesapeake Channel Lighted Bell Buoy 2C	R "2C" Fl R 2.5s BELL	N 36 57' 18.528"	W 075 58' 22.246"	36.95515	-75.97285	LNM 16/17, 5th Dist	2975	12280_2	4/27/2017
+12280	Relocate	Chesapeake Channel Lighted Bell Buoy 12	R "12" Q R BELL	N 37 01' 05.077"	W 076 02' 41.593"	37.01808	-76.04488	LNM 16/17, 5th Dist	2975	12280_2	4/27/2017
+12280	Relocate	Chesapeake Channel Lighted Buoy 30	R "30" Fl R 2.5s	N 37 11' 30.118"	W 076 09' 04.740"	37.1917	-76.15131	LNM 16/17, 5th Dist	2975	12280_2	4/27/2017
+12280	Relocate	Chesapeake Channel Lighted Buoy 36	R "36" Fl R 4s	N 37 15' 49.396"	W 076 07' 23.208"	37.26372	-76.12312	LNM 16/17, 5th Dist	2975	12280_2	4/27/2017
+12280	Delete	Tar Bay Warning Buoy A	W Or C "A"	N 38 21' 06.999"	W 076 16' 19.831"	38.35194	-76.27218	LNM 14/17, 5th Dist	2974	12280_1	4/13/2017
+12280	Add	Obstruction	Obstns         Chart No. 1: K40	N 38 10' 22.220"	W 076 05' 41.750"	38.17284	-76.09493	LNM 15/17, 5th Dist	2974	12280_1	4/13/2017
+12280	Add	Obstruction	Obstns         Chart No. 1: K40	N 38 10' 22.220"	W 076 05' 41.750"	38.17284	-76.09493	LNM 15/17, 5th Dist	2975	12280_2	4/13/2017
+12280	Add	Obstruction	Obstns         Chart No. 1: K40	N 38 11' 25.120"	W 076 05' 24.070"	38.19031	-76.09002	LNM 15/17, 5th Dist	2974	12280_1	4/13/2017
+12280	Add	Obstruction	Obstns         Chart No. 1: K40	N 38 11' 25.120"	W 076 05' 24.070"	38.19031	-76.09002	LNM 15/17, 5th Dist	2975	12280_2	4/13/2017
+12280	Add	Obstruction	Obstns         Chart No. 1: K40	N 38 10' 18.520"	W 076 05' 37.180"	38.17181	-76.09366	LNM 15/17, 5th Dist	2974	12280_1	4/13/2017
+12280	Add	Obstruction	Obstns         Chart No. 1: K40	N 38 10' 18.520"	W 076 05' 37.180"	38.17181	-76.09366	LNM 15/17, 5th Dist	2975	12280_2	4/13/2017
+12280	Add	Obstruction	Obstns         Chart No. 1: K40	N 38 11' 25.690"	W 076 05' 24.040"	38.19047	-76.09001	LNM 15/17, 5th Dist	2974	12280_1	4/13/2017
+12280	Add	Obstruction	Obstns         Chart No. 1: K40	N 38 11' 25.690"	W 076 05' 24.040"	38.19047	-76.09001	LNM 15/17, 5th Dist	2975	12280_2	4/13/2017
+12280	Add	Obstruction	Obstns         Chart No. 1: K40	N 38 11' 25.010"	W 076 05' 23.750"	38.19028	-76.08993	LNM 15/17, 5th Dist	2974	12280_1	4/13/2017
+12280	Add	Obstruction	Obstns         Chart No. 1: K40	N 38 11' 25.010"	W 076 05' 23.750"	38.19028	-76.08993	LNM 15/17, 5th Dist	2975	12280_2	4/13/2017
+12280	Add	Obstruction	Obstns         Chart No. 1: K40	N 38 10' 25.900"	W 076 05' 46.320"	38.17386	-76.0962	LNM 15/17, 5th Dist	2974	12280_1	4/13/2017
+12280	Add	Obstruction	Obstns         Chart No. 1: K40	N 38 10' 25.900"	W 076 05' 46.320"	38.17386	-76.0962	LNM 15/17, 5th Dist	2975	12280_2	4/13/2017
+12280	Relocate	Chesapeake Channel Lighted Buoy 16	R "16" Q R	N 37 03' 53.581"	W 076 05' 25.148"	37.06488	-76.09032	LNM 07/17, 5th Dist	2975	12280_2	2/23/2017
+12280	Delete	USN Aerial Gunnery Area Warning Daybeacon A	W "A"	N 37 47' 41.873"	W 075 59' 26.442"	37.79496	-75.99068	LNM 04/17, 5th Dist	2975	12280_2	2/2/2017
+12280	Add	USN Aerial Gunnery Area Lighted Warning Buoy A	W Or "A" Fl 2.5s	N 37 47' 41.634"	W 075 59' 26.458"	37.7949	-75.99068	LNM 04/17, 5th Dist	2975	12280_2	2/2/2017
+12280	Change	Rose Haven Channel Light 1	Q G 15ft 4M "1"	N 38 44' 01.746"	W 076 32' 18.954"	38.73382	-76.5386	LNM 03/17, 5th Dist	2974	12280_1	1/26/2017
+12280	Relocate	Rose Haven Channel Light 1	Q G 15ft 4M "1"	N 38 44' 01.746"	W 076 32' 18.954"	38.73382	-76.5386	LNM 03/17, 5th Dist	2974	12280_1	1/26/2017
+12280	Change	Holland Island Bar Light	Fl 2.5s 37ft 6M	N 38 04' 07.345"	W 076 05' 44.906"	38.06871	-76.09581	LNM 51/16, 5th Dist	2975	12280_2	12/22/2016
+12280	Delete	Winter Harbor Channel Light 1WH	Fl G 2.5s 15ft 4M "1WH"	N 37 21' 54.445"	W 076 14' 44.415"	37.36512	-76.24567	LNM 49/16, 5th Dist	2975	12280_2	12/15/2016
+12280	Relocate	Chesapeake Bay Southern Approach Lighted Buoy 14	R "14" Fl R 4s	N 36 54' 11.853"	W 075 54' 09.931"	36.90329	-75.90276	LNM 45/16, 5th Dist	2975	12280_2	11/17/2016
+12280	Relocate	Chesapeake Channel Mid-Channel Lighted Whistle Buoy CB	RW "CB" Mo (A) WHIS	N 37 30' 01.308"	W 076 02' 36.457"	37.50036	-76.04346	LNM 45/16, 5th Dist	2975	12280_2	11/17/2016
+12280	Relocate	NOAA Lighted Data Buoy FL	Y "FL" Fl Y 4s	N 36 59' 53.100"	W 076 05' 14.280"	36.99809	-76.0873	LNM 45/16, 5th Dist	2975	12280_2	11/17/2016
+12280	Add	Obstruction in Feet	11 Obstn       Chart No. 1: K41	N 37 08' 25.700"	W 076 14' 03.700"	37.14047	-76.23436	LNM 46/16, 5th Dist	2975	12280_2	11/17/2016
+12280	Delete	NOAA Lighted Data Buoy FL	Y "FL" Fl Y 4s	N 36 58' 46.740"	W 076 02' 36.240"	36.97965	-76.0434	LNM 44/16, 5th Dist	2975	12280_2	11/10/2016
+12280	Add	NOAA Lighted Data Buoy FL	Y "FL" Fl Y 4s	N 36 59' 53.376"	W 076 05' 13.848"	36.99816	-76.08718	LNM 44/16, 5th Dist	2975	12280_2	11/10/2016
+12280	Change	Cape Henry Wreck Lighted Buoy 2CH	R "WR2CH" Q R	N 36 57' 33.327"	W 076 00' 46.052"	36.95926	-76.01279	LNM 43/16, 5th Dist	2975	12280_2	11/3/2016
+12280	Delete	Milford Haven East Light 3	Fl G 2.5s 4M "3"	N 37 27' 22.364"	W 076 12' 44.108"	37.45621	-76.21225	LNM 42/16, 5th Dist	2975	12280_2	10/20/2016
+12280	Delete	Milford Haven East Light 5	Fl G 4s 4M "5"	N 37 27' 37.508"	W 076 14' 01.106"	37.46042	-76.23364	LNM 42/16, 5th Dist	2975	12280_2	10/20/2016
+12280	Change	Chesapeake Lights (2)	2 Fl 4s 84ft 5M Priv (delete HORN and RACON ( - . )	N 36 54' 16.696"	W 075 42' 45.818"	36.90464	-75.71273	LNM 40/16, 5th Dist	2975	12280_2	10/13/2016
+12280	Change	Winter Harbor Channel Light 1WH	Fl G 2.5s 15ft 4M "1WH"	N 37 21' 54.445"	W 076 14' 44.415"	37.36512	-76.24567	LNM 39/16, 5th Dist	2975	12280_2	10/6/2016
+12280	Change	St. Jerome Creek Light 1SJ	Fl G 2.5s 15ft 3M "1SJ"	N 38 06' 54.494"	W 076 20' 08.598"	38.11514	-76.33572	LNM 38/16, 5th Dist	2974	12280_1	9/22/2016
+12280	Change	St. Jerome Creek Light 1SJ	Fl G 2.5s 15ft 3M "1SJ"	N 38 06' 54.494"	W 076 20' 08.598"	38.11514	-76.33572	LNM 38/16, 5th Dist	2975	12280_2	9/22/2016
+12280	Delete	Sounding in Feet	12	N 37 06' 15.340"	W 076 14' 58.260"	37.10426	-76.24952	LNM 39/16, 5th Dist	2975	12280_2	9/22/2016
+12280	Add	Sounding in Feet	2	N 37 06' 14.260"	W 076 15' 12.604"	37.10396	-76.2535	LNM 39/16, 5th Dist	2975	12280_2	9/22/2016
+12280	Delete	Fairlee Creek Light 2F	Fl (2) R 5s 15ft 3M "2F"	N 39 16' 15.064"	W 076 12' 31.130"	39.27085	-76.20865	LNM 36/16, 5th Dist	2974	12280_1	9/15/2016
+12280	Relocate	Chesapeake Channel Lighted Buoy 93	G "93" Fl G 4s	N 39 00' 03.080"	W 076 22' 52.720"	39.00085	-76.38131	LNM 35/16, 5th Dist	2974	12280_1	9/8/2016
+12280	Relocate	Smith Point Fairway Lighted Bell Buoy SP	Y "SP" Fl Y 2.5s BELL	N 37 52' 48.457"	W 076 09' 06.784"	37.88013	-76.15189	LNM 35/16, 5th Dist	2975	12280_2	9/8/2016
+12280	Add	Obstruction in Feet	8 Obstn       Chart No. 1: K41	N 37 08' 05.028"	W 076 13' 50.189"	37.13473	-76.23061	LNM 36/16, 5th Dist	2975	12280_2	9/1/2016
+12280	Add	Sounding in Feet	5	N 36 59' 44.325"	W 076 15' 18.310"	36.99565	-76.25509	LNM 36/16, 5th Dist	2975	12280_2	9/1/2016
+12280	Relocate	Chesapeake Channel Lighted Buoy 64	R "64" Fl R 4s	N 37 55' 30.454"	W 076 09' 04.783"	37.92513	-76.15133	LNM 32/16, 5th Dist	2975	12280_2	8/18/2016
+12280	Relocate	Craighill Channel Upper Range Front Light	F R 15ft	N 39 11' 49.408"	W 076 26' 53.776"	39.19706	-76.44827	LNM 32/16, 5th Dist	2974	12280_1	8/18/2016
+12280	Relocate	Craighill Channel Upper Range Rear Light	F R 74ft	N 39 12' 58.209"	W 076 27' 45.872"	39.21617	-76.46275	LNM 32/16, 5th Dist	2974	12280_1	8/18/2016
+12280	Change	NOAA Lighted Data Buoy AN	Y "AN" Fl Y 4s	N 38 57' 49.010"	W 076 26' 48.370"	38.96362	-76.44677	LNM 32/16, 5th Dist	2974	12280_1	8/18/2016
+12280	Add	Rock in Feet	17 Rk      Chart No. 1: K14.2	N 38 08' 50.300"	W 076 18' 07.180"	38.1473	-76.30199	LNM 33/16, 5th Dist	2974	12280_1	8/11/2016
+12280	Add	Rock in Feet	17 Rk      Chart No. 1: K14.2	N 38 08' 50.300"	W 076 18' 07.180"	38.1473	-76.30199	LNM 33/16, 5th Dist	2975	12280_2	8/11/2016
+12280	Add	NOAA Lighted Data Buoy YS	Y "YS" Fl Y 4s	N 37 12' 30.000"	W 076 16' 06.000"	37.20833	-76.26833	LNM 30/16, 5th Dist	2975	12280_2	8/11/2016
+12280	Change	Hooper Island Light	Fl 6s 63ft 9M (delete HORN (Sep 15 to Jun 1))	N 38 15' 22.500"	W 076 14' 59.300"	38.25625	-76.24981	LNM 23/16, 5th Dist	2974	12280_1	6/16/2016
+12280	Relocate	Hooper Island Light	Fl 6s 63ft 9M	N 38 15' 22.500"	W 076 14' 59.300"	38.25625	-76.24981	LNM 23/16, 5th Dist	2974	12280_1	6/16/2016
+12280	Relocate	South River Junction Buoy SR	GR C "SR"	N 38 53' 39.428"	W 076 25' 52.216"	38.89429	-76.43117	LNM 21/16, 5th Dist	2974	12280_1	5/26/2016
+12280	Relocate	Honga River Light 1H	Fl G 4s 16ft 4M "1H"	N 38 13' 59.539"	W 076 06' 31.972"	38.2332	-76.10888	LNM 17/16, 5th Dist	2974	12280_1	5/5/2016
+12280	Change	Chesapeake Channel Lighted Buoy 80	R "80" Fl R 2.5s (delete BELL)	N 38 36' 32.433"	W 076 24' 46.822"	38.60901	-76.41301	LNM 17/16, 5th Dist	2974	12280_1	5/5/2016
+12280	Change	Little Creek Harbor Jetty Light 3	Q G 25ft 5M "3"	N 36 55' 58.710"	W 076 10' 35.059"	36.93298	-76.17641	LNM 15/16, 5th Dist	2975	12280_2	4/21/2016
+12280	Change	Magothy River Entrance Light 2	Fl R 4s 15ft 4M "2"	N 39 03' 21.879"	W 076 25' 46.824"	39.05608	-76.42967	LNM 13/16, 5th Dist	2974	12280_1	4/7/2016
+12280	Relocate	Chesapeake Channel Lighted Buoy 7	G "7" Q G	N 36 59' 24.962"	W 076 00' 48.898"	36.99027	-76.01358	LNM 13/16, 5th Dist	2975	12280_2	4/7/2016
+12280	Change	Pooles Island South Range Rear Light	Oc 4s 72ft	N 39 18' 07.023"	W 076 14' 11.662"	39.30195	-76.23657	LNM 13/16, 5th Dist	2974	12280_1	4/7/2016
+12280	Relocate	Chesapeake Channel Lighted Buoy 11	G "11" Q G	N 37 00' 57.414"	W 076 02' 52.119"	37.01595	-76.04781	LNM 13/16, 5th Dist	2975	12280_2	4/7/2016
+12280	Delete	Commercial Mooring Buoy	PA  (Chart No. 1: Q40)	N 39 26' 32.000"	W 075 59' 32.000"	39.44222	-75.99223	LNM 12/16, 5th Dist	2974	12280_1	3/31/2016
+12280	Delete	Commercial Mooring Buoy	PA  (Chart No. 1: Q40)	N 39 26' 23.000"	W 075 58' 59.000"	39.43972	-75.98306	LNM 12/16, 5th Dist	2974	12280_1	3/31/2016
+12280	Relocate	Chesapeake Bay Southern Approach Lighted Buoy 7	G "7" Fl G 2.5s	N 36 51' 31.315"	W 075 50' 55.159"	36.8587	-75.84866	LNM 12/16, 5th Dist	2975	12280_2	3/31/2016
+12280	Change	York River Entrance Channel Lighted Buoy 2	R "2" Fl R 2.5s (delete GONG)	N 37 07' 44.618"	W 076 09' 44.852"	37.12906	-76.16246	LNM 11/16, 5th Dist	2975	12280_2	3/24/2016
+12280	Relocate	York River Entrance Channel Lighted Buoy 2	R "2" Fl R 2.5s	N 37 07' 44.618"	W 076 09' 44.852"	37.12906	-76.16246	LNM 11/16, 5th Dist	2975	12280_2	3/24/2016
+12280	Relocate	York River Entrance Channel Lighted Buoy 1YR	G "1YR" Fl G 2.5s	N 37 07' 37.679"	W 076 09' 51.527"	37.12713	-76.16431	LNM 09/16, 5th Dist	2975	12280_2	3/10/2016
+12280	Relocate	York River Entrance Channel Lighted Buoy 7	G "7" Fl G 6s	N 37 10' 31.396"	W 076 14' 13.779"	37.17539	-76.23716	LNM 09/16, 5th Dist	2975	12280_2	3/10/2016
+12280	Change	Pocomoke Sound Light 2	Fl R 4s 15ft 4M "2"	N 37 43' 37.059"	W 075 54' 36.829"	37.72696	-75.91023	LNM 07/16, 5th Dist	2975	12280_2	2/25/2016
+12280	Change	Holland Island Bar Light	Fl 2.5s 37ft 7M (delete HORN (Sep 15 to Jun 1) )	N 38 04' 07.345"	W 076 05' 44.906"	38.06871	-76.09581	LNM 05/16, 5th Dist	2975	12280_2	2/11/2016
+12280	Change	Upper Chesapeake Channel Range Rear Light	Oc 4s 61ft (Day), Oc 4s 64ft (Night)	N 39 19' 37.184"	W 076 12' 49.665"	39.327	-76.2138	LNM 05/16, 5th Dist	2974	12280_1	2/11/2016
+12280	Change	Shad Battery Shoal Range Rear Light	Oc 4s 61ft (Day), Oc 4s 58ft (Night)	N 39 19' 37.184"	W 076 12' 49.665"	39.327	-76.2138	LNM 05/16, 5th Dist	2974	12280_1	2/11/2016
+12280	Add	Obstruction in Feet	42 Obstn       Chart No. 1: K41	N 38 09' 45.790"	W 076 15' 02.670"	38.16272	-76.25074	LNM 04/16, 5th Dist	2974	12280_1	1/21/2016
+12280	Add	Obstruction in Feet	42 Obstn       Chart No. 1: K41	N 38 09' 45.790"	W 076 15' 02.670"	38.16272	-76.25074	LNM 04/16, 5th Dist	2975	12280_2	1/21/2016
+12280	Add	Obstruction in Feet	40 Obstn       Chart No. 1: K41	N 38 08' 48.420"	W 076 15' 45.710"	38.14678	-76.2627	LNM 04/16, 5th Dist	2974	12280_1	1/21/2016
+12280	Add	Obstruction in Feet	40 Obstn       Chart No. 1: K41	N 38 08' 48.420"	W 076 15' 45.710"	38.14678	-76.2627	LNM 04/16, 5th Dist	2975	12280_2	1/21/2016
+12280	Add	Obstruction in Feet	48 Obstn       Chart No. 1: K41	N 38 07' 43.460"	W 076 14' 09.360"	38.12874	-76.23593	LNM 04/16, 5th Dist	2974	12280_1	1/21/2016
+12280	Add	Obstruction in Feet	48 Obstn       Chart No. 1: K41	N 38 07' 43.460"	W 076 14' 09.360"	38.12874	-76.23593	LNM 04/16, 5th Dist	2975	12280_2	1/21/2016
+12280	Add	Accurate Landmark	ABAND LT HO  (Chart No. 1: E1)	N 37 23' 25.800"	W 076 11' 22.400"	37.3905	-76.18955	LNM 51/15, 5th Dist	2975	12280_2	1/7/2016
+12280	Relocate	Middle Island Bridge West Channel Daybeacon 1W	G "1W"	N 38 17' 42.662"	W 076 12' 46.083"	38.29519	-76.2128	LNM 51/15, 5th Dist	2974	12280_1	1/7/2016
+12280	Delete	Holland Island Wreck Daybeacon WR2	R "WR2"	N 38 07' 44.818"	W 076 06' 30.407"	38.12912	-76.10844	LNM 51/15, 5th Dist	2974	12280_1	1/7/2016
+12280	Delete	Holland Island Wreck Daybeacon WR2	R "WR2"	N 38 07' 44.818"	W 076 06' 30.407"	38.12912	-76.10844	LNM 51/15, 5th Dist	2975	12280_2	1/7/2016
+12280	Delete	Wolf Trap Light	Fl 15s 52ft 14M	N 37 23' 25.800"	W 076 11' 22.400"	37.3905	-76.18955	LNM 48/15, 5th Dist	2975	12280_2	12/10/2015
+12280	Relocate	Bluff Point Light B	Fl 2.5s 19ft 5M "B"	N 37 40' 33.074"	W 076 16' 29.981"	37.67585	-76.27499	LNM 48/15, 5th Dist	2975	12280_2	12/10/2015
+12280	Relocate	York River Entrance Channel Lighted Buoy 8	R "8" Fl R 6s	N 37 10' 38.359"	W 076 14' 06.586"	37.17732	-76.23516	LNM 48/15, 5th Dist	2975	12280_2	12/10/2015
+12280	Change	Tangier Island Wreck Light WR1	Q G 15ft 4M "WR1"	N 37 48' 29.216"	W 076 01' 32.511"	37.80812	-76.0257	LNM 47/15, 5th Dist	2975	12280_2	12/3/2015
+12280	Relocate	New Point Comfort Spit Light 4	Fl R 4s 15ft 4M "4"	N 37 17' 40.490"	W 076 17' 07.360"	37.29458	-76.28538	LNM 45/15, 5th Dist	2975	12280_2	11/19/2015
+12280	Delete	Flag Harbor Light 1	Fl G 4s "1" Priv	N 38 27' 50.442"	W 076 28' 16.826"	38.46401	-76.47134	LNM 44/15, 5th Dist	2974	12280_1	11/12/2015
+12280	Delete	Horn Harbor Light 2	Fl R 4s 3M "2"	N 37 20' 15.518"	W 076 15' 33.476"	37.33764	-76.2593	LNM 44/15, 5th Dist	2975	12280_2	11/12/2015
+12280	Change	Chesapeake Channel Lighted Buoy 66	R "66" Fl R 6s (delete BELL)	N 37 58' 16.452"	W 076 10' 33.785"	37.97124	-76.17605	LNM 43/15, 5th Dist	2975	12280_2	10/29/2015
+12280	Change	Chesapeake Channel Lighted Buoy 83	G "83" Fl G 4s (delete GONG)	N 38 45' 07.524"	W 076 26' 39.330"	38.75209	-76.44426	LNM 43/15, 5th Dist	2974	12280_1	10/29/2015
+12280	Relocate	Chesapeake Channel Lighted Buoy 66	R "66" Fl R 6s	N 37 58' 16.452"	W 076 10' 33.785"	37.97124	-76.17605	LNM 43/15, 5th Dist	2975	12280_2	10/29/2015
+12280	Relocate	Cape Henry Wreck Lighted Buoy 2CH	R "2CH" Q R	N 36 57' 33.327"	W 076 00' 46.052"	36.95926	-76.01279	LNM 42/15, 5th Dist	2975	12280_2	10/29/2015
+12280	Add	Sounding in Feet	31	N 37 11' 54.500"	W 075 39' 59.300"	37.19847	-75.66647	LNM 43/15, 5th Dist	2975	12280_2	10/22/2015
+12280	Relocate	Chesapeake Bay Southern Approach Lighted Buoy 8	R "8" Fl R 2.5s	N 36 51' 42.253"	W 075 50' 46.702"	36.86174	-75.84631	LNM 39/15, 5th Dist	2975	12280_2	10/8/2015
+12280	Delete	Fort Wool Light	Fl 4s 25ft 5M	N 36 59' 12.529"	W 076 18' 10.791"	36.98681	-76.30299	LNM 38/15, 5th Dist	2975	12280_2	10/1/2015
+12280	Change	Hooper Strait Approach Lighted Buoy 1	G "1" Fl G 4s (delete BELL)	N 38 12' 17.144"	W 076 09' 20.285"	38.20476	-76.15563	LNM 38/15, 5th Dist	2974	12280_1	10/1/2015
+12280	Change	North Point Light 1N	Fl G 4s 15ft 4M "1N"	N 37 39' 14.707"	W 076 17' 59.100"	37.65409	-76.29975	LNM 37/15, 5th Dist	2975	12280_2	9/24/2015
+12280	Delete	Great Wicomico River Light	GREAT WICOMICO RIVER Fl 6s 42ft 7M (delete RED SECTORS)	N 37 48' 12.469"	W 076 15' 58.796"	37.80346	-76.26633	LNM 36/15, 5th Dist	2975	12280_2	9/17/2015
+12280	Delete	Rip Rap	(Chart No. 1: Pa)	N 37 48' 12.469"	W 076 15' 58.796"	37.80346	-76.26633	LNM 36/15, 5th Dist	2975	12280_2	9/17/2015
+12280	Delete	Cedar Point Fishing Reef Buoy A	W Or S "A" Priv	N 38 18' 54.446"	W 076 23' 06.017"	38.31512	-76.385	LNM 35/15, 5th Dist	2974	12280_1	9/10/2015
+12280	Delete	Cedar Point Fishing Reef Buoy B	W Or S "B" Priv	N 38 18' 36.446"	W 076 22' 18.016"	38.31012	-76.37167	LNM 35/15, 5th Dist	2974	12280_1	9/10/2015
+12280	Relocate	Chesapeake Channel Buoy 83A	G C "83A"	N 38 46' 08.069"	W 076 29' 41.638"	38.76891	-76.4949	LNM 33/15, 5th Dist	2974	12280_1	8/27/2015
+12280	Change	Honga River Light 1H	Fl G 4s 16ft 4M "1H"	N 38 13' 55.790"	W 076 06' 37.655"	38.23216	-76.11046	LNM 32/15, 5th Dist	2974	12280_1	8/13/2015
+12280	Relocate	Chesapeake Channel Lighted Buoy 30	R "30" Fl R 2.5s	N 37 11' 29.998"	W 076 09' 03.760"	37.19167	-76.15105	LNM 32/15, 5th Dist	2975	12280_2	8/13/2015
+12280	Relocate	Thimble Shoal Channel Lighted Buoy 3	G "3" Fl G 4s	N 36 57' 25.827"	W 076 03' 04.897"	36.95717	-76.05136	LNM 31/15, 5th Dist	2975	12280_2	8/13/2015
+12280	Change	Big Thorofare West Light 1W	Fl G 4s 15ft 4M "1W"	N 38 00' 00.297"	W 076 03' 22.173"	38.00008	-76.05616	LNM 29/15, 5th Dist	2975	12280_2	7/30/2015
+12280	Delete	Dangerous Wreck	PA      (Chart No. 1: K28)	N 39 23' 54.400"	W 076 02' 39.800"	39.39845	-76.04439	LNM 28/15, 5th Dist	2974	12280_1	7/16/2015
+12280	Delete	Dangerous Wreck	PA      (Chart No. 1: K28)	N 39 23' 20.200"	W 076 02' 57.600"	39.38894	-76.04933	LNM 28/15, 5th Dist	2974	12280_1	7/16/2015
+12280	Change	Virginia Inside Passage Light 270	Fl R 2.5s 15ft 4M "270"	N 37 07' 01.513"	W 075 58' 48.986"	37.11709	-75.98027	LNM 23/15, 5th Dist	2975	12280_2	6/18/2015
+12280	Relocate	Virginia Inside Passage Light 270	Fl R 2.5s 15ft 4M "270"	N 37 07' 01.513"	W 075 58' 48.986"	37.11709	-75.98027	LNM 23/15, 5th Dist	2975	12280_2	6/18/2015
+12280	Change	Big Thorofare West Light 1	Fl G 4s 15ft 4M "1" (delete HORN (Sep 15 to Jun 1))	N 38 00' 00.297"	W 076 03' 22.173"	38.00008	-76.05616	LNM 22/15, 5th Dist	2975	12280_2	6/11/2015
+12280	Change	Pungoteague Creek Warning Light A	Fl 2.5s 15ft 4M "A"	N 37 39' 48.217"	W 075 53' 52.982"	37.66339	-75.89805	LNM 20/15, 5th Dist	2975	12280_2	5/28/2015
+12280	Relocate	Saunders Point Shoal Junction Light	Fl (2+1) R 6s 15ft 4M	N 38 53' 01.796"	W 076 28' 37.321"	38.88383	-76.47704	LNM 20/15, 5th Dist	2974	12280_1	5/28/2015
+12280	Relocate	Ferry Cove Light	Fl 4s 15ft 5M	N 38 46' 05.539"	W 076 20' 38.121"	38.7682	-76.34393	LNM 20/15, 5th Dist	2974	12280_1	5/28/2015
+12280	Change	Little Creek Harbor Jetty Light 4	Q R 25ft 5M "4"	N 36 55' 54.925"	W 076 10' 44.205"	36.93192	-76.17895	LNM 19/15, 5th Dist	2975	12280_2	5/21/2015
+12280	Change	Fog Point Light	Fl 2.5s 15ft 3M	N 38 02' 11.622"	W 076 02' 37.032"	38.03656	-76.04362	LNM 19/15, 5th Dist	2975	12280_2	5/21/2015
+12280	Change	Chesapeake Beach Light 1	Q G 15ft 5M "1"	N 38 41' 30.551"	W 076 31' 16.423"	38.69182	-76.52122	LNM 15/15, 5th Dist	2974	12280_1	4/23/2015
+12280	Change	Middle Island Bridge West Channel Daybeacon 1W	G "1W"	N 38 17' 42.483"	W 076 12' 46.130"	38.29514	-76.21281	LNM 12/15, 5th Dist	2974	12280_1	4/2/2015
+12280	Change	Brewerton Channel Eastern Extension Lighted Buoy 5	G "5" Fl G 6s (delete BELL)	N 39 09' 30.276"	W 076 22' 21.185"	39.15841	-76.37255	LNM 11/15, 5th Dist	2974	12280_1	3/26/2015
+12280	Relocate	Chesapeake Channel Lighted Buoy 47	G "47" Q G	N 37 34' 19.280"	W 076 03' 04.911"	37.57202	-76.05136	LNM 10/15, 5th Dist	2975	12280_2	3/19/2015
+12280	Relocate	Chesapeake Bay Southern Approach Lighted Whistle Buoy CB	RW "CB" Mo (A) WHIS RACON (-.-) AIS  (Chart No. 1: S17.2)	N 36 48' 59.743"	W 075 45' 36.013"	36.8166	-75.76	LNM 07/15, 5th Dist	2975	12280_2	2/26/2015
+12280	Change	Chesapeake Channel Lighted Buoy 13	G "13" Fl G 4s AIS  (Chart No. 1: S17.2)	N 37 02' 26.000"	W 076 04' 17.000"	37.04055	-76.07139	LNM 07/15, 5th Dist	2975	12280_2	2/26/2015
+12280	Change	Chesapeake Channel Lighted Buoy 14	R "14" Fl R 4s AIS  (Chart No. 1: S17.2)	N 37 02' 31.001"	W 076 04' 02.876"	37.04195	-76.06747	LNM 07/15, 5th Dist	2975	12280_2	2/26/2015
+12280	Change	Chesapeake Bay Entrance Lighted Whistle Buoy CH	RW "CH" Mo (A) WHIS RACON (-.-.) AIS  (Chart No. 1: S17.2)	N 36 56' 08.329"	W 075 57' 26.543"	36.93565	-75.95737	LNM 07/15, 5th Dist	2975	12280_2	2/26/2015
+12280	Change	Chesapeake Bay Southern Approach Lighted Whistle Buoy CB	RW "CB" Mo (A) WHIS RACON (-.-) AIS  (Chart No. 1: S17.2)	N 36 48' 59.743"	W 075 45' 36.013"	36.8166	-75.76	LNM 07/15, 5th Dist	2975	12280_2	2/26/2015
+12280	Change	Chesapeake Channel Lighted Buoy 40	R "40" Fl R 4s AIS  (Chart No. 1: S17.2)	N 37 21' 49.490"	W 076 04' 27.768"	37.36375	-76.07438	LNM 07/15, 5th Dist	2975	12280_2	2/26/2015
+12280	Change	Chesapeake Channel Lighted Buoy 78A	R "78A" Fl R 2.5s AIS  (Chart No. 1: S17.2)	N 38 34' 42.000"	W 076 25' 53.000"	38.57833	-76.43139	LNM 07/15, 5th Dist	2974	12280_1	2/26/2015
+12280	Change	Upper Chesapeake Channel Lighted Buoy 45	G "45" Fl G 2.5s AIS  (Chart No. 1: S17.2)	N 39 22' 10.839"	W 076 07' 45.462"	39.36968	-76.1293	LNM 07/15, 5th Dist	2974	12280_1	2/26/2015
+12280	Change	Upper Chesapeake Channel Lighted Buoy 46	R "46" Fl R 2.5s AIS  (Chart No. 1: S17.2)	N 39 22' 05.831"	W 076 07' 41.366"	39.36829	-76.12816	LNM 07/15, 5th Dist	2974	12280_1	2/26/2015
+12280	Change	Upper Chesapeake Channel Lighted Buoy 47	G "47" Fl G 4s AIS  (Chart No. 1: S17.2)	N 39 22' 50.744"	W 076 06' 10.205"	39.38076	-76.10284	LNM 07/15, 5th Dist	2974	12280_1	2/26/2015
+12280	Change	Upper Chesapeake Channel Lighted Buoy 48	R "48" Fl R 4s AIS  (Chart No. 1: S17.2)	N 39 22' 45.337"	W 076 06' 07.068"	39.37926	-76.10197	LNM 07/15, 5th Dist	2974	12280_1	2/26/2015
+12280	Change	Elk River Channel Lighted Buoy 1ER	G "1ER" Fl G 2.5s AIS  (Chart No. 1: S17.2)	N 39 23' 51.238"	W 076 03' 16.828"	39.39757	-76.05467	LNM 07/15, 5th Dist	2974	12280_1	2/26/2015
+12280	Relocate	Point Lookout Light	Fl (2) 5s 39ft 8M	N 38 01' 30.270"	W 076 19' 24.786"	38.02507	-76.32355	LNM 05/15, 5th Dist	2975	12280_2	2/12/2015
+12280	Relocate	Chesapeake Channel Lighted Buoy 32	R "32" Fl R 4s	N 37 12' 26.600"	W 076 08' 42.766"	37.20739	-76.14521	LNM 05/15, 5th Dist	2975	12280_2	2/12/2015
+12280	Relocate	Thimble Shoal Channel Lighted Buoy 19	G "19" Q G	N 37 00' 22.727"	W 076 15' 30.984"	37.00631	-76.25861	LNM 04/15, 5th Dist	2975	12280_2	1/29/2015
+12280	Delete	Wreck in Feet	48 Wk      Chart No. 1: K26	N 36 54' 14.000"	W 075 53' 28.660"	36.90389	-75.8913	LNM 04/15, 5th Dist	2975	12280_2	1/22/2015
+12280	Add	Wreck in Feet	33 Wk      Chart No. 1: K26	N 36 56' 46.080"	W 075 55' 09.130"	36.94613	-75.9192	LNM 04/15, 5th Dist	2975	12280_2	1/22/2015
+12280	Delete	Obstruction in Feet	54 Obstn       Chart No. 1: K41	N 36 51' 03.390"	W 075 49' 41.600"	36.85094	-75.82822	LNM 04/15, 5th Dist	2975	12280_2	1/22/2015
+12280	Add	Wreck in Feet	48 Wk      Chart No. 1: K26	N 36 54' 14.380"	W 075 53' 28.980"	36.904	-75.89138	LNM 04/15, 5th Dist	2975	12280_2	1/22/2015
+12280	Change	Chesapeake Channel Lighted Buoy 68	R "68" Fl R 2.5s RACON (-..-) (delete BELL)	N 37 59' 53.450"	W 076 11' 48.787"	37.99818	-76.19688	LNM 47/14, 5th Dist	2975	12280_2	11/27/2014
+12280	Change	Choptank River Entrance Lighted Buoy 10	R "10" Fl R 2.5s (delete BELL)	N 38 38' 53.157"	W 076 18' 18.345"	38.6481	-76.3051	LNM 47/14, 5th Dist	2974	12280_1	11/27/2014
+12280	Relocate	Choptank River Entrance Lighted Buoy 10	R "10" Fl R 2.5s	N 38 38' 53.157"	W 076 18' 18.345"	38.6481	-76.3051	LNM 47/14, 5th Dist	2974	12280_1	11/27/2014
+12280	Change	Horn Harbor Light 2	Fl R 4s 9ft 3M "2"	N 37 20' 15.518"	W 076 15' 33.476"	37.33764	-76.2593	LNM 46/14, 5th Dist	2975	12280_2	11/27/2014
+12280	Relocate	Love Point Light	Fl 6s 31ft 7M	N 39 03' 25.376"	W 076 17' 01.168"	39.05705	-76.28366	LNM 41/14, 5th Dist	2974	12280_1	10/23/2014
+12280	Change	Love Point Light	Fl 6s 31ft 7M	N 39 03' 25.376"	W 076 17' 01.168"	39.05705	-76.28366	LNM 41/14, 5th Dist	2974	12280_1	10/23/2014
+12280	Relocate	USN SESEF Lighted Buoy B	Y "B" Fl Y 4s	N 36 55' 01.735"	W 075 45' 28.713"	36.91715	-75.75797	LNM 39/14, 5th Dist	2975	12280_2	10/9/2014
+12280	Change	Chesapeake Channel Lighted Buoy 84	R "84" Fl R 4s (delete BELL)	N 38 45' 27.424"	W 076 25' 06.828"	38.75762	-76.41856	LNM 38/14, 5th Dist	2974	12280_1	10/2/2014
+12280	Relocate	York River Entrance Channel Lighted Buoy 9	G "9" Fl G 4s	N 37 11' 30.113"	W 076 15' 42.044"	37.1917	-76.26168	LNM 38/14, 5th Dist	2975	12280_2	10/2/2014
+12280	Delete	Tolchester Sector Light A	F WRG 45ft 6M "A"	N 39 14' 36.391"	W 076 13' 34.832"	39.24344	-76.22634	LNM 38/14, 5th Dist	2974	12280_1	10/2/2014
+12280	Delete	Pooles Island East Range Front Light	Q 19ft	N 39 16' 41.317"	W 076 16' 04.703"	39.27814	-76.26797	LNM 38/14, 5th Dist	2974	12280_1	10/2/2014
+12280	Delete	Pooles Island East Range Rear Light	Iso 6s 45ft	N 39 16' 40.573"	W 076 16' 13.200"	39.27794	-76.27033	LNM 38/14, 5th Dist	2974	12280_1	10/2/2014
+12280	Delete	Label:	(see note D)	N 39 13' 52.000"	W 076 12' 55.000"	39.23111	-76.21528	LNM 38/14, 5th Dist	2974	12280_1	10/2/2014
+12280	Delete	NOTE D:	Tolchester Sector Light A is equipped with a fixed light divided into sectors as follows: Light A, red sector - from 001.5° to 046°; white sector - from 046° to 047.5°; red sector - from 047.5° to 087.5°; white sector - from 087.5° to 090.5°; green sector - from 090.5° to 187°; obscured - from 187° to 001.5°.	N 39 17' 54.000"	W 075 54' 06.000"	39.29833	-75.90166	LNM 38/14, 5th Dist	2974	12280_1	10/2/2014
+12280	Add	Obstruction in Feet	14 Obstn       Chart No. 1: K41	N 38 14' 26.890"	W 076 13' 46.700"	38.2408	-76.22964	LNM 39/14, 5th Dist	2974	12280_1	10/2/2014
+12280	Delete	Tolchester Directional Light	F 21ft 5M	N 39 12' 24.393"	W 076 14' 46.835"	39.20678	-76.24635	LNM 37/14, 5th Dist	2974	12280_1	9/25/2014
+12280	Change	Back River Channel Light 4	Fl R 4s 15ft 4M "4"	N 37 06' 06.024"	W 076 15' 44.502"	37.10167	-76.26236	LNM 37/14, 5th Dist	2975	12280_2	9/25/2014
+12280	Change	New Point Comfort Spit Channel Light 2	Fl R 2.5s 20ft 6M "2"	N 37 17' 44.150"	W 076 15' 41.052"	37.2956	-76.26141	LNM 37/14, 5th Dist	2975	12280_2	9/25/2014
+12280	Delete	Label:	Tower (see note D)	N 39 11' 51.000"	W 076 13' 48.000"	39.1975	-76.23	LNM 37/14, 5th Dist	2974	12280_1	9/25/2014
+12280	Change	NOTE D to:	Tolchester Sector Light A is equipped with a fixed light divided into sectors as follows: Light A, red sector - from 001.5° to 046°; white sector - from 046° to 047.5°; red sector - from 047.5° to 087.5°; white sector - from 087.5° to 090.5°; green sector - from 090.5° to 187°; obscured - from 187° to 001.5°.	N 39 17' 54.000"	W 075 54' 06.000"	39.29833	-75.90166	LNM 37/14, 5th Dist	2974	12280_1	9/25/2014
+12280	Relocate	Back River Channel Light 4	Fl R 4s 15ft 4M "4"	N 37 06' 06.024"	W 076 15' 44.502"	37.10167	-76.26236	LNM 37/14, 5th Dist	2975	12280_2	9/25/2014
+12280	Relocate	Thimble Shoal Channel Lighted Buoy 15	G "15" Fl G 4s	N 36 59' 56.225"	W 076 12' 47.578"	36.99895	-76.21322	LNM 34/14, 5th Dist	2975	12280_2	9/4/2014
+12280	Relocate	Thimble Shoal Channel Lighted Buoy 18	R "18" Q R	N 37 00' 39.985"	W 076 14' 56.399"	37.01111	-76.249	LNM 34/14, 5th Dist	2975	12280_2	9/4/2014
+12280	Relocate	Thimble Shoal Channel Lighted Bell Buoy 9	G "9" Fl G 4s BELL	N 36 58' 40.929"	W 076 07' 55.243"	36.97803	-76.13201	LNM 34/14, 5th Dist	2975	12280_2	9/4/2014
+12280	Change	Thimble Shoal Channel Lighted Buoy 13	G "13" Fl G 2.5s (delete BELL)	N 36 59' 31.149"	W 076 11' 10.115"	36.99199	-76.18614	LNM 34/14, 5th Dist	2975	12280_2	9/4/2014
+12280	Relocate	Thimble Shoal Channel Lighted Buoy 11	G "11" Fl G 6s	N 36 59' 06.071"	W 076 09' 32.660"	36.98502	-76.15907	LNM 34/14, 5th Dist	2975	12280_2	9/4/2014
+12280	Relocate	Thimble Shoal Channel Lighted Buoy 12	R "12" Fl R 6s	N 36 59' 15.532"	W 076 09' 28.927"	36.98765	-76.15804	LNM 34/14, 5th Dist	2975	12280_2	9/4/2014
+12280	Relocate	Thimble Shoal Channel Lighted Buoy 13	G "13" Fl G 2.5s	N 36 59' 31.149"	W 076 11' 10.115"	36.99199	-76.18614	LNM 34/14, 5th Dist	2975	12280_2	9/4/2014
+12280	Relocate	Thimble Shoal Channel Lighted Buoy 14	R "14" Fl R 2.5s	N 36 59' 40.639"	W 076 11' 06.345"	36.99462	-76.1851	LNM 34/14, 5th Dist	2975	12280_2	9/4/2014
+12280	Relocate	Thimble Shoal Channel Lighted Buoy 16	R "16" Fl R 4s	N 37 00' 05.745"	W 076 12' 43.773"	37.00159	-76.21216	LNM 34/14, 5th Dist	2975	12280_2	9/4/2014
+12280	Relocate	Kiptopeake Beach Breakwater South Light A	Fl Y 4s 14ft "A" Priv	N 37 09' 40.508"	W 075 59' 18.753"	37.16125	-75.98854	LNM 32/14, 5th Dist	2975	12280_2	8/21/2014
+12280	Change	Kiptopeake Beach Breakwater Lighted Warning Buoy	W Or Fl 4s Priv	N 37 09' 55.000"	W 075 59' 40.000"	37.16528	-75.99445	LNM 32/14, 5th Dist	2975	12280_2	8/21/2014
+12280	Change	Tangier Island West Channel Light 1W	Fl G 2.5s 15ft 4M "1W"	N 37 49' 51.450"	W 076 00' 11.510"	37.83096	-76.0032	LNM 31/14, 5th Dist	2975	12280_2	8/14/2014
+12280	Change	Tangier Sound Light	Fl 6s 45ft 9M (RED SECTOR to 110° to 192°)	N 37 47' 16.846"	W 075 58' 24.412"	37.78801	-75.97345	LNM 31/14, 5th Dist	2975	12280_2	8/7/2014
+12280	Change	Cape Charles Lighted Buoy 14	R "14" Fl R 2.5s (delete BELL)	N 37 07' 23.521"	W 075 40' 58.707"	37.1232	-75.68298	LNM 29/14, 5th Dist	2975	12280_2	7/31/2014
+12280	Relocate	Cape Charles Lighted Buoy 14	R "14" Fl R 2.5s	N 37 07' 23.521"	W 075 40' 58.707"	37.1232	-75.68298	LNM 29/14, 5th Dist	2975	12280_2	7/31/2014
+12280	Relocate	Chesapeake Channel Lighted Buoy 20	R "20" Fl R 4s	N 37 07' 04.388"	W 076 07' 40.205"	37.11789	-76.12784	LNM 29/14, 5th Dist	2975	12280_2	7/31/2014
+12280	Delete	Great Machipongo Inlet Lighted Whistle Buoy GM at	RW "GM" Mo (A) WHIS	N 37 23' 36.000"	W 075 39' 06.000"	37.39333	-75.65166	LNM 28/14, 5th Dist	2975	12280_2	7/17/2014
+12280	Delete	Obstruction in Feet	57 Obstn       Chart No. 1: K41	N 37 01' 45.100"	W 076 03' 34.600"	37.02919	-76.05961	LNM 28/14, 5th Dist	2975	12280_2	7/17/2014
+12280	Delete	Obstruction in Feet	55 Obstn       Chart No. 1: K41	N 37 00' 28.260"	W 076 15' 48.800"	37.00785	-76.26356	LNM 28/14, 5th Dist	2975	12280_2	7/17/2014
+12280	Add	Obstruction in Feet	41 Obstn       Chart No. 1: K41	N 36 58' 30.610"	W 076 06' 30.100"	36.97517	-76.10836	LNM 28/14, 5th Dist	2975	12280_2	7/17/2014
+12280	Delete	Obstruction in Feet	53 Obstn       Chart No. 1: K41	N 37 02' 29.030"	W 076 03' 54.500"	37.0414	-76.06514	LNM 28/14, 5th Dist	2975	12280_2	7/17/2014
+12280	Change	Annapolis Harbor Channel Lighted Buoy 2	R "2" Fl R 2.5s (delete BELL)	N 38 56' 30.000"	W 076 25' 29.000"	38.94167	-76.42472	LNM 27/14, 5th Dist	2974	12280_1	7/10/2014
+12280	Relocate	Chesapeake Bay Southern Approach Lighted Buoy 2	R "2" Fl R 2.5s	N 36 49' 42.555"	W 075 46' 46.421"	36.82849	-75.77956	LNM 27/14, 5th Dist	2975	12280_2	7/10/2014
+12280	Change	Tail of The Horseshoe Shoal Lighted Buoy 2T	R "2T" Fl R 4s (delete BELL)	N 36 58' 26.476"	W 076 02' 16.955"	36.97402	-76.03804	LNM 26/14, 5th Dist	2975	12280_2	7/10/2014
+12280	Change	Thimble Shoal Channel Lighted Buoy 12	R "12" Fl R 6s (delete GONG)	N 36 59' 17.362"	W 076 09' 28.160"	36.98816	-76.15782	LNM 26/14, 5th Dist	2975	12280_2	7/10/2014
+12280	Relocate	Chesapeake Bay Southern Approach Lighted Buoy 10	R "10" Q R	N 36 52' 21.616"	W 075 52' 05.636"	36.87267	-75.86823	LNM 25/14, 5th Dist	2975	12280_2	7/3/2014
+12280	Relocate	Little Creek Harbor Jetty Light 3	Q G 25ft 6M "3"	N 36 55' 58.710"	W 076 10' 35.059"	36.93298	-76.17641	LNM 25/14, 5th Dist	2975	12280_2	7/3/2014
+12280	Change	Little Creek Harbor Jetty Light 3	Q G 25ft 6M "3"	N 36 55' 58.710"	W 076 10' 35.059"	36.93298	-76.17641	LNM 25/14, 5th Dist	2975	12280_2	7/3/2014
+12280	Relocate	Little Creek Harbor Jetty Light 4	Q R 25ft 6M "4"	N 36 55' 54.925"	W 076 10' 44.205"	36.93192	-76.17895	LNM 25/14, 5th Dist	2975	12280_2	7/3/2014
+12280	Change	Little Creek Harbor Jetty Light 4	Q R 25ft 6M "4"	N 36 55' 54.925"	W 076 10' 44.205"	36.93192	-76.17895	LNM 25/14, 5th Dist	2975	12280_2	7/3/2014
+12280	Change	Eastern Bay Entrance Lighted Buoy 1E	G "1E" Fl G 4s	N 38 49' 07.418"	W 076 22' 07.829"	38.81873	-76.36884	LNM 25/14, 5th Dist	2974	12280_1	7/3/2014
+12280	Change	Eastern Bay Entrance Lighted Buoy 1	G "1" Fl G 4s (delete BELL)	N 38 49' 07.418"	W 076 22' 07.829"	38.81873	-76.36884	LNM 24/14, 5th Dist	2974	12280_1	6/26/2014
+12280	Relocate	Eastern Bay Entrance Lighted Buoy 1	G "1" Fl G 4s	N 38 49' 07.418"	W 076 22' 07.829"	38.81873	-76.36884	LNM 24/14, 5th Dist	2974	12280_1	6/26/2014
+12280	Change	Swan Point Channel North Range Rear Passing Lights (2)	2 F 26ft 4M	N 39 07' 40.966"	W 076 16' 07.968"	39.12805	-76.26888	LNM 21/14, 5th Dist	2974	12280_1	6/5/2014
+12280	Change	Chesapeake Channel Lighted Buoy 56	R "56" Fl R 6s	N 37 38' 24.235"	W 076 07' 06.657"	37.64006	-76.11852	LNM 17/14, 5th Dist	2975	12280_2	5/1/2014
+12280	Change	Grove Point Range Rear Passing Lights (2)	2 Fl 4s 30ft 4M	N 39 24' 30.717"	W 076 01' 14.193"	39.40853	-76.02061	LNM 17/14, 5th Dist	2974	12280_1	5/1/2014
+12280	Change	Grove Point Range Rear Passing Lights (2)	2 Fl 4s 15ft 4M	N 39 24' 30.717"	W 076 01' 14.193"	39.40853	-76.02061	LNM 15/14, 5th Dist	2974	12280_1	4/24/2014
+12280	Change	Susquehanna River Channel Lighted Buoy 1S	G "1S" Fl G 2.5s	N 39 27' 46.811"	W 076 02' 52.314"	39.463	-76.04787	LNM 15/14, 5th Dist	2974	12280_1	4/24/2014
+12280	Change	Upper Chesapeake Channel Range Rear Passing Lights (2)	2 Oc 4s 15ft 4M	N 39 19' 37.184"	W 076 12' 49.665"	39.327	-76.2138	LNM 15/14, 5th Dist	2974	12280_1	4/24/2014

@@ -1,0 +1,96 @@
+Chart: 12278, Current Edition: 79, Print Date: May. /2014, Chesapeake Bay Approaches to Baltimore Harbor
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12278	Relocate	Swan Creek Entrance Buoy 1	G C "1"	N 39 05' 34.223"	W 076 15' 15.021"	39.09284	-76.25417	LNM 22/17, 5th Dist	633	12278_1	6/8/2017
+12278	Relocate	Curtis Bay Channel Lighted Buoy 4	R "4" Fl R 6s	N 39 13' 21.598"	W 076 32' 51.755"	39.22267	-76.54771	LNM 20/17, 5th Dist	633	12278_1	5/25/2017
+12278	Relocate	Brewerton Channel Lighted Buoy 3	G "3" Q G	N 39 10' 48.736"	W 076 26' 42.018"	39.18021	-76.44501	LNM 19/17, 5th Dist	633	12278_1	5/18/2017
+12278	Relocate	Gordon Point Shoal Buoy 2	R N "2"	N 39 03' 40.633"	W 076 09' 38.241"	39.06129	-76.16062	LNM 15/17, 5th Dist	633	12278_1	4/20/2017
+12278	Change	Sparrows Point Channel Range Front Light	F G 70ft Priv	N 39 12' 42.268"	W 076 29' 03.119"	39.21174	-76.4842	LNM 13/17, 5th Dist	633	12278_1	4/6/2017
+12278	Change	Sparrows Point Channel Range Rear Light	F R 96ft Priv	N 39 12' 46.435"	W 076 29' 03.653"	39.2129	-76.48434	LNM 13/17, 5th Dist	633	12278_1	4/6/2017
+12278	Change	Sparrows Point Channel Lighted Junction Buoy SP	RG "SP" Fl (2+1) R 6s	N 39 11' 40.190"	W 076 28' 58.292"	39.1945	-76.48286	LNM 13/17, 5th Dist	633	12278_1	4/6/2017
+12278	Relocate	Sparrows Point Channel Buoy 2	R N "2"	N 39 11' 40.791"	W 076 28' 51.860"	39.19466	-76.48107	LNM 13/17, 5th Dist	633	12278_1	4/6/2017
+12278	Relocate	Sparrows Point Channel Buoy 3	G C "3"	N 39 11' 51.390"	W 076 28' 59.961"	39.19761	-76.48332	LNM 13/17, 5th Dist	633	12278_1	4/6/2017
+12278	Relocate	Sparrows Point Channel Buoy 4	R N "4"	N 39 11' 52.491"	W 076 28' 44.160"	39.19791	-76.47894	LNM 13/17, 5th Dist	633	12278_1	4/6/2017
+12278	Relocate	Sparrows Point Channel Buoy 6	R N "6"	N 39 12' 06.390"	W 076 28' 45.960"	39.20177	-76.47943	LNM 13/17, 5th Dist	633	12278_1	4/6/2017
+12278	Relocate	Sparrows Point Channel Buoy 7	G C "7"	N 39 12' 22.370"	W 076 29' 03.041"	39.20621	-76.48418	LNM 13/17, 5th Dist	633	12278_1	4/6/2017
+12278	Change	Sparrows Point Channel Lighted Buoy 8	R "8" Fl R 2.5s	N 39 12' 22.040"	W 076 28' 59.061"	39.20612	-76.48307	LNM 13/17, 5th Dist	633	12278_1	4/6/2017
+12278	Relocate	Sparrows Point Channel Buoy 10	R N "10"	N 39 12' 34.310"	W 076 28' 54.761"	39.20953	-76.48188	LNM 13/17, 5th Dist	633	12278_1	4/6/2017
+12278	Relocate	Sparrows Point Channel Range Front Light	F G 70ft Priv	N 39 12' 42.268"	W 076 29' 03.119"	39.21174	-76.4842	LNM 13/17, 5th Dist	633	12278_1	4/6/2017
+12278	Relocate	Sparrows Point Channel Range Rear Light	F R 96ft Priv	N 39 12' 46.435"	W 076 29' 03.653"	39.2129	-76.48434	LNM 13/17, 5th Dist	633	12278_1	4/6/2017
+12278	Relocate	Curtis Bay Channel Lighted Buoy 5	G "5" Fl G 4s	N 39 13' 15.684"	W 076 33' 08.671"	39.22102	-76.55241	LNM 10/17, 5th Dist	633	12278_1	3/16/2017
+12278	Change	White Rocks Light	Fl 4s 19ft 5M	N 39 10' 25.768"	W 076 29' 17.010"	39.17382	-76.48806	LNM 09/17, 5th Dist	633	12278_1	3/9/2017
+12278	Relocate	Curtis Bay Channel Lighted Buoy 7	G "7" Fl G 2.5s	N 39 13' 14.248"	W 076 34' 00.929"	39.22062	-76.56693	LNM 07/17, 5th Dist	633	12278_1	2/23/2017
+12278	Change	Tabulation - CHESAPEAKE AND DELAWARE CANAL CHANNEL DEPTHS	Tabulation - CHESAPEAKE AND DELAWARE CANAL CHANNEL DEPTHS	N 39 12' 20.000"	W 076 12' 13.000"	39.20555	-76.20361	LNM 06/17, 5th Dist	633	12278_1	2/2/2017
+12278	Change	Tabulation - CURTIS CREEK CHANNEL DEPTHS	Tabulation - CURTIS CREEK CHANNEL DEPTHS	N 39 09' 55.000"	W 076 37' 30.000"	39.16528	-76.625	LNM 06/17, 5th Dist	633	12278_1	2/2/2017
+12278	Change	Tabulation - BALTIMORE HARBOR CHANNEL DEPTHS	Tabulation - BALTIMORE HARBOR CHANNEL DEPTHS	N 39 08' 20.000"	W 076 37' 29.000"	39.13889	-76.62473	LNM 06/17, 5th Dist	633	12278_1	2/2/2017
+12278	Change	Rock Creek Channel Entrance Light 2	Fl R 4s 15ft 4M "2"	N 39 09' 41.944"	W 076 29' 50.564"	39.16165	-76.49738	LNM 03/17, 5th Dist	633	12278_1	1/26/2017
+12278	Relocate	Rock Creek Channel Entrance Light 2	Fl R 4s 15ft 4M "2"	N 39 09' 41.944"	W 076 29' 50.564"	39.16165	-76.49738	LNM 03/17, 5th Dist	633	12278_1	1/26/2017
+12278	Change	Sparrows Point Steel Works Channel Lighted Buoy 8	R "8" Fl R 2.5s	N 39 12' 22.040"	W 076 28' 59.061"	39.20612	-76.48307	LNM 02/17, 5th Dist	633	12278_1	1/12/2017
+12278	Relocate	Brewerton Channel Range Front Light	Oc G 4s 25ft	N 39 12' 19.042"	W 076 31' 26.152"	39.20529	-76.52393	LNM 02/17, 5th Dist	633	12278_1	1/12/2017
+12278	Change	Brewerton Channel Range Front Light	Oc G 4s 25ft	N 39 12' 19.042"	W 076 31' 26.152"	39.20529	-76.52393	LNM 02/17, 5th Dist	633	12278_1	1/12/2017
+12278	Relocate	Fort McHenry Channel Lighted Buoy 3	G "3" Fl G 4s	N 39 12' 42.030"	W 076 31' 28.532"	39.21167	-76.52459	LNM 02/17, 5th Dist	633	12278_1	1/12/2017
+12278	Relocate	Sparrows Point Steel Works Channel Lighted Buoy 8	R "8" Fl R 2.5s	N 39 12' 22.040"	W 076 28' 59.061"	39.20612	-76.48307	LNM 02/17, 5th Dist	633	12278_1	1/12/2017
+12278	Change	Harts Island Channel Light 9	Fl G 2.5s 15ft 4M "9"	N 39 14' 13.380"	W 076 23' 43.140"	39.23705	-76.39532	LNM 51/16, 5th Dist	633	12278_1	12/22/2016
+12278	Change	Sillery Bay Light 3	Fl G 4s 15ft 4M "3"	N 39 05' 25.221"	W 076 26' 39.024"	39.09034	-76.44418	LNM 51/16, 5th Dist	633	12278_1	12/22/2016
+12278	Change	Harts Island Channel Light 1	Fl G 2.5s 15ft 4M "1"	N 39 13' 33.545"	W 076 23' 46.022"	39.22599	-76.39612	LNM 51/16, 5th Dist	633	12278_1	12/22/2016
+12278	Delete	Fairlee Creek Light 2F	Fl (2) R 5s 15ft 3M "2F"	N 39 16' 15.064"	W 076 12' 31.130"	39.27085	-76.20865	LNM 36/16, 5th Dist	633	12278_1	9/15/2016
+12278	Relocate	Cypress Creek Daybeacon 1	G "1"	N 39 04' 26.073"	W 076 31' 16.696"	39.07391	-76.5213	LNM 34/16, 5th Dist	633	12278_1	9/1/2016
+12278	Relocate	Cypress Creek Daybeacon 3	G "3"	N 39 04' 25.598"	W 076 31' 20.697"	39.07378	-76.52242	LNM 34/16, 5th Dist	633	12278_1	9/1/2016
+12278	Relocate	Craighill Channel Upper Range Front Light	F R 15ft	N 39 11' 49.408"	W 076 26' 53.776"	39.19706	-76.44827	LNM 32/16, 5th Dist	633	12278_1	8/18/2016
+12278	Relocate	Craighill Channel Upper Range Rear Light	F R 74ft	N 39 12' 58.209"	W 076 27' 45.872"	39.21617	-76.46275	LNM 32/16, 5th Dist	633	12278_1	8/18/2016
+12278	Add	Rock Hall Harbor Entrance Buoy 1	G C "1"	N 39 07' 44.937"	W 076 14' 53.902"	39.12915	-76.24831	LNM 25/16, 5th Dist	633	12278_1	6/30/2016
+12278	Add	Label:	DEPOT CHANNEL	N 39 11' 40.330"	W 076 34' 32.810"	39.19453	-76.57578	LNM 18/16, 5th Dist	633	12278_1	4/28/2016
+12278	Delete	Sounding in Feet	15	N 39 11' 56.390"	W 076 34' 34.870"	39.199	-76.57635	LNM 18/16, 5th Dist	633	12278_1	4/28/2016
+12278	Delete	Sounding in Feet	12	N 39 11' 36.310"	W 076 34' 29.350"	39.19342	-76.57482	LNM 18/16, 5th Dist	633	12278_1	4/28/2016
+12278	Delete	Sounding in Feet	17	N 39 11' 44.390"	W 076 34' 33.840"	39.19566	-76.57607	LNM 18/16, 5th Dist	633	12278_1	4/28/2016
+12278	Change	Tabulation - CURTIS CREEK CHANNEL DEPTHS	Tabulation - CURTIS CREEK CHANNEL DEPTHS	N 39 09' 55.000"	W 076 37' 30.000"	39.16528	-76.625	LNM 18/16, 5th Dist	633	12278_1	4/28/2016
+12278	Delete	Channel Limits PT 1 OF 2	Chart No. 1: I20	N 39 12' 00.100"	W 076 34' 34.600"	39.20003	-76.57628	LNM 18/16, 5th Dist	633	12278_1	4/28/2016
+12278	Delete	Channel Limits PT 2 OF 2	Chart No. 1: I20	N 39 11' 56.900"	W 076 34' 32.600"	39.19914	-76.57572	LNM 18/16, 5th Dist	633	12278_1	4/28/2016
+12278	Add	Channel Reach Separation Line PT 1 OF 2	(solid magenta line)	N 39 12' 00.100"	W 076 34' 34.600"	39.20003	-76.57628	LNM 18/16, 5th Dist	633	12278_1	4/28/2016
+12278	Add	Channel Reach Separation Line PT 2 OF 2	(solid magenta line)	N 39 11' 56.900"	W 076 34' 32.600"	39.19914	-76.57572	LNM 18/16, 5th Dist	633	12278_1	4/28/2016
+12278	Change	Magothy River Entrance Light 2	Fl R 4s 15ft 4M "2"	N 39 03' 21.879"	W 076 25' 46.824"	39.05608	-76.42967	LNM 13/16, 5th Dist	633	12278_1	4/7/2016
+12278	Change	Rock Hall Harbor Light 4	Fl R 2.5s 15ft 4M "4"	N 39 07' 48.972"	W 076 14' 52.542"	39.13027	-76.24792	LNM 13/16, 5th Dist	633	12278_1	4/7/2016
+12278	Delete	Rock Hall Harbor Entrance Buoy 1	G C "1"	N 39 07' 44.899"	W 076 14' 54.803"	39.12914	-76.24856	LNM 13/16, 5th Dist	633	12278_1	4/7/2016
+12278	Change	Stony Creek Light 4	Fl R 4s 15ft 4M "4"	N 39 10' 25.067"	W 076 31' 00.989"	39.17363	-76.51694	LNM 13/16, 5th Dist	633	12278_1	4/7/2016
+12278	Change	Pooles Island South Range Rear Light	Oc 4s 72ft	N 39 18' 07.023"	W 076 14' 11.662"	39.30195	-76.23657	LNM 13/16, 5th Dist	633	12278_1	4/7/2016
+12278	Relocate	Penwood Channel Buoy 14	R N "14"	N 39 12' 36.639"	W 076 27' 29.212"	39.21018	-76.45811	LNM 12/16, 5th Dist	633	12278_1	3/31/2016
+12278	Add	Francis Scott Key Bridge V-AIS SC	V-AIS "SC" (Chart No. 1: S18.2)	N 39 12' 57.839"	W 076 31' 46.501"	39.21607	-76.52959	LNM 06/16, 5th Dist	633	12278_1	2/11/2016
+12278	Add	Francis Scott Key Bridge V-AIS NC	V-AIS "NC" (Chart No. 1: S18.2)	N 39 13' 05.099"	W 076 31' 36.949"	39.21808	-76.52693	LNM 06/16, 5th Dist	633	12278_1	2/11/2016
+12278	Change	Wilson Point Junction Light WP	Fl (2+1) R 6s 15ft 4M "WP"	N 39 18' 19.745"	W 076 24' 32.699"	39.30548	-76.40908	LNM 03/16, 5th Dist	633	12278_1	1/28/2016
+12278	Change	Curtis Bay Channel Range Front Light	Fl G 2.5s 20ft	N 39 13' 16.199"	W 076 34' 34.769"	39.22116	-76.57632	LNM 02/16, 5th Dist	633	12278_1	1/21/2016
+12278	Change	Tabulation - BALTIMORE HARBOR CHANNEL DEPTHS	Tabulation - BALTIMORE HARBOR CHANNEL DEPTHS	N 39 08' 20.000"	W 076 37' 29.000"	39.13889	-76.62473	LNM 03/16, 5th Dist	633	12278_1	1/21/2016
+12278	Change	Curtis Bay Channel Range Front Light	Fl G 2.5s 23ft	N 39 13' 16.199"	W 076 34' 34.769"	39.22116	-76.57632	LNM 49/15, 5th Dist	633	12278_1	12/17/2015
+12278	Relocate	Curtis Bay Channel Range Front Light	Fl G 2.5s 23ft	N 39 13' 16.199"	W 076 34' 34.769"	39.22116	-76.57632	LNM 49/15, 5th Dist	633	12278_1	12/17/2015
+12278	Relocate	Curtis Bay Channel Range Rear Light	Oc G 4s 53ft	N 39 13' 15.809"	W 076 34' 50.211"	39.22106	-76.58061	LNM 49/15, 5th Dist	633	12278_1	12/17/2015
+12278	Change	Curtis Bay Channel Range Rear Light	Oc G 4s 53ft	N 39 13' 15.809"	W 076 34' 50.211"	39.22106	-76.58061	LNM 49/15, 5th Dist	633	12278_1	12/17/2015
+12278	Change	Tabulation - BALTIMORE HARBOR CHANNEL DEPTHS	Tabulation - BALTIMORE HARBOR CHANNEL DEPTHS	N 39 08' 20.000"	W 076 37' 29.000"	39.13889	-76.62473	LNM 50/15, 5th Dist	633	12278_1	12/10/2015
+12278	Relocate	Swan Creek Entrance Light 6	Fl R 4s 15ft 4M "6"	N 39 08' 21.704"	W 076 15' 47.659"	39.13936	-76.26324	LNM 36/15, 5th Dist	633	12278_1	9/17/2015
+12278	Change	Tabulation - BALTIMORE HARBOR CHANNEL DEPTHS	Tabulation - BALTIMORE HARBOR CHANNEL DEPTHS	N 39 08' 20.000"	W 076 37' 29.000"	39.13889	-76.62473	LNM 34/15, 5th Dist	633	12278_1	8/27/2015
+12278	Add	Submerged Obstruction	Obstn rep PA  (Chart No. 1: K40)	N 39 13' 24.400"	W 076 16' 52.000"	39.22345	-76.28111	LNM 31/15, 5th Dist	633	12278_1	8/13/2015
+12278	Add	Grays Inn Creek Lighted Data Buoy B	Y "B" Fl Y 4s Priv	N 39 04' 12.920"	W 076 11' 43.670"	39.07026	-76.19547	LNM 16/15, 5th Dist	633	12278_1	4/30/2015
+12278	Change	Brewerton Channel Eastern Extension Lighted Buoy 5	G "5" Fl G 6s (delete BELL)	N 39 09' 30.276"	W 076 22' 21.185"	39.15841	-76.37255	LNM 11/15, 5th Dist	633	12278_1	3/26/2015
+12278	Change	Tabulation - CURTIS CREEK CHANNEL DEPTHS	Tabulation - CURTIS CREEK CHANNEL DEPTHS	N 39 09' 55.000"	W 076 37' 30.000"	39.16528	-76.625	LNM 10/15, 5th Dist	633	12278_1	3/12/2015
+12278	Change	Tabulation - BALTIMORE HARBOR CHANNEL DEPTHS	Tabulation - BALTIMORE HARBOR CHANNEL DEPTHS	N 39 08' 20.000"	W 076 37' 29.000"	39.13889	-76.62473	LNM 10/15, 5th Dist	633	12278_1	3/12/2015
+12278	Relocate	Penwood Channel Buoy 14	R N "14"	N 39 12' 37.050"	W 076 27' 29.024"	39.21029	-76.45806	LNM 07/15, 5th Dist	633	12278_1	2/26/2015
+12278	Change	Depth Legend - SHALLOW CREEK to:	2 FT OCT 2014	N 39 12' 17.000"	W 076 26' 09.800"	39.20472	-76.43606	LNM 07/15, 5th Dist	633	12278_1	2/12/2015
+12278	Change	Tabulation - BALTIMORE HARBOR CHANNEL DEPTHS	Tabulation - BALTIMORE HARBOR CHANNEL DEPTHS	N 39 08' 20.000"	W 076 37' 29.000"	39.13889	-76.62473	LNM 50/14, 5th Dist	633	12278_1	12/18/2014
+12278	Change	Depth Legend - MARINE CHANNEL to:	33 FT 2007 - 2014	N 39 12' 44.600"	W 076 30' 41.200"	39.21239	-76.51144	LNM 45/14, 5th Dist	633	12278_1	11/6/2014
+12278	Relocate	Love Point Light	Fl 6s 31ft 7M	N 39 03' 25.376"	W 076 17' 01.168"	39.05705	-76.28366	LNM 41/14, 5th Dist	633	12278_1	10/23/2014
+12278	Change	Love Point Light	Fl 6s 31ft 7M	N 39 03' 25.376"	W 076 17' 01.168"	39.05705	-76.28366	LNM 41/14, 5th Dist	633	12278_1	10/23/2014
+12278	Relocate	Curtis Bay Channel Lighted Buoy 8	R "8" Q R	N 39 13' 19.702"	W 076 34' 05.597"	39.22214	-76.56822	LNM 39/14, 5th Dist	633	12278_1	10/9/2014
+12278	Delete	Tolchester Sector Light A	F WRG 45ft 6M "A"	N 39 14' 36.391"	W 076 13' 34.832"	39.24344	-76.22634	LNM 38/14, 5th Dist	633	12278_1	10/2/2014
+12278	Delete	Pooles Island East Range Front Light	Q 19ft	N 39 16' 41.317"	W 076 16' 04.703"	39.27814	-76.26797	LNM 38/14, 5th Dist	633	12278_1	10/2/2014
+12278	Delete	Pooles Island East Range Rear Light	Iso 6s 45ft	N 39 16' 40.573"	W 076 16' 13.200"	39.27794	-76.27033	LNM 38/14, 5th Dist	633	12278_1	10/2/2014
+12278	Delete	Label:	(see note E)	N 39 14' 34.000"	W 076 13' 16.000"	39.24278	-76.22111	LNM 38/14, 5th Dist	633	12278_1	10/2/2014
+12278	Delete	NOTE E:	Tolchester Sector Light A is equipped with a fixed light divided into sectors as follows: Light A, red sector - from 001.5° to 046°; white sector - from 046° to 047.5°; red sector - from 047.5° to 087.5°; white sector - from 087.5° to 090.5°; green sector - from 090.5° to 187°; obscured - from 187° to 001.5°.	N 39 09' 15.000"	W 076 13' 01.000"	39.15417	-76.21694	LNM 38/14, 5th Dist	633	12278_1	10/2/2014
+12278	Delete	Tolchester Directional Light	F 21ft 5M	N 39 12' 24.393"	W 076 14' 46.835"	39.20678	-76.24635	LNM 37/14, 5th Dist	633	12278_1	9/25/2014
+12278	Delete	Label:	TOWER (see note E)	N 39 12' 11.000"	W 076 14' 41.000"	39.20306	-76.24472	LNM 37/14, 5th Dist	633	12278_1	9/25/2014
+12278	Change	NOTE E to:	Tolchester Sector Light A is equipped with a fixed light divided into sectors as follows: Light A, red sector - from 001.5° to 046°; white sector - from 046° to 047.5°; red sector - from 047.5° to 087.5°; white sector - from 087.5° to 090.5°; green sector - from 090.5° to 187°; obscured - from 187° to 001.5°.	N 39 09' 15.000"	W 076 13' 01.000"	39.15417	-76.21694	LNM 37/14, 5th Dist	633	12278_1	9/25/2014
+12278	Change	Tabulation - BALTIMORE HARBOR CHANNEL DEPTHS	Tabulation - BALTIMORE HARBOR CHANNEL DEPTHS	N 39 08' 20.000"	W 076 37' 29.000"	39.13889	-76.62473	LNM 32/14, 5th Dist	633	12278_1	8/7/2014
+12278	Change	Magothy River Light 14	Fl R 4s 15ft 4M "14"	N 39 04' 59.217"	W 076 31' 10.200"	39.08311	-76.5195	LNM 29/14, 5th Dist	633	12278_1	7/31/2014
+12278	Change	Tabulation - CHESAPEAKE AND DELAWARE CANAL CHANNEL DEPTHS	Tabulation - CHESAPEAKE AND DELAWARE CANAL CHANNEL DEPTHS	N 39 12' 20.000"	W 076 12' 13.000"	39.20555	-76.20361	LNM 26/14, 5th Dist	633	12278_1	7/3/2014
+12278	Add	Dotted Fish Haven Label	Oyster reef (auth min 8 ft)	N 39 12' 26.880"	W 076 18' 26.040"	39.20747	-76.30724	LNM 25/14, 5th Dist	633	12278_1	6/19/2014
+12278	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 39 12' 28.380"	W 076 18' 23.400"	39.20788	-76.3065	LNM 25/14, 5th Dist	633	12278_1	6/19/2014
+12278	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 39 12' 27.480"	W 076 18' 22.860"	39.20763	-76.30635	LNM 25/14, 5th Dist	633	12278_1	6/19/2014
+12278	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 39 12' 25.380"	W 076 18' 28.680"	39.20705	-76.30797	LNM 25/14, 5th Dist	633	12278_1	6/19/2014
+12278	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 39 12' 26.280"	W 076 18' 29.280"	39.2073	-76.30814	LNM 25/14, 5th Dist	633	12278_1	6/19/2014
+12278	Change	Swan Point Channel North Range Rear Passing Lights (2)	2 F 26ft 4M	N 39 07' 40.966"	W 076 16' 07.968"	39.12805	-76.26888	LNM 21/14, 5th Dist	633	12278_1	6/5/2014
