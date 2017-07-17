@@ -1,2 +1,0 @@
-Chart: 14987, Current Edition: 9, Print Date: Nov. /2003, Basswood Lake, Eastern Part
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

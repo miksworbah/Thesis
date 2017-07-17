@@ -1,3 +1,0 @@
-Chart: 16511, Current Edition: 8, Print Date: Jun. /2014, Inanudak Bay and Nikolski Bay, Umnak l.;River and Mueller Coves
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-16511	Add	NOTE: AREA TO BE AVOIDED (ATBA)	NOTE: AREA TO BE AVOIDED (ATBA) The entire area of this chart falls within an Area to be Avoided. All ships 400 gross tonnage and upwards solely in transit should avoid the Area. This Area is IMO-Adopted (MSC IMO SN.1/Circ.331); to be implemented at 0000 UTC, JAN 1, 2016.	N 53 25' 35.000"	W 168 41' 12.000"	53.42639	-168.6867	LNM 51/15, 17th Dist	2509	16511_1	12/17/2015

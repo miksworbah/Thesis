@@ -1,3 +1,0 @@
-Chart: 17423, Current Edition: 15, Print Date: Sep. /2013, Harbor Charts-Clarence Strait and Behm Canal Dewey Anchorage, Etolin Island;Ratz Harbor, Prince of Wales Island;Naha Bay, Revillagigedo Island;Tolstoi and Thorne Bays, Prince of Wales ls.;Union Bay, Cleveland Peninsula
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-17423	Add	Submerged Rock	Chart No. 1: K13	N 55 44' 34.680"	W 132 15' 45.840"	55.74297	-132.2627	LNM 19/14, 17th Dist	2736	17423_5	5/15/2014

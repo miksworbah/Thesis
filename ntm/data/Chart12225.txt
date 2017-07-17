@@ -1,5 +1,23 @@
 Chart: 12225, Current Edition: 61, Print Date: Feb. /2017, Chesapeake Bay Wolf Trap to Smith Point
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12225	Relocate	Milford Haven East Warning Daybeacon A	W "A"	N 37 27' 22.555"	W 076 12' 44.259"	37.45626	-76.2123	LNM 27/17, 5th Dist	563	12225_1	7/13/2017
+12225	Relocate	Milford Haven East Warning Daybeacon C	W "C"	N 37 27' 49.987"	W 076 15' 12.277"	37.46389	-76.25341	LNM 27/17, 5th Dist	563	12225_1	7/13/2017
+12225	Delete	Milford Haven East Buoy 7	G C "7"	N 37 27' 46.690"	W 076 15' 13.799"	37.46297	-76.25383	LNM 27/17, 5th Dist	563	12225_1	7/13/2017
+12225	Delete	Milford Haven East Buoy 8	R N "8"	N 37 27' 55.121"	W 076 15' 30.540"	37.46531	-76.25848	LNM 27/17, 5th Dist	563	12225_1	7/13/2017
+12225	Delete	Milford Haven East Buoy 9	G C "9"	N 37 28' 02.458"	W 076 15' 45.682"	37.46735	-76.26269	LNM 27/17, 5th Dist	563	12225_1	7/13/2017
+12225	Change	Milford Haven East Warning Daybeacon F	W "F"	N 37 28' 04.308"	W 076 15' 53.786"	37.46786	-76.26494	LNM 27/17, 5th Dist	563	12225_1	7/13/2017
+12225	Relocate	Milford Haven East Warning Daybeacon F	W "F"	N 37 28' 04.308"	W 076 15' 53.786"	37.46786	-76.26494	LNM 27/17, 5th Dist	563	12225_1	7/13/2017
+12225	Relocate	Milford Haven East Warning Daybeacon H	W "H"	N 37 28' 05.324"	W 076 16' 00.255"	37.46815	-76.26674	LNM 27/17, 5th Dist	563	12225_1	7/13/2017
+12225	Relocate	Milford Haven East Warning Daybeacon J	W "J"	N 37 27' 58.194"	W 076 16' 08.445"	37.46616	-76.26901	LNM 27/17, 5th Dist	563	12225_1	7/13/2017
+12225	Delete	Milford Haven East Buoy 18	R N "18"	N 37 27' 58.628"	W 076 16' 13.565"	37.46629	-76.27043	LNM 27/17, 5th Dist	563	12225_1	7/13/2017
+12225	Change	Milford Haven East Warning Daybeacon B	W "B"	N 37 27' 37.508"	W 076 14' 01.106"	37.46042	-76.23364	LNM 27/17, 5th Dist	563	12225_1	7/13/2017
+12225	Change	Milford Haven East Warning Daybeacon D	W "D"	N 37 27' 55.904"	W 076 15' 13.814"	37.46553	-76.25384	LNM 27/17, 5th Dist	563	12225_1	7/13/2017
+12225	Change	Milford Haven East Warning Daybeacon E	W "E"	N 37 28' 05.636"	W 076 15' 41.102"	37.46823	-76.26141	LNM 27/17, 5th Dist	563	12225_1	7/13/2017
+12225	Change	Milford Haven East Warning Daybeacon C	W "C"	N 37 27' 49.987"	W 076 15' 12.277"	37.46389	-76.25341	LNM 27/17, 5th Dist	563	12225_1	7/13/2017
+12225	Change	Milford Haven East Warning Daybeacon A	W "A"	N 37 27' 22.555"	W 076 12' 44.259"	37.45626	-76.2123	LNM 27/17, 5th Dist	563	12225_1	7/13/2017
+12225	Change	Milford Haven East Warning Daybeacon J	W "J"	N 37 27' 58.194"	W 076 16' 08.445"	37.46616	-76.26901	LNM 27/17, 5th Dist	563	12225_1	7/13/2017
+12225	Change	Milford Haven East Warning Daybeacon H	W "H"	N 37 28' 05.324"	W 076 16' 00.255"	37.46815	-76.26674	LNM 27/17, 5th Dist	563	12225_1	7/13/2017
+12225	Change	Milford Haven East Warning Daybeacon G	W "G"	N 37 28' 03.686"	W 076 15' 59.528"	37.46769	-76.26653	LNM 27/17, 5th Dist	563	12225_1	7/13/2017
 12225	Change	Piankatank River Light 13	Fl G 2.5s 15ft 4M "13"	N 37 31' 57.838"	W 076 22' 27.186"	37.53273	-76.37422	LNM 25/17, 5th Dist	563	12225_1	6/29/2017
 12225	Delete	Cranes Creek Channel Daybeacon 2	R "2"	N 37 48' 55.348"	W 076 18' 20.229"	37.81538	-76.30562	LNM 20/17, 5th Dist	563	12225_1	5/25/2017
 12225	Delete	Cranes Creek Channel Daybeacon 4	R "4"	N 37 48' 59.555"	W 076 18' 31.522"	37.81654	-76.30875	LNM 20/17, 5th Dist	563	12225_1	5/25/2017

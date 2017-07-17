@@ -1,3 +1,0 @@
-Chart: 16478, Current Edition: 11, Print Date: Feb. /2015, Tagalak Island to Great Sitkin Island;Sand Bay-Northeast Cove
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-16478	Add	NOTE: AREA TO BE AVOIDED (ATBA)	NOTE: AREA TO BE AVOIDED (ATBA) The entire area of this chart falls within an Area to be Avoided. All ships 400 gross tonnage and upwards solely in transit should avoid the Area. This Area is IMO-Adopted (MSC IMO SN.1/Circ.331); to be implemented at 0000 UTC, JAN 1, 2016.	N 52 05' 32.000"	W 176 06' 18.000"	52.09222	-176.105	LNM 51/15, 17th Dist	2497	16478_1	12/17/2015

@@ -1,3 +1,0 @@
-Chart: 18764, Current Edition: 10, Print Date: Nov. /2010, San Clemente Island Pyramid Cove and approaches
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-18764	Delete	Pyramid Cove Anchorage Light	Fl R 4s 886ft 4M	N 32 49' 59.460"	W 118 22' 59.982"	32.83318	-118.3833	LNM 47/14, 11th Dist	1916	18764_1	12/11/2014

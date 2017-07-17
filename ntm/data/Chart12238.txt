@@ -1,5 +1,27 @@
 Chart: 12238, Current Edition: 42, Print Date: Jan. /2017, Chesapeake Bay Mobjack Bay and York River Entrance
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12238	Relocate	Horn Harbor Daybeacon 14	R "14"	N 37 21' 45.164"	W 076 17' 28.184"	37.36255	-76.29116	LNM 27/17, 5th Dist	580	12238_1	7/13/2017
+12238	Relocate	Horn Harbor Lighted Buoy 2	R "2" Fl R 4s	N 37 20' 13.783"	W 076 15' 33.633"	37.33716	-76.25935	LNM 27/17, 5th Dist	580	12238_1	7/13/2017
+12238	Relocate	Horn Harbor Daybeacon 19	G "19"	N 37 22' 05.453"	W 076 18' 05.778"	37.36818	-76.30161	LNM 27/17, 5th Dist	580	12238_1	7/13/2017
+12238	Relocate	Milford Haven East Warning Daybeacon A	W "A"	N 37 27' 22.555"	W 076 12' 44.259"	37.45626	-76.2123	LNM 27/17, 5th Dist	580	12238_1	7/13/2017
+12238	Relocate	Milford Haven East Warning Daybeacon C	W "C"	N 37 27' 49.987"	W 076 15' 12.277"	37.46389	-76.25341	LNM 27/17, 5th Dist	580	12238_1	7/13/2017
+12238	Delete	Milford Haven East Buoy 7	G C "7"	N 37 27' 46.690"	W 076 15' 13.799"	37.46297	-76.25383	LNM 27/17, 5th Dist	580	12238_1	7/13/2017
+12238	Delete	Milford Haven East Buoy 8	R N "8"	N 37 27' 55.121"	W 076 15' 30.540"	37.46531	-76.25848	LNM 27/17, 5th Dist	580	12238_1	7/13/2017
+12238	Delete	Milford Haven East Buoy 9	G C "9"	N 37 28' 02.458"	W 076 15' 45.682"	37.46735	-76.26269	LNM 27/17, 5th Dist	580	12238_1	7/13/2017
+12238	Change	Milford Haven East Warning Daybeacon F	W "F"	N 37 28' 04.308"	W 076 15' 53.786"	37.46786	-76.26494	LNM 27/17, 5th Dist	580	12238_1	7/13/2017
+12238	Relocate	Milford Haven East Warning Daybeacon F	W "F"	N 37 28' 04.308"	W 076 15' 53.786"	37.46786	-76.26494	LNM 27/17, 5th Dist	580	12238_1	7/13/2017
+12238	Delete	Milford Haven East Buoy 13	G C "13"	N 37 28' 05.054"	W 076 15' 58.135"	37.46807	-76.26615	LNM 27/17, 5th Dist	580	12238_1	7/13/2017
+12238	Relocate	Milford Haven East Warning Daybeacon H	W "H"	N 37 28' 05.324"	W 076 16' 00.255"	37.46815	-76.26674	LNM 27/17, 5th Dist	580	12238_1	7/13/2017
+12238	Relocate	Milford Haven East Warning Daybeacon J	W "J"	N 37 27' 58.194"	W 076 16' 08.445"	37.46616	-76.26901	LNM 27/17, 5th Dist	580	12238_1	7/13/2017
+12238	Delete	Milford Haven East Buoy 18	R N "18"	N 37 27' 58.628"	W 076 16' 13.565"	37.46629	-76.27043	LNM 27/17, 5th Dist	580	12238_1	7/13/2017
+12238	Change	Milford Haven East Warning Daybeacon B	W "B"	N 37 27' 37.508"	W 076 14' 01.106"	37.46042	-76.23364	LNM 27/17, 5th Dist	580	12238_1	7/13/2017
+12238	Change	Milford Haven East Warning Daybeacon D	W "D"	N 37 27' 55.904"	W 076 15' 13.814"	37.46553	-76.25384	LNM 27/17, 5th Dist	580	12238_1	7/13/2017
+12238	Change	Milford Haven East Warning Daybeacon E	W "E"	N 37 28' 05.636"	W 076 15' 41.102"	37.46823	-76.26141	LNM 27/17, 5th Dist	580	12238_1	7/13/2017
+12238	Change	Milford Haven East Warning Daybeacon C	W "C"	N 37 27' 49.987"	W 076 15' 12.277"	37.46389	-76.25341	LNM 27/17, 5th Dist	580	12238_1	7/13/2017
+12238	Change	Milford Haven East Warning Daybeacon A	W "A"	N 37 27' 22.555"	W 076 12' 44.259"	37.45626	-76.2123	LNM 27/17, 5th Dist	580	12238_1	7/13/2017
+12238	Change	Milford Haven East Warning Daybeacon J	W "J"	N 37 27' 58.194"	W 076 16' 08.445"	37.46616	-76.26901	LNM 27/17, 5th Dist	580	12238_1	7/13/2017
+12238	Change	Milford Haven East Warning Daybeacon H	W "H"	N 37 28' 05.324"	W 076 16' 00.255"	37.46815	-76.26674	LNM 27/17, 5th Dist	580	12238_1	7/13/2017
+12238	Change	Milford Haven East Warning Daybeacon G	W "G"	N 37 28' 03.686"	W 076 15' 59.528"	37.46769	-76.26653	LNM 27/17, 5th Dist	580	12238_1	7/13/2017
 12238	Relocate	Sarah Creek Daybeacon 6	R "6"	N 37 15' 07.739"	W 076 28' 58.484"	37.25215	-76.48291	LNM 25/17, 5th Dist	580	12238_1	6/29/2017
 12238	Relocate	White House Cove Daybeacon 2	R "2"	N 37 08' 37.425"	W 076 22' 33.083"	37.14373	-76.37585	LNM 23/17, 5th Dist	580	12238_1	6/8/2017
 12238	Add	Obstruction in Feet	14 Obstn   (Chart No. 1: K41)	N 37 07' 28.000"	W 076 13' 04.300"	37.12444	-76.21786	LNM 23/17, 5th Dist	580	12238_1	6/8/2017

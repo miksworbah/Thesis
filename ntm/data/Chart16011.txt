@@ -1,8 +1,0 @@
-Chart: 16011, Current Edition: 39, Print Date: Dec. /2015, Alaska Peninsula and Aleutian Islands to Seguam Pass
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-16011	Add	Buoy	Y Fl Y 4s Priv	N 56 52' 04.800"	W 163 03' 09.600"	56.868	-163.0527	WNM 35/16, NGA	2415	16011_1	9/29/2016
-16011	Add	Submerged Buoy	Subm buoy (cov 47 fms)	N 53 37' 59.300"	W 167 24' 27.500"	53.63314	-167.4076	WNM 35/16, NGA	2415	16011_1	9/8/2016
-16011	Change	Port Moller Entrance Buoy 2	R N "2"	N 55 59' 57.043"	W 160 39' 13.352"	55.99918	-160.6537	LNM 23/16, 17th Dist	2415	16011_1	6/16/2016
-16011	Change	NOAA Tsunami Warning Lighted Buoy 46403	Y DART "46403" Fl (4) Y 20s Priv PA 	N 52 38' 11.000"	W 156 55' 54.000"	52.63639	-156.9317	LNM 09/16, 17th Dist	2415	16011_1	3/31/2016
-16011	Delete	sounding in fathoms	414	N 52 14' 16.210"	W 171 29' 58.100"	52.23783	-171.4995	WNM 49/15, NGA	2415	16011_1	1/14/2016
-16011	Add	sounding in fathoms	200	N 52 14' 24.000"	W 171 26' 48.000"	52.24	-171.4467	WNM 49/15, NGA	2415	16011_1	1/14/2016

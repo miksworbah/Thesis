@@ -1,4 +1,0 @@
-Chart: 11324, Current Edition: 40, Print Date: Mar. /2017, Galveston Bay Entrance Galveston and Texas City Harbors
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-11324	Delete	Galveston-Freeport Lighted Buoy 26B	R "26B" Fl R 4s	N 29 17' 46.754"	W 094 53' 11.390"	29.29632	-94.8865	LNM 11/17, 8th Dist	185	11324_1	3/23/2017
-11324	Delete	Galveston-Freeport Lighted Buoy 26A	R "26A" Fl R 2.5s	N 29 17' 49.034"	W 094 53' 09.909"	29.29695	-94.88609	LNM 11/17, 8th Dist	185	11324_1	3/23/2017

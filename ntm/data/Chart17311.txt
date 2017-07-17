@@ -1,6 +1,0 @@
-Chart: 17311, Current Edition: 2, Print Date: Feb. /2012, Holkham Bay And Tracy Arm - Stephens Passage
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-17311	Relocate	Holkham Bay Range Front Light	Q 73ft 	N 57 46' 03.286"	W 133 38' 40.131"	57.76758	-133.6445	LNM 13/13, 17th Dist	2940	17311_1	4/23/2013
-17311	Change	Holkham Bay Range Front Light	Q 73ft	N 57 46' 03.286"	W 133 38' 40.131"	57.76758	-133.6445	LNM 13/13, 17th Dist	2940	17311_1	4/23/2013
-17311	Relocate	Holkham Bay Range Rear Light	F 101ft	N 57 46' 02.241"	W 133 38' 41.338"	57.76729	-133.6448	LNM 13/13, 17th Dist	2940	17311_1	4/23/2013
-17311	Change	Holkham Bay Range Rear Light	F 101ft	N 57 46' 02.241"	W 133 38' 41.338"	57.76729	-133.6448	LNM 13/13, 17th Dist	2940	17311_1	4/23/2013

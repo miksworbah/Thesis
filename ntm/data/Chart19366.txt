@@ -1,4 +1,0 @@
-Chart: 19366, Current Edition: 38, Print Date: Oct. /2015, Pearl Harbor O‘ahu South Coast
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-19366	Add	PacIOOSWB Lighted Buoy 233	Y "PIOOS 233" Fl (5) Y 20s Priv	N 21 17' 50.038"	W 157 57' 31.679"	21.29723	-157.9588	LNM 23/17, 14th Dist	2890	19366_1	6/8/2017
-19366	Add	Pearl Harbor Lighted Buoy 10	R "10" Fl R 2.5s	N 21 20' 05.280"	W 157 58' 07.870"	21.3348	-157.9689	LNM 10/16, 14th Dist	2890	19366_1	3/10/2016

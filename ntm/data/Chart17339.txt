@@ -1,5 +1,0 @@
-Chart: 17339, Current Edition: 13, Print Date: Apr. /2012, Hood Bay and Kootznahoo Inlet
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-17339	Add	Danger Point Lighted Buoy DP	R "DP" Fl R 6s	N 57 30' 59.307"	W 134 36' 29.103"	57.51648	-134.6081	LNM 04/17, 17th Dist	2676	17339_1	2/2/2017
-17339	Change	Killisnoo Harbor Light 7	Fl G 4s 16ft 5M "7"	N 57 28' 15.927"	W 134 34' 10.542"	57.47109	-134.5696	LNM 43/14, 17th Dist	2677	17339_2	11/13/2014
-17339	Change	Killisnoo Harbor Light 7	Fl G 4s 16ft 5M "7"	N 57 28' 15.927"	W 134 34' 10.542"	57.47109	-134.5696	LNM 43/14, 17th Dist	2676	17339_1	11/13/2014

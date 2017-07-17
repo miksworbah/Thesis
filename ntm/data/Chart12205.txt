@@ -1,5 +1,6 @@
 Chart: 12205, Current Edition: 35, Print Date: Feb. /2017, Cape Henry to Pamlico Sound, Including Albemarle Sd.; Rudee Heights
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12205	Relocate	Alligator River Light 1AR	Fl G 2.5s 15ft 5M "1AR"	N 35 58' 09.868"	W 075 58' 46.338"	35.96941	-75.97954	LNM 27/17, 5th Dist	533	12205_6	7/13/2017
 12205	Change	Roanoke Island West Side Light 2	Fl R 2.5s 15ft 4M "2"	N 35 50' 24.108"	W 075 40' 07.524"	35.84003	-75.66875	LNM 25/17, 5th Dist	532	12205_5	6/29/2017
 12205	Change	Tabulation - PAMLICO AND ROANOKE SOUND CHANNEL DEPTHS	Tabulation - PAMLICO AND ROANOKE SOUND CHANNEL DEPTHS	N 35 54' 00.000"	W 075 47' 50.000"	35.9	-75.79723	LNM 26/17, 5th Dist	532	12205_5	6/22/2017
 12205	Relocate	Chesapeake Channel Lighted Bell Buoy 2C	R "2C" Fl R 2.5s BELL	N 36 57' 18.528"	W 075 58' 22.246"	36.95515	-75.97285	LNM 16/17, 5th Dist	528	12205_1	4/27/2017

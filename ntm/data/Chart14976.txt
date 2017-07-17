@@ -1,2 +1,0 @@
-Chart: 14976, Current Edition: 19, Print Date: Feb. /2016, Isle Royale
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

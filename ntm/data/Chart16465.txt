@@ -1,6 +1,0 @@
-Chart: 16465, Current Edition: 3, Print Date: Mar. /2015, Tanaga Island to Unalga Island
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-16465	Add	NOTE B AREA TO BE AVOIDED (ATBA)	NOTE B AREA TO BE AVOIDED (ATBA): All ships 400 gross tonnage and upwards solely in transit should avoid the Area. This Area is IMO-Adopted (MSC IMO SN.1/Circ.331); to be implemented at 0000 UTC, JAN 1, 2016.	N 51 56' 39.000"	W 178 29' 39.000"	51.94417	-178.4942	LNM 51/15, 17th Dist	2932	16465_1	12/17/2015
-16465	Add	Area to be avoided label	AREA TO BE AVOIDED (see note B)	N 51 44' 48.000"	W 178 28' 24.000"	51.74667	-178.4733	LNM 51/15, 17th Dist	2932	16465_1	12/17/2015
-16465	Add	Dashed Magenta Area to be Avoided Limit PT 1 OF 2	**Chart No. 1: M:14**	N 52 03' 59.700"	W 179 08' 36.800"	52.06658	-179.1436	LNM 51/15, 17th Dist	2932	16465_1	12/17/2015
-16465	Add	Dashed Magenta Area to be Avoided Limit PT 2 OF 2	**Chart No. 1: M:14**	N 51 43' 42.200"	W 179 24' 59.400"	51.72839	-179.4165	LNM 51/15, 17th Dist	2932	16465_1	12/17/2015

@@ -1,5 +1,0 @@
-Chart: 19324, Current Edition: 23, Print Date: Jul. /2014, Island Of Hawai‘i Hilo Bay
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-19324	Change	Hilo Harbor Breakwater Light	Fl 2.5s 39ft 8M	N 19 44' 34.192"	W 155 04' 29.980"	19.74283	-155.075	LNM 43/14, 14th Dist	2777	19324_1	10/30/2014
-19324	Change	Coconut Point Directional Light	Oc G 4s 39ft 15M	N 19 43' 36.831"	W 155 05' 10.244"	19.7269	-155.0862	LNM 36/14, 14th Dist	2777	19324_1	9/18/2014
-19324	Relocate	Coconut Point Directional Light	Oc G 4s 39ft 15M	N 19 43' 36.831"	W 155 05' 10.244"	19.7269	-155.0862	LNM 36/14, 14th Dist	2777	19324_1	9/18/2014

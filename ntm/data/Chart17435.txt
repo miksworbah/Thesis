@@ -1,5 +1,0 @@
-Chart: 17435, Current Edition: 17, Print Date: May. /2014, Harbors in Clarence Strait Port Chester, Annette Island;Tamgas Harbor, Annette Island;Metlakatla Harbor
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-17435	Relocate	Lively Rock Lighted Buoy 9	G "9" FL G 4s	N 55 09' 25.174"	W 131 35' 09.994"	55.15699	-131.5861	LNM 15/17, 17th Dist	2849	17435_1	4/20/2017
-17435	Delete	Scrub Island Light 5	Fl G 6s 10ft 4M "5"	N 55 08' 15.370"	W 131 34' 28.950"	55.1376	-131.5747	LNM 50/16, 17th Dist	2849	17435_1	12/22/2016
-17435	Add	Scrub Island LB 5	G "5" Fl G 6s	N 55 08' 13.740"	W 131 34' 28.680"	55.13715	-131.5746	LNM 50/16, 17th Dist	2849	17435_1	12/22/2016

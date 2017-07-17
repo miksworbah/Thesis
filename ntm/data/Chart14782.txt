@@ -1,3 +1,0 @@
-Chart: 14782, Current Edition: 26, Print Date: May. /2017, Cumberland Head to Four Brothers Islands
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-14782	Relocate	JUNIPER ISLAND LIGHT	Fl 4s 125ft 7 St M	N 44 26' 58.308"	W 073 16' 34.470"	44.44953	-73.27625	LNM 24/17, 1st Dist	1024	14782_1	6/22/2017

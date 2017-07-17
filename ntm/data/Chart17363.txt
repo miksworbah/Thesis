@@ -1,2 +1,0 @@
-Chart: 17363, Current Edition: 14, Print Date: May. /2014, Pybus Bay, Frederick Sound;Hobart and Windham Bays, Stephens P.
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

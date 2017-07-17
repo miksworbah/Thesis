@@ -1,2 +1,0 @@
-Chart: 26194, Current Edition: 6, Print Date: Sep. /2011, Navassa Island
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

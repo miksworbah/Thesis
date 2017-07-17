@@ -1,2 +1,0 @@
-Chart: 14992, Current Edition: 11, Print Date: Jun. /2004, Sand Point Lake to Lac la Croix, including Crane Lake and Little Vermilon Lake
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

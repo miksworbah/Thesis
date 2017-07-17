@@ -1,10 +1,10 @@
 Chart: 12348, Current Edition: 34, Print Date: Jun. /2010, Hudson River Coxsackie to Troy
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-12348	Add	Sounding in Feet	6	N 42 21' 42.700"	W 073 47' 48.100"	42.36186	-73.79669	Not Yet Published	2223	12348_1	Not Yet
-12348	Delete	Sounding in Feet	11	N 42 21' 26.280"	W 073 47' 44.840"	42.3573	-73.79579	Not Yet Published	2223	12348_1	Not Yet
-12348	Delete	Sounding in Feet	21	N 42 25' 20.530"	W 073 46' 42.920"	42.42237	-73.77859	Not Yet Published	2223	12348_1	Not Yet
-12348	Add	Sounding in Feet	9	N 42 25' 21.300"	W 073 46' 42.400"	42.42258	-73.77844	Not Yet Published	2223	12348_1	Not Yet
-12348	Add	Sounding in Feet	2	N 42 21' 24.800"	W 073 47' 44.800"	42.35689	-73.79578	Not Yet Published	2223	12348_1	Not Yet
+12348	Add	Sounding in Feet	6	N 42 21' 42.700"	W 073 47' 48.100"	42.36186	-73.79669	LNM 28/17, 1st Dist	2223	12348_1	7/13/2017
+12348	Delete	Sounding in Feet	11	N 42 21' 26.280"	W 073 47' 44.840"	42.3573	-73.79579	LNM 28/17, 1st Dist	2223	12348_1	7/13/2017
+12348	Delete	Sounding in Feet	21	N 42 25' 20.530"	W 073 46' 42.920"	42.42237	-73.77859	LNM 28/17, 1st Dist	2223	12348_1	7/13/2017
+12348	Add	Sounding in Feet	9	N 42 25' 21.300"	W 073 46' 42.400"	42.42258	-73.77844	LNM 28/17, 1st Dist	2223	12348_1	7/13/2017
+12348	Add	Sounding in Feet	2	N 42 21' 24.800"	W 073 47' 44.800"	42.35689	-73.79578	LNM 28/17, 1st Dist	2223	12348_1	7/13/2017
 12348	Relocate	HUDSON RIVER LTD BUOY 159	G "159" Fl G 2.5s AIS	N 42 21' 00.986"	W 073 47' 28.107"	42.35027	-73.79114	LNM 15/17, 1st Dist	2223	12348_1	4/20/2017
 12348	Add	Obstruction in Feet	8 Obstns       	N 42 26' 34.170"	W 073 47' 08.290"	42.44283	-73.78564	LNM 51/16, 1st Dist	2223	12348_1	12/15/2016
 12348	Add	Rock in Feet	9 Rk      	N 42 23' 18.910"	W 073 47' 30.880"	42.38859	-73.79191	LNM 51/16, 1st Dist	2223	12348_1	12/15/2016

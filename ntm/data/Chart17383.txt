@@ -1,4 +1,0 @@
-Chart: 17383, Current Edition: 4, Print Date: Mar. /2015, Snow Passage, Alaska
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-17383	Change	Nesbitt Reef Light	Fl 2.5s 27ft 6M	N 56 13' 13.232"	W 132 51' 50.077"	56.22034	-132.8639	LNM 21/16, 17th Dist	2962	17383_1	6/16/2016
-17383	Change	Snow Passage Lighted Buoy 4	R "4" Fl R 2.5s	N 56 16' 07.022"	W 132 56' 34.855"	56.26862	-132.943	LNM 21/16, 17th Dist	2962	17383_1	6/16/2016

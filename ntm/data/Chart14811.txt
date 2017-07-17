@@ -1,2 +1,0 @@
-Chart: 14811, Current Edition: 18, Print Date: May. /2016, Chaumont, Henderson and Black River Bays;Sackets Harbor;Henderson Harbor;Chaumont Harbor
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

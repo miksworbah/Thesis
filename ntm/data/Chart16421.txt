@@ -1,9 +1,0 @@
-Chart: 16421, Current Edition: 11, Print Date: May. /2015, Ingenstrem Rocks to Attu Island
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-16421	Delete	Regulated Navigation Area Danger Area 	Chart No. 1: N1.2	N 52 25' 17.270"	E 174 22' 21.046"	52.42146	174.3725	LNM 23/16, 9th Dist	2469	16421_1	6/2/2016
-16421	Delete	Restricted Zone Label	DANGER AREA 334.1290 (see note A)	N 52 21' 13.230"	E 174 25' 52.478"	52.35368	174.4312	LNM 23/16, 9th Dist	2469	16421_1	6/2/2016
-16421	Add	NOTE B AREA TO BE AVOIDED (ATBA)	NOTE B AREA TO BE AVOIDED (ATBA): All ships 400 gross tonnage and upwards solely in transit should avoid the Area. This Area is IMO-Adopted (MSC IMO SN.1/Circ.331); to be implemented at 0000 UTC, JAN 1, 2016.	N 52 07' 36.000"	E 173 29' 32.974"	52.12667	173.4925	LNM 50/15, 9th Dist	2469	16421_1	12/17/2015
-16421	Add	Dashed Magenta Area to be Avoided Limit PT 1 OF 3	**Chart No. 1: M:14**	N 52 06' 39.400"	E 174 16' 13.279"	52.11094	174.2704	LNM 50/15, 9th Dist	2469	16421_1	12/17/2015
-16421	Add	Dashed Magenta Area to be Avoided Limit PT 2 OF 3	**Chart No. 1: M:14**	N 52 08' 13.800"	E 174 21' 45.011"	52.13717	174.3625	LNM 50/15, 9th Dist	2469	16421_1	12/17/2015
-16421	Add	Dashed Magenta Area to be Avoided Limit PT 3 OF 3	**Chart No. 1: M:14**	N 52 16' 10.300"	E 174 42' 42.781"	52.26953	174.7119	LNM 50/15, 9th Dist	2469	16421_1	12/17/2015
-16421	Add	Area to be avoided label	AREA TO BE AVOIDED (see note B)	N 52 38' 30.000"	E 173 34' 24.001"	52.64167	173.5733	LNM 50/15, 9th Dist	2469	16421_1	12/17/2015

@@ -1,7 +1,0 @@
-Chart: 11325, Current Edition: 41, Print Date: Aug. /2015, Houston Ship Channel Carpenters Bayou to Houston
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-11325	Add	Lubrizol Lighted Danger Buoy	W Or Fl 2.5s Priv	N 29 44' 23.840"	W 095 06' 34.410"	29.73996	-95.10956	LNM 15/17, 8th Dist	84	11325_1	4/20/2017
-11325	Delete	Security Zone PT 1 OF 2	Chart No. 1: N1.2 or N2.2	N 29 45' 14.900"	W 095 05' 47.310"	29.75414	-95.09647	LNM 20/16, 8th Dist	84	11325_1	5/12/2016
-11325	Delete	Security Zone PT 2 OF 2	Chart No. 1: N1.2 or N2.2	N 29 45' 03.800"	W 095 05' 33.100"	29.75105	-95.09253	LNM 20/16, 8th Dist	84	11325_1	5/12/2016
-11325	Add	Security Zone PT 1 OF 2	Chart No. 1: N1.2 or N2.2	N 29 45' 14.550"	W 095 05' 47.770"	29.75404	-95.0966	LNM 20/16, 8th Dist	84	11325_1	5/12/2016
-11325	Add	Security Zone PT 2 OF 2	Chart No. 1: N1.2 or N2.2	N 29 45' 03.900"	W 095 05' 32.860"	29.75108	-95.09246	LNM 20/16, 8th Dist	84	11325_1	5/12/2016

@@ -1,3 +1,0 @@
-Chart: 19322, Current Edition: 8, Print Date: Dec. /2003, Harbors and Landings on the Northeast and Southeast Coasts of Hawai‘i;Punalu‘u Harbor;Honu‘apo Bay;Honokaa Landing;Kukuihaele Landing
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-19322	Relocate	Kulkuihaele Point Light	Iso 6s 154ft 8M	N 20 07' 40.699"	W 155 33' 21.579"	20.12797	-155.556	LNM 47/05, 14th Dist	2773	19322_1	2/13/2008

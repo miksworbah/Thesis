@@ -1,9 +1,0 @@
-Chart: 11355, Current Edition: 31, Print Date: Jul. /2016, Intracoastal Waterway Catahoula Bay to Wax Lake Outlet including the Houma Navigation canal
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-11355	Add	Dangerous Wreck	PA      Chart No. 1: K28	N 29 14' 40.800"	W 090 40' 44.100"	29.24467	-90.67892	LNM 20/17, 8th Dist	30	11355_3	6/1/2017
-11355	Relocate	Morgan City-Port Allen Alternate Route Daybeacon 12	R "12" Ra Ref	N 29 43' 46.636"	W 091 10' 55.435"	29.72962	-91.18207	LNM 05/17, 8th Dist	32	11355_5	2/16/2017
-11355	Relocate	Lake Cocodrie Light 10	Fl R 2.5s 17ft 4M "10" Ra Ref	N 29 36' 48.162"	W 090 58' 52.727"	29.61338	-90.98132	LNM 40/16, 8th Dist	31	11355_4	10/13/2016
-11355	Relocate	Morgan City-Port Allen Alternate Route Daybeacon 16	R "16"	N 29 43' 32.506"	W 091 11' 21.095"	29.7257	-91.18919	LNM 37/16, 8th Dist	32	11355_5	9/22/2016
-11355	Change	Swing Bridge Label	SWING BRIDGE HOR CL 125 FT HOR VERT CL 1 FT 	N 29 34' 05.520"	W 090 42' 55.900"	29.5682	-90.71553	LNM 36/16, 8th Dist	104	11355_6	9/1/2016
-11355	Change	Swing Bridge Label	SWING BRIDGE HOR CL 125 FT HOR VERT CL 1 FT 	N 29 34' 05.520"	W 090 42' 55.900"	29.5682	-90.71553	LNM 36/16, 8th Dist	28	11355_1	9/1/2016
-11355	Change	Swing Bridge Label	SWING BRIDGE HOR CL 125 FT HOR VERT CL 1 FT 	N 29 34' 05.520"	W 090 42' 55.900"	29.5682	-90.71553	LNM 36/16, 8th Dist	29	11355_2	9/1/2016

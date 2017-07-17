@@ -1,2 +1,0 @@
-Chart: 17337, Current Edition: 10, Print Date: Mar. /2012, Harbors in Chatham Strait Kelp Bay;Warm Spring Bay;Takatz and Kasnyku Bays
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

@@ -1,3 +1,0 @@
-Chart: 16701, Current Edition: 23, Print Date: Apr. /2015, Prince William Sound-western entrance
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-16701	Delete	NOAA Data Lighted Buoy 46107	Y ODAS "46107" Fl (4) Y 20s Priv PA	N 59 55' 51.215"	W 147 59' 52.795"	59.93089	-147.998	LNM 43/15, 17th Dist	2598	16701_1	11/5/2015

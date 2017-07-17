@@ -1,6 +1,0 @@
-Chart: 18754, Current Edition: 20, Print Date: Apr. /2016, Newport Bay
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-18754	Add	Bridge Construction Label	Bridge under construction	N 33 36' 20.100"	W 117 53' 20.000"	33.60558	-117.8889	LNM 24/16, 11th Dist	1907	18754_1	6/9/2016
-18754	Add	Bridge Under Construction Note	CAUTION Fixed and floating obstructions, some submerged, may exist within the magenta tinted bridge construction area. Mariners are advised to proceed with caution.	N 33 36' 16.600"	W 117 52' 44.000"	33.60461	-117.8789	LNM 24/16, 11th Dist	1907	18754_1	6/9/2016
-18754	Delete	Fixed Bridge Label	FIXED BRIDGE HOR CL 18 FT VERT CL 4 FT	N 33 36' 20.100"	W 117 53' 20.000"	33.60558	-117.8889	LNM 24/16, 11th Dist	1907	18754_1	6/9/2016
-18754	Change	Bridge Construction	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 33 36' 20.100"	W 117 53' 20.000"	33.60558	-117.8889	LNM 24/16, 11th Dist	1907	18754_1	6/9/2016

@@ -1,4 +1,0 @@
-Chart: 18450, Current Edition: 20, Print Date: Jan. /2017, Seattle Harbor, Elliott Bay and Duwamish Waterway
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-18450	Change	Colman Ferry Terminal North Dolphin Lights	SIREN	N 47 36' 09.890"	W 122 20' 22.100"	47.60275	-122.3395	LNM 26/17, 13th Dist	1714	18450_1	7/6/2017
-18450	Change	Colman Ferry Terminal Fog Signal Note	The light showing fixed white and siren is privately maintained and operated during fog only.	N 47 36' 09.000"	W 122 19' 22.000"	47.6025	-122.3228	LNM 26/17, 13th Dist	1714	18450_1	7/6/2017

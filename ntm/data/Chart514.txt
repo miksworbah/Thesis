@@ -1,2 +1,0 @@
-Chart: 514, Current Edition: 8, Print Date: Jun. /2015, Bering Sea   Northern Part
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

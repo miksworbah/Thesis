@@ -1,4 +1,0 @@
-Chart: 16549, Current Edition: 17, Print Date: Jun. /2014, Cold Bay and approaches, Alaska Pen.;King Cove Harbor
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-16549	Relocate	West Cape Shoal Buoy 1	G C "1"	N 54 55' 31.228"	W 162 27' 56.645"	54.92534	-162.4657	LNM 42/16, 17th Dist	2534	16549_1	11/17/2016
-16549	Add	NOTE: AREA TO BE AVOIDED (ATBA)	NOTE: AREA TO BE AVOIDED (ATBA)The entire area of this chart falls within an Area to be Avoided. All ships 400 gross tonnage and upwards solely in transit should avoid the Area. This Area is IMO-Adopted (MSC IMO SN.1/Circ.331); to be implemented at 0000 UTC, JAN 1, 2016. 	N 55 14' 53.000"	W 162 27' 57.000"	55.24805	-162.4658	LNM 51/15, 17th Dist	2534	16549_1	12/17/2015

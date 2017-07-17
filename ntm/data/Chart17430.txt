@@ -1,4 +1,0 @@
-Chart: 17430, Current Edition: 12, Print Date: Nov. /2013, Tongass Narrows
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-17430	Relocate	Coast Guard Station Light	Fl 4s 4M	N 55 19' 47.490"	W 131 37' 20.820"	55.32986	-131.6225	LNM 25/15, 17th Dist	2574	17430_2	6/25/2015
-17430	Relocate	Refuge Cove Entrance Light 2	Fl R 6s 15ft 4M "2"	N 55 24' 03.594"	W 131 45' 00.000"	55.401	-131.75	LNM 41/14, 17th Dist	2748	17430_1	10/30/2014

@@ -1,2 +1,0 @@
-Chart: 14990, Current Edition: 4, Print Date: Oct. /2003, Basswood River
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

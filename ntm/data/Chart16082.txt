@@ -1,3 +1,0 @@
-Chart: 16082, Current Edition: 8, Print Date: Jan. /2015, Pt. Barrow and vicinity
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-16082	Add	Barrow Pilot Station	Pilots **Chart No 1 T:1.1**	N 71 20' 00.000"	W 156 53' 00.000"	71.33334	-156.8833	LNM 05/16, 17th Dist	2434	16082_1	2/11/2016

@@ -7,18 +7,124 @@ import csv
 import shapefile
 #from ntmlinks import list
 
+list = ['https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12205',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12206',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12207',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12208',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12210',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12211',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12214',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12216',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12221',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12222',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12224',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12225',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12226',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12228',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12230',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12231',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12233',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12235',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12237',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12238',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12241',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12243',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12244',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12245',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12248',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12251',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12252',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12253',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12300',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12300',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12256',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12261',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12263',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12264',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12266',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12268',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12270',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12272',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12273',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12274',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12277',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12278',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12280',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12281',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12282',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12283',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12284',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12285',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12286',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12287',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12288',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12289',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12300',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12304',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12311',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12312',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12313',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12314',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12316',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12317',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12318',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12323',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12324',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12325',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12326',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12327',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12331',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12332',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12333',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12334',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12335',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12337',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12338',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12339',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12341',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12342',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12343',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12345',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12346',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12347',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12348',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12350',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12352',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12353',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12354',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12358',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12362',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12363',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12364',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12365',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12366',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12367',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12368',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12369',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12370',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12371',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12372',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12373',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12374',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12375',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12377',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12378',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12401',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=12402',
+      'https://ocsdata.ncd.noaa.gov/ntm/Listing_Text.aspx?Chart=13003']
+
 def run():
 
-    #def download(url):
-    #    webFile = urllib.urlopen(url)
-    #    localFile = open('ntm/data/' + 'Chart' + url.split('=')[1] + '.txt', 'w')
-    #    localFile.write(webFile.read())
-    #    webFile.close()
-    #    localFile.close()
+    def download(url):
+        webFile = urllib.urlopen(url)
+        localFile = open('ntm/data/' + 'Chart' + url.split('=')[1] + '.txt', 'w')
+        localFile.write(webFile.read())
+        webFile.close()
+        localFile.close()
 
-    #for i in list:
-    #    download(i)
-    #    print('Downloading' + ' ' + i)
+    for i in list:
+        download(i)
+        print('Downloading' + ' ' + i)
 
     file_list = glob.glob("ntm/data/Chart" + "*" + "*.txt")
 

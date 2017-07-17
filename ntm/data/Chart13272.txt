@@ -1,3 +1,0 @@
-Chart: 13272, Current Edition: 53, Print Date: Sep. /2016, Boston Inner Harbor
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-13272	Delete	CHELSEA CREEK NSTAR HAZARD BUOY	W Or "NSTAR" Priv	N 42 23' 04.000"	W 071 01' 41.000"	42.38445	-71.02805	LNM 24/17, 1st Dist	2082	13272_1	6/22/2017

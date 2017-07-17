@@ -1,2 +1,0 @@
-Chart: 18476, Current Edition: 7, Print Date: Jan. /2017, Puget Sound-Hood Canal and Dabob Bay
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

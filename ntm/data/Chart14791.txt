@@ -1,3 +1,0 @@
-Chart: 14791, Current Edition: 19, Print Date: Jun. /2016, Cayuga and Seneca Lakes;Watkins Glen;Ithaca
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-14791	Delete	Lighted Buoy	G "1" Fl G 4s	N 42 28' 34.776"	W 076 30' 57.680"	42.47633	-76.51602	LNM 17/17, 9th Dist	1108	14791_1	5/4/2017

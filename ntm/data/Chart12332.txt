@@ -1,6 +1,6 @@
 Chart: 12332, Current Edition: 24, Print Date: Jun. /2013, Raritan River Raritan Bay to New Brunswick
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-12332	Change	tabulation - RARITAN RIVER CHANNEL DEPTHS	tabulation - RARITAN RIVER CHANNEL DEPTHS	N 40 31' 02.000"	W 074 21' 03.000"	40.51722	-74.35083	Not Yet Published	2240	12332_1	Not Yet
+12332	Change	tabulation - RARITAN RIVER CHANNEL DEPTHS	tabulation - RARITAN RIVER CHANNEL DEPTHS	N 40 31' 02.000"	W 074 21' 03.000"	40.51722	-74.35083	Not Yet Published	2240	12332_1	7/13/2017
 12332	Add	Obstruction in Feet	12 Obstn       	N 40 29' 03.300"	W 074 15' 25.360"	40.48425	-74.25704	LNM 52/16, 1st Dist	2240	12332_1	12/22/2016
 12332	Change	tabulation - RARITAN BAY AND ARTHUR KILL CHANNEL DEPTHS	tabulation - RARITAN BAY AND ARTHUR KILL CHANNEL DEPTHS	N 40 30' 21.000"	W 074 21' 01.000"	40.50583	-74.35028	LNM 44/16, 1st Dist	2240	12332_1	10/27/2016
 12332	Delete	Anchorage Area label	46	N 40 29' 35.000"	W 074 14' 38.800"	40.49306	-74.24411	LNM 30/16, 1st Dist	2240	12332_1	7/21/2016

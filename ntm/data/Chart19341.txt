@@ -1,3 +1,0 @@
-Chart: 19341, Current Edition: 9, Print Date: 11/10/2001, Häna Bay Island of Maui
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-19341	Relocate	Kauiki Head Light	Fl 2.5s 85ft 6M	N 20 45' 25.520"	W 155 58' 46.469"	20.75709	-155.9796	LNM 47/05, 14th Dist	2787	19341_1	2/13/2008

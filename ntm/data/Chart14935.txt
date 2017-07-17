@@ -1,2 +1,0 @@
-Chart: 14935, Current Edition: 22, Print Date: Oct. /2015, White Lake
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

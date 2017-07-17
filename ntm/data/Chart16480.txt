@@ -1,4 +1,0 @@
-Chart: 16480, Current Edition: 13, Print Date: Dec. /2015, Amkta Island to Igitkin Island;Finch Cove Seguam Island;Sviechnikof Harbor, Amilia Island
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-16480	Delete	sounding in fathoms	239	N 52 13' 59.700"	W 171 26' 54.800"	52.23325	-171.4486	WNM 49/15, NGA	2499	16480_1	1/14/2016
-16480	Add	sounding in fathoms	200	N 52 14' 24.000"	W 171 26' 48.000"	52.24	-171.4467	WNM 49/15, NGA	2499	16480_1	1/14/2016

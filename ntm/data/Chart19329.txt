@@ -1,3 +1,0 @@
-Chart: 19329, Current Edition: 8, Print Date: Nov. /2003, Mähukona Harbor and approaches Island Of Hawai‘i
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-19329	Relocate	Mahukona Light	Fl 4s 64ft 6M	N 20 10' 49.187"	W 155 54' 05.340"	20.18033	-155.9015	LNM 47/05, 14th Dist	2782	19329_1	2/13/2008

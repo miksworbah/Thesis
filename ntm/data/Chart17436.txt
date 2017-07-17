@@ -1,2 +1,0 @@
-Chart: 17436, Current Edition: 10, Print Date: Jun. /2014, Clarence Strait, Cholmondeley Sound and Skowl Arm
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

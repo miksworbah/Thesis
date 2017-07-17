@@ -1,2 +1,0 @@
-Chart: 14994, Current Edition: 11, Print Date: Mar. /2004, Namakan Lake, Western Part and Kabetogama Lake, Eastern Part
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

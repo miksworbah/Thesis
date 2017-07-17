@@ -1,5 +1,0 @@
-Chart: 11329, Current Edition: 40, Print Date: Oct. /2016, Houston Ship Channel Alexander Island to Carpenters Bayou;San Jacinto and Old Rivers
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-11329	Relocate	Crossover Inbound Range Front Light	Q G 32ft	N 29 45' 35.950"	W 095 04' 10.231"	29.75999	-95.06951	LNM 13/17, 8th Dist	83	11329_1	4/6/2017
-11329	Relocate	Crossover Inbound Range Front Passing Light	Q R 10ft 3M	N 29 45' 35.950"	W 095 04' 10.231"	29.75999	-95.06951	LNM 13/17, 8th Dist	83	11329_1	4/6/2017
-11329	Relocate	Houston Ship Channel Light 116	Fl R 2.5s 17ft 4M "116"	N 29 44' 02.568"	W 095 02' 55.358"	29.73405	-95.04871	LNM 47/16, 8th Dist	83	11329_1	12/1/2016

@@ -1,4 +1,0 @@
-Chart: 14784, Current Edition: 21, Print Date: Feb. /2017, Barber Point to Whitehall
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-14784	Relocate	WHITEHALL NARROWS CHANNEL BUOY 17	G C "17"	N 43 39' 32.145"	W 073 24' 49.669"	43.65893	-73.4138	LNM 17/17, 1st Dist	1027	14784_2	5/4/2017
-14784	Relocate	WHITEHALL NARROWS CHANNEL BUOY 3	G C "3"	N 43 43' 02.479"	W 073 22' 38.390"	43.71735	-73.37733	LNM 17/17, 1st Dist	1027	14784_2	5/4/2017

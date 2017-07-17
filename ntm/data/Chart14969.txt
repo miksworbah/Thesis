@@ -1,3 +1,0 @@
-Chart: 14969, Current Edition: 23, Print Date: Jun. /2014, Munising Harbor and Approaches;Munising Harbor
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-14969	Add	Munising Weather Buoy	Y Fl Y 4s Priv	N 46 34' 12.000"	W 086 34' 12.000"	46.57	-86.57	LNM 12/15, 9th Dist	1525	14969_1	4/16/2015

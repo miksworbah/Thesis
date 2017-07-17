@@ -1,3 +1,0 @@
-Chart: 16450, Current Edition: 3, Print Date: Apr. /2015, Amchitka Island and Approaches
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-16450	Add	NOTE: AREA TO BE AVOIDED (ATBA)	NOTE: AREA TO BE AVOIDED (ATBA) The entire area of this chart falls within an Area to be Avoided. All ships 400 gross tonnage and upwards solely in transit should avoid the Area. This Area is IMO-Adopted (MSC IMO SN.1/Circ.331); to be implemented at 0000 UTC, JAN 1, 2016.	N 51 23' 20.000"	E 178 18' 21.984"	51.38889	178.3061	LNM 50/15, 9th Dist	2938	16450_1	12/17/2015

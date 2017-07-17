@@ -1,5 +1,6 @@
 Chart: 12222, Current Edition: 55, Print Date: Feb. /2015, Chesapeake Bay Cape Charles to Norfolk Harbor
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12222	Change	Newport News Creek Light 2	Fl R 2.5s 15ft 4M "2"	N 36 57' 34.810"	W 076 24' 33.758"	36.95967	-76.40938	LNM 27/17, 5th Dist	559	12222_1	7/13/2017
 12222	Change	Little Creek Harbor Jetty Light 6	Fl R 2.5s 15ft 4M "6"	N 36 55' 44.799"	W 076 10' 41.793"	36.92911	-76.17828	LNM 25/17, 5th Dist	559	12222_1	6/29/2017
 12222	Change	Depth Legend - Craney Island Rehandling Basin - North Access Channel to:	15 FT 2017	N 36 53' 57.280"	W 076 20' 28.360"	36.89925	-76.34121	LNM 26/17, 5th Dist	559	12222_1	6/22/2017
 12222	Change	Depth Legend - Norfolk International Terminals to:	50 FT JUL 2016	N 36 55' 39.450"	W 076 19' 54.810"	36.92762	-76.33189	LNM 25/17, 5th Dist	559	12222_1	6/15/2017

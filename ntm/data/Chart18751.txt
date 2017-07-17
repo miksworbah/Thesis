@@ -1,4 +1,0 @@
-Chart: 18751, Current Edition: 48, Print Date: Jul. /2016, Los Angeles and Long Beach Harbors
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-18751	Relocate	Long Beach Harbor Pier J Light J	Fl 4s 32ft 5M "j"	N 33 43' 59.184"	W 118 11' 07.830"	33.73311	-118.1855	LNM 02/17, 11th Dist	1904	18751_1	1/19/2017
-18751	Relocate	Los Angeles Outer Harbor Light E	Fl 2.5s 20ft 4M "E"	N 33 42' 46.036"	W 118 16' 32.709"	33.71279	-118.2757	LNM 37/16, 11th Dist	1904	18751_1	9/22/2016

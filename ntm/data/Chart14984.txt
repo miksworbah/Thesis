@@ -1,3 +1,0 @@
-Chart: 14984, Current Edition: 9, Print Date: 1/19/2002, Sea Gull Lake
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-14984	Add	COMPASS ROSE	** MAGENTA COMPASS ROSE SYMBOL **	N 48 06' 00.000"	W 090 54' 00.000"	48.1	-90.9	LNM 32/03, 9th Dist	1544	14984_1	2/13/2008

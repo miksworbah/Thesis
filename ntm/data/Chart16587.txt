@@ -1,2 +1,0 @@
-Chart: 16587, Current Edition: 3, Print Date: Aug. /2014, Semidi Islands and Vicinity
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

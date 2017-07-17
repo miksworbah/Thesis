@@ -1,5 +1,0 @@
-Chart: 16434, Current Edition: 7, Print Date: May. /2014, Agattu Island 
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-16434	Delete	Regulated Navigation Area Danger Area 	Chart No. 1: N1.2	N 52 18' 19.870"	E 173 51' 51.273"	52.30552	173.8642	LNM 23/16, 9th Dist	2475	16434_1	6/2/2016
-16434	Delete	Restricted Zone Label	DANGER AREA 334.1290 (see note A)	N 52 17' 43.980"	E 173 52' 09.620"	52.29555	173.8693	LNM 23/16, 9th Dist	2475	16434_1	6/2/2016
-16434	Add	NOTE: AREA TO BE AVOIDED (ATBA) 	NOTE: AREA TO BE AVOIDED (ATBA) The entire area of this chart falls within an Area to be Avoided. All ships 400 gross tonnage and upwards solely in transit should avoid the Area. This Area is IMO-Adopted (MSC IMO SN.1/Circ.331); to be implemented at 0000 UTC, JAN 1, 2016.	N 52 24' 45.000"	E 173 27' 59.974"	52.4125	173.4667	LNM 50/15, 9th Dist	2475	16434_1	12/17/2015

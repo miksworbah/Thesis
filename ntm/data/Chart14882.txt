@@ -1,7 +1,0 @@
-Chart: 14882, Current Edition: 36, Print Date: Jan. /2014, St. Mars River - Detour Passage to Munuscong Lake;Detour Passage
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-14882	Change	De Tour Reef Light	Fl 10s 74ft 15 St M RACON (- . .) HORN (MRASS) 	N 45 56' 56.788"	W 083 54' 11.245"	45.94911	-83.90312	LNM 38/15, 9th Dist	1340	14882_1	12/3/2015
-14882	Add	Note: MARINER ACTIVATED SOUND SIGNAL: DE TOUR REEF LIGHT (MRASS)	MARINER ACTIVATED SOUND SIGNAL: DE TOUR REEF LIGHT (MRASS) Horn is activated by keying the mic 5 times on VHF-FM Ch 83A.	N 45 56' 56.798"	W 083 54' 11.245"	45.94911	-83.90312	LNM 38/15, 9th Dist	1340	14882_1	12/3/2015
-14882	Change	Squaw Island Light 4	Fl R 2.5s 26ft 6 St M "4"	N 46 02' 20.280"	W 083 54' 13.620"	46.03897	-83.90379	LNM 43/15, 9th Dist	1340	14882_1	11/5/2015
-14882	Change	Frying Pan Island Light 7	Q G 14ft 6 St M "7"	N 45 59' 07.602"	W 083 53' 40.944"	45.98544	-83.89471	LNM 46/14, 9th Dist	1341	14882_2	12/4/2014
-14882	Change	Frying Pan Island Light 7	Q G 14ft 6 St M "7"	N 45 59' 07.602"	W 083 53' 40.944"	45.98544	-83.89471	LNM 46/14, 9th Dist	1340	14882_1	12/4/2014

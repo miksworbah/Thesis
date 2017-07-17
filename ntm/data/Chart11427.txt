@@ -1,7 +1,0 @@
-Chart: 11427, Current Edition: 36, Print Date: Jan. /2017, Intracoastal Waterway Fort Myers to Charlotte Harbor and Wiggins Pass
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-11427	Relocate	Pine Island Sound Daybeacon 38	R "38"	N 26 32' 58.724"	W 082 10' 02.657"	26.54965	-82.1674	LNM 24/17, 7th Dist	365	11427_2	6/22/2017
-11427	Relocate	Matlacha Pass Daybeacon 7	G "7" Priv	N 26 30' 26.458"	W 082 03' 36.750"	26.50735	-82.06021	LNM 21/17, 7th Dist	366	11427_1	6/1/2017
-11427	Relocate	Caloosahatchee River Light 101	Q G 16ft 4M "101"	N 26 30' 40.214"	W 082 00' 59.499"	26.51117	-82.01653	LNM 10/17, 7th Dist	366	11427_1	3/16/2017
-11427	Change	San Carlos Bay Channel Light 4	Q R 16ft 4M "4"	N 26 27' 06.751"	W 081 58' 40.591"	26.45188	-81.97794	LNM 07/17, 7th Dist	364	11427_3	2/23/2017
-11427	Change	San Carlos Bay Channel Light 4	Q R 16ft 4M "4"	N 26 27' 06.751"	W 081 58' 40.591"	26.45188	-81.97794	LNM 07/17, 7th Dist	366	11427_1	2/23/2017

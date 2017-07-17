@@ -1,6 +1,0 @@
-Chart: 13323, Current Edition: 9, Print Date: Apr. /2015, Bar Harbor Mount Desert Island
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-13323	Delete	vessel route PT 1 OF 2	None	N 44 23' 42.000"	W 068 10' 24.000"	44.395	-68.17333	LNM 52/15, 1st Dist	2007	13323_1	12/24/2015
-13323	Delete	vessel route PT 2 OF 2	None	N 44 23' 43.800"	W 068 11' 13.600"	44.3955	-68.18711	LNM 52/15, 1st Dist	2007	13323_1	12/24/2015
-13323	Add	vessel route PT 1 OF 2	None	N 44 23' 42.000"	W 068 10' 24.000"	44.395	-68.17333	LNM 52/15, 1st Dist	2007	13323_1	12/24/2015
-13323	Add	vessel route PT 2 OF 2	None	N 44 23' 37.400"	W 068 11' 09.600"	44.39372	-68.186	LNM 52/15, 1st Dist	2007	13323_1	12/24/2015

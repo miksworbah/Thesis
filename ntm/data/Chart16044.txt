@@ -1,2 +1,0 @@
-Chart: 16044, Current Edition: 8, Print Date: Jan. /2015, Camden Bay and Approaches
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

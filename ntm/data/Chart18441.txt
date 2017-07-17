@@ -1,4 +1,0 @@
-Chart: 18441, Current Edition: 48, Print Date: Jan. /2017, Puget Sound-northern part
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-18441	Change	Colman Ferry Terminal North Dolphin Lights	SIREN	N 47 36' 09.890"	W 122 20' 22.100"	47.60275	-122.3395	LNM 26/17, 13th Dist	1689	18441_1	7/6/2017
-18441	Delete	Minor Island Light	Fl 4s 27ft 5M	N 48 19' 27.666"	W 122 49' 09.474"	48.32435	-122.8193	LNM 14/17, 13th Dist	1689	18441_1	4/13/2017

@@ -1,7 +1,0 @@
-Chart: 16593, Current Edition: 12, Print Date: Jul. /2014, Chiniak Bay to Dangerous Cape
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-16593	Add	Sounding in Fathoms & Fractions	2 1/2	N 57 45' 01.100"	W 152 18' 45.100"	57.75031	-152.3125	LNM 21/17, 17th Dist	2552	16593_1	5/18/2017
-16593	Delete	Sounding in Fathoms 	4	N 57 45' 03.500"	W 152 18' 46.000"	57.75097	-152.3128	LNM 21/17, 17th Dist	2552	16593_1	5/18/2017
-16593	Add	Submerged Buoy	Subm buoy (cov 93 fms)	N 57 43' 20.640"	W 152 17' 23.040"	57.7224	-152.2897	Not Yet Published	2552	16593_1	8/11/2016
-16593	Relocate	St Paul Harbor Entrance Light	Fl 6s 38ft 7M RACON ( - . )	N 57 44' 19.638"	W 152 25' 47.635"	57.73879	-152.4299	LNM 14/15, 17th Dist	2552	16593_1	4/30/2015
-16593	Add	Rock in Fathoms	5 Rk      Chart No. 1: K14.2	N 57 45' 01.800"	W 152 24' 40.400"	57.7505	-152.4112	LNM 37/14, 17th Dist	2552	16593_1	9/11/2014

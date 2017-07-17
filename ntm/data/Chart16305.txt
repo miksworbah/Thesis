@@ -1,3 +1,0 @@
-Chart: 16305, Current Edition: 11, Print Date: Dec. /2014, Bristol Bay-Cape Newenham and Hagemeister Strait
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-16305	Add	Kuskokwim Bay Pilot Station	Pilots **Chart No 1 T:1.1**	N 58 52' 00.000"	W 162 32' 00.000"	58.86666	-162.5333	LNM 05/16, 17th Dist	2858	16305_1	2/11/2016

@@ -1,6 +1,0 @@
-Chart: 25687, Current Edition: 13, Print Date: Sep. /2013, Bahia de Jobos and Bahia de Rincon
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-25687	Delete	Bahia De Jobos East and West Pipe Obstruction Lights and Label 	2 Q R 12ft 2M	N 17 56' 05.097"	W 066 13' 39.620"	17.93475	-66.22767	LNM 40/15, 7th Dist	410	25687_1	10/8/2015
-25687	Add	Bahia De Jobos East Pipe Obstruction Light with riprap and label:	Q R Priv	N 17 56' 00.884"	W 066 13' 40.102"	17.93358	-66.22781	LNM 40/15, 7th Dist	410	25687_1	10/8/2015
-25687	Add	Bahia De Jobos West Pipe Obstruction Light with riprap and label:	Q R Priv	N 17 56' 00.884"	W 066 13' 40.602"	17.93358	-66.22794	LNM 40/15, 7th Dist	410	25687_1	10/8/2015
-25687	Relocate	Bahia de Jobos Buoy 2	R N "2"	N 17 55' 52.589"	W 066 16' 20.243"	17.93127	-66.27229	LNM 12/14, 7th Dist	410	25687_1	4/10/2014

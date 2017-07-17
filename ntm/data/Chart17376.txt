@@ -1,2 +1,0 @@
-Chart: 17376, Current Edition: 9, Print Date: Oct. /2012, Tebenkof Bay and Port Malmesbury
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

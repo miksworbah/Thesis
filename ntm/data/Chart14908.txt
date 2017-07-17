@@ -1,7 +1,0 @@
-Chart: 14908, Current Edition: 19, Print Date: Jan. /2016, Dutch Johns Point to Fishery Point, including Big Bay de Noc and Little Bay de Noc;Manistique 
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-14908	Change	Minneapolis Shoal Light	MINNEAPOLIS SHOAL LT Fl 5s 82ft 15 ST M RACON (- -) HORN (MRASS)	N 45 34' 53.326"	W 086 59' 55.377"	45.58148	-86.99872	LNM 08/17, 9th Dist	1383	14908_1	3/2/2017
-14908	Change	Little Bay De Noc Lighted Buoy 8 AIS	R "8" Fl R 4s AIS	N 45 43' 45.789"	W 087 01' 30.586"	45.72939	-87.02516	LNM 50/16, 9th Dist	1383	14908_1	1/19/2017
-14908	Relocate	Days River Shoal Lighted Buoy 19	G "19" Fl G 2.5s	N 45 53' 09.000"	W 086 58' 32.000"	45.88583	-86.97556	LNM 52/16, 9th Dist	1383	14908_1	12/22/2016
-14908	Delete	Little Fishdam River Access Light	Fl Y 4s Priv PA	N 45 54' 00.000"	W 086 34' 00.000"	45.9	-86.56667	LNM 23/16, 9th Dist	1383	14908_1	6/23/2016
-14908	Delete	Escanaba River Boat Access Light	Fl Y 4s Priv PA	N 45 46' 39.000"	W 087 03' 32.000"	45.7775	-87.05889	LNM 23/16, 9th Dist	1383	14908_1	6/23/2016

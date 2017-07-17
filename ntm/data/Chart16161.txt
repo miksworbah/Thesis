@@ -1,2 +1,0 @@
-Chart: 16161, Current Edition: 1, Print Date: Apr. /2012, Kotzebue Harbor and Approaches
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

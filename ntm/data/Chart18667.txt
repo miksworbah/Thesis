@@ -1,7 +1,0 @@
-Chart: 18667, Current Edition: 12, Print Date: 8/26/2000, Sacramento River Fourmile Bend To Colusa
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-18667	Change	bridge symbol to fixed bridge (Chart No. 1, D22)	fixed bridge	N 39 12' 51.450"	W 122 00' 02.450"	39.21429	-122.0007	LNM 08/07, 11th Dist	1864	18667_3	2/13/2008
-18667	Change	Fixed Bridge Note	REMOVABLE SPAN BRIDGE HOR CL 100 FT, VERT CL AT LW 32 FT, VERT CL 6 FT AT ABOVE FLOOD PLAIN	N 39 12' 51.450"	W 122 00' 02.450"	39.21429	-122.0007	LNM 08/07, 11th Dist	1864	18667_3	2/13/2008
-18667	Change	Swing Bridge Label	swing bridge label: SWING BRIDGE, HOR CL 143 FT, VERT CL AT HW 10 FT	N 39 08' 38.000"	W 121 55' 16.000"	39.14389	-121.9211	LNM 08/07, 11th Dist	1864	18667_3	2/13/2008
-18667	Add	chartlet	chartlet	N 39 12' 48.000"	W 121 58' 14.000"	39.21333	-121.9706	LNM 07/05, 11th Dist	1864	18667_3	2/13/2008
-18667	Add	SWING BRIDGE	HOR CL 43.6m VERT CL AT LW 11.9m	N 39 08' 40.000"	W 121 55' 20.000"	39.14444	-121.9222	LNM 32/95, 11th Dist	1864	18667_3	2/13/2008

@@ -1,6 +1,0 @@
-Chart: 81071, Current Edition: 8, Print Date: Feb. /2013, Commonwealth of the Northern Mariana Islands Bahia Laolao, Saipan Island and Tinian Harbor, Tinian Island
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-81071	Delete	Fad Site Lighted Buoy BB-Saipan	Y FAD "BB" Fl 4s Priv	N 15 05' 24.000"	E 145 45' 48.010"	15.09	145.7633	LNM 24/14, 14th Dist	2906	81071_1	6/19/2014
-81071	Delete	FAD Site 9	Y FAD "9" Fl Y 4s Priv	N 15 05' 04.000"	E 145 45' 08.020"	15.08444	145.7522	LNM 12/14, 14th Dist	2906	81071_1	4/3/2014
-81071	Relocate	Tinian Harbor Channel Buoy 6	R C "6"	N 14 57' 43.007"	E 145 37' 23.024"	14.96195	145.6231	LNM 41/13, 14th Dist	2907	81071_2	10/11/2013
-81071	Change	Corrected through note	Corrected through NM Feb.23/13, Corrected through LNM Feb. 19/13.	N 15 04' 37.000"	E 145 44' 10.012"	15.07694	145.7361	LNM 15/13, 14th Dist	2906	81071_1	4/8/2013

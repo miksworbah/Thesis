@@ -1,2 +1,0 @@
-Chart: 16061, Current Edition: 9, Print Date: Jan. /2015, Prudhoe Bay and vicinity
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

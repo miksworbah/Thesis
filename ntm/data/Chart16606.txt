@@ -1,3 +1,0 @@
-Chart: 16606, Current Edition: 12, Print Date: Apr. /2015, Barren Islands
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-16606	Delete	NOAA Data Lighted Buoy 46105	Y ODAS "46105" Fl (4) Y 20s PA Priv	N 59 02' 58.006"	W 152 13' 48.010"	59.04945	-152.23	LNM 15/15, 17th Dist	2568	16606_1	4/30/2015

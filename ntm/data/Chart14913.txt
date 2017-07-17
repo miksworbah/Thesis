@@ -1,2 +1,0 @@
-Chart: 14913, Current Edition: 20, Print Date: Jan. /2016, Grand Traverse Bay to Little Traverse Bay;Harobr Springs;Petoskey;Elk Rapids;Suttons Bay;Northport;Traverse City
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

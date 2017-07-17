@@ -1,2 +1,0 @@
-Chart: 17365, Current Edition: 13, Print Date: Jun. /2014, Woewodski and Eliza Hbrs.;Fanshaw Bay and Cleveland Passage
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

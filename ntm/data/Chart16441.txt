@@ -1,3 +1,0 @@
-Chart: 16441, Current Edition: 9, Print Date: Apr. /2015, Kiska Island and approaches
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-16441	Add	NOTE: AREA TO BE AVOIDED (ATBA	NOTE: AREA TO BE AVOIDED (ATBA) The entire area of this chart falls within an Area to be Avoided. All ships 400 gross tonnage and upwards solely in transit should avoid the Area. This Area is IMO-Adopted (MSC IMO SN.1/Circ.331); to be implemented at 0000 UTC, JAN 1, 2016.	N 52 12' 45.000"	E 177 33' 00.011"	52.2125	177.55	LNM 50/15, 9th Dist	2481	16441_1	12/17/2015

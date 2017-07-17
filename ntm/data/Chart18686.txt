@@ -1,2 +1,0 @@
-Chart: 18686, Current Edition: 14, Print Date: Sep. /2014, Pfeiffer Point to Cypress Point
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

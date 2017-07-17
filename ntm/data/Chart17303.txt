@@ -1,3 +1,0 @@
-Chart: 17303, Current Edition: 11, Print Date: May. /2014, Yakobi Island and Lisianski Inlet;Pelican Harbor
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-17303	Change	Star Rock Bell Buoy SR	GR "SR" BELL	N 57 49' 46.541"	W 136 28' 08.137"	57.82959	-136.4689	LNM 30/16, 17th Dist	2624	17303_1	8/4/2016

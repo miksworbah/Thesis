@@ -1,2 +1,0 @@
-Chart: 16381, Current Edition: 10, Print Date: Feb. /2015, St. George Island, Pribilof Islands
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

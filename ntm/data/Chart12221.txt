@@ -1,5 +1,6 @@
 Chart: 12221, Current Edition: 83, Print Date: Jan. /2017, Chesapeake Bay Entrance
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12221	Relocate	Horn Harbor Lighted Buoy 2	R "2" Fl R 4s	N 37 20' 13.783"	W 076 15' 33.633"	37.33716	-76.25935	LNM 27/17, 5th Dist	558	12221_1	7/13/2017
 12221	Change	Virginia Inside Passage Daybeacon 224	R "224"	N 37 22' 20.856"	W 075 52' 17.448"	37.37246	-75.87151	LNM 24/17, 5th Dist	558	12221_1	6/22/2017
 12221	Change	Virginia Inside Passage Daybeacon 226	R "226"	N 37 21' 33.054"	W 075 52' 51.162"	37.35918	-75.88087	LNM 24/17, 5th Dist	558	12221_1	6/22/2017
 12221	Change	Virginia Inside Passage Daybeacon 227	G "227"	N 37 20' 53.160"	W 075 52' 54.600"	37.3481	-75.88184	LNM 24/17, 5th Dist	558	12221_1	6/22/2017

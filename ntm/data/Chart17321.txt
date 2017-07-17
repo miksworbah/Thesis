@@ -1,3 +1,0 @@
-Chart: 17321, Current Edition: 10, Print Date: May. /2014, Cape Edward to Lisianski Strait, Chichagof Island
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-17321	Change	Star Rock Bell Buoy SR	GR "SR" BELL	N 57 49' 46.541"	W 136 28' 08.137"	57.82959	-136.4689	LNM 30/16, 17th Dist	2645	17321_1	8/4/2016

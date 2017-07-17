@@ -1,3 +1,0 @@
-Chart: 16547, Current Edition: 10, Print Date: Jun. /2014, Sanak Island and Sandman Reefs;Northeast Harbor;Peterson and Salmon Bays;Sanak Harbor
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-16547	Add	NOTE: AREA TO BE AVOIDED (ATBA)	NOTE: AREA TO BE AVOIDED (ATBA) The entire area of this chart falls within an Area to be Avoided. All ships 400 gross tonnage and upwards solely in transit should avoid the Area. This Area is IMO-Adopted (MSC IMO SN.1/Circ.331); to be implemented at 0000 UTC, JAN 1, 2016.	N 54 24' 37.000"	W 162 03' 28.000"	54.41028	-162.0578	LNM 51/15, 17th Dist	2530	16547_1	12/17/2015

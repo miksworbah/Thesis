@@ -1,2 +1,0 @@
-Chart: 14907, Current Edition: 28, Print Date: Feb. /2016, Stony Lake to Point Betsie;Pentwater;Arcadia;Frankfort
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

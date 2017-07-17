@@ -1,7 +1,0 @@
-Chart: 11375, Current Edition: 39, Print Date: Feb. /2016, Pascagoula Harbor
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-11375	Change	tabulation - Horn Island Pass Pascagoula Harbor and Bayou Casotte Channel Depths	tabulation - Horn Island Pass Pascagoula Harbor and Bayou Casotte Channel Depths	N 30 19' 55.000"	W 088 28' 49.000"	30.33194	-88.48028	LNM 15/17, 8th Dist	1	11375_1	4/13/2017
-11375	Change	Tabulation - Horn Island Pass Pascagoula Harbor and Bayou Casotte Channel Depths	Tabulation - Horn Island Pass Pascagoula Harbor and Bayou Casotte Channel Depths	N 30 19' 55.000"	W 088 28' 49.000"	30.33194	-88.48028	LNM 51/16, 8th Dist	1	11375_1	12/15/2016
-11375	Add	Yazoo Channel Daybeacon 1	G "1" Priv	N 30 20' 50.810"	W 088 33' 35.790"	30.34745	-88.55994	LNM 35/16, 8th Dist	1	11375_1	9/8/2016
-11375	Add	Yazoo Channel Daybeacon 2	R "2" Priv	N 30 20' 50.340"	W 088 33' 35.370"	30.34732	-88.55982	LNM 35/16, 8th Dist	1	11375_1	9/8/2016
-11375	Change	tabulation - HORN ISLAND PASS PASCAGOULA HARBOR AND BAYOU CASOTTE CHANNEL	tabulation - HORN ISLAND PASS PASCAGOULA HARBOR AND BAYOU CASOTTE CHANNEL	N 30 19' 55.000"	W 088 28' 49.000"	30.33194	-88.48028	LNM 12/16, 8th Dist	1	11375_1	3/24/2016

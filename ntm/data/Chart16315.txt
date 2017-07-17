@@ -1,2 +1,0 @@
-Chart: 16315, Current Edition: 11, Print Date: Mar. /2015, Bristol Bay-Togiak Bay and Walrus Islands
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

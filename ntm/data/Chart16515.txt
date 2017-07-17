@@ -1,4 +1,0 @@
-Chart: 16515, Current Edition: 8, Print Date: May. /2014, Chernofski Harbor to Skan Bay
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-16515	Add	Submerged Buoy	Subm buoy (cov 47 fms)	N 53 37' 59.300"	W 167 24' 27.500"	53.63314	-167.4076	WNM 35/16, NGA	2514	16515_1	9/8/2016
-16515	Add	NOTE: AREA TO BE AVOIDED (ATBA)	NOTE: AREA TO BE AVOIDED (ATBA) The entire area of this chart falls within an Area to be Avoided. All ships 400 gross tonnage and upwards solely in transit should avoid the Area. This Area is IMO-Adopted (MSC IMO SN.1/Circ.331); to be implemented at 0000 UTC, JAN 1, 2016.	N 53 22' 04.000"	W 167 02' 10.000"	53.36778	-167.0361	LNM 51/15, 17th Dist	2514	16515_1	12/17/2015

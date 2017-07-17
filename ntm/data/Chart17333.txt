@@ -1,2 +1,0 @@
-Chart: 17333, Current Edition: 10, Print Date: Mar. /2013, Ports Herbert, Walter, Lucy and Armstrong
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

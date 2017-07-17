@@ -1,4 +1,0 @@
-Chart: 18626, Current Edition: 16, Print Date: Dec. /2011, Elk to Fort Bragg;Fort Bragg and Noyo Anchorage;Elk
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-18626	Relocate	NOYO RIVER DIRECTIONAL LT	F WRG 17ft	N 39 25' 38.268"	W 123 48' 27.135"	39.4273	-123.8075	LNM 17/13, 11th Dist	1812	18626_2	5/6/2013
-18626	Change	NOYO RIVER DIRECTIONAL LT	F WRG 17ft	N 39 25' 38.268"	W 123 48' 27.135"	39.4273	-123.8075	LNM 17/13, 11th Dist	1812	18626_2	5/6/2013

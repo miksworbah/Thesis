@@ -1,2 +1,0 @@
-Chart: 17328, Current Edition: 8, Print Date: Nov. /2011, Snipe Bay to Crawfish Inlet,Baranof l.
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

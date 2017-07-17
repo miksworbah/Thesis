@@ -1,9 +1,0 @@
-Chart: 19367, Current Edition: 41, Print Date: May. /2014, Island of O‘ahu Honolulu Harbor
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-19367	Delete	Dangerous Wreck	Masts	N 21 18' 52.800"	W 157 53' 36.060"	21.31467	-157.8934	LNM 28/16, 14th Dist	2807	19367_1	7/21/2016
-19367	Relocate	Keehi Lagoon Barge Turning Channel Range Rear Light	F G 22ft Priv	N 21 19' 53.174"	W 157 54' 00.589"	21.33144	-157.9002	LNM 14/16, 14th Dist	2808	19367_2	4/14/2016
-19367	Delete	Dangerous Wreck	Masts	N 21 18' 40.860"	W 157 53' 33.060"	21.31135	-157.8925	LNM 11/16, 14th Dist	2807	19367_1	3/24/2016
-19367	Add	Dangerous Wreck	Masts	N 21 18' 52.800"	W 157 53' 36.060"	21.31467	-157.8934	LNM 11/16, 14th Dist	2807	19367_1	3/24/2016
-19367	Add	Keehi Lagoon Barge Turning Channel Range Front Light	Q G 16ft Priv	N 21 19' 47.774"	W 157 53' 57.746"	21.32994	-157.8994	LNM 07/16, 14th Dist	2808	19367_2	2/25/2016
-19367	Add	Keehi Lagoon Barge Turning Channel Range Rear Light	F G 22ft Priv	N 21 19' 53.076"	W 157 54' 00.537"	21.33141	-157.9001	LNM 07/16, 14th Dist	2808	19367_2	2/25/2016
-19367	Add	Dangerous Wreck	Masts	N 21 18' 40.000"	W 157 53' 33.000"	21.31111	-157.8925	LNM 07/16, 14th Dist	2807	19367_1	2/25/2016

@@ -1,8 +1,0 @@
-Chart: 14841, Current Edition: 30, Print Date: May. /2015, Lorain Harbor
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-14841	Change	tabulation - Black River Channel	tabulation - Black River Channel	N 41 26' 50.000"	W 082 11' 34.000"	41.44722	-82.19278	LNM 20/17, 9th Dist	1162	14841_1	5/11/2017
-14841	Change	tabulation - Lorain Harbor Channel	tabulation - Lorain Harbor Channel	N 41 27' 05.000"	W 082 11' 34.000"	41.45139	-82.19278	LNM 20/17, 9th Dist	1162	14841_1	5/11/2017
-14841	Change	Tabulation - Black River Channel Depths	Tabulation - Black River Channel Depths	N 41 26' 50.000"	W 082 11' 34.000"	41.44722	-82.19278	LNM 11/16, 9th Dist	1162	14841_1	3/10/2016
-14841	Change	Tabulation - Lorain Harbor Channel Depths	Tabulation - Lorain Harbor Channel Depths	N 41 27' 05.000"	W 082 11' 34.000"	41.45139	-82.19278	LNM 11/16, 9th Dist	1162	14841_1	3/10/2016
-14841	Change	Lorain Harbor Light	Fl 6s 60ft 12 St M HORN (MRASS)	N 41 28' 51.620"	W 082 11' 43.290"	41.48101	-82.19536	LNM 38/15, 9th Dist	1162	14841_1	12/3/2015
-14841	Add	Note: MARINER ACTIVATED SOUND SIGNAL: LORAIN HARBOR LIGHT (MRASS) Horn is activated by keying the mic 5 times on VHF-FM Ch 83A.	MARINER ACTIVATED SOUND SIGNAL: LORAIN HARBOR LIGHT (MRASS) Horn is activated by keying the mic 5 times on VHF-FM Ch 83A.	N 41 28' 51.620"	W 082 11' 43.290"	41.48101	-82.19536	LNM 38/15, 9th Dist	1162	14841_1	12/3/2015

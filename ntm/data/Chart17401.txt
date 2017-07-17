@@ -1,2 +1,0 @@
-Chart: 17401, Current Edition: 13, Print Date: Mar. /2015, Lake Bay and approaches, Clarence Str.
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

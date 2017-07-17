@@ -1,2 +1,0 @@
-Chart: 16712, Current Edition: 2, Print Date: Mar. /2015, Unakwik Inlet to Esther Passage and College Fiord
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

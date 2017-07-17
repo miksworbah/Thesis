@@ -1,2 +1,0 @@
-Chart: 16065, Current Edition: 7, Print Date: Jan. /2015, Cape Halkett and vicinity
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

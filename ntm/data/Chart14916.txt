@@ -1,3 +1,0 @@
-Chart: 14916, Current Edition: 11, Print Date: Mar. /2016, SMALL-CRAFT BOOK CHART - Lake Winnebago and Lower Fox River (book of 34 charts)
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-14916	Relocate	Green Bay City Buoy 24	R N "24"	N 44 27' 27.146"	W 088 03' 47.615"	44.45754	-88.06322	LNM 19/17, 9th Dist	1438	14916_34	5/11/2017

@@ -1,3 +1,0 @@
-Chart: 5161, Current Edition: 14, Print Date: Mar. /2016, Newport, Rhode Island to Bermuda (Plotting Sheet)
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-5161	Relocate	NOAA ODAS BUOY 44008	Y ODAS "44008" Fl (4) Y 20s PA	N 40 30' 16.000"	W 069 14' 52.000"	40.50444	-69.24778	LNM 17/17, 1st Dist	2912	5161_1	5/4/2017

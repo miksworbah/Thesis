@@ -1,2 +1,0 @@
-Chart: 16561, Current Edition: 4, Print Date: Oct. /2010, Mitrofania Bay And Kuiukta Bay
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

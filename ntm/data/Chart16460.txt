@@ -1,2 +1,0 @@
-Chart: 16460, Current Edition: 17, Print Date: Dec. /2015, Igitkin ls. to Semisopochnoi Island
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

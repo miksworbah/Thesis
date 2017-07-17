@@ -1,2 +1,0 @@
-Chart: 16761, Current Edition: 17, Print Date: Apr. /2015, Yakutat Bay;Yakutat Harbor
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

@@ -1,3 +1,0 @@
-Chart: 14931, Current Edition: 25, Print Date: Nov. /2015, Grand River From Dermo Bayou To Bass River
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-14931	Relocate	Grand River Buoy 62	R N "62"	N 43 02' 30.509"	W 086 04' 24.168"	43.04181	-86.07338	LNM 27/17, 9th Dist	1489	14931_1	7/6/2017

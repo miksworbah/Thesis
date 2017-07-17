@@ -1,2 +1,0 @@
-Chart: 19384, Current Edition: 9, Print Date: Jun. /2014, Hanamaulu Bay Island of Kaua‘i
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

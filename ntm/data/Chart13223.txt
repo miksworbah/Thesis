@@ -1,3 +1,0 @@
-Chart: 13223, Current Edition: 44, Print Date: Jan. /2017, Narragansett Bay, Including Newport Harbor
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-13223	Delete	WARWICK NARROWS EAST BUOY 5	G C "5"	N 41 37' 58.435"	W 071 22' 14.663"	41.6329	-71.37074	LNM 21/17, 1st Dist	2134	13223_1	6/1/2017

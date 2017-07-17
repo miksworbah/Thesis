@@ -1,3 +1,0 @@
-Chart: 14938, Current Edition: 25, Print Date: Nov. /2015, Manistee Harbor and Manistee Lake
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-14938	Change	Manistee Lake Obstruction Lighted Buoy	R "A" Fl R 2.5s Priv	N 44 14' 54.500"	W 086 18' 37.000"	44.24847	-86.31028	Not Yet Published	1494	14938_1	10/20/2016

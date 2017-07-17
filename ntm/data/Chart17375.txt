@@ -1,8 +1,0 @@
-Chart: 17375, Current Edition: 22, Print Date: Dec. /2009, Wrangell Narrows;Petersburg Harbor
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-17375	Delete	Wrangell Narrows Channel LB 17A	G "17A" Fl G 2.5s	N 56 37' 37.758"	W 132 57' 20.408"	56.62716	-132.9557	WNM 08/16, NGA	2699	17375_3	2/25/2016
-17375	Add	Wrangell Narrows Channel Light 17	Fl G 2.5s 15ft 3M "17"	N 56 37' 37.758"	W 132 57' 20.408"	56.62716	-132.9557	WNM 08/16, NGA	2699	17375_3	2/25/2016
-17375	Delete	Wrangell Narrows Channel Light 17	Fl G 2.5s 15ft 3M "17"	N 56 37' 40.614"	W 132 57' 17.304"	56.62795	-132.9548	LNM 05/15, 17th Dist	2699	17375_3	2/19/2015
-17375	Add	Wrangell Narrows Channel Lighted Buoy 17A	G "17A" Fl G 2.5s	N 56 37' 37.758"	W 132 57' 20.408"	56.62716	-132.9557	LNM 05/15, 17th Dist	2699	17375_3	2/19/2015
-17375	Delete	Obstruction w/ 2 fm sounding	** Chart No 1 K:41 **	N 56 48' 14.630"	W 132 59' 21.190"	56.80407	-132.9892	LNM 32/14, 17th Dist	2700	17375_2	8/21/2014
-17375	Delete	Obstruction w/ 2 fm sounding	** Chart No 1 K:41 **	N 56 48' 14.630"	W 132 59' 21.190"	56.80407	-132.9892	LNM 32/14, 17th Dist	2698	17375_1	8/21/2014

@@ -1,2 +1,0 @@
-Chart: 16123, Current Edition: 7, Print Date: Jan. /2015, Point Hope to Cape Dyer
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

@@ -1,9 +1,0 @@
-Chart: 14910, Current Edition: 24, Print Date: Jun. /2016, Lower Green Bay;Oconto Harbor;Algoma
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-14910	Relocate	Kewaunee Shoal Light	KEWAUNEE SHL LT Fl G 4s 43ft 8 St M HORN	N 44 27' 03.941"	W 087 27' 55.369"	44.4511	-87.46538	LNM 16/17, 9th Dist	1388	14910_1	4/27/2017
-14910	Change	Sturgeon Bay Ship Canal North Pierhead Light	NORTH PIERHEAD LT Fl R 2.5s 40ft 11 ST M HORN (MRASS)	N 44 47' 31.260"	W 087 18' 34.322"	44.79202	-87.30953	LNM 08/17, 9th Dist	1388	14910_1	3/2/2017
-14910	Change	Green Bay Harbor Entrance Channel Lighted Buoy 1 AIS	G "1" Fl G 2.5s AIS	N 44 40' 36.700"	W 087 52' 34.700"	44.67686	-87.8763	LNM 50/16, 9th Dist	1388	14910_1	1/19/2017
-14910	Change	Green Bay Harbor Entrance Channel Lighted Bell Buoy 2 AIS	R "2" Fl R 2.5s BELL AIS	N 44 40' 39.037"	W 087 52' 41.860"	44.67751	-87.8783	LNM 50/16, 9th Dist	1388	14910_1	1/19/2017
-14910	Change	Green Bay Harbor Entrance Channel Lighted Buoy 9 AIS	G "9" Fl G 4s AIS	N 44 37' 22.415"	W 087 55' 32.891"	44.62289	-87.9258	LNM 50/16, 9th Dist	1388	14910_1	1/19/2017
-14910	Change	Green Bay Harbor Entrance Channel Lighted Buoy 10 AIS	R "10" Fl R 4s AIS	N 44 37' 24.667"	W 087 55' 41.519"	44.62352	-87.9282	LNM 50/16, 9th Dist	1388	14910_1	1/19/2017
-14910	Change	Green Bay Harbor Entrance Channel Lighted Buoy 5 AIS	G "5" Fl G 6s AIS	N 44 39' 07.875"	W 087 53' 56.465"	44.65219	-87.89902	LNM 50/16, 9th Dist	1388	14910_1	1/19/2017

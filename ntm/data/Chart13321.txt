@@ -1,6 +1,0 @@
-Chart: 13321, Current Edition: 10, Print Date: Jun. /2015, Southwest Harbor and Approaches
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-13321	Relocate	EAGLE POINT INNER BUOY 5	G C "5" Priv	N 44 15' 37.920"	W 068 14' 29.460"	44.26053	-68.24152	LNM 14/17, 1st Dist	2009	13321_1	4/13/2017
-13321	Relocate	FLYNNS LEDGE BUOY 5	G C "5"	N 44 14' 27.300"	W 068 16' 59.900"	44.24092	-68.2833	LNM 18/16, 1st Dist	2009	13321_1	5/12/2016
-13321	Relocate	Flynns Ledge Buoy 5 From	G C "5"	N 44 14' 27.600"	W 068 17' 00.400"	44.241	-68.28345	LNM 17/16, 1st Dist	2009	13321_1	4/21/2016
-13321	Relocate	Flynns Ledge Buoy 5 To	G C "5"	N 44 14' 27.276"	W 068 16' 59.856"	44.24091	-68.28329	LNM 17/16, 1st Dist	2009	13321_1	4/21/2016

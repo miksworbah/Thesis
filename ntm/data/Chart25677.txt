@@ -1,9 +1,0 @@
-Chart: 25677, Current Edition: 22, Print Date: Jul. /2013, South Coast of Puerto Rico Guanica Light to Punta Tuna Light;Las Mareas
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-25677	Change	Punta Tuna Light	Fl (2) 30s 111ft 11M	N 17 59' 18.074"	W 065 53' 07.004"	17.98835	-65.88528	LNM 24/16, 7th Dist	412	25677_1	6/16/2016
-25677	Change	Cayo Maria Langa Light	Fl 2.5s 42ft 8M	N 17 57' 59.224"	W 066 45' 09.289"	17.96645	-66.75258	LNM 51/15, 7th Dist	412	25677_1	12/31/2015
-25677	Change	Bahia De Ponce Lighted Buoy 1	G "1" Fl G 4s AIS	N 17 55' 59.700"	W 066 38' 12.219"	17.93325	-66.63673	LNM 48/15, 7th Dist	412	25677_1	12/10/2015
-25677	Change	Bahia De Ponce Range Front Light	Fl G 2.5s 18ft AIS	N 17 58' 26.098"	W 066 37' 18.755"	17.97392	-66.62188	LNM 48/15, 7th Dist	412	25677_1	12/10/2015
-25677	Change	Bahia De Ponce Range Rear Light	Iso G 6s 48ft AIS	N 17 58' 46.273"	W 066 37' 13.110"	17.97952	-66.62031	LNM 48/15, 7th Dist	412	25677_1	12/10/2015
-25677	Relocate	Bahia de Jobos Buoy 2	R N "2"	N 17 55' 52.589"	W 066 16' 20.243"	17.93127	-66.27229	LNM 12/14, 7th Dist	412	25677_1	4/10/2014
-25677	Add	University of Puerto Rico Data Lighted Buoy A	Y "A" Fl Y 4s Priv	N 17 51' 36.600"	W 066 31' 25.200"	17.86017	-66.52367	LNM 33/13, 7th Dist	412	25677_1	8/22/2013

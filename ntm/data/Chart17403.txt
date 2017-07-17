@@ -1,4 +1,0 @@
-Chart: 17403, Current Edition: 15, Print Date: May. /2014, Davidson Inlet and Sea Otter Sound;Edna Bay
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-17403	Relocate	Burnt Island Light 5	Fl G 4s 15ft 4M "5"	N 55 58' 26.652"	W 133 17' 45.342"	55.97407	-133.2959	LNM 43/16, 17th Dist	2718	17403_1	11/17/2016
-17403	Relocate	El Capitan Daybeacon 1	G "1"	N 55 55' 41.460"	W 133 18' 18.006"	55.92818	-133.305	LNM 43/16, 17th Dist	2718	17403_1	11/17/2016

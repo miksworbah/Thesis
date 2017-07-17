@@ -1,2 +1,0 @@
-Chart: 13303, Current Edition: 15, Print Date: Mar. /2017, Approaches to Penobscot Bay
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

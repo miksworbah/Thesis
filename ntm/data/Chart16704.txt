@@ -1,2 +1,0 @@
-Chart: 16704, Current Edition: 14, Print Date: Feb. /2015, Drier Bay, Prince William Sound
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

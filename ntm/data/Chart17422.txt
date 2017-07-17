@@ -1,3 +1,0 @@
-Chart: 17422, Current Edition: 10, Print Date: Mar. /2015, Behm Canal-western part;Yes Bay
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-17422	Add	Sounding in Fathoms 	1	N 55 48' 45.100"	W 131 32' 55.000"	55.81253	-131.5486	LNM 03/17, 17th Dist	2730	17422_1	1/12/2017

@@ -1,8 +1,0 @@
-Chart: 25673, Current Edition: 17, Print Date: Sep. /2013, Bahia de Mayaguez and approaches
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-25673	Change	Bahia De Mayaguez Entrance Lighted Buoy 4	R "4" Fl R 4s AIS	N 18 13' 01.333"	W 067 11' 50.649"	18.21704	-67.1974	LNM 48/15, 7th Dist	403	25673_1	12/10/2015
-25673	Change	Bahia De Mayaguez Entrance Lighted Buoy 3	G "3" Fl G 4s AIS	N 18 13' 23.578"	W 067 11' 49.817"	18.22322	-67.19717	LNM 48/15, 7th Dist	403	25673_1	12/10/2015
-25673	Change	Bahia De Mayaguez Lighted Buoy 5	G "5" Fl G 4s AIS	N 18 13' 13.653"	W 067 10' 35.418"	18.22046	-67.17651	LNM 48/15, 7th Dist	403	25673_1	12/10/2015
-25673	Change	Bahia De Mayaguez Range Front Light	Q G 33ft AIS	N 18 13' 09.001"	W 067 09' 44.256"	18.21917	-67.16229	LNM 48/15, 7th Dist	403	25673_1	12/10/2015
-25673	Change	Bahia De Mayaguez Range Rear Light	Oc G 4s 89ft AIS	N 18 13' 08.832"	W 067 09' 33.461"	18.21912	-67.15929	LNM 48/15, 7th Dist	403	25673_1	12/10/2015
-25673	Change	tabulation - MAYAGUEZ HARBOR CHANNEL DEPTHS	tabulation - MAYAGUEZ HARBOR CHANNEL DEPTHS	N 18 13' 08.000"	W 067 08' 15.000"	18.21889	-67.1375	LNM 27/15, 7th Dist	403	25673_1	7/2/2015

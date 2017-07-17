@@ -1,9 +1,0 @@
-Chart: 14774, Current Edition: 17, Print Date: Jul. /2004, Round I., N.Y., and Gananoque, Ont., to Wolfe I., Ont.
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-14774	Relocate	St. Lawrence Seaway Lighted Buoy 217A	G "217A" Q G	N 44 15' 36.000"	W 076 03' 51.900"	44.26	-76.06441	LNM 37/15, 9th Dist	1022	14774_1	10/8/2015
-14774	Relocate	Clayton Shoal Lighted Buoy 1	G "1" Fl G 4s	N 44 14' 44.200"	W 076 05' 00.900"	44.24561	-76.08358	LNM 37/15, 9th Dist	1022	14774_1	10/8/2015
-14774	Change	LIGHT	Fl R 4s 22ft Priv PA	N 44 19' 18.000"	W 076 09' 47.500"	44.32167	-76.16319	CNM 09/11, Canada	1022	14774_1	9/29/2011
-14774	Change	ST LAWRENCE SEAWAY LTD BUOY 228	R "228" Fl R 4s 	N 44 14' 31.600"	W 076 07' 03.500"	44.24211	-76.11764	LNM 49/09, 9th Dist	1022	14774_1	12/16/2009
-14774	Relocate	CLAYTON FLOATING DOCK LIGHT	Fl 4s 7ft Priv	N 44 14' 35.465"	W 076 05' 17.455"	44.24318	-76.08818	LNM 35/08, 9th Dist	1022	14774_1	9/26/2008
-14774	Relocate	CLAYTONSHOAL LIGHTED BUOY 1	G"1" Fl G 4s	N 44 14' 44.100"	W 076 05' 02.100"	44.24558	-76.08392	LNM 12/07, 9th Dist	1022	14774_1	2/13/2008
-14774	Add	chartlet	chartlet	N 44 17' 00.000"	W 076 06' 00.000"	44.28333	-76.1	LNM 10/05, 9th Dist	1022	14774_1	2/13/2008

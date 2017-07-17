@@ -36,8 +36,8 @@ class NTMDatasets(generics.ListCreateAPIView):
 
 ntm_datasets = NTMDatasets.as_view()
 
-#def downloadntm(request):
-    #NTM.objects.all().delete()
-    #download.run()
-    #load.run()
-    #return HttpResponseRedirect('/gis/')
+def downloadntm(request):
+    NTM.objects.all().delete()
+    download.run()
+    load.run()
+    return HttpResponseRedirect('/gis/')

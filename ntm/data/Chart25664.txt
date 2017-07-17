@@ -1,4 +1,0 @@
-Chart: 25664, Current Edition: 18, Print Date: Mar. /2014, Pasaje de Vieques and Radas Roosevelt
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-25664	Change	Radas Roosevelt Passage Lighted Buoy 1	G "1" Fl G 2.5s AIS	N 18 10' 59.615"	W 065 28' 11.939"	18.18323	-65.46999	LNM 48/15, 7th Dist	395	25664_1	12/10/2015
-25664	Change	Bajos Chinchorro Del Sur Light	Fl 4s 25ft 8M AIS	N 18 14' 03.272"	W 065 31' 09.295"	18.23424	-65.51925	LNM 48/15, 7th Dist	395	25664_1	12/10/2015

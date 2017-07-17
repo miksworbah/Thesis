@@ -1,6 +1,0 @@
-Chart: 14968, Current Edition: 29, Print Date: Feb. /2016, Grand Portage Bay, Minn. to Shesbeeb Point, Ont.
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-14968	Delete	BUOY P8	R S "P8" Priv	N 48 22' 41.300"	W 089 12' 22.000"	48.37814	-89.20611	CNM 12/16, Canada	1524	14968_1	1/5/2017
-14968	Delete	BUOY P7	G "P7" Priv	N 48 22' 38.600"	W 089 12' 21.200"	48.37739	-89.20589	CNM 12/16, Canada	1524	14968_1	1/5/2017
-14968	Delete	BUOY P9	G "P9" Priv	N 48 22' 38.600"	W 089 12' 37.800"	48.37739	-89.2105	CNM 12/16, Canada	1524	14968_1	1/5/2017
-14968	Delete	BUOY P10	R S "P10" Priv	N 48 22' 39.500"	W 089 12' 37.900"	48.37764	-89.21053	CNM 12/16, Canada	1524	14968_1	1/5/2017

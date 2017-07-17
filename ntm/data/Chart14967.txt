@@ -1,2 +1,0 @@
-Chart: 14967, Current Edition: 24, Print Date: Nov. /2014, Beaver Bay to Pigeon Point;Silver Bay Harbor;Taconite Harbor;Grand Marais Harbor
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

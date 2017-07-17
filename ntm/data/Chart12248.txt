@@ -1,5 +1,6 @@
 Chart: 12248, Current Edition: 44, Print Date: Jan. /2014, James River Newport News to Jamestown Island; Back River and College Creek
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+12248	Change	Newport News Creek Light 2	Fl R 2.5s 15ft 4M "2"	N 36 57' 34.810"	W 076 24' 33.758"	36.95967	-76.40938	LNM 27/17, 5th Dist	585	12248_1	7/13/2017
 12248	Change	James River Channel Light 5	Fl G 2.5s 15ft 5M "5"	N 37 02' 21.173"	W 076 32' 46.712"	37.03922	-76.54631	LNM 23/17, 5th Dist	585	12248_1	6/8/2017
 12248	Change	James River Channel Light 10	Fl R 4s 15ft 5M "10"	N 37 03' 12.194"	W 076 34' 36.641"	37.05339	-76.57684	LNM 23/17, 5th Dist	585	12248_1	6/8/2017
 12248	Change	James River Channel Light 15	Fl G 4s 15ft 5M "15"	N 37 04' 18.332"	W 076 36' 18.205"	37.07176	-76.60506	LNM 23/17, 5th Dist	585	12248_1	6/8/2017

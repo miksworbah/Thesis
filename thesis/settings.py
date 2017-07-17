@@ -169,7 +169,7 @@ STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
 
 # Django-Leaflet settings.
 LEAFLET_CONFIG = {
-    'DEFAULT_CENTER': (40.50444, -69.24778),
+    'DEFAULT_CENTER': (37.80812, -76.0257),
     'DEFAULT_ZOOM': 7,
     'SCALE': 'both',
     'ATTRIBUTION_PREFIX': 'Michael R. Rushin - MS Geoinformatics & Geospatial Intelligence',

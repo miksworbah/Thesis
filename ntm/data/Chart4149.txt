@@ -1,3 +1,0 @@
-Chart: 4149, Current Edition: 1, Print Date: Jan. /2017, Straits of Florida - Eastern Part
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-4149	Delete	Capron Shoal Buoy 10A	R N "10A"	N 27 26' 36.216"	W 080 13' 19.168"	27.44339	-80.22199	LNM 15/17, 7th Dist	421	4149_1	4/27/2017

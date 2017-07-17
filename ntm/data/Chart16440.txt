@@ -1,3 +1,0 @@
-Chart: 16440, Current Edition: 16, Print Date: Dec. /2015, Rat Islands Semisopochnoi Island to Buldir l.
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-16440	Relocate	NOAA ODAS Lighted Buoy 46071	Y ODAS "46071" Fl (4) Y 20s PA	N 51 07' 28.521"	E 179 00' 44.824"	51.12459	179.0125	LNM 30/16, 17th Dist	2480	16440_1	8/4/2016

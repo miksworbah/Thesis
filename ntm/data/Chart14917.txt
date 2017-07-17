@@ -1,9 +1,0 @@
-Chart: 14917, Current Edition: 25, Print Date: Sep. /2012, Menominee and Marinette Harbors
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-14917	Change	Menominee Entrance Lighted Buoy 1 AIS	G "1" Fl G 2.5s AIS	N 45 05' 55.949"	W 087 34' 33.985"	45.09887	-87.5761	LNM 50/16, 9th Dist	1441	14917_1	1/19/2017
-14917	Change	Menominee Entrance Lighted Buoy 2 AIS	R "2" Fl R 2.5s AIS	N 45 06' 00.248"	W 087 34' 40.785"	45.10007	-87.578	LNM 50/16, 9th Dist	1441	14917_1	1/19/2017
-14917	Change	Depth Legend - Menominee Harbor 	23 1/2 FT FOR MID-WIDTH OF 150-300 FT OCT 2014	N 45 05' 49.100"	W 087 35' 05.300"	45.09697	-87.58481	LNM 31/15, 9th Dist	1441	14917_1	4/9/2015
-14917	Change	Depth Legend - Menominee Harbor 	16 FT OCT 2014	N 45 06' 01.800"	W 087 37' 03.200"	45.1005	-87.61755	LNM 31/15, 9th Dist	1441	14917_1	4/9/2015
-14917	Substitute	Sounding in Feet	14	N 45 05' 46.700"	W 087 35' 55.040"	45.09631	-87.59863	LNM 31/15, 9th Dist	1441	14917_1	4/9/2015
-14917	Change	Depth Legend - Menominee River	10 FT OCT 2013	N 45 06' 04.500"	W 087 37' 21.000"	45.10125	-87.6225	LNM 16/14, 9th Dist	1441	14917_1	4/17/2014
-14917	Change	Depth Legend - Menominee River	16 1/2 FT OCT 2013	N 45 06' 01.800"	W 087 37' 03.200"	45.1005	-87.61755	LNM 16/14, 9th Dist	1441	14917_1	4/17/2014
