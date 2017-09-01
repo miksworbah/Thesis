@@ -14,7 +14,7 @@
 
 ## Table of Contents
 
-- [Blog](#blog)
+- [Blog](https://github.com/mrushin/Thesis/tree/master/blog)
 - [NTM](#ntm)
 - [Resume](#resume)
 - [Static](#static)
