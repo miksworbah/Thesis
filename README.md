@@ -1,6 +1,6 @@
 # Interoperability of Digital Geographic Information in the Domain of Maritime Navigation
 
-![Thesis]()
+![Abstract](https://www.michaelrrushin.com)
 
 ![badge]()
 ![badge]()
