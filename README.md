@@ -14,13 +14,18 @@
 
 ## Table of Contents
 
-- [Security](#security)
-- [Background](#background)
-- [Install](#install)
-- [Usage](#usage)
-- [API](#api)
-- [Contribute](#contribute)
-- [License](#license)
+- [Blog](#blog)
+- [NTM](#ntm)
+- [Resume](#resume)
+- [Static](#static)
+- [Templates](#templates)
+- [Thesis](#thesis)
+- [WFS](#wfs)
+- [.gitignore](#.gitignore)
+- [Procfile](#procfile)
+- [README.me](#readme.me)
+- [manage.py](#manage.py)
+- [requirements.txt](#requirements.txt)
 
 ## Security
 
