@@ -1,5 +1,5 @@
-# Thesis
-[![Interoperability of Digital Geographic Information in the Domain of Maritime Navigation](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/mrushin/Thesis)
+# Interoperability of Digital Geographic Information in the Domain of Maritime Navigation
+[(https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/mrushin/Thesis)
 
 > Abstract
 
