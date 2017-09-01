@@ -1,6 +1,6 @@
-# Title
+# Interoperability of Digital Geographic Information in the Domain of Maritime Navigation
 
-![banner]()
+![Thesis]()
 
 ![badge]()
 ![badge]()
