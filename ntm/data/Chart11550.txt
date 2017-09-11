@@ -1,9 +1,0 @@
-Chart: 11550, Current Edition: 32, Print Date: May. /2017, Ocracoke lnlet and Part of Core Sound
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-11550	Change	Core Sound Light 5	Fl G 2.5s 15ft 4M "5"	N 34 59' 21.097"	W 076 12' 22.310"	34.98919	-76.2062	LNM 30/17, 5th Dist	514	11550_1	8/3/2017
-11550	Delete	Core Sound Buoy 5	G C "5"	N 34 59' 17.458"	W 076 12' 20.886"	34.98818	-76.2058	LNM 30/17, 5th Dist	514	11550_1	8/3/2017
-11550	Relocate	Core Sound Buoy 5A	G C "5A"	N 34 59' 16.708"	W 076 12' 26.148"	34.98798	-76.20726	LNM 30/17, 5th Dist	514	11550_1	8/3/2017
-11550	Add	Core Sound Buoy 4A	R N "4A"	N 34 59' 17.403"	W 076 12' 26.619"	34.98817	-76.2074	LNM 30/17, 5th Dist	514	11550_1	8/3/2017
-11550	Relocate	Big Foot Slough Channel Buoy 11	G C "11"	N 35 09' 04.968"	W 076 00' 41.826"	35.15138	-76.01162	LNM 21/17, 5th Dist	514	11550_1	6/1/2017
-11550	Relocate	Big Foot Slough Channel Buoy 10B	R N "10B"	N 35 08' 59.051"	W 076 00' 37.297"	35.14973	-76.01036	LNM 21/17, 5th Dist	514	11550_1	6/1/2017
-11550	Delete	Big Foot Slough Channel Buoy 10C	R N "10C"	N 35 09' 01.147"	W 076 00' 38.759"	35.15032	-76.01077	LNM 21/17, 5th Dist	514	11550_1	6/1/2017

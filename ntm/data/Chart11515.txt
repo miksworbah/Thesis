@@ -1,2 +1,0 @@
-Chart: 11515, Current Edition: 19, Print Date: Jan. /2017, Savannah River Brier Creek to Augusta
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

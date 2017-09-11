@@ -1,4 +1,0 @@
-Chart: 11485, Current Edition: 38, Print Date: Jan. /2017, Intracoastal Waterway Tolomato River to Palm Shores
-Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-11485	Relocate	Ponce de Leon Inlet Buoy 8B	R N "8B"	N 29 04' 26.508"	W 080 55' 16.975"	29.07403	-80.92138	LNM 21/17, 7th Dist	280	11485_3	6/1/2017
-11485	Relocate	Tolomato River Lighted Buoy 60	R "60" Q R AIS	N 29 54' 29.100"	W 081 17' 51.830"	29.90808	-81.29773	LNM 20/17, 7th Dist	279	11485_1	6/1/2017
