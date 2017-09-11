@@ -1,0 +1,93 @@
+Chart: 11469, Current Edition: 9, Print Date: Jul. /2011, Straits of Florida Fowey Rocks, Hillsboro Inlet to Bimini Islands, Bahamas
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11469	Delete	Miami Anchorage Buoy A	Y N "A"	N 25 48' 20.702"	W 080 05' 42.532"	25.80575	-80.09515	LNM 33/17, 7th Dist	321	11469_1	Not Yet
+11469	Delete	Miami Anchorage Buoy B	Y N "B"	N 25 46' 22.686"	W 080 06' 09.240"	25.77297	-80.10257	LNM 33/17, 7th Dist	321	11469_1	Not Yet
+11469	Add	Anchorage Area A Point 1 of 4	Anchorage Area A 110.188 (see note A)	N 25 47' 57.687"	W 080 05' 37.225"	25.79936	-80.09367	LNM 31/17, 7th Dist	321	11469_1	8/24/2017
+11469	Add	Anchorage Area A Point 2 of 4	Anchorage Area A 110.188 (see note A)	N 25 47' 57.341"	W 080 05' 26.466"	25.79926	-80.09068	LNM 31/17, 7th Dist	321	11469_1	8/24/2017
+11469	Add	Anchorage Area A Point 3 of 4	Anchorage Area A 110.188 (see note A)	N 25 46' 31.443"	W 080 05' 27.069"	25.7754	-80.09085	LNM 31/17, 7th Dist	321	11469_1	8/24/2017
+11469	Add	Anchorage Area A Point 4 of 4	Anchorage Area A 110.188 (see note A)	N 25 46' 31.557"	W 080 05' 37.868"	25.77543	-80.09385	LNM 31/17, 7th Dist	321	11469_1	8/24/2017
+11469	Add	Anchorage Area B Point 1 of 4	Anchorage Area B 110.188 (see note A)	N 25 48' 13.841"	W 080 04' 59.155"	25.80384	-80.0831	LNM 31/17, 7th Dist	321	11469_1	8/24/2017
+11469	Add	Anchorage Area B Point 2 of 4	Anchorage Area B 110.188 (see note A)	N 25 48' 04.617"	W 080 04' 04.582"	25.80128	-80.06794	LNM 31/17, 7th Dist	321	11469_1	8/24/2017
+11469	Add	Anchorage Area B Point 3 of 4	Anchorage Area B 110.188 (see note A)	N 25 46' 32.712"	W 080 04' 28.387"	25.77575	-80.07455	LNM 31/17, 7th Dist	321	11469_1	8/24/2017
+11469	Add	Anchorage Area B Point 4 of 4	Anchorage Area B 110.188 (see note A)	N 25 46' 43.770"	W 080 05' 02.360"	25.77883	-80.08399	LNM 31/17, 7th Dist	321	11469_1	8/24/2017
+11469	Delete	Anchorage Area Point 1 of 4	Anchorage Area	N 25 48' 03.740"	W 080 04' 04.330"	25.80104	-80.06787	LNM 31/17, 7th Dist	321	11469_1	8/24/2017
+11469	Delete	Anchorage Area Point 2 of 4	Anchorage Area	N 25 48' 21.130"	W 080 05' 42.590"	25.80587	-80.09516	LNM 31/17, 7th Dist	321	11469_1	8/24/2017
+11469	Delete	Anchorage Area Point 3 of 4	Anchorage Area	N 25 46' 23.400"	W 080 06' 07.630"	25.77317	-80.10212	LNM 31/17, 7th Dist	321	11469_1	8/24/2017
+11469	Delete	Anchorage Area Point 4 of 4	Anchorage Area	N 25 46' 02.790"	W 080 04' 11.690"	25.76744	-80.06992	LNM 31/17, 7th Dist	321	11469_1	8/24/2017
+11469	Add	Channel Limits PT 1 OF 12	Chart No. 1: I20	N 26 05' 27.190"	W 080 06' 50.940"	26.09089	-80.11415	LNM 27/17, 7th Dist	321	11469_1	7/6/2017
+11469	Add	Channel Limits PT 2 OF 12	Chart No. 1: I20	N 26 05' 10.380"	W 080 06' 45.750"	26.08622	-80.11271	LNM 27/17, 7th Dist	321	11469_1	7/6/2017
+11469	Add	Channel Limits PT 3 OF 12	Chart No. 1: I20	N 26 04' 46.680"	W 080 06' 49.320"	26.07963	-80.1137	LNM 27/17, 7th Dist	321	11469_1	7/6/2017
+11469	Add	Channel Limits PT 4 OF 12	Chart No. 1: I20	N 26 03' 53.890"	W 080 06' 50.610"	26.06497	-80.11406	LNM 27/17, 7th Dist	321	11469_1	7/6/2017
+11469	Add	Channel Limits PT 5 OF 12	Chart No. 1: I20	N 26 03' 53.930"	W 080 06' 52.490"	26.06498	-80.11458	LNM 27/17, 7th Dist	321	11469_1	7/6/2017
+11469	Add	Channel Limits PT 6 OF 12	Chart No. 1: I20	N 26 03' 53.970"	W 080 06' 54.710"	26.06499	-80.1152	LNM 27/17, 7th Dist	321	11469_1	7/6/2017
+11469	Add	Channel Limits PT 7 OF 12	Chart No. 1: I20	N 26 04' 21.810"	W 080 06' 53.920"	26.07273	-80.11497	LNM 27/17, 7th Dist	321	11469_1	7/6/2017
+11469	Add	Channel Limits PT 8 OF 12	Chart No. 1: I20	N 26 04' 21.810"	W 080 06' 54.270"	26.07273	-80.11507	LNM 27/17, 7th Dist	321	11469_1	7/6/2017
+11469	Add	Channel Limits PT 9 OF 12	Chart No. 1: I20	N 26 04' 42.830"	W 080 06' 53.880"	26.07856	-80.11497	LNM 27/17, 7th Dist	321	11469_1	7/6/2017
+11469	Add	Channel Limits PT 10 OF 12	Chart No. 1: I20	N 26 04' 42.830"	W 080 06' 54.490"	26.07856	-80.11514	LNM 27/17, 7th Dist	321	11469_1	7/6/2017
+11469	Add	Channel Limits PT 11 OF 12	Chart No. 1: I20	N 26 05' 10.110"	W 080 06' 50.220"	26.08614	-80.11395	LNM 27/17, 7th Dist	321	11469_1	7/6/2017
+11469	Add	Channel Limits PT 12 OF 12	Chart No. 1: I20	N 26 05' 24.130"	W 080 06' 54.580"	26.09004	-80.11516	LNM 27/17, 7th Dist	321	11469_1	7/6/2017
+11469	Add	Channel Limits PT 1 OF 4	Chart No. 1: I20	N 26 04' 23.180"	W 080 06' 54.390"	26.0731	-80.1151	LNM 27/17, 7th Dist	321	11469_1	7/6/2017
+11469	Add	Channel Limits PT 2 OF 4	Chart No. 1: I20	N 26 04' 23.090"	W 080 07' 05.340"	26.07308	-80.11815	LNM 27/17, 7th Dist	321	11469_1	7/6/2017
+11469	Add	Channel Limits PT 3 OF 4	Chart No. 1: I20	N 26 04' 29.460"	W 080 07' 05.470"	26.07485	-80.11819	LNM 27/17, 7th Dist	321	11469_1	7/6/2017
+11469	Add	Channel Limits PT 4 OF 4	Chart No. 1: I20	N 26 04' 29.550"	W 080 06' 54.240"	26.07487	-80.11507	LNM 27/17, 7th Dist	321	11469_1	7/6/2017
+11469	Change	Depth Note - PORT EVERGLADES to:	The project depth is 42 to 45 feet. For controlling depths see chart 11470.	N 26 08' 34.000"	W 080 08' 32.000"	26.14278	-80.14222	LNM 27/17, 7th Dist	321	11469_1	7/6/2017
+11469	Add	Bent Light	Fl 4s 25ft Priv	N 25 45' 11.048"	W 080 06' 28.821"	25.75307	-80.10801	LNM 13/17, 7th Dist	321	11469_1	4/13/2017
+11469	Change	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn Fish Haven (auth min 6_4 fms), Chart No. 1 K46.2	N 25 59' 05.700"	W 080 05' 12.700"	25.98492	-80.08686	LNM 12/17, 7th Dist	321	11469_1	3/16/2017
+11469	Change	Miami Main Channel Lighted Buoy 10	R "10" Fl R 2.5s	N 25 45' 34.904"	W 080 07' 16.078"	25.7597	-80.12113	LNM 04/17, 7th Dist	321	11469_1	2/2/2017
+11469	Change	Miami Main Channel Lighted Buoy 12	R "12" Q R	N 25 45' 39.563"	W 080 07' 28.837"	25.76099	-80.12468	LNM 04/17, 7th Dist	321	11469_1	2/2/2017
+11469	Change	Miami Main Channel Lighted Buoy 8	R "8" Q R	N 25 45' 30.958"	W 080 06' 58.262"	25.7586	-80.11618	LNM 04/17, 7th Dist	321	11469_1	2/2/2017
+11469	Change	Depth Note - Miami Harbor Channel, FL to:	MIAMI HARBOR CHANNEL The project depths are 34 to 52 feet. Use chart 11468 for controlling depths.	N 25 49' 43.000"	W 080 08' 51.000"	25.82861	-80.1475	LNM 41/16, 7th Dist	321	11469_1	10/6/2016
+11469	Change	Biscayne Channel Light 1	Fl G 2.5s 16ft 5M "1"	N 25 38' 41.299"	W 080 08' 02.328"	25.64481	-80.13398	LNM 36/16, 7th Dist	321	11469_1	9/15/2016
+11469	Change	Biscayne Channel Light 6	Fl R 4s 12ft 5M "6"	N 25 39' 13.931"	W 080 08' 58.642"	25.65387	-80.14962	LNM 31/16, 7th Dist	321	11469_1	8/11/2016
+11469	Change	Fowey Rocks Light	Fl 10s 110ft 7M RACON (___)	N 25 35' 26.249"	W 080 05' 48.242"	25.59062	-80.09673	LNM 10/16, 7th Dist	321	11469_1	3/17/2016
+11469	Delete	Biscayne National Park North Lighted Buoy N	Y "N" Fl Y 2.5s	N 25 38' 44.473"	W 080 05' 22.160"	25.64569	-80.08949	LNM 06/16, 7th Dist	321	11469_1	2/18/2016
+11469	Relocate	Government Cut Range Front Light	Fl G 2.5s 25ft (Night), Fl 2.5s 25ft (Day), Fl 2.5s 25ft	N 25 45' 14.860"	W 080 06' 37.760"	25.75413	-80.11049	LNM 02/16, 7th Dist	321	11469_1	1/21/2016
+11469	Relocate	Government Cut Range Rear Light	Iso G 6s 50ft (Night), Iso 6s 50ft (Day)	N 25 44' 58.190"	W 080 05' 57.880"	25.7495	-80.09941	LNM 02/16, 7th Dist	321	11469_1	1/21/2016
+11469	Relocate	Government Cut Range Rear Passing Light	Fl 2.5s 5M	N 25 44' 58.190"	W 080 05' 57.880"	25.7495	-80.09941	LNM 02/16, 7th Dist	321	11469_1	1/21/2016
+11469	Relocate	Miami Main Channel Entrance Range Front Light	Q 25ft, Q 25ft	N 25 45' 13.220"	W 080 07' 17.810"	25.75367	-80.12161	LNM 02/16, 7th Dist	321	11469_1	1/21/2016
+11469	Relocate	Miami Main Channel Entrance Range Rear Light	Iso 6s 49ft	N 25 45' 06.550"	W 080 07' 37.820"	25.75182	-80.12717	LNM 02/16, 7th Dist	321	11469_1	1/21/2016
+11469	Relocate	Miami Main Channel Entrance Range Rear Passing Light	Fl 4s 5M	N 25 45' 06.550"	W 080 07' 37.820"	25.75182	-80.12717	LNM 02/16, 7th Dist	321	11469_1	1/21/2016
+11469	Delete	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 25 42' 49.680"	W 080 05' 12.010"	25.7138	-80.08667	LNM 40/15, 7th Dist	321	11469_1	10/8/2015
+11469	Delete	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 25 42' 49.490"	W 080 04' 11.730"	25.71375	-80.06992	LNM 40/15, 7th Dist	321	11469_1	10/8/2015
+11469	Delete	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 25 41' 20.690"	W 080 04' 11.430"	25.68908	-80.06984	LNM 40/15, 7th Dist	321	11469_1	10/8/2015
+11469	Delete	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 25 41' 20.500"	W 080 05' 12.200"	25.68903	-80.08672	LNM 40/15, 7th Dist	321	11469_1	10/8/2015
+11469	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 25 42' 48.000"	W 080 05' 12.060"	25.71333	-80.08669	LNM 40/15, 7th Dist	321	11469_1	10/8/2015
+11469	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 25 42' 47.940"	W 080 04' 11.940"	25.71332	-80.06998	LNM 40/15, 7th Dist	321	11469_1	10/8/2015
+11469	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 25 41' 18.960"	W 080 04' 12.000"	25.6886	-80.07	LNM 40/15, 7th Dist	321	11469_1	10/8/2015
+11469	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 25 41' 18.960"	W 080 05' 12.240"	25.6886	-80.08673	LNM 40/15, 7th Dist	321	11469_1	10/8/2015
+11469	Delete	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 25 42' 49.670"	W 080 05' 28.340"	25.7138	-80.0912	LNM 40/15, 7th Dist	321	11469_1	10/8/2015
+11469	Delete	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 25 42' 49.680"	W 080 05' 12.010"	25.7138	-80.08667	LNM 40/15, 7th Dist	321	11469_1	10/8/2015
+11469	Delete	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 25 41' 20.500"	W 080 05' 12.200"	25.68903	-80.08672	LNM 40/15, 7th Dist	321	11469_1	10/8/2015
+11469	Delete	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 25 41' 20.520"	W 080 05' 28.580"	25.68903	-80.09127	LNM 40/15, 7th Dist	321	11469_1	10/8/2015
+11469	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 25 42' 48.000"	W 080 05' 30.960"	25.71333	-80.09193	LNM 40/15, 7th Dist	321	11469_1	10/8/2015
+11469	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 25 42' 48.000"	W 080 05' 12.060"	25.71333	-80.08669	LNM 40/15, 7th Dist	321	11469_1	10/8/2015
+11469	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 25 41' 18.960"	W 080 05' 12.240"	25.6886	-80.08673	LNM 40/15, 7th Dist	321	11469_1	10/8/2015
+11469	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 25 41' 18.960"	W 080 05' 30.960"	25.6886	-80.09193	LNM 40/15, 7th Dist	321	11469_1	10/8/2015
+11469	Change	Government Cut Range Front Light	Fl G 2.5s 25ft (Night) Fl 2.5s 25ft (Day) Fl 2.5s 25ft	N 25 45' 11.048"	W 080 06' 28.821"	25.75307	-80.10801	LNM 18/15, 7th Dist	321	11469_1	5/14/2015
+11469	Change	Government Cut Range Rear Light	Iso G 6s 50ft (Night) Iso 6s 50ft (Day)	N 25 45' 01.289"	W 080 06' 05.360"	25.75036	-80.10149	LNM 18/15, 7th Dist	321	11469_1	5/14/2015
+11469	Change	Miami Main Channel Entrance Range Front Light	Q 25ft Q 25ft	N 25 45' 06.159"	W 080 07' 38.683"	25.75171	-80.12741	LNM 18/15, 7th Dist	321	11469_1	5/14/2015
+11469	Change	Miami Main Channel Entrance Range Rear Light	Iso 6s 49ft	N 25 44' 59.259"	W 080 07' 59.244"	25.74979	-80.13313	LNM 18/15, 7th Dist	321	11469_1	5/14/2015
+11469	Add	Government Cut Range Rear Passing Light	Fl 2.5s 5M	N 25 45' 01.289"	W 080 06' 05.360"	25.75036	-80.10149	LNM 18/15, 7th Dist	321	11469_1	5/14/2015
+11469	Add	Miami Main Channel Entrance Range Rear Passing Light	Fl 4s 5M	N 25 44' 59.259"	W 080 07' 59.244"	25.74979	-80.13313	LNM 18/15, 7th Dist	321	11469_1	5/14/2015
+11469	Relocate	Government Cut Range Front Light	Fl G 2.5s 25ft (Night) Fl 2.5s 25ft (Day) Fl 2.5s 25ft	N 25 45' 11.048"	W 080 06' 28.821"	25.75307	-80.10801	LNM 18/15, 7th Dist	321	11469_1	5/14/2015
+11469	Relocate	Government Cut Range Rear Light	Iso G 6s 50ft (Night) Iso 6s 50ft (Day)	N 25 45' 01.289"	W 080 06' 05.360"	25.75036	-80.10149	LNM 18/15, 7th Dist	321	11469_1	5/14/2015
+11469	Relocate	Miami Main Channel Entrance Range Front Light	Q 25ft Q 25ft	N 25 45' 06.159"	W 080 07' 38.683"	25.75171	-80.12741	LNM 18/15, 7th Dist	321	11469_1	5/14/2015
+11469	Relocate	Miami Main Channel Entrance Range Rear Light	Iso 6s 49ft	N 25 44' 59.259"	W 080 07' 59.244"	25.74979	-80.13313	LNM 18/15, 7th Dist	321	11469_1	5/14/2015
+11469	Add	Miami Lighted Buoy M Magenta Circle	RW "M" Mo (A) RACON (--) AIS	N 25 46' 05.916"	W 080 04' 59.936"	25.76831	-80.08331	LNM 08/15, 7th Dist	321	11469_1	3/5/2015
+11469	Add	Port Everglades Lighted Buoy PE Magenta Circle	RW "PE" Mo (A) RACON (-) AIS	N 26 05' 30.288"	W 080 04' 45.871"	26.09175	-80.07941	LNM 08/15, 7th Dist	321	11469_1	3/5/2015
+11469	Add	Miami Main Channel Lighted Buoy 4 Magenta Circle	R "4" Q R AIS	N 25 45' 33.944"	W 080 06' 23.240"	25.75943	-80.10645	LNM 08/15, 7th Dist	321	11469_1	3/5/2015
+11469	Add	Port Everglades Entrance Range Front Light Magenta Circle	F G 85ft AIS	N 26 05' 36.709"	W 080 07' 26.371"	26.09353	-80.12399	LNM 08/15, 7th Dist	321	11469_1	3/5/2015
+11469	Add	Port Everglades Entrance Range Rear Light Magenta Circle	RWG 133ft (Directional) (see note) AIS	N 26 05' 36.501"	W 080 07' 56.793"	26.09347	-80.13245	LNM 08/15, 7th Dist	321	11469_1	3/5/2015
+11469	Delete	Biscayne Channel Light	Fl 4s 37ft 6M	N 25 38' 20.373"	W 080 07' 52.645"	25.63899	-80.13129	LNM 32/14, 7th Dist	321	11469_1	8/21/2014
+11469	Change	Dotted Fish Haven Label	Obstns Fish Haven (auth min 1 fm)	N 26 11' 11.700"	W 080 05' 33.800"	26.18658	-80.09272	LNM 30/14, 7th Dist	321	11469_1	7/31/2014
+11469	Delete	Sounding in Fathoms & Feet	1 fm 4 ft	N 26 11' 16.000"	W 080 05' 37.800"	26.18778	-80.09383	LNM 30/14, 7th Dist	321	11469_1	7/31/2014
+11469	Relocate	Miami Main Channel Lighted Buoy 4	R "4" Q R	N 25 45' 33.944"	W 080 06' 23.240"	25.75943	-80.10645	LNM 26/14, 7th Dist	321	11469_1	7/17/2014
+11469	Relocate	Miami Main Channel Lighted Buoy 7	G "7" Q G	N 25 45' 18.790"	W 080 06' 53.005"	25.75522	-80.11472	LNM 26/14, 7th Dist	321	11469_1	7/17/2014
+11469	Relocate	Miami Main Channel Lighted Buoy 9	G "9" Fl G 2.5s	N 25 45' 26.795"	W 080 07' 12.017"	25.75744	-80.12	LNM 26/14, 7th Dist	321	11469_1	7/17/2014
+11469	Relocate	Hillsboro Inlet Entrance Light 1	Fl G 4s 16ft 5M "1"	N 26 15' 16.986"	W 080 04' 46.918"	26.25472	-80.0797	LNM 11/13, 7th Dist	321	11469_1	4/2/2013
+11469	Delete	Dotted Fish Haven	Chart No. 1: K46.2	N 26 06' 50.000"	W 080 04' 16.000"	26.11389	-80.07111	LNM 09/13, 7th Dist	321	11469_1	2/21/2013
+11469	Change	Hillsboro Inlet Entrance Light 4	Fl R 4s 16ft 5M "4"	N 26 15' 25.012"	W 080 04' 48.760"	26.25695	-80.08021	LNM 45/12, 7th Dist	321	11469_1	12/12/2012
+11469	Relocate	Miami Main Channel Lighted Buoy 9	G "9" Fl G 2.5s	N 25 45' 26.795"	W 080 07' 12.017"	25.75744	-80.12	LNM 03/12, 7th Dist	321	11469_1	1/30/2012
+11469	Change	Hillsboro Inlet Entrance Light 1	Fl G 4s 16ft 5M "1"	N 26 15' 17.167"	W 080 04' 45.724"	26.25477	-80.07937	LNM 38/11, 7th Dist	321	11469_1	10/7/2011
+11469	Change	Hillsboro Inlet Entrance Light 2	Fl R 2.5s 16ft 5M "2"	N 26 15' 23.005"	W 080 04' 43.942"	26.25639	-80.07887	LNM 38/11, 7th Dist	321	11469_1	10/7/2011
+11469	Change	Biscayne Channel Light 3	Fl G 4s 12ft 5M "3"	N 25 39' 04.061"	W 080 08' 39.882"	25.65113	-80.14441	LNM 31/11, 7th Dist	321	11469_1	8/17/2011

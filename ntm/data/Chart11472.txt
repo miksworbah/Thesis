@@ -1,0 +1,303 @@
+Chart: 11472, Current Edition: 36, Print Date: Feb. /2014, Intracoastal Waterway Palm Shores to West Palm Beach;Loxahatchee River
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11472	Delete	Sewalls Point Channel Daybeacon 2	R "2" Priv PA	N 27 10' 18.900"	W 080 11' 19.320"	27.17192	-80.1887	LNM 35/17, 7th Dist	2931	11472_3	Not Yet
+11472	Delete	Sewalls Point Channel Daybeacon 3	G "3" PA Priv	N 27 10' 15.000"	W 080 11' 31.350"	27.17083	-80.19204	LNM 35/17, 7th Dist	2931	11472_3	Not Yet
+11472	Delete	Sewalls Point Channel Daybeacon 4	R "4" Priv PA	N 27 10' 18.960"	W 080 11' 22.480"	27.17193	-80.18958	LNM 35/17, 7th Dist	2931	11472_3	Not Yet
+11472	Change	Depth Legend - Lake Worth Inlet Southern Turning Basin to:	30 1/2 FT FEB 2017	N 26 46' 06.000"	W 080 02' 55.000"	26.76833	-80.04861	LNM 35/17, 7th Dist	298	11472_7	8/24/2017
+11472	Change	Depth Legend - Lake Worth Inlet Entrance Channel to:	32 1/2 FT FEB 2017	N 26 46' 20.000"	W 080 01' 53.000"	26.77222	-80.03139	LNM 35/17, 7th Dist	298	11472_7	8/24/2017
+11472	Change	Depth Legend - Lake Warth Inlet Inner Channel to:	33 FT FEB 2017	N 26 46' 15.000"	W 080 02' 31.000"	26.77083	-80.04195	LNM 35/17, 7th Dist	298	11472_7	8/24/2017
+11472	Delete	Manatee Pocket Channel Daybeacon 19	G "19" Priv	N 27 08' 56.400"	W 080 11' 37.680"	27.149	-80.1938	LNM 31/17, 7th Dist	2931	11472_3	8/24/2017
+11472	Change	Depth Legend - Turning Basin, Fort Pierce Harbor to:	16 FT NOV 2016	N 27 27' 38.000"	W 080 19' 15.000"	27.46056	-80.32083	LNM 32/17, 7th Dist	293	11472_2	8/3/2017
+11472	Delete	Sounding in Feet	17	N 27 27' 37.970"	W 080 19' 08.260"	27.46055	-80.31896	LNM 32/17, 7th Dist	293	11472_2	8/3/2017
+11472	Delete	Obstruction in Feet	5 Obstn       Chart No. 1: K41	N 27 27' 34.650"	W 080 19' 09.310"	27.45963	-80.31925	LNM 32/17, 7th Dist	293	11472_2	8/3/2017
+11472	Delete	Sounding in Feet	14	N 27 27' 30.120"	W 080 19' 13.120"	27.45837	-80.32031	LNM 32/17, 7th Dist	293	11472_2	8/3/2017
+11472	Delete	Sounding in Feet	11	N 27 27' 33.540"	W 080 19' 10.510"	27.45932	-80.31959	LNM 32/17, 7th Dist	293	11472_2	8/3/2017
+11472	Change	Depth Legend - Entrance Range, Fort Pierce Harbor, FL to:	22 FT NOV 2016	N 27 28' 19.300"	W 080 17' 14.200"	27.47203	-80.28728	LNM 32/17, 7th Dist	293	11472_2	8/3/2017
+11472	Change	Depth Legend - Entrance Range, Fort Pierce Harbor, FL to:	22 FT NOV 2016	N 27 28' 19.300"	W 080 17' 14.200"	27.47203	-80.28728	LNM 32/17, 7th Dist	292	11472_4	8/3/2017
+11472	Change	Depth Legend - Inner Range, Fort Pierce Harbor, FL to:	20 1/2 FT NOV 2016	N 27 27' 59.700"	W 080 18' 25.400"	27.46658	-80.30705	LNM 32/17, 7th Dist	293	11472_2	8/3/2017
+11472	Delete	Banana River Daybeacon 4	R "4"	N 28 10' 39.426"	W 080 37' 04.764"	28.17762	-80.61799	LNM 25/17, 7th Dist	291	11472_1	6/29/2017
+11472	Add	Banana River Buoy 4	R N "4"	N 28 10' 39.422"	W 080 37' 04.824"	28.17762	-80.618	LNM 25/17, 7th Dist	291	11472_1	6/29/2017
+11472	Relocate	Banana River Daybeacon 1	G "1"	N 28 08' 30.750"	W 080 36' 12.888"	28.14187	-80.60358	LNM 11/17, 7th Dist	291	11472_1	3/16/2017
+11472	Change	Depth Legend - Lake Worth Inlet Southern Turning Basin to:	31 1/2 FT JUL 2016	N 26 46' 06.000"	W 080 02' 55.000"	26.76833	-80.04861	LNM 12/17, 7th Dist	298	11472_7	3/16/2017
+11472	Change	Depth Legend - Lake Worth Inlet Entrance Channel to:	35 FT JUL 2016	N 26 46' 20.000"	W 080 01' 53.000"	26.77222	-80.03139	LNM 12/17, 7th Dist	298	11472_7	3/16/2017
+11472	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 26 47' 53.000"	W 080 02' 48.000"	26.79806	-80.04667	LNM 12/17, 7th Dist	295	11472_9	3/16/2017
+11472	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 26 47' 16.000"	W 080 02' 43.000"	26.78778	-80.04528	LNM 12/17, 7th Dist	295	11472_9	3/16/2017
+11472	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 26 47' 53.000"	W 080 02' 38.000"	26.79806	-80.04389	LNM 12/17, 7th Dist	295	11472_9	3/16/2017
+11472	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 26 47' 16.000"	W 080 02' 36.000"	26.78778	-80.04333	LNM 12/17, 7th Dist	295	11472_9	3/16/2017
+11472	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 6 ft)	N 26 47' 33.700"	W 080 02' 41.300"	26.79269	-80.04481	LNM 12/17, 7th Dist	295	11472_9	3/16/2017
+11472	Delete	Sounding in Feet	6	N 26 47' 23.700"	W 080 02' 36.600"	26.78992	-80.0435	LNM 12/17, 7th Dist	295	11472_9	3/16/2017
+11472	Relocate	Lake Worth North Daybeacon 43	G "43"	N 26 46' 19.841"	W 080 02' 58.395"	26.77218	-80.04955	LNM 06/17, 7th Dist	298	11472_7	2/23/2017
+11472	Change	St Lucie River Light 13A	Fl G 4s 16ft 5M "13A"	N 27 10' 29.605"	W 080 11' 50.579"	27.17489	-80.19738	LNM 05/17, 7th Dist	2931	11472_3	2/9/2017
+11472	Change	St Lucie River Light 14	Fl R 4s 14ft 5M "14"	N 27 10' 34.742"	W 080 11' 46.593"	27.17632	-80.19627	LNM 05/17, 7th Dist	2931	11472_3	2/9/2017
+11472	Change	St Lucie River Light 15	Fl G 4s 14ft 5M "15"	N 27 10' 48.555"	W 080 11' 44.859"	27.18015	-80.19579	LNM 05/17, 7th Dist	2931	11472_3	2/9/2017
+11472	Change	St Lucie River Light 7	Fl G 4s 16ft 5M "7"	N 27 09' 54.329"	W 080 11' 29.640"	27.16509	-80.19157	LNM 05/17, 7th Dist	2931	11472_3	2/9/2017
+11472	Change	Indian River (South Section) Light 76	Fl R 4s 12ft 5M "76"	N 27 46' 11.443"	W 080 25' 47.039"	27.76985	-80.42973	LNM 05/17, 7th Dist	291	11472_1	2/9/2017
+11472	Change	Indian River (South Section) Light 76	Fl R 4s 12ft 5M "76"	N 27 46' 11.443"	W 080 25' 47.039"	27.76985	-80.42973	LNM 05/17, 7th Dist	292	11472_4	2/9/2017
+11472	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 26 46' 58.890"	W 080 02' 27.170"	26.78303	-80.04088	LNM 05/17, 7th Dist	298	11472_7	2/2/2017
+11472	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 2 ft)	N 26 46' 57.800"	W 080 02' 31.600"	26.78272	-80.04211	LNM 05/17, 7th Dist	298	11472_7	2/2/2017
+11472	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 26 46' 58.890"	W 080 02' 36.270"	26.78303	-80.04341	LNM 05/17, 7th Dist	298	11472_7	2/2/2017
+11472	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 26 46' 56.670"	W 080 02' 27.170"	26.78241	-80.04088	LNM 05/17, 7th Dist	298	11472_7	2/2/2017
+11472	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 26 46' 56.670"	W 080 02' 36.270"	26.78241	-80.04341	LNM 05/17, 7th Dist	298	11472_7	2/2/2017
+11472	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 6 ft)	N 26 45' 00.000"	W 080 02' 36.000"	26.75	-80.04333	LNM 05/17, 7th Dist	298	11472_7	2/2/2017
+11472	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 6 ft)	N 26 45' 00.000"	W 080 02' 36.000"	26.75	-80.04333	LNM 05/17, 7th Dist	299	11472_8	2/2/2017
+11472	Delete	Sounding in Feet	20	N 26 45' 01.500"	W 080 02' 34.000"	26.75042	-80.04278	LNM 05/17, 7th Dist	298	11472_7	2/2/2017
+11472	Delete	Sounding in Feet	20	N 26 45' 01.500"	W 080 02' 34.000"	26.75042	-80.04278	LNM 05/17, 7th Dist	299	11472_8	2/2/2017
+11472	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 26 45' 04.000"	W 080 02' 39.000"	26.75111	-80.04417	LNM 05/17, 7th Dist	298	11472_7	2/2/2017
+11472	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 26 45' 04.000"	W 080 02' 39.000"	26.75111	-80.04417	LNM 05/17, 7th Dist	299	11472_8	2/2/2017
+11472	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 26 44' 56.000"	W 080 02' 39.000"	26.74889	-80.04417	LNM 05/17, 7th Dist	298	11472_7	2/2/2017
+11472	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 26 44' 56.000"	W 080 02' 39.000"	26.74889	-80.04417	LNM 05/17, 7th Dist	299	11472_8	2/2/2017
+11472	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 26 44' 56.000"	W 080 02' 33.000"	26.74889	-80.0425	LNM 05/17, 7th Dist	298	11472_7	2/2/2017
+11472	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 26 44' 56.000"	W 080 02' 33.000"	26.74889	-80.0425	LNM 05/17, 7th Dist	299	11472_8	2/2/2017
+11472	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 26 45' 04.000"	W 080 02' 33.000"	26.75111	-80.0425	LNM 05/17, 7th Dist	298	11472_7	2/2/2017
+11472	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 26 45' 04.000"	W 080 02' 33.000"	26.75111	-80.0425	LNM 05/17, 7th Dist	299	11472_8	2/2/2017
+11472	Change	Indian River (South Section) Light 229	Fl G 4s 12ft 5M "229"	N 27 11' 58.991"	W 080 11' 13.992"	27.19972	-80.18722	LNM 50/16, 7th Dist	294	11472_5	12/22/2016
+11472	Relocate	Melbourne Channel Light 7	Q G 12ft 4M	N 28 04' 32.131"	W 080 35' 57.282"	28.07559	-80.59924	LNM 50/16, 7th Dist	291	11472_1	12/22/2016
+11472	Relocate	Great Pocket Light 14	Fl R 4s 12ft 3M "14"	N 27 08' 28.419"	W 080 09' 44.180"	27.14123	-80.16227	LNM 49/16, 7th Dist	294	11472_5	12/15/2016
+11472	Relocate	Jupiter Inlet Buoy 2	R N "2"	N 26 56' 50.333"	W 080 04' 50.171"	26.94732	-80.0806	LNM 49/16, 7th Dist	295	11472_9	12/15/2016
+11472	Relocate	Jupiter Inlet Light 1	Fl G 4s 16ft 5M "1"	N 26 56' 45.480"	W 080 04' 47.564"	26.94597	-80.07988	LNM 49/16, 7th Dist	295	11472_9	12/15/2016
+11472	Change	Great Pocket Light 14	Fl R 4s 12ft 5M "14"	N 27 08' 28.419"	W 080 09' 44.180"	27.14123	-80.16227	LNM 49/16, 7th Dist	294	11472_5	12/15/2016
+11472	Delete	Sounding in Feet	87	N 26 52' 52.800"	W 080 01' 27.200"	26.88133	-80.02422	LNM 50/16, 7th Dist	295	11472_9	12/8/2016
+11472	Delete	Sounding in Feet	70	N 26 52' 51.500"	W 080 02' 11.300"	26.88097	-80.03647	LNM 50/16, 7th Dist	295	11472_9	12/8/2016
+11472	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 25 ft)	N 26 52' 35.890"	W 080 01' 47.600"	26.87664	-80.02989	LNM 50/16, 7th Dist	295	11472_9	12/8/2016
+11472	Delete	Sounding in Feet	79	N 26 52' 27.700"	W 080 01' 35.500"	26.87436	-80.02653	LNM 50/16, 7th Dist	295	11472_9	12/8/2016
+11472	Delete	Sounding in Feet	74	N 26 52' 37.300"	W 080 01' 56.400"	26.87703	-80.03233	LNM 50/16, 7th Dist	295	11472_9	12/8/2016
+11472	Delete	Sounding in Feet	77	N 26 52' 11.000"	W 080 01' 50.900"	26.86972	-80.03081	LNM 50/16, 7th Dist	295	11472_9	12/8/2016
+11472	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 26 53' 06.000"	W 080 01' 23.000"	26.885	-80.02306	LNM 50/16, 7th Dist	295	11472_9	12/8/2016
+11472	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 26 52' 06.000"	W 080 01' 23.000"	26.86833	-80.02306	LNM 50/16, 7th Dist	295	11472_9	12/8/2016
+11472	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 26 52' 06.000"	W 080 02' 12.000"	26.86833	-80.03667	LNM 50/16, 7th Dist	295	11472_9	12/8/2016
+11472	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 26 53' 06.000"	W 080 02' 12.000"	26.885	-80.03667	LNM 50/16, 7th Dist	295	11472_9	12/8/2016
+11472	Delete	Sounding in Feet	81	N 26 52' 54.200"	W 080 01' 46.200"	26.88172	-80.0295	LNM 50/16, 7th Dist	295	11472_9	12/8/2016
+11472	Change	Depth Legend - LAKE WORTH INLET SOUTHERN TURNING BASIN to:	27 SEP 2015	N 26 46' 06.000"	W 080 02' 55.000"	26.76833	-80.04861	LNM 43/16, 7th Dist	298	11472_7	10/20/2016
+11472	Change	Depth Legend - LAKE WORTH INLET NORTHERN TURNING BASIN to:	19 FT SEP 2015	N 26 46' 14.000"	W 080 03' 00.000"	26.77056	-80.05	LNM 43/16, 7th Dist	298	11472_7	10/20/2016
+11472	Change	Depth Legend - LAKE WORTH INLET INNER CHANNEL to:	32 1/2 FT SEP 2015	N 26 46' 20.000"	W 080 01' 53.000"	26.77222	-80.03139	LNM 43/16, 7th Dist	298	11472_7	10/20/2016
+11472	Change	Depth Legend - LAKE WORTH INLET ENTRANCE CHANNEL to:	33 1/2 FT SEP 2015	N 26 46' 15.000"	W 080 02' 31.000"	26.77083	-80.04195	LNM 43/16, 7th Dist	298	11472_7	10/20/2016
+11472	Relocate	St Lucie Inlet Light 4	Fl R 2.5s 16ft 5M "4"	N 27 10' 03.289"	W 080 08' 56.177"	27.16758	-80.14894	LNM 36/16, 7th Dist	294	11472_5	9/15/2016
+11472	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 50 ft)	N 26 40' 06.530"	W 080 00' 47.670"	26.66848	-80.01324	LNM 31/16, 7th Dist	296	11472_10	7/28/2016
+11472	Add	Dotted Fish Haven PT 2 OF 8	Chart No. 1: K46.2	N 26 41' 19.000"	W 080 01' 51.000"	26.68861	-80.03083	LNM 31/16, 7th Dist	296	11472_10	7/28/2016
+11472	Add	Dotted Fish Haven PT 3 OF 8	Chart No. 1: K46.2	N 26 41' 19.000"	W 080 01' 38.000"	26.68861	-80.02722	LNM 31/16, 7th Dist	296	11472_10	7/28/2016
+11472	Add	Dotted Fish Haven PT 4 OF 8	Chart No. 1: K46.2	N 26 40' 48.000"	W 080 01' 40.000"	26.68	-80.02778	LNM 31/16, 7th Dist	296	11472_10	7/28/2016
+11472	Add	Dotted Fish Haven PT 5 OF 8	Chart No. 1: K46.2	N 26 40' 48.000"	W 080 01' 13.000"	26.68	-80.02028	LNM 31/16, 7th Dist	296	11472_10	7/28/2016
+11472	Add	Dotted Fish Haven PT 6 OF 8	Chart No. 1: K46.2	N 26 40' 21.000"	W 080 01' 13.000"	26.6725	-80.02028	LNM 31/16, 7th Dist	296	11472_10	7/28/2016
+11472	Add	Dotted Fish Haven PT 7 OF 8	Chart No. 1: K46.2	N 26 40' 20.700"	W 080 00' 56.300"	26.67242	-80.01564	LNM 31/16, 7th Dist	296	11472_10	7/28/2016
+11472	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 26 40' 20.700"	W 080 00' 56.300"	26.67242	-80.01564	LNM 31/16, 7th Dist	296	11472_10	7/28/2016
+11472	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 26 40' 21.000"	W 080 00' 40.000"	26.6725	-80.01111	LNM 31/16, 7th Dist	296	11472_10	7/28/2016
+11472	Delete	Obstruction in Feet PT 1 OF 4	Obstn (rep 17 ft)       Chart No. 1: K41	N 26 40' 53.220"	W 080 01' 48.530"	26.68145	-80.03014	LNM 31/16, 7th Dist	296	11472_10	7/28/2016
+11472	Delete	Obstruction in Feet PT 2 OF 4	Obstn (rep 17 ft)       Chart No. 1: K41	N 26 40' 48.630"	W 080 01' 49.570"	26.68018	-80.03043	LNM 31/16, 7th Dist	296	11472_10	7/28/2016
+11472	Delete	Obstruction in Feet PT 3 OF 4	Obstn (rep 17 ft)       Chart No. 1: K41	N 26 40' 48.790"	W 080 01' 51.960"	26.68022	-80.0311	LNM 31/16, 7th Dist	296	11472_10	7/28/2016
+11472	Delete	Obstruction in Feet PT 4 OF 4	Obstn (rep 17 ft)       Chart No. 1: K41	N 26 40' 53.180"	W 080 01' 50.210"	26.68144	-80.03062	LNM 31/16, 7th Dist	296	11472_10	7/28/2016
+11472	Delete	Dotted Fish Haven PT 1 OF 6	Chart No. 1: K46.2	N 26 40' 29.940"	W 080 01' 41.960"	26.67498	-80.02832	LNM 31/16, 7th Dist	296	11472_10	7/28/2016
+11472	Delete	Dotted Fish Haven PT 2 OF 6	Chart No. 1: K46.2	N 26 41' 19.030"	W 080 01' 42.270"	26.68862	-80.02841	LNM 31/16, 7th Dist	296	11472_10	7/28/2016
+11472	Delete	Dotted Fish Haven PT 3 OF 6	Chart No. 1: K46.2	N 26 41' 19.000"	W 080 01' 38.000"	26.68861	-80.02722	LNM 31/16, 7th Dist	296	11472_10	7/28/2016
+11472	Delete	Dotted Fish Haven PT 4 OF 6	Chart No. 1: K46.2	N 26 40' 48.000"	W 080 01' 40.000"	26.68	-80.02778	LNM 31/16, 7th Dist	296	11472_10	7/28/2016
+11472	Delete	Dotted Fish Haven PT 5 OF 6	Chart No. 1: K46.2	N 26 40' 47.740"	W 080 01' 36.000"	26.67993	-80.02666	LNM 31/16, 7th Dist	296	11472_10	7/28/2016
+11472	Delete	Dotted Fish Haven PT 6 OF 6	Chart No. 1: K46.2	N 26 40' 30.070"	W 080 01' 36.060"	26.67502	-80.02668	LNM 31/16, 7th Dist	296	11472_10	7/28/2016
+11472	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 10 ft)	N 26 40' 00.200"	W 080 01' 26.000"	26.66672	-80.02389	LNM 31/16, 7th Dist	296	11472_10	7/28/2016
+11472	Add	Dotted Fish Haven PT 1 OF 8	Chart No. 1: K46.2	N 26 40' 00.400"	W 080 01' 57.880"	26.66678	-80.03275	LNM 31/16, 7th Dist	296	11472_10	7/28/2016
+11472	Add	Dotted Fish Haven PT 8 OF 8	Chart No. 1: K46.2	N 26 39' 56.560"	W 080 00' 57.540"	26.66571	-80.01598	LNM 31/16, 7th Dist	296	11472_10	7/28/2016
+11472	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 26 39' 56.560"	W 080 00' 57.540"	26.66571	-80.01598	LNM 31/16, 7th Dist	296	11472_10	7/28/2016
+11472	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 26 39' 55.420"	W 080 00' 40.490"	26.66539	-80.01125	LNM 31/16, 7th Dist	296	11472_10	7/28/2016
+11472	Change	Lake Worth Creek Light 8	Fl R 4s 16ft 5M "8"	N 26 56' 42.321"	W 080 05' 24.147"	26.94509	-80.09004	LNM 25/16, 7th Dist	297	11472_6	6/30/2016
+11472	Change	Lake Worth Creek Light 8	Fl R 4s 16ft 5M "8"	N 26 56' 42.321"	W 080 05' 24.147"	26.94509	-80.09004	LNM 25/16, 7th Dist	295	11472_9	6/30/2016
+11472	Relocate	Indian River (South Section) Daybeacon 166	R "166"	N 27 33' 59.570"	W 080 21' 02.187"	27.56655	-80.35061	LNM 23/16, 7th Dist	292	11472_4	6/16/2016
+11472	Relocate	Indian River (South Section) Light 164	Fl R 4s 16ft 5M "164"	N 27 34' 09.527"	W 080 21' 07.848"	27.56931	-80.35218	LNM 23/16, 7th Dist	292	11472_4	6/16/2016
+11472	Relocate	Indian River (South Section) Light 192	Fl R 4s 16ft 5M "192"	N 27 25' 26.568"	W 080 18' 14.260"	27.42405	-80.30396	LNM 23/16, 7th Dist	292	11472_4	6/16/2016
+11472	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 26 41' 24.000"	W 080 02' 39.000"	26.69	-80.04417	LNM 25/16, 7th Dist	296	11472_10	6/16/2016
+11472	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 26 41' 08.000"	W 080 02' 39.000"	26.68556	-80.04417	LNM 25/16, 7th Dist	296	11472_10	6/16/2016
+11472	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 26 41' 08.000"	W 080 02' 45.000"	26.68556	-80.04583	LNM 25/16, 7th Dist	296	11472_10	6/16/2016
+11472	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 26 41' 24.000"	W 080 02' 45.000"	26.69	-80.04583	LNM 25/16, 7th Dist	296	11472_10	6/16/2016
+11472	Add	Dotted Fish Haven Label	Obstn Fish Haven	N 26 41' 16.000"	W 080 02' 42.000"	26.68778	-80.045	LNM 25/16, 7th Dist	296	11472_10	6/16/2016
+11472	Change	Lake Worth Inlet Light 12	Fl R 4s 12ft 5M "12"	N 26 46' 11.020"	W 080 02' 51.748"	26.76973	-80.04771	LNM 22/16, 7th Dist	298	11472_7	6/9/2016
+11472	Change	Lake Worth North Light 36	Fl R 4s 16ft 5M "36"	N 26 47' 12.750"	W 080 02' 45.900"	26.78687	-80.04608	LNM 22/16, 7th Dist	298	11472_7	6/9/2016
+11472	Change	Lake Worth North Light 36	Fl R 4s 16ft 5M "36"	N 26 47' 12.750"	W 080 02' 45.900"	26.78687	-80.04608	LNM 22/16, 7th Dist	295	11472_9	6/9/2016
+11472	Change	Singer Island Channel Light 5	Fl G 4s 16ft 5M "5"	N 26 46' 53.433"	W 080 02' 29.080"	26.78151	-80.04141	LNM 22/16, 7th Dist	298	11472_7	6/9/2016
+11472	Relocate	Lake Worth Inlet Light 12	Fl R 4s 12ft 5M "12"	N 26 46' 11.020"	W 080 02' 51.748"	26.76973	-80.04771	LNM 22/16, 7th Dist	298	11472_7	6/9/2016
+11472	Relocate	Indian River (South Section) Daybeacon 109	G "109"	N 27 43' 27.711"	W 080 23' 45.309"	27.72436	-80.39592	LNM 20/16, 7th Dist	292	11472_4	5/26/2016
+11472	Relocate	Indian River (South Section) Daybeacon 59	G "59"	N 27 51' 38.978"	W 080 28' 54.575"	27.86083	-80.48183	LNM 20/16, 7th Dist	291	11472_1	5/26/2016
+11472	Relocate	Indian River (South Section) Daybeacon 73	G "73"	N 27 47' 07.515"	W 080 26' 23.757"	27.78542	-80.43993	LNM 20/16, 7th Dist	291	11472_1	5/26/2016
+11472	Relocate	Indian River (South Section) Daybeacon 83	G "83"	N 27 45' 32.392"	W 080 24' 41.696"	27.759	-80.41158	LNM 20/16, 7th Dist	292	11472_4	5/26/2016
+11472	Relocate	Indian River (South Section) Daybeacon 34A	R "34A"	N 27 56' 13.819"	W 080 31' 27.332"	27.93717	-80.52426	LNM 19/16, 7th Dist	291	11472_1	5/19/2016
+11472	Relocate	Indian River (South Section) Light 53	Fl G 4s 12ft 5M "53"	N 27 53' 18.496"	W 080 29' 39.197"	27.88847	-80.49422	LNM 19/16, 7th Dist	291	11472_1	5/19/2016
+11472	Add	Shoaling reported	Shoaling rep to 4ft PA	N 27 27' 21.246"	W 080 19' 03.408"	27.4559	-80.31761	LNM 18/16, 7th Dist	293	11472_2	5/12/2016
+11472	Relocate	Hobe Sound Light 43	Fl G 4s 16ft 5M "43"	N 27 00' 28.812"	W 080 05' 42.618"	27.008	-80.09517	LNM 17/16, 7th Dist	294	11472_5	5/5/2016
+11472	Relocate	Indian River (South Section) Light 21	Fl G 4s 12ft 4M "21"	N 27 59' 28.290"	W 080 32' 23.585"	27.99119	-80.53989	LNM 17/16, 7th Dist	291	11472_1	5/5/2016
+11472	Relocate	South Jupiter Narrows Daybeacon 28	R "28"	N 27 04' 59.883"	W 080 07' 49.275"	27.0833	-80.13036	LNM 17/16, 7th Dist	294	11472_5	5/5/2016
+11472	Change	St Lucie River Light 13	Fl G 4s 16ft 5M "13"	N 27 10' 18.184"	W 080 11' 47.593"	27.17172	-80.19656	LNM 11/16, 7th Dist	2931	11472_3	3/24/2016
+11472	Change	Lake Worth Inlet Light 11	Fl G 4s 16ft 5M "11"	N 26 46' 07.674"	W 080 02' 40.216"	26.7688	-80.0445	LNM 04/16, 7th Dist	298	11472_7	1/28/2016
+11472	Add	Note - SEDIMENT TRAPS to:	Sediment traps  are  designed   to  delay  shoaling of  the  navigable   portion  of   a  channel  by   trapping   advancing littoral  material.  Sediment traps may shoal at a rapid rate spilling over into the adjacent navigation channel, therefore, mariners should exercise caution when operating near them.     	N 26 51' 02.290"	W 080 02' 53.710"	26.85064	-80.04826	LNM 03/16, 7th Dist	295	11472_9	1/14/2016
+11472	Add	Channel Limits PT 1 OF 6	Settling Basin (see note)    Chart No. 1: I20	N 26 46' 22.560"	W 080 01' 51.740"	26.77293	-80.03104	LNM 03/16, 7th Dist	298	11472_7	1/14/2016
+11472	Add	Channel Limits PT 1 OF 6	Settling Basin (see note)    Chart No. 1: I20	N 26 46' 22.560"	W 080 01' 51.740"	26.77293	-80.03104	LNM 03/16, 7th Dist	295	11472_9	1/14/2016
+11472	Add	Channel Limits PT 2 OF 6	Settling Basin (see note)    Chart No. 1: I20	N 26 46' 23.050"	W 080 01' 51.700"	26.77307	-80.03103	LNM 03/16, 7th Dist	298	11472_7	1/14/2016
+11472	Add	Channel Limits PT 2 OF 6	Settling Basin (see note)    Chart No. 1: I20	N 26 46' 23.050"	W 080 01' 51.700"	26.77307	-80.03103	LNM 03/16, 7th Dist	295	11472_9	1/14/2016
+11472	Add	Channel Limits PT 3 OF 6	Settling Basin (see note)    Chart No. 1: I20	N 26 46' 22.960"	W 080 01' 48.340"	26.77304	-80.0301	LNM 03/16, 7th Dist	298	11472_7	1/14/2016
+11472	Add	Channel Limits PT 3 OF 6	Settling Basin (see note)    Chart No. 1: I20	N 26 46' 22.960"	W 080 01' 48.340"	26.77304	-80.0301	LNM 03/16, 7th Dist	295	11472_9	1/14/2016
+11472	Add	Channel Limits PT 4 OF 6	Settling Basin (see note)    Chart No. 1: I20	N 26 46' 30.430"	W 080 01' 48.160"	26.77512	-80.03004	LNM 03/16, 7th Dist	298	11472_7	1/14/2016
+11472	Add	Channel Limits PT 4 OF 6	Settling Basin (see note)    Chart No. 1: I20	N 26 46' 30.430"	W 080 01' 48.160"	26.77512	-80.03004	LNM 03/16, 7th Dist	295	11472_9	1/14/2016
+11472	Add	Channel Limits PT 5 OF 6	Settling Basin (see note)    Chart No. 1: I20	N 26 46' 30.270"	W 080 01' 42.090"	26.77508	-80.02836	LNM 03/16, 7th Dist	298	11472_7	1/14/2016
+11472	Add	Channel Limits PT 5 OF 6	Settling Basin (see note)    Chart No. 1: I20	N 26 46' 30.270"	W 080 01' 42.090"	26.77508	-80.02836	LNM 03/16, 7th Dist	295	11472_9	1/14/2016
+11472	Add	Channel Limits PT 6 OF 6	Settling Basin (see note)    Chart No. 1: I20	N 26 46' 22.330"	W 080 01' 42.370"	26.77287	-80.02843	LNM 03/16, 7th Dist	298	11472_7	1/14/2016
+11472	Add	Channel Limits PT 6 OF 6	Settling Basin (see note)    Chart No. 1: I20	N 26 46' 22.330"	W 080 01' 42.370"	26.77287	-80.02843	LNM 03/16, 7th Dist	295	11472_9	1/14/2016
+11472	Delete	Sounding in Feet	All soundings and depth curves inside the Settling Basin.	N 26 46' 26.670"	W 080 01' 45.390"	26.77407	-80.02927	LNM 03/16, 7th Dist	298	11472_7	1/14/2016
+11472	Delete	Sounding in Feet	All soundings and depth curves inside the Settling Basin.	N 26 46' 26.670"	W 080 01' 45.390"	26.77407	-80.02927	LNM 03/16, 7th Dist	295	11472_9	1/14/2016
+11472	Add	Note - SEDIMENT TRAPS to:	Sediment traps are designed to delay shoaling of the navigable portion of a channel by trapping advancing littoral material. Sediment traps may shoal at a rapid rate spilling over into the adjacent navigation channel, therefore, mariners should exercise caution when operating near them. 	N 26 46' 46.970"	W 080 02' 07.980"	26.77971	-80.03555	LNM 03/16, 7th Dist	298	11472_7	1/14/2016
+11472	Change	Depth Legend to: 32 FT JUN 2015	32 FT JUN 2015	N 26 46' 15.000"	W 080 02' 31.000"	26.77083	-80.04195	LNM 03/16, 7th Dist	298	11472_7	1/14/2016
+11472	Change	Depth Legend to: 33 FT JUN 2015	33 FT JUN 2015	N 26 46' 20.000"	W 080 01' 53.000"	26.77222	-80.03139	LNM 03/16, 7th Dist	298	11472_7	1/14/2016
+11472	Add	Obstruction in Feet	10 Obstn       Chart No. 1: K41	N 26 46' 12.918"	W 080 01' 59.928"	26.77025	-80.03331	LNM 03/16, 7th Dist	298	11472_7	1/14/2016
+11472	Change	Lake Worth North Light 27	Fl G 4s 12ft 5M "27"	N 26 49' 36.566"	W 080 03' 14.996"	26.82682	-80.05417	LNM 51/15, 7th Dist	295	11472_9	12/31/2015
+11472	Relocate	Jupiter Sound Daybeacon 57	G "57"	N 26 57' 53.322"	W 080 04' 51.858"	26.96481	-80.08107	LNM 47/15, 7th Dist	295	11472_9	11/26/2015
+11472	Change	Indian River (South Section) Light 28	Fl R 4s 16ft 5M "28"	N 27 57' 33.806"	W 080 31' 58.583"	27.95939	-80.53294	LNM 47/15, 7th Dist	291	11472_1	11/26/2015
+11472	Change	Indian River (South Section) Light 44	Fl R 4s 12ft 5M "44"	N 27 54' 45.370"	W 080 30' 52.961"	27.9126	-80.51471	LNM 47/15, 7th Dist	291	11472_1	11/26/2015
+11472	Change	Indian River (South Section) Light 51	Fl G 4s 16ft 5M "51"	N 27 53' 59.591"	W 080 30' 05.279"	27.89989	-80.50146	LNM 47/15, 7th Dist	291	11472_1	11/26/2015
+11472	Change	Indian River (South Section) Light 53	Fl G 4s 12ft 5M "53"	N 27 53' 18.339"	W 080 29' 39.051"	27.88843	-80.49418	LNM 47/15, 7th Dist	291	11472_1	11/26/2015
+11472	Change	Indian River (South Section) Light 60	Fl R 4s 12ft 5M "60"	N 27 51' 37.432"	W 080 28' 56.328"	27.8604	-80.48232	LNM 47/15, 7th Dist	291	11472_1	11/26/2015
+11472	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 6 ft)	N 27 22' 31.150"	W 080 14' 58.960"	27.37532	-80.24971	LNM 47/15, 7th Dist	294	11472_5	11/19/2015
+11472	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 27 22' 43.460"	W 080 15' 04.440"	27.37874	-80.25124	LNM 47/15, 7th Dist	294	11472_5	11/19/2015
+11472	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 27 22' 18.670"	W 080 14' 51.650"	27.37185	-80.24768	LNM 47/15, 7th Dist	294	11472_5	11/19/2015
+11472	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 27 22' 18.060"	W 080 14' 53.060"	27.37168	-80.24807	LNM 47/15, 7th Dist	294	11472_5	11/19/2015
+11472	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 27 22' 42.850"	W 080 15' 05.850"	27.37857	-80.25163	LNM 47/15, 7th Dist	294	11472_5	11/19/2015
+11472	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 27 19' 45.150"	W 080 13' 37.780"	27.32921	-80.22716	LNM 47/15, 7th Dist	294	11472_5	11/19/2015
+11472	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 27 19' 36.740"	W 080 13' 34.750"	27.32687	-80.22632	LNM 47/15, 7th Dist	294	11472_5	11/19/2015
+11472	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 27 19' 35.990"	W 080 13' 37.360"	27.32666	-80.22704	LNM 47/15, 7th Dist	294	11472_5	11/19/2015
+11472	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 27 19' 44.400"	W 080 13' 40.400"	27.329	-80.22789	LNM 47/15, 7th Dist	294	11472_5	11/19/2015
+11472	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 6 ft)	N 27 19' 40.660"	W 080 13' 37.570"	27.32796	-80.2271	LNM 47/15, 7th Dist	294	11472_5	11/19/2015
+11472	Change	Lake Worth Creek Light 11	Fl G 4s 16ft 5M "11"	N 26 56' 27.617"	W 080 05' 10.738"	26.941	-80.08632	LNM 44/15, 7th Dist	297	11472_6	11/12/2015
+11472	Change	Lake Worth Creek Light 11	Fl G 4s 16ft 5M "11"	N 26 56' 27.617"	W 080 05' 10.738"	26.941	-80.08632	LNM 44/15, 7th Dist	295	11472_9	11/12/2015
+11472	Change	Indian River (South Section) Light 223	Fl G 4s 16ft 5M "223"	N 27 13' 49.135"	W 080 12' 18.369"	27.23032	-80.2051	LNM 42/15, 7th Dist	294	11472_5	10/29/2015
+11472	Change	Indian River (South Section) Light 231	Fl G 4s 12ft 5M "231"	N 27 11' 27.292"	W 080 11' 05.340"	27.19091	-80.18481	LNM 42/15, 7th Dist	2931	11472_3	10/29/2015
+11472	Change	Indian River (South Section) Light 233	Fl G 4s 12ft 5M "233"	N 27 11' 00.541"	W 080 11' 02.223"	27.18348	-80.18395	LNM 42/15, 7th Dist	2931	11472_3	10/29/2015
+11472	Change	Indian River (South Section) Light 236	Q R 16ft 4M "236"	N 27 10' 37.060"	W 080 11' 06.295"	27.17696	-80.18508	LNM 42/15, 7th Dist	2931	11472_3	10/29/2015
+11472	Change	Indian River (South Section) Light 79	Fl G 4s 16ft 5M "79"	N 27 45' 54.521"	W 080 25' 11.559"	27.76514	-80.41988	LNM 41/15, 7th Dist	292	11472_4	10/22/2015
+11472	Change	Indian River (South Section) Light 89	Fl G 4s 16ft 5M "89"	N 27 45' 19.223"	W 080 24' 08.228"	27.75534	-80.40228	LNM 41/15, 7th Dist	292	11472_4	10/22/2015
+11472	Change	Indian River (South Section) Light 96	Fl R 4s 16ft 5M "96"	N 27 44' 36.317"	W 080 24' 01.322"	27.74342	-80.40037	LNM 41/15, 7th Dist	292	11472_4	10/22/2015
+11472	Change	Indian River (South Section) Light 99	Fl G 4s 16ft 5M "99"	N 27 44' 25.533"	W 080 23' 49.213"	27.74043	-80.397	LNM 41/15, 7th Dist	292	11472_4	10/22/2015
+11472	Change	Lake Park Marina Light 3	Fl G 2.5s 16ft 5M "3"	N 26 47' 34.898"	W 080 02' 59.545"	26.79303	-80.04987	LNM 41/15, 7th Dist	295	11472_9	10/22/2015
+11472	Change	Vero Beach Channel Light 2	Fl R 4s 16ft 5M "2"	N 27 39' 13.856"	W 080 22' 19.444"	27.65385	-80.37207	LNM 41/15, 7th Dist	292	11472_4	10/22/2015
+11472	Change	Lake Park Marina Light 12	Fl R 2.5s 16ft 5M "12"	N 26 47' 22.371"	W 080 03' 00.666"	26.78955	-80.05019	LNM 40/15, 7th Dist	295	11472_9	10/15/2015
+11472	Change	Indian River (South Section) Light 14	Fl R 4s 12ft 5M "14"	N 28 02' 19.296"	W 080 34' 03.870"	28.03869	-80.56774	LNM 39/15, 7th Dist	291	11472_1	10/8/2015
+11472	Change	Indian River (South Section) Light 105	Fl G 4s 12ft 5M "105"	N 27 44' 00.417"	W 080 23' 39.255"	27.73345	-80.39423	LNM 38/15, 7th Dist	292	11472_4	9/24/2015
+11472	Change	Indian River (South Section) Light 112	Fl R 4s 16ft 5M "112"	N 27 43' 03.006"	W 080 23' 45.383"	27.7175	-80.39594	LNM 38/15, 7th Dist	292	11472_4	9/24/2015
+11472	Change	Indian River (South Section) Light 118	Fl R 4s 16ft 5M "118"	N 27 42' 20.605"	W 080 23' 33.081"	27.70572	-80.39252	LNM 38/15, 7th Dist	292	11472_4	9/24/2015
+11472	Change	Indian River (South Section) Light 134	Fl R 4s 16ft 5M "134"	N 27 40' 07.633"	W 080 22' 56.415"	27.66879	-80.38234	LNM 38/15, 7th Dist	292	11472_4	9/24/2015
+11472	Change	Indian River (South Section) Light 141	Fl G 4s 16ft 5M "141"	N 27 38' 51.915"	W 080 22' 18.759"	27.64775	-80.37188	LNM 38/15, 7th Dist	292	11472_4	9/24/2015
+11472	Change	Indian River (South Section) Light 153	Fl G 4s 12ft 5M "153"	N 27 36' 47.424"	W 080 21' 48.782"	27.61317	-80.36355	LNM 38/15, 7th Dist	292	11472_4	9/24/2015
+11472	Change	Indian River (South Section) Light 157	Fl G 4s 16ft 5M "157"	N 27 35' 38.574"	W 080 21' 20.969"	27.59405	-80.35583	LNM 38/15, 7th Dist	292	11472_4	9/24/2015
+11472	Change	Indian River (South Section) Light 172	Fl R 4s 16ft 5M "172"	N 27 32' 05.583"	W 080 20' 32.532"	27.53488	-80.34237	LNM 38/15, 7th Dist	292	11472_4	9/24/2015
+11472	Change	Indian River (South Section) Light 175	Fl G 4s 16ft 5M "175"	N 27 30' 19.991"	W 080 20' 02.246"	27.50555	-80.33395	LNM 38/15, 7th Dist	292	11472_4	9/24/2015
+11472	Relocate	Jupiter Sound Daybeacon 57	G "57"	N 26 57' 53.331"	W 080 04' 51.903"	26.96481	-80.08109	LNM 37/15, 7th Dist	295	11472_9	9/24/2015
+11472	Change	Indian River (South Section) Light 121	Fl G 4s 16ft 5M "121"	N 27 41' 47.583"	W 080 23' 18.781"	27.69655	-80.38855	LNM 37/15, 7th Dist	292	11472_4	9/24/2015
+11472	Change	Indian River (South Section) Light 82	Fl R 4s 12ft 4M "82"	N 27 45' 30.617"	W 080 24' 49.077"	27.7585	-80.41364	LNM 37/15, 7th Dist	292	11472_4	9/24/2015
+11472	Change	Lake Worth North Light 42	Fl R 4s 16ft 5M "42"	N 26 46' 24.353"	W 080 03' 00.909"	26.77343	-80.05025	LNM 36/15, 7th Dist	298	11472_7	9/17/2015
+11472	Change	Lake Worth Sound Light 1	Q G 12ft 4M "1"	N 26 45' 55.196"	W 080 02' 57.091"	26.76533	-80.04919	LNM 36/15, 7th Dist	298	11472_7	9/17/2015
+11472	Change	Lake Worth Sound Light 5	Fl G 4s 16ft 5M "5"	N 26 44' 36.460"	W 080 02' 50.587"	26.74346	-80.04739	LNM 36/15, 7th Dist	299	11472_8	9/17/2015
+11472	Change	Indian River (South Section) Light 124	Fl R 4s 16ft 5M "124"	N 27 41' 31.380"	W 080 23' 17.283"	27.69205	-80.38814	LNM 36/15, 7th Dist	292	11472_4	9/17/2015
+11472	Change	Indian River (South Section) Light 127	Fl G 4s 12ft 5M "127"	N 27 40' 49.535"	W 080 22' 59.853"	27.68043	-80.38329	LNM 36/15, 7th Dist	292	11472_4	9/17/2015
+11472	Relocate	Indian River (South Section) Light 124	Fl R 4s 16ft 5M "124"	N 27 41' 31.380"	W 080 23' 17.283"	27.69205	-80.38814	LNM 36/15, 7th Dist	292	11472_4	9/17/2015
+11472	Add	Causeway Cove Daybeacon 2	R "2" Priv	N 27 27' 21.760"	W 080 18' 48.520"	27.45605	-80.31348	LNM 35/15, 7th Dist	293	11472_2	9/10/2015
+11472	Add	Causeway Cove North Shoal Daybeacon A	W "A" Priv	N 27 27' 23.130"	W 080 18' 46.350"	27.45642	-80.31287	LNM 35/15, 7th Dist	293	11472_2	9/10/2015
+11472	Add	Causeway Cove North Shoal Daybeacon B	W "B" Priv	N 27 27' 24.180"	W 080 18' 43.700"	27.45672	-80.31214	LNM 35/15, 7th Dist	293	11472_2	9/10/2015
+11472	Add	Causeway Cove North Shoal Daybeacon C	W "C" Priv	N 27 27' 24.770"	W 080 18' 40.120"	27.45688	-80.31114	LNM 35/15, 7th Dist	293	11472_2	9/10/2015
+11472	Add	Causeway Cove South Shoal Daybeacon A	W "A" Priv	N 27 27' 27.750"	W 080 18' 45.940"	27.45771	-80.31276	LNM 35/15, 7th Dist	293	11472_2	9/10/2015
+11472	Add	Causeway Cove South Shoal Daybeacon B	W "B" Priv	N 27 27' 22.470"	W 080 18' 42.720"	27.45624	-80.31187	LNM 35/15, 7th Dist	293	11472_2	9/10/2015
+11472	Add	Causeway Cove South Shoal Daybeacon C	W "C" Priv	N 27 27' 22.590"	W 080 18' 39.160"	27.45628	-80.31087	LNM 35/15, 7th Dist	293	11472_2	9/10/2015
+11472	Add	Low Water Area	low water area, minimum size dotted circle and green tint	N 26 57' 03.300"	W 080 06' 23.200"	26.95092	-80.10645	LNM 35/15, 7th Dist	297	11472_6	9/3/2015
+11472	Add	Low Water Area PT 1 OF 6	low water area and green tint	N 26 56' 59.950"	W 080 06' 20.910"	26.94999	-80.10581	LNM 35/15, 7th Dist	297	11472_6	9/3/2015
+11472	Add	Low Water Area PT 2 OF 6	low water area and green tint	N 26 56' 59.910"	W 080 06' 14.490"	26.94997	-80.10403	LNM 35/15, 7th Dist	297	11472_6	9/3/2015
+11472	Add	Low Water Area PT 3 OF 6	low water area and green tint	N 26 56' 59.390"	W 080 06' 13.930"	26.94983	-80.10387	LNM 35/15, 7th Dist	297	11472_6	9/3/2015
+11472	Add	Low Water Area PT 4 OF 6	low water area and green tint	N 26 56' 58.780"	W 080 06' 14.620"	26.94966	-80.10406	LNM 35/15, 7th Dist	297	11472_6	9/3/2015
+11472	Add	Low Water Area PT 5 OF 6	low water area and green tint	N 26 56' 59.140"	W 080 06' 21.130"	26.94976	-80.10587	LNM 35/15, 7th Dist	297	11472_6	9/3/2015
+11472	Add	Low Water Area PT 6 OF 6	low water area and green tint	N 26 56' 59.650"	W 080 06' 21.130"	26.9499	-80.10587	LNM 35/15, 7th Dist	297	11472_6	9/3/2015
+11472	Change	Lake Worth South Light 12	Fl R 4s 12ft 5M "12"	N 26 42' 54.514"	W 080 02' 50.564"	26.71514	-80.04738	LNM 34/15, 7th Dist	299	11472_8	8/27/2015
+11472	Change	Lake Worth South Light 17	Fl G 4s 12ft 5M "17"	N 26 41' 23.006"	W 080 02' 47.468"	26.68972	-80.04652	LNM 34/15, 7th Dist	296	11472_10	8/27/2015
+11472	Change	Lake Worth South Light 9	Fl G 4s 16ft 5M "9"	N 26 43' 25.419"	W 080 02' 47.674"	26.72373	-80.04658	LNM 34/15, 7th Dist	299	11472_8	8/27/2015
+11472	Change	Indian River (South Section) Light 202	Fl R 4s 16ft 5M "202"	N 27 21' 19.123"	W 080 16' 29.106"	27.35531	-80.27475	LNM 33/15, 7th Dist	294	11472_5	8/20/2015
+11472	Change	St Lucie Inlet Light 9	Fl G 4s 14ft 5M "9"	N 27 09' 56.918"	W 080 09' 47.846"	27.16581	-80.16329	LNM 27/15, 7th Dist	2931	11472_3	7/16/2015
+11472	Relocate	Riverside Marina (Ft Pierce) Daybeacon 2	R "2" Priv	N 27 28' 50.593"	W 080 19' 43.675"	27.48072	-80.3288	LNM 25/15, 7th Dist	293	11472_2	7/2/2015
+11472	Relocate	New Port Cove Marine Center Daybeacon 1	G "1" Priv	N 26 46' 46.022"	W 080 02' 45.477"	26.77945	-80.04597	LNM 25/15, 7th Dist	298	11472_7	7/2/2015
+11472	Change	Indian River (South Section) Light 85	Fl G 4s 16ft 5M "85"	N 27 45' 30.082"	W 080 24' 19.723"	27.75836	-80.40548	LNM 23/15, 7th Dist	292	11472_4	6/18/2015
+11472	Add	Accurate Landmark	STACK    Chart No. 1: E1	N 26 45' 55.170"	W 080 03' 08.810"	26.76533	-80.05244	LNM 24/15, 7th Dist	298	11472_7	6/11/2015
+11472	Add	Accurate Landmark	STACK    Chart No. 1: E1	N 26 45' 55.170"	W 080 03' 08.810"	26.76533	-80.05244	LNM 24/15, 7th Dist	295	11472_9	6/11/2015
+11472	Add	Accurate Landmark	STACK    Chart No. 1: E1	N 26 45' 55.190"	W 080 03' 12.160"	26.76533	-80.05338	LNM 24/15, 7th Dist	298	11472_7	6/11/2015
+11472	Add	Accurate Landmark	STACK    Chart No. 1: E1	N 26 45' 55.190"	W 080 03' 12.160"	26.76533	-80.05338	LNM 24/15, 7th Dist	295	11472_9	6/11/2015
+11472	Delete	Accurate Landmark	Chart No. 1: E1	N 26 45' 55.640"	W 080 03' 09.380"	26.76546	-80.0526	LNM 24/15, 7th Dist	295	11472_9	6/11/2015
+11472	Delete	Accurate Landmark	STACKS    Chart No. 1: E1	N 26 45' 55.720"	W 080 03' 07.570"	26.76548	-80.0521	LNM 24/15, 7th Dist	295	11472_9	6/11/2015
+11472	Add	Accurate Landmark	STACK    Chart No. 1: E1	N 26 45' 55.190"	W 080 03' 10.490"	26.76533	-80.05292	LNM 24/15, 7th Dist	298	11472_7	6/11/2015
+11472	Add	Accurate Landmark	STACK    Chart No. 1: E1	N 26 45' 55.190"	W 080 03' 10.490"	26.76533	-80.05292	LNM 24/15, 7th Dist	295	11472_9	6/11/2015
+11472	Change	St Lucie River Light 21	Fl G 4s 16ft 5M "21"	N 27 12' 49.690"	W 080 12' 54.226"	27.2138	-80.21507	LNM 19/15, 7th Dist	294	11472_5	5/21/2015
+11472	Relocate	Lake Worth North Light 34	Fl R 2.5s 16ft 3M "34"	N 26 47' 35.054"	W 080 02' 47.877"	26.79307	-80.04663	LNM 18/15, 7th Dist	295	11472_9	5/14/2015
+11472	Change	Lake Worth North Light 34	Fl R 2.5s 16ft 5M "34"	N 26 47' 35.054"	W 080 02' 47.877"	26.79307	-80.04663	LNM 18/15, 7th Dist	295	11472_9	5/14/2015
+11472	Add	Visible Wreck	Chart No. 1: K24	N 26 46' 45.200"	W 080 02' 57.200"	26.77922	-80.04922	LNM 18/15, 7th Dist	298	11472_7	4/30/2015
+11472	Change	Indian River (South Section) Light 33	Fl G 4s 16ft 5M "33"	N 27 56' 44.820"	W 080 31' 31.714"	27.94578	-80.52547	LNM 16/15, 7th Dist	291	11472_1	4/30/2015
+11472	Relocate	Loxahatchee River Light 12	Fl R 6s 2M "12" Priv	N 26 57' 01.920"	W 080 06' 21.840"	26.95053	-80.10606	LNM 12/15, 7th Dist	297	11472_6	4/2/2015
+11472	Relocate	Loxahatchee River Light 14	Fl R 6s "14" Priv	N 26 57' 04.080"	W 080 06' 28.920"	26.95113	-80.10803	LNM 12/15, 7th Dist	297	11472_6	4/2/2015
+11472	Change	Loxahatchee River Light 12	Fl R 6s 6ft "12" Priv	N 26 57' 01.920"	W 080 06' 21.840"	26.95053	-80.10606	LNM 12/15, 7th Dist	297	11472_6	4/2/2015
+11472	Add	Approximate Landmark	Signs    Chart No. 1: E1	N 27 41' 11.980"	W 080 23' 06.950"	27.68666	-80.38526	LNM 13/15, 7th Dist	292	11472_4	3/26/2015
+11472	Add	Approximate Landmark	Sign    Chart No. 1: E1	N 27 38' 59.810"	W 080 22' 26.990"	27.64995	-80.37416	LNM 13/15, 7th Dist	292	11472_4	3/26/2015
+11472	Add	Approximate Landmark	Signs    Chart No. 1: E1	N 27 37' 55.140"	W 080 22' 18.950"	27.63198	-80.37193	LNM 13/15, 7th Dist	292	11472_4	3/26/2015
+11472	Add	Approximate Landmark	Signs    Chart No. 1: E1	N 27 41' 10.240"	W 080 23' 13.060"	27.68618	-80.38696	LNM 13/15, 7th Dist	292	11472_4	3/26/2015
+11472	Add	Approximate Landmark	Signs    Chart No. 1: E ??	N 27 37' 55.110"	W 080 22' 12.600"	27.63198	-80.37016	LNM 13/15, 7th Dist	292	11472_4	3/26/2015
+11472	Delete	Dangerous Wreck	PA      Chart No. 1: K28	N 26 46' 20.240"	W 080 02' 12.640"	26.77229	-80.03684	LNM 12/15, 7th Dist	298	11472_7	3/26/2015
+11472	Change	Jupiter Inlet Light 1	Fl G 4s 16ft 5M "1"	N 26 56' 45.577"	W 080 04' 47.619"	26.94599	-80.0799	LNM 11/15, 7th Dist	295	11472_9	3/19/2015
+11472	Change	St Lucie River Light 17	Fl G 4s 16ft 5M "17"	N 27 10' 57.179"	W 080 11' 43.216"	27.18255	-80.19534	LNM 10/15, 7th Dist	2931	11472_3	3/19/2015
+11472	Add	St Lucie Entrance Lighted Buoy 2 Magenta Circle	R "2" Fl R 4s AIS	N 27 10' 01.178"	W 080 08' 23.008"	27.16699	-80.13972	LNM 08/15, 7th Dist	294	11472_5	3/5/2015
+11472	Add	Lake Worth Lighted Buoy LW Magenta Circle	RW "LW" Mo (A) AIS	N 26 46' 21.577"	W 080 00' 36.215"	26.77266	-80.01006	LNM 08/15, 7th Dist	295	11472_9	3/5/2015
+11472	Add	Lake Worth Inlet Lighted Buoy 3 Magenta Circle	G "3" Fl G 4s AIS	N 26 46' 15.990"	W 080 01' 46.428"	26.77111	-80.02956	LNM 08/15, 7th Dist	298	11472_7	3/5/2015
+11472	Add	Lake Worth Inlet Lighted Buoy 3 Magenta Circle	G "3" Fl G 4s AIS	N 26 46' 15.990"	W 080 01' 46.428"	26.77111	-80.02956	LNM 08/15, 7th Dist	295	11472_9	3/5/2015
+11472	Add	Fort Pierce Inlet Lighted Buoy 5 Magenta Circle	G "5" Fl G 4s AIS	N 27 28' 19.940"	W 080 17' 00.440"	27.47221	-80.28345	LNM 08/15, 7th Dist	292	11472_4	3/5/2015
+11472	Add	Fort Pierce Inlet Lighted Buoy 6 Magenta Circle	R "6" Fl R 4s AIS	N 27 28' 24.591"	W 080 16' 55.743"	27.4735	-80.28215	LNM 08/15, 7th Dist	292	11472_4	3/5/2015
+11472	Change	Indian River (South Section) Light 214	Fl R 4s 16ft 5M "214"	N 27 17' 13.794"	W 080 14' 15.966"	27.28716	-80.23777	LNM 08/15, 7th Dist	294	11472_5	3/5/2015
+11472	Change	Lake Worth North Light 39	Fl G 4s 12ft 5M "39"	N 26 46' 47.860"	W 080 02' 42.593"	26.77996	-80.04517	LNM 08/15, 7th Dist	298	11472_7	3/5/2015
+11472	Change	Depth Legend - Lake Worth Turning Basin to:	31 FT SEP 2014	N 26 46' 06.000"	W 080 02' 59.000"	26.76833	-80.04972	LNM 08/15, 7th Dist	298	11472_7	3/5/2015
+11472	Change	Depth Legend - Lake Worth Inlet Channel to:	33 FT SEP 2014	N 26 46' 15.000"	W 080 02' 31.000"	26.77083	-80.04195	LNM 08/15, 7th Dist	298	11472_7	3/5/2015
+11472	Change	Depth Legend - Lake Worth Inlet Entrance Channel to:	25 FT SEP 2014	N 26 46' 20.000"	W 080 01' 53.000"	26.77222	-80.03139	LNM 08/15, 7th Dist	298	11472_7	3/5/2015
+11472	Change	Indian River (South Section) Light 146	Fl R 4s 12ft 5M "146"	N 27 38' 09.251"	W 080 22' 19.578"	27.6359	-80.37211	LNM 06/15, 7th Dist	292	11472_4	2/19/2015
+11472	Change	Melbourne Channel Light 7	Q G 12ft 4M "7"	N 28 04' 32.034"	W 080 35' 57.396"	28.07557	-80.59927	LNM 06/15, 7th Dist	291	11472_1	2/19/2015
+11472	Change	Jupiter Inlet Light 4	Fl R 4s 16ft 5M "4"	N 26 56' 52.297"	W 080 05' 18.580"	26.94786	-80.08849	LNM 04/15, 7th Dist	297	11472_6	2/5/2015
+11472	Change	Jupiter Inlet Light 4	Fl R 4s 16ft 5M "4"	N 26 56' 52.297"	W 080 05' 18.580"	26.94786	-80.08849	LNM 04/15, 7th Dist	295	11472_9	2/5/2015
+11472	Add	Loxahatchee River South Channel Daybeacon 1	G "1" Priv	N 26 56' 52.680"	W 080 05' 40.860"	26.94797	-80.09468	LNM 04/15, 7th Dist	297	11472_6	2/5/2015
+11472	Add	Loxahatchee River South Channel Daybeacon 10	R "10" Priv	N 26 56' 46.920"	W 080 06' 03.480"	26.94637	-80.10097	LNM 04/15, 7th Dist	297	11472_6	2/5/2015
+11472	Add	Loxahatchee River South Channel Daybeacon 11	G "11" Priv	N 26 56' 46.440"	W 080 06' 09.240"	26.94623	-80.10257	LNM 04/15, 7th Dist	297	11472_6	2/5/2015
+11472	Add	Loxahatchee River South Channel Daybeacon 12	R "12" Priv	N 26 56' 46.920"	W 080 06' 09.300"	26.94637	-80.10258	LNM 04/15, 7th Dist	297	11472_6	2/5/2015
+11472	Add	Loxahatchee River South Channel Daybeacon 13	G "13" Priv	N 26 56' 43.920"	W 080 06' 15.240"	26.94553	-80.10423	LNM 04/15, 7th Dist	297	11472_6	2/5/2015
+11472	Add	Loxahatchee River South Channel Daybeacon 14	R "14" Priv	N 26 56' 45.960"	W 080 06' 15.840"	26.9461	-80.1044	LNM 04/15, 7th Dist	297	11472_6	2/5/2015
+11472	Add	Loxahatchee River South Channel Daybeacon 16	R "16" Priv	N 26 56' 48.240"	W 080 06' 21.480"	26.94673	-80.10596	LNM 04/15, 7th Dist	297	11472_6	2/5/2015
+11472	Add	Loxahatchee River South Channel Daybeacon 17	G "17" Priv	N 26 56' 46.740"	W 080 06' 25.140"	26.94632	-80.10699	LNM 04/15, 7th Dist	297	11472_6	2/5/2015
+11472	Add	Loxahatchee River South Channel Daybeacon 18	R "18" Priv	N 26 56' 51.300"	W 080 06' 27.720"	26.94758	-80.1077	LNM 04/15, 7th Dist	297	11472_6	2/5/2015
+11472	Add	Loxahatchee River South Channel Daybeacon 2	R "2" Priv	N 26 56' 53.100"	W 080 05' 41.160"	26.94808	-80.09476	LNM 04/15, 7th Dist	297	11472_6	2/5/2015
+11472	Add	Loxahatchee River South Channel Daybeacon 3	G "3" Priv	N 26 56' 50.100"	W 080 05' 45.120"	26.94725	-80.09586	LNM 04/15, 7th Dist	297	11472_6	2/5/2015
+11472	Add	Loxahatchee River South Channel Daybeacon 4	R "4" Priv	N 26 56' 50.520"	W 080 05' 45.360"	26.94737	-80.09593	LNM 04/15, 7th Dist	297	11472_6	2/5/2015
+11472	Add	Loxahatchee River South Channel Daybeacon 6	R "6" Priv	N 26 56' 48.180"	W 080 05' 50.640"	26.94672	-80.0974	LNM 04/15, 7th Dist	297	11472_6	2/5/2015
+11472	Add	Loxahatchee River South Channel Daybeacon 7	G "7" Priv	N 26 56' 45.600"	W 080 05' 57.060"	26.946	-80.09918	LNM 04/15, 7th Dist	297	11472_6	2/5/2015
+11472	Add	Loxahatchee River South Channel Daybeacon 8	R "8" Priv	N 26 56' 46.080"	W 080 05' 57.120"	26.94613	-80.0992	LNM 04/15, 7th Dist	297	11472_6	2/5/2015
+11472	Add	Loxahatchee River South Channel Daybeacon 9	G "9" Priv	N 26 56' 46.440"	W 080 06' 03.480"	26.94623	-80.10097	LNM 03/80, 7th Dist	297	11472_6	2/5/2015
+11472	Relocate	Lake Worth South Daybeacon 8	R "8"	N 26 43' 49.534"	W 080 02' 50.579"	26.73043	-80.04739	LNM 47/14, 7th Dist	299	11472_8	12/4/2014
+11472	Delete	Sounding in Feet	28	N 26 53' 34.200"	W 080 02' 50.100"	26.89283	-80.04725	LNM 46/14, 7th Dist	295	11472_9	11/20/2014
+11472	Delete	Sounding in Feet	25	N 26 53' 45.100"	W 080 02' 59.300"	26.89586	-80.0498	LNM 46/14, 7th Dist	295	11472_9	11/20/2014
+11472	Delete	Sounding in Feet	23	N 26 53' 25.700"	W 080 02' 57.500"	26.89047	-80.04931	LNM 46/14, 7th Dist	295	11472_9	11/20/2014
+11472	Delete	Sounding in Feet	22	N 26 53' 56.200"	W 080 03' 07.600"	26.89894	-80.05211	LNM 46/14, 7th Dist	295	11472_9	11/20/2014
+11472	Add	Minimum Size (2mm sq.) Dotted Fish Haven and Label PT 1 OF 4	Obstn Fish Haven (auth min 7 ft), Chart No. 1 K46.2	N 26 54' 02.000"	W 080 02' 49.000"	26.90055	-80.04694	LNM 46/14, 7th Dist	295	11472_9	11/20/2014
+11472	Add	Minimum Size (2mm sq.) Dotted Fish Haven and Label PT 2 OF 4	Obstn Fish Haven (auth min 7 ft), Chart No. 1 K46.2	N 26 53' 31.000"	W 080 02' 37.000"	26.89194	-80.04361	LNM 46/14, 7th Dist	295	11472_9	11/20/2014
+11472	Add	Minimum Size (2mm sq.) Dotted Fish Haven and Label PT 3 OF 4	Obstn Fish Haven (auth min 7 ft), Chart No. 1 K46.2	N 26 53' 23.000"	W 080 03' 04.000"	26.88972	-80.05111	LNM 46/14, 7th Dist	295	11472_9	11/20/2014
+11472	Add	Minimum Size (2mm sq.) Dotted Fish Haven and Label PT 4 OF 4	Obstn Fish Haven (auth min 7 ft), Chart No. 1 K46.2	N 26 53' 54.000"	W 080 03' 16.000"	26.89833	-80.05444	LNM 46/14, 7th Dist	295	11472_9	11/20/2014
+11472	Delete	Sounding in Feet	31	N 26 53' 57.300"	W 080 02' 49.500"	26.89925	-80.04708	LNM 46/14, 7th Dist	295	11472_9	11/20/2014
+11472	Change	Indian River (South Section) Light 63	Fl G 4s 16ft 5M "63"	N 27 50' 46.635"	W 080 28' 24.636"	27.84629	-80.47351	LNM 42/14, 7th Dist	291	11472_1	10/30/2014
+11472	Change	Indian River (South Section) Light 92	Fl R 4s 16ft 5M "92"	N 27 44' 54.298"	W 080 24' 09.979"	27.74842	-80.40277	LNM 42/14, 7th Dist	292	11472_4	10/30/2014
+11472	Add	St Lucie River Buoy 17A	G C "17A"	N 27 11' 02.467"	W 080 11' 49.336"	27.18402	-80.19704	LNM 40/14, 7th Dist	2931	11472_3	10/16/2014
+11472	Change	Indian River (South Section) Light 7	Fl G 4s 12ft 5M "7"	N 28 04' 05.664"	W 080 34' 58.554"	28.06824	-80.58293	LNM 39/14, 7th Dist	291	11472_1	10/9/2014
+11472	Delete	Label	High Speed Ferry Route (see note E)	N 26 45' 52.000"	W 080 01' 46.000"	26.76444	-80.02944	LNM 37/14, 7th Dist	298	11472_7	9/18/2014
+11472	Delete	Label	High Speed Ferry Route (see note E)	N 26 45' 56.000"	W 080 00' 31.000"	26.76556	-80.00861	LNM 37/14, 7th Dist	295	11472_9	9/18/2014
+11472	Relocate	St Lucie River Buoy 6A	R N "6A"	N 27 09' 54.662"	W 080 11' 24.895"	27.16518	-80.19025	LNM 35/14, 7th Dist	2931	11472_3	9/11/2014
+11472	Change	St Lucie River Light 11	Fl G 4s 14ft 5M "11"	N 27 10' 03.409"	W 080 11' 38.330"	27.16761	-80.19398	LNM 32/14, 7th Dist	2931	11472_3	8/21/2014
+11472	Change	Indian River (South Section) Light 82	Fl R 4s 12ft 5M "82"	N 27 45' 30.617"	W 080 24' 49.077"	27.7585	-80.41364	LNM 32/14, 7th Dist	292	11472_4	8/21/2014
+11472	Delete	Note E	High speed ferries operate between Lake Worth Inlet and Freeport Harbor, Grand Bahama Island. Mariners are cautioned that these craft move very rapidly and may transit waterways at angles to the normal direction of traffic. Ferries may deviate from published routes.	N 26 47' 03.000"	W 080 03' 40.000"	26.78417	-80.06111	LNM 34/14, 7th Dist	295	11472_9	8/21/2014
+11472	Change	Indian River (South Section) Light 159	Fl G 4s 16ft 5M "159"	N 27 35' 24.770"	W 080 21' 17.007"	27.59021	-80.35472	LNM 28/14, 7th Dist	292	11472_4	7/24/2014
+11472	Change	Indian River (South Section) Light 110	Fl R 4s 16ft 5M "110"	N 27 43' 24.011"	W 080 23' 48.484"	27.72334	-80.3968	LNM 25/14, 7th Dist	292	11472_4	6/26/2014
+11472	Change	Indian River (South Section) Light 192	Fl R 4s 16ft 5M "192"	N 27 25' 26.742"	W 080 18' 14.211"	27.4241	-80.30395	LNM 23/14, 7th Dist	292	11472_4	6/19/2014
+11472	Delete	Great Pocket Shoal Daybeacon	W Bn	N 27 09' 52.483"	W 080 10' 46.946"	27.16458	-80.17971	LNM 22/14, 7th Dist	2931	11472_3	6/12/2014
+11472	Change	Indian River (South Section) Light 48	Fl R 4s 16ft 5M "48"	N 27 54' 12.681"	W 080 30' 30.189"	27.90352	-80.50838	LNM 22/14, 7th Dist	291	11472_1	6/12/2014
+11472	Change	Indian River (South Section) Light 57	Fl G 4s 12ft 5M "57"	N 27 52' 13.196"	W 080 29' 06.701"	27.87033	-80.48519	LNM 19/14, 7th Dist	291	11472_1	5/22/2014
+11472	Change	Indian River (South Section) Light 38	Fl R 4s 16ft 5M "38"	N 27 55' 40.921"	W 080 31' 20.672"	27.92803	-80.52241	LNM 17/14, 7th Dist	291	11472_1	5/8/2014
+11472	Change	Depth Legend - LAKE WORTH INLET, PALM BEACH 	32½ FT NOV 2013	N 26 46' 20.680"	W 080 01' 53.350"	26.77241	-80.03149	LNM 16/14, 7th Dist	298	11472_7	4/17/2014
+11472	Change	Depth Legend - TAYLOR CREEK 	7 FEET 2007-2013	N 27 27' 59.700"	W 080 19' 36.300"	27.46658	-80.32675	LNM 16/14, 7th Dist	293	11472_2	4/17/2014
+11472	Add	Obstruction in Feet	6 Obstn       Chart No. 1: K41	N 27 28' 02.540"	W 080 19' 21.430"	27.46737	-80.32262	LNM 16/14, 7th Dist	293	11472_2	4/17/2014
+11472	Change	Depth Legend - TAYLOR CREEK 	7 FT 2007-2013	N 27 27' 59.700"	W 080 19' 36.300"	27.46658	-80.32675	LNM 16/14, 7th Dist	293	11472_2	4/17/2014
+11472	Add	Queens Cove Daybeacon 1A	G "1A" Priv	N 27 30' 55.260"	W 080 19' 59.520"	27.51535	-80.3332	LNM 10/14, 7th Dist	292	11472_4	3/27/2014
+11472	Add	Queens Cove Daybeacon 2A	R "2A" Priv	N 27 30' 54.660"	W 080 19' 59.290"	27.51518	-80.33314	LNM 10/14, 7th Dist	292	11472_4	3/27/2014

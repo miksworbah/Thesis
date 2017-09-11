@@ -1,0 +1,34 @@
+Chart: 11459, Current Edition: 1, Print Date: Nov. /2016, Port of Palm Beach and Approaches
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11459	Change	Depth Legend - Lake Worth Inlet Southern Turning Basin to:	30 1/2 FT FEB 2017	N 26 46' 06.000"	W 080 02' 55.000"	26.76833	-80.04861	LNM 35/17, 7th Dist	358	11459_2	Not Yet
+11459	Change	Depth Legend - Lake Worth Inlet Southern Turning Basin to:	30 1/2 FT FEB 2017	N 26 46' 06.000"	W 080 02' 55.000"	26.76833	-80.04861	LNM 35/17, 7th Dist	353	11459_1	Not Yet
+11459	Change	tabulation - Lake Worth Inlet Channel Depths	tabulation - Lake Worth Inlet Channel Depths	N 26 50' 10.000"	W 080 02' 30.000"	26.83611	-80.04166	LNM 35/17, 7th Dist	353	11459_1	Not Yet
+11459	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 2 ft)	N 26 46' 57.800"	W 080 02' 31.600"	26.78272	-80.04211	LNM 18/17, 7th Dist	353	11459_1	5/11/2017
+11459	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 26 45' 04.000"	W 080 02' 33.000"	26.75111	-80.0425	LNM 18/17, 7th Dist	353	11459_1	5/11/2017
+11459	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 26 45' 04.000"	W 080 02' 39.000"	26.75111	-80.04417	LNM 18/17, 7th Dist	353	11459_1	5/11/2017
+11459	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 26 44' 56.000"	W 080 02' 39.000"	26.74889	-80.04417	LNM 18/17, 7th Dist	353	11459_1	5/11/2017
+11459	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 26 44' 56.000"	W 080 02' 33.000"	26.74889	-80.0425	LNM 18/17, 7th Dist	353	11459_1	5/11/2017
+11459	Add	Dotted Fish Haven PT 1 OF 14	Chart No. 1: K46.2	N 26 46' 58.520"	W 080 02' 27.170"	26.78292	-80.04088	LNM 18/17, 7th Dist	353	11459_1	5/11/2017
+11459	Add	Dotted Fish Haven PT 2 OF 14	Chart No. 1: K46.2	N 26 46' 57.490"	W 080 02' 27.430"	26.78264	-80.04095	LNM 18/17, 7th Dist	353	11459_1	5/11/2017
+11459	Add	Dotted Fish Haven PT 3 OF 14	Chart No. 1: K46.2	N 26 46' 56.670"	W 080 02' 28.460"	26.78241	-80.04124	LNM 18/17, 7th Dist	353	11459_1	5/11/2017
+11459	Add	Dotted Fish Haven PT 4 OF 14	Chart No. 1: K46.2	N 26 46' 56.940"	W 080 02' 36.270"	26.78248	-80.04341	LNM 18/17, 7th Dist	353	11459_1	5/11/2017
+11459	Add	Dotted Fish Haven PT 5 OF 14	Chart No. 1: K46.2	N 26 46' 57.740"	W 080 02' 36.250"	26.78271	-80.0434	LNM 18/17, 7th Dist	353	11459_1	5/11/2017
+11459	Add	Dotted Fish Haven PT 6 OF 14	Chart No. 1: K46.2	N 26 46' 57.740"	W 080 02' 35.390"	26.78271	-80.04317	LNM 18/17, 7th Dist	353	11459_1	5/11/2017
+11459	Add	Dotted Fish Haven PT 7 OF 14	Chart No. 1: K46.2	N 26 46' 57.240"	W 080 02' 35.390"	26.78257	-80.04317	LNM 18/17, 7th Dist	353	11459_1	5/11/2017
+11459	Add	Dotted Fish Haven PT 8 OF 14	Chart No. 1: K46.2	N 26 46' 57.230"	W 080 02' 34.660"	26.78256	-80.04296	LNM 18/17, 7th Dist	353	11459_1	5/11/2017
+11459	Add	Dotted Fish Haven PT 9 OF 14	Chart No. 1: K46.2	N 26 46' 57.750"	W 080 02' 34.660"	26.78271	-80.04296	LNM 18/17, 7th Dist	353	11459_1	5/11/2017
+11459	Add	Dotted Fish Haven PT 10 OF 14	Chart No. 1: K46.2	N 26 46' 57.750"	W 080 02' 33.590"	26.78271	-80.04266	LNM 18/17, 7th Dist	353	11459_1	5/11/2017
+11459	Add	Dotted Fish Haven PT 12 OF 14	Chart No. 1: K46.2	N 26 46' 58.890"	W 080 02' 32.680"	26.78303	-80.04241	LNM 18/17, 7th Dist	353	11459_1	5/11/2017
+11459	Add	Dotted Fish Haven PT 13 OF 14	Chart No. 1: K46.2	N 26 46' 57.750"	W 080 02' 32.600"	26.78271	-80.04239	LNM 18/17, 7th Dist	353	11459_1	5/11/2017
+11459	Add	Dotted Fish Haven PT 14 OF 14	Chart No. 1: K46.2	N 26 46' 57.750"	W 080 02' 28.980"	26.78271	-80.04138	LNM 18/17, 7th Dist	353	11459_1	5/11/2017
+11459	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 6 ft)	N 26 45' 00.000"	W 080 02' 36.000"	26.75	-80.04333	LNM 18/17, 7th Dist	353	11459_1	5/11/2017
+11459	Add	Dotted Fish Haven PT 11 OF 14	Chart No. 1: K46.2	N 26 46' 52.800"	W 080 02' 33.600"	26.78133	-80.04266	LNM 18/17, 7th Dist	353	11459_1	5/11/2017
+11459	Change	tabulation - Lake Worth Inlet Channel Depths	tabulation - Lake Worth Inlet Channel Depths	N 26 50' 10.000"	W 080 02' 30.000"	26.83611	-80.04166	LNM 12/17, 7th Dist	353	11459_1	3/16/2017
+11459	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 26 47' 53.000"	W 080 02' 48.000"	26.79806	-80.04667	LNM 12/17, 7th Dist	353	11459_1	3/16/2017
+11459	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 26 47' 16.000"	W 080 02' 43.000"	26.78778	-80.04528	LNM 12/17, 7th Dist	353	11459_1	3/16/2017
+11459	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 26 47' 53.000"	W 080 02' 38.000"	26.79806	-80.04389	LNM 12/17, 7th Dist	353	11459_1	3/16/2017
+11459	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 26 47' 16.000"	W 080 02' 36.000"	26.78778	-80.04333	LNM 12/17, 7th Dist	353	11459_1	3/16/2017
+11459	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 6 ft)	N 26 47' 33.700"	W 080 02' 41.300"	26.79269	-80.04481	LNM 12/17, 7th Dist	353	11459_1	3/16/2017
+11459	Delete	Sounding in Feet	6	N 26 47' 23.700"	W 080 02' 36.600"	26.78992	-80.0435	LNM 12/17, 7th Dist	353	11459_1	3/16/2017
+11459	Relocate	Lake Worth North Daybeacon 43	G "43"	N 26 46' 19.841"	W 080 02' 58.395"	26.77218	-80.04955	LNM 06/17, 7th Dist	358	11459_2	3/16/2017
+11459	Relocate	Lake Worth North Daybeacon 43	G "43"	N 26 46' 19.841"	W 080 02' 58.395"	26.77218	-80.04955	LNM 06/17, 7th Dist	353	11459_1	3/16/2017

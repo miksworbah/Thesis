@@ -1,0 +1,18 @@
+Chart: 11430, Current Edition: 28, Print Date: Nov. /2015, Lostmans River to Wiggins Pass
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11430	Relocate	Barron River Channel Daybeacon 37	G "37"	N 25 51' 13.860"	W 081 23' 19.348"	25.85385	-81.38871	LNM 21/17, 7th Dist	359	11430_1	6/1/2017
+11430	Delete	Gordon Pass Shoal Light	Q 3M	N 26 05' 29.905"	W 081 48' 26.427"	26.09164	-81.80734	LNM 46/16, 7th Dist	361	11430_3	11/24/2016
+11430	Relocate	Gordon Pass Channel Daybeacon 1	G "1"	N 26 05' 30.032"	W 081 48' 26.432"	26.09167	-81.80734	LNM 42/16, 7th Dist	361	11430_3	10/27/2016
+11430	Relocate	Gordon Pass Channel Light 2	Fl R 4s 4M "2"	N 26 05' 27.524"	W 081 48' 26.558"	26.09098	-81.80738	LNM 42/16, 7th Dist	361	11430_3	10/27/2016
+11430	Change	Capri Pass Light 3	Fl G 4s 16ft 5M "3"	N 25 58' 33.487"	W 081 45' 22.549"	25.97597	-81.75626	LNM 26/16, 7th Dist	361	11430_3	7/14/2016
+11430	Relocate	Gordon Pass Channel Daybeacon 5	G "5"	N 26 05' 34.669"	W 081 47' 58.890"	26.09296	-81.79969	LNM 25/16, 7th Dist	361	11430_3	6/30/2016
+11430	Relocate	Gordon Pass Channel Light 9	Fl G 4s 16ft 4M "9"	N 26 05' 48.197"	W 081 47' 54.304"	26.09672	-81.79842	LNM 25/16, 7th Dist	361	11430_3	6/30/2016
+11430	Relocate	Naples Bay Channel Light 34	Fl R 2.5s16ft 3M "34"	N 26 07' 51.573"	W 081 47' 29.370"	26.13099	-81.79149	LNM 25/16, 7th Dist	361	11430_3	6/30/2016
+11430	Change	Capri Pass Light 9	Q G 16ft 5M "9"	N 25 58' 19.254"	W 081 44' 36.073"	25.97202	-81.74335	LNM 25/16, 7th Dist	361	11430_3	6/30/2016
+11430	Change	Gordon Pass Channel Light 6	Fl R 4s 16ft 5M "6"	N 26 05' 33.790"	W 081 47' 54.987"	26.09272	-81.79861	LNM 25/16, 7th Dist	361	11430_3	6/30/2016
+11430	Change	Naples Bay Channel Light 20	Fl R 4s 16ft 5M "20"	N 26 06' 05.295"	W 081 47' 11.485"	26.10147	-81.78652	LNM 25/16, 7th Dist	361	11430_3	6/30/2016
+11430	Change	Naples Bay Channel Light 24	Fl R 4s 16ft 5M "24"	N 26 06' 45.994"	W 081 47' 11.322"	26.11278	-81.78648	LNM 25/16, 7th Dist	361	11430_3	6/30/2016
+11430	Change	Naples Bay Channel Light 32	Fl R 4s 16ft 5M "32"	N 26 07' 45.096"	W 081 47' 25.594"	26.12919	-81.79044	LNM 25/16, 7th Dist	361	11430_3	6/30/2016
+11430	Change	Gordon Pass Channel Light 9	Fl G 4s 16ft 5M "9"	N 26 05' 48.197"	W 081 47' 54.304"	26.09672	-81.79842	LNM 25/16, 7th Dist	361	11430_3	6/30/2016
+11430	Change	Naples Bay Channel Light 34	Fl R 2.5s 16ft 5M "34"	N 26 07' 51.573"	W 081 47' 29.370"	26.13099	-81.79149	LNM 25/16, 7th Dist	361	11430_3	6/30/2016
+11430	Relocate	Big Marco Pass - Gordon Pass Daybeacon 51	G "51"	N 26 03' 07.530"	W 081 46' 47.455"	26.05209	-81.77985	LNM 17/16, 7th Dist	361	11430_3	5/5/2016

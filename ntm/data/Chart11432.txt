@@ -1,0 +1,26 @@
+Chart: 11432, Current Edition: 15, Print Date: Nov. /2014, Everglades National Park Shark River to Lostmans River
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11432	Change	Whitewater Bay Daybeacon 40	R "40" Priv	N 25 19' 12.708"	W 081 01' 49.611"	25.3202	-81.03045	LNM 31/17, 7th Dist	357	11432_1	8/24/2017
+11432	Change	Cormorant Pass Daybeacon 48	R "48" Priv	N 25 19' 52.727"	W 081 03' 20.638"	25.33131	-81.05573	LNM 31/17, 7th Dist	357	11432_1	8/24/2017
+11432	Change	Oyster Bay Daybeacon 53	G "53" Priv	N 25 19' 36.368"	W 081 04' 59.041"	25.32677	-81.08307	LNM 31/17, 7th Dist	357	11432_1	8/24/2017
+11432	Change	Oyster Bay Daybeacon 63	G "63" Priv	N 25 20' 16.912"	W 081 05' 53.700"	25.33803	-81.09825	LNM 31/17, 7th Dist	357	11432_1	8/24/2017
+11432	Change	Little Shark River Daybeacon 69	G "69" Priv	N 25 19' 52.763"	W 081 07' 14.906"	25.33132	-81.1208	LNM 31/17, 7th Dist	357	11432_1	8/24/2017
+11432	Change	Lostmans River Light 8	Fl R 2.5s 18ft 5M "8"	N 25 32' 33.510"	W 081 14' 59.048"	25.54264	-81.24973	LNM 50/16, 7th Dist	357	11432_1	12/22/2016
+11432	Change	Broad Creek Light 6	Fl R 6s 18ft 5M "6"	N 25 26' 19.414"	W 081 12' 12.279"	25.43873	-81.20341	LNM 50/16, 7th Dist	357	11432_1	12/22/2016
+11432	Change	Little Shark River Entrance Light 1	Fl G 4s 16ft 5M "1"	N 25 19' 21.164"	W 081 09' 14.380"	25.32255	-81.15399	LNM 50/16, 7th Dist	357	11432_1	12/22/2016
+11432	Delete	Cormorant Pass Daybeacon 44	R "44"	N 25 19' 26.622"	W 081 02' 31.563"	25.32406	-81.0421	LNM 39/16, 7th Dist	357	11432_1	10/6/2016
+11432	Delete	Cormorant Pass Daybeacon 45	G "45"	N 25 19' 26.772"	W 081 02' 46.737"	25.3241	-81.04632	LNM 39/16, 7th Dist	357	11432_1	10/6/2016
+11432	Delete	Little Shark River Daybeacon 64	R "64"	N 25 20' 20.897"	W 081 06' 00.502"	25.33914	-81.10014	LNM 39/16, 7th Dist	357	11432_1	10/6/2016
+11432	Delete	Little Shark River Daybeacon 65	G "65"	N 25 20' 16.057"	W 081 06' 17.423"	25.33779	-81.10484	LNM 39/16, 7th Dist	357	11432_1	10/6/2016
+11432	Delete	Little Shark River Daybeacon 67	G "67"	N 25 20' 10.774"	W 081 06' 34.356"	25.33633	-81.10954	LNM 39/16, 7th Dist	357	11432_1	10/6/2016
+11432	Delete	Little Shark River Daybeacon 68	R "68"	N 25 20' 07.737"	W 081 06' 42.713"	25.33548	-81.11186	LNM 39/16, 7th Dist	357	11432_1	10/6/2016
+11432	Delete	Little Shark River Daybeacon 70	R "70" PA	N 25 19' 54.400"	W 081 07' 15.200"	25.33178	-81.12089	LNM 39/16, 7th Dist	357	11432_1	10/6/2016
+11432	Delete	Oyster Bay Daybeacon 50	R "50"	N 25 19' 57.287"	W 081 03' 41.918"	25.33258	-81.06165	LNM 39/16, 7th Dist	357	11432_1	10/6/2016
+11432	Delete	Oyster Bay Daybeacon 55	G "55"	N 25 19' 36.068"	W 081 05' 07.961"	25.32668	-81.08555	LNM 39/16, 7th Dist	357	11432_1	10/6/2016
+11432	Delete	Oyster Bay Daybeacon 57	G "57"	N 25 19' 47.838"	W 081 05' 22.711"	25.32995	-81.08965	LNM 39/16, 7th Dist	357	11432_1	10/6/2016
+11432	Delete	Oyster Bay Daybeacon 59	G "59"	N 25 20' 04.800"	W 081 05' 36.400"	25.33467	-81.09344	LNM 39/16, 7th Dist	357	11432_1	10/6/2016
+11432	Delete	Oyster Bay Daybeacon 62	R "62"	N 25 20' 14.357"	W 081 05' 45.687"	25.33732	-81.09602	LNM 39/16, 7th Dist	357	11432_1	10/6/2016
+11432	Delete	Cormorant Pass Buoy 47	G C "47"	N 25 19' 35.427"	W 081 03' 08.979"	25.32651	-81.0525	LNM 39/16, 7th Dist	357	11432_1	10/6/2016
+11432	Delete	Cormorant Pass Daybeacon 42	R "42"	N 25 19' 21.174"	W 081 02' 13.851"	25.32255	-81.03718	LNM 50/15, 7th Dist	357	11432_1	12/24/2015
+11432	Delete	Oyster Bay Daybeacon 61	G "61"	N 25 20' 09.457"	W 081 05' 45.222"	25.33596	-81.09589	LNM 50/15, 7th Dist	357	11432_1	12/24/2015
+11432	Delete	Oyster Bay Buoy 51	G C "51"	N 25 19' 50.614"	W 081 04' 21.802"	25.33073	-81.07272	LNM 45/15, 7th Dist	357	11432_1	11/19/2015
