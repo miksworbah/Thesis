@@ -1,0 +1,8 @@
+Chart: 11431, Current Edition: 13, Print Date: May. /2006, East Cape to Mormon Key
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11431	Change	Pavilion Key Light 10	Fl R 4s 18ft 5M "10"	N 25 40' 55.259"	W 081 21' 23.592"	25.68202	-81.35655	LNM 50/16, 7th Dist	367	11431_1	12/22/2016
+11431	Change	Northwest Cape Light 4	Fl R 2.5s 16ft 5M "4"	N 25 12' 49.763"	W 081 11' 45.445"	25.21382	-81.19595	LNM 50/16, 7th Dist	367	11431_1	12/22/2016
+11431	Change	Lostmans River Light 8	Fl R 2.5s 18ft 5M "8"	N 25 32' 33.510"	W 081 14' 59.048"	25.54264	-81.24973	LNM 50/16, 7th Dist	367	11431_1	12/22/2016
+11431	Change	Broad Creek Light 6	Fl R 6s 18ft 5M "6"	N 25 26' 19.414"	W 081 12' 12.279"	25.43873	-81.20341	LNM 50/16, 7th Dist	367	11431_1	12/22/2016
+11431	Change	Little Shark River Entrance Light 1	Fl G 4s 16ft 5M "1"	N 25 19' 21.164"	W 081 09' 14.380"	25.32255	-81.15399	LNM 50/16, 7th Dist	367	11431_1	12/22/2016
+11431	Relocate	Cape Romano Shoals Light	Fl 4s 18ft 6M	N 25 41' 25.175"	W 081 38' 46.509"	25.69033	-81.64626	LNM 17/10, 7th Dist	367	11431_1	5/13/2010

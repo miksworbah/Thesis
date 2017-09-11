@@ -1,0 +1,4 @@
+Chart: 11463, Current Edition: 20, Print Date: Jan. /2017, Intracoastal Waterway Sands Key to Blackwater Sound
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11463	Relocate	Angelfish Creek Daybeacon 12	R "12"	N 25 20' 07.104"	W 080 16' 41.489"	25.33531	-80.27819	LNM 21/17, 7th Dist	2928	11463_1	6/1/2017
+11463	Relocate	Ocean Reef Harbor Entrance Light 2	Fl R 4s 16ft 5M "2"	N 25 18' 30.959"	W 080 16' 03.348"	25.3086	-80.26759	LNM 21/17, 7th Dist	2928	11463_1	6/1/2017

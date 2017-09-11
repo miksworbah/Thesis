@@ -1,0 +1,71 @@
+Chart: 11492, Current Edition: 21, Print Date: Jul. /2006, St. John's River Jacksonville to Racy Point
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11492	Change	Fixed Bridge Label	FIXED BRIDGE HOR CL 90 FT VERT CL 45 FT	N 29 59' 04.140"	W 081 37' 07.520"	29.98448	-81.61876	LNM 13/17, 7th Dist	272	11492_2	3/23/2017
+11492	Change	Bayard Point Light 24	Fl R 4s 19ft 5M "24"	N 29 56' 15.960"	W 081 36' 01.800"	29.93777	-81.6005	LNM 40/15, 7th Dist	272	11492_2	10/15/2015
+11492	Change	Red Bay Point Light 22	Fl R 4s 18ft 5M "22"	N 29 58' 29.722"	W 081 36' 42.731"	29.97492	-81.61187	LNM 40/15, 7th Dist	272	11492_2	10/15/2015
+11492	Add	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn Fish Haven (auth min 6 ft), Chart No. 1 K46.2	N 30 17' 58.350"	W 081 40' 17.390"	30.29954	-81.67149	LNM 34/15, 7th Dist	271	11492_1	8/20/2015
+11492	Change	Christopher Point Light 5	Fl G 4s 16ft 5M "5"	N 30 15' 08.545"	W 081 39' 27.962"	30.25237	-81.65777	LNM 31/15, 7th Dist	271	11492_1	8/13/2015
+11492	Change	New Switzerland Point Light 17	Fl G 4s 18ft 5M "17"	N 30 03' 40.260"	W 081 40' 23.580"	30.06118	-81.67322	LNM 31/15, 7th Dist	271	11492_1	8/13/2015
+11492	Change	New Switzerland Point Light 17	Fl G 4s 18ft 5M "17"	N 30 03' 40.260"	W 081 40' 23.580"	30.06118	-81.67322	LNM 31/15, 7th Dist	272	11492_2	8/13/2015
+11492	Change	Orange Park Light 10	Fl R 4s 16ft 5M "10"	N 30 09' 30.780"	W 081 41' 23.940"	30.15855	-81.68998	LNM 31/15, 7th Dist	271	11492_1	8/13/2015
+11492	Change	Ragged Point Light 12	Fl R 4s 12ft 5M "12"	N 30 07' 14.387"	W 081 40' 48.015"	30.12066	-81.68001	LNM 31/15, 7th Dist	271	11492_1	8/13/2015
+11492	Change	Solano Point Light 29	Fl G 2.5s 10ft 5M "29"	N 29 52' 27.180"	W 081 35' 16.740"	29.87422	-81.58798	LNM 28/15, 7th Dist	272	11492_2	7/23/2015
+11492	Change	Solano Point Light 31	Fl G 2.5s 10ft 5M "31"	N 29 51' 47.880"	W 081 35' 00.360"	29.8633	-81.58344	LNM 28/15, 7th Dist	272	11492_2	7/23/2015
+11492	Change	Winter Point Light 2	Fl R 4s 16ft 5M "2"	N 30 17' 37.687"	W 081 40' 38.112"	30.2938	-81.67725	LNM 24/15, 7th Dist	271	11492_1	6/25/2015
+11492	Delete	Piney Point Light 7	Fl G 2.5s 16ft 3M "7"	N 30 13' 18.306"	W 081 39' 04.624"	30.22175	-81.65128	LNM 23/15, 7th Dist	271	11492_1	6/18/2015
+11492	Delete	Switzerland Light 15	Fl G 2.5s 16ft 5M "15"	N 30 05' 55.587"	W 081 40' 16.966"	30.09877	-81.67138	LNM 23/15, 7th Dist	271	11492_1	6/18/2015
+11492	Delete	Beauclerc Bluff Daybeacon 9	G "9"	N 30 12' 12.960"	W 081 39' 14.220"	30.2036	-81.65395	LNM 22/15, 7th Dist	271	11492_1	6/4/2015
+11492	Add	Beauclerc Bluff Light 9	Fl G 2.5s 16ft 5M "9"	N 30 12' 12.960"	W 081 39' 14.220"	30.2036	-81.65395	LNM 22/15, 7th Dist	271	11492_1	6/4/2015
+11492	Change	Popo Point Light 18	Fl R 2.5s 16ft 5M "18"	N 30 01' 26.700"	W 081 40' 33.060"	30.02408	-81.67585	LNM 21/15, 7th Dist	272	11492_2	6/4/2015
+11492	Delete	Epping Forest Yacht Club Buoy 1	G C "1" Priv	N 30 14' 50.000"	W 081 38' 39.400"	30.24722	-81.64428	LNM 20/15, 7th Dist	271	11492_1	5/28/2015
+11492	Delete	Epping Forest Yacht Club Buoy 2	R N "2" Priv	N 30 14' 48.500"	W 081 38' 38.000"	30.24681	-81.64389	LNM 20/15, 7th Dist	271	11492_1	5/28/2015
+11492	Delete	Epping Forest Yacht Club Buoy 3	G C "3" Priv	N 30 14' 51.500"	W 081 38' 37.000"	30.24764	-81.64361	LNM 20/15, 7th Dist	271	11492_1	5/28/2015
+11492	Delete	Epping Forest Yacht Club Buoy 4	R N "4" Priv	N 30 14' 49.000"	W 081 38' 35.800"	30.24694	-81.64328	LNM 20/15, 7th Dist	271	11492_1	5/28/2015
+11492	Delete	Epping Forest Yacht Club Buoy 6	R N "6" Priv	N 30 14' 50.000"	W 081 38' 34.500"	30.24722	-81.64291	LNM 20/15, 7th Dist	271	11492_1	5/28/2015
+11492	Change	Goodbys Creek Light 1	Fl G 6s 16ft 5M "1"	N 30 13' 02.040"	W 081 37' 30.180"	30.21723	-81.62505	LNM 04/15, 7th Dist	271	11492_1	2/5/2015
+11492	Change	Picolata Flats Light 25	Fl G 4s 19ft 5M "25"	N 29 55' 14.005"	W 081 36' 02.266"	29.92056	-81.60063	LNM 03/15, 7th Dist	272	11492_2	1/22/2015
+11492	Change	New Switzerland Point Light 17A	Fl G 6s 16ft 5M "17A"	N 30 02' 27.420"	W 081 40' 31.320"	30.04095	-81.67537	LNM 29/14, 7th Dist	271	11492_1	7/24/2014
+11492	Change	New Switzerland Point Light 17A	Fl G 6s 16ft 5M "17A"	N 30 02' 27.420"	W 081 40' 31.320"	30.04095	-81.67537	LNM 29/14, 7th Dist	272	11492_2	7/24/2014
+11492	Change	Winter Point Light 1	Fl G 4s 16ft 5M "1"	N 30 17' 48.754"	W 081 40' 24.668"	30.29688	-81.67352	LNM 25/14, 7th Dist	271	11492_1	6/26/2014
+11492	Relocate	Winter Point Light 1	Fl G 4s 16ft 5M "1"	N 30 17' 48.754"	W 081 40' 24.668"	30.29688	-81.67352	LNM 25/14, 7th Dist	271	11492_1	6/26/2014
+11492	Add	Ortega River Daybeacon 5	G "5" Priv	N 30 17' 05.570"	W 081 42' 05.770"	30.28488	-81.7016	LNM 20/14, 7th Dist	271	11492_1	5/29/2014
+11492	Add	Ortega River Lighted Buoy 10	R "10" Fl R 6s Priv	N 30 16' 39.760"	W 081 42' 36.560"	30.27771	-81.71016	LNM 20/14, 7th Dist	271	11492_1	5/29/2014
+11492	Add	Ortega River Lighted Buoy 11	G "11" Fl G 2.5s Priv	N 30 16' 31.140"	W 081 42' 42.180"	30.27532	-81.71172	LNM 20/14, 7th Dist	271	11492_1	5/29/2014
+11492	Add	Ortega River Lighted Buoy 12	R "12" Fl R 4s Priv	N 30 16' 05.000"	W 081 43' 17.290"	30.26805	-81.72147	LNM 20/14, 7th Dist	271	11492_1	5/29/2014
+11492	Add	Ortega River Lighted Buoy 13	G "13" Fl G 2.5s Priv	N 30 16' 13.440"	W 081 43' 04.740"	30.2704	-81.71799	LNM 20/14, 7th Dist	271	11492_1	5/29/2014
+11492	Add	Ortega River Lighted Buoy 2	R "2" Fl R 2.5s Priv	N 30 17' 10.980"	W 081 42' 02.280"	30.28638	-81.70063	LNM 20/14, 7th Dist	271	11492_1	5/29/2014
+11492	Add	Ortega River Lighted Buoy 4	R "4" Fl R 4s Priv	N 30 17' 07.810"	W 081 42' 14.740"	30.2855	-81.70409	LNM 20/14, 7th Dist	271	11492_1	5/29/2014
+11492	Add	Ortega River Lighted Buoy 6	R "6" Fl R 6s Priv	N 30 16' 56.720"	W 081 42' 18.610"	30.28242	-81.70517	LNM 20/14, 7th Dist	271	11492_1	5/29/2014
+11492	Add	Ortega River Lighted Buoy 7	G "7" Fl G 4s Priv	N 30 16' 57.070"	W 081 42' 12.220"	30.28252	-81.70339	LNM 20/14, 7th Dist	271	11492_1	5/29/2014
+11492	Add	Ortega River Lighted Buoy 8	R "8" Fl R 2.5s Priv	N 30 16' 46.790"	W 081 42' 29.180"	30.27966	-81.70811	LNM 20/14, 7th Dist	271	11492_1	5/29/2014
+11492	Add	Ortega River Lighted Buoy 9	G "9" Fl G 4s Priv	N 30 16' 39.840"	W 081 42' 25.220"	30.27773	-81.70701	LNM 20/14, 7th Dist	271	11492_1	5/29/2014
+11492	Change	Ragged Point Light 13	Fl G 6s 12ft 5M "13"	N 30 07' 02.160"	W 081 40' 13.440"	30.11727	-81.6704	LNM 34/13, 7th Dist	271	11492_1	8/29/2013
+11492	Change	Popo Point Light 19	Fl G 4s 16ft 5M "19"	N 30 01' 20.123"	W 081 40' 16.721"	30.02226	-81.67131	LNM 26/13, 7th Dist	272	11492_2	7/30/2013
+11492	Add	Dangerous Wreck	PA (Rep 2012)    Chart No. 1: K28	N 29 59' 08.280"	W 081 38' 51.060"	29.98563	-81.64751	LNM 24/13, 7th Dist	272	11492_2	6/4/2013
+11492	Change	Switzerland Light 15	5M "15"	N 30 05' 55.587"	W 081 40' 16.966"	30.09877	-81.67138	LNM 12/13, 7th Dist	271	11492_1	4/2/2013
+11492	Change	Mandarin Point Light 11	Fl G 4s 16ft 5M "11"	N 30 09' 18.297"	W 081 40' 47.630"	30.15508	-81.67989	LNM 40/12, 7th Dist	271	11492_1	10/24/2012
+11492	Change	Winter Point Light 3	Fl G 2.5s 16ft 5M "3"	N 30 16' 46.790"	W 081 40' 15.514"	30.27966	-81.67097	LNM 27/12, 7th Dist	271	11492_1	7/19/2012
+11492	Relocate	Winter Point Light 3	Fl G 2.5s 16ft 5M "3"	N 30 16' 46.790"	W 081 40' 15.514"	30.27966	-81.67097	LNM 27/12, 7th Dist	271	11492_1	7/19/2012
+11492	Relocate	Racy Point Cut Range Front Light	Q G 16ft	N 29 47' 50.643"	W 081 32' 59.799"	29.7974	-81.54994	LNM 21/12, 7th Dist	272	11492_2	6/11/2012
+11492	Relocate	Racy Point Cut Range Rear Light	Iso G 6s 27ft	N 29 48' 00.589"	W 081 32' 59.601"	29.80016	-81.54989	LNM 21/12, 7th Dist	272	11492_2	6/11/2012
+11492	Relocate	Tocoi Cut Range Front Light	Q 26ft	N 29 51' 47.769"	W 081 35' 00.218"	29.86327	-81.5834	LNM 21/12, 7th Dist	272	11492_2	6/11/2012
+11492	Relocate	Tocoi Cut Range Rear Light	Iso 6s 48ft	N 29 52' 27.292"	W 081 35' 16.710"	29.87425	-81.58797	LNM 21/12, 7th Dist	272	11492_2	6/11/2012
+11492	Relocate	Racy Point Cut Range Rear Light	Iso G 6s 27ft	N 29 48' 00.589"	W 081 32' 59.601"	29.80016	-81.54989	LNM 21/12, 7th Dist	272	11492_2	6/11/2012
+11492	Change	Tocoi Cut Range Front Light	Q 26ft	N 29 51' 47.769"	W 081 35' 00.218"	29.86327	-81.5834	LNM 21/12, 7th Dist	272	11492_2	6/11/2012
+11492	Relocate	Solano Point Light 31	Fl G 2.5s 10ft 3M "31"	N 29 51' 47.769"	W 081 35' 00.218"	29.86327	-81.5834	LNM 21/12, 7th Dist	272	11492_2	6/11/2012
+11492	Relocate	Solano Point Light 29	Fl G 2.5s 10ft 3M "29"	N 29 52' 27.292"	W 081 35' 16.710"	29.87425	-81.58797	LNM 21/12, 7th Dist	272	11492_2	6/11/2012
+11492	Change	Tocoi Cut Range Rear Light	Iso 6s 48ft	N 29 52' 27.292"	W 081 35' 16.710"	29.87425	-81.58797	LNM 21/12, 7th Dist	272	11492_2	6/11/2012
+11492	Change	Racy Point Cut Range Rear Light	Iso G 6s 27ft	N 29 48' 00.589"	W 081 32' 59.601"	29.80016	-81.54989	LNM 21/12, 7th Dist	272	11492_2	6/11/2012
+11492	Add	Goodbys Creek Channel Buoy 2	R N "2" Priv	N 30 13' 00.840"	W 081 37' 29.460"	30.2169	-81.62485	LNM 48/11, 7th Dist	271	11492_1	12/13/2011
+11492	Change	Green Cove Springs Light 20	Fl R 4s 16ft 5M "20"	N 29 59' 49.316"	W 081 39' 07.560"	29.99703	-81.6521	LNM 41/11, 7th Dist	272	11492_2	10/26/2011
+11492	Delete	Bridge Construction Label	Bridge under construction	N 30 18' 55.500"	W 081 40' 13.900"	30.31542	-81.67052	LNM 51/10, 7th Dist	271	11492_1	12/15/2010
+11492	Delete	magenta note: CAUTION	CAUTION Fixed and floating obstructions, some submerged, may exist within the magenta tinted bridge construction area. Mariners are advised to proceed with caution.	N 30 15' 20.800"	W 081 45' 29.000"	30.25578	-81.75806	LNM 51/10, 7th Dist	271	11492_1	12/15/2010
+11492	Delete	Bridge Construction PT 1 OF 2	None	N 30 18' 51.800"	W 081 39' 58.480"	30.31439	-81.66624	LNM 51/10, 7th Dist	271	11492_1	12/15/2010
+11492	Delete	Bridge Construction PT 2 OF 2	None	N 30 18' 59.080"	W 081 40' 28.350"	30.31641	-81.67455	LNM 51/10, 7th Dist	271	11492_1	12/15/2010
+11492	Delete	Romeo Point Dock Obstn Light	F R 8ft Priv	N 30 08' 52.965"	W 081 42' 39.542"	30.14805	-81.71098	LNM 37/10, 7th Dist	271	11492_1	9/19/2010
+11492	Change	Ragged Point Light 13	Fl G 6s 12ft 4M "13"	N 30 07' 02.160"	W 081 40' 13.440"	30.11727	-81.6704	LNM 28/09, 7th Dist	271	11492_1	7/23/2009
+11492	Relocate	Picolata Flats Light 25	Fl G 4s 19ft 4M "25"	N 29 55' 14.005"	W 081 36' 02.266"	29.92056	-81.60063	LNM 44/08, 7th Dist	272	11492_2	11/5/2008
+11492	Relocate	Switzerland Light 15	Fl G 2.5s 16ft 3M "15"	N 30 05' 55.587"	W 081 40' 16.966"	30.09877	-81.67138	LNM 44/08, 7th Dist	271	11492_1	11/5/2008
+11492	Relocate	Mandarin Point Light 11	Fl G 4s 16ft 4M "11"	N 30 09' 18.297"	W 081 40' 47.630"	30.15508	-81.67989	LNM 34/08, 7th Dist	271	11492_1	9/26/2008
+11492	Change	Fixed Bridge	Chart No. 1: D22	N 30 06' 00.000"	W 081 44' 47.000"	30.1	-81.74639	LNM 19/07, 7th Dist	271	11492_1	2/13/2008
+11492	Change	Fixed Bridge Label	FIXED BRIDGE HOR CL 55 FT VERT CL 9 FT	N 30 06' 00.000"	W 081 44' 47.000"	30.1	-81.74639	LNM 19/07, 7th Dist	271	11492_1	2/13/2008

@@ -1,0 +1,70 @@
+Chart: 11475, Current Edition: 19, Print Date: Jun. /2009, Fort Pierce Harbor
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11475	Change	Depth Legend - Turning Basin, Fort Pierce Harbor to:	16 FT NOV 2016	N 27 27' 38.000"	W 080 19' 15.000"	27.46056	-80.32083	LNM 32/17, 7th Dist	290	11475_1	8/3/2017
+11475	Delete	Sounding in Feet	17	N 27 27' 37.970"	W 080 19' 08.260"	27.46055	-80.31896	LNM 32/17, 7th Dist	290	11475_1	8/3/2017
+11475	Delete	Sounding in Feet	14	N 27 27' 30.120"	W 080 19' 13.120"	27.45837	-80.32031	LNM 32/17, 7th Dist	290	11475_1	8/3/2017
+11475	Delete	Sounding in Feet	14	N 27 27' 31.810"	W 080 19' 12.030"	27.45884	-80.32001	LNM 32/17, 7th Dist	290	11475_1	8/3/2017
+11475	Delete	Sounding in Feet	11	N 27 27' 33.540"	W 080 19' 10.510"	27.45932	-80.31959	LNM 32/17, 7th Dist	290	11475_1	8/3/2017
+11475	Delete	Sounding in Feet	14	N 27 27' 35.860"	W 080 19' 09.000"	27.45996	-80.31917	LNM 32/17, 7th Dist	290	11475_1	8/3/2017
+11475	Change	tabulation - Fort Pierce Harbor	tabulation - Fort Pierce Harbor	N 27 28' 07.000"	W 080 20' 11.000"	27.46861	-80.33639	LNM 32/17, 7th Dist	290	11475_1	8/3/2017
+11475	Add	Shoaling reported	Shoaling rep to 4ft PA	N 27 27' 21.246"	W 080 19' 03.408"	27.4559	-80.31761	LNM 18/16, 7th Dist	290	11475_1	5/12/2016
+11475	Add	Causeway Cove Daybeacon 2	R "2" Priv	N 27 27' 21.760"	W 080 18' 48.520"	27.45605	-80.31348	LNM 35/15, 7th Dist	290	11475_1	9/10/2015
+11475	Add	Causeway Cove North Shoal Daybeacon A	W "A" Priv	N 27 27' 23.130"	W 080 18' 46.350"	27.45642	-80.31287	LNM 35/15, 7th Dist	290	11475_1	9/10/2015
+11475	Add	Causeway Cove North Shoal Daybeacon B	W "B" Priv	N 27 27' 24.180"	W 080 18' 43.700"	27.45672	-80.31214	LNM 35/15, 7th Dist	290	11475_1	9/10/2015
+11475	Add	Causeway Cove North Shoal Daybeacon C	W "C" Priv	N 27 27' 24.770"	W 080 18' 40.120"	27.45688	-80.31114	LNM 35/15, 7th Dist	290	11475_1	9/10/2015
+11475	Add	Causeway Cove South Shoal Daybeacon A	W "A" Priv	N 27 27' 27.750"	W 080 18' 45.940"	27.45771	-80.31276	LNM 35/15, 7th Dist	290	11475_1	9/10/2015
+11475	Add	Causeway Cove South Shoal Daybeacon B	W "B" Priv	N 27 27' 22.470"	W 080 18' 42.720"	27.45624	-80.31187	LNM 35/15, 7th Dist	290	11475_1	9/10/2015
+11475	Add	Causeway Cove South Shoal Daybeacon C	W "C" Priv	N 27 27' 22.590"	W 080 18' 39.160"	27.45628	-80.31087	LNM 35/15, 7th Dist	290	11475_1	9/10/2015
+11475	Add	Fort Pierce Inlet Lighted Buoy 5 Magenta Circle	G "5" Fl G 4s AIS	N 27 28' 19.940"	W 080 17' 00.440"	27.47221	-80.28345	LNM 08/15, 7th Dist	290	11475_1	3/5/2015
+11475	Add	Fort Pierce Inlet Lighted Buoy 6 Magenta Circle	R "6" Fl R 4s AIS	N 27 28' 24.591"	W 080 16' 55.743"	27.4735	-80.28215	LNM 08/15, 7th Dist	290	11475_1	3/5/2015
+11475	Delete	Sounding in Feet	8	N 27 27' 59.300"	W 080 19' 44.500"	27.46647	-80.32903	LNM 16/14, 7th Dist	290	11475_1	4/17/2014
+11475	Delete	Sounding in Feet	9	N 27 28' 01.100"	W 080 19' 33.200"	27.46697	-80.32589	LNM 16/14, 7th Dist	290	11475_1	4/17/2014
+11475	Change	Depth Legend - TAYLOR CREEK 	7 FEET 2007-2013	N 27 27' 59.700"	W 080 19' 36.300"	27.46658	-80.32675	LNM 16/14, 7th Dist	290	11475_1	4/17/2014
+11475	Add	Obstruction in Feet	6 Obstn       Chart No. 1: K41	N 27 28' 02.540"	W 080 19' 21.430"	27.46737	-80.32262	LNM 16/14, 7th Dist	290	11475_1	4/17/2014
+11475	Change	Depth Legend - TAYLOR CREEK 	7 FT 2007-2013	N 27 27' 59.700"	W 080 19' 36.300"	27.46658	-80.32675	LNM 16/14, 7th Dist	290	11475_1	4/17/2014
+11475	Change	Indian River (South Section) Light 187	Fl G 4s 16ft 5M "187"	N 27 27' 48.225"	W 080 19' 11.357"	27.4634	-80.31982	LNM 02/14, 7th Dist	290	11475_1	1/30/2014
+11475	Relocate	Indian River (South Section) Light 187	Fl G 4s 16ft 4M "187"	N 27 27' 48.225"	W 080 19' 11.357"	27.4634	-80.31982	LNM 33/13, 7th Dist	290	11475_1	8/22/2013
+11475	Change	tabulation - Fort Pierce Harbor	tabulation - Fort Pierce Harbor	N 27 28' 07.000"	W 080 20' 11.000"	27.46861	-80.33639	LNM 34/13, 7th Dist	290	11475_1	8/14/2013
+11475	Change	Fort Pierce Inlet Turning Basin Lighted Buoy B	Y "B" Fl Y 6s	N 27 27' 28.884"	W 080 19' 14.094"	27.45802	-80.32058	LNM 16/13, 7th Dist	290	11475_1	4/30/2013
+11475	Delete	Fort Pierce City Marina Channel Daybeacon 3	G "3"	N 27 27' 23.700"	W 080 19' 06.420"	27.45658	-80.31845	LNM 07/13, 7th Dist	290	11475_1	3/5/2013
+11475	Delete	Fort Pierce City Marina Channel Daybeacon 4	R "4"	N 27 27' 24.840"	W 080 19' 07.500"	27.4569	-80.31875	LNM 07/13, 7th Dist	290	11475_1	3/5/2013
+11475	Delete	Fort Pierce City Marina Channel Junction Daybeacon	GR Bn	N 27 27' 22.920"	W 080 19' 07.020"	27.45637	-80.31862	LNM 07/13, 7th Dist	290	11475_1	3/5/2013
+11475	Change	tabulation - Fort Pierce Harbor	tabulation - Fort Pierce Harbor	N 27 28' 07.000"	W 080 20' 11.000"	27.46861	-80.33639	LNM 22/12, 7th Dist	290	11475_1	5/30/2012
+11475	Change	Depth Legend - Fort Pierce Harbor, Turning Basin	20 FT JAN 2011	N 27 27' 38.000"	W 080 19' 15.000"	27.46056	-80.32083	LNM 20/12, 7th Dist	290	11475_1	5/9/2012
+11475	Change	Fort Pierce Inlet Inner Harbor Light 16	Q R 12ft 4M "16"	N 27 27' 42.727"	W 080 19' 05.843"	27.46187	-80.31829	LNM 45/11, 7th Dist	290	11475_1	11/29/2011
+11475	Change	Fort Pierce Inlet Inner Harbor Light 17	Q G 16ft 4M "17"	N 27 27' 38.375"	W 080 19' 04.886"	27.46066	-80.31802	LNM 45/11, 7th Dist	290	11475_1	11/29/2011
+11475	Add	Fort Pierce Inlet Turning Basin Lighted Buoy B	Y "B" Fl Y 4s	N 27 27' 28.884"	W 080 19' 14.094"	27.45802	-80.32058	LNM 38/11, 7th Dist	290	11475_1	10/7/2011
+11475	Delete	Fort Pierce Inlet Turning Basin Lighted Buoy A	Y "A" Fl Y 4s	N 27 27' 28.900"	W 080 19' 14.100"	27.45803	-80.32058	LNM 38/11, 7th Dist	290	11475_1	10/7/2011
+11475	Change	Fort Pierce Inlet Harbor Light 16	Q R 12ft 5M "16"	N 27 27' 42.727"	W 080 19' 05.843"	27.46187	-80.31829	LNM 13/11, 7th Dist	290	11475_1	4/6/2011
+11475	Change	Fort Pierce Inlet Harbor Light 17	Q G 16ft 5M "17"	N 27 27' 38.375"	W 080 19' 04.886"	27.46066	-80.31802	LNM 13/11, 7th Dist	290	11475_1	4/6/2011
+11475	Relocate	Fort Pierce Inlet Entrance RF Light	Q G 15ft	N 27 28' 09.743"	W 080 18' 12.363"	27.46937	-80.30344	LNM 10/11, 7th Dist	290	11475_1	3/16/2011
+11475	Relocate	Fort Pierce Inlet Entrance RR Light	Iso G 6s 50ft	N 27 28' 02.771"	W 080 18' 54.789"	27.46744	-80.31522	LNM 10/11, 7th Dist	290	11475_1	3/16/2011
+11475	Relocate	Fort Pierce Inlet Inner Hbr Outbound RR Light	Iso G 6s 32ft	N 27 28' 19.961"	W 080 17' 41.874"	27.47221	-80.29497	LNM 10/11, 7th Dist	290	11475_1	3/16/2011
+11475	Change	Fort Pierce Inlet Entrance RF Light	Q G 18ft	N 27 28' 09.743"	W 080 18' 12.363"	27.46937	-80.30344	LNM 10/11, 7th Dist	290	11475_1	3/16/2011
+11475	Change	Fort Pierce Inlet Inner Hbr Outbound RR Light	Iso G 6s 38ft	N 27 28' 19.961"	W 080 17' 41.874"	27.47221	-80.29497	LNM 10/11, 7th Dist	290	11475_1	3/16/2011
+11475	Change	Submerged Pile label	Subm Pile	N 27 27' 36.000"	W 080 19' 05.000"	27.46	-80.31805	LNM 09/10, 7th Dist	290	11475_1	3/4/2010
+11475	Delete	Visible Wreck	PA     Chart No. 1: K24	N 27 27' 23.000"	W 080 19' 26.600"	27.45639	-80.32406	LNM 09/10, 7th Dist	290	11475_1	3/4/2010
+11475	Add	Dangerous Wreck	ED      Chart No. 1: K28	N 27 27' 23.000"	W 080 19' 26.600"	27.45639	-80.32406	LNM 09/10, 7th Dist	290	11475_1	3/4/2010
+11475	Change	Fort Pierce Inlet Harbor LB 9	G "9" Q G	N 27 28' 12.102"	W 080 17' 50.111"	27.47003	-80.29726	LNM 04/10, 7th Dist	290	11475_1	2/3/2010
+11475	Relocate	Fort Pierce Inlet Lighted Buoy 4	R "4" Fl R 2.5s	N 27 28' 31.777"	W 080 16' 13.040"	27.47549	-80.27029	LNM 03/10, 7th Dist	290	11475_1	1/28/2010
+11475	Relocate	Fort Pierce Inlet Lighted Buoy 5	G "5" Fl G 4s	N 27 28' 19.940"	W 080 17' 00.440"	27.47221	-80.28345	LNM 03/10, 7th Dist	290	11475_1	1/28/2010
+11475	Relocate	Fort Pierce Inlet Lighted Buoy 6	R "6" Fl R 4s	N 27 28' 24.591"	W 080 16' 55.743"	27.4735	-80.28215	LNM 03/10, 7th Dist	290	11475_1	1/28/2010
+11475	Delete	Pier in Ruins PT 1 OF 2	Ruins     Chart No. 1: F33.1 \ F33.2	N 27 27' 01.450"	W 080 19' 18.500"	27.4504	-80.32181	LNM 48/09, 7th Dist	290	11475_1	12/3/2009
+11475	Delete	Pier in Ruins PT 2 OF 2	Ruins     Chart No. 1: F33.1 \ F33.2	N 27 27' 02.600"	W 080 19' 13.450"	27.45072	-80.3204	LNM 48/09, 7th Dist	290	11475_1	12/3/2009
+11475	Delete	Pier in Ruins PT 1 OF 4	Ruins     Chart No. 1: F33.1 \ F33.2	N 27 27' 05.500"	W 080 19' 20.350"	27.45153	-80.32232	LNM 48/09, 7th Dist	290	11475_1	12/3/2009
+11475	Delete	Pier in Ruins PT 2 OF 4	Ruins     Chart No. 1: F33.1 \ F33.2	N 27 27' 05.700"	W 080 19' 19.950"	27.45158	-80.3222	LNM 48/09, 7th Dist	290	11475_1	12/3/2009
+11475	Delete	Pier in Ruins PT 3 OF 4	Ruins     Chart No. 1: F33.1 \ F33.2	N 27 27' 06.300"	W 080 19' 17.950"	27.45175	-80.32166	LNM 48/09, 7th Dist	290	11475_1	12/3/2009
+11475	Delete	Pier in Ruins PT 4 OF 4	Ruins     Chart No. 1: F33.1 \ F33.2	N 27 27' 04.950"	W 080 19' 13.150"	27.45137	-80.32032	LNM 48/09, 7th Dist	290	11475_1	12/3/2009
+11475	Delete	Pile	Pile     Chart No. 1: F22	N 27 27' 05.500"	W 080 19' 19.800"	27.45153	-80.32217	LNM 48/09, 7th Dist	290	11475_1	12/3/2009
+11475	Delete	Piling PT 1 OF 2	Piles	N 27 27' 07.170"	W 080 19' 19.550"	27.45199	-80.3221	LNM 48/09, 7th Dist	290	11475_1	12/3/2009
+11475	Delete	Piling PT 2 OF 2	Piles	N 27 27' 07.400"	W 080 19' 18.000"	27.45205	-80.32166	LNM 48/09, 7th Dist	290	11475_1	12/3/2009
+11475	Delete	Pier in Ruins PT 1 OF 3	Ruins     Chart No. 1: F33.1 \ F33.2	N 27 26' 57.450"	W 080 19' 17.400"	27.44929	-80.3215	LNM 48/09, 7th Dist	290	11475_1	12/3/2009
+11475	Delete	Pier in Ruins PT 2 OF 3	Ruins     Chart No. 1: F33.1 \ F33.2	N 27 26' 58.850"	W 080 19' 11.000"	27.44968	-80.31973	LNM 48/09, 7th Dist	290	11475_1	12/3/2009
+11475	Delete	Pier in Ruins PT 3 OF 3	Ruins     Chart No. 1: F33.1 \ F33.2	N 27 27' 03.600"	W 080 19' 12.350"	27.451	-80.3201	LNM 48/09, 7th Dist	290	11475_1	12/3/2009
+11475	Delete	Pier in Ruins PT 1 OF 2	Ruins     Chart No. 1: F33.1 \ F33.2	N 27 26' 59.400"	W 080 19' 17.950"	27.44983	-80.32166	LNM 48/09, 7th Dist	290	11475_1	12/3/2009
+11475	Delete	Pier in Ruins PT 2 OF 2	Ruins     Chart No. 1: F33.1 \ F33.2	N 27 27' 00.650"	W 080 19' 12.900"	27.45018	-80.32025	LNM 48/09, 7th Dist	290	11475_1	12/3/2009
+11475	Delete	Approximate Landmark (Sign)	Sign	N 27 27' 06.100"	W 080 19' 17.200"	27.45169	-80.32144	LNM 48/09, 7th Dist	290	11475_1	12/3/2009
+11475	Change	Tabulation - FORT PIERCE HARBOR	Tabulation - FORT PIERCE HARBOR	N 27 28' 07.000"	W 080 20' 11.000"	27.46861	-80.33639	LNM 41/09, 7th Dist	290	11475_1	10/15/2009
+11475	Add	Sounding in Feet	19	N 27 27' 30.600"	W 080 19' 13.200"	27.4585	-80.32034	LNM 41/09, 7th Dist	290	11475_1	10/15/2009
+11475	Substitute	Sounding in Feet	9	N 27 27' 35.200"	W 080 19' 09.100"	27.45978	-80.31919	LNM 41/09, 7th Dist	290	11475_1	10/15/2009
+11475	Add	Obstruction in Feet	24 Obstn       Chart No. 1: K41	N 27 27' 28.400"	W 080 19' 18.800"	27.45789	-80.32189	LNM 40/09, 7th Dist	290	11475_1	10/8/2009

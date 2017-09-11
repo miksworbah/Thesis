@@ -1,0 +1,44 @@
+Chart: 11476, Current Edition: 23, Print Date: Jul. /2014, Cape Canaveral to Bethel Shoal
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11476	Delete	Banana River Daybeacon 4	R "4"	N 28 10' 39.426"	W 080 37' 04.764"	28.17762	-80.61799	LNM 25/17, 7th Dist	306	11476_1	6/29/2017
+11476	Delete	Banana River Daybeacon 6B	R "6B"	N 28 13' 42.822"	W 080 37' 38.760"	28.22856	-80.62743	LNM 25/17, 7th Dist	306	11476_1	6/29/2017
+11476	Add	Banana River Buoy 4	R N "4"	N 28 10' 39.422"	W 080 37' 04.824"	28.17762	-80.618	LNM 25/17, 7th Dist	306	11476_1	6/29/2017
+11476	Add	Banana River Buoy 6B	R N "6B"	N 28 13' 42.849"	W 080 37' 38.767"	28.22857	-80.62743	LNM 25/17, 7th Dist	306	11476_1	6/29/2017
+11476	Delete	Banana River Daybeacon 24	R "24"	N 28 19' 55.830"	W 080 39' 16.518"	28.33217	-80.65459	LNM 25/17, 7th Dist	306	11476_1	6/29/2017
+11476	Add	Banana River Buoy 24	R N "24"	N 28 19' 55.810"	W 080 39' 16.504"	28.33217	-80.65459	LNM 25/17, 7th Dist	306	11476_1	6/29/2017
+11476	Delete	Banana River Daybeacon 17	G "17"	N 28 18' 32.844"	W 080 39' 12.684"	28.30912	-80.65353	LNM 24/17, 7th Dist	306	11476_1	6/22/2017
+11476	Add	Banana River Buoy 17	G C "17"	N 28 18' 32.852"	W 080 39' 12.686"	28.30913	-80.65353	LNM 24/17, 7th Dist	306	11476_1	6/22/2017
+11476	Relocate	Banana River Daybeacon 1	G "1"	N 28 08' 30.750"	W 080 36' 12.888"	28.14187	-80.60358	LNM 11/17, 7th Dist	306	11476_1	3/16/2017
+11476	Relocate	Canaveral Harbor Entrance Channel Range Front Light	Q G 32ft	N 28 24' 35.790"	W 080 37' 36.820"	28.40994	-80.62689	LNM 45/16, 7th Dist	306	11476_1	11/17/2016
+11476	Change	Canaveral Harbor Entrance Channel Range Front Light	Fl G 2.5s 28ft	N 28 24' 35.790"	W 080 37' 36.820"	28.40994	-80.62689	LNM 45/16, 7th Dist	306	11476_1	11/17/2016
+11476	Relocate	Canaveral Harbor Entrance Channel Range Rear Light	Iso G 6s 64ft	N 28 24' 35.910"	W 080 38' 02.580"	28.40998	-80.63405	LNM 45/16, 7th Dist	306	11476_1	11/17/2016
+11476	Change	Canaveral Harbor Entrance Channel Range Rear Light	Iso G 6s 65ft	N 28 24' 35.910"	W 080 38' 02.580"	28.40998	-80.63405	LNM 45/16, 7th Dist	306	11476_1	11/17/2016
+11476	Add	Submerged Pile	Subm pile PA	N 28 26' 15.900"	W 080 38' 26.610"	28.43775	-80.64072	LNM 43/16, 7th Dist	306	11476_1	11/3/2016
+11476	Change	Depth Note - Note F CANAVERAL HARBOR CHANNEL to:	The project depths are 46 feet. For controlling depths use chart 11478.	N 28 26' 42.620"	W 080 34' 40.470"	28.44517	-80.57791	LNM 25/16, 7th Dist	306	11476_1	6/30/2016
+11476	Change	Pile	Pile PA	N 28 20' 54.360"	W 080 39' 10.560"	28.34843	-80.65293	LNM 23/16, 7th Dist	306	11476_1	6/16/2016
+11476	Delete	East Basin Light 2	Fl R 6s 12ft 5M "2"	N 28 24' 39.839"	W 080 35' 24.905"	28.41107	-80.59025	LNM 21/16, 7th Dist	306	11476_1	6/2/2016
+11476	Relocate	Canaveral Harbor Approach Channel Lighted Buoy 9	G "9" Q G	N 28 24' 08.144"	W 080 33' 58.351"	28.40226	-80.56621	LNM 21/16, 7th Dist	306	11476_1	6/2/2016
+11476	Change	Canaveral Harbor Approach Channel Lighted Buoy 9	G "9" Fl G 2.5s	N 28 24' 08.144"	W 080 33' 58.351"	28.40226	-80.56621	LNM 21/16, 7th Dist	306	11476_1	6/2/2016
+11476	Relocate	Canaveral Harbor Entrance Channel Light 14	Fl R 2.5s 20ft 5M "14"	N 28 24' 38.820"	W 080 35' 36.984"	28.41078	-80.59361	LNM 21/16, 7th Dist	306	11476_1	6/2/2016
+11476	Relocate	Canaveral Harbor Entrance Channel Lighted Buoy 11	G "11" Fl G 2.5s AIS	N 28 24' 21.185"	W 080 34' 20.712"	28.40588	-80.57242	LNM 21/16, 7th Dist	306	11476_1	6/2/2016
+11476	Change	Canaveral Harbor Entrance Channel Lighted Buoy 11	G "11" Q G AIS	N 28 24' 21.185"	W 080 34' 20.712"	28.40588	-80.57242	LNM 21/16, 7th Dist	306	11476_1	6/2/2016
+11476	Relocate	Canaveral Harbor Entrance Channel Lighted Buoy 12	R "12" Fl R 4s	N 28 24' 37.819"	W 080 35' 01.529"	28.41051	-80.58376	LNM 21/16, 7th Dist	306	11476_1	6/2/2016
+11476	Relocate	Canaveral Harbor Entrance Channel Lighted Buoy 13	G "13" Fl G 4s	N 28 24' 29.396"	W 080 34' 46.001"	28.40816	-80.57944	LNM 21/16, 7th Dist	306	11476_1	6/2/2016
+11476	Add	Canaveral Harbor Entrance Channel Light 12A	Fl R 2.5s 12ft 5M "12A"	N 28 24' 38.720"	W 080 35' 21.704"	28.41076	-80.58936	LNM 21/16, 7th Dist	306	11476_1	6/2/2016
+11476	Change	Canaveral Harbor Entrance Channel Light 14	Fl R 4s 20ft 5M "14"	N 28 24' 38.820"	W 080 35' 36.984"	28.41078	-80.59361	LNM 21/16, 7th Dist	306	11476_1	6/2/2016
+11476	Delete	Sounding in Feet	79	N 28 22' 52.960"	W 080 18' 10.550"	28.38138	-80.30293	LNM 43/15, 7th Dist	306	11476_1	10/22/2015
+11476	Delete	Dotted Fish Haven PT 1 OF 3	Chart No. 1: K46.2	N 28 24' 32.350"	W 080 18' 42.350"	28.40899	-80.31177	LNM 43/15, 7th Dist	306	11476_1	10/22/2015
+11476	Delete	Dotted Fish Haven PT 2 OF 3	Chart No. 1: K46.2	N 28 21' 15.870"	W 080 17' 26.390"	28.35441	-80.29066	LNM 43/15, 7th Dist	306	11476_1	10/22/2015
+11476	Delete	Dotted Fish Haven PT 3 OF 3	Chart No. 1: K46.2	N 28 21' 45.980"	W 080 16' 35.300"	28.36277	-80.27647	LNM 43/15, 7th Dist	306	11476_1	10/22/2015
+11476	Add	Dotted Fish Haven PT 1 OF 5	Chart No. 1: K46.2	N 28 24' 32.350"	W 080 18' 42.350"	28.40899	-80.31177	LNM 43/15, 7th Dist	306	11476_1	10/22/2015
+11476	Add	Dotted Fish Haven PT 2 OF 5	Chart No. 1: K46.2	N 28 24' 30.400"	W 080 18' 56.700"	28.40845	-80.31575	LNM 43/15, 7th Dist	306	11476_1	10/22/2015
+11476	Add	Dotted Fish Haven PT 3 OF 5	Chart No. 1: K46.2	N 28 21' 09.800"	W 080 17' 38.900"	28.35272	-80.29414	LNM 43/15, 7th Dist	306	11476_1	10/22/2015
+11476	Add	Dotted Fish Haven PT 4 OF 5	Chart No. 1: K46.2	N 28 21' 32.200"	W 080 16' 29.800"	28.35894	-80.27495	LNM 43/15, 7th Dist	306	11476_1	10/22/2015
+11476	Add	Dotted Fish Haven PT 5 OF 5	Chart No. 1: K46.2	N 28 21' 45.980"	W 080 16' 35.300"	28.36277	-80.27647	LNM 43/15, 7th Dist	306	11476_1	10/22/2015
+11476	Change	Banana River North Light 19	Fl G 4s 16ft 5M "19"	N 28 26' 53.856"	W 080 38' 29.994"	28.44829	-80.64166	LNM 15/15, 7th Dist	306	11476_1	4/23/2015
+11476	Change	Canaveral Barge Canal Light 5	Fl G 4s 16ft 5M "5"	N 28 24' 32.348"	W 080 38' 42.514"	28.40899	-80.64514	LNM 15/15, 7th Dist	306	11476_1	4/23/2015
+11476	Change	Canaveral Barge Canal Light 8	Fl R 4s 12ft 5M "8"	N 28 24' 33.699"	W 080 39' 34.041"	28.40936	-80.65945	LNM 15/15, 7th Dist	306	11476_1	4/23/2015
+11476	Change	Cape Canaveral South Jetty Light	Fl 2.5s 20ft 5M	N 28 24' 29.630"	W 080 35' 13.540"	28.40823	-80.5871	LNM 10/15, 7th Dist	306	11476_1	3/19/2015
+11476	Relocate	Cape Canaveral South Jetty Light	Fl 2.5s 20ft 5M	N 28 24' 29.630"	W 080 35' 13.540"	28.40823	-80.5871	LNM 10/15, 7th Dist	306	11476_1	3/19/2015
+11476	Add	Canaveral Harbor Entrance Channel Lighted Buoy 11 Magenta Circle	G "11" Fl G 2.5s AIS	N 28 24' 30.587"	W 080 34' 41.867"	28.4085	-80.57829	LNM 08/15, 7th Dist	306	11476_1	3/5/2015
+11476	Change	Depth Legend - Canaveral Barge Canal to:	9 FT FOR MID 60 FT FEB 2014	N 28 24' 32.900"	W 080 40' 51.300"	28.40914	-80.68092	LNM 35/14, 7th Dist	306	11476_1	9/4/2014

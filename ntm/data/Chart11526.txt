@@ -1,0 +1,7 @@
+Chart: 11526, Current Edition: 11, Print Date: Jan. /2015, Wando River Upper Part
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11526	Change	Overhead Power Cable Label	OVHD PWR CAB SAFE CL 85 FT	N 32 55' 31.000"	W 079 50' 00.000"	32.92528	-79.83334	LNM 21/17, 7th Dist	218	11526_1	5/18/2017
+11526	Change	Bridge Construction	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 32 55' 25.300"	W 079 49' 33.000"	32.92369	-79.82584	LNM 04/17, 7th Dist	218	11526_1	1/19/2017
+11526	Delete	Swing Bridge Label	SWING BRIDGE HOR CL 62 FT VERT CL 6 FT	N 32 55' 25.300"	W 079 49' 33.000"	32.92369	-79.82584	LNM 04/17, 7th Dist	218	11526_1	1/19/2017
+11526	Add	Bridge Construction Label	Bridge under construction (see note)	N 32 55' 25.300"	W 079 49' 33.000"	32.92369	-79.82584	LNM 04/17, 7th Dist	218	11526_1	1/19/2017
+11526	Add	Bridge Construction Note	CAUTION Fixed and floating obstructions, some submerged, may exist within the magenta tinted bridge construction area. Mariners are advised to proceed with caution.	N 32 56' 13.260"	W 079 49' 29.930"	32.93702	-79.82498	LNM 04/17, 7th Dist	218	11526_1	1/19/2017

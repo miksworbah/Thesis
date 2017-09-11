@@ -1,0 +1,78 @@
+Chart: 11451, Current Edition: 36, Print Date: Jan. /2017, Miami to Marathon and Florida Bay
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11451	Delete	Miami Anchorage Buoy B	Y N "B"	N 25 46' 22.686"	W 080 06' 09.240"	25.77297	-80.10257	LNM 33/17, 7th Dist	333	11451_1	8/31/2017
+11451	Change	Depth Legend - Fisher Island Turning Basin, FL to:	48 FT OCT 2016	N 25 45' 56.500"	W 080 08' 31.600"	25.76569	-80.14211	Not Yet Published	340	11451_8	8/31/2017
+11451	Delete	Sounding in Feet	49	N 25 45' 55.600"	W 080 08' 18.500"	25.76544	-80.13847	Not Yet Published	340	11451_8	8/31/2017
+11451	Change	Depth Legend - Bar Cut, FL to:	51 1/2 FT MID-WIDTH OF 250 FT NOV 2016	N 25 45' 38.800"	W 080 07' 34.800"	25.76078	-80.12634	Not Yet Published	340	11451_8	8/31/2017
+11451	Change	Depth Legend - Bar Cut, FL to:	51 1/2 FT MID-WIDTH OF 250 FT NOV 2016	N 25 45' 38.800"	W 080 07' 34.800"	25.76078	-80.12634	Not Yet Published	333	11451_1	8/31/2017
+11451	Change	Depth Legend - Government Cut, FL to:	43 1/2 FT OCT 2016	N 25 45' 51.800"	W 080 08' 06.100"	25.76439	-80.13503	Not Yet Published	340	11451_8	8/31/2017
+11451	Change	Depth Legend - Main Channel, FL to:	32 1/2 FT OCT 2016	N 25 46' 30.800"	W 080 09' 40.800"	25.77522	-80.16133	Not Yet Published	340	11451_8	8/31/2017
+11451	Change	Depth Legend - Lummus Island Turning Basin, FL to:	26 1/2 FT OCT 2016	N 25 46' 01.500"	W 080 10' 01.500"	25.76708	-80.16708	Not Yet Published	340	11451_8	8/31/2017
+11451	Change	Depth Legend - Dodge Island Cut, FL to:	27 1/2 FT OCT 2016	N 25 46' 17.100"	W 080 10' 24.900"	25.77142	-80.17358	Not Yet Published	340	11451_8	8/31/2017
+11451	Change	Depth Legend - Outer Bar Cut, FL to:	52 FT MID-WIDTH OF 250-400 FT NOV 2016	N 25 45' 34.700"	W 080 06' 13.500"	25.75964	-80.10375	Not Yet Published	333	11451_1	8/31/2017
+11451	Change	Depth Legend - South Ship Channel, FL to:	45 FT OCT 2016	N 25 45' 55.000"	W 080 09' 11.600"	25.76528	-80.15322	Not Yet Published	340	11451_8	8/31/2017
+11451	Change	Depth Legend - Widerner to:	46 FT 	N 25 45' 27.700"	W 080 06' 52.700"	25.75769	-80.11464	Not Yet Published	333	11451_1	8/31/2017
+11451	Add	Channel Reach Separation Line PT 1 OF 3	Channel Reach Separation Line	N 25 45' 53.090"	W 080 08' 17.900"	25.76475	-80.13831	Not Yet Published	340	11451_8	8/31/2017
+11451	Add	Channel Reach Separation Line PT 2 OF 3	Channel Reach Separation Line	N 25 45' 53.160"	W 080 08' 15.160"	25.76477	-80.13754	Not Yet Published	340	11451_8	8/31/2017
+11451	Add	Channel Reach Separation Line PT 3 OF 3	Channel Reach Separation Line	N 25 45' 50.560"	W 080 08' 08.400"	25.76404	-80.13567	Not Yet Published	340	11451_8	8/31/2017
+11451	Add	Channel Reach Separation Line PT 1 OF 2	Channel Reach Separation Line	N 25 45' 53.160"	W 080 08' 15.160"	25.76477	-80.13754	Not Yet Published	340	11451_8	8/31/2017
+11451	Add	Channel Reach Separation Line PT 2 OF 2	Channel Reach Separation Line	N 25 45' 57.690"	W 080 08' 13.040"	25.76603	-80.13696	Not Yet Published	340	11451_8	8/31/2017
+11451	Add	Depth Legend - Widener Miami Harbor, FL to:	33 FT OCT 2016 	N 25 45' 52.700"	W 080 08' 15.200"	25.76464	-80.13756	Not Yet Published	340	11451_8	8/31/2017
+11451	Delete	Channel Reach Separation Line PT 1 OF 2	Channel Reach Separation Line	N 25 46' 23.340"	W 080 10' 34.190"	25.77315	-80.17616	Not Yet Published	340	11451_8	8/31/2017
+11451	Delete	Channel Reach Separation Line PT 2 OF 2	Channel Reach Separation Line	N 25 46' 19.780"	W 080 10' 36.060"	25.77216	-80.17668	Not Yet Published	340	11451_8	8/31/2017
+11451	Add	Sounding in Feet	37	N 25 45' 52.600"	W 080 09' 06.400"	25.76461	-80.15178	Not Yet Published	340	11451_8	8/31/2017
+11451	Change	Depth Legend - Fisher Island, FL to:	33 FT OCT 2016	N 25 45' 52.000"	W 080 08' 35.000"	25.76444	-80.14306	Not Yet Published	340	11451_8	8/31/2017
+11451	Delete	Channel Reach Separation Line PT 1 OF 2	Channel Reach Separation Line	N 25 45' 53.090"	W 080 08' 17.900"	25.76475	-80.13831	Not Yet Published	340	11451_8	8/31/2017
+11451	Delete	Channel Reach Separation Line PT 2 OF 2	Channel Reach Separation Line	N 25 45' 58.580"	W 080 08' 15.310"	25.76627	-80.13759	Not Yet Published	340	11451_8	8/31/2017
+11451	Add	Channel Limits PT 1 OF 2	Chart No. 1: I20	N 25 46' 25.120"	W 080 10' 48.470"	25.77364	-80.18013	Not Yet Published	340	11451_8	8/31/2017
+11451	Add	Channel Limits PT 2 OF 2	Chart No. 1: I20	N 25 46' 19.780"	W 080 10' 36.060"	25.77216	-80.17668	Not Yet Published	340	11451_8	8/31/2017
+11451	Delete	Sounding in Feet	7	N 25 46' 09.240"	W 080 08' 34.150"	25.76923	-80.14282	LNM 35/17, 7th Dist	340	11451_8	8/24/2017
+11451	Add	Sounding in Feet	6	N 25 46' 08.800"	W 080 08' 32.000"	25.76911	-80.14222	LNM 35/17, 7th Dist	340	11451_8	8/24/2017
+11451	Add	Sounding in Feet	8	N 25 46' 07.600"	W 080 08' 30.000"	25.76878	-80.14167	LNM 35/17, 7th Dist	340	11451_8	8/24/2017
+11451	Add	Sounding in Feet	6	N 25 46' 09.600"	W 080 08' 34.100"	25.76933	-80.14281	LNM 35/17, 7th Dist	340	11451_8	8/24/2017
+11451	Add	Anchorage Area A Point 3 of 4	Anchorage Area A 110.188 (see note A)	N 25 46' 31.443"	W 080 05' 27.069"	25.7754	-80.09085	LNM 31/17, 7th Dist	333	11451_1	8/24/2017
+11451	Add	Anchorage Area A Point 4 of 4	Anchorage Area A 110.188 (see note A)	N 25 46' 31.557"	W 080 05' 37.868"	25.77543	-80.09385	LNM 31/17, 7th Dist	333	11451_1	8/24/2017
+11451	Add	Anchorage Area B Point 3 of 4	Anchorage Area B 110.188 (see note A)	N 25 46' 32.712"	W 080 04' 28.387"	25.77575	-80.07455	LNM 31/17, 7th Dist	333	11451_1	8/24/2017
+11451	Add	Anchorage Area B Point 4 of 4	Anchorage Area B 110.188 (see note A)	N 25 46' 43.770"	W 080 05' 02.360"	25.77883	-80.08399	LNM 31/17, 7th Dist	333	11451_1	8/24/2017
+11451	Change	Flamingo Channel Light 9	Fl G 4s 16ft 5M "9" Priv	N 25 07' 25.234"	W 080 55' 46.746"	25.12368	-80.92965	LNM 31/17, 7th Dist	338	11451_6	8/24/2017
+11451	Change	Flamingo Channel Daybeacon 12	R "12" Priv	N 25 07' 49.047"	W 080 55' 38.905"	25.13029	-80.92747	LNM 31/17, 7th Dist	338	11451_6	8/24/2017
+11451	Change	Flamingo Channel Daybeacon 14	R "14" Priv	N 25 08' 12.603"	W 080 55' 32.087"	25.13684	-80.92558	LNM 31/17, 7th Dist	338	11451_6	8/24/2017
+11451	Change	Flamingo Channel Light 15	Fl G 2.5s 16ft 4M "15" Priv	N 25 08' 24.064"	W 080 55' 26.596"	25.14002	-80.92406	LNM 31/17, 7th Dist	338	11451_6	8/24/2017
+11451	Change	Flamingo Channel Daybeacon 16	R "16" Priv	N 25 08' 19.649"	W 080 55' 27.422"	25.13879	-80.92429	LNM 31/17, 7th Dist	338	11451_6	8/24/2017
+11451	Change	Flamingo Channel Daybeacon 18	R "18" Priv	N 25 08' 25.076"	W 080 55' 19.261"	25.1403	-80.92202	LNM 31/17, 7th Dist	338	11451_6	8/24/2017
+11451	Add	Anchorage Area A Point 1 of 4	Anchorage Area A 110.188 (see note A)	N 25 47' 51.000"	W 080 05' 37.230"	25.7975	-80.09367	LNM 31/17, 7th Dist	333	11451_1	8/24/2017
+11451	Add	Anchorage Area A Point 2 of 4	Anchorage Area A 110.188 (see note A)	N 25 47' 51.050"	W 080 05' 26.470"	25.79751	-80.09068	LNM 31/17, 7th Dist	333	11451_1	8/24/2017
+11451	Add	Anchorage Area B Point 1 of 4	Anchorage Area B 110.188 (see note A)	N 25 47' 50.180"	W 080 04' 59.770"	25.79727	-80.08327	LNM 31/17, 7th Dist	333	11451_1	8/24/2017
+11451	Add	Anchorage Area B Point 2 of 4	Anchorage Area B 110.188 (see note A)	N 25 47' 02.610"	W 080 04' 20.650"	25.78406	-80.0724	LNM 31/17, 7th Dist	333	11451_1	8/24/2017
+11451	Delete	Anchorage Area Point 1 of 3	Anchorage Area	N 25 47' 50.450"	W 080 05' 50.040"	25.79735	-80.09724	LNM 31/17, 7th Dist	333	11451_1	8/24/2017
+11451	Delete	Anchorage Area Point 2 of 3	Anchorage Area	N 25 46' 25.420"	W 080 06' 09.460"	25.77373	-80.10263	LNM 31/17, 7th Dist	333	11451_1	8/24/2017
+11451	Delete	Anchorage Area Point 3 of 3	Anchorage Area	N 25 46' 05.950"	W 080 04' 21.220"	25.76832	-80.07256	LNM 31/17, 7th Dist	333	11451_1	8/24/2017
+11451	Relocate	Miami Turning Basin Articulated Light B	Art "B" Iso 6s	N 25 47' 10.628"	W 080 10' 54.572"	25.78629	-80.18182	LNM 30/17, 7th Dist	340	11451_8	8/24/2017
+11451	Relocate	Miami Turning Basin Articulated Light D	Art "D" Iso 6s	N 25 47' 01.329"	W 080 11' 05.971"	25.7837	-80.18499	LNM 30/17, 7th Dist	340	11451_8	8/24/2017
+11451	Delete	Dinner Key Mooring Field 4 Lighted Buoy AA	Y "AA" Fl 4s Priv	N 25 43' 00.135"	W 080 13' 00.849"	25.7167	-80.2169	LNM 30/17, 7th Dist	336	11451_4	8/24/2017
+11451	Add	Dinner Key Mooring Field 4 Lighted Buoy AA	Y "AA" Fl 4s Priv	N 25 43' 08.110"	W 080 13' 50.950"	25.71892	-80.23082	LNM 30/17, 7th Dist	336	11451_4	8/24/2017
+11451	Add	Dinner Key Mooring Field 4 Buoy BB	Y C "BB" Priv	N 25 43' 04.980"	W 080 13' 49.330"	25.71805	-80.23037	LNM 30/17, 7th Dist	336	11451_4	8/24/2017
+11451	Add	Dinner Key Mooring Field 4 Buoy CC	Y C "CC" Priv	N 25 43' 01.850"	W 080 13' 47.710"	25.71718	-80.22992	LNM 30/17, 7th Dist	336	11451_4	8/24/2017
+11451	Delete	Dinner Key Mooring Field 4 Lighted Buoy DD	Y "DD" Fl 2.5s Priv	N 25 42' 00.979"	W 080 13' 00.768"	25.70027	-80.21688	LNM 30/17, 7th Dist	336	11451_4	8/24/2017
+11451	Delete	Dinner Key Mooring Field 4 Lighted Buoy DD	Y "DD" Fl 2.5s Priv	N 25 42' 00.979"	W 080 13' 00.768"	25.70027	-80.21688	LNM 30/17, 7th Dist	333	11451_1	8/24/2017
+11451	Add	Dinner Key Mooring Field 4 Lighted Buoy DD	Y "DD" Fl 2.5s Priv	N 25 42' 58.750"	W 080 13' 46.090"	25.71632	-80.22947	LNM 30/17, 7th Dist	336	11451_4	8/24/2017
+11451	Add	Dinner Key Mooring Field 4 Buoy EE	Y C "EE" Priv	N 25 42' 58.860"	W 080 13' 49.910"	25.71635	-80.23053	LNM 30/17, 7th Dist	336	11451_4	8/24/2017
+11451	Add	Dinner Key Mooring Field 4 Lighted Buoy FF	Y "FF" Q Y Priv	N 25 42' 58.970"	W 080 13' 52.790"	25.71638	-80.23133	LNM 30/17, 7th Dist	336	11451_4	8/24/2017
+11451	Add	Dinner Key Mooring Field 4 Lighted Buoy GG	Y "GG" Fl 4s Priv	N 25 43' 01.310"	W 080 13' 55.270"	25.71703	-80.23202	LNM 30/17, 7th Dist	336	11451_4	8/24/2017
+11451	Add	Dinner Key Mooring Field 4 Buoy HH	Y C "HH" Priv	N 25 43' 03.290"	W 080 13' 54.590"	25.71758	-80.23183	LNM 30/17, 7th Dist	336	11451_4	8/24/2017
+11451	Add	Dinner Key Mooring Field 4 Buoy II	Y C "II" Priv	N 25 43' 05.230"	W 080 13' 53.870"	25.71812	-80.23163	LNM 30/17, 7th Dist	336	11451_4	8/24/2017
+11451	Relocate	Deering Channel Daybeacon 6	R "6" Priv	N 25 44' 15.400"	W 080 12' 14.700"	25.73761	-80.20409	LNM 27/17, 7th Dist	333	11451_1	7/13/2017
+11451	Relocate	Lummus Island Turning Basin Light E	Fl Y 4s 16ft 4M "E"	N 25 46' 02.589"	W 080 10' 14.014"	25.76739	-80.17056	LNM 25/17, 7th Dist	340	11451_8	6/29/2017
+11451	Relocate	Lummus Island Turning Basin Light E	Fl Y 4s 16ft 4M "E"	N 25 46' 02.554"	W 080 10' 13.523"	25.76738	-80.17043	LNM 22/17, 7th Dist	340	11451_8	6/22/2017
+11451	Relocate	Angelfish Creek Daybeacon 12	R "12"	N 25 20' 07.104"	W 080 16' 41.489"	25.33531	-80.27819	LNM 21/17, 7th Dist	337	11451_5	6/1/2017
+11451	Relocate	Angelfish Creek Daybeacon 12	R "12"	N 25 20' 07.104"	W 080 16' 41.489"	25.33531	-80.27819	LNM 21/17, 7th Dist	334	11451_2	6/1/2017
+11451	Relocate	Mosquito Bank Light 35	Fl G 4s 37ft 5M "35"	N 25 04' 22.931"	W 080 23' 34.184"	25.07304	-80.39283	LNM 21/17, 7th Dist	339	11451_7	6/1/2017
+11451	Relocate	Ocean Reef Harbor Entrance Light 2	Fl R 4s 16ft 5M "2"	N 25 18' 30.959"	W 080 16' 03.348"	25.3086	-80.26759	LNM 21/17, 7th Dist	337	11451_5	6/1/2017
+11451	Relocate	Ocean Reef Harbor Entrance Light 2	Fl R 4s 16ft 5M "2"	N 25 18' 30.959"	W 080 16' 03.348"	25.3086	-80.26759	LNM 21/17, 7th Dist	334	11451_2	6/1/2017
+11451	Relocate	Biscayne Flats Daybeacon 3	G "3"	N 25 39' 49.911"	W 080 11' 01.169"	25.66386	-80.18365	LNM 17/17, 7th Dist	333	11451_1	5/4/2017
+11451	Relocate	Lummus Island Turning Basin Light B	Fl Y 4s 16ft 4M "B"	N 25 45' 53.860"	W 080 09' 58.338"	25.76496	-80.16621	LNM 13/17, 7th Dist	340	11451_8	4/13/2017
+11451	Add	Bent Light	Fl 4s 25ft Priv	N 25 45' 11.048"	W 080 06' 28.821"	25.75307	-80.10801	LNM 13/17, 7th Dist	333	11451_1	4/13/2017
+11451	Add	Madeira Drive Canal Daybeacon 2	R "2" Priv	N 25 05' 10.740"	W 080 25' 06.940"	25.08632	-80.41859	LNM 05/17, 7th Dist	339	11451_7	2/9/2017
+11451	Change	Miami Main Channel Lighted Buoy 10	R "10" Fl R 2.5s	N 25 45' 34.904"	W 080 07' 16.078"	25.7597	-80.12113	LNM 04/17, 7th Dist	333	11451_1	2/2/2017
+11451	Change	Miami Main Channel Lighted Buoy 12	R "12" Q R	N 25 45' 39.563"	W 080 07' 28.837"	25.76099	-80.12468	LNM 04/17, 7th Dist	333	11451_1	2/2/2017
+11451	Change	Miami Main Channel Lighted Buoy 8	R "8" Q R	N 25 45' 30.958"	W 080 06' 58.262"	25.7586	-80.11618	LNM 04/17, 7th Dist	333	11451_1	2/2/2017

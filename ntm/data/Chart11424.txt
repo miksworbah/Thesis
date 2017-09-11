@@ -1,0 +1,49 @@
+Chart: 11424, Current Edition: 20, Print Date: Apr. /2012, Lemon Bay to Passage Key Inlet
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11424	Delete	Big Sarasota Pass Shoal Daybeacon D	W "D" Priv	N 27 16' 58.469"	W 082 34' 03.900"	27.28291	-82.56775	LNM 29/17, 7th Dist	176	11424_1	8/3/2017
+11424	Delete	Big Sarasota Pass Shoal Daybeacon A	W "A" Priv	N 27 15' 58.000"	W 082 33' 53.000"	27.26611	-82.56472	LNM 29/17, 7th Dist	176	11424_1	8/3/2017
+11424	Delete	Big Sarasota Pass Shoal Daybeacon B	W "B" Priv	N 27 16' 21.000"	W 082 34' 14.000"	27.2725	-82.57056	LNM 29/17, 7th Dist	176	11424_1	8/3/2017
+11424	Change	New Pass Entrance Light NP	Q 16ft 4M "NP"	N 27 18' 55.113"	W 082 35' 53.168"	27.31531	-82.5981	LNM 26/17, 7th Dist	176	11424_1	6/29/2017
+11424	Relocate	Longboat Pass Danger Shoal Light	Q 16ft 4M	N 27 25' 50.877"	W 082 41' 50.851"	27.4308	-82.69746	LNM 10/17, 7th Dist	176	11424_1	3/16/2017
+11424	Change	New Pass Channel Light NP	Mo (A) 16ft 6M "NP"	N 27 18' 55.113"	W 082 35' 53.168"	27.31531	-82.5981	LNM 06/17, 7th Dist	176	11424_1	2/23/2017
+11424	Delete	Longboat Pass Approach Light LP	Mo (A) 16ft 6M "LP"	N 27 25' 50.747"	W 082 41' 40.341"	27.43076	-82.69454	LNM 05/17, 7th Dist	176	11424_1	2/9/2017
+11424	Add	Longboat Pass Channel Approach Lighted Buoy LP	RW "LP" Mo (A)	N 27 26' 06.005"	W 082 42' 10.046"	27.435	-82.70279	LNM 05/17, 7th Dist	176	11424_1	2/9/2017
+11424	Add	Longboat Pass Danger Shoal Light	Q 16ft 4M	N 27 25' 50.747"	W 082 41' 40.341"	27.43076	-82.69454	LNM 05/17, 7th Dist	176	11424_1	2/9/2017
+11424	Delete	Bradenton Beach Fish Haven Buoy	Y C Priv	N 27 28' 09.000"	W 082 42' 11.000"	27.46917	-82.70306	LNM 29/16, 7th Dist	176	11424_1	7/28/2016
+11424	Delete	Anna Maria One Mile Fish Haven A	Y C "A" Priv	N 27 29' 17.000"	W 082 43' 45.000"	27.48806	-82.72916	LNM 20/16, 7th Dist	176	11424_1	5/26/2016
+11424	Delete	Anna Maria One Mile Fish Haven B	Y C "B" Priv	N 27 29' 30.000"	W 082 43' 48.000"	27.49167	-82.73	LNM 20/16, 7th Dist	176	11424_1	5/26/2016
+11424	Add	Depth Note - NOTE D to:	Satellite Derived BathymetryDepths within the area indicated are derived from satellite imagery from 2014-2015. Their vertical accuracy is typically ± 7ft. Uncharted dangers may exist.	N 27 26' 30.600"	W 082 36' 37.800"	27.44183	-82.6105	LNM 21/16, 7th Dist	176	11424_1	5/19/2016
+11424	Add	Passage Key Inlet Chartlet - revised hydrography, shoreline	Passage Key Inlet Chartlet - revised hydrography, shoreline	N 27 32' 00.000"	W 082 45' 00.000"	27.53333	-82.75	LNM 21/16, 7th Dist	176	11424_1	5/19/2016
+11424	Add	chartlet - Longboat Pass	chartlet - Longboat Pass	N 27 26' 12.500"	W 082 41' 30.800"	27.43681	-82.69189	LNM 21/16, 7th Dist	176	11424_1	5/19/2016
+11424	Change	New Pass Entrance Light NP	Q 16ft 3M "NP"	N 27 18' 55.113"	W 082 35' 53.168"	27.31531	-82.5981	LNM 10/16, 7th Dist	176	11424_1	3/17/2016
+11424	Delete	Big Sarasota Pass Daybeacon 14	R "14" Priv	N 27 17' 49.291"	W 082 33' 36.660"	27.29703	-82.56018	LNM 09/16, 7th Dist	176	11424_1	3/10/2016
+11424	Delete	Big Sarasota Pass Daybeacon 9	G "9" PA Priv	N 27 17' 04.769"	W 082 33' 58.200"	27.28466	-82.56617	LNM 09/16, 7th Dist	176	11424_1	3/10/2016
+11424	Relocate	Manatee River Light 7	Q G 16ft 4M "7"	N 27 31' 50.008"	W 082 39' 02.595"	27.53056	-82.65072	LNM 50/15, 7th Dist	176	11424_1	12/24/2015
+11424	Add	Manatee River Daybeacon 5	G "5"	N 27 31' 56.640"	W 082 39' 39.920"	27.5324	-82.66109	LNM 50/15, 7th Dist	176	11424_1	12/24/2015
+11424	Change	Manatee River Light 7	Q G 16ft 4M "7"	N 27 31' 49.965"	W 082 39' 02.451"	27.53055	-82.65068	LNM 29/15, 7th Dist	176	11424_1	7/30/2015
+11424	Change	Siesta Key - Tampa Bay Light 62	Fl R 4s 16ft 5M "62"	N 27 31' 15.914"	W 082 41' 50.808"	27.52109	-82.69745	LNM 29/15, 7th Dist	176	11424_1	7/30/2015
+11424	Change	Anna Maria Sound Light 1	Fl G 6s 16ft 5M "1"	N 27 32' 03.394"	W 082 42' 47.776"	27.53428	-82.71327	LNM 28/15, 7th Dist	176	11424_1	7/23/2015
+11424	Change	Manatee River Light 7	Q G 16ft 5M "7"	N 27 31' 49.965"	W 082 39' 02.451"	27.53055	-82.65068	LNM 28/15, 7th Dist	176	11424_1	7/23/2015
+11424	Change	Lemon Bay Channel Light 53	Q G 16ft 4M "53"	N 27 03' 12.041"	W 082 26' 20.255"	27.05334	-82.43896	LNM 17/15, 7th Dist	176	11424_1	5/7/2015
+11424	Relocate	Longboat Pass Approach Light LP	Mo (A) 16ft 6M "LP"	N 27 25' 50.747"	W 082 41' 40.341"	27.43076	-82.69454	LNM 16/15, 7th Dist	176	11424_1	4/30/2015
+11424	Change	Manatee River Light 2	Fl R 2.5s 16ft 5M "2"	N 27 32' 37.377"	W 082 40' 41.752"	27.54372	-82.67826	LNM 13/15, 7th Dist	176	11424_1	4/9/2015
+11424	Delete	USF COMPS Lighted Buoy C20	Y "C20" Fl Y 4s Priv	N 27 17' 50.640"	W 082 38' 30.960"	27.2974	-82.64193	LNM 22/14, 7th Dist	176	11424_1	6/12/2014
+11424	Relocate	Manatee River Daybeacon 8	R "8"	N 27 31' 47.494"	W 082 39' 03.537"	27.52986	-82.65099	LNM 19/14, 7th Dist	176	11424_1	5/22/2014
+11424	Add	Low Water Area PT 1 OF 4	**See Chart 1 **	N 27 19' 21.810"	W 082 35' 26.010"	27.32273	-82.59056	LNM 20/14, 7th Dist	176	11424_1	5/15/2014
+11424	Add	Low Water Area PT 2 OF 4	**See Chart 1 **	N 27 19' 20.720"	W 082 35' 27.250"	27.32242	-82.5909	LNM 20/14, 7th Dist	176	11424_1	5/15/2014
+11424	Add	Low Water Area PT 3 OF 4	**See Chart 1 **	N 27 19' 17.080"	W 082 35' 26.370"	27.32141	-82.59066	LNM 20/14, 7th Dist	176	11424_1	5/15/2014
+11424	Add	Low Water Area PT 4 OF 4	**See Chart 1 **	N 27 19' 21.810"	W 082 35' 26.010"	27.32273	-82.59056	LNM 20/14, 7th Dist	176	11424_1	5/15/2014
+11424	Change	Manatee River Light 4	Q R 18ft 5M "4"	N 27 31' 58.205"	W 082 39' 58.703"	27.53284	-82.66631	LNM 15/14, 7th Dist	176	11424_1	5/1/2014
+11424	Relocate	Siesta Key-Tampa Bay Light 64	Fl R 4s 16ft 5M "64"	N 27 31' 52.293"	W 082 42' 08.754"	27.53119	-82.70243	LNM 14/14, 7th Dist	176	11424_1	4/17/2014
+11424	Change	Venice Inlet Light 1	Fl G 6s 20ft 5M "1"	N 27 06' 45.755"	W 082 28' 12.879"	27.11271	-82.47025	LNM 51/13, 7th Dist	176	11424_1	1/16/2014
+11424	Change	USF COMPS Lighted Buoy C10	Y "C10" Fl Y 4s Priv	N 27 10' 09.000"	W 082 55' 34.200"	27.16917	-82.92617	LNM 33/13, 7th Dist	176	11424_1	8/22/2013
+11424	Change	USF COMPS Lighted Buoy C20	Y "C20" Fl Y 4s Priv	N 27 17' 50.640"	W 082 38' 30.960"	27.2974	-82.64193	LNM 33/13, 7th Dist	176	11424_1	8/22/2013
+11424	Change	SIesta Key - Tampa Bay Light 64	Fl R 4s 16ft 5M "64"	N 27 31' 52.442"	W 082 42' 08.790"	27.53123	-82.70244	LNM 11/13, 7th Dist	176	11424_1	4/2/2013
+11424	Add	Dotted Fish Haven PT 1 OF 6	Chart No. 1: K46.2	N 27 27' 17.110"	W 082 41' 57.240"	27.45475	-82.69923	LNM 40/12, 7th Dist	176	11424_1	10/1/2012
+11424	Add	Dotted Fish Haven PT 2 OF 6	Chart No. 1: K46.2	N 27 27' 17.560"	W 082 41' 54.080"	27.45488	-82.69836	LNM 40/12, 7th Dist	176	11424_1	10/1/2012
+11424	Add	Dotted Fish Haven PT 3 OF 6	Chart No. 1: K46.2	N 27 27' 02.820"	W 082 41' 48.620"	27.45078	-82.69684	LNM 40/12, 7th Dist	176	11424_1	10/1/2012
+11424	Add	Dotted Fish Haven PT 4 OF 6	Chart No. 1: K46.2	N 27 27' 00.390"	W 082 41' 56.770"	27.45011	-82.6991	LNM 40/12, 7th Dist	176	11424_1	10/1/2012
+11424	Add	Dotted Fish Haven PT 5 OF 6	Chart No. 1: K46.2	N 27 27' 03.290"	W 082 41' 57.790"	27.45091	-82.69939	LNM 40/12, 7th Dist	176	11424_1	10/1/2012
+11424	Add	Dotted Fish Haven PT 6 OF 6	Chart No. 1: K46.2	N 27 27' 08.870"	W 082 41' 55.950"	27.45246	-82.69888	LNM 40/12, 7th Dist	176	11424_1	10/1/2012
+11424	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 7 ft)	N 27 27' 09.800"	W 082 41' 53.800"	27.45272	-82.69828	LNM 40/12, 7th Dist	176	11424_1	10/1/2012
+11424	Delete	Sounding in Feet	12	N 27 27' 01.200"	W 082 41' 54.800"	27.45033	-82.69855	LNM 40/12, 7th Dist	176	11424_1	10/1/2012

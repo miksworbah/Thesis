@@ -1,0 +1,57 @@
+Chart: 11508, Current Edition: 22, Print Date: Jan. /2011, Altamaha Sound
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11508	Add	Visible Wreck	PA	N 31 17' 45.000"	W 081 16' 53.400"	31.29583	-81.2815	LNM 22/17, 7th Dist	245	11508_1	6/22/2017
+11508	Change	Depth Note to:	The controlling depth at Mean Lower Low Water was 5 feet for a width of 150 feet from Doboy Sound to Darien. May 2016	N 31 21' 06.000"	W 081 24' 05.000"	31.35167	-81.40139	LNM 07/17, 7th Dist	245	11508_1	2/16/2017
+11508	Relocate	Doboy Sound Buoy 3	G C "3"	N 31 21' 37.795"	W 081 13' 26.308"	31.3605	-81.22398	LNM 34/15, 7th Dist	245	11508_1	8/27/2015
+11508	Change	Mackay River Light 239	Fl G 4s 16ft 5M "239"	N 31 12' 29.040"	W 081 25' 30.240"	31.20807	-81.42506	LNM 08/15, 7th Dist	245	11508_1	3/5/2015
+11508	Change	Buttermilk Sound Light 213	Fl G 2.5s 16ft 5M "213"	N 31 19' 13.623"	W 081 22' 18.976"	31.32045	-81.37194	LNM 07/15, 7th Dist	245	11508_1	2/26/2015
+11508	Change	Buttermilk Sound Light 216	Fl R 2.5s 12ft 5M "216"	N 31 18' 47.580"	W 081 23' 34.740"	31.31322	-81.39298	LNM 07/15, 7th Dist	245	11508_1	2/26/2015
+11508	Delete	Little Mud River Range Front Light B	Q R 16ft	N 31 19' 55.612"	W 081 19' 37.067"	31.33212	-81.32697	LNM 49/14, 7th Dist	245	11508_1	12/18/2014
+11508	Delete	Little Mud River Range Rear Light B	Iso R 6s 20ft	N 31 20' 01.980"	W 081 19' 49.320"	31.33388	-81.33037	LNM 49/14, 7th Dist	245	11508_1	12/18/2014
+11508	Add	Altamaha Sound Daybeacon 197	G "197"	N 31 19' 33.666"	W 081 18' 53.130"	31.32602	-81.31476	LNM 49/14, 7th Dist	245	11508_1	12/18/2014
+11508	Add	Little Mud River Light 196	Fl R 2.5s 16ft 5M "196"	N 31 19' 55.681"	W 081 19' 37.060"	31.33213	-81.32696	LNM 49/14, 7th Dist	245	11508_1	12/18/2014
+11508	Delete	Frederica River Cut Range Rear Daybeacon C	RW "C"	N 31 15' 45.360"	W 081 23' 32.220"	31.2626	-81.39228	LNM 49/14, 7th Dist	245	11508_1	12/18/2014
+11508	Delete	Little Mud River Range Front Daybeacon A	RW "A" Bn	N 31 22' 05.100"	W 081 19' 56.220"	31.36808	-81.33228	LNM 49/14, 7th Dist	245	11508_1	12/18/2014
+11508	Add	Little Mud River Daybeacon 189	G "189"	N 31 22' 04.400"	W 081 19' 58.870"	31.36789	-81.33302	LNM 49/14, 7th Dist	245	11508_1	12/18/2014
+11508	Delete	Georgia Fish Haven Buoy ALT	Y N "ALT" Priv	N 31 18' 38.900"	W 081 09' 23.100"	31.31081	-81.15642	LNM 46/14, 7th Dist	245	11508_1	11/27/2014
+11508	Change	Depth Note - DARIEN RIVER to:	The controlling depth at Mean Lower Low Water from Doboy Sound to Darien was 5 1/2 feet. Apr 2014	N 31 21' 06.000"	W 081 24' 05.000"	31.35167	-81.40139	LNM 40/14, 7th Dist	245	11508_1	10/2/2014
+11508	Change	Altamaha Sound Light 209	Q G 12ft 4M "209"	N 31 18' 40.123"	W 081 21' 13.501"	31.31115	-81.35375	LNM 34/14, 7th Dist	245	11508_1	8/28/2014
+11508	Delete	Buttermilk Sound Range B Rear Daybeacon	RW "B"	N 31 18' 12.331"	W 081 24' 04.869"	31.30342	-81.40135	LNM 20/14, 7th Dist	245	11508_1	5/29/2014
+11508	Delete	Rockdedundy River Range Front Daybeacon A	RW "A"	N 31 22' 33.900"	W 081 20' 06.060"	31.37608	-81.33501	LNM 20/14, 7th Dist	245	11508_1	5/29/2014
+11508	Change	Frederica River Light 221	Fl G 4s 16ft 5M "221"	N 31 17' 34.740"	W 081 23' 42.180"	31.29298	-81.39505	LNM 20/14, 7th Dist	245	11508_1	5/29/2014
+11508	Change	Rockdedundy River Light 185	Fl G 4s 12ft 5M "185"	N 31 22' 25.723"	W 081 20' 02.259"	31.37381	-81.33396	LNM 19/14, 7th Dist	245	11508_1	5/22/2014
+11508	Change	Little Mud River Light 195	Fl G 2.5s 12ft 5M "195"	N 31 19' 56.209"	W 081 19' 31.150"	31.33228	-81.32532	LNM 53/13, 7th Dist	245	11508_1	1/16/2014
+11508	Change	Mackay River Light 237	Fl G 4s 12ft 5M "237"	N 31 13' 14.299"	W 081 25' 58.672"	31.22064	-81.43297	LNM 46/13, 7th Dist	245	11508_1	12/2/2013
+11508	Change	Depth Note - DARIEN RIVER to: The controlling depth at Mean Lower Low Water from Doboy Sound to Darien was 5 feet. Aug 2013	** Add full note contents **	N 31 21' 06.000"	W 081 24' 05.000"	31.35167	-81.40139	LNM 41/13, 7th Dist	245	11508_1	10/4/2013
+11508	Delete	Frederica River Cut Range Front Light A	Fl 2.5s 10ft	N 31 17' 05.580"	W 081 23' 05.700"	31.28488	-81.38492	LNM 29/13, 7th Dist	245	11508_1	8/16/2013
+11508	Delete	Frederica River Cut Range Front Light C	Fl 2.5s 10ft	N 31 15' 52.740"	W 081 23' 27.540"	31.26465	-81.39098	LNM 29/13, 7th Dist	245	11508_1	8/16/2013
+11508	Delete	Frederica River Cut Range Rear Daybeacon A	RW "A"	N 31 17' 02.223"	W 081 23' 00.793"	31.28395	-81.38355	LNM 29/13, 7th Dist	245	11508_1	8/16/2013
+11508	Delete	Frederica River Light 223	Fl G 4s 16ft 5M "223"	N 31 16' 37.560"	W 081 22' 59.340"	31.2771	-81.38315	LNM 29/13, 7th Dist	245	11508_1	8/16/2013
+11508	Delete	Frederica River Range Front Daybeacon D	RW "D"	N 31 15' 43.800"	W 081 23' 40.980"	31.26217	-81.39471	LNM 29/13, 7th Dist	245	11508_1	8/16/2013
+11508	Delete	Frederica River Range Reart Daybeacon D	RW "D"	N 31 15' 40.302"	W 081 23' 45.149"	31.26119	-81.39587	LNM 29/13, 7th Dist	245	11508_1	8/16/2013
+11508	Add	Frederica River Daybeacon 228	R "228"	N 31 15' 43.800"	W 081 23' 40.980"	31.26217	-81.39471	LNM 29/13, 7th Dist	245	11508_1	8/16/2013
+11508	Add	Frederica River Light 223	Fl G 2.5s 10ft 5M "223"	N 31 17' 05.580"	W 081 23' 05.700"	31.28488	-81.38492	LNM 29/13, 7th Dist	245	11508_1	8/16/2013
+11508	Add	Frederica River Light 223A	Fl G 4s 16ft 5M "223A"	N 31 16' 37.560"	W 081 22' 59.340"	31.2771	-81.38315	LNM 29/13, 7th Dist	245	11508_1	8/16/2013
+11508	Add	Frederica River Light 227A	Fl G 2.5s 10ft 5M "227A"	N 31 15' 52.740"	W 081 23' 27.540"	31.26465	-81.39098	LNM 29/13, 7th Dist	245	11508_1	8/16/2013
+11508	Delete	Little Mud River Range Rear Daybeacon A	RW 	N 31 22' 09.224"	W 081 19' 53.119"	31.36923	-81.33142	LNM 28/13, 7th Dist	245	11508_1	8/16/2013
+11508	Delete	Rockdedundy River Range Rear Daybeacon A	RW "A"	N 31 22' 37.449"	W 081 20' 07.050"	31.37707	-81.33529	LNM 28/13, 7th Dist	245	11508_1	8/16/2013
+11508	Delete	Mackay River Range Front Light A	Fl R 4s 10ft "A" PA	N 31 14' 54.940"	W 081 25' 13.306"	31.24859	-81.42036	LNM 27/13, 7th Dist	245	11508_1	8/15/2013
+11508	Delete	Mackay River Range Rear Daybeacon A	RW "A"	N 31 14' 57.036"	W 081 25' 18.857"	31.24918	-81.42191	LNM 27/13, 7th Dist	245	11508_1	8/15/2013
+11508	Add	Mackay River Light 234A	Q R 10ft 4M "234A"	N 31 14' 54.940"	W 081 25' 13.306"	31.24859	-81.42036	LNM 27/13, 7th Dist	245	11508_1	8/15/2013
+11508	Relocate	Little Mud River Range Front Light B	Q R 12ft	N 31 19' 55.612"	W 081 19' 37.067"	31.33212	-81.32697	LNM 25/13, 7th Dist	245	11508_1	7/25/2013
+11508	Change	Little Mud River Range Front Light B	Q R 16ft	N 31 19' 55.612"	W 081 19' 37.067"	31.33212	-81.32697	LNM 25/13, 7th Dist	245	11508_1	7/25/2013
+11508	Relocate	Altamaha Sound Range Front Light C	Q R 16ft	N 31 19' 17.900"	W 081 22' 12.504"	31.32164	-81.37014	LNM 25/13, 7th Dist	245	11508_1	7/25/2013
+11508	Relocate	Altamaha Sound Range Front Light C	Iso R 6s 26ft	N 31 19' 21.764"	W 081 22' 18.028"	31.32271	-81.37167	LNM 25/13, 7th Dist	245	11508_1	7/25/2013
+11508	Change	Altamaha Sound Range Front Light C	Q R 14ft	N 31 19' 17.900"	W 081 22' 12.504"	31.32164	-81.37014	LNM 25/13, 7th Dist	245	11508_1	7/25/2013
+11508	Change	Altamaha Sound Range Front Light C	Iso R 6s 27ft	N 31 19' 21.764"	W 081 22' 18.028"	31.32271	-81.37167	LNM 25/13, 7th Dist	245	11508_1	7/25/2013
+11508	Delete	Bahia De Guayanilla Entrance Range Rear Passing Light	Iso R 6s 38ft 4M	N 31 16' 37.560"	W 081 22' 59.340"	31.2771	-81.38315	LNM 07/13, 7th Dist	245	11508_1	3/5/2013
+11508	Change	Frederica River Light 223	Fl G 4s 16ft 5M "223"	N 31 16' 37.560"	W 081 22' 59.340"	31.2771	-81.38315	LNM 07/13, 7th Dist	245	11508_1	3/5/2013
+11508	Change	Frederica River Light 223	Fl G 4s 16ft 5M "223"	N 31 16' 37.560"	W 081 22' 59.340"	31.2771	-81.38315	LNM 07/13, 7th Dist	245	11508_1	3/5/2013
+11508	Change	Frederica River Light 223	Fl G 4s 16ft 5M "223"	N 31 16' 37.560"	W 081 22' 59.340"	31.2771	-81.38315	LNM 07/13, 7th Dist	245	11508_1	3/5/2013
+11508	Relocate	Little Mud River Light 190	Fl R 2.5s 12ft 5M "190"	N 31 21' 58.358"	W 081 20' 03.558"	31.36621	-81.33432	LNM 49/12, 7th Dist	245	11508_1	1/15/2013
+11508	Change	Little Mud River Light 190	Fl R 2.5s 12ft 5M "190"	N 31 21' 58.358"	W 081 20' 03.558"	31.36621	-81.33432	LNM 49/12, 7th Dist	245	11508_1	1/15/2013
+11508	Change	Mackay River Cutoff Light 229	Fl G 2.5s 12ft 5M "229"	N 31 15' 32.700"	W 081 23' 39.720"	31.25908	-81.39436	LNM 31/12, 7th Dist	245	11508_1	8/29/2012
+11508	Change	Mackay River Cutoff Light 231	Fl G 4s 12ft 5M "231"	N 31 15' 24.720"	W 081 23' 41.820"	31.25687	-81.39495	LNM 30/12, 7th Dist	245	11508_1	8/8/2012
+11508	Change	Depth Note - DARIEN RIVER	The controlling depth at Mean Lower Low Water from Doboy Sound to Darien was 6 feet. Feb 2012	N 31 21' 06.000"	W 081 24' 05.000"	31.35167	-81.40139	LNM 20/12, 7th Dist	245	11508_1	5/7/2012
+11508	Change	Buttermilk Sound Light 219	Fl G 2.5s 17ft 5M "219"	N 31 18' 06.620"	W 081 23' 55.373"	31.30184	-81.39871	LNM 33/11, 7th Dist	245	11508_1	8/17/2011
+11508	Change	Depth Note - DARIEN RIVER to:	The controlling depth at Mean Lower Low Water from Doboy Sound to Darien was 5 feet. Oct 2010	N 31 21' 06.000"	W 081 24' 05.000"	31.35167	-81.40139	LNM 18/11, 7th Dist	245	11508_1	4/26/2011

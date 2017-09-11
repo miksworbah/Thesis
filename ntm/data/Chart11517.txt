@@ -1,0 +1,120 @@
+Chart: 11517, Current Edition: 18, Print Date: Dec. /2007, St. Helena Sound
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11517	Change	North Creek Light 135	Fl G 4s 12ft 5M "135"	N 32 37' 42.559"	W 080 21' 13.959"	32.62849	-80.35387	LNM 21/17, 7th Dist	221	11517_1	6/1/2017
+11517	Add	Depth Note:	Area subject to continual change	N 32 23' 38.520"	W 080 24' 24.100"	32.39403	-80.40669	LNM 21/17, 7th Dist	221	11517_1	5/18/2017
+11517	Add	Depth Note:	Area subject to continual change	N 32 27' 54.850"	W 080 26' 48.570"	32.46524	-80.44682	LNM 21/17, 7th Dist	221	11517_1	5/18/2017
+11517	Add	Depth Note:	Area subject to continual change	N 32 25' 36.920"	W 080 25' 53.390"	32.42692	-80.4315	LNM 21/17, 7th Dist	221	11517_1	5/18/2017
+11517	Add	Depth Note:	Area subject to continual change	N 32 26' 14.390"	W 080 23' 03.840"	32.43733	-80.3844	LNM 21/17, 7th Dist	221	11517_1	5/18/2017
+11517	Add	Added dotted danger curve and blue tint, deleted hydrography inside. PT 1 OF 7	Added dotted danger curve and blue tint, deleted hydrography inside.	N 32 28' 04.400"	W 080 25' 28.090"	32.46789	-80.42447	LNM 21/17, 7th Dist	221	11517_1	5/18/2017
+11517	Add	Added dotted danger curve and blue tint, deleted hydrography inside. PT 2 OF 7	Added dotted danger curve and blue tint, deleted hydrography inside.	N 32 27' 59.140"	W 080 25' 35.410"	32.46643	-80.42651	LNM 21/17, 7th Dist	221	11517_1	5/18/2017
+11517	Add	Added dotted danger curve and blue tint, deleted hydrography inside. PT 3 OF 7	Added dotted danger curve and blue tint, deleted hydrography inside.	N 32 27' 52.110"	W 080 25' 38.900"	32.46447	-80.42747	LNM 21/17, 7th Dist	221	11517_1	5/18/2017
+11517	Add	Added dotted danger curve and blue tint, deleted hydrography inside. PT 4 OF 7	Added dotted danger curve and blue tint, deleted hydrography inside.	N 32 27' 34.270"	W 080 24' 57.820"	32.45952	-80.41606	LNM 21/17, 7th Dist	221	11517_1	5/18/2017
+11517	Add	Added dotted danger curve and blue tint, deleted hydrography inside. PT 5 OF 7	Added dotted danger curve and blue tint, deleted hydrography inside.	N 32 27' 30.400"	W 080 24' 51.460"	32.45844	-80.41429	LNM 21/17, 7th Dist	221	11517_1	5/18/2017
+11517	Add	Added dotted danger curve and blue tint, deleted hydrography inside. PT 6 OF 7	Added dotted danger curve and blue tint, deleted hydrography inside.	N 32 27' 33.560"	W 080 24' 48.450"	32.45932	-80.41346	LNM 21/17, 7th Dist	221	11517_1	5/18/2017
+11517	Add	Added dotted danger curve and blue tint, deleted hydrography inside. PT 7 OF 7	Added dotted danger curve and blue tint, deleted hydrography inside.	N 32 27' 39.370"	W 080 24' 49.770"	32.46094	-80.41383	LNM 21/17, 7th Dist	221	11517_1	5/18/2017
+11517	Add	Shoaling Label	Shoaling 5 feet	N 32 27' 47.740"	W 080 25' 13.360"	32.46326	-80.42038	LNM 21/17, 7th Dist	221	11517_1	5/18/2017
+11517	Relocate	St Helena Sound Entrance Buoy 4	R N "4"	N 32 21' 44.994"	W 080 20' 01.996"	32.3625	-80.33389	LNM 22/16, 7th Dist	221	11517_1	6/9/2016
+11517	Relocate	Ashepoo - Coosaw Cutoff Light 184	Fl R 4s 12ft 5M "184	N 32 30' 41.840"	W 080 30' 06.333"	32.51162	-80.50176	LNM 17/16, 7th Dist	221	11517_1	5/5/2016
+11517	Relocate	North Creek Daybeacon 132	R "132"	N 32 38' 08.110"	W 080 20' 46.014"	32.63559	-80.34612	LNM 17/16, 7th Dist	221	11517_1	5/5/2016
+11517	Relocate	Wadmalaw River Light 102	Fl R 4s 12ft 5M "102"	N 32 39' 08.495"	W 080 15' 26.861"	32.65236	-80.25746	LNM 17/16, 7th Dist	221	11517_1	5/5/2016
+11517	Relocate	Ashepoo-Coosaw Cutoff Light 184	Fl R 4s 12ft 5M "184"	N 32 30' 42.008"	W 080 30' 06.829"	32.51167	-80.5019	LNM 51/15, 7th Dist	221	11517_1	12/31/2015
+11517	Add	Shoaling Label	Shl rep (2015)	N 32 29' 00.060"	W 080 26' 35.880"	32.48335	-80.4433	LNM 34/15, 7th Dist	221	11517_1	8/20/2015
+11517	Add	chartlet - Big Bay Creek Entrance, SC	chartlet - Big Bay Creek Entrance, SC	N 32 30' 07.000"	W 080 21' 08.000"	32.50195	-80.35222	LNM 25/15, 7th Dist	221	11517_1	6/25/2015
+11517	Change	Wadmalaw River Light 99	Fl G 4s 12ft 5M "99"	N 32 39' 15.052"	W 080 14' 26.091"	32.65418	-80.24058	LNM 23/15, 7th Dist	221	11517_1	6/18/2015
+11517	Relocate	Dawhoo Fishing Pier Obstruction Light	Fl 2.5s 18ft Priv	N 32 38' 10.000"	W 080 20' 25.500"	32.63611	-80.34042	LNM 21/15, 7th Dist	221	11517_1	6/4/2015
+11517	Change	Dawhoo Fishing Pier Obstruction Light	Fl 2.5s 8ft Priv	N 32 38' 10.000"	W 080 20' 25.500"	32.63611	-80.34042	LNM 21/15, 7th Dist	221	11517_1	6/4/2015
+11517	Relocate	Fripp Island Lighted Buoy E	Y "E" Fl Y 4s Priv	N 32 16' 47.160"	W 080 24' 24.900"	32.27977	-80.40691	LNM 03/15, 7th Dist	221	11517_1	1/22/2015
+11517	Change	Wadmalaw River Light 102	Fl R 4s 12ft 5M "102"	N 32 39' 08.160"	W 080 15' 27.000"	32.65227	-80.2575	LNM 51/14, 7th Dist	221	11517_1	1/1/2015
+11517	Add	Russell Creek Obstruction Daybeacon A	W Bn "A" Priv	N 32 36' 31.182"	W 080 19' 58.155"	32.60866	-80.33282	LNM 49/14, 7th Dist	221	11517_1	12/18/2014
+11517	Add	Russell Creek Obstruction Daybeacon B	W Bn "B" Priv	N 32 36' 31.145"	W 080 19' 57.110"	32.60865	-80.33253	LNM 49/14, 7th Dist	221	11517_1	12/18/2014
+11517	Add	Big Bay Creek Obstruction Daybeacon A	W Bn "A" Priv	N 32 30' 10.555"	W 080 19' 25.904"	32.50293	-80.32386	LNM 47/14, 7th Dist	221	11517_1	12/4/2014
+11517	Add	Big Bay Creek Obstruction Daybeacon B	W Bn "B" Priv	N 32 30' 09.339"	W 080 19' 25.150"	32.50259	-80.32365	LNM 47/14, 7th Dist	221	11517_1	12/4/2014
+11517	Delete	Parrot Creek Daybeacon 4	R "4" PA Priv	N 32 28' 13.683"	W 080 32' 49.379"	32.47047	-80.54705	LNM 29/14, 7th Dist	221	11517_1	7/24/2014
+11517	Add	Sounding in Feet	5 Rep (2014)	N 32 35' 50.630"	W 080 13' 55.330"	32.5974	-80.23203	LNM 23/14, 7th Dist	221	11517_1	6/12/2014
+11517	Delete	Shoaling Label	Shl rep 1985	N 32 35' 55.030"	W 080 13' 52.220"	32.59862	-80.23117	LNM 23/14, 7th Dist	221	11517_1	6/12/2014
+11517	Delete	Sounding in Feet	13	N 32 35' 49.000"	W 080 13' 54.410"	32.59694	-80.23178	LNM 23/14, 7th Dist	221	11517_1	6/12/2014
+11517	Add	Sounding in Feet	1 Rep (2014)	N 32 35' 45.650"	W 080 13' 46.260"	32.59601	-80.22952	LNM 23/14, 7th Dist	221	11517_1	6/12/2014
+11517	Add	Fish Creek Obstruction Buoy A	W Or "A" Priv	N 32 31' 03.700"	W 080 23' 21.520"	32.51769	-80.38931	LNM 08/14, 7th Dist	221	11517_1	3/13/2014
+11517	Add	Fish Creek Obstruction Buoy C	W Or "C" Priv	N 32 29' 39.360"	W 080 23' 11.460"	32.49427	-80.38652	LNM 08/14, 7th Dist	221	11517_1	3/13/2014
+11517	Add	Fish Creek Obstruction Buoy F	W Or "F" Priv	N 32 29' 17.820"	W 080 23' 16.440"	32.48829	-80.3879	LNM 08/14, 7th Dist	221	11517_1	3/13/2014
+11517	Relocate	Ashepoo - Coosaw Cutoff Daybeacon 185	G "185"	N 32 30' 38.959"	W 080 30' 08.106"	32.51082	-80.50225	LNM 48/13, 7th Dist	221	11517_1	12/13/2013
+11517	Relocate	Coosaw River Light 187	Fl G 4s 12ft 5M "187"	N 32 29' 59.353"	W 080 32' 01.344"	32.49982	-80.53371	LNM 42/13, 7th Dist	221	11517_1	10/28/2013
+11517	Relocate	South Edisto River Range C Front Light	Q R 10ft	N 32 33' 06.043"	W 080 25' 20.016"	32.55168	-80.42223	LNM 23/13, 7th Dist	221	11517_1	6/21/2013
+11517	Relocate	South Edisto River Range C Rear Light	Iso R 6s 24ft	N 32 33' 03.104"	W 080 25' 27.634"	32.55086	-80.42434	LNM 23/13, 7th Dist	221	11517_1	6/21/2013
+11517	Change	South Edisto River Range C Front Light	Q R 12ft	N 32 33' 06.043"	W 080 25' 20.016"	32.55168	-80.42223	LNM 23/13, 7th Dist	221	11517_1	6/21/2013
+11517	Change	South Edisto River Range C Rear Light	Iso R 6s 25ft	N 32 33' 03.104"	W 080 25' 27.634"	32.55086	-80.42434	LNM 23/13, 7th Dist	221	11517_1	6/21/2013
+11517	Change	Dawho River Light 125	Fl G 4s 16ft 5M "125"	N 32 37' 49.784"	W 080 18' 56.510"	32.6305	-80.3157	LNM 14/13, 7th Dist	221	11517_1	4/26/2013
+11517	Relocate	Harbor River Buoy 10	R N "10"	N 32 22' 41.054"	W 080 29' 22.711"	32.37807	-80.48964	LNM 11/13, 7th Dist	221	11517_1	4/2/2013
+11517	Change	North Creek Light 137	5M "137"	N 32 37' 15.216"	W 080 21' 30.077"	32.62089	-80.35835	LNM 03/13, 7th Dist	221	11517_1	2/11/2013
+11517	Delete	Harbor River Buoy 10	R N "10"	N 32 22' 31.960"	W 080 29' 35.840"	32.37555	-80.49329	LNM 50/12, 7th Dist	221	11517_1	1/23/2013
+11517	Add	Harbor River Buoy 10A	R N "10A"	N 32 22' 31.960"	W 080 29' 35.840"	32.37555	-80.49329	LNM 50/12, 7th Dist	221	11517_1	1/23/2013
+11517	Add	Harbor River Buoy 10	R N "10"	N 32 22' 37.770"	W 080 29' 32.595"	32.37716	-80.49239	LNM 50/12, 7th Dist	221	11517_1	1/23/2013
+11517	Delete	Cable Area  PT 1 OF 2	Chart No. 1: L30.2	N 32 20' 30.600"	W 080 27' 44.800"	32.34184	-80.46245	LNM 51/12, 7th Dist	221	11517_1	12/18/2012
+11517	Delete	Cable Area  PT 2 OF 2	Chart No. 1: L30.2	N 32 20' 12.500"	W 080 27' 51.900"	32.33681	-80.46442	LNM 51/12, 7th Dist	221	11517_1	12/18/2012
+11517	Add	Cable Area  PT 1 OF 2	Chart No. 1: L30.2	N 32 20' 30.100"	W 080 27' 41.300"	32.34169	-80.46147	LNM 51/12, 7th Dist	221	11517_1	12/18/2012
+11517	Add	Cable Area  PT 2 OF 2	Chart No. 1: L30.2	N 32 20' 09.400"	W 080 27' 49.000"	32.33595	-80.46361	LNM 51/12, 7th Dist	221	11517_1	12/18/2012
+11517	Add	Submarine Cable  PT 1 OF 2	None	N 32 32' 07.000"	W 080 24' 49.100"	32.53528	-80.41364	LNM 09/13, 7th Dist	221	11517_1	11/14/2012
+11517	Add	Submarine Cable  PT 2 OF 2	None	N 32 32' 00.500"	W 080 24' 42.100"	32.53347	-80.4117	LNM 09/13, 7th Dist	221	11517_1	11/14/2012
+11517	Change	Ashepoo - Coosaw Cutoff Light 184	Fl R 4s 12ft 5M "184"	N 32 30' 42.156"	W 080 30' 08.137"	32.51171	-80.50226	LNM 41/12, 7th Dist	221	11517_1	11/13/2012
+11517	Change	St Helena Sound Light 13	Fl G 4s 16ft 5M "13"	N 32 29' 11.527"	W 080 29' 26.326"	32.48653	-80.49065	LNM 41/12, 7th Dist	221	11517_1	11/13/2012
+11517	Change	Dawho River Light 121	Fl G 4s 5M "121"	N 32 37' 50.010"	W 080 18' 27.445"	32.63056	-80.30762	LNM 38/12, 7th Dist	221	11517_1	10/11/2012
+11517	Change	Coosaw River Light 187	Fl G 4s 12ft 5M "187"	N 32 29' 59.740"	W 080 32' 01.755"	32.49993	-80.53382	LNM 30/12, 7th Dist	221	11517_1	8/8/2012
+11517	Relocate	St Helena Sound Entrance Buoy 1	G C "1"	N 32 21' 39.600"	W 080 18' 27.910"	32.361	-80.30775	LNM 29/12, 7th Dist	221	11517_1	7/24/2012
+11517	Change	Wadmalaw River Light 97	Fl G 4s 12ft 5M "97"	N 32 39' 51.714"	W 080 14' 04.014"	32.66436	-80.23445	LNM 24/12, 7th Dist	221	11517_1	6/21/2012
+11517	Change	Dawho River Light 130	Fl R 4s 16ft 5M "130"	N 32 38' 20.685"	W 080 20' 10.964"	32.63908	-80.33638	LNM 23/12, 7th Dist	221	11517_1	6/18/2012
+11517	Delete	CCOOPS Lighted Buoy E	Y "E" Fl Y 5s Priv	N 32 16' 46.269"	W 080 24' 33.780"	32.27952	-80.40939	LNM 07/12, 7th Dist	221	11517_1	3/1/2012
+11517	Add	Fripp Island Lighted Buoy E	Y "E" Fl Y 4s Priv	N 32 16' 46.269"	W 080 24' 33.780"	32.27952	-80.40939	LNM 07/12, 7th Dist	221	11517_1	3/1/2012
+11517	Relocate	Ashepoo Coosaw Cutoff Light 177	Fl G 4s 18ft "177"	N 32 31' 27.381"	W 080 28' 56.149"	32.52427	-80.48226	LNM 06/12, 7th Dist	221	11517_1	2/28/2012
+11517	Relocate	South Edisto River Daybeacon 161	G "161"	N 32 32' 49.851"	W 080 25' 07.623"	32.54718	-80.41879	LNM 06/12, 7th Dist	221	11517_1	2/28/2012
+11517	Change	Ashepoo Coosaw Cutoff Light 177	Fl G 4s 18ft 5M "177"	N 32 31' 27.381"	W 080 28' 56.149"	32.52427	-80.48226	LNM 06/12, 7th Dist	221	11517_1	2/28/2012
+11517	Change	Fenwick Cut Light 162	Fl R 4s 12ft 5M "162"	N 32 32' 16.671"	W 080 24' 41.368"	32.53796	-80.41149	LNM 05/12, 7th Dist	221	11517_1	2/16/2012
+11517	Change	South Edisto River Light 151	Fl G 4s 12ft 5M "151"	N 32 34' 53.348"	W 080 23' 39.250"	32.58149	-80.39423	LNM 05/12, 7th Dist	221	11517_1	2/16/2012
+11517	Delete	Cable Area  PT 1 OF 2	Chart No. 1: L30.2	N 32 24' 19.000"	W 080 27' 27.000"	32.40528	-80.4575	LNM 02/12, 7th Dist	221	11517_1	1/5/2012
+11517	Delete	Cable Area  PT 2 OF 2	Chart No. 1: L30.2	N 32 24' 11.000"	W 080 27' 04.000"	32.40306	-80.45111	LNM 02/12, 7th Dist	221	11517_1	1/5/2012
+11517	Add	Cable Area  PT 1 OF 2	Chart No. 1: L30.2	N 32 24' 14.500"	W 080 27' 30.000"	32.40403	-80.45834	LNM 02/12, 7th Dist	221	11517_1	1/5/2012
+11517	Add	Cable Area  PT 2 OF 2	Chart No. 1: L30.2	N 32 24' 06.500"	W 080 27' 06.000"	32.40181	-80.45167	LNM 02/12, 7th Dist	221	11517_1	1/5/2012
+11517	Delete	South Edisto River Approach Lighted Buoy A	RW "A" Mo (A)	N 32 24' 42.845"	W 080 17' 41.664"	32.4119	-80.29491	LNM 50/11, 7th Dist	221	11517_1	1/5/2012
+11517	Relocate	Ashepoo-Coosaw Cutoff Daybeacon 185	G "185"	N 32 30' 38.051"	W 080 30' 07.732"	32.51057	-80.50215	LNM 50/11, 7th Dist	221	11517_1	1/5/2012
+11517	Change	Watts Cut Light 143	Fl G 4s 12ft 5M "143"	N 32 36' 56.619"	W 080 23' 06.013"	32.61573	-80.385	LNM 40/11, 7th Dist	221	11517_1	10/17/2011
+11517	Relocate	Ashepoo River Light 164	Fl G 4s 16ft 3M "164"	N 32 32' 04.514"	W 080 24' 48.559"	32.53459	-80.41349	LNM 33/11, 7th Dist	221	11517_1	8/17/2011
+11517	Change	White Point Light 108	Fl R 4s 12ft 5M "108"	N 32 37' 45.367"	W 080 16' 35.725"	32.62927	-80.27659	LNM 33/11, 7th Dist	221	11517_1	8/17/2011
+11517	Change	Ashepoo River Light 164	Fl R 4s 12ft 5M "164"	N 32 32' 04.514"	W 080 24' 48.559"	32.53459	-80.41349	LNM 33/11, 7th Dist	221	11517_1	8/17/2011
+11517	Change	Ashepoo River Light 165	Fl G 4s 16ft 5M "165"	N 32 32' 05.410"	W 080 25' 27.945"	32.53484	-80.42443	LNM 28/11, 7th Dist	221	11517_1	7/21/2011
+11517	Add	Old House Creek Buoy 14	R N "14"	N 32 20' 24.252"	W 080 28' 12.599"	32.34007	-80.47017	LNM 25/11, 7th Dist	221	11517_1	6/28/2011
+11517	Delete	South Edisto River Buoy 3A	G C "3A"	N 32 31' 42.409"	W 080 22' 40.857"	32.52845	-80.37801	LNM 24/11, 7th Dist	221	11517_1	6/22/2011
+11517	Delete	Ashepoo River Light 166A	Q R 16ft 3M "166A"	N 32 31' 59.228"	W 080 26' 35.458"	32.53312	-80.44318	LNM 23/11, 7th Dist	221	11517_1	6/20/2011
+11517	Add	Ashepoo River Light 168	Q R 16ft 3M "168"	N 32 31' 59.228"	W 080 26' 35.458"	32.53312	-80.44318	LNM 23/11, 7th Dist	221	11517_1	6/20/2011
+11517	Delete	South Edisto River Approach Buoy 1A	G C "1A"	N 32 28' 16.340"	W 080 20' 15.733"	32.47121	-80.3377	LNM 29/11, 7th Dist	221	11517_1	5/24/2011
+11517	Delete	South Edisto River Daybeacon 2A	R "2A"	N 32 30' 21.308"	W 080 21' 21.237"	32.50592	-80.3559	LNM 29/11, 7th Dist	221	11517_1	5/24/2011
+11517	Delete	South Edisto River Light 2	Fl R 2.5s 16ft 3M "2"	N 32 29' 36.563"	W 080 21' 00.134"	32.49349	-80.35004	LNM 29/11, 7th Dist	221	11517_1	5/24/2011
+11517	Delete	South Edisto River Daybeacon 3 	G "3"	N 32 31' 31.622"	W 080 22' 34.814"	32.52545	-80.37634	LNM 29/11, 7th Dist	221	11517_1	5/24/2011
+11517	Add	South Edisto River Approach Buoy 3	G C "3"	N 32 28' 16.340"	W 080 20' 15.733"	32.47121	-80.3377	LNM 29/11, 7th Dist	221	11517_1	5/24/2011
+11517	Add	South Edisto River Daybeacon 6	R "6"	N 32 30' 21.308"	W 080 21' 21.237"	32.50592	-80.3559	LNM 29/11, 7th Dist	221	11517_1	5/24/2011
+11517	Add	South Edisto River Light 4	Fl R 2.5s 16ft 3M "4"	N 32 29' 36.563"	W 080 21' 00.134"	32.49349	-80.35004	LNM 29/11, 7th Dist	221	11517_1	5/24/2011
+11517	Add	South Edisto River Daybeacon 7	G "7"	N 32 31' 31.622"	W 080 22' 34.814"	32.52545	-80.37634	LNM 29/11, 7th Dist	221	11517_1	5/24/2011
+11517	Relocate	South Edisto River Buoy 3A	G C "3A"	N 32 31' 42.409"	W 080 22' 40.857"	32.52845	-80.37801	LNM 13/11, 7th Dist	221	11517_1	4/6/2011
+11517	Delete	Ashepoo River Light 166	Q R 16ft 3M "166" PA	N 32 31' 59.228"	W 080 26' 35.458"	32.53312	-80.44318	LNM 01/11, 7th Dist	221	11517_1	1/10/2011
+11517	Add	Ashepoo River Light 166A	Q R 16ft 3M "166A"	N 32 31' 59.228"	W 080 26' 35.458"	32.53312	-80.44318	LNM 01/11, 7th Dist	221	11517_1	1/10/2011
+11517	Add	Ashepoo River Buoy 166	R N "166"	N 32 31' 55.426"	W 080 26' 05.894"	32.53206	-80.43497	LNM 01/11, 7th Dist	221	11517_1	1/10/2011
+11517	Delete	White Point Light 110	Fl R 4s 12ft 3M"110"	N 32 37' 45.367"	W 080 16' 35.725"	32.62927	-80.27659	LNM 01/11, 7th Dist	221	11517_1	1/10/2011
+11517	Add	White Point Light 108	Fl R 4s 12ft 3M"108"	N 32 37' 45.367"	W 080 16' 35.725"	32.62927	-80.27659	LNM 01/11, 7th Dist	221	11517_1	1/10/2011
+11517	Delete	Sounding in Feet	22	N 32 29' 00.900"	W 080 29' 31.400"	32.48358	-80.49206	LNM 51/10, 7th Dist	221	11517_1	12/18/2010
+11517	Add	Visible Wreck	PA     Chart No. 1: K24	N 32 29' 00.900"	W 080 29' 31.400"	32.48358	-80.49206	LNM 51/10, 7th Dist	221	11517_1	12/18/2010
+11517	Add	South Edisto River Buoy 3A	G C "3A"	N 32 31' 42.373"	W 080 22' 40.871"	32.52844	-80.37802	LNM 49/10, 7th Dist	221	11517_1	12/13/2010
+11517	Relocate	Steamboat Creek Daybeacon 2	R "2"	N 32 36' 53.487"	W 080 16' 06.527"	32.61486	-80.26848	LNM 38/10, 7th Dist	221	11517_1	9/27/2010
+11517	Relocate	Wadmalaw River Light 102	Fl R 4s 12ft 3M "102"	N 32 39' 08.160"	W 080 15' 27.000"	32.65227	-80.2575	LNM 38/10, 7th Dist	221	11517_1	9/27/2010
+11517	Delete	Ashepoo-Coosaw Cutoff RF Dbn	RW Bn	N 32 31' 04.466"	W 080 28' 19.711"	32.51791	-80.47215	LNM 43/09, 7th Dist	221	11517_1	11/5/2009
+11517	Delete	Ashepoo-Coosaw Cutoff RR Dbn	RW Bn	N 32 31' 01.515"	W 080 28' 15.624"	32.51709	-80.47101	LNM 43/09, 7th Dist	221	11517_1	11/5/2009
+11517	Add	Ashepoo-Coosaw Cutoff Dbn 175	G "175"	N 32 31' 04.433"	W 080 28' 19.711"	32.5179	-80.47215	LNM 43/09, 7th Dist	221	11517_1	11/5/2009
+11517	Add	Harbor River Shoal Daybeacon	W Or	N 32 23' 08.499"	W 080 28' 47.969"	32.38569	-80.47999	LNM 31/09, 7th Dist	221	11517_1	8/17/2009
+11517	Relocate	White Point Light 110	Fl R 4s 12ft 3M "110"	N 32 37' 45.367"	W 080 16' 35.725"	32.62927	-80.27659	LNM 30/09, 7th Dist	221	11517_1	8/6/2009
+11517	Delete	Harbor River DB 9	G "9"	N 32 23' 08.499"	W 080 28' 47.969"	32.38569	-80.47999	LNM 29/07, 7th Dist	221	11517_1	7/29/2009
+11517	Add	Harbor River Buoy 9	G C "9"	N 32 23' 08.747"	W 080 28' 49.350"	32.38576	-80.48038	LNM 29/07, 7th Dist	221	11517_1	7/29/2009
+11517	Delete	South Edisto River Range A RFL	Q R 10ft	N 32 35' 15.904"	W 080 23' 58.914"	32.58775	-80.3997	LNM 11/09, 7th Dist	221	11517_1	3/26/2009
+11517	Delete	South Edisto River Range A RRL	Iso R 6s 24ft	N 32 35' 13.003"	W 080 24' 00.597"	32.58694	-80.40017	LNM 11/09, 7th Dist	221	11517_1	3/26/2009
+11517	Delete	Pelican Bank Buoy 1	G C "1"	N 32 27' 05.975"	W 080 25' 32.710"	32.45166	-80.42575	LNM 06/09, 7th Dist	221	11517_1	2/19/2009
+11517	Delete	Pelican Bank Daybeacon 2	R "2"	N 32 26' 47.607"	W 080 25' 39.754"	32.44656	-80.42771	LNM 06/09, 7th Dist	221	11517_1	2/19/2009
+11517	Add	Visible Wreck	PA     Chart No. 1: K24	N 32 29' 43.680"	W 080 30' 54.360"	32.49547	-80.5151	LNM 46/08, 7th Dist	221	11517_1	11/13/2008
+11517	Relocate	Coosaw River Light 187	Fl G 4s 12ft 4M "187"	N 32 29' 59.740"	W 080 32' 01.755"	32.49993	-80.53382	LNM 27/08, 7th Dist	221	11517_1	9/26/2008
+11517	Relocate	Egg Bank Buoy 4A	R N "4A"	N 32 25' 52.398"	W 080 26' 28.273"	32.43122	-80.44118	LNM 20/08, 7th Dist	221	11517_1	5/21/2008
+11517	Relocate	Story River Buoy 12	R N "12"	N 32 20' 55.620"	W 080 28' 56.496"	32.34878	-80.48236	LNM 06/08, 7th Dist	221	11517_1	2/15/2008

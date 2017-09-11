@@ -1,0 +1,23 @@
+Chart: 11548, Current Edition: 42, Print Date: Jan. /2017, Pamlico Sound Western Part
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11548	Change	Core Sound Light 5	Fl G 2.5s 15ft 4M "5"	N 34 59' 21.097"	W 076 12' 22.310"	34.98919	-76.2062	LNM 30/17, 5th Dist	512	11548_1	8/3/2017
+11548	Relocate	Core Sound Buoy 5A	G C "5A"	N 34 59' 16.708"	W 076 12' 26.148"	34.98798	-76.20726	LNM 30/17, 5th Dist	512	11548_1	8/3/2017
+11548	Relocate	Big Foot Slough Channel Buoy 11	G C "11"	N 35 09' 04.968"	W 076 00' 41.826"	35.15138	-76.01162	LNM 21/17, 5th Dist	512	11548_1	6/1/2017
+11548	Relocate	Big Foot Slough Channel Buoy 10B	R N "10B"	N 35 08' 59.051"	W 076 00' 37.297"	35.14973	-76.01036	LNM 21/17, 5th Dist	512	11548_1	6/1/2017
+11548	Change	Smith Creek Channel Light 1SC	Fl G 4s 15ft 4M "1SC"	N 35 00' 54.303"	W 076 41' 28.449"	35.01508	-76.69124	LNM 18/17, 5th Dist	512	11548_1	5/11/2017
+11548	Change	Smith Creek Channel Light 6	Fl R 2.5s 15ft 4M "6"	N 35 01' 10.082"	W 076 41' 54.221"	35.01947	-76.69839	LNM 18/17, 5th Dist	512	11548_1	5/11/2017
+11548	Relocate	Cedar Island Ferry Slip Breakwater Buoy 2	R N "2"	N 35 01' 12.556"	W 076 18' 29.984"	35.02015	-76.30833	LNM 17/17, 5th Dist	512	11548_1	5/4/2017
+11548	Change	Cedar Island Ferry Slip Breakwater Daybeacon 2B	R "2B"	N 35 01' 13.170"	W 076 18' 37.912"	35.02032	-76.31053	LNM 16/17, 5th Dist	512	11548_1	4/27/2017
+11548	Change	Cedar Island Ferry Slip Breakwater Light 2A	Fl R 4s 15ft 5M "2A"	N 35 01' 14.152"	W 076 18' 35.694"	35.0206	-76.30991	LNM 16/17, 5th Dist	512	11548_1	4/27/2017
+11548	Add	Cedar Island Ferry Slip Breakwater Buoy 2	R N "2"	N 35 01' 13.218"	W 076 18' 34.085"	35.02034	-76.30947	LNM 16/17, 5th Dist	512	11548_1	4/27/2017
+11548	Change	North Creek Entrance Light 1NC	Fl G 4s 15ft 4M "1NC"	N 35 24' 46.279"	W 076 40' 05.447"	35.41286	-76.66818	LNM 13/17, 5th Dist	512	11548_1	4/6/2017
+11548	Change	Goose Creek Light 11	Fl G 2.5s 15ft 4M "11"	N 35 18' 00.039"	W 076 37' 02.067"	35.30001	-76.61724	LNM 13/17, 5th Dist	512	11548_1	4/6/2017
+11548	Change	Pamlico River Channel Light 3	Fl G 4s 15ft 5M "3"	N 35 22' 19.408"	W 076 38' 44.343"	35.37206	-76.64565	LNM 13/17, 5th Dist	512	11548_1	4/6/2017
+11548	Change	Swanquarter Bay Light 5A	Fl G 2.5s 15ft 4M "5A"	N 35 23' 08.097"	W 076 20' 27.691"	35.38558	-76.34103	LNM 06/17, 5th Dist	512	11548_1	2/16/2017
+11548	Change	Juniper Bay Light 2	Fl R 4s 15ft 4M "2"	N 35 19' 54.943"	W 076 14' 11.162"	35.33193	-76.23643	LNM 06/17, 5th Dist	512	11548_1	2/16/2017
+11548	Relocate	Juniper Bay Approach Light 1	Fl G 4s 15ft 4M "1"	N 35 17' 31.596"	W 076 13' 49.028"	35.29211	-76.23029	LNM 06/17, 5th Dist	512	11548_1	2/16/2017
+11548	Relocate	Swanquarter Bay Light 5A	Fl G 2.5s 15ft 4M "5A"	N 35 23' 08.097"	W 076 20' 27.691"	35.38558	-76.34103	LNM 06/17, 5th Dist	512	11548_1	2/16/2017
+11548	Change	Bluff Shoal Light BL	Fl 2.5s 18ft 6M "BL"	N 35 12' 36.920"	W 076 04' 23.034"	35.21025	-76.07307	LNM 05/17, 5th Dist	512	11548_1	2/9/2017
+11548	Change	Swanquarter Bay Light 5	Q G 15ft 4M "5"	N 35 22' 54.507"	W 076 20' 41.699"	35.38181	-76.34492	LNM 05/17, 5th Dist	512	11548_1	2/9/2017
+11548	Relocate	Big Foot Slough Channel Light 9A	Fl G 4s 15ft 4M "9A"	N 35 08' 32.340"	W 076 00' 21.120"	35.14231	-76.00587	LNM 04/17, 5th Dist	512	11548_1	2/2/2017
+11548	Delete	Big Foot Slough Channel Buoy 9AA	G C "9AA"	N 35 08' 29.409"	W 076 00' 20.337"	35.1415	-76.00565	LNM 04/17, 5th Dist	512	11548_1	2/2/2017

@@ -1,0 +1,42 @@
+Chart: 11535, Current Edition: 13, Print Date: Feb. /2012, Little River lnlet to Winyah Bay Entrance
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11535	Relocate	Winyah Bay Range B Front Light	Q G 20ft	N 33 11' 58.859"	W 079 10' 57.961"	33.19968	-79.18277	LNM 35/17, 7th Dist	213	11535_1	Not Yet
+11535	Relocate	Winyah Bay Range B Rear Light	Iso G 6s 48ft	N 33 12' 00.667"	W 079 11' 06.015"	33.20018	-79.18501	LNM 35/17, 7th Dist	213	11535_1	Not Yet
+11535	Change	Winyah Bay Range A Front Light	Iso 4s 13ft (Night) Fl 2.5s 19ft (Day)	N 33 11' 34.023"	W 079 10' 04.771"	33.19278	-79.16799	LNM 48/16, 7th Dist	213	11535_1	12/8/2016
+11535	Add	Dotted Fish Haven	Chart No. 1: K46.2	N 33 34' 30.600"	W 078 51' 00.000"	33.57516	-78.85	LNM 41/16, 7th Dist	213	11535_1	10/6/2016
+11535	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 20 ft)	N 33 34' 30.600"	W 078 51' 00.000"	33.57516	-78.85	LNM 41/16, 7th Dist	213	11535_1	10/6/2016
+11535	Add	Sounding in Feet	2	N 33 18' 38.100"	W 079 09' 01.700"	33.31059	-79.15047	LNM 33/16, 7th Dist	213	11535_1	8/11/2016
+11535	Delete	Sounding in Feet	5	N 33 18' 20.000"	W 079 09' 52.000"	33.30556	-79.16444	LNM 33/16, 7th Dist	213	11535_1	8/11/2016
+11535	Delete	12 ft depth curve PT 1 OF 2	12 ft depth curve	N 33 18' 11.610"	W 079 09' 05.230"	33.30323	-79.15145	LNM 33/16, 7th Dist	213	11535_1	8/11/2016
+11535	Delete	12 ft depth curve PT 2 OF 2	12 ft depth curve	N 33 18' 50.820"	W 079 08' 52.350"	33.31412	-79.14787	LNM 33/16, 7th Dist	213	11535_1	8/11/2016
+11535	Delete	6 ft depth curve PT 1 OF 2	6 ft depth curve	N 33 18' 11.500"	W 079 09' 52.000"	33.3032	-79.16444	LNM 33/16, 7th Dist	213	11535_1	8/11/2016
+11535	Delete	6 ft depth curve PT 2 OF 2	6 ft depth curve	N 33 19' 30.980"	W 079 09' 44.090"	33.32527	-79.16225	LNM 33/16, 7th Dist	213	11535_1	8/11/2016
+11535	Delete	Sounding in Feet	10	N 33 18' 19.450"	W 079 09' 30.330"	33.3054	-79.15842	LNM 33/16, 7th Dist	213	11535_1	8/11/2016
+11535	Delete	Sounding in Feet	3	N 33 18' 50.000"	W 079 09' 30.000"	33.31389	-79.15833	LNM 33/16, 7th Dist	213	11535_1	8/11/2016
+11535	Delete	Sounding in Feet	7	N 33 19' 02.520"	W 079 09' 20.330"	33.31737	-79.15565	LNM 33/16, 7th Dist	213	11535_1	8/11/2016
+11535	Delete	6 ft depth curve PT 1 OF 2	6 ft depth curve	N 33 19' 39.350"	W 079 09' 44.870"	33.3276	-79.16246	LNM 33/16, 7th Dist	213	11535_1	8/11/2016
+11535	Delete	6 ft depth curve PT 2 OF 2	6 ft depth curve	N 33 18' 55.850"	W 079 09' 10.080"	33.31551	-79.1528	LNM 33/16, 7th Dist	213	11535_1	8/11/2016
+11535	Add	Sewer  PT 1 OF 2	Sewer    Chart No. 1: L41.1	N 33 49' 04.610"	W 078 40' 19.010"	33.81795	-78.67194	LNM 39/15, 7th Dist	213	11535_1	10/1/2015
+11535	Add	Sewer  PT 2 OF 2	Sewer    Chart No. 1: L41.1	N 33 48' 53.650"	W 078 40' 13.020"	33.8149	-78.67028	LNM 39/15, 7th Dist	213	11535_1	10/1/2015
+11535	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 20 ft)	N 33 46' 09.000"	W 078 35' 54.000"	33.76917	-78.59834	LNM 13/15, 7th Dist	213	11535_1	3/26/2015
+11535	Delete	Dangerous Wreck	PA      Chart No. 1: K28	N 33 46' 11.200"	W 078 35' 53.600"	33.76978	-78.59822	LNM 13/15, 7th Dist	213	11535_1	3/26/2015
+11535	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 33 46' 24.000"	W 078 36' 12.000"	33.77333	-78.60333	LNM 13/15, 7th Dist	213	11535_1	3/26/2015
+11535	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 33 46' 24.000"	W 078 35' 36.000"	33.77333	-78.59333	LNM 13/15, 7th Dist	213	11535_1	3/26/2015
+11535	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 33 45' 54.000"	W 078 35' 36.000"	33.765	-78.59333	LNM 13/15, 7th Dist	213	11535_1	3/26/2015
+11535	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 33 45' 54.000"	W 078 36' 12.000"	33.765	-78.60333	LNM 13/15, 7th Dist	213	11535_1	3/26/2015
+11535	Delete	Sounding in Feet	35	N 33 45' 56.500"	W 078 35' 53.700"	33.76569	-78.59825	LNM 13/15, 7th Dist	213	11535_1	3/26/2015
+11535	Relocate	Winyah Bay Range A Rear Light	Iso 6s 43ft (Night) Iso 6s 40ft (Day)	N 33 11' 34.017"	W 079 10' 35.659"	33.19278	-79.17657	LNM 27/13, 7th Dist	213	11535_1	8/15/2013
+11535	Change	Winyah Bay Range A Front Light	Fl 2.5s 13ft (Day) Fl 2.5s 19ft (Night)	N 33 11' 34.023"	W 079 10' 40.771"	33.19278	-79.17799	LNM 27/13, 7th Dist	213	11535_1	8/15/2013
+11535	Change	Winyah Bay Range A Rear Light	Iso 6s 40ft (Night) Iso 6s 44ft (Day)	N 33 11' 34.017"	W 079 10' 35.659"	33.19278	-79.17657	LNM 27/13, 7th Dist	213	11535_1	8/15/2013
+11535	Relocate	Winyah Bay Range B Front Light	Q G 22ft	N 33 11' 58.137"	W 079 10' 55.062"	33.19948	-79.18196	LNM 27/13, 7th Dist	213	11535_1	8/15/2013
+11535	Relocate	Winyah Bay Range B Rear Light	Iso G 6s 44ft	N 33 12' 00.516"	W 079 11' 05.574"	33.20014	-79.18488	LNM 27/13, 7th Dist	213	11535_1	8/15/2013
+11535	Change	Winyah Bay Range B Front Light	Q G 20ft	N 33 11' 58.137"	W 079 10' 55.062"	33.19948	-79.18196	LNM 27/13, 7th Dist	213	11535_1	8/15/2013
+11535	Change	Winyah Bay Range B Rear Light	Iso G 6s 48ft	N 33 12' 00.516"	W 079 11' 05.574"	33.20014	-79.18488	LNM 27/13, 7th Dist	213	11535_1	8/15/2013
+11535	Relocate	Winyah Bay Range A Front Light	Fl 2.5s (Day) Fl 2.5s (Night) Fl 2.5s 17ft 5M	N 33 11' 34.023"	W 079 10' 04.771"	33.19278	-79.16799	LNM 27/13, 7th Dist	213	11535_1	8/15/2013
+11535	Delete	Rock in Feet (Within Corresponding Depth Area)	8 Rk     	N 33 11' 26.100"	W 079 08' 13.900"	33.19058	-79.13719	LNM 13/13, 7th Dist	213	11535_1	3/21/2013
+11535	Add	Islet	(4)  	N 33 11' 26.100"	W 079 08' 13.900"	33.19058	-79.13719	LNM 13/13, 7th Dist	213	11535_1	3/21/2013
+11535	Add	No-Discharge Zone PT 1 OF 3	No-Discharge Zone, Chart No. 1 N1.2	N 33 51' 05.910"	W 078 32' 29.670"	33.85164	-78.54157	LNM 22/12, 5th Dist	213	11535_1	5/30/2012
+11535	Add	No-Discharge Zone PT 2 OF 3	No-Discharge Zone, Chart No. 1 N1.2	N 33 48' 14.890"	W 078 30' 20.120"	33.80413	-78.50559	LNM 22/12, 5th Dist	213	11535_1	5/30/2012
+11535	Add	No-Discharge Zone PT 3 OF 3	No-Discharge Zone, Chart No. 1 N1.2	N 33 48' 31.190"	W 078 30' 00.000"	33.80866	-78.5	LNM 22/12, 5th Dist	213	11535_1	5/30/2012
+11535	Add	No-Discharge Zone Label	NO-DISCHARGE ZONE(see note Z)	N 33 50' 00.000"	W 078 30' 50.000"	33.83333	-78.51389	LNM 22/12, 5th Dist	213	11535_1	5/30/2012
+11535	Add	NOTE Z NO-DISCHARGE ZONE, 40 CFR 140 	NOTE Z NO-DISCHARGE ZONE, 40 CFR 140 	N 33 42' 47.500"	W 079 09' 54.300"	33.7132	-79.16508	LNM 22/12, 5th Dist	213	11535_1	5/30/2012

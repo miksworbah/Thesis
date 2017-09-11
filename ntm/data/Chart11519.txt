@@ -1,0 +1,22 @@
+Chart: 11519, Current Edition: 13, Print Date: May. /2014, Parts of Coosaw and Broad Rivers
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11519	Relocate	Brickyard Creek Light 221A	Fl G 4s 12ft 5M "221A"	N 32 28' 22.920"	W 080 41' 28.494"	32.47303	-80.69125	LNM 51/16, 7th Dist	222	11519_1	12/22/2016
+11519	Relocate	Brickyard Creek Light 210	Fl R 4s 12ft 5M "210"	N 32 29' 59.540"	W 080 40' 55.496"	32.49987	-80.68208	LNM 17/16, 7th Dist	222	11519_1	5/5/2016
+11519	Delete	Marsh Harbor Marina Daybeacon 1	G "1" Priv	N 32 26' 43.787"	W 080 39' 41.979"	32.4455	-80.66166	LNM 12/16, 7th Dist	222	11519_1	3/31/2016
+11519	Delete	Marsh Harbor Marina Daybeacon 2	R "2" Priv	N 32 26' 41.289"	W 080 39' 38.982"	32.4448	-80.66083	LNM 12/16, 7th Dist	222	11519_1	3/31/2016
+11519	Relocate	Beaufort River Light 240	Fl R 4s 16ft 3M "240"	N 32 25' 36.365"	W 080 41' 04.913"	32.42677	-80.6847	LNM 50/15, 7th Dist	222	11519_1	12/24/2015
+11519	Change	Beaufort River Light 240	Fl R 4s 16ft 5M "240"	N 32 25' 36.365"	W 080 41' 04.913"	32.42677	-80.6847	LNM 50/15, 7th Dist	222	11519_1	12/24/2015
+11519	Change	Brickyard Creek Light 210	Fl R 4s 12ft 5M "210"	N 32 29' 59.651"	W 080 40' 55.634"	32.4999	-80.68212	LNM 50/15, 7th Dist	222	11519_1	12/24/2015
+11519	Change	Brickyard Creek Light 221A	Fl G 4s 12ft 5M "221A"	N 32 28' 22.344"	W 080 41' 27.023"	32.47287	-80.69084	LNM 50/15, 7th Dist	222	11519_1	12/24/2015
+11519	Change	Brickyard Creek Light 224	Fl R 4s 12ft 5M "224"	N 32 27' 48.693"	W 080 41' 26.354"	32.46353	-80.69065	LNM 50/15, 7th Dist	222	11519_1	12/24/2015
+11519	Add	Lucy Point Creek Obstruction Daybeacon C	W "C" Priv	N 32 29' 00.600"	W 080 36' 02.880"	32.4835	-80.6008	LNM 22/15, 7th Dist	222	11519_1	6/4/2015
+11519	Add	Beaufort River Obstruction Daybeacon A	W "A" Priv	N 32 25' 44.400"	W 080 39' 39.960"	32.429	-80.6611	LNM 21/15, 7th Dist	222	11519_1	6/4/2015
+11519	Add	Beaufort River Obstruction Daybeacon C	W "C" Priv	N 32 25' 45.840"	W 080 39' 39.240"	32.4294	-80.6609	LNM 21/15, 7th Dist	222	11519_1	6/4/2015
+11519	Change	Beaufort River Light 241	Fl G 4s 12ft 5M "241"	N 32 25' 04.957"	W 080 41' 00.898"	32.41805	-80.68359	LNM 10/15, 7th Dist	222	11519_1	3/19/2015
+11519	Add	Lucy Point Creek Obstruction Daybeacon A	W Bn "A" Priv	N 32 29' 08.093"	W 080 35' 57.207"	32.48558	-80.59923	LNM 47/14, 7th Dist	222	11519_1	12/4/2014
+11519	Add	Lucy Point Creek Obstruction Daybeacon B	W Bn "B" Priv	N 32 29' 08.575"	W 080 35' 56.800"	32.48571	-80.59911	LNM 47/14, 7th Dist	222	11519_1	12/4/2014
+11519	Add	Pigeon Point Obstruction Daybeacon A	W Bn "A" Priv	N 32 27' 08.998"	W 080 40' 09.994"	32.4525	-80.66944	LNM 47/14, 7th Dist	222	11519_1	12/4/2014
+11519	Add	Pigeon Point Obstruction Daybeacon B	W Bn "B" Priv	N 32 27' 07.763"	W 080 40' 07.919"	32.45216	-80.66887	LNM 47/14, 7th Dist	222	11519_1	12/4/2014
+11519	Delete	Parrot Creek Daybeacon 4	R "4" PA Priv	N 32 28' 13.683"	W 080 32' 49.379"	32.47047	-80.54705	LNM 29/14, 7th Dist	222	11519_1	7/24/2014
+11519	Delete	Fixed Bridge	Chart No. 1: D22	N 32 32' 55.840"	W 080 45' 16.910"	32.54884	-80.7547	LNM 26/14, 7th Dist	222	11519_1	6/26/2014
+11519	Delete	Fixed Bridge Label	FIXED BRIDGE	N 32 32' 55.840"	W 080 45' 16.910"	32.54884	-80.7547	LNM 26/14, 7th Dist	222	11519_1	6/26/2014

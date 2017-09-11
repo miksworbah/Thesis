@@ -1,0 +1,7 @@
+Chart: 11407, Current Edition: 20, Print Date: Apr. /2015, Horseshoe Point to Rock Islands;Horseshoe Beach
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11407	Change	Depth Note - Cedar Island Channel, FL to:	CEDAR ISLAND CHANNEL  The controlling depth was1 1/2 feet for a width of 50 feet.  Nov 2016	N 29 49' 10.200"	W 083 32' 54.500"	29.8195	-83.54847	LNM 32/17, 7th Dist	169	11407_1	8/3/2017
+11407	Change	Depth Legend - Horseshoe Cove Entrance Channel, FL to:	2 1/2 FT FOR A WIDTH OF 75 FT NOV 2016	N 29 25' 38.000"	W 083 17' 53.000"	29.42722	-83.29806	LNM 32/17, 7th Dist	170	11407_2	8/3/2017
+11407	Change	Depth Legend - Horseshoe Cove Turning Basin, FL to:	2 FT 2016	N 29 26' 11.500"	W 083 17' 30.500"	29.43653	-83.29181	LNM 32/17, 7th Dist	170	11407_2	8/3/2017
+11407	Change	Horseshoe Beach Approach Light 2	Fl R 4s 16ft 5M "2"	N 29 23' 16.188"	W 083 20' 24.430"	29.38783	-83.34012	LNM 23/16, 7th Dist	169	11407_1	6/16/2016
+11407	Add	Pile	Pile PA	N 29 40' 09.900"	W 083 22' 57.240"	29.66942	-83.38257	LNM 17/15, 7th Dist	169	11407_1	5/7/2015

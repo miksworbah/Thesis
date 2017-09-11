@@ -1,0 +1,118 @@
+Chart: 11491, Current Edition: 39, Print Date: Feb. /2015, St. Johns River-Atlantic Ocean to Jacksonville
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11491	Delete	Mile Point Lighted Buoy A	Y "A" Fl Y 2.5s	N 30 22' 50.751"	W 081 27' 28.261"	30.38076	-81.45785	LNM 30/17, 7th Dist	265	11491_1	8/24/2017
+11491	Delete	Mile Point Lighted Buoy C	Y "C" Fl Y 2.5s	N 30 22' 43.033"	W 081 27' 05.234"	30.37862	-81.45145	LNM 30/17, 7th Dist	265	11491_1	8/24/2017
+11491	Relocate	Mile Point Light B	Fl Y 2.5s 12ft 4M "B"	N 30 22' 45.887"	W 081 27' 17.193"	30.37941	-81.45477	LNM 30/17, 7th Dist	265	11491_1	8/24/2017
+11491	Add	Mile Point Light A	Fl Y 2.5s 4M "A"	N 30 22' 43.534"	W 081 27' 03.311"	30.37876	-81.45092	LNM 30/17, 7th Dist	265	11491_1	8/24/2017
+11491	Add	Mile Point Light C	Fl Y 2.5s 4M "C"	N 30 22' 50.254"	W 081 27' 27.508"	30.38063	-81.45764	LNM 30/17, 7th Dist	265	11491_1	8/24/2017
+11491	Delete	Mile Point Lighted Buoy B	Y "B" Fl Y 2.5s	N 30 22' 44.854"	W 081 27' 15.953"	30.37913	-81.45443	LNM 29/17, 7th Dist	265	11491_1	8/3/2017
+11491	Add	Mile Point Light B	Fl Y 2.5s 12ft 4M "B"	N 30 22' 43.554"	W 081 27' 03.336"	30.37877	-81.45093	LNM 29/17, 7th Dist	265	11491_1	8/3/2017
+11491	Change	tabulation - ST. JOHNS RIVER CHANNEL DEPTHS	tabulation - ST. JOHNS RIVER CHANNEL DEPTHS	N 30 26' 09.000"	W 081 37' 34.000"	30.43583	-81.62611	LNM 26/17, 7th Dist	267	11491_3	6/22/2017
+11491	Change	tabulation - ST. JOHNS RIVER CHANNEL DEPTHS	tabulation - ST. JOHNS RIVER CHANNEL DEPTHS	N 30 25' 15.000"	W 081 33' 20.000"	30.42083	-81.55556	LNM 25/17, 7th Dist	265	11491_1	6/15/2017
+11491	Change	tabulation - ST. JOHNS RIVER CHANNEL DEPTHS	tabulation - ST. JOHNS RIVER CHANNEL DEPTHS	N 30 26' 10.000"	W 081 37' 37.000"	30.43611	-81.62695	LNM 25/17, 7th Dist	268	11491_4	6/15/2017
+11491	Change	Depth Legend - Blount Island Widener, FL to:	32 1/2 FT JUL 2016	N 30 23' 11.500"	W 081 33' 19.000"	30.38653	-81.55527	LNM 25/17, 7th Dist	265	11491_1	6/15/2017
+11491	Delete	Mile Point Jetty East Daybeacon	W Bn	N 30 22' 46.796"	W 081 27' 23.856"	30.37967	-81.45663	LNM 19/17, 7th Dist	265	11491_1	5/18/2017
+11491	Delete	Mile Point Jetty West Daybeacon	W Bn	N 30 22' 49.584"	W 081 27' 28.166"	30.38044	-81.45782	LNM 19/17, 7th Dist	265	11491_1	5/18/2017
+11491	Change	tabulation - ST. JOHNS RIVER CHANNEL DEPTHS	tabulation - ST. JOHNS RIVER CHANNEL DEPTHS	N 30 25' 15.000"	W 081 33' 20.000"	30.42083	-81.55556	LNM 08/17, 7th Dist	265	11491_1	2/16/2017
+11491	Change	tabulation - ST. JOHNS RIVER CHANNEL DEPTHS	tabulation - ST. JOHNS RIVER CHANNEL DEPTHS	N 30 26' 10.000"	W 081 37' 37.000"	30.43611	-81.62695	LNM 08/17, 7th Dist	268	11491_4	2/16/2017
+11491	Add	Pablo Creek Lighted Buoy 1	G "1" Fl G 4s	N 30 22' 52.998"	W 081 27' 32.562"	30.38139	-81.45905	LNM 06/17, 7th Dist	265	11491_1	2/16/2017
+11491	Delete	Pablo Creek Light 1	Fl G 4s 18ft 5M "1"	N 30 22' 51.733"	W 081 27' 30.682"	30.38104	-81.45852	LNM 06/17, 7th Dist	265	11491_1	2/16/2017
+11491	Change	Bridge Construction	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 30 23' 38.400"	W 081 27' 35.500"	30.394	-81.45986	LNM 07/17, 7th Dist	265	11491_1	2/16/2017
+11491	Add	Bridge Construction Label	Bridge under construction (see note)	N 30 23' 38.400"	W 081 27' 35.500"	30.394	-81.45986	LNM 07/17, 7th Dist	265	11491_1	2/16/2017
+11491	Add	Bridge Construction Note	CAUTION Fixed and floating obstructions, some submerged, may exist within the magenta tinted bridge construction area. Mariners are advised to proceed with caution.	N 30 25' 14.000"	W 081 31' 19.000"	30.42056	-81.52194	LNM 07/17, 7th Dist	265	11491_1	2/16/2017
+11491	Delete	Bascule Bridge Label	BASCULE BRIDGE HOR CL 90 FT HOR CL 24 FT (CENTER)	N 30 23' 38.400"	W 081 27' 35.500"	30.394	-81.45986	LNM 07/17, 7th Dist	265	11491_1	2/16/2017
+11491	Add	Channel Separation Line PT 1 OF 2	Channel Separation Line	N 30 23' 09.840"	W 081 33' 12.530"	30.38607	-81.55348	LNM 07/17, 7th Dist	265	11491_1	2/16/2017
+11491	Add	Channel Separation Line PT 2 OF 2	Channel Separation Line	N 30 23' 20.270"	W 081 33' 08.820"	30.38896	-81.55245	LNM 07/17, 7th Dist	265	11491_1	2/16/2017
+11491	Add	Channel Separation Line PT 1 OF 2	Channel Separation Line	N 30 23' 09.590"	W 081 33' 16.200"	30.386	-81.5545	LNM 07/17, 7th Dist	265	11491_1	2/16/2017
+11491	Add	Channel Separation Line PT 2 OF 2	Channel Separation Line	N 30 23' 19.520"	W 081 33' 12.720"	30.38876	-81.55354	LNM 07/17, 7th Dist	265	11491_1	2/16/2017
+11491	Add	Depth Legend - Blount Island Widener, FL to:	35 FT JUN 2015	N 30 23' 11.500"	W 081 33' 19.000"	30.38653	-81.55527	LNM 07/17, 7th Dist	265	11491_1	2/16/2017
+11491	Add	Depth Legend - Blount Island Widener, FL to:	35 1/2 FT JUN 2015	N 30 23' 11.500"	W 081 33' 09.000"	30.38653	-81.5525	LNM 07/17, 7th Dist	265	11491_1	2/16/2017
+11491	Add	Mile Point Lower Front Range Passing Light	Fl 4s 12ft 4M	N 30 22' 43.834"	W 081 27' 10.552"	30.37884	-81.45293	LNM 05/17, 7th Dist	265	11491_1	2/9/2017
+11491	Add	Mile Point Lower Rear Range Passing Light	Fl 2.5s 12ft 4M	N 30 22' 42.391"	W 081 27' 14.184"	30.37844	-81.45394	LNM 05/17, 7th Dist	265	11491_1	2/9/2017
+11491	Add	Mile Point Lighted Buoy A	Y "A" Fl Y 2.5s	N 30 22' 50.751"	W 081 27' 28.261"	30.38076	-81.45785	LNM 49/16, 7th Dist	265	11491_1	12/15/2016
+11491	Add	Mile Point Lighted Buoy B	Y "B" Fl Y 2.5s	N 30 22' 44.854"	W 081 27' 15.953"	30.37913	-81.45443	LNM 49/16, 7th Dist	265	11491_1	12/15/2016
+11491	Add	Mile Point Lighted Buoy C	Y "C" Fl Y 2.5s	N 30 22' 43.033"	W 081 27' 05.234"	30.37862	-81.45145	LNM 49/16, 7th Dist	265	11491_1	12/15/2016
+11491	Delete	Overhead Power Cable Label	OVHD PWR CAB AUTH CL 45 FT	N 30 19' 19.100"	W 081 35' 59.300"	30.32197	-81.59981	LNM 31/16, 7th Dist	269	11491_5	7/28/2016
+11491	Delete	Overhead Power Cable  PT 1 OF 2	Chart No. 1: D26  	N 30 19' 21.160"	W 081 36' 02.940"	30.32254	-81.60081	LNM 31/16, 7th Dist	269	11491_5	7/28/2016
+11491	Delete	Overhead Power Cable  PT 2 OF 2	Chart No. 1: D26  	N 30 19' 16.210"	W 081 35' 55.440"	30.32117	-81.59873	LNM 31/16, 7th Dist	269	11491_5	7/28/2016
+11491	Change	Fixed Bridge Label	FIXED BRIDGE HOR CL 70 FT VERT CL 18 FT	N 30 19' 19.200"	W 081 35' 58.500"	30.322	-81.59959	LNM 31/16, 7th Dist	269	11491_5	7/28/2016
+11491	Add	JEA Drummond Point Outfall Light A	Fl 3s "A" Priv	N 30 24' 28.180"	W 081 36' 23.910"	30.40783	-81.60664	LNM 22/16, 7th Dist	267	11491_3	6/9/2016
+11491	Add	JEA Drummond Point Outfall Light B	Fl 3s "B" Priv	N 30 24' 28.410"	W 081 36' 23.640"	30.40789	-81.60657	LNM 22/16, 7th Dist	267	11491_3	6/9/2016
+11491	Add	JEA Drummond Point Outfall Light C	Fl 2.5s "C" Priv	N 30 24' 28.140"	W 081 36' 24.410"	30.40782	-81.60678	LNM 22/16, 7th Dist	267	11491_3	6/9/2016
+11491	Relocate	Mile Point Lower Range Front Light	Q G 24ft	N 30 22' 43.834"	W 081 27' 10.552"	30.37884	-81.45293	LNM 17/16, 7th Dist	265	11491_1	5/5/2016
+11491	Change	Mile Point Lower Range Front Light	Q G 25ft	N 30 22' 43.834"	W 081 27' 10.552"	30.37884	-81.45293	LNM 17/16, 7th Dist	265	11491_1	5/5/2016
+11491	Relocate	Mile Point Lower Range Rear Light	Iso G 6s 41ft	N 30 22' 42.391"	W 081 27' 14.184"	30.37844	-81.45394	LNM 17/16, 7th Dist	265	11491_1	5/5/2016
+11491	Change	Mile Point Lower Range Rear Light	Iso G 6s 35ft	N 30 22' 42.391"	W 081 27' 14.184"	30.37844	-81.45394	LNM 17/16, 7th Dist	265	11491_1	5/5/2016
+11491	Relocate	Mile Point Upper Range Front Light	Q G 18ft	N 30 22' 43.834"	W 081 27' 10.552"	30.37884	-81.45293	LNM 16/16, 7th Dist	265	11491_1	4/28/2016
+11491	Change	Mile Point Upper Range Front Light	Q G 25ft	N 30 22' 43.834"	W 081 27' 10.552"	30.37884	-81.45293	LNM 16/16, 7th Dist	265	11491_1	4/28/2016
+11491	Add	Obstruction in Feet	15 Obstn       Chart No. 1: K41	N 30 18' 56.254"	W 081 40' 16.244"	30.31563	-81.67118	LNM 10/16, 7th Dist	267	11491_3	3/3/2016
+11491	Add	Obstruction in Feet	15 Obstn       Chart No. 1: K41	N 30 18' 55.865"	W 081 40' 13.940"	30.31552	-81.67054	LNM 10/16, 7th Dist	267	11491_3	3/3/2016
+11491	Add	Obstruction in Feet	15 Obstn       Chart No. 1: K41	N 30 18' 55.062"	W 081 40' 12.004"	30.31529	-81.67	LNM 10/16, 7th Dist	267	11491_3	3/3/2016
+11491	Relocate	Mayport Basin Channel Lighted Buoy 4	R "4" Fl R 4s	N 30 23' 49.462"	W 081 24' 08.458"	30.39707	-81.40235	LNM 50/15, 7th Dist	265	11491_1	12/24/2015
+11491	Add	Submarine Cable  PT 1 OF 7	Chart No. 1: L30.1	N 30 23' 28.430"	W 081 23' 39.420"	30.39123	-81.39429	LNM 43/15, 7th Dist	265	11491_1	10/22/2015
+11491	Add	Submarine Cable  PT 7 OF 7	Chart No. 1: L30.1	N 30 22' 41.090"	W 081 19' 08.810"	30.37808	-81.31911	LNM 43/15, 7th Dist	265	11491_1	10/22/2015
+11491	Add	Submarine Cable  PT 6 OF 7	Chart No. 1: L30.1	N 30 23' 02.790"	W 081 20' 49.150"	30.38411	-81.34698	LNM 43/15, 7th Dist	265	11491_1	10/22/2015
+11491	Add	Submarine Cable  PT 5 OF 7	Chart No. 1: L30.1	N 30 23' 15.170"	W 081 21' 31.510"	30.38755	-81.35875	LNM 43/15, 7th Dist	265	11491_1	10/22/2015
+11491	Add	Submarine Cable  PT 4 OF 7	Chart No. 1: L30.1	N 30 23' 21.480"	W 081 22' 05.970"	30.3893	-81.36832	LNM 43/15, 7th Dist	265	11491_1	10/22/2015
+11491	Add	Submarine Cable  PT 3 OF 7	Chart No. 1: L30.1	N 30 23' 22.700"	W 081 22' 29.250"	30.38964	-81.37479	LNM 43/15, 7th Dist	265	11491_1	10/22/2015
+11491	Add	Submarine Cable  PT 2 OF 7	Chart No. 1: L30.1	N 30 23' 22.040"	W 081 23' 00.850"	30.38946	-81.38357	LNM 43/15, 7th Dist	265	11491_1	10/22/2015
+11491	Relocate	Trapac Turning Basin Buoy A	Y C "A"	N 30 23' 25.590"	W 081 34' 08.989"	30.39044	-81.56916	LNM 39/15, 7th Dist	265	11491_1	10/8/2015
+11491	Relocate	Trapac Turning Basin Buoy A	Y C "A"	N 30 23' 25.590"	W 081 34' 08.989"	30.39044	-81.56916	LNM 39/15, 7th Dist	267	11491_3	10/8/2015
+11491	Relocate	Blount Island Wharf Northeast Light	F R Priv	N 30 23' 51.411"	W 081 32' 55.500"	30.39761	-81.54875	LNM 35/15, 7th Dist	265	11491_1	9/10/2015
+11491	Relocate	Blount Island Wharf Northwest Light	F R Priv	N 30 23' 49.001"	W 081 32' 57.311"	30.39694	-81.54926	LNM 35/15, 7th Dist	265	11491_1	9/10/2015
+11491	Relocate	Blount Island Wharf Southeast Light	F R Priv	N 30 23' 42.000"	W 081 32' 58.010"	30.395	-81.54945	LNM 35/15, 7th Dist	265	11491_1	9/10/2015
+11491	Relocate	Blount Island Wharf Southwest Light	F R Priv	N 30 23' 43.310"	W 081 32' 59.511"	30.39536	-81.54987	LNM 35/15, 7th Dist	265	11491_1	9/10/2015
+11491	Add	chartlet - Back River Jacksonville, FL	chartlet - Back River Jacksonville, FL	N 30 23' 50.000"	W 081 30' 59.000"	30.39722	-81.51639	LNM 34/15, 7th Dist	265	11491_1	8/27/2015
+11491	Change	Depth Legend - Terminal Channel, St. Johns River to:	15 FT 2015	N 30 19' 21.700"	W 081 37' 34.800"	30.32269	-81.62634	LNM 34/15, 7th Dist	267	11491_3	8/20/2015
+11491	Change	Depth Legend - Terminal Channel, St. Johns River to:	24 FT 2015	N 30 21' 29.600"	W 081 37' 09.000"	30.35822	-81.61916	LNM 34/15, 7th Dist	267	11491_3	8/20/2015
+11491	Change	Depth Legend - Chaseville Turn, St. Johns River to:	40 FT 2015	N 30 22' 41.700"	W 081 37' 49.300"	30.37825	-81.63036	LNM 34/15, 7th Dist	267	11491_3	8/20/2015
+11491	Change	Depth Legend - Blount Island Channel, St. Johns River to:	32 FT FEB 2015	N 30 24' 18.000"	W 081 32' 48.000"	30.405	-81.54667	LNM 34/15, 7th Dist	265	11491_1	8/20/2015
+11491	Add	Minimum Size (2mm sq.) Dotted Fish Haven and Label	Obstn Fish Haven (auth min 6 ft), Chart No. 1 K46.2	N 30 18' 28.950"	W 081 40' 01.500"	30.30804	-81.66708	LNM 34/15, 7th Dist	267	11491_3	8/20/2015
+11491	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 30 18' 28.000"	W 081 40' 02.650"	30.30778	-81.6674	LNM 34/15, 7th Dist	267	11491_3	8/20/2015
+11491	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 30 18' 29.900"	W 081 40' 02.650"	30.30831	-81.6674	LNM 34/15, 7th Dist	267	11491_3	8/20/2015
+11491	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 30 18' 29.900"	W 081 40' 00.350"	30.30831	-81.66676	LNM 34/15, 7th Dist	267	11491_3	8/20/2015
+11491	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 30 18' 28.000"	W 081 40' 00.350"	30.30778	-81.66676	LNM 34/15, 7th Dist	267	11491_3	8/20/2015
+11491	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 30 17' 57.400"	W 081 40' 18.520"	30.29928	-81.67181	LNM 34/15, 7th Dist	267	11491_3	8/20/2015
+11491	Add	Dotted Fish Haven PT 2 OF 4	Chart No. 1: K46.2	N 30 17' 59.300"	W 081 40' 18.520"	30.2998	-81.67181	LNM 34/15, 7th Dist	267	11491_3	8/20/2015
+11491	Add	Dotted Fish Haven PT 3 OF 4	Chart No. 1: K46.2	N 30 17' 59.300"	W 081 40' 16.250"	30.2998	-81.67118	LNM 34/15, 7th Dist	267	11491_3	8/20/2015
+11491	Add	Dotted Fish Haven PT 4 OF 4	Chart No. 1: K46.2	N 30 17' 57.400"	W 081 40' 16.250"	30.29928	-81.67118	LNM 34/15, 7th Dist	267	11491_3	8/20/2015
+11491	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 6 ft)	N 30 17' 58.350"	W 081 40' 17.390"	30.29954	-81.67149	LNM 34/15, 7th Dist	267	11491_3	8/20/2015
+11491	Delete	Sounding in Feet	13	N 30 18' 28.000"	W 081 40' 00.700"	30.30778	-81.66686	LNM 34/15, 7th Dist	267	11491_3	8/20/2015
+11491	Add	Dotted Fish Haven Label	Obstn Fish Haven (auth min 6 ft)	N 30 18' 28.950"	W 081 40' 01.500"	30.30804	-81.66708	LNM 34/15, 7th Dist	267	11491_3	8/20/2015
+11491	Change	Christopher Point Light 5	Fl G 4s 16ft 5M "5"	N 30 15' 08.545"	W 081 39' 27.962"	30.25237	-81.65777	LNM 31/15, 7th Dist	267	11491_3	8/13/2015
+11491	Change	tabulation - ST. JOHNS RIVER CHANNEL DEPTHS	tabulation - ST. JOHNS RIVER CHANNEL DEPTHS	N 30 25' 15.000"	W 081 33' 20.000"	30.42083	-81.55556	LNM 29/15, 7th Dist	265	11491_1	7/16/2015
+11491	Change	tabulation - ST. JOHNS RIVER CHANNEL DEPTHS	tabulation - ST. JOHNS RIVER CHANNEL DEPTHS	N 30 26' 10.000"	W 081 37' 37.000"	30.43611	-81.62695	LNM 29/15, 7th Dist	268	11491_4	2/4/2016
+11491	Change	tabulation - ST. JOHNS RIVER CHANNEL DEPTHS	tabulation - ST. JOHNS RIVER CHANNEL DEPTHS	N 30 25' 15.000"	W 081 33' 20.000"	30.42083	-81.55556	LNM 29/15, 7th Dist	265	11491_1	7/16/2015
+11491	Relocate	Sisters Creek Light 83	Fl G 4s 16ft 4M "83"	N 30 24' 03.300"	W 081 27' 20.760"	30.40092	-81.45576	LNM 25/15, 7th Dist	265	11491_1	7/2/2015
+11491	Change	Sisters Creek Light 83	Fl G 4s 16ft 5M "83"	N 30 24' 03.300"	W 081 27' 20.760"	30.40092	-81.45576	LNM 25/15, 7th Dist	265	11491_1	7/2/2015
+11491	Change	Winter Point Light 2	Fl R 4s 16ft 5M "2"	N 30 17' 37.687"	W 081 40' 38.112"	30.2938	-81.67725	LNM 24/15, 7th Dist	267	11491_3	6/25/2015
+11491	Change	Sisters Creek Light 82	Fl R 4s 16ft 5M "82"	N 30 24' 25.260"	W 081 27' 16.020"	30.40702	-81.45445	LNM 17/15, 7th Dist	265	11491_1	5/7/2015
+11491	Change	Sisters Creek Light 85	Fl G 4s 16ft 5M "85"	N 30 23' 48.303"	W 081 27' 21.321"	30.39675	-81.45592	LNM 17/15, 7th Dist	265	11491_1	5/7/2015
+11491	Change	Depth Curve Label	6	N 30 23' 37.100"	W 081 35' 13.400"	30.39364	-81.58706	LNM 18/15, 7th Dist	267	11491_3	4/30/2015
+11491	Delete	Dolphin	Dol   Chart No. 1: F20	N 30 24' 27.650"	W 081 36' 23.440"	30.40768	-81.60651	LNM 18/15, 7th Dist	267	11491_3	4/30/2015
+11491	Add	Piles	Piles     Chart No. 1: F22	N 30 24' 27.880"	W 081 36' 23.710"	30.40775	-81.60658	LNM 18/15, 7th Dist	267	11491_3	4/30/2015
+11491	Add	Obstruction in Feet	17 Obstn       Chart No. 1: K41	N 30 23' 08.370"	W 081 28' 10.240"	30.38566	-81.46951	LNM 18/15, 7th Dist	265	11491_1	4/30/2015
+11491	Delete	Visible Wreck	Wks     Chart No. 1: K24	N 30 23' 49.140"	W 081 33' 10.920"	30.39698	-81.55303	LNM 18/15, 7th Dist	265	11491_1	4/30/2015
+11491	Delete	Visible Wreck	Wks PA     Chart No. 1: K24	N 30 24' 09.750"	W 081 33' 01.590"	30.40271	-81.55044	LNM 18/15, 7th Dist	265	11491_1	4/30/2015
+11491	Add	Wreck in Feet	13 Wk      Chart No. 1: K26	N 30 23' 30.650"	W 081 28' 51.350"	30.39185	-81.48093	LNM 18/15, 7th Dist	265	11491_1	4/30/2015
+11491	Delete	Visible Wreck	PA     Chart No. 1: K24	N 30 23' 17.310"	W 081 33' 08.520"	30.38814	-81.55237	LNM 18/15, 7th Dist	265	11491_1	4/30/2015
+11491	Delete	Obstruction in Feet	11 Obstn       Chart No. 1: K41	N 30 24' 06.970"	W 081 33' 00.210"	30.40194	-81.55006	LNM 18/15, 7th Dist	265	11491_1	4/30/2015
+11491	Add	Obstruction in Feet	13 Obstn       Chart No. 1: K41	N 30 24' 07.720"	W 081 33' 00.830"	30.40215	-81.55023	LNM 18/15, 7th Dist	265	11491_1	4/30/2015
+11491	Delete	Mooring Buoy	Mooring Buoy, (use Chart No. 1: Q40) 	N 30 24' 14.200"	W 081 30' 37.530"	30.40394	-81.51042	LNM 18/15, 7th Dist	265	11491_1	4/30/2015
+11491	Add	Restricted Area PT 1 OF 5	Chart No. 1: N2.1 or N2.2	N 30 23' 18.900"	W 081 26' 03.400"	30.38858	-81.43428	LNM 16/15, 7th Dist	265	11491_1	4/16/2015
+11491	Add	Restricted Area PT 2 OF 5	Chart No. 1: N2.1 or N2.2	N 30 23' 19.600"	W 081 26' 04.300"	30.38878	-81.43452	LNM 16/15, 7th Dist	265	11491_1	4/16/2015
+11491	Add	Restricted Area PT 3 OF 5	Chart No. 1: N2.1 or N2.2	N 30 23' 16.000"	W 081 26' 08.000"	30.38778	-81.43555	LNM 16/15, 7th Dist	265	11491_1	4/16/2015
+11491	Add	Restricted Area PT 4 OF 5	Chart No. 1: N2.1 or N2.2	N 30 23' 12.900"	W 081 26' 07.700"	30.38692	-81.43547	LNM 16/15, 7th Dist	265	11491_1	4/16/2015
+11491	Add	Restricted Area PT 5 OF 5	Chart No. 1: N2.1 or N2.2	N 30 23' 12.300"	W 081 26' 06.700"	30.38675	-81.4352	LNM 16/15, 7th Dist	265	11491_1	4/16/2015
+11491	Add	Restricted Area Label	RESTRICTED AREA 334.505 (see note A)	N 30 23' 15.100"	W 081 26' 06.700"	30.38753	-81.4352	LNM 16/15, 7th Dist	265	11491_1	4/16/2015
+11491	Add	Tidebox - St Johns River	Tidebox	N 30 20' 00.000"	W 081 41' 00.000"	30.33333	-81.68333	LNM 16/15, 7th Dist	267	11491_3	4/16/2015
+11491	Change	Short Cut Light 26	Fl R 4s 16ft 5M "26"	N 30 23' 39.604"	W 081 28' 18.754"	30.39433	-81.47188	LNM 14/15, 7th Dist	265	11491_1	4/16/2015
+11491	Change	St Johns Bluff Light 31	Fl G 4s 16ft 5M "31"	N 30 23' 18.681"	W 081 29' 30.459"	30.38852	-81.49179	LNM 14/15, 7th Dist	265	11491_1	4/16/2015
+11491	Change	Blount Island Channel Light 1	Fl G 4s 12ft 5M "1"	N 30 23' 21.454"	W 081 33' 15.633"	30.38929	-81.55434	LNM 14/15, 7th Dist	265	11491_1	4/16/2015
+11491	Change	Blount Island Turning Basin Light 45	Fl G 4s 16ft 5M "45"	N 30 23' 07.124"	W 081 32' 29.937"	30.38531	-81.54165	LNM 14/15, 7th Dist	265	11491_1	4/16/2015
+11491	Relocate	Quarantine Island Upper Range Front Light	Q G 19ft	N 30 22' 58.739"	W 081 33' 40.026"	30.38298	-81.56112	LNM 13/15, 7th Dist	265	11491_1	4/9/2015
+11491	Change	Quarantine Island Upper Range Front Light	Q G 20ft	N 30 22' 58.739"	W 081 33' 40.026"	30.38298	-81.56112	LNM 13/15, 7th Dist	265	11491_1	4/9/2015
+11491	Change	Sisters Creek Light 88	Fl R 2.5s 12ft 5M "88"	N 30 23' 25.401"	W 081 27' 47.493"	30.39039	-81.4632	LNM 10/15, 7th Dist	265	11491_1	3/19/2015
+11491	Change	Pablo Creek Light 10	Fl R 4s 13ft 5M "10"	N 30 21' 20.888"	W 081 26' 26.217"	30.3558	-81.44061	LNM 09/15, 7th Dist	265	11491_1	3/12/2015
+11491	Add	St Johns Lighted Buoy STJ Magenta Circle	RW "STJ" Mo (A) AIS	N 30 23' 35.368"	W 081 19' 08.398"	30.39316	-81.319	LNM 08/15, 7th Dist	265	11491_1	3/5/2015
+11491	Add	St Johns River Lighted Buoy 5 Magenta Circle	G "5" Q G AIS	N 30 23' 47.535"	W 081 22' 25.935"	30.39654	-81.37387	LNM 08/15, 7th Dist	265	11491_1	3/5/2015

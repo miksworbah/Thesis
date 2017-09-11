@@ -1,0 +1,60 @@
+Chart: 11542, Current Edition: 19, Print Date: Aug. /2014, New River;Jacksonville
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11542	Relocate	New River Channel Lighted Wreck Buoy WR47	G "WR47" Q G	N 34 41' 10.911"	W 077 23' 53.046"	34.68636	-77.39807	LNM 17/17, 5th Dist	506	11542_1	5/4/2017
+11542	Change	Depth Legend - New River to:	8 1/2 FT MAY 2016	N 34 33' 37.880"	W 077 21' 30.700"	34.56052	-77.35853	LNM 17/17, 5th Dist	506	11542_1	4/27/2017
+11542	Change	Depth Legend - New River to:	7 FT MAY 2016	N 34 34' 22.190"	W 077 22' 45.920"	34.57283	-77.37943	LNM 17/17, 5th Dist	506	11542_1	4/27/2017
+11542	Delete	NC Artificial Fishing Reef Buoy AR350	Y C "AR350" Priv	N 34 29' 48.597"	W 077 21' 22.853"	34.49683	-77.35635	LNM 14/17, 5th Dist	506	11542_1	4/13/2017
+11542	Relocate	Bogue Sound - New River Buoy 61A	G C "61A"	N 34 35' 49.644"	W 077 14' 31.323"	34.59712	-77.24203	LNM 05/17, 5th Dist	506	11542_1	2/9/2017
+11542	Relocate	Bogue Sound - New River Buoy 60	R N "60"	N 34 35' 52.210"	W 077 14' 31.644"	34.59784	-77.24213	LNM 05/17, 5th Dist	506	11542_1	2/9/2017
+11542	Relocate	New River - Cape Fear River Daybeacon 37	G "37"	N 34 28' 56.211"	W 077 28' 32.660"	34.48228	-77.47574	LNM 04/17, 5th Dist	506	11542_1	2/2/2017
+11542	Relocate	New River - Cape Fear River Light 39	Fl G 4s 18ft 4M "39"	N 34 28' 42.032"	W 077 29' 05.489"	34.47834	-77.48486	LNM 04/17, 5th Dist	506	11542_1	2/2/2017
+11542	Change	Bogue Sound - New River Light 66	Fl R 4s 15ft 4M "66"	N 34 32' 52.261"	W 077 19' 35.838"	34.54785	-77.32662	LNM 48/16, 5th Dist	506	11542_1	12/1/2016
+11542	Change	New River Channel Light 12	Fl R 4s 15ft 4M "12"	N 34 33' 06.810"	W 077 20' 57.730"	34.55189	-77.34937	LNM 47/16, 5th Dist	506	11542_1	12/1/2016
+11542	Relocate	Stones Bay Warning Daybeacon A	W "A"	N 34 36' 13.310"	W 077 24' 08.827"	34.6037	-77.40245	LNM 47/16, 5th Dist	506	11542_1	12/1/2016
+11542	Change	New River Channel Light 50	Fl R 4s 15ft 4M "50"	N 34 42' 11.593"	W 077 24' 13.513"	34.70322	-77.40376	LNM 45/16, 5th Dist	506	11542_1	11/17/2016
+11542	Change	Bogue Sound - New River Buoy 63	G C "63"	N 34 35' 46.516"	W 077 14' 35.956"	34.59626	-77.24332	LNM 39/16, 5th Dist	506	11542_1	10/6/2016
+11542	Relocate	Bogue Sound - New River Buoy 60	R N "60"	N 34 35' 56.779"	W 077 14' 26.867"	34.59911	-77.2408	LNM 39/16, 5th Dist	506	11542_1	10/6/2016
+11542	Relocate	Courthouse Bay Buoy 7	G C "7"	N 34 35' 09.128"	W 077 22' 26.880"	34.58587	-77.37413	LNM 34/16, 5th Dist	506	11542_1	9/1/2016
+11542	Relocate	New River Channel Light 28A	Q R 15ft 4M "28A"	N 34 34' 52.406"	W 077 25' 07.847"	34.58122	-77.41885	LNM 34/16, 5th Dist	506	11542_1	9/1/2016
+11542	Relocate	New River Buoy 17A	G C "17A"	N 34 34' 01.795"	W 077 22' 00.996"	34.56717	-77.36694	LNM 33/16, 5th Dist	506	11542_1	8/25/2016
+11542	Relocate	Courthouse Bay Buoy 4	R N "4"	N 34 35' 02.326"	W 077 22' 31.369"	34.58398	-77.37538	LNM 33/16, 5th Dist	506	11542_1	8/25/2016
+11542	Delete	Bogue Sound - New River Daybeacon 70	R "70"	N 34 33' 07.877"	W 077 20' 34.488"	34.55219	-77.34291	LNM 32/16, 5th Dist	506	11542_1	8/18/2016
+11542	Add	Bogue Sound - New River Buoy 70	R N "70"	N 34 33' 07.877"	W 077 20' 34.488"	34.55219	-77.34291	LNM 32/16, 5th Dist	506	11542_1	8/18/2016
+11542	Relocate	New River - Cape Fear River Daybeacon 53	G "53"	N 34 27' 44.062"	W 077 30' 52.883"	34.46224	-77.51469	LNM 30/16, 5th Dist	506	11542_1	8/11/2016
+11542	Relocate	Stones Bay Warning Daybeacon B	W "B"	N 34 36' 49.560"	W 077 26' 03.573"	34.61377	-77.43433	LNM 29/16, 5th Dist	506	11542_1	8/4/2016
+11542	Relocate	Stones Bay Warning Daybeacon D	W "D"	N 34 36' 38.149"	W 077 26' 02.183"	34.6106	-77.43394	LNM 29/16, 5th Dist	506	11542_1	8/4/2016
+11542	Relocate	Stones Bay Warning Daybeacon E	W "E"	N 34 36' 31.984"	W 077 26' 04.527"	34.60888	-77.43459	LNM 29/16, 5th Dist	506	11542_1	8/4/2016
+11542	Relocate	Grey Point Warning Daybeacon	W Bn	N 34 37' 40.797"	W 077 22' 04.138"	34.628	-77.36781	LNM 28/16, 5th Dist	506	11542_1	7/14/2016
+11542	Relocate	Stones Bay Warning Daybeacon	W Bn	N 34 36' 23.556"	W 077 26' 08.043"	34.60654	-77.43557	LNM 28/16, 5th Dist	506	11542_1	7/14/2016
+11542	Delete	New River Channel Daybeacon 53	G "53"	N 34 43' 15.438"	W 077 25' 22.767"	34.72095	-77.42299	LNM 24/16, 5th Dist	506	11542_1	6/23/2016
+11542	Change	New River - Cape Fear River Light 2	Q R 18ft 4M "2"	N 34 32' 58.057"	W 077 21' 35.112"	34.54946	-77.35976	LNM 16/16, 5th Dist	506	11542_1	4/28/2016
+11542	Relocate	New River - Cape Fear River Daybeacon 51	G "51"	N 34 27' 56.349"	W 077 30' 38.640"	34.46565	-77.51073	LNM 14/16, 5th Dist	506	11542_1	4/14/2016
+11542	Relocate	New River - Cape Fear River Daybeacon 25	G "25"	N 34 30' 11.742"	W 077 25' 04.909"	34.50326	-77.41803	LNM 14/16, 5th Dist	506	11542_1	4/14/2016
+11542	Relocate	Bogue Sound - New River Daybeacon 63	G "63"	N 34 35' 46.516"	W 077 14' 35.956"	34.59626	-77.24332	LNM 14/16, 5th Dist	506	11542_1	4/14/2016
+11542	Relocate	Bogue Sound - New River Buoy 60	R N "60"	N 34 35' 56.779"	W 077 14' 26.867"	34.59911	-77.2408	LNM 13/16, 5th Dist	506	11542_1	4/7/2016
+11542	Relocate	Bogue Sound - New River Daybeacon 67	G "67"	N 34 32' 53.073"	W 077 19' 44.999"	34.54808	-77.32916	LNM 09/16, 5th Dist	506	11542_1	3/10/2016
+11542	Relocate	Bogue Sound - New River Light 68	Fl R 4s 15ft 4M "68"	N 34 32' 55.525"	W 077 19' 46.517"	34.54876	-77.32959	LNM 09/16, 5th Dist	506	11542_1	3/10/2016
+11542	Relocate	Bogue Sound - New River Buoy 61A	G C "61A"	N 34 35' 53.143"	W 077 14' 31.439"	34.59809	-77.24207	LNM 09/16, 5th Dist	506	11542_1	3/10/2016
+11542	Change	Bogue Sound - New River Light 64	Fl R 4s 15ft 4M "64"	N 34 33' 54.006"	W 077 16' 54.534"	34.565	-77.28181	LNM 09/16, 5th Dist	506	11542_1	3/10/2016
+11542	Change	Bogue Sound - New River Light 68	Fl R 4s 15ft 4M "68"	N 34 32' 55.525"	W 077 19' 46.517"	34.54876	-77.32959	LNM 09/16, 5th Dist	506	11542_1	3/10/2016
+11542	Change	New River Channel Light 27	Q G 15ft 4M "27"	N 34 34' 29.707"	W 077 24' 42.963"	34.57492	-77.41193	LNM 29/15, 5th Dist	506	11542_1	7/30/2015
+11542	Relocate	Courthouse Bay Daybeacon 5	G "5"	N 34 35' 03.685"	W 077 22' 33.735"	34.58436	-77.37604	LNM 27/15, 5th Dist	506	11542_1	7/16/2015
+11542	Relocate	New River Channel Daybeacon 33	G "33"	N 34 36' 23.991"	W 077 23' 43.997"	34.60666	-77.39555	LNM 27/15, 5th Dist	506	11542_1	7/16/2015
+11542	Relocate	New River Channel Daybeacon 35	G "35"	N 34 36' 58.110"	W 077 22' 57.229"	34.61614	-77.38256	LNM 27/15, 5th Dist	506	11542_1	7/16/2015
+11542	Relocate	New River Channel Light 27	Q G 15ft 3M "27"	N 34 34' 29.707"	W 077 24' 42.963"	34.57492	-77.41193	LNM 27/15, 5th Dist	506	11542_1	7/16/2015
+11542	Relocate	Bogue Sound - New River Buoy 61A	G C "61A"	N 34 35' 52.988"	W 077 14' 31.294"	34.59805	-77.24203	LNM 24/15, 5th Dist	506	11542_1	6/25/2015
+11542	Relocate	New River Channel Daybeacon 53	G "53"	N 34 43' 15.438"	W 077 25' 22.767"	34.72095	-77.42299	LNM 24/15, 5th Dist	506	11542_1	6/25/2015
+11542	Relocate	New River - Cape Fear River Daybeacon 41	G "41"	N 34 28' 31.996"	W 077 29' 28.853"	34.47556	-77.49135	LNM 24/15, 5th Dist	506	11542_1	6/25/2015
+11542	Relocate	New River - Cape Fear River Daybeacon 43	G "43"	N 34 28' 26.445"	W 077 29' 40.792"	34.47401	-77.49467	LNM 24/15, 5th Dist	506	11542_1	6/25/2015
+11542	Change	New River Channel Light 52	Fl R 2.5s 15ft 4M "52"	N 34 42' 54.391"	W 077 25' 06.965"	34.71511	-77.4186	LNM 23/15, 5th Dist	506	11542_1	6/18/2015
+11542	Relocate	New River Channel Lighted Wreck Buoy WR47	G "WR47" Q G	N 34 41' 10.860"	W 077 23' 53.376"	34.68635	-77.39816	LNM 23/15, 5th Dist	506	11542_1	6/18/2015
+11542	Relocate	New River Channel Light 50	Fl R 4s 15ft 3M "50"	N 34 42' 11.593"	W 077 24' 13.513"	34.70322	-77.40376	LNM 14/15, 5th Dist	506	11542_1	4/9/2015
+11542	Relocate	New River Channel Daybeacon 43	G "43"	N 34 39' 58.403"	W 077 22' 37.513"	34.66622	-77.37709	LNM 14/15, 5th Dist	506	11542_1	4/9/2015
+11542	Add	Legend:	Shl to 1ft 2014	N 34 35' 52.000"	W 077 14' 30.890"	34.59778	-77.24191	LNM 10/15, 5th Dist	506	11542_1	3/5/2015
+11542	Delete	New River Channel Daybeacon 47	G "47"	N 34 41' 10.860"	W 077 23' 53.376"	34.68635	-77.39816	LNM 52/14, 5th Dist	506	11542_1	1/8/2015
+11542	Add	New River Channel Lighted Wreck Buoy WR47	G "WR47" Q G	N 34 41' 10.901"	W 077 23' 52.991"	34.68636	-77.39806	LNM 52/14, 5th Dist	506	11542_1	1/8/2015
+11542	Add	Cable Area  PT 1 OF 2	Chart No. 1: L30.2	N 34 44' 04.420"	W 077 21' 10.490"	34.73456	-77.35291	LNM 01/15, 5th Dist	506	11542_1	1/8/2015
+11542	Add	Cable Area  PT 2 OF 2	Chart No. 1: L30.2	N 34 44' 07.420"	W 077 21' 14.460"	34.73539	-77.35402	LNM 01/15, 5th Dist	506	11542_1	1/8/2015
+11542	Add	Cable Area  PT 1 OF 2	Chart No. 1: L30.2	N 34 43' 54.580"	W 077 21' 15.180"	34.73183	-77.35422	LNM 01/15, 5th Dist	506	11542_1	1/8/2015
+11542	Add	Cable Area  PT 2 OF 2	Chart No. 1: L30.2	N 34 44' 02.280"	W 077 21' 25.390"	34.73397	-77.35706	LNM 01/15, 5th Dist	506	11542_1	1/8/2015
+11542	Change	Bogue Sound - New River Light 65A	Q G 15ft 4M "65A"	N 34 32' 41.972"	W 077 19' 02.900"	34.54499	-77.31747	LNM 47/14, 5th Dist	506	11542_1	11/27/2014

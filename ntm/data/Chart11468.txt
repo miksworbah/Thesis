@@ -1,0 +1,2 @@
+Chart: 11468, Current Edition: 45, Print Date: Aug. /2017, Miami Harbor
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
