@@ -1,5 +1,11 @@
 Chart: 11401, Current Edition: 32, Print Date: Jan. /2015, Apalachicola Bay to Cape San Blas
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11401	Relocate	Apalachicola Bay Buoy 48	R N "48"	N 29 41' 02.711"	W 084 52' 44.627"	29.68409	-84.87907	LNM 44/17, 8th Dist	167	11401_1	11/9/2017
+11401	Add	Florida Department of Agriculture Indian Lagoon Special Light A	Fl Y 2.5s "A" Priv	N 29 41' 16.650"	W 085 14' 03.830"	29.68796	-85.2344	LNM 39/17, 8th Dist	167	11401_1	10/5/2017
+11401	Add	Florida Department of Agriculture Indian Lagoon Special Light B	Fl Y 2.5s "B" Priv	N 29 41' 16.900"	W 085 13' 53.260"	29.68803	-85.23146	LNM 39/17, 8th Dist	167	11401_1	10/5/2017
+11401	Add	Florida Department of Agriculture Indian Lagoon Special Light C	Fl Y 2.5s "C" Priv	N 29 41' 21.630"	W 085 13' 53.260"	29.68934	-85.23146	LNM 39/17, 8th Dist	167	11401_1	10/5/2017
+11401	Add	Florida Department of Agriculture Indian Lagoon Special Light D	Fl Y 2.5s "D" Priv	N 29 41' 21.380"	W 085 14' 03.380"	29.68927	-85.23428	LNM 39/17, 8th Dist	167	11401_1	10/5/2017
+11401	Change	Two Mile Channel East End Buoy 16	R N "16"	N 29 42' 45.156"	W 085 00' 01.007"	29.71254	-85.00028	LNM 37/17, 8th Dist	167	11401_1	9/21/2017
 11401	Change	Depth Legend - Bob Sikes Pass to:	3 FT FOR A MID-WIDTH OF 50-100 FT JAN 2017	N 29 36' 55.500"	W 084 57' 35.900"	29.61542	-84.95997	LNM 29/17, 8th Dist	167	11401_1	7/13/2017
 11401	Delete	St George Island Range Rear Light	Iso G 6s 36ft	N 29 37' 46.802"	W 084 58' 03.741"	29.62967	-84.9677	LNM 20/17, 8th Dist	167	11401_1	6/1/2017
 11401	Delete	St George Island Range Front Light	Q G 20ft	N 29 37' 28.773"	W 084 57' 53.942"	29.62466	-84.96498	LNM 20/17, 8th Dist	167	11401_1	6/1/2017

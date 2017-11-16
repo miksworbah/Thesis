@@ -1,5 +1,33 @@
 Chart: 11416, Current Edition: 13, Print Date: Sep. /2015, Tampa Bay;Safety Harbor;St. Petersburg;Tampa
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11416	Relocate	Tampa Bay Skyway Pier Northeast Light	F R 16ft Priv	N 27 37' 19.945"	W 082 39' 20.235"	27.62221	-82.65562	LNM 45/17, 7th Dist	2983	11416_1	Not Yet
+11416	Relocate	Tampa Bay Skyway Pier Northwest Light	F R 16ft Priv	N 27 37' 09.970"	W 082 39' 12.986"	27.61944	-82.65361	LNM 45/17, 7th Dist	2983	11416_1	Not Yet
+11416	Relocate	Tampa Bay Skyway Pier Southeast Light	F R 16ft Priv	N 27 37' 06.885"	W 082 39' 19.699"	27.61858	-82.65547	LNM 45/17, 7th Dist	2983	11416_1	Not Yet
+11416	Relocate	Tampa Bay Skyway Pier Southwest Light	F R 16ft Priv	N 27 37' 16.853"	W 082 39' 26.953"	27.62135	-82.65749	LNM 45/17, 7th Dist	2983	11416_1	Not Yet
+11416	Delete	fixed light and label	F R 16ft Priv	N 27 37' 09.360"	W 082 39' 13.510"	27.61927	-82.65376	Not Yet Published	2983	11416_1	11/9/2017
+11416	Delete	fixed light and label	F R 16ft Priv	N 27 37' 16.300"	W 082 39' 27.490"	27.62119	-82.65764	Not Yet Published	2983	11416_1	11/9/2017
+11416	Delete	fixed light and label	F R 16ft Priv	N 27 37' 19.420"	W 082 39' 20.780"	27.62206	-82.65577	Not Yet Published	2983	11416_1	11/9/2017
+11416	Add	fixed light and label	F R 16ft Priv	N 27 37' 16.850"	W 082 39' 26.950"	27.62135	-82.65749	Not Yet Published	2983	11416_1	11/9/2017
+11416	Add	fixed light and label	F R 16ft Priv	N 27 37' 19.950"	W 082 39' 20.230"	27.62221	-82.65562	Not Yet Published	2983	11416_1	11/9/2017
+11416	Add	fixed light and label	F R 16ft Priv	N 27 37' 06.890"	W 082 39' 19.700"	27.61858	-82.65547	Not Yet Published	2983	11416_1	11/9/2017
+11416	Add	fixed light and label	F R 16ft Priv	N 27 37' 09.970"	W 082 39' 12.980"	27.61944	-82.6536	Not Yet Published	2983	11416_1	11/9/2017
+11416	Delete	fixed light and label	F R 16ft Priv	N 27 37' 06.330"	W 082 39' 20.220"	27.61843	-82.65562	Not Yet Published	2983	11416_1	11/9/2017
+11416	Change	Depth Legend - Port Sutton Terminal Channel, FL to:	15 1/2 FT FOR A WIDTH OF 200 FT MAR 2017	N 27 54' 13.600"	W 082 25' 11.700"	27.90378	-82.41991	LNM 43/17, 7th Dist	2984	11416_2	10/19/2017
+11416	Change	Depth Legend - Tampa Harbor, Basin SW of Delaney Creek, FL to:	32 FT 1996-2015	N 27 54' 31.500"	W 082 25' 37.400"	27.90875	-82.42706	LNM 43/17, 7th Dist	2984	11416_2	10/19/2017
+11416	Change	Depth Legend - Berth 212, East Bay Channel and Turning Basin, FL to:	44 FT 2017	N 27 54' 46.500"	W 082 25' 42.800"	27.91292	-82.42856	LNM 43/17, 7th Dist	2984	11416_2	10/19/2017
+11416	Change	Depth Legend - Port Sutton Entrance Channel, North Widener, FL to:	41 FT	N 27 54' 11.000"	W 082 26' 15.000"	27.90306	-82.4375	LNM 43/17, 7th Dist	2984	11416_2	10/19/2017
+11416	Change	Depth Legend - BAYBORO HARBOR BASIN to:	10 FT MAR 2017	N 27 45' 33.400"	W 082 38' 00.000"	27.75928	-82.63333	LNM 43/17, 7th Dist	2985	11416_3	10/19/2017
+11416	Change	Depth Legend - ENTRANCE TURINING BASIN to:	21 FT MAR 2017	N 27 45' 36.300"	W 082 37' 44.300"	27.76008	-82.62897	LNM 43/17, 7th Dist	2985	11416_3	10/19/2017
+11416	Change	Depth Legend - CUT A to:	16 FT MAR 2017	N 27 41' 16.000"	W 082 36' 32.600"	27.68778	-82.60905	LNM 43/17, 7th Dist	2983	11416_1	10/19/2017
+11416	Change	Depth Legend - CUT B to:	17 FT MAR 2017	N 27 45' 32.500"	W 082 37' 53.000"	27.75903	-82.63139	LNM 43/17, 7th Dist	2985	11416_3	10/19/2017
+11416	Change	Depth Legend - CUT A to:	19 1/2 FT MAR 2017	N 27 45' 24.600"	W 082 36' 42.000"	27.75683	-82.61166	LNM 43/17, 7th Dist	2985	11416_3	10/19/2017
+11416	Change	Depth Legend - CUT A to:	19 1/2 FT MAR 2017	N 27 45' 24.600"	W 082 36' 42.000"	27.75683	-82.61166	LNM 43/17, 7th Dist	2983	11416_1	10/19/2017
+11416	Change	Depth Note - ENTRANCE CHANNEL to:	North quarter - 20.5, Middle half - 20.6, South quarter - 16.11. Mar 2017	N 27 45' 58.000"	W 082 38' 07.000"	27.76611	-82.63528	LNM 43/17, 7th Dist	2985	11416_3	10/19/2017
+11416	Change	Depth Legend - OUTER CHANNEL to:	22 FT MAR 2017	N 27 45' 38.500"	W 082 36' 51.000"	27.76069	-82.61417	LNM 43/17, 7th Dist	2985	11416_3	10/19/2017
+11416	Change	Depth Legend - Alafia River Channel Turning Basin to:	31 1/2 FT	N 27 51' 23.000"	W 082 23' 28.000"	27.85639	-82.39111	LNM 43/17, 7th Dist	2983	11416_1	10/19/2017
+11416	Change	Depth Legend - Alafia River Entrance Channel Widener to:	34 FT FEB 2017	N 27 50' 42.200"	W 082 26' 32.400"	27.84505	-82.44234	LNM 43/17, 7th Dist	2983	11416_1	10/19/2017
+11416	Change	Depth Legend - Alafia River Channel to:	30 FT FOR A WIDTH OF 200 FT FEB 2017	N 27 51' 01.000"	W 082 25' 03.300"	27.85028	-82.41758	LNM 43/17, 7th Dist	2983	11416_1	10/19/2017
+11416	Change	tabulation - TAMPA BAY CHANNEL DEPTHS	tabulation - TAMPA BAY CHANNEL DEPTHS	N 27 46' 37.000"	W 082 41' 16.000"	27.77695	-82.68777	LNM 43/17, 7th Dist	2983	11416_1	10/19/2017
 11416	Change	tabulation - TAMPA BAY CHANNEL DEPTHS	tabulation - TAMPA BAY CHANNEL DEPTHS	N 27 46' 32.600"	W 082 41' 15.700"	27.77572	-82.68769	LNM 35/17, 7th Dist	2983	11416_1	8/24/2017
 11416	Change	Depth Legend - Alafia River Channel to:	29 FT FOR A WIDTH OF 200 FT FEB 2016	N 27 50' 59.890"	W 082 25' 09.680"	27.84997	-82.41936	LNM 35/17, 7th Dist	2983	11416_1	8/24/2017
 11416	Change	Depth Legend - Alafia River Turning Basin to:	34 FT	N 27 51' 22.800"	W 082 23' 29.400"	27.85633	-82.3915	LNM 35/17, 7th Dist	2983	11416_1	8/24/2017

@@ -1,8 +1,8 @@
 Chart: 11428, Current Edition: 37, Print Date: Nov. /2015, Okeechobee Waterway St. Lucie Inlet to Fort Myers; Lake Okeechobee
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-11428	Delete	Sewalls Point Channel Daybeacon 2	R "2" Priv PA	N 27 10' 18.900"	W 080 11' 19.320"	27.17192	-80.1887	LNM 35/17, 7th Dist	2930	11428_3	Not Yet
-11428	Delete	Sewalls Point Channel Daybeacon 3	G "3" PA Priv	N 27 10' 15.000"	W 080 11' 31.350"	27.17083	-80.19204	LNM 35/17, 7th Dist	2930	11428_3	Not Yet
-11428	Delete	Sewalls Point Channel Daybeacon 4	R "4" Priv PA	N 27 10' 18.960"	W 080 11' 22.480"	27.17193	-80.18958	LNM 35/17, 7th Dist	2930	11428_3	Not Yet
+11428	Delete	Sewalls Point Channel Daybeacon 2	R "2" Priv PA	N 27 10' 18.900"	W 080 11' 19.320"	27.17192	-80.1887	LNM 35/17, 7th Dist	2930	11428_3	9/14/2017
+11428	Delete	Sewalls Point Channel Daybeacon 3	G "3" PA Priv	N 27 10' 15.000"	W 080 11' 31.350"	27.17083	-80.19204	LNM 35/17, 7th Dist	2930	11428_3	9/14/2017
+11428	Delete	Sewalls Point Channel Daybeacon 4	R "4" Priv PA	N 27 10' 18.960"	W 080 11' 22.480"	27.17193	-80.18958	LNM 35/17, 7th Dist	2930	11428_3	9/14/2017
 11428	Change	Bascule Bridge Label	FEC RR BASCULE BRIDGE HOR CL 46 FT VERT CL 6 FT (AT CENTER) AUTOMATIC CONTROL SEE NOTE FOR FEC RR	N 27 12' 13.500"	W 080 15' 35.900"	27.20375	-80.25997	LNM 35/17, 7th Dist	301	11428_4	8/24/2017
 11428	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 26 47' 40.910"	W 080 41' 49.120"	26.7947	-80.69698	LNM 35/17, 7th Dist	303	11428_5	8/24/2017
 11428	Add	Dotted Fish Haven PT 1 OF 4	Chart No. 1: K46.2	N 26 47' 40.910"	W 080 41' 49.120"	26.7947	-80.69698	LNM 35/17, 7th Dist	304	11428_7	8/24/2017

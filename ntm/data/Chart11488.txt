@@ -1,0 +1,2 @@
+Chart: 11488, Current Edition: 29, Print Date: Oct. /2017, Amelia Island to St. Augustine
+Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted

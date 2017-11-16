@@ -1,5 +1,8 @@
 Chart: 11441, Current Edition: 42, Print Date: Feb. /2013, Key West Harbor and Approaches
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11441	Change	Depth Legend - Garrison Bight Channel to:	7 1/2 FEET NOV 2016	N 24 33' 55.500"	W 081 47' 09.300"	24.56542	-81.78592	LNM 39/17, 7th Dist	328	11441_1	9/28/2017
+11441	Change	Depth Legend - Garrison Bight Channel to:	7 1/2 FEET NOV 2016	N 24 34' 26.300"	W 081 47' 24.500"	24.57397	-81.79014	LNM 39/17, 7th Dist	328	11441_1	9/28/2017
+11441	Change	tabulation -  KEY WEST HARBOR CHANNEL DEPTHS	tabulation -  KEY WEST HARBOR CHANNEL DEPTHS	N 24 36' 31.000"	W 081 59' 27.000"	24.60861	-81.99084	LNM 39/17, 7th Dist	328	11441_1	9/28/2017
 11441	Add	Obstruction in Feet	18 Obstn       Chart No. 1: K41	N 24 27' 29.900"	W 081 52' 06.000"	24.45831	-81.86833	LNM 12/17, 7th Dist	328	11441_1	3/16/2017
 11441	Change	tabulation - KEY WEST HARBOR CHANNEL DEPTHS	tabulation - KEY WEST HARBOR CHANNEL DEPTHS	N 24 36' 31.000"	W 081 59' 27.000"	24.60861	-81.99084	LNM 10/17, 7th Dist	328	11441_1	3/2/2017
 11441	Add	channel reach separation line PT 1 OF 2	channel reach separation line	N 24 33' 35.980"	W 081 48' 32.140"	24.55999	-81.80893	LNM 10/17, 7th Dist	328	11441_1	3/2/2017

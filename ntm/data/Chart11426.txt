@@ -1,7 +1,7 @@
 Chart: 11426, Current Edition: 39, Print Date: Nov. /2015, Estero Bay to Lemon Bay, including Charlotte Harbor;Continuation of Peace River
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
-11426	Relocate	Jug Creek Channel Daybeacon 1	G "1" Priv	N 26 42' 06.209"	W 082 10' 55.653"	26.70173	-82.18213	LNM 35/17, 7th Dist	371	11426_1	Not Yet
-11426	Relocate	Jug Creek Channel Daybeacon 2	R "2" Priv	N 26 42' 05.363"	W 082 10' 55.948"	26.70149	-82.18221	LNM 35/17, 7th Dist	371	11426_1	Not Yet
+11426	Relocate	Jug Creek Channel Daybeacon 1	G "1" Priv	N 26 42' 06.209"	W 082 10' 55.653"	26.70173	-82.18213	LNM 35/17, 7th Dist	371	11426_1	9/14/2017
+11426	Relocate	Jug Creek Channel Daybeacon 2	R "2" Priv	N 26 42' 05.363"	W 082 10' 55.948"	26.70149	-82.18221	LNM 35/17, 7th Dist	371	11426_1	9/14/2017
 11426	Delete	Channel Limits PT 1 OF 5	Chart No. 1: I20	N 26 27' 59.830"	W 081 58' 02.990"	26.46662	-81.9675	LNM 35/17, 7th Dist	371	11426_1	8/24/2017
 11426	Delete	Channel Limits PT 2 OF 5	Chart No. 1: I20	N 26 27' 52.760"	W 081 58' 12.250"	26.46465	-81.97007	LNM 35/17, 7th Dist	371	11426_1	8/24/2017
 11426	Delete	Channel Limits PT 3 OF 5	Chart No. 1: I20	N 26 27' 57.780"	W 081 58' 01.880"	26.46605	-81.96719	LNM 35/17, 7th Dist	371	11426_1	8/24/2017

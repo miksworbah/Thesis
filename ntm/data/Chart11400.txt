@@ -1,5 +1,6 @@
 Chart: 11400, Current Edition: 36, Print Date: Jan. /2006, Tampa Bay to Cape San Blas
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11400	Change	Egmont Key Light	Fl 15s 85ft 13M	N 27 36' 02.859"	W 082 45' 38.446"	27.60079	-82.76068	LNM 45/17, 7th Dist	177	11400_1	Not Yet
 11400	Relocate	Anclote Anchorage South Entrance Light 3	Fl G 4s 16ft 5M "3"	N 28 08' 18.493"	W 082 50' 52.622"	28.13847	-82.84795	LNM 44/16, 7th Dist	177	11400_1	11/3/2016
 11400	Change	Anclote Anchorage South Entrance Light 3	Fl G 4s 16ft 5M "3"	N 28 08' 18.493"	W 082 50' 52.622"	28.13847	-82.84795	LNM 44/16, 7th Dist	177	11400_1	11/3/2016
 11400	Delete	St Marks River Lighted Buoy SM	RW "SM" Mo (A)	N 30 01' 02.549"	W 084 10' 29.827"	30.01737	-84.17495	LNM 42/16, 8th Dist	177	11400_1	10/27/2016

@@ -1,5 +1,8 @@
 Chart: 11408, Current Edition: 30, Print Date: Mar. /2015, Crystal River to Horseshoe Point;Suwannee River;Cedar Keys
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11408	Change	Bridge Construction	Chart No. 1: D.d, with magenta screen extending 500 feet from bridge	N 29 00' 46.650"	W 082 39' 47.700"	29.01296	-82.66325	LNM 41/17, 7th Dist	171	11408_1	10/12/2017
+11408	Change	Fixed Bridge Completion Label	bridge construction label to fixed bridge label: FIXED BRIDGE HOR CL 150 FT VERT CL 40 FT	N 29 00' 46.650"	W 082 39' 47.700"	29.01296	-82.66325	LNM 41/17, 7th Dist	171	11408_1	10/12/2017
+11408	Delete	Note	CAUTION Fixed and floating obstructions, some of which may be submerged, may exist within the magenta tinted bridge construction area. Mariners are advised to proceed with caution.	N 28 59' 47.000"	W 082 40' 00.000"	28.99639	-82.66666	LNM 41/17, 7th Dist	171	11408_1	10/12/2017
 11408	Change	Depth Legend - Suwannee River-McGriff Pass, FL to:	1 1/2 FT MAR 2017	N 29 18' 20.600"	W 083 10' 58.800"	29.30572	-83.183	LNM 32/17, 7th Dist	172	11408_2	8/3/2017
 11408	Change	Depth Note - NOTE F to:	NORTHWEST CHANNEL The controlling depth was 6 feet on centerline from the entrance to the main ship channel. May 2016 	N 29 07' 04.400"	W 083 06' 40.100"	29.11789	-83.11114	LNM 32/17, 7th Dist	173	11408_3	8/3/2017
 11408	Change	Depth Legend - Suwannee River-McGriff Pass, FL to:	1 FT APR 2016	N 29 18' 20.600"	W 083 10' 58.800"	29.30572	-83.183	LNM 25/17, 7th Dist	172	11408_2	6/15/2017

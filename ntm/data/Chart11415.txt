@@ -1,5 +1,23 @@
 Chart: 11415, Current Edition: 11, Print Date: Jun. /2015, Tampa Bay Entrance; Manatee River Extension
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11415	Change	Egmont Key Light	Fl 15s 85ft 13M	N 27 36' 02.859"	W 082 45' 38.446"	27.60079	-82.76068	LNM 45/17, 7th Dist	2981	11415_1	Not Yet
+11415	Relocate	Tampa Bay Skyway Pier Northeast Light	F R 16ft Priv	N 27 37' 19.945"	W 082 39' 20.235"	27.62221	-82.65562	LNM 45/17, 7th Dist	2981	11415_1	Not Yet
+11415	Relocate	Tampa Bay Skyway Pier Northwest Light	F R 16ft Priv	N 27 37' 09.970"	W 082 39' 12.986"	27.61944	-82.65361	LNM 45/17, 7th Dist	2981	11415_1	Not Yet
+11415	Relocate	Tampa Bay Skyway Pier Southeast Light	F R 16ft Priv	N 27 37' 06.885"	W 082 39' 19.699"	27.61858	-82.65547	LNM 45/17, 7th Dist	2981	11415_1	Not Yet
+11415	Relocate	Tampa Bay Skyway Pier Southwest Light	F R 16ft Priv	N 27 37' 16.853"	W 082 39' 26.953"	27.62135	-82.65749	LNM 45/17, 7th Dist	2981	11415_1	Not Yet
+11415	Add	fixed light and label	F R 16ft Priv	N 27 37' 16.850"	W 082 39' 26.950"	27.62135	-82.65749	Not Yet Published	2981	11415_1	11/9/2017
+11415	Add	fixed light and label	F R 16ft Priv	N 27 37' 19.950"	W 082 39' 20.230"	27.62221	-82.65562	Not Yet Published	2981	11415_1	11/9/2017
+11415	Add	fixed light and label	F R 16ft Priv	N 27 37' 06.890"	W 082 39' 19.700"	27.61858	-82.65547	Not Yet Published	2981	11415_1	11/9/2017
+11415	Add	fixed light and label	F R 16ft Priv	N 27 37' 09.970"	W 082 39' 12.980"	27.61944	-82.6536	Not Yet Published	2981	11415_1	11/9/2017
+11415	Delete	fixed light and label	F R 16ft Priv	N 27 37' 06.730"	W 082 39' 19.640"	27.61854	-82.65546	Not Yet Published	2981	11415_1	11/9/2017
+11415	Delete	fixed light and label	F R 16ft Priv	N 27 37' 16.530"	W 082 39' 26.810"	27.62126	-82.65745	Not Yet Published	2981	11415_1	11/9/2017
+11415	Delete	fixed light and label	F R 16ft Priv	N 27 37' 19.900"	W 082 39' 20.210"	27.62219	-82.65562	Not Yet Published	2981	11415_1	11/9/2017
+11415	Delete	fixed light and label	F R 16ft Priv	N 27 37' 09.590"	W 082 39' 12.780"	27.61933	-82.65355	Not Yet Published	2981	11415_1	11/9/2017
+11415	Change	Siesta Key - Tampa Bay Light 58	Q R 15ft 4M "58"	N 27 30' 37.803"	W 082 41' 22.567"	27.5105	-82.68961	LNM 44/17, 7th Dist	2981	11415_1	11/2/2017
+11415	Delete	Tampa Bay P.O.R.T.S. Monitor Light P	Fl Y 4s 16ft 8M "P" Priv	N 27 35' 46.276"	W 082 51' 33.438"	27.59619	-82.85929	LNM 40/17, 7th Dist	2981	11415_1	10/26/2017
+11415	Change	Depth Legend - CUT A to:	16 FT MAR 2017	N 27 41' 16.000"	W 082 36' 32.600"	27.68778	-82.60905	LNM 43/17, 7th Dist	2981	11415_1	10/19/2017
+11415	Change	Depth Legend - CUT A to:	19 1/2 FT MAR 2017	N 27 45' 24.600"	W 082 36' 42.000"	27.75683	-82.61166	LNM 43/17, 7th Dist	2981	11415_1	10/19/2017
+11415	Change	tabulation - TAMPA BAY ENTRANCE CHANNEL DEPTHS	tabulation - TAMPA BAY ENTRANCE CHANNEL DEPTHS	N 27 29' 43.000"	W 083 03' 15.000"	27.49528	-83.05417	LNM 43/17, 7th Dist	2981	11415_1	10/19/2017
 11415	Add	Scripps Wave Data Lighted Buoy CDIP STA 214	Y "CDIP STA 214" Fl (5) Y 20s Priv	N 27 35' 25.560"	W 082 55' 52.260"	27.59043	-82.93118	LNM 31/17, 7th Dist	2981	11415_1	8/24/2017
 11415	Relocate	Johns Pass Channel Buoy 3	G C "3"	N 27 46' 37.651"	W 082 47' 19.546"	27.77712	-82.78876	LNM 24/17, 7th Dist	2981	11415_1	6/29/2017
 11415	Delete	Pass-A-Grille Channel Light 6	Fl R 4s 16ft 5M "6"	N 27 40' 31.498"	W 082 44' 56.530"	27.67542	-82.74904	LNM 23/17, 7th Dist	2981	11415_1	6/22/2017

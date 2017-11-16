@@ -1,5 +1,8 @@
 Chart: 11404, Current Edition: 25, Print Date: Mar. /2015, Intracoastal Waterway Carrabelle to Apalachicola Bay;Carrabelle River
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11404	Relocate	Apalachicola Bay Buoy 48	R N "48"	N 29 41' 02.711"	W 084 52' 44.627"	29.68409	-84.87907	LNM 44/17, 8th Dist	144	11404_1	11/9/2017
+11404	Delete	Carrabelle Channel Inner Range Rear Light	Iso R 6s 56ft	N 29 50' 15.265"	W 084 39' 05.097"	29.83757	-84.65141	LNM 43/17, 8th Dist	144	11404_1	11/2/2017
+11404	Change	Carrabelle Channel Inner Leading Light	Q 19ft	N 29 49' 47.889"	W 084 39' 17.448"	29.82997	-84.65485	LNM 42/17, 8th Dist	144	11404_1	11/2/2017
 11404	Change	tabulation - CARRABELLE HARBOR CHANNEL DEPTHS	tabulation - CARRABELLE HARBOR CHANNEL DEPTHS	N 29 50' 37.000"	W 084 54' 21.000"	29.84361	-84.90583	LNM 29/17, 8th Dist	144	11404_1	7/13/2017
 11404	Change	Depth Legend - Bob Sikes Pass to:	3 FT FOR A MID-WIDTH OF 50-100 FT JAN 2017	N 29 36' 55.500"	W 084 57' 35.900"	29.61542	-84.95997	LNM 29/17, 8th Dist	144	11404_1	7/13/2017
 11404	Delete	St George Island Range Rear Light	Iso G 6s 36ft	N 29 37' 46.802"	W 084 58' 03.741"	29.62967	-84.9677	LNM 20/17, 8th Dist	144	11404_1	6/1/2017

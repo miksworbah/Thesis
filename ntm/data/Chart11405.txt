@@ -1,5 +1,9 @@
 Chart: 11405, Current Edition: 31, Print Date: Aug. /2015, Apalachee Bay
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11405	Delete	Carrabelle Channel Inner Range Rear Light	Iso R 6s 56ft	N 29 50' 15.265"	W 084 39' 05.097"	29.83757	-84.65141	LNM 43/17, 8th Dist	168	11405_1	11/2/2017
+11405	Change	Carrabelle Channel Inner Leading Light	Q 19ft	N 29 49' 47.889"	W 084 39' 17.448"	29.82997	-84.65485	LNM 42/17, 8th Dist	168	11405_1	11/2/2017
+11405	Change	St Marks Light	Oc 4s 80ft	N 30 04' 25.725"	W 084 10' 46.698"	30.07381	-84.17964	LNM 38/17, 8th Dist	168	11405_1	10/5/2017
+11405	Change	St Marks River Obstruction Light	Q 17ft 4M	N 30 02' 27.162"	W 084 10' 37.224"	30.04088	-84.17701	LNM 38/17, 8th Dist	168	11405_1	9/28/2017
 11405	Change	Depth Legend - Panacea Harbor to:	5 FT FOR MID-WIDTH OF 50 FT DEC 2016	N 29 49' 03.800"	W 084 39' 37.100"	29.81772	-84.66031	LNM 29/17, 8th Dist	168	11405_1	7/13/2017
 11405	Relocate	Florida Department of Agriculture Skipper Bay Oyster Farm Special Light I	Fl Y 2.5s "I"	N 30 02' 33.480"	W 084 21' 34.660"	30.04263	-84.35963	LNM 42/16, 8th Dist	168	11405_1	10/27/2016
 11405	Delete	St Marks River Lighted Buoy SM	RW "SM" Mo (A)	N 30 01' 02.549"	W 084 10' 29.827"	30.01737	-84.17495	LNM 42/16, 8th Dist	168	11405_1	10/27/2016

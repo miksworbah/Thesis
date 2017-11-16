@@ -1,5 +1,6 @@
 Chart: 11442, Current Edition: 36, Print Date: Oct. /2012, Florida Keys Sombrero Key to Sand Key
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11442	Relocate	Pirates Cove Daybeacon 8	R "8"	N 24 37' 29.667"	W 081 30' 27.341"	24.62491	-81.50759	LNM 41/17, 7th Dist	355	11442_1	10/26/2017
 11442	Change	Harbor Key Bank Light 57	Fl G 4s 16ft 5M "57"	N 24 50' 24.030"	W 081 25' 44.595"	24.84001	-81.42905	LNM 11/17, 7th Dist	355	11442_1	3/16/2017
 11442	Add	Obstruction in Feet	18 Obstn       Chart No. 1: K41	N 24 27' 29.900"	W 081 52' 06.000"	24.45831	-81.86833	LNM 12/17, 7th Dist	355	11442_1	3/16/2017
 11442	Change	Boca Chica Channel Light 16	Fl R 4s 16ft 5M "16"	N 24 34' 24.024"	W 081 42' 41.549"	24.57334	-81.71154	LNM 49/16, 7th Dist	355	11442_1	12/15/2016

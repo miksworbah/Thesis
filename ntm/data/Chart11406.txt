@@ -1,4 +1,6 @@
 Chart: 11406, Current Edition: 14, Print Date: Jan. /2015, St.Marks River and approaches
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11406	Change	St Marks Light	Oc 4s 80ft	N 30 04' 25.725"	W 084 10' 46.698"	30.07381	-84.17964	LNM 38/17, 8th Dist	147	11406_2	10/5/2017
+11406	Change	St Marks River Obstruction Light	Q 17ft 4M	N 30 02' 27.162"	W 084 10' 37.224"	30.04088	-84.17701	LNM 38/17, 8th Dist	147	11406_2	9/28/2017
 11406	Change	tabulation -  ST. MARKS RIVER	tabulation -  ST. MARKS RIVER	N 30 06' 37.000"	W 084 10' 53.000"	30.11028	-84.18139	LNM 29/17, 8th Dist	147	11406_2	7/13/2017
 11406	Change	tabulation - ST. MARKS RIVER	tabulation - ST. MARKS RIVER	N 30 06' 37.000"	W 084 10' 53.000"	30.11028	-84.18139	LNM 19/16, 7th Dist	147	11406_2	5/19/2016

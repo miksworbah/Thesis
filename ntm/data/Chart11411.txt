@@ -1,5 +1,24 @@
 Chart: 11411, Current Edition: 20, Print Date: Jan. /2017, Intracoastal Waterway Tampa Bay to Port Richey
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11411	Change	Egmont Key Light	Fl 15s 85ft 13M	N 27 36' 02.859"	W 082 45' 38.446"	27.60079	-82.76068	LNM 45/17, 7th Dist	191	11411_1	Not Yet
+11411	Relocate	Tampa Bay Skyway Pier Northeast Light	F R 16ft Priv	N 27 37' 19.945"	W 082 39' 20.235"	27.62221	-82.65562	LNM 45/17, 7th Dist	191	11411_1	Not Yet
+11411	Relocate	Tampa Bay Skyway Pier Northwest Light	F R 16ft Priv	N 27 37' 09.970"	W 082 39' 12.986"	27.61944	-82.65361	LNM 45/17, 7th Dist	191	11411_1	Not Yet
+11411	Relocate	Tampa Bay Skyway Pier Southeast Light	F R 16ft Priv	N 27 37' 06.885"	W 082 39' 19.699"	27.61858	-82.65547	LNM 45/17, 7th Dist	191	11411_1	Not Yet
+11411	Relocate	Tampa Bay Skyway Pier Southwest Light	F R 16ft Priv	N 27 37' 16.853"	W 082 39' 26.953"	27.62135	-82.65749	LNM 45/17, 7th Dist	191	11411_1	Not Yet
+11411	Delete	fixed light and label	F R 16ft Priv	N 27 37' 09.040"	W 082 39' 12.870"	27.61918	-82.65357	Not Yet Published	191	11411_1	11/9/2017
+11411	Delete	fixed light and label	F R 16ft Priv	N 27 37' 09.740"	W 082 39' 20.380"	27.61937	-82.65566	Not Yet Published	191	11411_1	11/9/2017
+11411	Add	fixed light and label	F R 16ft Priv	N 27 37' 16.850"	W 082 39' 26.950"	27.62135	-82.65749	Not Yet Published	191	11411_1	11/9/2017
+11411	Add	fixed light and label	F R 16ft Priv	N 27 37' 19.950"	W 082 39' 20.230"	27.62221	-82.65562	Not Yet Published	191	11411_1	11/9/2017
+11411	Add	fixed light and label	F R 16ft Priv	N 27 37' 06.890"	W 082 39' 19.700"	27.61858	-82.65547	Not Yet Published	191	11411_1	11/9/2017
+11411	Add	fixed light and label	F R 16ft Priv	N 27 37' 09.970"	W 082 39' 12.980"	27.61944	-82.6536	Not Yet Published	191	11411_1	11/9/2017
+11411	Delete	fixed light and label	F R 16ft Priv	N 27 37' 16.330"	W 082 39' 27.610"	27.6212	-82.65767	Not Yet Published	191	11411_1	11/9/2017
+11411	Delete	fixed light and label	F R 16ft Priv	N 27 37' 19.070"	W 082 39' 20.130"	27.62196	-82.65559	Not Yet Published	191	11411_1	11/9/2017
+11411	Change	Depth Note - NOTE G JOHNS PASS to:	The controlling depth was 4 feet for a width of 150 feet from the entrance to the Bridge; thence 7 feet for a width of 100 feet to 27°47'29.7 N 82°46'50.0 W; thence 4 feet for a width of 100 feet to the Intracoastal Waterway. Dec 2016	N 27 47' 36.000"	W 082 44' 50.000"	27.79333	-82.74722	LNM 43/17, 7th Dist	191	11411_1	10/19/2017
+11411	Change	Depth Note - CLEARWATER PASS to:	The controlling depth was 9 feet for a width of 150 feet from the Gulf to the fixed highway bridge, thence 7 feet for a width of 100 feet to a juntion with the Intracoastal Waterway, with 2 feet in the left quarter of the widener at the junction. Dec 2016	N 27 56' 47.000"	W 082 47' 50.000"	27.94639	-82.79723	LNM 43/17, 7th Dist	192	11411_2	10/19/2017
+11411	Change	Depth Note to:	The controlling depth from Light "2" was 5 feet to the turning basin at Clearwater Beach and 8 feet in the turning basin. Dec 2016	N 27 56' 39.000"	W 082 47' 14.000"	27.94417	-82.78722	LNM 43/17, 7th Dist	192	11411_2	10/19/2017
+11411	Change	Depth Note - CLEARWATER PASS to:	The controlling depth was 9 feet for a width of 150 feet from the Gulf to the fixed highway bridge, thence 7 feet for a width of 100 feet to a juntion with the Intracoastal Waterway, with 2 feet in the left quarter of the widener at the junction. Dec 2016	N 27 59' 48.000"	W 082 51' 10.000"	27.99667	-82.85278	LNM 43/17, 7th Dist	191	11411_1	10/19/2017
+11411	Change	Depth Note - Anclote River to:	The controlling depth was 6 1/2 feet for a width of 100 feet from Light No. 1 to the turning basin of Tarpon Springs and 2 feet within the turning basin. Nov. 2016	N 28 08' 38.000"	W 082 45' 02.000"	28.14389	-82.75056	LNM 43/17, 7th Dist	192	11411_2	10/19/2017
+11411	Change	Depth Legend - Anclote River Cut 1, FL to:	8 FT SEP 2016	N 28 08' 17.000"	W 082 51' 16.500"	28.13806	-82.85458	LNM 43/17, 7th Dist	192	11411_2	10/19/2017
 11411	Change	Anclote River Light 9	Q G 16ft 4M "9"	N 28 10' 47.194"	W 082 48' 14.726"	28.17978	-82.80409	LNM 31/17, 7th Dist	192	11411_2	8/24/2017
 11411	Relocate	Johns Pass Channel Buoy 3	G C "3"	N 27 46' 37.651"	W 082 47' 19.546"	27.77712	-82.78876	LNM 24/17, 7th Dist	191	11411_1	6/29/2017
 11411	Delete	Pass-A-Grille Channel Light 6	Fl R 4s 16ft 5M "6"	N 27 40' 31.498"	W 082 44' 56.530"	27.67542	-82.74904	LNM 23/17, 7th Dist	191	11411_1	6/22/2017

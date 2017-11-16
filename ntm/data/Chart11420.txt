@@ -1,5 +1,6 @@
 Chart: 11420, Current Edition: 31, Print Date: Jan. /2017, Havana to Tampa Bay
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11420	Change	Egmont Key Light	Fl 15s 85ft 13M	N 27 36' 02.859"	W 082 45' 38.446"	27.60079	-82.76068	LNM 45/17, 7th Dist	374	11420_1	Not Yet
 11420	Add	CDIP Wave Data Lighted Buoy STA 226	Y "CDIP STA 226" Fl (5) Y 20s Priv	N 25 42' 00.780"	W 083 39' 00.660"	25.70022	-83.65018	LNM 29/17, 7th Dist	374	11420_1	8/3/2017
 11420	Delete	Fort Jefferson Buoy D	Y C "D"	N 24 36' 30.000"	W 082 58' 00.000"	24.60833	-82.96667	LNM 28/17, 7th Dist	374	11420_1	7/20/2017
 11420	Delete	Fort Jefferson Buoy Q	Y C "Q"	N 24 35' 00.000"	W 082 52' 00.000"	24.58333	-82.86667	LNM 28/17, 7th Dist	374	11420_1	7/20/2017

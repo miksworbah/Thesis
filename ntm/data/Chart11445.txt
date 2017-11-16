@@ -1,5 +1,6 @@
 Chart: 11445, Current Edition: 31, Print Date: May. /2012, Intracoastal Waterway Bahia Honda Key to Sugarloaf Key
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11445	Relocate	Pirates Cove Daybeacon 8	R "8"	N 24 37' 29.667"	W 081 30' 27.341"	24.62491	-81.50759	LNM 41/17, 7th Dist	329	11445_1	10/26/2017
 11445	Change	Bahia Honda Key Light 49A	Fl G 6s 20ft 5M "49A"	N 24 37' 29.946"	W 081 14' 08.442"	24.62498	-81.23568	LNM 42/15, 7th Dist	329	11445_1	10/29/2015
 11445	Delete	American Shoal Light	Fl (3) 15s 109ft 10M RACON (_-__)	N 24 31' 30.422"	W 081 31' 09.898"	24.52512	-81.51942	LNM 36/15, 7th Dist	329	11445_1	9/17/2015
 11445	Add	Abandoned Light House	TOWER (ABAND LT HO)	N 24 31' 30.422"	W 081 31' 09.898"	24.52512	-81.51942	LNM 36/15, 7th Dist	329	11445_1	9/17/2015

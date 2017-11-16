@@ -1,5 +1,7 @@
 Chart: 11425, Current Edition: 40, Print Date: Jan. /2017, Intracoastal Waterway Charlotte Harbor to Tampa Bay
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11425	Change	Siesta Key - Tampa Bay Light 58	Q R 15ft 4M "58"	N 27 30' 37.803"	W 082 41' 22.567"	27.5105	-82.68961	LNM 44/17, 7th Dist	161	11425_3	11/2/2017
+11425	Add	Submerged Obstruction	Subm obstn	N 27 17' 04.600"	W 082 33' 58.600"	27.28461	-82.56628	LNM 40/17, 7th Dist	161	11425_3	11/2/2017
 11425	Delete	Big Sarasota Pass Shoal Daybeacon D	W "D" Priv	N 27 16' 58.469"	W 082 34' 03.900"	27.28291	-82.56775	LNM 29/17, 7th Dist	161	11425_3	8/3/2017
 11425	Delete	Big Sarasota Pass Shoal Daybeacon A	W "A" Priv	N 27 15' 58.000"	W 082 33' 53.000"	27.26611	-82.56472	LNM 29/17, 7th Dist	161	11425_3	8/3/2017
 11425	Delete	Big Sarasota Pass Shoal Daybeacon B	W "B" Priv	N 27 16' 21.000"	W 082 34' 14.000"	27.2725	-82.57056	LNM 29/17, 7th Dist	161	11425_3	8/3/2017

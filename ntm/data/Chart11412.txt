@@ -1,5 +1,27 @@
 Chart: 11412, Current Edition: 47, Print Date: Oct. /2015, Tampa Bay and St. Joseph Sound
 Chart	Action	Item Name	Charting Label	Latitude	Longitude	LatDD	LongDD	Published Document	Kapp	RNC Panel	RNC Posted
+11412	Change	Egmont Key Light	Fl 15s 85ft 13M	N 27 36' 02.859"	W 082 45' 38.446"	27.60079	-82.76068	LNM 45/17, 7th Dist	175	11412_1	Not Yet
+11412	Relocate	Tampa Bay Skyway Pier Northeast Light	F R 16ft Priv	N 27 37' 19.945"	W 082 39' 20.235"	27.62221	-82.65562	LNM 45/17, 7th Dist	175	11412_1	Not Yet
+11412	Relocate	Tampa Bay Skyway Pier Northwest Light	F R 16ft Priv	N 27 37' 09.970"	W 082 39' 12.986"	27.61944	-82.65361	LNM 45/17, 7th Dist	175	11412_1	Not Yet
+11412	Relocate	Tampa Bay Skyway Pier Southeast Light	F R 16ft Priv	N 27 37' 06.885"	W 082 39' 19.699"	27.61858	-82.65547	LNM 45/17, 7th Dist	175	11412_1	Not Yet
+11412	Relocate	Tampa Bay Skyway Pier Southwest Light	F R 16ft Priv	N 27 37' 16.853"	W 082 39' 26.953"	27.62135	-82.65749	LNM 45/17, 7th Dist	175	11412_1	Not Yet
+11412	Add	fixed light and label	F R 16ft Priv	N 27 37' 16.850"	W 082 39' 26.950"	27.62135	-82.65749	Not Yet Published	175	11412_1	11/9/2017
+11412	Add	fixed light and label	F R 16ft Priv	N 27 37' 19.950"	W 082 39' 20.230"	27.62221	-82.65562	Not Yet Published	175	11412_1	11/9/2017
+11412	Add	fixed light and label	F R 16ft Priv	N 27 37' 06.890"	W 082 39' 19.700"	27.61858	-82.65547	Not Yet Published	175	11412_1	11/9/2017
+11412	Delete	fixed light and label	F R 16ft Priv	N 27 37' 10.770"	W 082 39' 14.250"	27.61966	-82.65396	Not Yet Published	175	11412_1	11/9/2017
+11412	Add	fixed light and label	F R 16ft Priv	N 27 37' 09.970"	W 082 39' 12.980"	27.61944	-82.6536	Not Yet Published	175	11412_1	11/9/2017
+11412	Delete	fixed light and label	F R 16ft Priv	N 27 37' 19.290"	W 082 39' 28.310"	27.62202	-82.65787	Not Yet Published	175	11412_1	11/9/2017
+11412	Delete	fixed light and label	F R 16ft Priv	N 27 37' 06.060"	W 082 39' 21.400"	27.61835	-82.65594	Not Yet Published	175	11412_1	11/9/2017
+11412	Delete	fixed light and label	F R 16ft Priv	N 27 37' 21.610"	W 082 39' 19.870"	27.62267	-82.65552	Not Yet Published	175	11412_1	11/9/2017
+11412	Delete	Tampa Bay P.O.R.T.S. Monitor Light P	Fl Y 4s 16ft 8M "P" Priv	N 27 35' 46.276"	W 082 51' 33.438"	27.59619	-82.85929	LNM 40/17, 7th Dist	175	11412_1	10/26/2017
+11412	Change	Depth Legend - CUT A to:	16 FT MAR 2017	N 27 41' 16.000"	W 082 36' 32.600"	27.68778	-82.60905	LNM 43/17, 7th Dist	175	11412_1	10/19/2017
+11412	Change	Depth Legend - CUT A to:	19 1/2 FT MAR 2017	N 27 45' 24.600"	W 082 36' 42.000"	27.75683	-82.61166	LNM 43/17, 7th Dist	175	11412_1	10/19/2017
+11412	Change	Depth Legend - ENTRANCE CHANNEL to:	16 FT 2017	N 27 45' 33.000"	W 082 37' 24.000"	27.75917	-82.62334	LNM 43/17, 7th Dist	175	11412_1	10/19/2017
+11412	Change	Depth Legend - ENTRANCE TURINING BASIN to:	21 FT	N 27 45' 36.300"	W 082 37' 44.300"	27.76008	-82.62897	LNM 43/17, 7th Dist	175	11412_1	10/19/2017
+11412	Change	Depth Legend - BAYBORO HARBOR BASIN AND CUT B to:	10 FT	N 27 45' 33.400"	W 082 38' 00.000"	27.75928	-82.63333	LNM 43/17, 7th Dist	175	11412_1	10/19/2017
+11412	Change	Depth Legend - OUTER CHANNEL to:	22 FT MAR 2017	N 27 45' 38.500"	W 082 36' 51.000"	27.76069	-82.61417	LNM 43/17, 7th Dist	175	11412_1	10/19/2017
+11412	Change	tabulation - TAMPA BAY CHANNEL DEPTHS	tabulation - TAMPA BAY CHANNEL DEPTHS	N 28 03' 48.000"	W 082 26' 25.000"	28.06333	-82.44028	LNM 43/17, 7th Dist	175	11412_1	10/19/2017
+11412	Change	Depth Legend - Anclote River Cut 1, FL to:	8 FT SEP 2016	N 28 08' 17.000"	W 082 51' 16.500"	28.13806	-82.85458	LNM 43/17, 7th Dist	175	11412_1	10/19/2017
 11412	Change	Anclote River Light 9	Q G 16ft 4M "9"	N 28 10' 47.194"	W 082 48' 14.726"	28.17978	-82.80409	LNM 31/17, 7th Dist	175	11412_1	8/24/2017
 11412	Add	Scripps Wave Data Lighted Buoy CDIP STA 214	Y "CDIP STA 214" Fl (5) Y 20s Priv	N 27 35' 25.560"	W 082 55' 52.260"	27.59043	-82.93118	LNM 31/17, 7th Dist	175	11412_1	8/24/2017
 11412	Relocate	Johns Pass Channel Buoy 3	G C "3"	N 27 46' 37.651"	W 082 47' 19.546"	27.77712	-82.78876	LNM 24/17, 7th Dist	175	11412_1	6/29/2017
