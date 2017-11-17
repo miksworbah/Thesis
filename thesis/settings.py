@@ -172,7 +172,7 @@ LEAFLET_CONFIG = {
     'DEFAULT_CENTER': (29.56457, -78.57941),
     'DEFAULT_ZOOM': 6,
     'SCALE': 'both',
-    'ATTRIBUTION_PREFIX': 'Michael R. Rushin - MS Geoinformatics & Geospatial Intelligence',
+    'ATTRIBUTION_PREFIX': 'OpenTopoMap by Friedrich-Alexander University Erlangen-Nurnberg, under CC. OpenStreetMap contributors, NOAA Map Tiles from: Chart Tile Service NOAA ENC Online',
 }
 
 SITE_ID = 1
